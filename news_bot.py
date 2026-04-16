@@ -6,7 +6,8 @@ import hashlib
 from datetime import datetime, timezone, timedelta
 
 # ── 설정 ──────────────────────────────────────────────
-TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
+TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
+print(f"토큰 길이: {len(TELEGRAM_TOKEN)}")
 TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
 SEEN_FILE = "seen_links.json"
 KST = timezone(timedelta(hours=9))
