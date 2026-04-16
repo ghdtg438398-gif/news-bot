@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 02:45:30",
-  "total": 158,
-  "breaking": 120,
+  "updated": "2026-04-17 02:50:31",
+  "total": 159,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 열흘간 가출했던 ‘늑구’, 마취총 맞고 ‘꿈나라 귀가’… “건...",
+      "link": "https://www.dt.co.kr/article/12057930?ref=naver",
+      "pub_date": "2026-04-17T02:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 나스닥·S&P500 사상 최고치 경신…이스라엘·레바논 휴전 합의",
       "link": "https://news.mtn.co.kr/news-detail/2026041702153333763",
