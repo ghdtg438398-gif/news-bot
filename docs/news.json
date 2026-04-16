@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 00:40:37",
-  "total": 109,
-  "breaking": 72,
+  "updated": "2026-04-17 00:45:37",
+  "total": 113,
+  "breaking": 76,
   "items": [
+    {
+      "title": "[속보] 美 트럼프 \"이스라엘·레바논 10일 휴전\"…중동 긴장 완화 신호",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512500",
+      "pub_date": "2026-04-17T00:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 10일간 휴전\"",
+      "link": "https://www.newspim.com/news/view/20260417000003",
+      "pub_date": "2026-04-17T00:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘과 레바논 열흘간 휴전 합의\"",
+      "link": "https://www.news1.kr/world/usa-canada/6139481",
+      "pub_date": "2026-04-17T00:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417000600071?input=1195m",
+      "pub_date": "2026-04-17T00:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이정후 타순이 바뀌었다! 타율 .213에도 신뢰 굳건. 6번→5번 승격...",
       "link": "http://www.osen.co.kr/article/G1112783586",
