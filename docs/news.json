@@ -1,12 +1,39 @@
 {
-  "updated": "2026-04-16 21:40:15",
-  "total": 40,
-  "breaking": 22,
+  "updated": "2026-04-16 21:49:31",
+  "total": 45,
+  "breaking": 25,
   "items": [
     {
-      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
-      "link": "http://www.fnnews.com/news/202604162134043645",
-      "pub_date": "2026-04-16T21:37:00+09:00",
+      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개”",
+      "link": "https://www.sedaily.com/article/20033578?ref=naver",
+      "pub_date": "2026-04-16T21:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "통합돌봄 조례안 상임위 회부 목소리 확산",
+      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584775",
+      "pub_date": "2026-04-16T21:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美 국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269753",
+      "pub_date": "2026-04-16T21:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"국제 수역뿐 아니라 이란 영해서도 봉쇄 작전 펼치고 있어\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594850",
+      "pub_date": "2026-04-16T21:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -22,20 +49,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 케인 \"미군 봉쇄 초점은 호르무즈해협보다 이란 해안\"",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594846",
-      "pub_date": "2026-04-16T21:36:00+09:00",
+      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
+      "link": "http://www.fnnews.com/news/202604162134043645",
+      "pub_date": "2026-04-16T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美합참의장 “전 세계 미군 지휘관, 이란 선박 적극 추적할 것”",
-      "link": "https://www.chosun.com/international/us/2026/04/16/TUPVKNJ5IZHCNDZM5VVU7J2WDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -45,6 +63,33 @@
       "pub_date": "2026-04-16T21:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 케인 \"미군 봉쇄 초점은 호르무즈해협보다 이란 해안\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594846",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 침체 상권에 세금 혜택?…가 보니 ‘호텔·아파트’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538154&ref=A",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 美합참의장 “전 세계 미군 지휘관, 이란 선박 적극 추적할 것”",
+      "link": "https://www.chosun.com/international/us/2026/04/16/TUPVKNJ5IZHCNDZM5VVU7J2WDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,15 +238,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 헤그세스, \"낱낱이 지켜보고 있다, 너희는 우리와 상대가 안 된다...",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594836",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 민주당 경기도당, 수원 등 8곳 광역의원 후보 확정",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723131",
       "pub_date": "2026-04-16T21:18:00+09:00",
@@ -213,6 +249,15 @@
     {
       "title": "[속보]美국방 “이란 공격 재개 준비돼있어…현명한 선택 하라”",
       "link": "https://www.donga.com/news/Inter/article/all/20260416/133756873/1",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 헤그세스, \"낱낱이 지켜보고 있다, 너희는 우리와 상대가 안 된다...",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594836",
       "pub_date": "2026-04-16T21:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,6 +283,15 @@
       "is_scoop": true
     },
     {
+      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029690972&code=61131511&cp=nv",
+      "pub_date": "2026-04-16T21:17:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 美국방 \"이란이 합의 안 하면 전투 재개…필요한 만큼 봉쇄 유지...",
       "link": "https://www.news1.kr/world/usa-canada/6139444",
       "pub_date": "2026-04-16T21:17:00+09:00",
@@ -252,15 +306,6 @@
       "pub_date": "2026-04-16T21:17:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029690972&code=61131511&cp=nv",
-      "pub_date": "2026-04-16T21:17:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
