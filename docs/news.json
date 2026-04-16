@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 05:30:36",
+  "updated": "2026-04-17 05:35:32",
   "total": 200,
   "breaking": 151,
   "items": [
+    {
+      "title": "[단독] 피해 보험사가 사기범에 유리한 '양형서' 날인 논란",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417053000iDK",
+      "pub_date": "2026-04-17T05:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 뉴욕증시, 일제↑…S&P500·나스닥 이틀 연속 최고치",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170118&t=NN",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
-      "link": "https://www.news1.kr/world/usa-canada/6139499",
+      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
+      "link": "https://www.news1.kr/world/usa-canada/6139497",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
-      "link": "https://www.news1.kr/world/usa-canada/6139497",
+      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
+      "link": "https://www.news1.kr/world/usa-canada/6139499",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "기다리다 폐업 위기\"..산불 피해 소상공인 ‘사각지대’",
-      "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=201863&mode=view",
-      "pub_date": "2026-04-16T20:40:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
