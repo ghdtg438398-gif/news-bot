@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 08:40:31",
+  "updated": "2026-04-17 08:45:33",
   "total": 200,
-  "breaking": 126,
+  "breaking": 124,
   "items": [
+    {
+      "title": "'큰손' MS 탄소 제거 크레딧 구매 중단에 시장 '충격'…업계 긴장 확산",
+      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=15251",
+      "pub_date": "2026-04-17T08:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "Today's Pick : \"기름값 상한제? 에쓰오일 주가는 30% 뛸 것\"[마켓PRO]",
+      "link": "https://www.hankyung.com/article/202604177143i",
+      "pub_date": "2026-04-17T08:43:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이란 정권에 7억원 송금?…'미스 이란'도 오해한 인도적 지원",
+      "link": "https://www.yna.co.kr/view/AKR20260417020100371?input=1195m",
+      "pub_date": "2026-04-17T08:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "세븐틴 도겸X승관, 오늘(17일) 유닛 공연 포문",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568441",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '허위사실 유포 혐의' 전한길 구속영장 기각…\"증거인멸·도망 염...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5188613",
-      "pub_date": "2026-04-16T22:46:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길, 구속영장 기각…“증거인멸, 도주우려 없다”",
-      "link": "https://biz.heraldcorp.com/article/10719179?ref=naver",
-      "pub_date": "2026-04-16T22:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "진주시, '중동사태 고유가 위기 극복' 화물운송·교통분야 대책 본격 추...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3558994",
-      "pub_date": "2026-04-16T22:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
