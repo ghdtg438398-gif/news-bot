@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-17 00:55:47",
-  "total": 128,
-  "breaking": 91,
+  "updated": "2026-04-17 01:00:49",
+  "total": 130,
+  "breaking": 93,
   "items": [
     {
-      "title": "[속보] 트럼프, \"이스라엘-레바논 열흘 휴전 합의\"",
+      "title": "[속보] 트럼프 \"이스라엘-레바논과 훌륭한 대화...열흘 휴전 합의\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170056317229",
+      "pub_date": "2026-04-17T00:56:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "link": "https://biz.chosun.com/international/international_general/2026/04/17/QO3EDFCHFZCJNMUYBRPI6NMAAM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T00:56:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, “이스라엘-레바논 열흘 휴전 합의”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538329&ref=A",
       "pub_date": "2026-04-17T00:52:00+09:00",
       "source_id": "kbs",
@@ -22,11 +40,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "title": "[속보] 트럼프 “나의 10번째 전쟁 종식…이스라엘-레바논, 열흘 휴전 합...",
       "link": "https://www.seoul.co.kr/news/international/2026/04/17/20260417500004?wlog_tag3=naver",
       "pub_date": "2026-04-17T00:51:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394373",
+      "pub_date": "2026-04-17T00:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -49,27 +76,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394373",
-      "pub_date": "2026-04-17T00:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"이스라엘·레바논, 열흘 휴전 합의\"",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5188616",
       "pub_date": "2026-04-17T00:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.mk.co.kr/article/12019482",
-      "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
@@ -81,6 +90,15 @@
       "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "link": "https://www.mk.co.kr/article/12019482",
+      "pub_date": "2026-04-17T00:47:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,7 +175,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘간 휴전 합의”",
       "link": "https://www.joongang.co.kr/article/25420907",
       "pub_date": "2026-04-17T00:42:00+09:00",
       "source_id": "yna",
