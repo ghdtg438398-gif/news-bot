@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 07:05:33",
+  "updated": "2026-04-17 07:10:30",
   "total": 200,
   "breaking": 141,
   "items": [
+    {
+      "title": "[이슈 체크] 개별 손보, 1조 투입해야 생존…‘5대 손보’ 재편 시나리...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=203790",
+      "pub_date": "2026-04-17T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 베이루트 교외서 이-레바논 휴전 축하 시작중 총성 들려",
       "link": "https://www.newsis.com/view/NISX20260417_0003594947",
@@ -1789,15 +1798,6 @@
       "title": "너무 늦었지만, 지금부터라도",
       "link": "https://www.hani.co.kr/arti/culture/culture_general/1254617.html",
       "pub_date": "2026-04-16T21:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경남도, 중소기업 자금 2800억 조기 투입",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300405",
-      "pub_date": "2026-04-16T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
