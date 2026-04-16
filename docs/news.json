@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 06:40:31",
+  "updated": "2026-04-17 06:45:28",
   "total": 200,
   "breaking": 147,
   "items": [
@@ -58,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
+      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
+      "link": "https://www.etoday.co.kr/news/view/2576553",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
+      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
-      "pub_date": "2026-04-17T06:04:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
       "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
       "pub_date": "2026-04-17T06:04:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
+      "pub_date": "2026-04-17T06:04:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -157,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
-      "link": "https://www.kukinews.com/article/view/kuk202604160195",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "메트로경제 4월 17일자 한줄뉴스",
       "link": "http://www.metroseoul.co.kr/article/20260416500447",
       "pub_date": "2026-04-17T06:02:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
+      "link": "https://www.kukinews.com/article/view/kuk202604160195",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
