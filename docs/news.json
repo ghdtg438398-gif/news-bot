@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 01:20:30",
-  "total": 137,
-  "breaking": 100,
+  "updated": "2026-04-17 01:25:33",
+  "total": 140,
+  "breaking": 102,
   "items": [
+    {
+      "title": "[속보]트럼프 \"이스라엘·레바논 10일 휴전 합의…오늘 오후 5시 발효”",
+      "link": "https://news.mtn.co.kr/news-detail/2026041701192831687",
+      "pub_date": "2026-04-17T01:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"RIP\" 아스널 전 골키퍼 충격적 차량-열차 충돌 사고로 별세...향년 48세...",
+      "link": "https://www.sportschosun.com/football/2026-04-17/202604170100114710007344",
+      "pub_date": "2026-04-17T01:23:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700004.html",
+      "pub_date": "2026-04-17T01:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, '레바논·이스라엘 정상 백악관 회담' 제안",
       "link": "https://www.newsis.com/view/NISX20260417_0003594900",
@@ -40,7 +67,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"레바논-이스라엘 10일간 휴전\"",
+      "title": "[속보]트럼프 \"레바논-이스라엘 10일간 휴전\"...이란은 \"거짓\" 주장",
       "link": "https://www.hankyung.com/article/202604176862i",
       "pub_date": "2026-04-17T01:09:00+09:00",
       "source_id": "hankyung",
@@ -148,20 +175,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.mk.co.kr/article/12019482",
-      "pub_date": "2026-04-17T00:47:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417004617wlE",
       "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "link": "https://www.mk.co.kr/article/12019482",
+      "pub_date": "2026-04-17T00:47:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
