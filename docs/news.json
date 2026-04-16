@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 02:15:30",
-  "total": 156,
-  "breaking": 118,
+  "updated": "2026-04-17 02:20:34",
+  "total": 158,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 나스닥·S&P500 사상 최고치 경신…이스라엘·레바논 휴전 합의",
+      "link": "https://news.mtn.co.kr/news-detail/2026041702153333763",
+      "pub_date": "2026-04-17T02:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]늑구 열흘만 포획 성공…“오월드로 옮겨, 건강 이상 없어”",
+      "link": "https://www.munhwa.com/article/11582904?ref=naver",
+      "pub_date": "2026-04-17T02:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '탄식 남발' 아 이정후...! 첫 타석부터 삼진, 시작이 좋지 않다",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145517",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 탈출 늑대 '늑구', 대전 오월드로 무사귀환",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444785",
+      "title": "[속보] 늑구 포획 성공... \"오월드 복귀\"",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153309",
       "pub_date": "2026-04-17T01:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 늑구 포획 성공... \"오월드 복귀\"",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153309",
+      "title": "[속보] 탈출 늑대 '늑구', 대전 오월드로 무사귀환",
+      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444785",
       "pub_date": "2026-04-17T01:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,7 +130,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀…안영IC 인근서 발견\"",
+      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀…건강 상태 양호\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041701305621207",
       "pub_date": "2026-04-17T01:32:00+09:00",
       "source_id": "yna",
