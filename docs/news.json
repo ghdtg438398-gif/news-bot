@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 02:50:31",
-  "total": 159,
-  "breaking": 121,
+  "updated": "2026-04-17 02:55:33",
+  "total": 160,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 이정후 초대박! 또 터졌다...계약금만 137억 ML 투수 최고 유망주...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145522",
+      "pub_date": "2026-04-17T02:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 열흘간 가출했던 ‘늑구’, 마취총 맞고 ‘꿈나라 귀가’… “건...",
       "link": "https://www.dt.co.kr/article/12057930?ref=naver",
