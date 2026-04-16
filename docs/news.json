@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 06:20:38",
+  "updated": "2026-04-17 06:25:24",
   "total": 200,
   "breaking": 144,
   "items": [
@@ -22,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
+      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
+      "link": "https://www.etoday.co.kr/news/view/2576553",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
+      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,15 +103,6 @@
       "is_scoop": false
     },
     {
-      "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
-      "link": "https://www.kukinews.com/article/view/kuk202604160221",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 1차 종전 협상장 “18일부터 예약 불가”…“20명 수용 회의실서...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538384&ref=A",
       "pub_date": "2026-04-17T06:02:00+09:00",
@@ -121,11 +112,11 @@
       "is_scoop": true
     },
     {
-      "title": "메트로경제 4월 17일자 한줄뉴스",
-      "link": "http://www.metroseoul.co.kr/article/20260416500447",
+      "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
+      "link": "https://www.kukinews.com/article/view/kuk202604160221",
       "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -135,6 +126,15 @@
       "pub_date": "2026-04-17T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "메트로경제 4월 17일자 한줄뉴스",
+      "link": "http://www.metroseoul.co.kr/article/20260416500447",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": false,
       "is_scoop": false
     },
