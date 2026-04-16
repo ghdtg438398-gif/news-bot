@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-16 21:09:14",
-  "total": 49,
-  "breaking": 1,
+  "updated": "2026-04-16 21:31:04",
+  "total": 53,
+  "breaking": 2,
   "items": [
+    {
+      "title": "종전 협상 앞두고 이란 군사적 압박?…미, 차세대 폭격기 B-21 전면 공개",
+      "link": "https://www.mk.co.kr/news/world/12019407",
+      "pub_date": "2026-04-16T12:20:56+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“조센징” 욕설하며 택시기사 뺨 때린 일본인 관광객…다음날 출국",
+      "link": "https://www.mk.co.kr/news/society/12019406",
+      "pub_date": "2026-04-16T12:20:43+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 “이란 합의하지 않으면 전투작전 재개 준비돼 있어”",
+      "link": "https://www.mk.co.kr/news/world/12019403",
+      "pub_date": "2026-04-16T12:16:40+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“한 달 1500억씩 손해, 못 버텨”…항복 직전까지 간 사우디머니, 이유는",
+      "link": "https://www.mk.co.kr/news/world/12019398",
+      "pub_date": "2026-04-16T12:10:56+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "20대 새벽 길거리서 ‘묻지마 폭행’…50대 피해자 ‘영구 사지마비’",
       "link": "https://www.mk.co.kr/news/society/12019384",
