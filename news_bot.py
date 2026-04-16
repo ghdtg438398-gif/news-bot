@@ -1,12 +1,14 @@
-import feedparser
 import requests
 import json
 import os
 import hashlib
+import re
 from datetime import datetime, timezone, timedelta
 
 TELEGRAM_TOKEN = os.environ.get("TELEGRAM_TOKEN", "")
 TELEGRAM_CHAT_ID = os.environ.get("TELEGRAM_CHAT_ID", "")
+NAVER_CLIENT_ID = os.environ.get("NAVER_CLIENT_ID", "")
+NAVER_CLIENT_SECRET = os.environ.get("NAVER_CLIENT_SECRET", "")
 SEEN_FILE = "seen_links.json"
 NEWS_FILE = "docs/news.json"
 KST = timezone(timedelta(hours=9))
@@ -14,17 +16,19 @@ KST = timezone(timedelta(hours=9))
 BREAKING_KEYWORDS = ["[속보]", "속보", "[긴급]", "긴급"]
 SCOOP_KEYWORDS = ["[단독]", "단독"]
 
-RSS_FEEDS = [
-    {"id": "yna",      "name": "연합뉴스", "url": "https://www.yna.co.kr/RSS/news.xml"},
-    {"id": "ytn",      "name": "YTN",      "url": "https://www.ytn.co.kr/rss/rss.xml"},
-    {"id": "mbc",      "name": "MBC",      "url": "https://imnews.imbc.com/rss/news/news_00.xml"},
-    {"id": "kbs",      "name": "KBS",      "url": "https://world.kbs.co.kr/rss/rss_news.xml"},
-    {"id": "hankyung", "name": "한국경제", "url": "https://feeds.hankyung.com/articles/all.xml"},
-    {"id": "mk",       "name": "매일경제", "url": "https://www.mk.co.kr/rss/30000001/"},
-    {"id": "kmib",     "name": "국민일보", "url": "https://www.kmib.co.kr/rss/kmibRssAll.xml"},
-    {"id": "chosun",   "name": "조선일보", "url": "https://www.chosun.com/arc/outboundfeeds/rss/"},
-    {"id": "seoul",    "name": "서울신문", "url": "https://www.seoul.co.kr/xml/rss/rss_news.xml"},
+SOURCES = [
+    {"id": "yna",      "name": "연합뉴스", "query": "연합뉴스 속보"},
+    {"id": "ytn",      "name": "YTN",      "query": "YTN 속보"},
+    {"id": "mbc",      "name": "MBC",      "query": "MBC 뉴스 속보"},
+    {"id": "kbs",      "name": "KBS",      "query": "KBS 뉴스 속보"},
+    {"id": "hankyung", "name": "한국경제", "query": "한국경제 단독"},
+    {"id": "mk",       "name": "매일경제", "query": "매일경제 단독"},
+    {"id": "kmib",     "name": "국민일보", "query": "국민일보 속보"},
+    {"id": "chosun",   "name": "조선일보", "query": "조선일보 단독"},
+    {"id": "seoul",    "name": "서울신문", "query": "서울신문 속보"},
 ]
+
+BREAKING_QUERIES = ["속보", "단독 뉴스", "긴급 뉴스"]
 
 SOURCE_EMOJI = {
     "yna": "📰", "ytn": "📺", "mbc": "📺", "kbs": "📺",
@@ -37,6 +41,9 @@ def is_breaking(title):
 def is_scoop(title):
     return any(kw in title for kw in SCOOP_KEYWORDS)
 
+def strip_html(text):
+    return re.sub(r'<[^>]+>', '', text).replace('&amp;', '&').replace('&lt;', '<').replace('&gt;', '>').replace('&quot;', '"').replace('&#39;', "'").strip()
+
 def load_seen():
     if os.path.exists(SEEN_FILE):
         with open(SEEN_FILE) as f:
@@ -45,28 +52,22 @@ def load_seen():
 
 def save_seen(seen):
     with open(SEEN_FILE, "w") as f:
-        json.dump(list(seen)[-2000:], f)
+        json.dump(list(seen)[-3000:], f)
 
 def link_hash(link):
     return hashlib.md5(link.encode()).hexdigest()
-
-def parse_date(entry):
-    if hasattr(entry, "published_parsed") and entry.published_parsed:
-        return datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-    return datetime.now(timezone.utc)
 
 def send_telegram(text):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
-    payload = {
-        "chat_id": TELEGRAM_CHAT_ID,
-        "text": text,
-        "parse_mode": "HTML",
-        "disable_web_page_preview": True,
-    }
     try:
-        r = requests.post(url, json=payload, timeout=10)
+        r = requests.post(url, json={
+            "chat_id": TELEGRAM_CHAT_ID,
+            "text": text,
+            "parse_mode": "HTML",
+            "disable_web_page_preview": True,
+        }, timeout=10)
         r.raise_for_status()
     except Exception as e:
         print(f"텔레그램 전송 실패: {e}")
@@ -86,81 +87,139 @@ def format_message(item):
         f"<a href=\"{item['link']}\">기사 보기 →</a>"
     )
 
-def fetch_feed(feed):
+def naver_search(query, display=20):
+    if not NAVER_CLIENT_ID or not NAVER_CLIENT_SECRET:
+        print("네이버 API 키 없음")
+        return []
     try:
-        parsed = feedparser.parse(feed["url"])
-        items = []
-        cutoff = datetime.now(timezone.utc) - timedelta(hours=6)
-        for entry in parsed.entries[:30]:
-            title = entry.get("title", "").strip()
-            link = entry.get("link", "").strip()
-            if not title or not link:
+        r = requests.get(
+            "https://openapi.naver.com/v1/search/news.json",
+            params={"query": query, "display": display, "sort": "date"},
+            headers={
+                "X-Naver-Client-Id": NAVER_CLIENT_ID,
+                "X-Naver-Client-Secret": NAVER_CLIENT_SECRET,
+            },
+            timeout=10
+        )
+        if r.status_code != 200:
+            print(f"네이버 API 오류 [{query}]: {r.status_code} {r.text[:100]}")
+            return []
+        return r.json().get("items", [])
+    except Exception as e:
+        print(f"네이버 API 예외 [{query}]: {e}")
+        return []
+
+def detect_source(title, description, link):
+    text = (title + description + link).lower()
+    if "연합뉴스" in text or "yna.co.kr" in text: return "yna", "연합뉴스"
+    if "ytn" in text: return "ytn", "YTN"
+    if "mbc" in text or "imbc" in text: return "mbc", "MBC"
+    if "kbs" in text: return "kbs", "KBS"
+    if "한국경제" in text or "hankyung" in text: return "hankyung", "한국경제"
+    if "매일경제" in text or "mk.co.kr" in text: return "mk", "매일경제"
+    if "국민일보" in text or "kmib" in text: return "kmib", "국민일보"
+    if "조선일보" in text or "chosun" in text: return "chosun", "조선일보"
+    if "서울신문" in text or "seoul.co.kr" in text: return "seoul", "서울신문"
+    return "yna", "연합뉴스"
+
+def fetch_all_news():
+    all_items = []
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=1)
+    seen_links = set()
+
+    for src in SOURCES:
+        items = naver_search(src["query"], display=10)
+        print(f"[{src['id']}] {len(items)}개")
+        for item in items:
+            title = strip_html(item.get("title", ""))
+            link = item.get("originallink") or item.get("link", "")
+            if not title or not link or link in seen_links:
                 continue
-            pub_date = parse_date(entry)
+            try:
+                pub_date = datetime.strptime(item.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
+            except:
+                pub_date = datetime.now(timezone.utc)
             if pub_date < cutoff:
                 continue
-            items.append({
+            seen_links.add(link)
+            all_items.append({
                 "title": title,
                 "link": link,
                 "pub_date": pub_date.isoformat(),
-                "source_id": feed["id"],
-                "source_name": feed["name"],
+                "source_id": src["id"],
+                "source_name": src["name"],
                 "is_breaking": is_breaking(title),
                 "is_scoop": is_scoop(title),
             })
-        return items
-    except Exception as e:
-        print(f"[{feed['id']}] RSS 수집 실패: {e}")
-        return []
+
+    for query in BREAKING_QUERIES:
+        items = naver_search(query, display=20)
+        print(f"[{query}] {len(items)}개")
+        for item in items:
+            title = strip_html(item.get("title", ""))
+            link = item.get("originallink") or item.get("link", "")
+            if not title or not link or link in seen_links:
+                continue
+            try:
+                pub_date = datetime.strptime(item.get("pubDate",""), "%a, %d %b %Y %H:%M:%S %z")
+            except:
+                pub_date = datetime.now(timezone.utc)
+            if pub_date < cutoff:
+                continue
+            src_id, src_name = detect_source(title, item.get("description",""), link)
+            seen_links.add(link)
+            all_items.append({
+                "title": title,
+                "link": link,
+                "pub_date": pub_date.isoformat(),
+                "source_id": src_id,
+                "source_name": src_name,
+                "is_breaking": is_breaking(title),
+                "is_scoop": is_scoop(title),
+            })
+
+    all_items.sort(key=lambda x: x["pub_date"], reverse=True)
+    return all_items
 
 def load_existing_news():
     if os.path.exists(NEWS_FILE):
         with open(NEWS_FILE) as f:
-            data = json.load(f)
-            return data.get("items", [])
+            return json.load(f).get("items", [])
     return []
 
-def save_news(all_items):
+def save_news(items):
     os.makedirs("docs", exist_ok=True)
-    cutoff = (datetime.now(timezone.utc) - timedelta(hours=6)).isoformat()
-    filtered = [i for i in all_items if i["pub_date"] > cutoff]
+    cutoff = (datetime.now(timezone.utc) - timedelta(hours=1)).isoformat()
+    filtered = [i for i in items if i["pub_date"] > cutoff]
     filtered.sort(key=lambda x: x["pub_date"], reverse=True)
     filtered = filtered[:200]
-    data = {
-        "updated": datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S"),
-        "total": len(filtered),
-        "breaking": sum(1 for i in filtered if i["is_breaking"]),
-        "items": filtered
-    }
     with open(NEWS_FILE, "w", encoding="utf-8") as f:
-        json.dump(data, f, ensure_ascii=False, indent=2)
-    print(f"news.json 저장 완료: {len(filtered)}개")
+        json.dump({
+            "updated": datetime.now(KST).strftime("%Y-%m-%d %H:%M:%S"),
+            "total": len(filtered),
+            "breaking": sum(1 for i in filtered if i["is_breaking"]),
+            "items": filtered
+        }, f, ensure_ascii=False, indent=2)
+    print(f"news.json 저장: {len(filtered)}개")
 
 def main():
     seen = load_seen()
-    new_items = []
-    all_fresh = []
+    fresh = fetch_all_news()
 
-    for feed in RSS_FEEDS:
-        items = fetch_feed(feed)
-        all_fresh.extend(items)
-        for item in items:
-            h = link_hash(item["link"])
-            if h not in seen:
-                seen.add(h)
-                new_items.append(item)
+    new_count = 0
+    for item in fresh:
+        h = link_hash(item["link"])
+        if h not in seen:
+            seen.add(h)
+            new_count += 1
+            if item["is_breaking"] or item["is_scoop"]:
+                send_telegram(format_message(item))
 
-    # 텔레그램: 속보만 전송
-    new_items.sort(key=lambda x: (not x["is_breaking"], x["pub_date"]))
-    print(f"신규 기사 {len(new_items)}개 발견")
-    for item in new_items:
-        if item["is_breaking"] or item["is_scoop"]:
-            send_telegram(format_message(item))
+    print(f"신규 기사 {new_count}개")
 
-    # JSON 저장: 기존 + 신규 병합
     existing = load_existing_news()
-    seen_links = {i["link"] for i in all_fresh}
-    merged = all_fresh + [i for i in existing if i["link"] not in seen_links]
+    fresh_links = {i["link"] for i in fresh}
+    merged = fresh + [i for i in existing if i["link"] not in fresh_links]
     save_news(merged)
     save_seen(seen)
 
