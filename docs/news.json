@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 06:45:28",
+  "updated": "2026-04-17 06:50:33",
   "total": 200,
   "breaking": 147,
   "items": [
+    {
+      "title": "(속보) 이스라엘·레바논, 10일간 휴전 합의…美 트럼프 \"17일 오전 6시부...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182088",
+      "pub_date": "2026-04-17T06:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이스라엘-레바논 10일 간 임시 휴전",
+      "link": "https://magazine.hankyung.com/business/article/202604176966b",
+      "pub_date": "2026-04-17T06:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[N2 모닝 경제 브리핑-4월 17일] 美증시, 중동 휴전 소식에 일제히 상승...",
+      "link": "https://www.news2day.co.kr/article/20260416500055",
+      "pub_date": "2026-04-17T06:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 탈출 늑대 '늑구' 9일 만에 생포… 체온·맥박 정상",
       "link": "https://www.hankookilbo.com/news/article/A2026041706160003943?did=NA",
@@ -58,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
+      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
+      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
+      "link": "https://www.etoday.co.kr/news/view/2576553",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,15 +166,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 1차 종전 협상장 “18일부터 예약 불가”…“20명 수용 회의실서...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538384&ref=A",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
       "link": "https://www.kukinews.com/article/view/kuk202604160221",
       "pub_date": "2026-04-17T06:02:00+09:00",
@@ -155,6 +173,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 1차 종전 협상장 “18일부터 예약 불가”…“20명 수용 회의실서...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538384&ref=A",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "메트로경제 4월 17일자 한줄뉴스",
@@ -1771,33 +1798,6 @@
       "title": "'후라도 7이닝 1실점' 삼성, 한화 꺾고 6연승 선두 질주",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16036759",
       "pub_date": "2026-04-16T21:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"폰으로 머리 세게 때리는게 어딨냐\"…'양주 3살 사망' 친모, 친...",
-      "link": "https://www.imaeil.com/page/view/2026041619113309452",
-      "pub_date": "2026-04-16T21:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260416.99099004900",
-      "pub_date": "2026-04-16T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고양 관산동 공장서 화재...장비 27대 투입 '대응 1단계' 발령",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559092",
-      "pub_date": "2026-04-16T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
