@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 08:30:37",
+  "updated": "2026-04-17 08:35:31",
   "total": 200,
-  "breaking": 130,
+  "breaking": 129,
   "items": [
+    {
+      "title": "구윤철 \"차량용 요소·요소수 4월말 공공비축분 방출 추진\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410099",
+      "pub_date": "2026-04-17T08:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"헤즈볼라 바르게 행동하면 위대한 순간…살육 더 없어야...",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417082651xNv",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-16T22:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘李 명예훼손’ 전한길 구속영장 기각",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691214&code=61121311&cp=nv",
-      "pub_date": "2026-04-16T22:43:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     }
