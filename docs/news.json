@@ -1,8 +1,125 @@
 {
-  "updated": "2026-04-16 22:35:28",
-  "total": 52,
-  "breaking": 27,
+  "updated": "2026-04-16 22:40:42",
+  "total": 65,
+  "breaking": 40,
   "items": [
+    {
+      "title": "[속보] 법원, ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
+      "link": "https://www.sedaily.com/article/20033585?ref=naver",
+      "pub_date": "2026-04-16T22:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전한길 구속영장 기각…법원 “증거인멸, 도주우려 없어”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524527",
+      "pub_date": "2026-04-16T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘李대통령 명예훼손’ 혐의 전한길, 구속영장 기각",
+      "link": "https://www.donga.com/news/Politics/article/all/20260416/133757148/1",
+      "pub_date": "2026-04-16T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '李대통령·이준석 명예훼손' 혐의 전한길 구속영장 기각",
+      "link": "https://www.news1.kr/society/court-prosecution/6139463",
+      "pub_date": "2026-04-16T22:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이 대통령 명예훼손' 전한길 구속영장 기각…\"증거인멸 도망 염...",
+      "link": "https://news.jtbc.co.kr/article/NB12294576?influxDiv=NAVER",
+      "pub_date": "2026-04-16T22:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '허위사실 유포' 전한길 구속영장 기각",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604162237239192",
+      "pub_date": "2026-04-16T22:37:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이재명·이준석 명예훼손' 전한길 구속 면했다",
+      "link": "https://www.hankookilbo.com/news/article/A2026041610370002276?did=NA",
+      "pub_date": "2026-04-16T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전한길 구속영장 기각",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538305&ref=A",
+      "pub_date": "2026-04-16T22:36:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.yna.co.kr/view/AKR20260416161000004?input=1195m",
+      "pub_date": "2026-04-16T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]법원, '이재명 대통령 명예훼손' 전한길 구속영장 기각",
+      "link": "https://www.mt.co.kr/society/2026/04/16/2026041615175246709",
+      "pub_date": "2026-04-16T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'이재명·이준석 명예훼손' 전한길 구속영장 기각",
+      "link": "https://view.asiae.co.kr/article/2026041622354567183",
+      "pub_date": "2026-04-16T22:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]법원, '李대통령 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594830",
+      "pub_date": "2026-04-16T22:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '李 대통령 명예훼손' 전한길, 구속영장 기각",
+      "link": "http://www.fnnews.com/news/202604162001301800",
+      "pub_date": "2026-04-16T22:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[AI상보] 삼성, 한화 6-1로 꺾고 파죽의 6연승...단독 1위 질주",
       "link": "https://www.newspim.com/news/view/20260416001396",
