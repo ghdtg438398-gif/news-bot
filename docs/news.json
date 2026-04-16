@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-17 01:40:36",
-  "total": 146,
-  "breaking": 108,
+  "updated": "2026-04-17 01:45:31",
+  "total": 148,
+  "breaking": 110,
   "items": [
     {
-      "title": "[속보] 대전시 “늑구 생포 완료, 오월드 복귀”",
+      "title": "[속보] 탈출 늑대 '늑구', 대전오월드로 돌아왔다",
+      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444785",
+      "pub_date": "2026-04-17T01:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 늑구 포획 성공... \"오월드 복귀\"",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153309",
+      "pub_date": "2026-04-17T01:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 “늑구 생포 완료, 오월드 복귀… 체온·맥박 정상”",
       "link": "https://biz.chosun.com/topics/topics_social/2026/04/17/6TOEQLUEIJBKXLLPRL5BHXLKIY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-17T01:39:00+09:00",
       "source_id": "chosun",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
-      "link": "https://www.joongang.co.kr/article/25420912",
+      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
       "pub_date": "2026-04-17T01:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
+      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
+      "link": "https://www.joongang.co.kr/article/25420912",
       "pub_date": "2026-04-17T01:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
