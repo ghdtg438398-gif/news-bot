@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 06:25:24",
+  "updated": "2026-04-17 06:30:34",
   "total": 200,
-  "breaking": 144,
+  "breaking": 145,
   "items": [
+    {
+      "title": "[속보] 이스라엘-레바논 10일 간 임시 휴전 돌입",
+      "link": "https://news.jtbc.co.kr/article/NB12294593?influxDiv=NAVER",
+      "pub_date": "2026-04-17T06:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국제유가, 급등...WTI 3.72%↑",
       "link": "https://www.etoday.co.kr/news/view/2576554",
@@ -67,20 +76,20 @@
       "is_scoop": false
     },
     {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
-      "pub_date": "2026-04-17T06:04:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
       "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
       "pub_date": "2026-04-17T06:04:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
+      "pub_date": "2026-04-17T06:04:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
     {
       "title": "6연승 좋아요",
       "link": "https://www.news1.kr/photos/7860435",
-      "pub_date": "2026-04-16T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "6연승 잘했어",
-      "link": "https://www.news1.kr/photos/7860431",
       "pub_date": "2026-04-16T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
