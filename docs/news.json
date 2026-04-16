@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 05:40:30",
+  "updated": "2026-04-17 05:45:33",
   "total": 200,
   "breaking": 151,
   "items": [
+    {
+      "title": "술취한 여성 부축해 사무실로 데려갔다가 체포된 30대 석방",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521631&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T05:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 피해 보험사가 사기범에 유리한 '양형서' 날인 논란",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260417053000iDK",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"다음 협상 주말에 할수도\"…뉴욕증시, 상승 마감",
-      "link": "https://view.asiae.co.kr/article/2026041705030367417",
+      "title": "[속보] 뉴욕 증시, 중동 긴장완화 기대 속 상승 마감…나스닥 0.36%↑",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594918",
       "pub_date": "2026-04-17T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕 증시, 중동 긴장완화 기대 속 상승 마감…나스닥 0.36%↑",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594918",
+      "title": "[속보]트럼프 \"다음 협상 주말에 할수도\"…뉴욕증시, 상승 마감",
+      "link": "https://view.asiae.co.kr/article/2026041705030367417",
       "pub_date": "2026-04-17T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 남부지방·제주 비 서울 낮 20도...주말,주간...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44336",
+      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
+      "link": "https://www.news1.kr/world/usa-canada/6139499",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
-      "link": "https://www.news1.kr/world/usa-canada/6139499",
+      "title": "[기상속보]오늘날씨 출근길 남부지방·제주 비 서울 낮 20도...주말,주간...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44336",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
-      "link": "https://www.news1.kr/politics/assembly/6139433",
+      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
+      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
+      "link": "https://www.news1.kr/politics/assembly/6139433",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[데일리안 오늘뉴스 종합] [단독] 정원오 구청장 땐 멀쩡했던 '도이치모...",
-      "link": "https://www.dailian.co.kr/news/view/1634582/?sc=Naver",
-      "pub_date": "2026-04-16T20:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
