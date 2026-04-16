@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 00:25:31",
-  "total": 107,
-  "breaking": 70,
+  "updated": "2026-04-17 00:30:37",
+  "total": 108,
+  "breaking": 71,
   "items": [
+    {
+      "title": "[속보] 이스라엘 관리 \"이르면 16일 내 레바논 휴전 발표할 수도\" -로이...",
+      "link": "https://www.news1.kr/world/middleeast-africa/6139480",
+      "pub_date": "2026-04-17T00:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "LGU+, '천원의 사랑'으로 시각장애인 가구에 긴급 의료비 지원",
       "link": "https://www.apnews.kr/news/articleView.html?idxno=3047922",
