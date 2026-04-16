@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 02:00:43",
-  "total": 153,
-  "breaking": 115,
+  "updated": "2026-04-17 02:05:35",
+  "total": 154,
+  "breaking": 116,
   "items": [
+    {
+      "title": "[속보] 레바논 총리, '이스라엘과 휴전' 트럼프 발표 환영",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170158592907",
+      "pub_date": "2026-04-17T01:58:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 대전 오월드 동물원 탈출 늑대 '늑구' 생포...동물원으로 복귀",
       "link": "https://www.ytn.co.kr/_ln/0115_202604170153121221",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘늑구’ 9일 만에 생포 성공…건강 이상 없어",
-      "link": "https://www.joongang.co.kr/article/25420912",
+      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
       "pub_date": "2026-04-17T01:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
+      "title": "[속보] ‘늑구’ 9일 만에 생포 성공…건강 이상 없어",
+      "link": "https://www.joongang.co.kr/article/25420912",
       "pub_date": "2026-04-17T01:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
