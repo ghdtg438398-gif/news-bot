@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 08:35:31",
+  "updated": "2026-04-17 08:40:31",
   "total": 200,
-  "breaking": 129,
+  "breaking": 126,
   "items": [
+    {
+      "title": "세븐틴 도겸X승관, 오늘(17일) 유닛 공연 포문",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568441",
+      "pub_date": "2026-04-17T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 헤즈볼라 향해 \"중요한 시기에 온건하게 행동하라\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02604326645417104",
+      "pub_date": "2026-04-17T08:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "외교부, 알제리·리비아와 원유 공급 협의…에너지 협력 확대",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538530&ref=A",
+      "pub_date": "2026-04-17T08:37:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] \"골프 치고 술접대 받고\"…해경서장도 유착 정황",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188652",
+      "pub_date": "2026-04-17T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "구윤철 \"차량용 요소·요소수 4월말 공공비축분 방출 추진\"",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410099",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '명예훼손 혐의' 전한길 구속영장 기각‥\"증거인멸·도망 염려 없...",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6815848_36918.html",
-      "pub_date": "2026-04-16T22:45:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, 전한길 구속영장 기각…\"증거인멸·도주우려 인정 어려워...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604160596&t=NN",
-      "pub_date": "2026-04-16T22:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '이재명·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06560006645416776",
-      "pub_date": "2026-04-16T22:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041622424166926",
-      "pub_date": "2026-04-16T22:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
