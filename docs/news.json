@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 05:10:34",
-  "total": 196,
-  "breaking": 148,
+  "updated": "2026-04-17 05:15:48",
+  "total": 198,
+  "breaking": 149,
   "items": [
+    {
+      "title": "[속보] 넷플릭스 호실적에도 회장 사임 발표에 10% 폭락",
+      "link": "https://www.news1.kr/world/usa-canada/6139500",
+      "pub_date": "2026-04-17T05:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[우보세]금융, 부동산과 헤어질 결심",
+      "link": "https://www.mt.co.kr/finance/2026/04/17/2026041609381868106",
+      "pub_date": "2026-04-17T05:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]S&P·나스닥 이틀연속 최고치…‘불안한 랠리’",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01718726645417104",
@@ -103,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
-      "link": "https://www.news1.kr/politics/assembly/6139433",
+      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
+      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
+      "link": "https://www.news1.kr/politics/assembly/6139433",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
