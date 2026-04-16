@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 06:05:33",
+  "updated": "2026-04-17 06:10:29",
   "total": 200,
-  "breaking": 147,
+  "breaking": 145,
   "items": [
+    {
+      "title": "LG유플러스 유심 교체 대란…IMSI 위험성 실체는 [이슈 더보기]",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549902",
+      "pub_date": "2026-04-17T06:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
+      "pub_date": "2026-04-17T06:04:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 노동부, 산재 R&D 전문기관으로 산업안전보건공단 지정",
       "link": "https://www.segye.com/newsView/20260416524670?OutUrl=naver",
@@ -31,20 +49,20 @@
       "is_scoop": false
     },
     {
-      "title": "메트로경제 4월 17일자 한줄뉴스",
-      "link": "http://www.metroseoul.co.kr/article/20260416500447",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
       "link": "https://www.kukinews.com/article/view/kuk202604160195",
       "pub_date": "2026-04-17T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "메트로경제 4월 17일자 한줄뉴스",
+      "link": "http://www.metroseoul.co.kr/article/20260416500447",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보] 민주당 경기도당, 수원 등 8곳 광역의원 후보 확정",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723131",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美국방 “이란 공격 재개 준비돼있어…현명한 선택 하라”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260416/133756873/1",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 헤그세스, \"낱낱이 지켜보고 있다, 너희는 우리와 상대가 안 된다...",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594836",
       "pub_date": "2026-04-16T21:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
