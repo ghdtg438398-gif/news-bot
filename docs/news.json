@@ -1,14 +1,14 @@
 {
-  "updated": "2026-04-17 01:00:49",
-  "total": 130,
-  "breaking": 93,
+  "updated": "2026-04-17 01:05:42",
+  "total": 131,
+  "breaking": 94,
   "items": [
     {
-      "title": "[속보] 트럼프 \"이스라엘-레바논과 훌륭한 대화...열흘 휴전 합의\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170056317229",
-      "pub_date": "2026-04-17T00:56:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "title": "[속보]트럼프 “이스라엘·레바논, 열흘 휴전 합의”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260417/133757400/1",
+      "pub_date": "2026-04-17T01:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -18,6 +18,15 @@
       "pub_date": "2026-04-17T00:56:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논과 훌륭한 대화...열흘 휴전 합의\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170056317229",
+      "pub_date": "2026-04-17T00:56:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -86,6 +95,15 @@
     },
     {
       "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170047245458",
+      "pub_date": "2026-04-17T00:47:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417004617wlE",
       "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "yna",
@@ -99,15 +117,6 @@
       "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170047245458",
-      "pub_date": "2026-04-17T00:47:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘과 레바논 열흘간 휴전 합의\"",
-      "link": "https://www.news1.kr/world/usa-canada/6139481",
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘간 휴전 합의”",
+      "link": "https://www.joongang.co.kr/article/25420907",
       "pub_date": "2026-04-17T00:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘간 휴전 합의”",
-      "link": "https://www.joongang.co.kr/article/25420907",
+      "title": "[속보] 트럼프 \"이스라엘과 레바논 열흘간 휴전 합의\"",
+      "link": "https://www.news1.kr/world/usa-canada/6139481",
       "pub_date": "2026-04-17T00:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
