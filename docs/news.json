@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 08:45:33",
+  "updated": "2026-04-17 08:50:31",
   "total": 200,
-  "breaking": 124,
+  "breaking": 122,
   "items": [
+    {
+      "title": "트럼프 저격 받는 가운데…교황 형 자택에 '폭탄 설치' 신고",
+      "link": "https://www.hankyung.com/article/2026041771637",
+      "pub_date": "2026-04-17T08:47:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한국도 참석...호르무즈 통항위한 영·프 주도 40개국 정상회의 개...",
+      "link": "https://magazine.hankyung.com/business/article/202604177268b",
+      "pub_date": "2026-04-17T08:45:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
+      "link": "https://www.dailian.co.kr/news/view/1634638/?sc=Naver",
+      "pub_date": "2026-04-17T08:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'큰손' MS 탄소 제거 크레딧 구매 중단에 시장 '충격'…업계 긴장 확산",
       "link": "https://www.esgeconomy.com/news/articleView.html?idxno=15251",
@@ -13,7 +40,7 @@
       "is_scoop": false
     },
     {
-      "title": "Today's Pick : \"기름값 상한제? 에쓰오일 주가는 30% 뛸 것\"[마켓PRO]",
+      "title": "Today's Pick : \"기름값 상한제? 에쓰오일 주가는 30% 뛸 것\" [마켓PRO]",
       "link": "https://www.hankyung.com/article/202604177143i",
       "pub_date": "2026-04-17T08:43:00+09:00",
       "source_id": "hankyung",
@@ -144,6 +171,15 @@
       "pub_date": "2026-04-17T08:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스UP] 이스라엘·레바논 \"열흘 휴전\"...미·이란, 주말 '2차 협상' 하...",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170807229416",
+      "pub_date": "2026-04-17T08:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보] 법원, '李·이준석 명예훼손 혐의' 전한길 구속영장 기각",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260416225450uWm",
       "pub_date": "2026-04-16T22:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이재명·이준석 명예훼손 혐의' 전한길 구속영장 기각···\"증거...",
-      "link": "https://dgmbc.com/NewsArticle/835562",
-      "pub_date": "2026-04-16T22:53:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기각",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260416.99099004906",
-      "pub_date": "2026-04-16T22:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369889",
-      "pub_date": "2026-04-16T22:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "https://www.imaeil.com/page/view/2026041622432184378",
-      "pub_date": "2026-04-16T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
