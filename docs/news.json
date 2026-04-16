@@ -1,8 +1,323 @@
 {
-  "updated": "2026-04-16 21:37:12",
-  "total": 5,
-  "breaking": 1,
+  "updated": "2026-04-16 21:40:15",
+  "total": 40,
+  "breaking": 22,
   "items": [
+    {
+      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
+      "link": "http://www.fnnews.com/news/202604162134043645",
+      "pub_date": "2026-04-16T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 케인, \"우리 봉쇄 보고 13척 되돌아가…아직 강제승선 안 해\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594849",
+      "pub_date": "2026-04-16T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 케인 \"미군 봉쇄 초점은 호르무즈해협보다 이란 해안\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594846",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美합참의장 “전 세계 미군 지휘관, 이란 선박 적극 추적할 것”",
+      "link": "https://www.chosun.com/international/us/2026/04/16/TUPVKNJ5IZHCNDZM5VVU7J2WDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 \"이란 합의 안하면 전투작전 재개할 최상 태세\"",
+      "link": "http://www.inews24.com/view/1961034",
+      "pub_date": "2026-04-16T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美국방 “이란 공격 재개 준비돼있어…현명한 선택 하라”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260416/133757009/1",
+      "pub_date": "2026-04-16T21:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'후라도 7이닝 1실점' 삼성, 한화 꺾고 6연승 선두 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16036759",
+      "pub_date": "2026-04-16T21:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"폰으로 머리 세게 때리는게 어딨냐\"…'양주 3살 사망' 친모, 친...",
+      "link": "https://www.imaeil.com/page/view/2026041619113309452",
+      "pub_date": "2026-04-16T21:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260416.99099004900",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "고양 관산동 공장서 화재...장비 27대 투입 '대응 1단계' 발령",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559092",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "6연승 잘했어",
+      "link": "https://www.news1.kr/photos/7860433",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "삼서의 연승은 계속 이어진다.!",
+      "link": "https://www.news1.kr/photos/7860434",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "6연승 좋아요",
+      "link": "https://www.news1.kr/photos/7860435",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "6연승 잘했어",
+      "link": "https://www.news1.kr/photos/7860431",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "6연승 좋아",
+      "link": "https://www.news1.kr/photos/7860432",
+      "pub_date": "2026-04-16T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"봉쇄 보복으로 맞은편 상선 때리는 것은 작전이 아닌 해적질\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594843",
+      "pub_date": "2026-04-16T21:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 나랏돈 노리며 불완전판매 행태도…단속·관리는 ‘공백’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538134&ref=A",
+      "pub_date": "2026-04-16T21:25:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] \"우리는 해군력 10%로 봉쇄 펼치는 중…너희 해군은 없어\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594840",
+      "pub_date": "2026-04-16T21:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "청주 가스 폭발사고 피해 주민들 `복구 막막'",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902448",
+      "pub_date": "2026-04-16T21:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604160565&t=NN",
+      "pub_date": "2026-04-16T21:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 \"이란이 합의 안 하면 전투 재개…필요한 만큼 봉쇄 유지...",
+      "link": "https://www.newspim.com/news/view/20260416001389",
+      "pub_date": "2026-04-16T21:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 헤그세스, \"낱낱이 지켜보고 있다, 너희는 우리와 상대가 안 된다...",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594836",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 경기도당, 수원 등 8곳 광역의원 후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723131",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美국방 “이란 공격 재개 준비돼있어…현명한 선택 하라”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260416/133756873/1",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'LP가스 폭발' 복구 돕고 긴급 지원 나섰지만‥ 배상은 '막막'",
+      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260416&SEQUENCE=4231",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]\"지독한 냄새 났는데 업체가 경보기 떼\"..입 연 식당 업주",
+      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260416&SEQUENCE=4230",
+      "pub_date": "2026-04-16T21:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 美국방 \"이란이 합의 안 하면 전투 재개…필요한 만큼 봉쇄 유지...",
+      "link": "https://www.news1.kr/world/usa-canada/6139444",
+      "pub_date": "2026-04-16T21:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 “이란 합의하지 않으면 전투작전 재개 준비돼 있어”",
+      "link": "https://www.mk.co.kr/article/12019403",
+      "pub_date": "2026-04-16T21:17:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029690972&code=61131511&cp=nv",
+      "pub_date": "2026-04-16T21:17:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 \"이란은 선택 잘해야…미군, 재공격 전력 갖추고 있어\"",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594833",
+      "pub_date": "2026-04-16T21:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[R]“기다리다 폐업 위기\"..산불 피해 소상공인 ‘사각지대’",
+      "link": "http://andongmbc.co.kr/adboard/NewsView81974",
+      "pub_date": "2026-04-16T21:14:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041621120071383",
+      "pub_date": "2026-04-16T21:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "여야정, \"중동사태 제도적 뒷받침\" 한 목소리",
+      "link": "https://news.mtn.co.kr/news-detail/2026041620542257844",
+      "pub_date": "2026-04-16T20:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[데일리안 오늘뉴스 종합] [단독] 정원오 구청장 땐 멀쩡했던 '도이치모...",
+      "link": "https://www.dailian.co.kr/news/view/1634582/?sc=Naver",
+      "pub_date": "2026-04-16T20:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "기다리다 폐업 위기\"..산불 피해 소상공인 ‘사각지대’",
+      "link": "http://www.phmbc.co.kr/www/news/desk_news?idx=201863&mode=view",
+      "pub_date": "2026-04-16T20:40:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "종전 협상 앞두고 이란 군사적 압박?…미, 차세대 폭격기 B-21 전면 공개",
       "link": "https://www.mk.co.kr/news/world/12019407",
