@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 00:10:41",
-  "total": 105,
-  "breaking": 69,
+  "updated": "2026-04-17 00:15:35",
+  "total": 106,
+  "breaking": 70,
   "items": [
+    {
+      "title": "LGU+, '천원의 사랑'으로 시각장애인 가구에 긴급 의료비 지원",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3047922",
+      "pub_date": "2026-04-17T00:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "강원도, 지역 농자재 수급 불안정에 비상대책반 가동",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045237",
