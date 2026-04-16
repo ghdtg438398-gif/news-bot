@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 06:00:43",
+  "updated": "2026-04-17 06:05:33",
   "total": 200,
-  "breaking": 151,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[단독] 노동부, 산재 R&D 전문기관으로 산업안전보건공단 지정",
+      "link": "https://www.segye.com/newsView/20260416524670?OutUrl=naver",
+      "pub_date": "2026-04-17T06:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 이스라엘-레바논 10일간 휴전 발효...\"美-이란 2차협상에 긍정적...",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=10202",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
+      "link": "https://www.kukinews.com/article/view/kuk202604160221",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "메트로경제 4월 17일자 한줄뉴스",
+      "link": "http://www.metroseoul.co.kr/article/20260416500447",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
+      "link": "https://www.kukinews.com/article/view/kuk202604160195",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'첨단산업 특성화대학 성과교류회'에서 우수 성과 공유",
+      "link": "https://www.nocutnews.co.kr/news/6503672?utm_source=naver&utm_medium=article&utm_campaign=20260417060136",
+      "pub_date": "2026-04-17T06:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '이태원참사 마약테러설' 60대, '서울대 프락치 사건' 주동자였다",
+      "link": "https://www.news1.kr/society/court-prosecution/6139368",
+      "pub_date": "2026-04-17T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 오월드 탈출한 늑구 열흘 만에 생포, 무사히 복귀",
       "link": "https://www.news1.kr/local/daejeon-chungnam/6139485",
@@ -40,7 +103,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 뉴욕증시, 일제↑…S&P500·나스닥 이틀 연속 최고치",
+      "title": "[속보] 미국-이란 협상 기대…S&P500·나스닥 이틀연속 최고치",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170118&t=NN",
       "pub_date": "2026-04-17T05:26:00+09:00",
       "source_id": "yna",
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'LP가스 폭발' 복구 돕고 긴급 지원 나섰지만‥ 배상은 '막막'",
-      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260416&SEQUENCE=4231",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]\"지독한 냄새 났는데 업체가 경보기 떼\"..입 연 식당 업주",
-      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260416&SEQUENCE=4230",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개 준비돼 있어”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029690972&code=61131511&cp=nv",
-      "pub_date": "2026-04-16T21:17:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란이 합의 안 하면 전투 재개…필요한 만큼 봉쇄 유지...",
-      "link": "https://www.news1.kr/world/usa-canada/6139444",
-      "pub_date": "2026-04-16T21:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 “이란 합의하지 않으면 전투작전 재개 준비돼 있어”",
-      "link": "https://www.mk.co.kr/article/12019403",
-      "pub_date": "2026-04-16T21:17:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란은 선택 잘해야…미군, 재공격 전력 갖추고 있어\"",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594833",
-      "pub_date": "2026-04-16T21:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[R]“기다리다 폐업 위기\"..산불 피해 소상공인 ‘사각지대’",
-      "link": "http://andongmbc.co.kr/adboard/NewsView81974",
-      "pub_date": "2026-04-16T21:14:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
