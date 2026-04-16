@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 07:10:30",
+  "updated": "2026-04-17 07:15:31",
   "total": 200,
   "breaking": 141,
   "items": [
+    {
+      "title": "이스라엘·레바논 '열흘 휴전' 합의…미국·이란 2차 협상에 '청신호'",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188637",
+      "pub_date": "2026-04-17T07:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[이슈 체크] 개별 손보, 1조 투입해야 생존…‘5대 손보’ 재편 시나리...",
       "link": "https://www.tfmedia.co.kr/news/article.html?no=203790",
@@ -220,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
+      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
+      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
+      "link": "https://www.etoday.co.kr/news/view/2576553",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1789,15 +1798,6 @@
       "title": "\"무소속 출마 응원\" 김관영 지사 지지 화환 훼손…경찰 수사",
       "link": "https://www.nocutnews.co.kr/news/6503856?utm_source=naver&utm_medium=article&utm_campaign=20260416095632",
       "pub_date": "2026-04-16T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "너무 늦었지만, 지금부터라도",
-      "link": "https://www.hani.co.kr/arti/culture/culture_general/1254617.html",
-      "pub_date": "2026-04-16T21:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
