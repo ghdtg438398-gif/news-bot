@@ -1,14 +1,41 @@
 {
-  "updated": "2026-04-17 01:45:31",
-  "total": 148,
-  "breaking": 110,
+  "updated": "2026-04-17 01:50:34",
+  "total": 151,
+  "breaking": 113,
   "items": [
     {
-      "title": "[속보] 탈출 늑대 '늑구', 대전오월드로 돌아왔다",
+      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
+      "link": "https://www.segye.com/newsView/20260417500821?OutUrl=naver",
+      "pub_date": "2026-04-17T01:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 \"늑구 생포 후 무사히 오월드 복귀\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294579?influxDiv=NAVER",
+      "pub_date": "2026-04-17T01:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 탈출 늑대 '늑구', 대전 오월드로 무사귀환",
       "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444785",
       "pub_date": "2026-04-17T01:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6815869_36918.html",
+      "pub_date": "2026-04-17T01:42:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -40,7 +67,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
+      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀…안영IC 인근서 발견\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041701305621207",
       "pub_date": "2026-04-17T01:32:00+09:00",
       "source_id": "yna",
