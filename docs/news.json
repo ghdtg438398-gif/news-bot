@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 00:30:37",
-  "total": 108,
-  "breaking": 71,
+  "updated": "2026-04-17 00:35:34",
+  "total": 109,
+  "breaking": 72,
   "items": [
+    {
+      "title": "[속보] 이정후 타순이 바뀌었다! 타율 .213에도 신뢰 굳건. 6번→5번 승격...",
+      "link": "http://www.osen.co.kr/article/G1112783586",
+      "pub_date": "2026-04-17T00:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이스라엘 관리 \"이르면 16일 내 레바논 휴전 발표할 수도\" -로이...",
       "link": "https://www.news1.kr/world/middleeast-africa/6139480",
