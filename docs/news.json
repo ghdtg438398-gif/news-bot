@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 05:35:32",
+  "updated": "2026-04-17 05:40:30",
   "total": 200,
   "breaking": 151,
   "items": [
@@ -130,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
-      "link": "https://www.news1.kr/world/usa-canada/6139497",
+      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
+      "link": "https://www.news1.kr/world/usa-canada/6139499",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
-      "link": "https://www.news1.kr/world/usa-canada/6139499",
+      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
+      "link": "https://www.news1.kr/world/usa-canada/6139497",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
