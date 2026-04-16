@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 07:40:31",
+  "updated": "2026-04-17 07:45:29",
   "total": 200,
-  "breaking": 141,
+  "breaking": 138,
   "items": [
+    {
+      "title": "'대충격' 송성문, 마이너리그 잔류 확정…샌디에이고 마이너 옵션 사용...",
+      "link": "https://www.mhnse.com/news/articleView.html?idxno=528936",
+      "pub_date": "2026-04-17T07:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 17일 굿모닝 MBN 이 시각 주요뉴스",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188640",
+      "pub_date": "2026-04-17T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'입 연' 남욱 \"가족 사진 보여주며 '목표는 하나'\"",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815924_37012.html",
+      "pub_date": "2026-04-17T07:36:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란, 거의 모든 것 동의…주말에 다음협상 할수도\"",
       "link": "https://magazine.hankyung.com/business/article/202604177013b",
@@ -1770,33 +1797,6 @@
     {
       "title": "[속보] 법원, ‘李 대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538305&ref=A",
-      "pub_date": "2026-04-16T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이재명·이준석 명예훼손' 전한길 구속 면했다",
-      "link": "https://www.hankookilbo.com/news/article/A2026041610370002276?did=NA",
-      "pub_date": "2026-04-16T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "https://www.yna.co.kr/view/AKR20260416161000004?input=1195m",
-      "pub_date": "2026-04-16T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '이재명 대통령 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.mt.co.kr/society/2026/04/16/2026041615175246709",
       "pub_date": "2026-04-16T22:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
