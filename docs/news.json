@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 07:45:29",
+  "updated": "2026-04-17 07:50:31",
   "total": 200,
-  "breaking": 138,
+  "breaking": 137,
   "items": [
+    {
+      "title": "[뉴욕증시] '열흘 휴전' 리스크 완화…이틀 연속 사상 최고치",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521707&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'대충격' 송성문, 마이너리그 잔류 확정…샌디에이고 마이너 옵션 사용...",
       "link": "https://www.mhnse.com/news/articleView.html?idxno=528936",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
-      "link": "https://www.etnews.com/20260417000017",
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "link": "https://www.etnews.com/20260417000019",
       "pub_date": "2026-04-17T07:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.etnews.com/20260417000019",
+      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
+      "link": "https://www.etnews.com/20260417000017",
       "pub_date": "2026-04-17T07:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1789,15 +1798,6 @@
       "title": "[속보] '이 대통령 명예훼손' 전한길 구속영장 기각…\"증거인멸 도망 염...",
       "link": "https://news.jtbc.co.kr/article/NB12294576?influxDiv=NAVER",
       "pub_date": "2026-04-16T22:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘李 대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538305&ref=A",
-      "pub_date": "2026-04-16T22:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
