@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 06:10:29",
+  "updated": "2026-04-17 06:15:34",
   "total": 200,
-  "breaking": 145,
+  "breaking": 143,
   "items": [
+    {
+      "title": "[속보] 이스라엘-레바논, 열흘 간 휴전 합의 발효",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559183",
+      "pub_date": "2026-04-17T06:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈인터뷰]정신동 KB금융연구소장 \"韓 경제 공급충격 직면…에너지·...",
+      "link": "https://view.asiae.co.kr/article/2026041616171095498",
+      "pub_date": "2026-04-17T06:10:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "LG유플러스 유심 교체 대란…IMSI 위험성 실체는 [이슈 더보기]",
       "link": "https://www.ngetnews.com/news/articleView.html?idxno=549902",
@@ -38,6 +56,15 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 1차 종전 협상장 “18일부터 예약 불가”…“20명 수용 회의실서...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538384&ref=A",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604160565&t=NN",
-      "pub_date": "2026-04-16T21:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란이 합의 안 하면 전투 재개…필요한 만큼 봉쇄 유지...",
-      "link": "https://www.newspim.com/news/view/20260416001389",
-      "pub_date": "2026-04-16T21:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 경기도당, 수원 등 8곳 광역의원 후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723131",
-      "pub_date": "2026-04-16T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
