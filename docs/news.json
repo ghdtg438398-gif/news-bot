@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 00:00:41",
-  "total": 100,
-  "breaking": 68,
+  "updated": "2026-04-17 00:05:38",
+  "total": 103,
+  "breaking": 69,
   "items": [
+    {
+      "title": "울산, 서울전 '3643일 안방 무패' 깨졌다",
+      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054260",
+      "pub_date": "2026-04-17T00:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "LIV 골프, 7조원 쓰고도 흥행난조…끝나지 않는 위기",
+      "link": "https://www.joongang.co.kr/article/25420854",
+      "pub_date": "2026-04-17T00:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]대전 탈출 늑대 '늑구' 수색 9일째…드론 수색",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568389",
+      "pub_date": "2026-04-17T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]전한길, 구속영장 기각…李대통령·이준석 명예훼손 혐의",
       "link": "https://www.munhwa.com/article/11582891?ref=naver",
