@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 03:45:31",
-  "total": 177,
+  "updated": "2026-04-17 03:50:29",
+  "total": 178,
   "breaking": 136,
   "items": [
+    {
+      "title": "남자골프 개막전 첫날부터 '박빙'…최승빈·전가람·최찬·이상엽 공동...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019792",
+      "pub_date": "2026-04-17T03:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "네타냐후, 트럼프의 ‘레바논 휴전’ 발표 직후 안보 내각 긴급 소집",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538364&ref=A",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과 합의 근접, 이번 주말 2차 담판 가능성”",
-      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
+      "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
+      "link": "https://www.news1.kr/world/usa-canada/6139491",
       "pub_date": "2026-04-17T03:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
-      "link": "https://www.news1.kr/world/usa-canada/6139491",
+      "title": "[속보] 트럼프 “이란과 합의 근접, 이번 주말 2차 담판 가능성”",
+      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
       "pub_date": "2026-04-17T03:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
