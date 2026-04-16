@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 07:15:31",
+  "updated": "2026-04-17 07:20:30",
   "total": 200,
   "breaking": 141,
   "items": [
+    {
+      "title": "[단독] '열일' 신혜선, 차차기작까지…'대쉬' 긍정 검토",
+      "link": "https://www.xportsnews.com/article/2137688",
+      "pub_date": "2026-04-17T07:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "이스라엘·레바논 '열흘 휴전' 합의…미국·이란 2차 협상에 '청신호'",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188637",
@@ -1792,15 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"무소속 출마 응원\" 김관영 지사 지지 화환 훼손…경찰 수사",
-      "link": "https://www.nocutnews.co.kr/news/6503856?utm_source=naver&utm_medium=article&utm_campaign=20260416095632",
-      "pub_date": "2026-04-16T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
