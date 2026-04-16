@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 07:55:27",
+  "updated": "2026-04-17 08:00:38",
   "total": 200,
-  "breaking": 137,
+  "breaking": 136,
   "items": [
+    {
+      "title": "“대구 사람은 이재명을 박정희로 생각한다” 주재 기자가 전하는 민심...",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57747",
+      "pub_date": "2026-04-17T07:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[뉴욕증시] '열흘 휴전' 리스크 완화…이틀 연속 사상 최고치",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521707&plink=ORI&cooper=NAVER",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-16T22:37:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이 대통령 명예훼손' 전한길 구속영장 기각…\"증거인멸 도망 염...",
-      "link": "https://news.jtbc.co.kr/article/NB12294576?influxDiv=NAVER",
-      "pub_date": "2026-04-16T22:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
