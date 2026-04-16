@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 03:10:30",
-  "total": 164,
-  "breaking": 125,
+  "updated": "2026-04-17 03:15:36",
+  "total": 169,
+  "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"다음 협상 주말에 열릴 수도…휴전 연장 필요없어\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594909",
+      "pub_date": "2026-04-17T03:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과의 다음 협상 주말에 열릴 수도\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417031110ah6",
+      "pub_date": "2026-04-17T03:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전에 헤즈볼라 포함\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170309493613",
+      "pub_date": "2026-04-17T03:09:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란과 다음 협상 주말에 열릴 수도\"",
+      "link": "https://view.asiae.co.kr/article/2026041703092659254",
+      "pub_date": "2026-04-17T03:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
+      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
+      "pub_date": "2026-04-17T03:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
       "link": "https://www.news1.kr/world/usa-canada/6139491",
