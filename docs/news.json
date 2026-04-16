@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 02:10:32",
-  "total": 155,
-  "breaking": 117,
+  "updated": "2026-04-17 02:15:30",
+  "total": 156,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] '탄식 남발' 아 이정후...! 첫 타석부터 삼진, 시작이 좋지 않다",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145517",
+      "pub_date": "2026-04-17T02:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 대전오월드 탈출 ‘늑구’ 9일 만에 무사히 포획",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691739&code=61121111&cp=nv",
@@ -67,20 +76,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대전 오월드 탈출 늑대 '늑구' 열흘 만에 생포",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6815869_36918.html",
-      "pub_date": "2026-04-17T01:42:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 늑구 포획 성공... \"오월드 복귀\"",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153309",
       "pub_date": "2026-04-17T01:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전 오월드 탈출 늑대 '늑구' 열흘 만에 생포",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6815869_36918.html",
+      "pub_date": "2026-04-17T01:42:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -112,7 +121,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘늑구’ 9일 만에 생포 성공…건강 이상 없어",
+      "title": "[속보] ‘늑구’ 9일 만에 생포 성공, 오월드 복귀…건강 이상 없어",
       "link": "https://www.joongang.co.kr/article/25420912",
       "pub_date": "2026-04-17T01:30:00+09:00",
       "source_id": "yna",
