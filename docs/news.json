@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 08:50:31",
+  "updated": "2026-04-17 08:55:30",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
+    {
+      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=203802",
+      "pub_date": "2026-04-17T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "트럼프 저격 받는 가운데…교황 형 자택에 '폭탄 설치' 신고",
       "link": "https://www.hankyung.com/article/2026041771637",
@@ -13,20 +22,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한국도 참석...호르무즈 통항위한 영·프 주도 40개국 정상회의 개...",
-      "link": "https://magazine.hankyung.com/business/article/202604177268b",
-      "pub_date": "2026-04-17T08:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
       "link": "https://www.dailian.co.kr/news/view/1634638/?sc=Naver",
       "pub_date": "2026-04-17T08:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한국도 참석...호르무즈 통항위한 영·프 주도 40개국 정상회의 개...",
+      "link": "https://magazine.hankyung.com/business/article/202604177268b",
+      "pub_date": "2026-04-17T08:45:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1789,15 +1798,6 @@
       "title": "[속보] 법원, 전한길 구속영장 기각…증거인멸·도주우려 인정 안 해",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521525&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-16T22:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '李·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260416225450uWm",
-      "pub_date": "2026-04-16T22:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
