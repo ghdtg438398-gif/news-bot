@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 08:05:27",
+  "updated": "2026-04-17 08:10:33",
   "total": 200,
-  "breaking": 134,
+  "breaking": 133,
   "items": [
+    {
+      "title": "미·이란 종전 논의 다시 급물살…이번 주말 2차 회담 분수령",
+      "link": "https://www.nocutnews.co.kr/news/6503888?utm_source=naver&utm_medium=article&utm_campaign=20260417080837",
+      "pub_date": "2026-04-17T08:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 美증시 이틀째 신고가 … 삼전·하닉 프리장 '주춤', 현대차 2%대...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700027.html",
+      "pub_date": "2026-04-17T08:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[GAM]高유가·高물가·高금리 살아남으려면 ② 5가지 섹터 ETF 톱픽",
       "link": "https://www.newspim.com/news/view/20260416000866",
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보] 법원, ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
       "link": "https://www.dt.co.kr/article/12057922?ref=naver",
-      "pub_date": "2026-04-16T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길 구속영장 기각…法 “증거인멸-도망 염려 없어”",
-      "link": "https://www.donga.com/news/Politics/article/all/20260416/133757148/1",
-      "pub_date": "2026-04-16T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길 구속영장 기각…법원 “증거인멸, 도주우려 없어”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524527",
       "pub_date": "2026-04-16T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
