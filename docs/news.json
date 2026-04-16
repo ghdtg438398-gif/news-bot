@@ -1,0 +1,247 @@
+{
+  "updated": "2026-04-16 18:17:16",
+  "total": 30,
+  "breaking": 2,
+  "items": [
+    {
+      "title": "[iR52 장영실상] 자동차 차체, 레고블록처럼 마음대로 조립",
+      "link": "https://www.mk.co.kr/news/it/12019249",
+      "pub_date": "2026-04-16T09:16:19+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "벌써 여름 더위가",
+      "link": "https://www.mk.co.kr/news/society/12019248",
+      "pub_date": "2026-04-16T09:15:56+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "수석 보좌관 회의 주재하는 이재명 대통령",
+      "link": "https://www.mk.co.kr/news/politics/12019247",
+      "pub_date": "2026-04-16T09:13:42+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "국가바이오혁신위원회 출범...바이오 정책 총괄 민관 진두지휘",
+      "link": "https://www.mk.co.kr/news/it/12019244",
+      "pub_date": "2026-04-16T09:13:13+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "현직 대통령으로 첫 세월호 기억식 참석한 이재명 대통령",
+      "link": "https://www.mk.co.kr/news/politics/12019242",
+      "pub_date": "2026-04-16T09:11:43+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "[단독] “여기선 현금 쓰면 손해보는 느낌”…편의점 각종 할인 ‘페이’에 몰린다",
+      "link": "https://www.mk.co.kr/news/business/12019241",
+      "pub_date": "2026-04-16T09:09:19+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true
+    },
+    {
+      "title": "엔비디아보다 3년 빨라...韓, 22년전 ‘AI GPU시대’ 논문 썼다",
+      "link": "https://www.mk.co.kr/news/it/12019240",
+      "pub_date": "2026-04-16T09:07:58+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "韓 신약 파이프라인 10년 만에 2배...4년 안에 ‘K신약 시대’ 연다",
+      "link": "https://www.mk.co.kr/news/it/12019239",
+      "pub_date": "2026-04-16T09:05:47+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "[표] 외국환율고시표",
+      "link": "https://www.mk.co.kr/news/economy/12019236",
+      "pub_date": "2026-04-16T09:04:07+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "자본규제 풀어…금융권 대출여력 100조 확대",
+      "link": "https://www.mk.co.kr/news/economy/12019237",
+      "pub_date": "2026-04-16T09:04:07+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "[단독] 국민銀, 새만금 수상태양광 사업에 1240억 조달",
+      "link": "https://www.mk.co.kr/news/economy/12019238",
+      "pub_date": "2026-04-16T09:04:07+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true
+    },
+    {
+      "title": "산은·수은, 석유공사 지원 … 원유 확보에 30억달러 공급",
+      "link": "https://www.mk.co.kr/news/economy/12019234",
+      "pub_date": "2026-04-16T09:04:06+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "주택연금 해지건수 4년來 최다 … 집값상승 기대감에 가입자 외면",
+      "link": "https://www.mk.co.kr/news/economy/12019235",
+      "pub_date": "2026-04-16T09:04:06+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "높아진 종전 기대감에 S&P·나스닥 사상최고",
+      "link": "https://www.mk.co.kr/news/stock/12019231",
+      "pub_date": "2026-04-16T09:03:55+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "칼라일 한국대표에 정익수",
+      "link": "https://www.mk.co.kr/news/stock/12019232",
+      "pub_date": "2026-04-16T09:03:55+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "스페이스X 간접투자 효과 … 에코스타 올해 20%↑",
+      "link": "https://www.mk.co.kr/news/stock/12019229",
+      "pub_date": "2026-04-16T09:03:54+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "\"韓, 반도체부터 방산·조선·로봇株 매력\"",
+      "link": "https://www.mk.co.kr/news/stock/12019230",
+      "pub_date": "2026-04-16T09:03:54+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "골드만삭스, 월배당 비트코인 ETF 출시",
+      "link": "https://www.mk.co.kr/news/stock/12019227",
+      "pub_date": "2026-04-16T09:03:53+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "휴전 끝나자마자 700여발 대규모 공습…러 공격에 우크라 16명 사망",
+      "link": "https://www.mk.co.kr/news/world/12019224",
+      "pub_date": "2026-04-16T09:02:32+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "미국투자이민 EB-5 통한 영주권, “대학 이후가 더 중요”…유학생 전략 재편 흐름",
+      "link": "https://www.mk.co.kr/news/business/12019101",
+      "pub_date": "2026-04-16T09:00:00+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "“돌봄 공백, AI가 메운다”...정부, 전 주기 지원 로드맵 마련",
+      "link": "https://www.mk.co.kr/news/it/12019103",
+      "pub_date": "2026-04-16T09:00:00+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "동부건설, 400억 원 규모 전환사채 발행",
+      "link": "https://www.mk.co.kr/news/stock/12019221",
+      "pub_date": "2026-04-16T08:58:21+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "모아라이프플러스, 50억 원 규모 전환사채 발행",
+      "link": "https://www.mk.co.kr/news/stock/12019222",
+      "pub_date": "2026-04-16T08:58:21+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "[포토] 대한항공 일등석 라운지 확 달라졌네",
+      "link": "https://www.mk.co.kr/news/business/12019219",
+      "pub_date": "2026-04-16T08:58:00+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "한화솔루션 獨 전시회 참가 … 초고압 케이블로 유럽 공략",
+      "link": "https://www.mk.co.kr/news/business/12019220",
+      "pub_date": "2026-04-16T08:58:00+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "\"플라스틱 대신 바이오 소재로\" 현대모비스 신소재 부품 속도",
+      "link": "https://www.mk.co.kr/news/economy/12019216",
+      "pub_date": "2026-04-16T08:57:59+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "LG화학, 첨단소재 특허 보호 '초강수'",
+      "link": "https://www.mk.co.kr/news/business/12019218",
+      "pub_date": "2026-04-16T08:57:59+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "국내 최대용량 친환경 변압기 … HD현대일렉트릭 제작 성공",
+      "link": "https://www.mk.co.kr/news/business/12019217",
+      "pub_date": "2026-04-16T08:57:59+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "\"적과 동침\"…OLED 게임모니터 세계1등 수성",
+      "link": "https://www.mk.co.kr/news/business/12019214",
+      "pub_date": "2026-04-16T08:57:58+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    },
+    {
+      "title": "\"위법한 파업 막아달라\" 삼성전자 가처분 신청",
+      "link": "https://www.mk.co.kr/news/business/12019215",
+      "pub_date": "2026-04-16T08:57:58+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false
+    }
+  ]
+}
