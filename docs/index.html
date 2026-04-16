@@ -23,6 +23,9 @@
   .badge:hover { border-color: #aaa; }
   .badge.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
   .badge.red.active { background: #e24b4a; border-color: #e24b4a; }
+  .badge.blue.active { background: #1d4ed8; border-color: #1d4ed8; }
+  .news-item.scoop { border-left: 3px solid #1d4ed8; }
+  .scoop-tag { font-size: 10px; font-weight: 600; color: #1d4ed8; background: #dbeafe; padding: 1px 6px; border-radius: 3px; }
   .container { max-width: 900px; margin: 0 auto; padding: 16px; }
   .news-list { display: flex; flex-direction: column; gap: 8px; }
   .news-item { background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 12px 16px; display: flex; gap: 12px; text-decoration: none; color: inherit; transition: border-color 0.15s, box-shadow 0.15s; }
@@ -66,6 +69,7 @@
     <div class="stats">
       <div class="stat"><div class="stat-val" id="s-total">—</div><div class="stat-label">총 기사</div></div>
       <div class="stat"><div class="stat-val red" id="s-breaking">—</div><div class="stat-label">속보</div></div>
+      <div class="stat"><div class="stat-val" style="color:#1d4ed8" id="s-scoop">—</div><div class="stat-label">단독</div></div>
     </div>
     <span class="countdown" id="countdown"></span>
     <button class="refresh-btn" onclick="loadNews()">↻</button>
@@ -75,6 +79,7 @@
 <div class="filters">
   <span class="badge active" data-src="all">전체</span>
   <span class="badge red" data-src="breaking-only">🔴 속보만</span>
+  <span class="badge blue" data-src="scoop-only">🔵 단독만</span>
   <span class="badge" data-src="yna">연합뉴스</span>
   <span class="badge" data-src="ytn">YTN</span>
   <span class="badge" data-src="mbc">MBC</span>
@@ -110,27 +115,33 @@ function render() {
   const list = document.getElementById('news-list');
   let items = allItems;
   if (activeFilter === 'breaking-only') items = items.filter(i => i.is_breaking);
+  else if (activeFilter === 'scoop-only') items = items.filter(i => i.is_scoop);
   else if (activeFilter !== 'all') items = items.filter(i => i.source_id === activeFilter);
 
   document.getElementById('s-total').textContent = allItems.length;
   document.getElementById('s-breaking').textContent = allItems.filter(i => i.is_breaking).length;
+  document.getElementById('s-scoop').textContent = allItems.filter(i => i.is_scoop).length;
 
   if (!items.length) {
     list.innerHTML = '<div class="empty">표시할 뉴스가 없습니다</div>';
     return;
   }
 
-  list.innerHTML = items.map(item => `
-    <a class="news-item${item.is_breaking ? ' breaking' : ''}" href="${item.link}" target="_blank" rel="noopener">
+  list.innerHTML = items.map(item => {
+    const cls = item.is_breaking ? ' breaking' : item.is_scoop ? ' scoop' : '';
+    return `
+    <a class="news-item${cls}" href="${item.link}" target="_blank" rel="noopener">
       <span class="source-tag src-${item.source_id}">${SOURCE_NAMES[item.source_id] || item.source_id}</span>
       <div class="news-content">
         <div class="news-title">${item.title}</div>
         <div class="news-footer">
           ${item.is_breaking ? '<span class="breaking-tag">속보</span>' : ''}
+          ${item.is_scoop ? '<span class="scoop-tag">단독</span>' : ''}
           <span class="news-time">${timeAgo(item.pub_date)}</span>
         </div>
       </div>
-    </a>`).join('');
+    </a>`;
+  }).join('');
 }
 
 async function loadNews() {
