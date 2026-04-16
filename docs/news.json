@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 08:25:29",
+  "updated": "2026-04-17 08:30:37",
   "total": 200,
   "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"헤즈볼라 바르게 행동하면 위대한 순간…살육 더 없어야...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417082651xNv",
+      "pub_date": "2026-04-17T08:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417082603S8k",
+      "pub_date": "2026-04-17T08:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[아침저널] 차규근 \"국힘은 무정부주의자? 국가 최고 증거기관이 리호남...",
       "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4078897",
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-16T22:43:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '李대통령·이준석 명예훼손 혐의' 전한길, 구속영장 기각",
-      "link": "https://www.kyeonggi.com/article/20260416580700",
-      "pub_date": "2026-04-16T22:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/16/20260416500291?wlog_tag3=naver",
-      "pub_date": "2026-04-16T22:40:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
