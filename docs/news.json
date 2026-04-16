@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 06:35:26",
+  "updated": "2026-04-17 06:40:31",
   "total": 200,
-  "breaking": 145,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 탈출 늑대 '늑구' 9일 만에 생포… 체온·맥박 정상",
+      "link": "https://www.hankookilbo.com/news/article/A2026041706160003943?did=NA",
+      "pub_date": "2026-04-17T06:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]대전 탈출 늑대 '늑구', 마취 장비 활용해 안전 포획…열흘간 이...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568423",
+      "pub_date": "2026-04-17T06:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "업비트만 웃고 나머진 비상…5분 잔고대조 의무화 후폭풍",
+      "link": "https://www.newspim.com/news/view/20260416001232",
+      "pub_date": "2026-04-17T06:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이스라엘-레바논 10일 간 임시 휴전 돌입",
       "link": "https://news.jtbc.co.kr/article/NB12294593?influxDiv=NAVER",
@@ -76,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
-      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
-      "pub_date": "2026-04-17T06:04:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
       "pub_date": "2026-04-17T06:04:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
+      "pub_date": "2026-04-17T06:04:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -130,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "메트로경제 4월 17일자 한줄뉴스",
-      "link": "http://www.metroseoul.co.kr/article/20260416500447",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
       "link": "https://www.kukinews.com/article/view/kuk202604160195",
       "pub_date": "2026-04-17T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "메트로경제 4월 17일자 한줄뉴스",
+      "link": "http://www.metroseoul.co.kr/article/20260416500447",
+      "pub_date": "2026-04-17T06:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1770,33 +1797,6 @@
     {
       "title": "고양 관산동 공장서 화재...장비 27대 투입 '대응 1단계' 발령",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559092",
-      "pub_date": "2026-04-16T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "6연승 잘했어",
-      "link": "https://www.news1.kr/photos/7860433",
-      "pub_date": "2026-04-16T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "삼서의 연승은 계속 이어진다.!",
-      "link": "https://www.news1.kr/photos/7860434",
-      "pub_date": "2026-04-16T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "6연승 좋아요",
-      "link": "https://www.news1.kr/photos/7860435",
       "pub_date": "2026-04-16T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
