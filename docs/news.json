@@ -1,14 +1,77 @@
 {
-  "updated": "2026-04-16 22:40:42",
-  "total": 65,
-  "breaking": 40,
+  "updated": "2026-04-16 22:45:38",
+  "total": 73,
+  "breaking": 48,
   "items": [
     {
-      "title": "[속보] 법원, ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
+      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041622424166926",
+      "pub_date": "2026-04-16T22:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기각",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691214&code=61121311&cp=nv",
+      "pub_date": "2026-04-16T22:43:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '李대통령·이준석 명예훼손 혐의' 전한길, 구속영장 기각",
+      "link": "https://www.kyeonggi.com/article/20260416580700",
+      "pub_date": "2026-04-16T22:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/16/20260416500291?wlog_tag3=naver",
+      "pub_date": "2026-04-16T22:40:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
+      "link": "https://www.joongang.co.kr/article/25420835",
+      "pub_date": "2026-04-16T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '李대통령 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.dailian.co.kr/news/view/1634587/?sc=Naver",
+      "pub_date": "2026-04-16T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기각",
       "link": "https://www.sedaily.com/article/20033585?ref=naver",
       "pub_date": "2026-04-16T22:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, ‘이 대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
+      "link": "https://www.mk.co.kr/article/12019451",
+      "pub_date": "2026-04-16T22:39:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -31,18 +94,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '李대통령·이준석 명예훼손' 혐의 전한길 구속영장 기각",
-      "link": "https://www.news1.kr/society/court-prosecution/6139463",
-      "pub_date": "2026-04-16T22:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이 대통령 명예훼손' 전한길 구속영장 기각…\"증거인멸 도망 염...",
-      "link": "https://news.jtbc.co.kr/article/NB12294576?influxDiv=NAVER",
-      "pub_date": "2026-04-16T22:37:00+09:00",
+      "title": "[속보] 법원, ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기...",
+      "link": "https://www.dt.co.kr/article/12057922?ref=naver",
+      "pub_date": "2026-04-16T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -58,20 +112,29 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '이재명·이준석 명예훼손' 전한길 구속 면했다",
-      "link": "https://www.hankookilbo.com/news/article/A2026041610370002276?did=NA",
-      "pub_date": "2026-04-16T22:36:00+09:00",
+      "title": "[속보] '이 대통령 명예훼손' 전한길 구속영장 기각…\"증거인멸 도망 염...",
+      "link": "https://news.jtbc.co.kr/article/NB12294576?influxDiv=NAVER",
+      "pub_date": "2026-04-16T22:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 전한길 구속영장 기각",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538305&ref=A",
+      "title": "[속보] '李대통령·이준석 명예훼손' 혐의 전한길 구속영장 기각",
+      "link": "https://www.news1.kr/society/court-prosecution/6139463",
+      "pub_date": "2026-04-16T22:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이재명·이준석 명예훼손' 전한길 구속 면했다",
+      "link": "https://www.hankookilbo.com/news/article/A2026041610370002276?did=NA",
       "pub_date": "2026-04-16T22:36:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -90,6 +153,15 @@
       "pub_date": "2026-04-16T22:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전한길 구속영장 기각",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538305&ref=A",
+      "pub_date": "2026-04-16T22:36:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,15 +238,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 美국방장관 “이란이 합의 안하면 전투작전 재개”",
-      "link": "https://magazine.hankyung.com/business/article/202604166781b",
-      "pub_date": "2026-04-16T22:01:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]\"尹사랑\" 노래하던 '정교유착' 교회…관계자 21명 무더기 고발",
       "link": "https://www.nocutnews.co.kr/news/6503826?utm_source=naver&utm_medium=article&utm_campaign=20260416100032",
       "pub_date": "2026-04-16T22:01:00+09:00",
@@ -182,6 +245,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 美국방장관 “이란이 합의 안하면 전투작전 재개”",
+      "link": "https://magazine.hankyung.com/business/article/202604166781b",
+      "pub_date": "2026-04-16T22:01:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "\"무소속 출마 응원\" 김관영 지사 지지 화환 훼손…경찰 수사",
