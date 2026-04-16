@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 06:55:27",
+  "updated": "2026-04-17 07:00:40",
   "total": 200,
-  "breaking": 147,
+  "breaking": 146,
   "items": [
+    {
+      "title": "[속보] 레바논-이스라엘 휴전발효 즉시 베이루트 남부에서 포성",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594944",
+      "pub_date": "2026-04-17T06:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"머리 손상 사망‥장 출혈도\"‥'학대 치사' 검토",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815904_37012.html",
+      "pub_date": "2026-04-17T06:52:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '늑구' 열흘 만에 생포 성공…건강 이상 없어",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790031.html",
+      "pub_date": "2026-04-17T06:50:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "(속보) 이스라엘·레바논, 10일간 휴전 합의…美 트럼프 \"17일 오전 6시부...",
       "link": "http://www.kdfnews.com/news/articleView.html?idxno=182088",
@@ -11,6 +38,15 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538403&ref=A",
+      "pub_date": "2026-04-17T06:48:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]이스라엘-레바논 10일 간 임시 휴전",
@@ -139,20 +175,20 @@
       "is_scoop": false
     },
     {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
-      "pub_date": "2026-04-17T06:04:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"이르면 주말 2차 협상‥이스라엘·레바논 휴전\"",
       "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815882_37012.html",
       "pub_date": "2026-04-17T06:04:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538385&ref=A",
+      "pub_date": "2026-04-17T06:04:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보] 美국방 \"이란 합의 안하면 전투작전 재개할 최상 태세\"",
       "link": "http://www.inews24.com/view/1961034",
       "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 케인 \"미군 봉쇄 초점은 호르무즈해협보다 이란 해안\"",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594846",
-      "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 침체 상권에 세금 혜택?…가 보니 ‘호텔·아파트’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538154&ref=A",
-      "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 美합참의장 “전 세계 미군 지휘관, 이란 선박 적극 추적할 것”",
-      "link": "https://www.chosun.com/international/us/2026/04/16/TUPVKNJ5IZHCNDZM5VVU7J2WDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美국방 “이란 공격 재개 준비돼있어…현명한 선택 하라”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260416/133757009/1",
-      "pub_date": "2026-04-16T21:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
