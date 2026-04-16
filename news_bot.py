@@ -11,7 +11,8 @@ SEEN_FILE = "seen_links.json"
 NEWS_FILE = "docs/news.json"
 KST = timezone(timedelta(hours=9))
 
-BREAKING_KEYWORDS = ["[속보]", "속보", "[긴급]", "긴급", "[단독]", "단독"]
+BREAKING_KEYWORDS = ["[속보]", "속보", "[긴급]", "긴급"]
+SCOOP_KEYWORDS = ["[단독]", "단독"]
 
 RSS_FEEDS = [
     {"id": "yna",      "name": "연합뉴스", "url": "https://www.yna.co.kr/RSS/news.xml"},
@@ -32,6 +33,9 @@ SOURCE_EMOJI = {
 
 def is_breaking(title):
     return any(kw in title for kw in BREAKING_KEYWORDS)
+
+def is_scoop(title):
+    return any(kw in title for kw in SCOOP_KEYWORDS)
 
 def load_seen():
     if os.path.exists(SEEN_FILE):
@@ -69,10 +73,15 @@ def send_telegram(text):
 
 def format_message(item):
     emoji = SOURCE_EMOJI.get(item["source_id"], "📌")
-    breaking_badge = "🔴 <b>[속보]</b> " if item["is_breaking"] else ""
+    if item["is_breaking"]:
+        badge = "🔴 <b>[속보]</b> "
+    elif item["is_scoop"]:
+        badge = "🔵 <b>[단독]</b> "
+    else:
+        badge = ""
     time_str = datetime.fromisoformat(item["pub_date"]).astimezone(KST).strftime("%H:%M")
     return (
-        f"{breaking_badge}{emoji} <b>{item['source_name']}</b> {time_str}\n"
+        f"{badge}{emoji} <b>{item['source_name']}</b> {time_str}\n"
         f"{item['title']}\n"
         f"<a href=\"{item['link']}\">기사 보기 →</a>"
     )
@@ -97,6 +106,7 @@ def fetch_feed(feed):
                 "source_id": feed["id"],
                 "source_name": feed["name"],
                 "is_breaking": is_breaking(title),
+                "is_scoop": is_scoop(title),
             })
         return items
     except Exception as e:
@@ -144,7 +154,7 @@ def main():
     new_items.sort(key=lambda x: (not x["is_breaking"], x["pub_date"]))
     print(f"신규 기사 {len(new_items)}개 발견")
     for item in new_items:
-        if item["is_breaking"]:
+        if item["is_breaking"] or item["is_scoop"]:
             send_telegram(format_message(item))
 
     # JSON 저장: 기존 + 신규 병합
