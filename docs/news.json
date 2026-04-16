@@ -1,15 +1,187 @@
 {
-  "updated": "2026-04-16 18:17:16",
-  "total": 30,
-  "breaking": 2,
+  "updated": "2026-04-16 21:09:14",
+  "total": 49,
+  "breaking": 1,
   "items": [
+    {
+      "title": "20대 새벽 길거리서 ‘묻지마 폭행’…50대 피해자 ‘영구 사지마비’",
+      "link": "https://www.mk.co.kr/news/society/12019384",
+      "pub_date": "2026-04-16T11:49:43+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“대통령 때문에 경영계획을 못 짠다”…예측불허 트럼프에 우는 美기업",
+      "link": "https://www.mk.co.kr/news/world/12019373",
+      "pub_date": "2026-04-16T11:32:42+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“제로콜라가 몸속에 들어가면 암세포 죽여”…트럼프의 황당한 주장",
+      "link": "https://www.mk.co.kr/news/world/12019365",
+      "pub_date": "2026-04-16T11:22:46+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“‘중재국’ 파키스탄, 미국·이란 2차 종전 협상 준비 돌입”",
+      "link": "https://www.mk.co.kr/news/world/12019364",
+      "pub_date": "2026-04-16T11:21:54+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이원석 “검찰총장이 대통령 직행해 비극 초래”…대장동 국조엔 맹비판",
+      "link": "https://www.mk.co.kr/news/politics/12019339",
+      "pub_date": "2026-04-16T10:58:20+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "故 김창민 감독 부친 “가해자 용서 못해…사과 진정성 없다”",
+      "link": "https://www.mk.co.kr/news/society/12019330",
+      "pub_date": "2026-04-16T10:47:07+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "인천공항 입국장서 발견된 ‘의문의 흰 가루’…마약이었다",
+      "link": "https://www.mk.co.kr/news/society/12019324",
+      "pub_date": "2026-04-16T10:42:40+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공공기관 하도급 금지…'쪼개기 계약'도 퇴출",
+      "link": "https://www.mk.co.kr/news/society/12019320",
+      "pub_date": "2026-04-16T10:38:40+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"韓·中 관계, 사드 사태 이전으로 돌아가야\"",
+      "link": "https://www.mk.co.kr/news/world/12019319",
+      "pub_date": "2026-04-16T10:38:39+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"내 떳떳함 밝힐 길 이것뿐\" 대장동 검사, 극단적 시도",
+      "link": "https://www.mk.co.kr/news/society/12019317",
+      "pub_date": "2026-04-16T10:36:46+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“땅에서도 사냥”…진주서 확인된 ‘포악한 익룡’ 추격전 흔적",
+      "link": "https://www.mk.co.kr/news/society/12019298",
+      "pub_date": "2026-04-16T10:18:00+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“이스라엘 총리·루비오 장관·레바논 대통령 3자 전화회담 추진”",
+      "link": "https://www.mk.co.kr/news/world/12019297",
+      "pub_date": "2026-04-16T10:17:50+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "테슬라, 삼성전자와 칩 동맹 강화…TSMC, 1분기 순익 58% ‘폭증’",
+      "link": "https://www.mk.co.kr/news/stock/12019291",
+      "pub_date": "2026-04-16T10:14:13+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주당 세종시장 후보에 조상호...현역 최민호 시장과 대결",
+      "link": "https://www.mk.co.kr/news/politics/12019289",
+      "pub_date": "2026-04-16T10:12:29+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘3L’ 날개 달고 … AI發 시총 대혁명",
+      "link": "https://www.mk.co.kr/news/stock/12019288",
+      "pub_date": "2026-04-16T10:12:08+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“미국이 악의적으로 조사하고 괴롭히고 있다”…中, 자국민에 입국 주의 당부",
+      "link": "https://www.mk.co.kr/news/world/12019259",
+      "pub_date": "2026-04-16T10:02:33+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "예별손해보험, 한투 단독 입찰로 매각 무산…재매각 나설듯",
+      "link": "https://www.mk.co.kr/news/economy/12019257",
+      "pub_date": "2026-04-16T09:52:20+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[포토] 현대해상, 2025 연도대상 시상",
+      "link": "https://www.mk.co.kr/news/economy/12019256",
+      "pub_date": "2026-04-16T09:44:41+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 지선 세종시장 후보에 조상호…국힘 최민호 현 시장과 대결",
+      "link": "https://www.mk.co.kr/news/politics/12019251",
+      "pub_date": "2026-04-16T09:23:17+00:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[iR52 장영실상] 자동차 차체, 레고블록처럼 마음대로 조립",
       "link": "https://www.mk.co.kr/news/it/12019249",
       "pub_date": "2026-04-16T09:16:19+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "벌써 여름 더위가",
@@ -17,7 +189,8 @@
       "pub_date": "2026-04-16T09:15:56+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "수석 보좌관 회의 주재하는 이재명 대통령",
@@ -25,7 +198,8 @@
       "pub_date": "2026-04-16T09:13:42+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "국가바이오혁신위원회 출범...바이오 정책 총괄 민관 진두지휘",
@@ -33,7 +207,8 @@
       "pub_date": "2026-04-16T09:13:13+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "현직 대통령으로 첫 세월호 기억식 참석한 이재명 대통령",
@@ -41,7 +216,8 @@
       "pub_date": "2026-04-16T09:11:43+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독] “여기선 현금 쓰면 손해보는 느낌”…편의점 각종 할인 ‘페이’에 몰린다",
@@ -49,7 +225,8 @@
       "pub_date": "2026-04-16T09:09:19+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "엔비디아보다 3년 빨라...韓, 22년전 ‘AI GPU시대’ 논문 썼다",
@@ -57,7 +234,8 @@
       "pub_date": "2026-04-16T09:07:58+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "韓 신약 파이프라인 10년 만에 2배...4년 안에 ‘K신약 시대’ 연다",
@@ -65,7 +243,8 @@
       "pub_date": "2026-04-16T09:05:47+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[표] 외국환율고시표",
@@ -73,7 +252,8 @@
       "pub_date": "2026-04-16T09:04:07+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "자본규제 풀어…금융권 대출여력 100조 확대",
@@ -81,7 +261,8 @@
       "pub_date": "2026-04-16T09:04:07+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독] 국민銀, 새만금 수상태양광 사업에 1240억 조달",
@@ -89,7 +270,8 @@
       "pub_date": "2026-04-16T09:04:07+00:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "산은·수은, 석유공사 지원 … 원유 확보에 30억달러 공급",
