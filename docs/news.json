@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 01:30:33",
-  "total": 140,
-  "breaking": 102,
+  "updated": "2026-04-17 01:35:31",
+  "total": 144,
+  "breaking": 106,
   "items": [
+    {
+      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041701305621207",
+      "pub_date": "2026-04-17T01:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
+      "pub_date": "2026-04-17T01:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
+      "link": "https://www.joongang.co.kr/article/25420912",
+      "pub_date": "2026-04-17T01:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417001800063?input=1195m",
+      "pub_date": "2026-04-17T01:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"이스라엘·레바논 10일 휴전 합의…오늘 오후 5시 발효”",
       "link": "https://news.mtn.co.kr/news-detail/2026041701192831687",
@@ -139,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '역봉쇄'로 승기 잡은 미국, 이란에 최후통첩 메시지까지...\"합의...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=118915",
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394373",
       "pub_date": "2026-04-17T00:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394373",
+      "title": "[속보] '역봉쇄'로 승기 잡은 미국, 이란에 최후통첩 메시지까지...\"합의...",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=118915",
       "pub_date": "2026-04-17T00:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -176,19 +212,19 @@
     },
     {
       "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170047245458",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417004617wlE",
       "pub_date": "2026-04-17T00:47:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417004617wlE",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170047245458",
       "pub_date": "2026-04-17T00:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
