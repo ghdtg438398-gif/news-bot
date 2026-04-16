@@ -121,6 +121,7 @@ def main():
     new_items.sort(key=lambda x: (not x["is_breaking"], -x["pub_date"].timestamp()))
 
     print(f"신규 기사 {len(new_items)}개 발견")
+    send_telegram(f"✅ 봇 테스트 성공! 신규 기사 {len(new_items)}개 발견")
 
     for item in new_items:
         msg = format_message(item)
