@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 08:20:30",
+  "updated": "2026-04-17 08:25:29",
   "total": 200,
-  "breaking": 131,
+  "breaking": 130,
   "items": [
+    {
+      "title": "[아침저널] 차규근 \"국힘은 무정부주의자? 국가 최고 증거기관이 리호남...",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4078897",
+      "pub_date": "2026-04-17T08:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "신세계, ‘맨즈&우먼스’ 위크 진행...쇼핑 관심도 증가",
       "link": "http://www.thebigdata.co.kr/view.php?ud=202604161115032884df3c2a17b7_23",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-16T22:40:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기각",
-      "link": "https://www.joongang.co.kr/article/25420835",
-      "pub_date": "2026-04-16T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
