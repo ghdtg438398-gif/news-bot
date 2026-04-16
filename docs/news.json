@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 07:20:30",
+  "updated": "2026-04-17 07:25:11",
   "total": 200,
-  "breaking": 141,
+  "breaking": 140,
   "items": [
+    {
+      "title": "\"5언더파 66타\" 김시우·임성재, RBC 헤리티지 첫날 상위권 추격",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16036893",
+      "pub_date": "2026-04-17T07:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "고양 관산동 공장서 화재...교회로 번져 7시간 만에 완진",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559191",
+      "pub_date": "2026-04-17T07:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우·임성재, PGA RBC 헤리티지 1R 공동 10위",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521725&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T07:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] '열일' 신혜선, 차차기작까지…'대쉬' 긍정 검토",
       "link": "https://www.xportsnews.com/article/2137688",
@@ -157,21 +184,21 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]이스라엘-레바논 10일 간 임시 휴전",
-      "link": "https://magazine.hankyung.com/business/article/202604176966b",
-      "pub_date": "2026-04-17T06:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[N2 모닝 경제 브리핑-4월 17일] 美증시, 중동 휴전 소식에 일제히 상승...",
       "link": "https://www.news2day.co.kr/article/20260416500055",
       "pub_date": "2026-04-17T06:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이스라엘-레바논 10일 간 임시 휴전",
+      "link": "https://magazine.hankyung.com/business/article/202604176966b",
+      "pub_date": "2026-04-17T06:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈]“주가 원하는 가격 될 때까지 비상계엄 선포”…‘계엄령 놀이’...",
-      "link": "https://www.munhwa.com/article/11582884?ref=naver",
-      "pub_date": "2026-04-16T22:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]\"尹사랑\" 노래하던 '정교유착' 교회…관계자 21명 무더기 고발",
-      "link": "https://www.nocutnews.co.kr/news/6503826?utm_source=naver&utm_medium=article&utm_campaign=20260416100032",
-      "pub_date": "2026-04-16T22:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 美국방장관 “이란이 합의 안하면 전투작전 재개”",
-      "link": "https://magazine.hankyung.com/business/article/202604166781b",
-      "pub_date": "2026-04-16T22:01:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
