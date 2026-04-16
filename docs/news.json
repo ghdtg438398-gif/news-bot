@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 05:05:36",
-  "total": 194,
-  "breaking": 146,
+  "updated": "2026-04-17 05:08:06",
+  "total": 195,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 뉴욕증시, S&P500·나스닥 이틀 연속 사상 최고",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=626765",
+      "pub_date": "2026-04-17T05:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이-레바논 휴전 미증시 일제 랠리… 나스닥 0.36↑",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029692133&code=61131111&cp=nv",
@@ -67,15 +76,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
-      "link": "https://www.news1.kr/world/usa-canada/6139497",
-      "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[기상속보]오늘날씨 출근길 남부지방·제주 비 서울 낮 20도...주말,주간...",
       "link": "https://www.public25.com/news/articleView.html?idxno=44336",
       "pub_date": "2026-04-17T05:00:00+09:00",
@@ -85,8 +85,17 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
-      "link": "https://www.news1.kr/politics/assembly/6139433",
+      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
+      "link": "https://www.news1.kr/world/usa-canada/6139497",
+      "pub_date": "2026-04-17T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
+      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
+      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
+      "link": "https://www.news1.kr/politics/assembly/6139433",
       "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
