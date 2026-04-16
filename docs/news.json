@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-16 23:55:32",
-  "total": 99,
+  "updated": "2026-04-17 00:00:41",
+  "total": 100,
   "breaking": 68,
   "items": [
     {
@@ -27,6 +27,15 @@
       "pub_date": "2026-04-16T23:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 유병언 일가는 미국 호화 주택에?…검찰은 차명 의심 재산 추징...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538316&ref=A",
+      "pub_date": "2026-04-16T23:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
     },
