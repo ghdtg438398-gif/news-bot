@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 03:00:38",
-  "total": 161,
-  "breaking": 122,
+  "updated": "2026-04-17 03:05:32",
+  "total": 162,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"이란과의 다음 협상 주말에 열릴 수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417003600071?input=1195m",
+      "pub_date": "2026-04-17T03:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'넬리코다·티띠꾼 빠진' JM이글 LA챔피언십 역대기록 및 관전포인트…...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019791",
