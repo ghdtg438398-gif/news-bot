@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-16 23:30:39",
-  "total": 96,
-  "breaking": 67,
+  "updated": "2026-04-16 23:35:39",
+  "total": 99,
+  "breaking": 68,
   "items": [
+    {
+      "title": "[속보]전한길, 구속영장 기각…李대통령·이준석 명예훼손 혐의",
+      "link": "https://www.munhwa.com/article/11582891?ref=naver",
+      "pub_date": "2026-04-16T23:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "남이섬, 안데르센상 18년 단독 후원…세계 아동문학 중심 우뚝",
+      "link": "https://www.nocutnews.co.kr/news/6503870?utm_source=naver&utm_medium=article&utm_campaign=20260416113232",
+      "pub_date": "2026-04-16T23:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "한화 실책으로 와르르…삼성, 6연승 단독 선두",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260416232917cVi",
+      "pub_date": "2026-04-16T23:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[단독] 친부 \"폰으로 아이 머리 때려\"…친모도 분리조치",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260416232608kX2",
