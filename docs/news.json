@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-17 07:00:40",
+  "updated": "2026-04-17 07:05:33",
   "total": 200,
-  "breaking": 146,
+  "breaking": 141,
   "items": [
+    {
+      "title": "[속보] 베이루트 교외서 이-레바논 휴전 축하 시작중 총성 들려",
+      "link": "https://www.newsis.com/view/NISX20260417_0003594947",
+      "pub_date": "2026-04-17T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]곽동연, FA 된다…블리츠웨이와 전속계약 종료",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810837",
+      "pub_date": "2026-04-17T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[천지일보 이슈종합] 세월호 12주기·이대통령 참석·이스라엘 레바논 ...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394374",
+      "pub_date": "2026-04-17T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[연재-다시보는 한국인 이만희 평화실화-14] '평화의 사자' 세계 언론을...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394375",
+      "pub_date": "2026-04-17T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이용진, '페이커' 의심하는 예원에 격분…\"진심으로 너 안 본다\" ('베팅...",
+      "link": "https://www.tvreport.co.kr/entertainment/article/1033332/",
+      "pub_date": "2026-04-17T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기고] 지방선거, 정책·비전 중심 성숙한 경쟁을",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269721",
+      "pub_date": "2026-04-17T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "오월드 탈출 늑대 '늑구', 열흘 만에 포획…건강 상태 점검",
+      "link": "https://www.sidae.com/article/2026041706572165431",
+      "pub_date": "2026-04-17T06:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790034.html",
+      "pub_date": "2026-04-17T06:57:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 레바논-이스라엘 휴전발효 즉시 베이루트 남부에서 포성",
       "link": "https://www.newsis.com/view/NISX20260417_0003594944",
@@ -28,6 +100,15 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "나랏돈 노리며 불완전판매 행태도…금감원 실태 조사 나선다",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538406&ref=A",
+      "pub_date": "2026-04-17T06:49:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -130,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
+      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
+      "link": "https://www.etoday.co.kr/news/view/2576553",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
+      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
       "pub_date": "2026-04-17T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1720,87 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 “이란이 합의안하면 전투작전 재개할 최상태세”",
-      "link": "https://www.seoul.co.kr/news/international/2026/04/16/20260416500290?wlog_tag3=naver",
-      "pub_date": "2026-04-16T21:51:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 유병언 일가는 미국 호화 주택에?…검찰은 차명 의심 재산 추징...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538192&ref=A",
-      "pub_date": "2026-04-16T21:45:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 美국방 “이란 합의 않으면 전투작전 재개”",
-      "link": "https://www.sedaily.com/article/20033578?ref=naver",
-      "pub_date": "2026-04-16T21:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "통합돌봄 조례안 상임위 회부 목소리 확산",
-      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584775",
-      "pub_date": "2026-04-16T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美 국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269753",
-      "pub_date": "2026-04-16T21:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"국제 수역뿐 아니라 이란 영해서도 봉쇄 작전 펼치고 있어\"",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594850",
-      "pub_date": "2026-04-16T21:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 케인, \"우리 봉쇄 보고 13척 되돌아가…아직 강제승선 안 해\"",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594849",
-      "pub_date": "2026-04-16T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란 합의 않으면 전투작전 재개 준비돼 있어\"",
-      "link": "http://www.fnnews.com/news/202604162134043645",
-      "pub_date": "2026-04-16T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美국방 \"이란 합의 안하면 전투작전 재개할 최상 태세\"",
-      "link": "http://www.inews24.com/view/1961034",
-      "pub_date": "2026-04-16T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
