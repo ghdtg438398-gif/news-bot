@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 08:00:38",
+  "updated": "2026-04-17 08:05:27",
   "total": 200,
-  "breaking": 136,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[GAM]高유가·高물가·高금리 살아남으려면 ② 5가지 섹터 ETF 톱픽",
+      "link": "https://www.newspim.com/news/view/20260416000866",
+      "pub_date": "2026-04-17T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“내 꿈은 대한민국 역대 최고 지도자” K3 최연소 ‘괴물 감독’ 등장...",
+      "link": "https://www.mk.co.kr/article/12019579",
+      "pub_date": "2026-04-17T08:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“대구 사람은 이재명을 박정희로 생각한다” 주재 기자가 전하는 민심...",
       "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57747",
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-16T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '李대통령·이준석 명예훼손' 혐의 전한길 구속영장 기각",
-      "link": "https://www.news1.kr/society/court-prosecution/6139463",
-      "pub_date": "2026-04-16T22:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '허위사실 유포' 전한길 구속영장 기각",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604162237239192",
-      "pub_date": "2026-04-16T22:37:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
