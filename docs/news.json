@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17 04:55:27",
-  "total": 182,
+  "updated": "2026-04-17 05:00:38",
+  "total": 183,
   "breaking": 138,
   "items": [
     {
@@ -18,6 +18,15 @@
       "pub_date": "2026-04-17T04:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "헤즈볼라 “휴전 기간 이스라엘군 잔류 시 저항권 행사”…철군 압박",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538373&ref=A",
+      "pub_date": "2026-04-17T04:22:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
