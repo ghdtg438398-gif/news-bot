@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-16 22:55:32",
-  "total": 83,
-  "breaking": 57,
+  "updated": "2026-04-16 23:00:43",
+  "total": 88,
+  "breaking": 61,
   "items": [
+    {
+      "title": "[속보] 법원, '이대통령·이준석 명예훼손' 전한길 구속영장 기각",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394363",
+      "pub_date": "2026-04-16T22:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전한길 구속영장 기각…법원 “도주 우려 없어”",
+      "link": "https://www.donga.com/news/Politics/article/all/20260416/133757181/1",
+      "pub_date": "2026-04-16T22:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정부 \"국제기구통한 이란 인도적 지원, 전용 가능성 없다\"",
+      "link": "https://www.nocutnews.co.kr/news/6503865?utm_source=naver&utm_medium=article&utm_campaign=20260416105632",
+      "pub_date": "2026-04-16T22:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, 전한길 구속영장 기각…증거인멸·도주우려 인정 안 해",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521525&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-16T22:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '李·이준석 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260416225450uWm",
+      "pub_date": "2026-04-16T22:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '이재명·이준석 명예훼손 혐의' 전한길 구속영장 기각···\"증거...",
       "link": "https://dgmbc.com/NewsArticle/835562",
@@ -22,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "https://www.imaeil.com/page/view/2026041622432184378",
+      "title": "[속보] '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369889",
       "pub_date": "2026-04-16T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369889",
+      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.imaeil.com/page/view/2026041622432184378",
       "pub_date": "2026-04-16T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,20 +139,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘李 명예훼손 혐의’ 전한길 구속영장 기각",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691214&code=61121311&cp=nv",
-      "pub_date": "2026-04-16T22:43:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041622424166926",
       "pub_date": "2026-04-16T22:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘李 명예훼손’ 전한길 구속영장 기각",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691214&code=61121311&cp=nv",
+      "pub_date": "2026-04-16T22:43:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
