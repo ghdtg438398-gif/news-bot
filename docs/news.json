@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-16 23:20:37",
-  "total": 94,
-  "breaking": 66,
+  "updated": "2026-04-16 23:25:31",
+  "total": 95,
+  "breaking": 67,
   "items": [
+    {
+      "title": "[속보] 전한길, 명예훼손 혐의 구속영장 기각…법원 \"도주·증거인멸 우...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045295",
+      "pub_date": "2026-04-16T23:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[오늘의 KBO] 삼성, 한화 꺾고 6연승…단독 1위 질주",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365254",
@@ -139,20 +148,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '허위사실 유포 혐의' 전한길 구속영장 기각…\"증거인멸·도망 염...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5188613",
-      "pub_date": "2026-04-16T22:46:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]전한길, 구속영장 기각…“증거인멸, 도주우려 없다”",
       "link": "https://biz.heraldcorp.com/article/10719179?ref=naver",
       "pub_date": "2026-04-16T22:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '허위사실 유포 혐의' 전한길 구속영장 기각…\"증거인멸·도망 염...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5188613",
+      "pub_date": "2026-04-16T22:46:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -220,20 +229,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/16/20260416500291?wlog_tag3=naver",
-      "pub_date": "2026-04-16T22:40:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] ‘李대통령·이준석 명예훼손 혐의’ 전한길 구속영장 기각",
       "link": "https://www.joongang.co.kr/article/25420835",
       "pub_date": "2026-04-16T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘李대통령 명예훼손 혐의’ 전한길 구속영장 기각",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/16/20260416500291?wlog_tag3=naver",
+      "pub_date": "2026-04-16T22:40:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
