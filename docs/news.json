@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 01:50:34",
-  "total": 151,
-  "breaking": 113,
+  "updated": "2026-04-17 01:55:30",
+  "total": 153,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 대전 오월드 동물원 탈출 늑대 '늑구' 생포...동물원으로 복귀",
+      "link": "https://www.ytn.co.kr/_ln/0115_202604170153121221",
+      "pub_date": "2026-04-17T01:53:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 \"늑구 생포…오월드 무사히 복귀\"",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5188617",
+      "pub_date": "2026-04-17T01:51:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
       "link": "https://www.segye.com/newsView/20260417500821?OutUrl=naver",
@@ -31,7 +49,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
+      "title": "[속보] 대전 오월드 탈출 늑대 '늑구' 열흘 만에 생포",
       "link": "https://imnews.imbc.com/news/2026/society/article/6815869_36918.html",
       "pub_date": "2026-04-17T01:42:00+09:00",
       "source_id": "mbc",
