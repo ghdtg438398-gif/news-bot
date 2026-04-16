@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 04:20:41",
-  "total": 179,
-  "breaking": 137,
+  "updated": "2026-04-17 04:25:26",
+  "total": 180,
+  "breaking": 138,
   "items": [
+    {
+      "title": "[속보] '축구계 비보' 불과 48세인데 교통사고로 사망...前 아스널·리버...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145444",
+      "pub_date": "2026-04-17T04:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"파키스탄서 이란과 합의되면 직접 방문할수도\"",
       "link": "https://www.newsis.com/view/NISX20260417_0003594914",
