@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 03:40:32",
-  "total": 176,
-  "breaking": 135,
+  "updated": "2026-04-17 03:45:31",
+  "total": 177,
+  "breaking": 136,
   "items": [
+    {
+      "title": "네타냐후, 트럼프의 ‘레바논 휴전’ 발표 직후 안보 내각 긴급 소집",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538364&ref=A",
+      "pub_date": "2026-04-17T03:39:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "반성 없는 정치검찰과 국정조사 훼방놓는 국민의힘",
       "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444784",
