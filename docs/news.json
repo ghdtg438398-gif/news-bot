@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 07:25:11",
+  "updated": "2026-04-17 07:30:37",
   "total": 200,
-  "breaking": 140,
+  "breaking": 143,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
+      "link": "https://www.etnews.com/20260417000017",
+      "pub_date": "2026-04-17T07:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
+      "link": "https://www.etnews.com/20260417000018",
+      "pub_date": "2026-04-17T07:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
+      "link": "https://www.etnews.com/20260417000019",
+      "pub_date": "2026-04-17T07:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"5언더파 66타\" 김시우·임성재, RBC 헤리티지 첫날 상위권 추격",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16036893",
@@ -10,6 +37,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
+      "link": "https://economist.co.kr/article/view/ecn202604170002",
+      "pub_date": "2026-04-17T07:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI상보] 삼성, 한화 6-1로 꺾고 파죽의 6연승...단독 1위 질주",
-      "link": "https://www.newspim.com/news/view/20260416001396",
-      "pub_date": "2026-04-16T22:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]고양 관산동서 불…장비 27대 67명 인원 투입 진화 중",
-      "link": "https://www.munhwa.com/article/11582885?ref=naver",
-      "pub_date": "2026-04-16T22:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "진주시, 화물운송·교통분야 고유가 대책 추진…대중교통 수요 급증 대...",
-      "link": "https://www.kpinews.kr/newsView/1065576072803371",
-      "pub_date": "2026-04-16T22:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[김종석의 리포트]네타냐후, 휴전 아닌 휴전?",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524508",
-      "pub_date": "2026-04-16T22:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
