@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 03:20:32",
-  "total": 171,
-  "breaking": 132,
+  "updated": "2026-04-17 03:25:29",
+  "total": 174,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[속보] 초대박 사건! 이정후 타격감 '神났다', 멀티히트+타점 대폭발, 시...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145526",
+      "pub_date": "2026-04-17T03:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과의 다음 협상 주말에 열릴 수도\"",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6815871_36925.html",
+      "pub_date": "2026-04-17T03:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란과 협상 이번 주말에 열릴 수도\"",
       "link": "https://www.newspim.com/news/view/20260417000011",
@@ -40,12 +58,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전에 헤즈볼라 포함\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170309493613",
-      "pub_date": "2026-04-17T03:09:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
+      "title": "미 상원 인준청문회, 이란 핵 ·중동 안보 지원 ·IAEA 역할 집중 점검",
+      "link": "https://www.voakorea.com/a/senate-confirmation-hearing-focuses-on-iran-nukes-and-middle-east-security-041626/8138457.html",
+      "pub_date": "2026-04-17T03:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -58,8 +76,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
-      "link": "https://www.news1.kr/world/usa-canada/6139491",
+      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전에 헤즈볼라 포함\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170309493613",
+      "pub_date": "2026-04-17T03:09:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란과 합의 근접, 이번 주말 2차 담판 가능성”",
+      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
       "pub_date": "2026-04-17T03:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
-      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
+      "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
+      "link": "https://www.news1.kr/world/usa-canada/6139491",
       "pub_date": "2026-04-17T03:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
