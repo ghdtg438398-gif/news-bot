@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 00:05:38",
-  "total": 103,
+  "updated": "2026-04-17 00:10:41",
+  "total": 105,
   "breaking": 69,
   "items": [
+    {
+      "title": "강원도, 지역 농자재 수급 불안정에 비상대책반 가동",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045237",
+      "pub_date": "2026-04-17T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[장혜수의 뉴스터치] 미토스 쇼크",
+      "link": "https://www.joongang.co.kr/article/25420878",
+      "pub_date": "2026-04-17T00:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "울산, 서울전 '3643일 안방 무패' 깨졌다",
       "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054260",
