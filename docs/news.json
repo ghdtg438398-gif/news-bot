@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-17 00:15:35",
-  "total": 106,
+  "updated": "2026-04-17 00:20:36",
+  "total": 107,
   "breaking": 70,
   "items": [
     {
@@ -55,6 +55,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 \"이달 내 합의 가능\"...이란, 호르무즈 개방안 제시",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604162356012562",
+      "pub_date": "2026-04-16T23:56:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
