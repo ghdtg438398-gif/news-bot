@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-16 23:11:00",
-  "total": 92,
-  "breaking": 65,
+  "updated": "2026-04-16 23:15:38",
+  "total": 94,
+  "breaking": 66,
   "items": [
+    {
+      "title": "[오늘의 KBO] 삼성, 한화 꺾고 6연승…단독 1위 질주",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365254",
+      "pub_date": "2026-04-16T23:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]법원, '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
+      "link": "https://www.nocutnews.co.kr/news/6503867?utm_source=naver&utm_medium=article&utm_campaign=20260416111032",
+      "pub_date": "2026-04-16T23:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 법원 전한길 구속영장 기각 파문 \"증거인멸 도망염려 없다\"",
       "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333832",
@@ -103,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369889",
+      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
+      "link": "https://www.imaeil.com/page/view/2026041622432184378",
       "pub_date": "2026-04-16T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, '李대통령·이준석 명예훼손 혐의' 전한길 구속영장 기각",
-      "link": "https://www.imaeil.com/page/view/2026041622432184378",
+      "title": "[속보] '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369889",
       "pub_date": "2026-04-16T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
