@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 16:55:27",
+  "updated": "2026-04-17 17:00:38",
   "total": 200,
-  "breaking": 123,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 신현송 청문보고서 채택 불발…‘딸 불법 여권’ 논란 여파",
+      "link": "https://www.segye.com/newsView/20260417512509?OutUrl=naver",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "권성열, 시드 잃고 재도전→선두 도약…각성한 40세의 반전 드라마",
+      "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=315574",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“현관문 아래 피” 인천서 모친 살해후 자해 40대男",
+      "link": "https://www.munhwa.com/article/11583143?ref=naver",
+      "pub_date": "2026-04-17T16:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정부, 마약과의 전쟁 선포...김민석 총리 주재 '마약류 대응 관계장관회...",
+      "link": "https://www.ajunews.com/view/20260417164551181",
+      "pub_date": "2026-04-17T16:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[퇴근길 포인트] 중동 리스크 확산…日 가격인상·금속 급등·정책 대응...",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301778",
@@ -31,6 +76,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"완전히 날조\" 중국 반발했지만...수상한 무기에 새 뇌관 터졌다 [지금이...",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604171649151595",
+      "pub_date": "2026-04-17T16:49:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "‘3살 아이’ 아동학대 의심 친부 송치…“아동학대치사 혐의”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538919&ref=A",
       "pub_date": "2026-04-17T16:47:00+09:00",
@@ -49,21 +103,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]불교시민단체, '불국사 주지 선출 산중총회 금품 제공 의혹' 경찰...",
-      "link": "https://www.imaeil.com/page/view/2026041716423649392",
-      "pub_date": "2026-04-17T16:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“호르무즈 봉쇄 뚫은 늑구” “유퀴즈 출연”…돌아온 늑구에 ‘밈’도...",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500190?wlog_tag3=naver",
       "pub_date": "2026-04-17T16:45:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]불교시민단체, '불국사 주지 선출 산중총회 금품 제공 의혹' 경찰...",
+      "link": "https://www.imaeil.com/page/view/2026041716423649392",
+      "pub_date": "2026-04-17T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -85,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
-      "pub_date": "2026-04-17T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
       "pub_date": "2026-04-17T16:42:00+09:00",
@@ -101,6 +146,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -310,15 +364,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
-      "pub_date": "2026-04-17T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
       "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
       "pub_date": "2026-04-17T16:04:00+09:00",
@@ -326,6 +371,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
+      "pub_date": "2026-04-17T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 조국, 평택을 예비후보 등록…“험지지만 경쟁력 있다”",
@@ -1744,60 +1798,6 @@
       "title": "'미토스 쇼크 차단'…세계 각국, 긴급 대응 나섰다",
       "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=355883",
       "pub_date": "2026-04-17T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 국정 지지도 66%, 민주당 48%, 국힘 19%-한국갤럽",
-      "link": "https://www.munhwa.com/article/11583132?ref=naver",
-      "pub_date": "2026-04-17T13:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[정치家] 구윤철 부총리 ③ ㅣ 공급망 안정·AI 전략 가속…'경제 컨트롤...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568478",
-      "pub_date": "2026-04-17T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
-      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
-      "pub_date": "2026-04-17T13:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
-      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
-      "pub_date": "2026-04-17T13:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한국 선박, 홍해 첫 안전 통과…원유 수송 재개",
-      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515826",
-      "pub_date": "2026-04-17T13:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "서울 왕복 8차선 대로변서 마약 투약…외국인 남성 긴급체포",
-      "link": "https://www.news1.kr/society/incident-accident/6140167",
-      "pub_date": "2026-04-17T13:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
