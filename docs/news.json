@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 21:05:40",
+  "updated": "2026-04-17 21:10:28",
   "total": 200,
-  "breaking": 121,
+  "breaking": 122,
   "items": [
+    {
+      "title": "<속보> 지자체-양봉협회, 꿀벌 통계 조사 개선 착수",
+      "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=342476",
+      "pub_date": "2026-04-17T21:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[데일리안 오늘뉴스 종합] [단독] AWS 공급망 총괄·배터리 책임자, 삼성...",
       "link": "https://www.dailian.co.kr/news/view/1635028/?sc=Naver",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 거래소, 한화솔루션에 경위서 요구…\"유증 22% 축소 불성실공시...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170421&t=NN",
-      "pub_date": "2026-04-17T16:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
