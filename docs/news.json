@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 00:35:27",
+  "updated": "2026-04-18 00:40:32",
   "total": 200,
   "breaking": 164,
   "items": [
@@ -103,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.hankyung.com/article/2026041793007",
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.hankyung.com/article/2026041793017",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -112,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.hankyung.com/article/2026041793017",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.hankyung.com/article/2026041793007",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
