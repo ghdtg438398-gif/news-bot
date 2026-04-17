@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 00:15:32",
+  "updated": "2026-04-18 00:20:33",
   "total": 200,
   "breaking": 164,
   "items": [
@@ -139,6 +139,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]英 \"호르무즈 제한없이 개방돼야…항행의 자유 임무에 12개국 참여...",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596455",
+      "pub_date": "2026-04-17T23:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시는 봉쇄 않기로 합의\"",
       "link": "https://www.news1.kr/world/usa-canada/6140766",
       "pub_date": "2026-04-17T23:48:00+09:00",
@@ -148,9 +157,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]英 \"호르무즈 제한없이 개방돼야…항행의 자유 임무에 12개국 참여...",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596455",
-      "pub_date": "2026-04-17T23:48:00+09:00",
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140764",
+      "pub_date": "2026-04-17T23:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -162,15 +171,6 @@
       "pub_date": "2026-04-17T23:47:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140764",
-      "pub_date": "2026-04-17T23:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
