@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 09:15:35",
+  "updated": "2026-04-17 09:20:31",
   "total": 200,
   "breaking": 128,
   "items": [
+    {
+      "title": "[속보] 코스피 6227.33(▲1.28p, 0.02%), 원·달러 환율 1481.4(▲6.8원) 개...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5188666",
+      "pub_date": "2026-04-17T09:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주, 울산남갑 보선 전략공천 후보에 전태진 변호사",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417091327vt7",
+      "pub_date": "2026-04-17T09:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 전국 휘발유 2000원 임박…서울 등 6곳 이미 돌파",
       "link": "http://www.fnnews.com/news/202604170859135621",
@@ -31,12 +49,12 @@
       "is_scoop": false
     },
     {
-      "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
-      "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…김상욱 지역구 ‘울산...",
+      "link": "https://www.khan.co.kr/article/202604170910001",
       "pub_date": "2026-04-17T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -49,12 +67,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…김상욱 지역구 ‘울산...",
-      "link": "https://www.khan.co.kr/article/202604170910001",
+      "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
+      "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
       "pub_date": "2026-04-17T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -85,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 3.81포인트(0.33%) 오른 1166.78 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833580",
+      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
       "pub_date": "2026-04-17T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
+      "title": "[속보] 코스닥, 3.81포인트(0.33%) 오른 1166.78 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833580",
       "pub_date": "2026-04-17T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,15 +157,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
       "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
       "pub_date": "2026-04-17T09:04:00+09:00",
@@ -166,8 +175,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 3.81p(0.33%) 오른 1166.78(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2576612",
+      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2576608",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2576608",
+      "title": "[속보] 코스닥 3.81p(0.33%) 오른 1166.78(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2576612",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 美 트럼프 \"이스라엘·레바논 10일 휴전\"…중동 긴장 완화 신호",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=512500",
       "pub_date": "2026-04-17T00:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 10일간 휴전\"",
-      "link": "https://www.newspim.com/news/view/20260417000003",
-      "pub_date": "2026-04-17T00:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘과 레바논 열흘간 휴전 합의\"",
-      "link": "https://www.news1.kr/world/usa-canada/6139481",
-      "pub_date": "2026-04-17T00:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
