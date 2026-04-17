@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 08:35:26",
-  "total": 144,
-  "breaking": 100,
+  "updated": "2026-04-18 08:40:31",
+  "total": 136,
+  "breaking": 90,
   "items": [
+    {
+      "title": "호르무즈 개방 선언에 유가 11% '뚝'…파나마 운하는 병목",
+      "link": "https://www.g-enews.com/view.php?ud=2026041808292034732bd56fbc3c_1",
+      "pub_date": "2026-04-18T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "코번트리, 25년 만에 EPL 복귀 잔치…양민혁은 초대받지 못했다",
+      "link": "https://www.newspim.com/news/view/20260418000018",
+      "pub_date": "2026-04-18T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[6·3 현장/화제 인물] 통합특별시 주 청사 무안 ‘주창’한 나광국 무안...",
       "link": "https://www.thepowernews.co.kr/view.php?ud=202604180758084559caa2b7671d_7",
@@ -1206,96 +1224,6 @@
       "pub_date": "2026-04-17T22:41:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가, ‘호르무즈 개방’ 소식에 일제히 하락…브렌트유 11...",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254782.html",
-      "pub_date": "2026-04-17T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
-      "link": "https://biz.heraldcorp.com/article/10720042?ref=naver",
-      "pub_date": "2026-04-17T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"교착 상태 조속히 해소…해협 안정 메커니즘 모색\"",
-      "link": "https://www.ajunews.com/view/20260417223842330",
-      "pub_date": "2026-04-17T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란 ‘호르무즈 개방’에 “땡큐…對이란 해상봉쇄는 ...",
-      "link": "https://www.mk.co.kr/article/12020466",
-      "pub_date": "2026-04-17T22:38:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 이란 해상 봉쇄는 유지\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816146_36925.html",
-      "pub_date": "2026-04-17T22:37:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 협상 100% 완료까지 해군 봉쇄는 유지할 것\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394557",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"호르무즈 개방 감사…이란 대상 봉쇄는 유지\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596433",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 화상회의…靑 \"국제사회 연대 강조 계기 돼\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721461551015",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지\"",
-      "link": "https://www.hankyung.com/article/2026041792687",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “협상 100% 완료 때까지 이란 해상봉쇄 유지”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/17/JF4JNT63IFBPTHWDH5U7VVYC5A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     }
