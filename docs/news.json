@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 06:15:26",
+  "updated": "2026-04-18 06:20:28",
   "total": 200,
   "breaking": 170,
   "items": [
+    {
+      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
+      "link": "https://www.kbsm.net/news/view.php?idx=516399",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
+      "link": "https://www.etoday.co.kr/news/view/2576877",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]국힘, 오늘 서울시장 후보 확정",
       "link": "https://magazine.hankyung.com/business/article/202604189374b",
@@ -1783,24 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 국제 화상회의 시작…이 대통령 참석",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596411",
-      "pub_date": "2026-04-17T21:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "길거리서 40대 여성 흉기로 찌른 60대 긴급체포…\"지인 사이\"",
-      "link": "https://www.mt.co.kr/society/2026/04/17/2026041721041943648",
-      "pub_date": "2026-04-17T21:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
