@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 15:55:28",
+  "updated": "2026-04-17 16:00:41",
   "total": 200,
-  "breaking": 123,
+  "breaking": 125,
   "items": [
+    {
+      "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
+      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417035841",
+      "pub_date": "2026-04-17T15:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "메노킨, '미니 버블팩 디스커버리 6종 세트' 한정출시···핵심 스킨케...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49038",
+      "pub_date": "2026-04-17T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "몰카 장학관, 6곳서 동료 등 41명 촬영…연수시설·친인척집서도",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902483",
+      "pub_date": "2026-04-17T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전광훈 “서부지법 난동배후? 난 그때 자고 있었다” 혐의부인",
+      "link": "https://www.dt.co.kr/article/12058009?ref=naver",
+      "pub_date": "2026-04-17T15:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 시설투자는 사수하고 채무상환은 포기…유증 2.4조→...",
+      "link": "https://magazine.hankyung.com/business/article/202604178594b",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
@@ -19,6 +64,15 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공보의 급감에 농촌 의료공백…추경으로 300여 명 긴급 채용",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538889&ref=A",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -184,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2576776",
+      "title": "[속보] 코스피, 34.13p(0.55%) 내린 6191.92 마감",
+      "link": "https://www.ajunews.com/view/20260417153109095",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 34.13p(0.55%) 내린 6191.92 마감",
-      "link": "https://www.ajunews.com/view/20260417153109095",
+      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2576776",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "{단독} 광주시의회, 거액 통합청사 리모델링 '선집행 강행' 논란",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202604171011464382caa2b7671d_7",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "전광훈 \"난 오줌도 혼자 못싸는 중환자\"…보석 후 첫 재판",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03444006645417104",
-      "pub_date": "2026-04-17T11:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "주주환원으로 방향 튼 KCC…'할인 기업'에서 '밸류업 후보'로의 전환점",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728739",
-      "pub_date": "2026-04-17T11:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, 통산 14승 향해 시동…LA 챔피언십 공동 2위 출발",
-      "link": "https://www.nocutnews.co.kr/news/6504087?utm_source=naver&utm_medium=article&utm_campaign=20260417114638",
-      "pub_date": "2026-04-17T11:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구속 석방 후 열린 재판서 전광훈 혐의 부인…\"난동 때 잤다\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522200&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
