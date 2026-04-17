@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 06:00:35",
+  "updated": "2026-04-18 06:05:25",
   "total": 200,
-  "breaking": 170,
+  "breaking": 169,
   "items": [
+    {
+      "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
+      "link": "https://www.news1.kr/world/usa-canada/6140795",
+      "pub_date": "2026-04-18T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "홍준표 “붉게 지는 석양의 아름다움처럼…” [김태훈의 의미 또는 재미...",
+      "link": "https://www.segye.com/newsView/20260417514704?OutUrl=naver",
+      "pub_date": "2026-04-18T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 뉴욕증시, 1%대 강세 마감…S&P500·나스닥 사상 최고치",
       "link": "https://www.etoday.co.kr/news/view/2576876",
@@ -1783,24 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"美·이란 2차 협상 통해 합의문 서명 가능…파키스탄 중재 진전...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269830",
-      "pub_date": "2026-04-17T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영·프 주도 국제 화상회의 시작...이 대통령 곧 발언",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604172117069828",
-      "pub_date": "2026-04-17T21:17:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
