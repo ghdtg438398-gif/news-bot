@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 21:45:28",
+  "updated": "2026-04-17 21:50:32",
   "total": 200,
-  "breaking": 133,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[속보] 호르무즈 국제 화상회의 시작…이 대통령 참석",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029695868&code=61111111&cp=nv",
+      "pub_date": "2026-04-17T21:45:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "창원시 ‘입찰 비리 의혹’…‘뇌물죄’ 경찰 수사 확대",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539138&ref=A",
+      "pub_date": "2026-04-17T21:40:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 호르무즈 국제 화상회의 시작…李대통령 공식 발언 예정",
       "link": "https://biz.heraldcorp.com/article/10720031?ref=naver",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 英·佛 주도 호르무즈 관련 화상 정상회의 시작",
-      "link": "https://view.asiae.co.kr/article/2026041721260399495",
+      "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
+      "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
       "pub_date": "2026-04-17T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
-      "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
+      "title": "[속보] 李대통령, 英·佛 주도 호르무즈 관련 화상 정상회의 시작",
+      "link": "https://view.asiae.co.kr/article/2026041721260399495",
       "pub_date": "2026-04-17T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
-      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721153688738",
+      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
+      "title": "[속보]호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721153688738",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정부, 마약과의 전쟁 선포...김민석 총리 주재 '마약류 대응 관계장관회...",
-      "link": "https://www.ajunews.com/view/20260417164551181",
-      "pub_date": "2026-04-17T16:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[퇴근길 포인트] 중동 리스크 확산…日 가격인상·금속 급등·정책 대응...",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301778",
-      "pub_date": "2026-04-17T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
