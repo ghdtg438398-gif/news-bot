@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 17:55:29",
+  "updated": "2026-04-17 18:00:40",
   "total": 200,
   "breaking": 119,
   "items": [
+    {
+      "title": "[속보] 여야, 광주 광산을 등 4개 선거구에 '중대선거구제' 도입 합의",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170050",
+      "pub_date": "2026-04-17T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광역의원 비례비율 10%→14% 상향…의원 늘어날 전망",
+      "link": "https://www.segye.com/newsView/20260417513352?OutUrl=naver",
+      "pub_date": "2026-04-17T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[판결문 AI 요약] 이종호 사건 일부 '공소기각'…법원 \"특검 수사범위 아...",
+      "link": "https://www.newspim.com/news/view/20260417001046",
+      "pub_date": "2026-04-17T17:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
       "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
@@ -19,6 +46,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전재수 \"한동훈 '허위사실 유포' 고소…휴대전화 비밀번호 꼭 푸...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790242.html",
+      "pub_date": "2026-04-17T17:51:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -130,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야, 선거 40여일 앞두고…시도의원 120여명 더 뽑기로 합의",
+      "title": "[속보] 여야, 선거 40여일 앞두고…시도의원 비례대표 93명→120여명",
       "link": "https://www.sidae.com/article/2026041717311299743",
       "pub_date": "2026-04-17T17:33:00+09:00",
       "source_id": "yna",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]韓유조선 홍해 통과…호르무즈 해협 봉쇄 후 처음",
-      "link": "https://www.munhwa.com/article/11583134?ref=naver",
-      "pub_date": "2026-04-17T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 독일·프랑스 등 정부 공식 소통서 왓츠앱·시그널 퇴출",
-      "link": "https://www.news2day.co.kr/article/20260417500223",
-      "pub_date": "2026-04-17T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
-      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515834",
-      "pub_date": "2026-04-17T14:48:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
-      "link": "https://www.dt.co.kr/article/12057999?ref=naver",
-      "pub_date": "2026-04-17T14:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
