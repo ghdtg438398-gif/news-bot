@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 18:55:28",
+  "updated": "2026-04-17 19:00:40",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 민중기 특검, '그림 청탁' 김상민 前검사 징역 6년 구형",
+      "link": "https://www.dailian.co.kr/news/view/1635013/?sc=Naver",
+      "pub_date": "2026-04-17T18:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "돌아온 늑구에…오늘부터 한화 이기자? 폭발한 밈",
+      "link": "https://www.munhwa.com/article/11583153?ref=naver",
+      "pub_date": "2026-04-17T18:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[핌in김해] 홍지원-김민선-전예성, 넥센·세인트나인 마스터스 1R 공동 ...",
+      "link": "https://www.newspim.com/news/view/20260417001077",
+      "pub_date": "2026-04-17T18:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] '홍해 뚫은' SK해운 유조선, 보름 뒤 한국 도착할 듯",
       "link": "https://news.jtbc.co.kr/article/NB12294700?influxDiv=NAVER",
@@ -85,7 +112,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰총장 대행 “국정조사 검사 증인채택 철회해 달라”",
+      "title": "[속보] 구자현 “참담한 마음…국정조사서 평검사 증인채택 철회해야”",
       "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
       "pub_date": "2026-04-17T18:36:00+09:00",
       "source_id": "yna",
@@ -238,15 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 낮엔 ‘원팀’ 밤엔 ‘컷오프’…민주당 전북도당의 ‘기묘한 2...",
-      "link": "https://www.jjan.kr/article/20260417500087",
-      "pub_date": "2026-04-17T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
       "pub_date": "2026-04-17T18:16:00+09:00",
@@ -254,6 +272,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 낮엔 ‘원팀’ 밤엔 ‘컷오프’…민주당 전북도당의 ‘기묘한 2...",
+      "link": "https://www.jjan.kr/article/20260417500087",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
@@ -274,8 +301,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
-      "link": "https://www.viva100.com/article/20260417500704",
+      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
       "pub_date": "2026-04-17T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -283,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
+      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
+      "link": "https://www.viva100.com/article/20260417500704",
       "pub_date": "2026-04-17T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 한화솔루션, 유증 2.4조→1.8조 축소…채무상환 비중 줄여",
       "link": "http://www.fnnews.com/news/202604171540359867",
       "pub_date": "2026-04-17T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA투어 LA 챔피언십 1R 공동 2위 순항",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365458",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "20일 도정 복귀하는 김동연 지사, '41조 추경'...민생·에너지 중점 지원",
-      "link": "https://www.news2day.co.kr/article/20260417500249",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 7.07포인트(0.61%) 오른 1170.04 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833711",
-      "pub_date": "2026-04-17T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
