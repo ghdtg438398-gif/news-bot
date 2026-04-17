@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 21:15:31",
+  "updated": "2026-04-17 21:20:33",
   "total": 200,
-  "breaking": 122,
+  "breaking": 126,
   "items": [
+    {
+      "title": "길거리서 40대 여성 흉기로 찌른 60대 긴급체포…\"지인 사이\"",
+      "link": "https://www.mt.co.kr/society/2026/04/17/2026041721041943648",
+      "pub_date": "2026-04-17T21:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"美·이란 2차 협상 통해 합의문 서명 가능…파키스탄 중재 진전...",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269830",
+      "pub_date": "2026-04-17T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 영·프 주도 국제 화상회의 시작...이 대통령 곧 발언",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604172117069828",
+      "pub_date": "2026-04-17T21:17:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 해협 국제 화상회의 시작…이재명 대통령 공개 발언 예...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539101&ref=A",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721153688738",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
+      "link": "https://www.sedaily.com/article/20034010?ref=naver",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "5-0 영봉승 완성…kt wiz, 키움 제압하고 단독 2위 도약",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037685",
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)LX하우시스 분쟁에 재무악화 중기…정부가 자금 지원",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298264&inflow=N",
-      "pub_date": "2026-04-17T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·시그널 편성",
-      "link": "http://www.joynews24.com/view/1961301",
-      "pub_date": "2026-04-17T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596137",
-      "pub_date": "2026-04-17T16:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"핵 인정 교황\" vs \"폭군\" 트럼프·교황 공방…교황 형 자택 '폭탄 소동...",
-      "link": "https://news.jtbc.co.kr/article/NB12294703?influxDiv=NAVER",
-      "pub_date": "2026-04-17T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신현송 한은 총재 후보자 청문보고서 채택 또 불발…20일 재논의",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524645",
-      "pub_date": "2026-04-17T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신현송 청문보고서 불발…'딸 불법 여권' 논란 여파",
-      "link": "https://www.nocutnews.co.kr/news/6504271?utm_source=naver&utm_medium=article&utm_campaign=20260417042241",
-      "pub_date": "2026-04-17T16:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"고향과 연결고리 강화\"..서울도민회 35대 회장단, 제주의소리 방문",
-      "link": "https://www.jejusori.net/news/articleView.html?idxno=501839",
-      "pub_date": "2026-04-17T16:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
