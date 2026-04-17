@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 16:20:32",
+  "updated": "2026-04-17 16:25:25",
   "total": 200,
-  "breaking": 128,
+  "breaking": 126,
   "items": [
+    {
+      "title": "[속보]신현송 청문보고서 불발…'딸 불법 여권' 논란 여파",
+      "link": "https://www.nocutnews.co.kr/news/6504271?utm_source=naver&utm_medium=article&utm_campaign=20260417042241",
+      "pub_date": "2026-04-17T16:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"고향과 연결고리 강화\"..서울도민회 35대 회장단, 제주의소리 방문",
+      "link": "https://www.jejusori.net/news/articleView.html?idxno=501839",
+      "pub_date": "2026-04-17T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구속 풀려난 지 2주도 안 돼서 다시 고시원 방화…60대 남성 검거",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522555&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 재경위, 신현송 한은 총재 후보자 채택 불발 … 20일 재논의",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700209.html",
@@ -148,21 +175,21 @@
       "is_scoop": false
     },
     {
-      "title": "[지평선] 장동혁의 사진 한 장",
-      "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
       "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
       "pub_date": "2026-04-17T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[지평선] 장동혁의 사진 한 장",
+      "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -176,7 +203,7 @@
     },
     {
       "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
-      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417035841",
+      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417042341",
       "pub_date": "2026-04-17T15:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -186,6 +213,15 @@
     {
       "title": "\"폰으로 머리를...\" '3살 사망' 친모가 보낸 메시지 보니 '끔찍'",
       "link": "http://www.fnnews.com/news/202604171536375448",
+      "pub_date": "2026-04-17T15:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
+      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417035841",
       "pub_date": "2026-04-17T15:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,15 +337,6 @@
       "is_scoop": false
     },
     {
-      "title": "부산 신도브래뉴아파트 앞 차선 통제 중...차량 우회 안내",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559806",
-      "pub_date": "2026-04-17T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]성비위·음주사고 경찰관…솜방망이 처분에 비위 반복",
       "link": "https://www.nocutnews.co.kr/news/6504225?utm_source=naver&utm_medium=article&utm_campaign=20260417034540",
       "pub_date": "2026-04-17T15:46:00+09:00",
@@ -317,6 +344,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "부산 신도브래뉴아파트 앞 차선 통제 중...차량 우회 안내",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559806",
+      "pub_date": "2026-04-17T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 한화솔루션, 유상증자 정정 공시…특수관계인 참여로 공정위 신...",
@@ -1765,42 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 해협 봉쇄 이후 한국 선박 첫 홍해 통과",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029694059&code=61131411&cp=nv",
-      "pub_date": "2026-04-17T13:00:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오산 누읍동 인근서 화학물질 가스 누출 발생…\"대피 권고\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294644?influxDiv=NAVER",
-      "pub_date": "2026-04-17T12:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "창원시, 산호공원 사면 보강공사 준공 현장 점검",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300444",
-      "pub_date": "2026-04-17T12:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오산 한 공장서 화학물질가스 누출",
-      "link": "https://www.kyeonggi.com/article/20260417580145",
-      "pub_date": "2026-04-17T12:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
