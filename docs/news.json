@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 17:35:34",
+  "updated": "2026-04-17 17:40:29",
   "total": 200,
   "breaking": 123,
   "items": [
+    {
+      "title": "[속보] '딸 불법 여권' 논란 신현송 한은 총재 인사청문보고서 채택 불...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700232.html",
+      "pub_date": "2026-04-17T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
       "link": "https://www.kyeonggi.com/article/20260417580330",
@@ -13,17 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[퇴근길머니] 코스피, 랠리 후 '숨고르기'…경상흑자에도 뛰는 환율",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173223sMe",
-      "pub_date": "2026-04-17T17:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 합...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524659",
+      "title": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173303wI8",
       "pub_date": "2026-04-17T17:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,9 +40,27 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173303wI8",
+      "title": "[속보]여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 합...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524659",
       "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[퇴근길머니] 코스피, 랠리 후 '숨고르기'…경상흑자에도 뛰는 환율",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173223sMe",
+      "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “비례대표 시·도의원 정수 비율 14%로 상향” 합의",
+      "link": "https://www.viva100.com/article/20260417500680",
+      "pub_date": "2026-04-17T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -51,15 +69,6 @@
     {
       "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
       "link": "https://www.viva100.com/article/20260417500682",
-      "pub_date": "2026-04-17T17:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 여야 “비례대표 시·도의원 정수 비율 14%로 상향” 합의",
-      "link": "https://www.viva100.com/article/20260417500680",
       "pub_date": "2026-04-17T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,7 +85,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790225.html",
       "pub_date": "2026-04-17T17:27:00+09:00",
       "source_id": "chosun",
@@ -85,7 +94,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790224.html",
       "pub_date": "2026-04-17T17:26:00+09:00",
       "source_id": "chosun",
@@ -139,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://www.ajunews.com/view/20260417171724216",
       "pub_date": "2026-04-17T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,18 +166,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
-      "link": "https://www.ajunews.com/view/20260417171724216",
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
       "pub_date": "2026-04-17T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
-      "link": "https://www.sedaily.com/article/20033919?ref=naver",
-      "pub_date": "2026-04-17T17:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -186,6 +186,15 @@
     {
       "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
       "link": "https://biz.heraldcorp.com/article/10719956?ref=naver",
+      "pub_date": "2026-04-17T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://www.sedaily.com/article/20033919?ref=naver",
       "pub_date": "2026-04-17T17:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -472,21 +481,21 @@
       "is_scoop": false
     },
     {
-      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
-      "pub_date": "2026-04-17T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 신현송 청문보고서 채택 불발…‘딸 불법 여권’ 논란 여파",
       "link": "https://www.segye.com/newsView/20260417512509?OutUrl=naver",
       "pub_date": "2026-04-17T16:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -616,15 +625,6 @@
       "is_scoop": false
     },
     {
-      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
-      "pub_date": "2026-04-17T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
       "pub_date": "2026-04-17T16:42:00+09:00",
@@ -632,6 +632,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -1792,15 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
-      "link": "https://biz.heraldcorp.com/article/10719779?ref=naver",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
