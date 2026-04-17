@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 19:35:27",
+  "updated": "2026-04-17 19:37:12",
   "total": 200,
   "breaking": 118,
   "items": [
+    {
+      "title": "[단독] \"카트 훔치고 이물질 협박당해\"…시장 휘젓던 '동네 조폭' 구속 ...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188828",
+      "pub_date": "2026-04-17T19:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 구자현 檢 \"검사 안타까운 소식 참담…어떤 국조도 재판 영향 안...",
       "link": "https://www.pressian.com/pages/articles/2026041719324794112?utm_source=naver&utm_medium=search",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
