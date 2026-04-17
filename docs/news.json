@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 17:25:34",
+  "updated": "2026-04-17 17:30:33",
   "total": 200,
-  "breaking": 123,
+  "breaking": 124,
   "items": [
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://www.etoday.co.kr/news/view/2576834",
+      "pub_date": "2026-04-17T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[현장] '4004가구 도시 재편' 하안주공3·4단지...7곳 현설 참석",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=118709",
@@ -10,6 +19,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 최초 도입”...",
+      "link": "https://www.khan.co.kr/article/202604171723001",
+      "pub_date": "2026-04-17T17:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -85,15 +103,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
-      "link": "https://view.asiae.co.kr/article/2026041717164132937",
-      "pub_date": "2026-04-17T17:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 광주 4곳 선거구서 중대선거구제 도입…총 27개곳 확대 실시",
       "link": "http://www.yonhapnewstv.co.kr/AKR202604171717509cl",
       "pub_date": "2026-04-17T17:18:00+09:00",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
-      "link": "https://view.asiae.co.kr/article/2026041717171138166",
+      "title": "[속보]여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://view.asiae.co.kr/article/2026041717164132937",
       "pub_date": "2026-04-17T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -114,6 +123,15 @@
     {
       "title": "[속보] 여야, 광역의원 비례비율 14%로 상향 합의…의원 늘어날 듯",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417171732024",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://view.asiae.co.kr/article/2026041717171138166",
       "pub_date": "2026-04-17T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,15 +166,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538951&ref=A",
-      "pub_date": "2026-04-17T17:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 광주 선거구 4곳서 시·도의원 선거 최초 중대선거구제 도입",
       "link": "https://www.news1.kr/politics/assembly/6140571",
       "pub_date": "2026-04-17T17:16:00+09:00",
@@ -172,6 +181,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538951&ref=A",
+      "pub_date": "2026-04-17T17:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -202,21 +220,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
-      "link": "https://www.hankyung.com/article/2026041788537",
-      "pub_date": "2026-04-17T17:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "외교부 \"이란 인도적 지원 전용 가능성 없어\"…미스 이란도 \"오해 풀려...",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417171253Mm5",
       "pub_date": "2026-04-17T17:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
+      "link": "https://www.hankyung.com/article/2026041788537",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -346,15 +364,6 @@
       "is_scoop": false
     },
     {
-      "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
-      "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
-      "pub_date": "2026-04-17T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
       "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
       "pub_date": "2026-04-17T17:00:00+09:00",
@@ -364,9 +373,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 신현송 청문보고서 채택 불발…‘딸 불법 여권’ 논란 여파",
-      "link": "https://www.segye.com/newsView/20260417512509?OutUrl=naver",
-      "pub_date": "2026-04-17T16:58:00+09:00",
+      "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
+      "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
+      "pub_date": "2026-04-17T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -379,6 +388,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신현송 청문보고서 채택 불발…‘딸 불법 여권’ 논란 여파",
+      "link": "https://www.segye.com/newsView/20260417512509?OutUrl=naver",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하,국민의힘 대구시장 후보 최종 경선",
-      "link": "https://www.news1.kr/politics/assembly/6140271",
-      "pub_date": "2026-04-17T14:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "탈출 9일 만에 돌아온 늑대 ‘늑구’",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302613",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
