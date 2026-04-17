@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-17 16:10:29",
+  "updated": "2026-04-17 16:15:30",
   "total": 200,
-  "breaking": 125,
+  "breaking": 127,
   "items": [
     {
+      "title": "'밑 빠진 독' 옛말…프로야구 1천만 열기→年 1조 가시권",
+      "link": "https://www.nocutnews.co.kr/news/6504256?utm_source=naver&utm_medium=article&utm_campaign=20260417041341",
+      "pub_date": "2026-04-17T16:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 거래소, 한화솔루션에 경고…\"유증 22% 축소는 불성실공시\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170421&t=NN",
+      "pub_date": "2026-04-17T16:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 코스피, 소폭 하락하며 6190선 마감…코스닥은 상승",
+      "link": "https://www.segye.com/newsView/20260417511800?OutUrl=naver",
+      "pub_date": "2026-04-17T16:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중기부장관, 중동전쟁 장기화에 경남 민생현장 점검",
+      "link": "https://www.nocutnews.co.kr/news/6504172?utm_source=naver&utm_medium=article&utm_campaign=20260417041041",
+      "pub_date": "2026-04-17T16:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 청문보고서 채택 불발",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041716082735044",
+      "pub_date": "2026-04-17T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 청문보고서 채택 불발",
+      "link": "https://www.hankyung.com/article/2026041784337",
+      "pub_date": "2026-04-17T16:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[마감시황] 미·이란 2차 협상 대기에 코스피 6191 숨 고르기…외국인 순...",
+      "link": "https://www.newspim.com/news/view/20260417000921",
+      "pub_date": "2026-04-17T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신현송 한은 총재 후보자 청문보고서 채택 또 불발…20일 재논의",
       "link": "https://www.news1.kr/politics/assembly/6140175",
       "pub_date": "2026-04-17T16:05:00+09:00",
       "source_id": "yna",
@@ -265,24 +328,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 7.07포인트(0.61%) 오른 1170.04 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833711",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 34.13포인트(0.55%) 내린 6191.92 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833710",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김세영, LPGA투어 LA 챔피언십 1R 공동 2위 순항",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365458",
       "pub_date": "2026-04-17T15:42:00+09:00",
@@ -298,6 +343,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 7.07포인트(0.61%) 오른 1170.04 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833711",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 34.13포인트(0.55%) 내린 6191.92 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833710",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1739,69 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 오산 누읍동 일대 화학 가스 누출…\"대피 권고\"",
-      "link": "https://www.news1.kr/local/gyeonggi/6140119",
-      "pub_date": "2026-04-17T12:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[심층기획] 학교 담장 넘어 마을로…'온 동네 돌봄'으로 키우는 아이들",
-      "link": "http://news.ebs.co.kr/ebsnews/allView/60714823/N",
-      "pub_date": "2026-04-17T12:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)송영길 행선지, '하남갑' 확실",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298223&inflow=N",
-      "pub_date": "2026-04-17T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538812&ref=A",
-      "pub_date": "2026-04-17T12:26:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "파주시, ‘고유가 피해지원금’ 지급 본격화… 소득 하위 70%까지 확대",
-      "link": "http://www.breaknews.com/1201124",
-      "pub_date": "2026-04-17T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "조현준 효성 회장, '강요미수 혐의' 조현문 재판 증인 불출석...8월 재소...",
-      "link": "https://www.newspim.com/news/view/20260417000632",
-      "pub_date": "2026-04-17T12:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 유병언 일가는 미국 호화 대저택에?…‘횡령 창구’ 법인도 ‘영...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538811&ref=A",
-      "pub_date": "2026-04-17T12:23:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
