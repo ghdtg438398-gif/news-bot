@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 15:15:30",
+  "updated": "2026-04-17 15:20:28",
   "total": 200,
-  "breaking": 120,
+  "breaking": 119,
   "items": [
+    {
+      "title": "‘NC 초비상’ 사구 맞은 김휘집, 오른 손목 골절로 엔트리 말소…“복...",
+      "link": "https://www.mk.co.kr/article/12020031",
+      "pub_date": "2026-04-17T15:18:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "70대 노모 때려 숨지게 한 40대 남매 징역형…'딸 7년·아들 3년'",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522451&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"중, 이란에 첨단 레이더 제공 검토\"...미중 갈등 새 뇌관",
       "link": "https://www.ytn.co.kr/_ln/0104_202604171512444211",
@@ -121,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
       "link": "https://magazine.hankyung.com/business/article/202604178391b",
       "pub_date": "2026-04-17T14:58:00+09:00",
@@ -139,9 +148,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
-      "pub_date": "2026-04-17T14:56:00+09:00",
+      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
+      "pub_date": "2026-04-17T14:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -150,6 +159,15 @@
     {
       "title": "[속보] 메지온, 손해배상 소송 1심서 승소…법원 \"원고 청구 기각\"",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568550",
+      "pub_date": "2026-04-17T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
       "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
       "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "헤즈볼라 \"휴전기간 이스라엘군 레바논 주둔 시 저항권 행사\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522138&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘방미’ 장동혁, 공항서 美 국무부 연락 받고 귀국 사흘 미뤄”",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750013500000",
-      "pub_date": "2026-04-17T11:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
