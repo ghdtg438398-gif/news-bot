@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 19:37:12",
+  "updated": "2026-04-17 19:40:28",
   "total": 200,
-  "breaking": 118,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[속보]전재수-한동훈 맞고소...'까르띠에 시계' 설전 고소전으로 비화",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170058",
+      "pub_date": "2026-04-17T19:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화학공장서 60대 작업자 추락… 병원 이송됐으나 중태",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500238?wlog_tag3=naver",
+      "pub_date": "2026-04-17T19:38:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] \"카트 훔치고 이물질 협박당해\"…시장 휘젓던 '동네 조폭' 구속 ...",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188828",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조서 1.8조'로 축소 정정",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700200.html",
       "pub_date": "2026-04-17T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "몰카 장학관, 6곳서 동료 등 41명 촬영…연수시설·친인척집서도",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902483",
-      "pub_date": "2026-04-17T15:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전광훈 “서부지법 난동배후? 난 그때 자고 있었다” 혐의부인",
-      "link": "https://www.dt.co.kr/article/12058009?ref=naver",
-      "pub_date": "2026-04-17T15:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
