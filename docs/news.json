@@ -1,15 +1,15 @@
 {
-  "updated": "2026-04-18 06:20:28",
+  "updated": "2026-04-18 06:25:27",
   "total": 200,
   "breaking": 170,
   "items": [
     {
-      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
-      "link": "https://www.kbsm.net/news/view.php?idx=516399",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
+      "title": "[위클리이슈] \"약포지가 없다\" 중동발 악재에 약국 아우성",
+      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=533205",
+      "pub_date": "2026-04-18T06:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -18,6 +18,15 @@
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
+      "link": "https://www.kbsm.net/news/view.php?idx=516399",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1792,15 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539103&ref=A",
-      "pub_date": "2026-04-17T21:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
