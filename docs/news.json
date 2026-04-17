@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 10:30:35",
+  "updated": "2026-04-17 10:35:29",
   "total": 200,
-  "breaking": 109,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보] 귀국 늦춘 장동혁 “이재명정부, 北향한 태도 순진하고 위험…한...",
+      "link": "https://www.dt.co.kr/article/12057955?ref=naver",
+      "pub_date": "2026-04-17T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[시선집중] 최은옥 교육차관 “서울대 10개, 거점국립대 3곳에 연 1천억...",
+      "link": "https://n.news.naver.com/mnews/article/214/0001493476?sid=100",
+      "pub_date": "2026-04-17T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "에그앤파트너스, 싱가포르서 'RWA EMPIRE 단독 IR 서밋' 개최",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=512596",
@@ -67,7 +85,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 지지율, 전주 대비 1%p 하락한 66%…민주 48%, 국힘 19%[한...",
+      "title": "[속보] 李대통령 지지율, 전주 대비 1%p 하락 66%… ‘김부겸 효과’로 ...",
       "link": "https://www.dt.co.kr/article/12057947?ref=naver",
       "pub_date": "2026-04-17T10:11:00+09:00",
       "source_id": "yna",
@@ -166,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
-      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
+      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": true
     },
     {
-      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
+      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
+      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -199,6 +217,15 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스퀘어10] 트럼프 \"미-이란 2차협상 이르면 주말\" 이견 좁혔나",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604170958063594",
+      "pub_date": "2026-04-17T09:58:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -301,21 +328,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 생후 두달 아들에 떡국 먹인 30대 엄마…결국 아동학대 혐의로 ...",
-      "link": "https://www.kyeonggi.com/article/20260417580035",
-      "pub_date": "2026-04-17T09:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "NC AI, ADB·과기정통부 워크숍서 아시아 고위급 대상 AX 비전 발표",
       "link": "https://www.nocutnews.co.kr/news/6503938?utm_source=naver&utm_medium=article&utm_campaign=20260417094237",
       "pub_date": "2026-04-17T09:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 두달 아들에 떡국 먹인 30대 엄마…결국 아동학대 혐의로 ...",
+      "link": "https://www.kyeonggi.com/article/20260417580035",
+      "pub_date": "2026-04-17T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -337,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +373,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-17T03:18:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 협상 이번 주말에 열릴 수도\"",
-      "link": "https://www.newspim.com/news/view/20260417000011",
-      "pub_date": "2026-04-17T03:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 거의 모든 것에 동의...합의 매우 가까워져\"",
-      "link": "https://www.newspim.com/news/view/20260417000010",
-      "pub_date": "2026-04-17T03:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"다음 협상 주말에 열릴 수도…휴전 연장 필요없어\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594909",
-      "pub_date": "2026-04-17T03:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
