@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 01:55:26",
+  "updated": "2026-04-18 02:00:39",
   "total": 200,
   "breaking": 170,
   "items": [
+    {
+      "title": "[속보]트럼프 \"이란과 주말 회담…하루이틀 내 합의 이뤄질 것\"",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596474",
+      "pub_date": "2026-04-18T01:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"美·이란, 아마 이번 주말 회담…하루 이틀 내 합의\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418013923Sie",
@@ -1793,15 +1802,6 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 피해자 숨졌는데도 \"친근함 표현이라 착각\"…강제추행 40대, 혐의...",
-      "link": "https://www.imaeil.com/page/view/2026041719383568990",
-      "pub_date": "2026-04-17T20:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
