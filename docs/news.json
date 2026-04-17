@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 14:20:35",
+  "updated": "2026-04-17 14:25:27",
   "total": 200,
-  "breaking": 101,
+  "breaking": 100,
   "items": [
+    {
+      "title": "[속보]韓유조선 홍해 통과했다…호르무즈 해협 봉쇄 후 처음",
+      "link": "https://www.nocutnews.co.kr/news/6504144?utm_source=naver&utm_medium=article&utm_campaign=20260417022040",
+      "pub_date": "2026-04-17T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"쟤네 모델 쓰지 마\" 엄포 놓던 백악관…'미토스 충격'에 제...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522171&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]LX공사·공간정보진흥원·품질관리원 통폐합 논의 착수",
       "link": "https://news.bizwatch.co.kr/article/real_estate/2026/04/16/0021",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
-      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
+      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
+      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
-      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
+      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
+      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 트럼프 \"이란전 순조롭게 풀리고 있어…곧 끝날 것\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417092939vc8",
       "pub_date": "2026-04-17T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 숨 고른 중동 따라 잠시 쉬어가나…6220대 출발",
-      "link": "https://www.nocutnews.co.kr/news/6503919?utm_source=naver&utm_medium=article&utm_campaign=20260417092937",
-      "pub_date": "2026-04-17T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 상승 출발 후 소폭 하락 전환",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041709285393085",
-      "pub_date": "2026-04-17T09:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
