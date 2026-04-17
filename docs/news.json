@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 16:05:32",
+  "updated": "2026-04-17 16:10:29",
   "total": 200,
-  "breaking": 124,
+  "breaking": 125,
   "items": [
+    {
+      "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 청문보고서 채택 불발",
+      "link": "https://www.news1.kr/politics/assembly/6140175",
+      "pub_date": "2026-04-17T16:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
@@ -274,15 +283,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
-      "link": "https://www.hankyung.com/article/2026041786007",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김세영, LPGA투어 LA 챔피언십 1R 공동 2위 순항",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365458",
       "pub_date": "2026-04-17T15:42:00+09:00",
@@ -298,6 +298,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
+      "link": "https://www.hankyung.com/article/2026041786007",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1793,15 +1802,6 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "\"7언더파 65타\" 김세영, LA 챔피언십 첫날 공동 2위",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037247",
-      "pub_date": "2026-04-17T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
