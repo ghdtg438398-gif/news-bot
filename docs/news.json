@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 21:10:28",
+  "updated": "2026-04-17 21:15:31",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "5-0 영봉승 완성…kt wiz, 키움 제압하고 단독 2위 도약",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037685",
+      "pub_date": "2026-04-17T21:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
+      "link": "https://www.news1.kr/politics/president/6140712",
+      "pub_date": "2026-04-17T21:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.etnews.com/20260417000335",
+      "pub_date": "2026-04-17T21:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI상보] '장성우 솔로포+소형준 무실점 역투' KT, 키움 잡고 단독 2위 도...",
+      "link": "https://www.newspim.com/news/view/20260417001100",
+      "pub_date": "2026-04-17T21:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "<속보> 지자체-양봉협회, 꿀벌 통계 조사 개선 착수",
       "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=342476",
@@ -1762,42 +1798,6 @@
       "title": "\"고향과 연결고리 강화\"..서울도민회 35대 회장단, 제주의소리 방문",
       "link": "https://www.jejusori.net/news/articleView.html?idxno=501839",
       "pub_date": "2026-04-17T16:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구속 풀려난 지 2주도 안 돼서 다시 고시원 방화…60대 남성 검거",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522555&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T16:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보 청문보고서 채택 불발",
-      "link": "https://www.sidae.com/article/2026041716090189298",
-      "pub_date": "2026-04-17T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 채택 불발 … 20일 재논의",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700209.html",
-      "pub_date": "2026-04-17T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'밑 빠진 독' 옛말…프로야구 1천만 열기→年 1조 가시권",
-      "link": "https://www.nocutnews.co.kr/news/6504256?utm_source=naver&utm_medium=article&utm_campaign=20260417041341",
-      "pub_date": "2026-04-17T16:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
