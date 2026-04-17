@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 07:15:29",
+  "updated": "2026-04-18 07:20:28",
   "total": 200,
-  "breaking": 159,
+  "breaking": 160,
   "items": [
+    {
+      "title": "[속보]호르무즈 개방...S&P500·나스닥, 사상 최고",
+      "link": "https://magazine.hankyung.com/business/article/202604189422b",
+      "pub_date": "2026-04-18T07:18:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "충격의 104일 결근..'병역비리' 송민호, 드디어 법정 출근[★FOCUS]",
+      "link": "https://www.starnewskorea.com/music/2026/04/18/2026041612054178207",
+      "pub_date": "2026-04-18T07:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
       "link": "https://www.mk.co.kr/article/12020588",
@@ -130,8 +148,8 @@
       "is_scoop": true
     },
     {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
+      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -139,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
+      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -1780,24 +1798,6 @@
       "title": "‘서울의 봄’ 김기동 감독이 홍명보 감독에게 추천한 선수는?",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539183&ref=A",
       "pub_date": "2026-04-17T21:49:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"중, 이란에 첨단 레이더 제공 검토\"...미중 갈등 새 뇌관",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604172148493081",
-      "pub_date": "2026-04-17T21:48:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“내일까지 대답”…세종시장 단일화 압박 본격화",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539169&ref=A",
-      "pub_date": "2026-04-17T21:47:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
