@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-17 12:25:30",
+  "updated": "2026-04-17 12:30:34",
   "total": 200,
-  "breaking": 110,
+  "breaking": 108,
   "items": [
+    {
+      "title": "[재난문자] 오산 누읍동 인근서 화학물질 가스 누출사고 발생",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559607",
+      "pub_date": "2026-04-17T12:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[심층기획] 학교 담장 넘어 마을로…'온 동네 돌봄'으로 키우는 아이들",
+      "link": "http://news.ebs.co.kr/ebsnews/allView/60714823/N",
+      "pub_date": "2026-04-17T12:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)송영길 행선지, '하남갑' 확실",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298223&inflow=N",
+      "pub_date": "2026-04-17T12:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "파주시, ‘고유가 피해지원금’ 지급 본격화… 소득 하위 70%까지 확대",
+      "link": "http://www.breaknews.com/1201124",
+      "pub_date": "2026-04-17T12:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "조현준 효성 회장, '강요미수 혐의' 조현문 재판 증인 불출석...8월 재소...",
+      "link": "https://www.newspim.com/news/view/20260417000632",
+      "pub_date": "2026-04-17T12:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 유병언 일가는 미국 호화 대저택에?…‘횡령 창구’ 법인도 ‘영...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538811&ref=A",
+      "pub_date": "2026-04-17T12:23:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "\"7언더파 65타\" 김세영, LA 챔피언십 첫날 공동 2위",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037247",
@@ -85,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
       "pub_date": "2026-04-17T11:54:00+09:00",
@@ -105,6 +150,15 @@
     {
       "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
       "link": "https://www.imaeil.com/page/view/2026041710075299561",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 압수수색",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1254686.html",
+      "title": "[속보] 종합특검 '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249174",
       "pub_date": "2026-04-17T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검 '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249174",
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 압수수색",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1254686.html",
       "pub_date": "2026-04-17T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]교황 친형 자택에 ‘폭발물 설치’ 신고로 주민 대피…트럼프·교...",
-      "link": "https://www.munhwa.com/article/11582955?ref=naver",
-      "pub_date": "2026-04-17T08:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "광주본부세관, '과자·커피 위장' 필로폰 밀수 적발…인수책 검거",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745146",
-      "pub_date": "2026-04-17T08:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미·이란 종전 논의 다시 급물살…이번 주말 2차 회담 분수령",
-      "link": "https://www.nocutnews.co.kr/news/6503888?utm_source=naver&utm_medium=article&utm_campaign=20260417080837",
-      "pub_date": "2026-04-17T08:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스UP] 이스라엘·레바논 \"열흘 휴전\"...미·이란, 주말 '2차 협상' 하...",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170807229416",
-      "pub_date": "2026-04-17T08:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美증시 이틀째 신고가 … 삼전·하닉 프리장 '주춤', 현대차 2%대...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700027.html",
-      "pub_date": "2026-04-17T08:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[GAM]高유가·高물가·高금리 살아남으려면 ② 5가지 섹터 ETF 톱픽",
-      "link": "https://www.newspim.com/news/view/20260416000866",
-      "pub_date": "2026-04-17T08:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
