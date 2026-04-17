@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 16:35:30",
+  "updated": "2026-04-17 16:40:30",
   "total": 200,
   "breaking": 126,
   "items": [
+    {
+      "title": "[인터뷰] 봄 몰고 온 이프아이 \"전원 센터 그룹, 잊히지 않을 것\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294708?influxDiv=NAVER",
+      "pub_date": "2026-04-17T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[정유화학 딥체인지⑤] 사업재편 속도내는 LG화학...\"당분간은 실적 부...",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=2026041716253078020a47484cf8_23",
+      "pub_date": "2026-04-17T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '딸 불법 여권' 신현송 한은 총재 후보자 청문보고서 채택 불발",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417506&PRO_CODE=99",
@@ -22,15 +40,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)LX하우시스 분쟁에 재무악화 중기…정부가 자금 지원",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298264&inflow=N",
-      "pub_date": "2026-04-17T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·걸그룹 오빠",
       "link": "http://www.joynews24.com/view/1961301",
       "pub_date": "2026-04-17T16:28:00+09:00",
@@ -38,6 +47,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)LX하우시스 분쟁에 재무악화 중기…정부가 자금 지원",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298264&inflow=N",
+      "pub_date": "2026-04-17T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
@@ -121,7 +139,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 거래소, 한화솔루션에 경고…\"유증 22% 축소는 불성실공시\"",
+      "title": "[단독] 거래소, 한화솔루션에 주의…\"유증 22% 축소는 불성실공시\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170421&t=NN",
       "pub_date": "2026-04-17T16:13:00+09:00",
       "source_id": "hankyung",
@@ -184,15 +202,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
-      "pub_date": "2026-04-17T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
       "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
       "pub_date": "2026-04-17T16:04:00+09:00",
@@ -200,6 +209,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
+      "pub_date": "2026-04-17T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 조국, 평택을 예비후보 등록…“험지지만 경쟁력 있다”",
@@ -238,21 +256,21 @@
       "is_scoop": false
     },
     {
-      "title": "[지평선] 장동혁의 사진 한 장",
-      "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
       "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
       "pub_date": "2026-04-17T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[지평선] 장동혁의 사진 한 장",
+      "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -337,20 +355,20 @@
       "is_scoop": false
     },
     {
-      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'가수 데뷔' 김남길, 박보검 뒤 잇나…\"MC 되면 매주 나올 수 있어\" (더 ...",
       "link": "https://www.xportsnews.com/article/2138019",
       "pub_date": "2026-04-17T15:54:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "박명수, 20년 지기 '이 사람'과 결별…“서로의 길 응원”",
-      "link": "https://www.wikitree.co.kr/articles/1132119",
-      "pub_date": "2026-04-17T13:26:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경기 오산시 접착제 공장서 화학물질 누출 의심 신고",
-      "link": "https://www.etoday.co.kr/news/view/2576712",
-      "pub_date": "2026-04-17T13:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
