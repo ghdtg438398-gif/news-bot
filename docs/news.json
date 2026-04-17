@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 23:55:30",
+  "updated": "2026-04-18 00:00:44",
   "total": 200,
-  "breaking": 160,
+  "breaking": 163,
   "items": [
+    {
+      "title": "[속보]트럼프 \"이란, 호르무즈 재봉쇄 않는데 동의…이제 무기화 안해\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596458",
+      "pub_date": "2026-04-17T23:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘광역 비례대표 확대·광주 광역의회 중대선거구제 도입’ 국회...",
+      "link": "https://www.joongang.co.kr/article/25421143",
+      "pub_date": "2026-04-17T23:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시는 봉쇄 않기로 합의\"",
+      "link": "https://www.hankyung.com/article/2026041793027",
+      "pub_date": "2026-04-17T23:56:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.hankyung.com/article/2026041793007",
+      "pub_date": "2026-04-17T23:55:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.hankyung.com/article/2026041793017",
+      "pub_date": "2026-04-17T23:55:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]'광역 비례대표 확대·광주 광역의회 중대선거구제 도입' 국회 법...",
       "link": "https://www.newsis.com/view/NISX20260417_0003596334",
@@ -67,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시 폐쇄하지 않기로 합의\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394566",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140763",
       "pub_date": "2026-04-17T23:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140763",
+      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시 폐쇄하지 않기로 합의\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394566",
       "pub_date": "2026-04-17T23:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
-      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
-      "pub_date": "2026-04-17T23:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
       "link": "https://www.imaeil.com/page/view/2026041723252857216",
       "pub_date": "2026-04-17T23:26:00+09:00",
@@ -150,6 +186,15 @@
     {
       "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
+      "pub_date": "2026-04-17T23:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
+      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1757,51 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 민중기 특검, '김건희 그림 청탁' 김상민 前검사 징역 6년 구형",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417508&PRO_CODE=99",
-      "pub_date": "2026-04-17T19:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538987&ref=A",
-      "pub_date": "2026-04-17T19:11:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "권성열, KPGA 투어 개막전 2라운드 단독 선두…8년 만에 우승 도전",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522752&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538985&ref=A",
-      "pub_date": "2026-04-17T19:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 휘발윳값 3년 8개월여 만에 2천 원 돌파",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604171903381228",
-      "pub_date": "2026-04-17T19:03:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
