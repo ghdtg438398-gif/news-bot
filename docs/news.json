@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 09:25:30",
+  "updated": "2026-04-17 09:30:36",
   "total": 200,
-  "breaking": 128,
+  "breaking": 127,
   "items": [
+    {
+      "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/17/54MDY5PI35EMVJJMYEG5HUUF4U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T09:28:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'선두와 3타 차' 김시우·임성재, RBC 헤리티지 공동 10위 스타트",
+      "link": "https://www.nocutnews.co.kr/news/6503920?utm_source=naver&utm_medium=article&utm_campaign=20260417092737",
+      "pub_date": "2026-04-17T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 우리로 VI 두차례 발동, 주가 21% 털썩…11000원선으로",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568461",
@@ -25,6 +43,15 @@
       "title": "충격 속보 \"김민재 에이전트 이스탄불 도착\" 5년 만에 페네르바체 복귀...",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810921",
       "pub_date": "2026-04-17T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '상승 출발' 코스피, 하락 전환…코스닥도↓",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170271&t=NN",
+      "pub_date": "2026-04-17T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
+      "title": "[속보] 코스닥, 3.81포인트(0.33%) 오른 1166.78 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833580",
       "pub_date": "2026-04-17T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 3.81포인트(0.33%) 오른 1166.78 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833580",
+      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
       "pub_date": "2026-04-17T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
-      "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
+      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
+      "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
+      "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-17T00:47:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.mk.co.kr/article/12019482",
-      "pub_date": "2026-04-17T00:47:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, 전한길 구속영장 기각...\"무리하게 구속하려 한 것\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=118914",
-      "pub_date": "2026-04-17T00:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.dt.co.kr/article/12057928?ref=naver",
-      "pub_date": "2026-04-17T00:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
