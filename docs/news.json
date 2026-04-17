@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 20:50:28",
+  "updated": "2026-04-17 20:55:28",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[단독] 대구 체육관장, 운동 빌미로 불러내 성폭행···\"중고생 피해자...",
+      "link": "https://dgmbc.com/NewsArticle/835779",
+      "pub_date": "2026-04-17T20:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 40대 여성 수차례 찌른 60대 남성 긴급체포… 중상 입은 피해자 ...",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500244?wlog_tag3=naver",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중기부장관, 중동전쟁 장기화에 경남 민생현장 점검",
-      "link": "https://www.nocutnews.co.kr/news/6504172?utm_source=naver&utm_medium=article&utm_campaign=20260417041041",
-      "pub_date": "2026-04-17T16:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
