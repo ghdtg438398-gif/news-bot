@@ -1,11 +1,92 @@
 {
-  "updated": "2026-04-17 15:40:35",
+  "updated": "2026-04-17 15:45:30",
   "total": 200,
-  "breaking": 121,
+  "breaking": 119,
   "items": [
     {
-      "title": "[속보] 코스피 34.13p(0.55%) 내린 6191.92(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2576777",
+      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조 축소…채무상환 비중 줄여",
+      "link": "http://www.fnnews.com/news/202604171540359867",
+      "pub_date": "2026-04-17T15:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 7.07포인트(0.61%) 오른 1170.04 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833711",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 34.13포인트(0.55%) 내린 6191.92 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833710",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
+      "link": "https://www.hankyung.com/article/2026041786007",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA투어 LA 챔피언십 1R 공동 2위 순항",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365458",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "20일 도정 복귀하는 김동연 지사, '41조 추경'...민생·에너지 중점 지원",
+      "link": "https://www.news2day.co.kr/article/20260417500249",
+      "pub_date": "2026-04-17T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 부산 영도구 공사로 차선 통제…안전재난문자 발송",
+      "link": "https://www.etoday.co.kr/news/view/2576782",
+      "pub_date": "2026-04-17T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
+      "link": "https://www.news1.kr/industry/general-industry/6140378",
+      "pub_date": "2026-04-17T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전광훈, 구속 석방 후 열린 재판서 혐의 부인…“난동 때 잤다”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538881&ref=A",
+      "pub_date": "2026-04-17T15:38:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2576776",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2576776",
+      "title": "[속보] 코스피 34.13p(0.55%) 내린 6191.92(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2576777",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
-      "link": "https://www.newspim.com/news/view/20260417000699",
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
+      "link": "https://www.newspim.com/news/view/20260417000699",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 1170.04 마감… 전 거래일 보다 0.61% 상승",
-      "link": "https://www.sidae.com/article/2026041715180719735",
+      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
       "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
+      "title": "[속보] 코스닥, 1170.04 마감… 전 거래일 보다 0.61% 상승",
+      "link": "https://www.sidae.com/article/2026041715180719735",
       "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,20 +274,20 @@
       "is_scoop": false
     },
     {
-      "title": "‘NC 초비상’ 사구 맞은 김휘집, 오른 손목 골절로 엔트리 말소…“복...",
-      "link": "https://www.mk.co.kr/article/12020031",
-      "pub_date": "2026-04-17T15:18:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "탈출 9일 만에 돌아온 늑구‥\"위에서 낚시바늘 제거\"",
       "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816035_36974.html",
       "pub_date": "2026-04-17T15:18:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘NC 초비상’ 사구 맞은 김휘집, 오른 손목 골절로 엔트리 말소…“복...",
+      "link": "https://www.mk.co.kr/article/12020031",
+      "pub_date": "2026-04-17T15:18:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -247,6 +328,15 @@
       "is_scoop": true
     },
     {
+      "title": "[취재수첩] \"동물원 아닌 동물원\"...'Unzoo' 우리도 가능할까?",
+      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97262",
+      "pub_date": "2026-04-17T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]국힘 대구 본경선에 유영하·추경호…충북 윤갑근·김영환",
       "link": "https://www.nocutnews.co.kr/news/6504190?utm_source=naver&utm_medium=article&utm_campaign=20260417030741",
       "pub_date": "2026-04-17T15:08:00+09:00",
@@ -262,15 +352,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[취재수첩] \"동물원 아닌 동물원\"...'Unzoo' 우리도 가능할까?",
-      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97262",
-      "pub_date": "2026-04-17T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1720,87 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]유명가수, \"14살 소녀 잔혹 살해 체포…시신은 부패\"",
-      "link": "https://www.mydaily.co.kr/page/view/2026041711291742770",
-      "pub_date": "2026-04-17T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041711282824589",
-      "pub_date": "2026-04-17T11:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럭 살며 치매노모 간병하다 '비극'…존속살해 60대 징역 6년",
-      "link": "https://www.nocutnews.co.kr/news/6504062?utm_source=naver&utm_medium=article&utm_campaign=20260417112638",
-      "pub_date": "2026-04-17T11:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
-      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합 특검, '비상계엄 가담 의혹' 해양경찰청 압수수색",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604171125043300",
-      "pub_date": "2026-04-17T11:25:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790107.html",
-      "pub_date": "2026-04-17T11:24:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, 비상계엄 당시 가담 여부 확인위해 해경 압수수색",
-      "link": "https://www.pressian.com/pages/articles/2026041711234379758?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-17T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
