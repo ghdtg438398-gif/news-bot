@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 07:10:28",
+  "updated": "2026-04-18 07:15:29",
   "total": 200,
-  "breaking": 158,
+  "breaking": 159,
   "items": [
+    {
+      "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
+      "link": "https://www.mk.co.kr/article/12020588",
+      "pub_date": "2026-04-18T07:11:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "중동전쟁 여파 속 반도체 슈퍼사이클…1분기 성장률은[한은 미리보기]",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01889286645417432",
@@ -22,6 +31,15 @@
       "is_scoop": true
     },
     {
+      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
+      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
+      "pub_date": "2026-04-18T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
       "link": "https://www.wikitree.co.kr/articles/1131390",
       "pub_date": "2026-04-18T07:00:00+09:00",
@@ -33,15 +51,6 @@
     {
       "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
       "link": "https://www.xportsnews.com/article/2138087",
-      "pub_date": "2026-04-18T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
-      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": true
     },
     {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
+      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
+      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -157,20 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
-      "link": "https://www.kbsm.net/news/view.php?idx=516399",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
       "link": "https://www.etoday.co.kr/news/view/2576877",
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
+      "link": "https://www.kbsm.net/news/view.php?idx=516399",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1789,15 +1798,6 @@
       "title": "“내일까지 대답”…세종시장 단일화 압박 본격화",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539169&ref=A",
       "pub_date": "2026-04-17T21:47:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539162&ref=A",
-      "pub_date": "2026-04-17T21:45:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
