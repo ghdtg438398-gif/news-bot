@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 00:00:44",
+  "updated": "2026-04-18 00:05:37",
   "total": 200,
-  "breaking": 163,
+  "breaking": 164,
   "items": [
+    {
+      "title": "[속보]이란, 호르무즈 해협 전면 개방 선언…레바논 휴전 이행 속 해상...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568695",
+      "pub_date": "2026-04-18T00:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[주간政談<상>] 조국, 출마 기자회견…시작도 끝도 '진보당'",
+      "link": "https://news.tf.co.kr/read/ptoday/2314579.htm",
+      "pub_date": "2026-04-18T00:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"이란, 호르무즈 재봉쇄 않는데 동의…이제 무기화 안해\"",
       "link": "https://www.newsis.com/view/NISX20260417_0003596458",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.hankyung.com/article/2026041793007",
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.hankyung.com/article/2026041793017",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.hankyung.com/article/2026041793017",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.hankyung.com/article/2026041793007",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -94,20 +112,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란, 호르무즈 해협 다시는 폐쇄하지 않기로 합의” ...",
-      "link": "https://www.chosun.com/international/international_general/2026/04/17/HZYJC7FRKFEOPACFJVBGB4TFXM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T23:47:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
       "link": "https://www.news1.kr/world/usa-canada/6140764",
       "pub_date": "2026-04-17T23:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란, 호르무즈 해협 다시는 폐쇄하지 않기로 합의” ...",
+      "link": "https://www.chosun.com/international/international_general/2026/04/17/HZYJC7FRKFEOPACFJVBGB4TFXM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T23:47:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
-      "link": "https://www.imaeil.com/page/view/2026041723252857216",
+      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
+      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
+      "link": "https://www.imaeil.com/page/view/2026041723252857216",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] “소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538996&ref=A",
-      "pub_date": "2026-04-17T19:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "\"9언더파 질주\" 권성열, DB손해보험 프로미오픈 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037602",
-      "pub_date": "2026-04-17T19:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
