@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 13:00:39",
+  "updated": "2026-04-17 13:05:29",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "[시론] 호르무즈 이후의 에너지 전략",
+      "link": "http://www.e2news.com/news/articleView.html?idxno=329595",
+      "pub_date": "2026-04-17T13:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 해협 봉쇄 이후 우리 선박 첫 홍해 통과",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029694059&code=61131411&cp=nv",
+      "pub_date": "2026-04-17T13:00:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 오산 누읍동 인근서 화학물질 가스 누출 발생…\"대피 권고\"",
       "link": "https://news.jtbc.co.kr/article/NB12294644?influxDiv=NAVER",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "외교부, 알제리·리비아와 원유 공급 협의…에너지 협력 확대",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538530&ref=A",
-      "pub_date": "2026-04-17T08:37:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 헤즈볼라 향해 \"중요한 시기에 온건하게 행동하라\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02604326645417104",
-      "pub_date": "2026-04-17T08:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
