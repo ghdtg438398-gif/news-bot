@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 03:45:28",
+  "updated": "2026-04-18 03:50:34",
   "total": 200,
-  "breaking": 170,
+  "breaking": 169,
   "items": [
+    {
+      "title": "서울 성북동 주택 화재...인명 피해 없어",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560118",
+      "pub_date": "2026-04-18T03:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "옥태훈, 개막전 둘째날 3위로 도약…선두는 권성열 [KPGA]",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019824",
@@ -1793,15 +1802,6 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 40대 여성 수차례 찌른 60대 남성 긴급체포… 중상 입은 피해자 ...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500244?wlog_tag3=naver",
-      "pub_date": "2026-04-17T20:47:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
