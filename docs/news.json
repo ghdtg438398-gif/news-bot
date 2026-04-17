@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 00:30:36",
+  "updated": "2026-04-18 00:35:27",
   "total": 200,
   "breaking": 164,
   "items": [
@@ -103,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.hankyung.com/article/2026041793017",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.hankyung.com/article/2026041793007",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -112,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.hankyung.com/article/2026041793007",
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.hankyung.com/article/2026041793017",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -139,7 +139,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 英총리 “10여개국 호르무즈 방어임무 참여 준비”",
+      "title": "[속보]영국·프랑스 “호르무즈, 영구 개방돼야...12개국 방어임무 참여...",
       "link": "https://www.sedaily.com/article/20034041?ref=naver",
       "pub_date": "2026-04-17T23:52:00+09:00",
       "source_id": "yna",
@@ -184,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140763",
+      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시 폐쇄하지 않기로 합의\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394566",
       "pub_date": "2026-04-17T23:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시 폐쇄하지 않기로 합의\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394566",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140763",
       "pub_date": "2026-04-17T23:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
