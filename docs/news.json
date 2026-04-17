@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:05:25",
+  "updated": "2026-04-18 06:10:28",
   "total": 200,
-  "breaking": 169,
+  "breaking": 170,
   "items": [
+    {
+      "title": "[속보]국힘, 오늘 서울시장 후보 확정",
+      "link": "https://magazine.hankyung.com/business/article/202604189374b",
+      "pub_date": "2026-04-18T06:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
       "link": "https://www.news1.kr/world/usa-canada/6140795",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539102&ref=A",
-      "pub_date": "2026-04-17T21:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
