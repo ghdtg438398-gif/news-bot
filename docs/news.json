@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 20:20:34",
+  "updated": "2026-04-17 20:25:30",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보]'광역 비례 확대·중대선거구제 일부 도입' 정개특위 전체회의 통...",
+      "link": "https://www.hankyung.com/article/2026041791857",
+      "pub_date": "2026-04-17T20:24:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "공보의 급감에 농어촌 의료공백 현실화…정부, 추경으로 취약지 진료 공...",
+      "link": "https://www.newspim.com/news/view/20260417001091",
+      "pub_date": "2026-04-17T20:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 체육관장이 입시생들에 성범죄‥\"알려지지 않은 피해 더 있다\"",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816120_37004.html",
+      "pub_date": "2026-04-17T20:19:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 피해자 숨졌는데도 \"흔한 장난\"…강제추행 40대, 혐의 부인",
       "link": "https://www.imaeil.com/page/view/2026041719383568990",
@@ -1774,33 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[마감시황] 미·이란 2차 협상 대기에 코스피 6191 숨 고르기…외국인 순...",
-      "link": "https://www.newspim.com/news/view/20260417000921",
-      "pub_date": "2026-04-17T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신현송 한은 총재 후보자 청문보고서 채택 또 불발…20일 재논의",
-      "link": "https://www.news1.kr/politics/assembly/6140175",
-      "pub_date": "2026-04-17T16:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
-      "pub_date": "2026-04-17T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
