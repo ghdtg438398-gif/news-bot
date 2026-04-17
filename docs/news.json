@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-17 17:10:31",
+  "updated": "2026-04-17 17:15:33",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
+      "link": "https://www.hankyung.com/article/2026041788537",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
+      "link": "https://www.hankyung.com/article/2026041788547",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "외교부 \"이란 인도적 지원 전용 가능성 없어\"…미스 이란도 \"오해 풀려...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417171253Mm5",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://www.yna.co.kr/view/AKR20260417134400001?input=1195m",
+      "pub_date": "2026-04-17T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417134500001?input=1195m",
+      "pub_date": "2026-04-17T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)'색동원 공소장'서 드러난 시설장 만행…방·복도·화장실서도 '범...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298265&inflow=N",
+      "pub_date": "2026-04-17T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
+      "link": "https://www.news1.kr/politics/assembly/6140562",
+      "pub_date": "2026-04-17T17:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "길고양이 발로 차 죽여 처벌 후 또 같은 범행…결국 '실형' 선고",
+      "link": "https://view.asiae.co.kr/article/2026041717002782603",
+      "pub_date": "2026-04-17T17:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
+      "link": "https://www.news1.kr/society/incident-accident/6140559",
+      "pub_date": "2026-04-17T17:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)동반위, 대기업 분쟁 피해 '대진글라스' 지원 나섰다",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298266&inflow=N",
+      "pub_date": "2026-04-17T17:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[필동정담] 머스크의 바벨탑 실험",
       "link": "https://www.mk.co.kr/article/12020166",
@@ -229,15 +319,6 @@
       "is_scoop": false
     },
     {
-      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
-      "pub_date": "2026-04-17T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
       "pub_date": "2026-04-17T16:42:00+09:00",
@@ -245,6 +326,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "서울 길음동 한복판서 '대낮 마약'… 외국인 남성 긴급체포",
-      "link": "https://www.ajunews.com/view/20260417142029001",
-      "pub_date": "2026-04-17T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"쟤네 모델 쓰지 마\" 엄포 놓던 백악관…'미토스 충격'에 제...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522171&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]韓유조선 홍해 통과했다…호르무즈 해협 봉쇄 후 처음",
-      "link": "https://www.nocutnews.co.kr/news/6504144?utm_source=naver&utm_medium=article&utm_campaign=20260417022040",
-      "pub_date": "2026-04-17T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]LX공사·공간정보진흥원·품질관리원 통폐합 논의 착수",
-      "link": "https://news.bizwatch.co.kr/article/real_estate/2026/04/16/0021",
-      "pub_date": "2026-04-17T14:17:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 김은혜, “국민을 인민으로 만드는 정부 사절”...‘장특공제 폐...",
-      "link": "https://www.kyeonggi.com/article/20260417580115",
-      "pub_date": "2026-04-17T14:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"엔진주 오후 돌연 점화\"…한화엔진·STX엔진·HD현대마린엔진 동...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568538",
-      "pub_date": "2026-04-17T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화엔진 주가 오후들어 급등…17%↑",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568534",
-      "pub_date": "2026-04-17T14:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 입법조사처, '국세데이터 협력' 보도자료에 사적 문구 노출 '논란...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28021",
-      "pub_date": "2026-04-17T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
-      "link": "https://www.mk.co.kr/article/12019915",
-      "pub_date": "2026-04-17T14:08:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 해협 봉쇄 후 韓유조선 첫 홍해 통과...이 대통령 \"원팀...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604170028",
-      "pub_date": "2026-04-17T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
