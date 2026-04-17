@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 15:50:33",
+  "updated": "2026-04-17 15:55:28",
   "total": 200,
-  "breaking": 121,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'가수 데뷔' 김남길, 박보검 뒤 잇나…\"MC 되면 매주 나올 수 있어\" (더 ...",
+      "link": "https://www.xportsnews.com/article/2138019",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종전협상 관망세에 코스피 0.5% 하락… 코스닥은 상승 마감",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269804",
+      "pub_date": "2026-04-17T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 소폭 하락 6190선 마감…코스닥은 소폭 상승",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045331",
+      "pub_date": "2026-04-17T15:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피 6191.92(▼34.13p, 0.55%), 원·달러 환율 1483.5(▲8.9원) ...",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5188767",
@@ -211,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
+      "title": "[속보] 한화솔루션, 유상증자 규모 하향 정정신고 '2.4조→1.8조원'",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596007",
       "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 하향 정정신고 '2.4조→1.8조원'",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596007",
+      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
       "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "구속 석방 후 열린 재판서 전광훈 혐의 부인…\"난동 때 잤다\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522200&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "접근금지 끝나자 아내 살해…부평 가정폭력 살인 60대 남성 항소심서도...",
-      "link": "https://www.kyeongin.com/article/1762028",
-      "pub_date": "2026-04-17T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"아이가 혼자 부딪혔다\"더니…3살 아들 숨지게 한 20대 친부 검찰 송치",
-      "link": "https://www.mt.co.kr/society/2026/04/17/2026041711125791110",
-      "pub_date": "2026-04-17T11:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
