@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 14:30:41",
+  "updated": "2026-04-17 14:35:26",
   "total": 200,
   "breaking": 99,
   "items": [
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
+      "link": "https://www.yna.co.kr/view/AKR20260417095800011?input=1195m",
+      "pub_date": "2026-04-17T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "토큰포스트-코박, 콘텐츠 협업 위한 업무협약(MOU) 체결",
       "link": "https://www.tokenpost.kr/news/insights/350490",
@@ -220,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
-      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
+      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
+      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
-      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
+      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
+      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"주말쯤 협상‥이스라엘-레바논 열흘 휴전\"",
-      "link": "https://imnews.imbc.com/replay/2026/nw930/article/6815939_36996.html",
-      "pub_date": "2026-04-17T09:31:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
