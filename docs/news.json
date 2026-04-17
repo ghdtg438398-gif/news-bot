@@ -1,12 +1,30 @@
 {
-  "updated": "2026-04-17 13:15:32",
+  "updated": "2026-04-17 13:20:33",
   "total": 200,
-  "breaking": 111,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[속보]호르무즈 봉쇄로 발 묶인 우리 유조선, 홍해 첫 통과",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260417.99099004943",
+      "pub_date": "2026-04-17T13:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 우리 국적 유조선 , 호르무즈 해협 봉쇄 이후 첫 홍해 통과",
       "link": "https://www.kyeonggi.com/article/20260417580164",
       "pub_date": "2026-04-17T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한국 선박, 호르무즈 봉쇄 이후 첫 ‘우회로’ 홍해 통과···원유...",
+      "link": "https://www.khan.co.kr/article/202604171306001",
+      "pub_date": "2026-04-17T13:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'큰손' MS 탄소 제거 크레딧 구매 중단에 시장 '충격'…업계 긴장 확산",
-      "link": "https://www.esgeconomy.com/news/articleView.html?idxno=15251",
-      "pub_date": "2026-04-17T08:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "Today's Pick : \"기름값 상한제? 에쓰오일 주가는 30% 뛸 것\" [마켓PRO]",
-      "link": "https://www.hankyung.com/article/202604177143i",
-      "pub_date": "2026-04-17T08:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
