@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-17 14:35:26",
+  "updated": "2026-04-17 14:40:37",
   "total": 200,
-  "breaking": 99,
+  "breaking": 100,
   "items": [
+    {
+      "title": "[속보] 국민의힘 대구시장 경선 후보, 유영하-추경호 본경선 진출",
+      "link": "https://dgmbc.com/NewsArticle/835821",
+      "pub_date": "2026-04-17T14:38:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.yna.co.kr/view/AKR20260417101000001?input=1195m",
+      "pub_date": "2026-04-17T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 충북지사 예비경선 윤갑근 승리…김영환과 본경선",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595863",
+      "pub_date": "2026-04-17T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"공직자 손에 국가 운명 달려…대통령이 가장 큰 책임...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045326",
+      "pub_date": "2026-04-17T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 결선 진출",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041714314464841",
+      "pub_date": "2026-04-17T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 대구시장 2인 경선에 추경호·유영하 진출",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03827766645417104",
+      "pub_date": "2026-04-17T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]오베불망 기다리던 우리 원유 선박, '첫 통과' 소식 전해",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320780",
+      "pub_date": "2026-04-17T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 최종 2인 확정",
+      "link": "https://www.sidae.com/article/2026041714322769040",
+      "pub_date": "2026-04-17T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "공중보건의 감소에 따른 의료공백 최소화…추경 예산 신속 집행",
+      "link": "https://www.nocutnews.co.kr/news/6504152?utm_source=naver&utm_medium=article&utm_campaign=20260417023540",
+      "pub_date": "2026-04-17T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "24년 승인 vs 26년 불허…2년 전 '계룡대 비상활주로'에선 어떻게 민간 ...",
+      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309896",
+      "pub_date": "2026-04-17T14:35:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
       "link": "https://www.yna.co.kr/view/AKR20260417095800011?input=1195m",
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 두달 아들에 떡국 먹인 30대 엄마…결국 아동학대 혐의로 ...",
-      "link": "https://www.kyeonggi.com/article/20260417580035",
-      "pub_date": "2026-04-17T09:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한동훈 “전재수, 까르띠에 ‘안 받았다’ 말 한 마디 못해”",
-      "link": "https://www.munhwa.com/article/11582983?ref=naver",
-      "pub_date": "2026-04-17T09:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 빛샘전자, 12% 급락에 14,550원 추락…VI까지 터졌다 \"상한가 후폭...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568469",
-      "pub_date": "2026-04-17T09:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
-      "pub_date": "2026-04-17T09:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
-      "pub_date": "2026-04-17T09:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538578&ref=A",
-      "pub_date": "2026-04-17T09:36:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
-      "pub_date": "2026-04-17T09:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[유통가 레이더] \"다양한 모양 상품도 완벽 배송\"... NS홈쇼핑, 롯데글로...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=339408",
-      "pub_date": "2026-04-17T09:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "예별손보 매각 또 유찰…한투지주 단독 참여로 유효경쟁 불성립",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604170922082616c808fa9903_23",
-      "pub_date": "2026-04-17T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 광전자 'VI 흔들림'에 급락 경고음…중동 휴전 기대 속에도 변동...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568465",
-      "pub_date": "2026-04-17T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
