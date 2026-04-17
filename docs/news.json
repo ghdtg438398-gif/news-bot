@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 10:50:33",
+  "updated": "2026-04-17 10:55:27",
   "total": 200,
   "breaking": 108,
   "items": [
+    {
+      "title": "김시우·임성재, PGA RBC 헤리티지 1R 나란히 공동 10위",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365354",
+      "pub_date": "2026-04-17T10:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 장동혁, 美 요청에 방미 연장…20일 새벽 귀국",
       "link": "https://www.kyeonggi.com/article/20260417580089",
@@ -1789,15 +1798,6 @@
       "title": "[오늘의 주요일정]정치(4월17일 금요일)",
       "link": "https://www.newsis.com/view/NISX20260416_0003594866",
       "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2000억' 월드컵 중계권 협상, 올 때까지 왔다…극적 타협 나올까",
-      "link": "https://www.xportsnews.com/article/2137806",
-      "pub_date": "2026-04-17T04:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
