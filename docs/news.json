@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-17 11:00:43",
+  "updated": "2026-04-17 11:05:31",
   "total": 200,
-  "breaking": 107,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
+      "link": "http://www.ddanzi.com/879087698",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "청양군, 저소득층 암 환자 의료비 지원 '소아암 최대 3000만 원까지'",
+      "link": "http://www.breaknews.com/1201094",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 17일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604170028",
+      "pub_date": "2026-04-17T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
+      "pub_date": "2026-04-17T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
+      "link": "https://www.nocutnews.co.kr/news/6504030?utm_source=naver&utm_medium=article&utm_campaign=20260417110040",
+      "pub_date": "2026-04-17T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "아자뉴스바이트 20260417",
       "link": "http://kor.theasian.asia/archives/404403",
@@ -1744,60 +1798,6 @@
       "title": "[속보]트럼프 \"다음 협상 주말에 할수도\"…뉴욕증시, 상승 마감",
       "link": "https://view.asiae.co.kr/article/2026041705030367417",
       "pub_date": "2026-04-17T05:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕 증시, 중동 긴장완화 기대 속 상승 마감…나스닥 0.36%↑",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594918",
-      "pub_date": "2026-04-17T05:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보][뉴욕증시] S&P500·나스닥, 이틀 연속 사상 최고",
-      "link": "http://www.fnnews.com/news/202604170501301339",
-      "pub_date": "2026-04-17T05:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "인공지능 시대 출판, 위기인가 기회인가 [.txt]",
-      "link": "https://www.hani.co.kr/arti/culture/book/1254636.html",
-      "pub_date": "2026-04-17T05:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이스라엘-레바논 휴전, 미증시 일제 랠리…나스닥 0.36%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6139498",
-      "pub_date": "2026-04-17T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[기상속보]오늘날씨 출근길 남부지방·제주 비 서울 낮 20도...주말,주간...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44336",
-      "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] TSMC 사상 최고 실적에도 뉴욕증시에서 3% 이상 급락",
-      "link": "https://www.news1.kr/world/usa-canada/6139497",
-      "pub_date": "2026-04-17T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
