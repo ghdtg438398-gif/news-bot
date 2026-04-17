@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 19:00:40",
+  "updated": "2026-04-17 19:05:25",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 전국 휘발유 평균가격 2000원대 진입…2022년 이후 4년만",
+      "link": "https://www.news1.kr/industry/general-industry/6140627",
+      "pub_date": "2026-04-17T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민중기 특검, '그림 청탁' 김상민 前검사 징역 6년 구형",
       "link": "https://www.dailian.co.kr/news/view/1635013/?sc=Naver",
@@ -112,7 +121,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 “참담한 마음…국정조사서 평검사 증인채택 철회해야”",
+      "title": "[속보] 검찰총장 대행 “참담한 마음…국정조사 평검사 증인채택 철회해...",
       "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
       "pub_date": "2026-04-17T18:36:00+09:00",
       "source_id": "yna",
@@ -202,15 +211,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
-      "link": "https://www.mk.co.kr/article/12020321",
-      "pub_date": "2026-04-17T18:19:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김민선·전예성·홍지원, KLPGA 넥센·세인트나인 1R 공동 선두",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522693&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T18:19:00+09:00",
@@ -220,8 +220,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
-      "link": "https://www.munhwa.com/article/11583151?ref=naver",
+      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.mk.co.kr/article/12020321",
+      "pub_date": "2026-04-17T18:19:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰총장 대행 \"국조, '검사·수사관 증인 채택' 철회해달라\"",
+      "link": "http://www.inews24.com/view/1961339",
       "pub_date": "2026-04-17T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰총장 대행 \"국조, '검사·수사관 증인 채택' 철회해달라\"",
-      "link": "http://www.inews24.com/view/1961339",
+      "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
+      "link": "https://www.munhwa.com/article/11583151?ref=naver",
       "pub_date": "2026-04-17T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,15 +274,6 @@
       "is_scoop": false
     },
     {
-      "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
-      "pub_date": "2026-04-17T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 낮엔 ‘원팀’ 밤엔 ‘컷오프’…민주당 전북도당의 ‘기묘한 2...",
       "link": "https://www.jjan.kr/article/20260417500087",
       "pub_date": "2026-04-17T18:16:00+09:00",
@@ -281,6 +281,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
@@ -1789,15 +1798,6 @@
       "title": "[속보] 한화솔루션, 유상증자 규모 ‘2.4조→1.8조’로 정정",
       "link": "https://www.sedaily.com/article/20033877?ref=naver",
       "pub_date": "2026-04-17T15:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조 축소…채무상환 비중 줄여",
-      "link": "http://www.fnnews.com/news/202604171540359867",
-      "pub_date": "2026-04-17T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
