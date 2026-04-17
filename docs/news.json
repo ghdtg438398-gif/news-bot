@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 12:15:28",
+  "updated": "2026-04-17 12:20:29",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "\"7언더파 65타\" 김세영, LA 챔피언십 첫날 공동 2위",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037247",
+      "pub_date": "2026-04-17T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 피해자 집에 ‘홈캠’까지 설치하며 스토킹한 김훈…‘전자발찌...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538801&ref=A",
@@ -11,6 +20,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538798&ref=A",
+      "pub_date": "2026-04-17T12:08:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "\"파키스탄 직접 갈 수 있다\"‥이스라엘-레바논도 휴전",
@@ -76,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
       "link": "https://www.imaeil.com/page/view/2026041710075299561",
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,20 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T11:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1780,24 +1798,6 @@
       "title": "[GAM]高유가·高물가·高금리 살아남으려면 ② 5가지 섹터 ETF 톱픽",
       "link": "https://www.newspim.com/news/view/20260416000866",
       "pub_date": "2026-04-17T08:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“내 꿈은 대한민국 역대 최고 지도자” K3 최연소 ‘괴물 감독’ 등장...",
-      "link": "https://www.mk.co.kr/article/12019579",
-      "pub_date": "2026-04-17T08:01:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“대구 사람은 이재명을 박정희로 생각한다” 주재 기자가 전하는 민심...",
-      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57747",
-      "pub_date": "2026-04-17T07:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
