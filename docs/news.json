@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 13:05:29",
+  "updated": "2026-04-17 13:10:30",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "중대선거구제 후퇴 논란에 조국혁신당 반발",
+      "link": "https://www.naeil.com/news/read/585715?ref=naver",
+      "pub_date": "2026-04-17T13:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[시론] 호르무즈 이후의 에너지 전략",
       "link": "http://www.e2news.com/news/articleView.html?idxno=329595",
@@ -85,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)송영길 행선지, '하남갑' 확실",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298223&inflow=N",
-      "pub_date": "2026-04-17T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538812&ref=A",
       "pub_date": "2026-04-17T12:26:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(단독)송영길 행선지, '하남갑' 확실",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298223&inflow=N",
+      "pub_date": "2026-04-17T12:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
     },
@@ -1789,15 +1798,6 @@
       "title": "이란 정권에 7억원 송금?…'미스 이란'도 오해한 인도적 지원",
       "link": "https://www.yna.co.kr/view/AKR20260417020100371?input=1195m",
       "pub_date": "2026-04-17T08:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "세븐틴 도겸X승관, 오늘(17일) 유닛 공연 포문",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568441",
-      "pub_date": "2026-04-17T08:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
