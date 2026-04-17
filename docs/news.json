@@ -1,12 +1,57 @@
 {
-  "updated": "2026-04-17 09:40:36",
+  "updated": "2026-04-17 09:45:30",
   "total": 200,
-  "breaking": 123,
+  "breaking": 120,
   "items": [
     {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
-      "pub_date": "2026-04-17T09:38:00+09:00",
+      "title": "외교부 \"원유·나프타, 알제리·리비아에서 긴급 공급\"",
+      "link": "https://www.nocutnews.co.kr/news/6503939?utm_source=naver&utm_medium=article&utm_campaign=20260417094337",
+      "pub_date": "2026-04-17T09:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“귀신 보러 가서 귀신 될 수도”…‘살목지’ 원조 ‘심야괴담회’ PD...",
+      "link": "https://www.mk.co.kr/article/12019695",
+      "pub_date": "2026-04-17T09:43:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 두달 아들에 떡국 먹인 30대 엄마…결국 아동학대 혐의로 ...",
+      "link": "https://www.kyeonggi.com/article/20260417580035",
+      "pub_date": "2026-04-17T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "NC AI, ADB·과기정통부 워크숍서 아시아 고위급 대상 AX 비전 발표",
+      "link": "https://www.nocutnews.co.kr/news/6503938?utm_source=naver&utm_medium=article&utm_campaign=20260417094237",
+      "pub_date": "2026-04-17T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한동훈 “전재수, 까르띠에 ‘안 받았다’ 말 한 마디 못해”",
+      "link": "https://www.munhwa.com/article/11582983?ref=naver",
+      "pub_date": "2026-04-17T09:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 빛샘전자, 12% 급락에 14,550원 추락…VI까지 터졌다 \"상한가 후폭...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568469",
+      "pub_date": "2026-04-17T09:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -22,12 +67,30 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
+      "pub_date": "2026-04-17T09:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
       "pub_date": "2026-04-17T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538578&ref=A",
+      "pub_date": "2026-04-17T09:36:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -157,7 +220,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '상승 출발' 코스피, 하락 전환…코스닥도↓",
+      "title": "[속보] 미국-이란 2차 협상 '관망'…코스피, 6200 '공방전'",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170271&t=NN",
       "pub_date": "2026-04-17T09:16:00+09:00",
       "source_id": "yna",
@@ -211,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독확인] 43년 운전경력 기자가 직접 몰았다! 중국산 전기차 BYD 시승...",
+      "link": "http://www.breaknews.com/1201054",
+      "pub_date": "2026-04-17T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
       "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
       "pub_date": "2026-04-17T09:10:00+09:00",
@@ -236,15 +308,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독확인] 43년 운전경력 기자가 직접 몰았다! 중국산 전기차 BYD 시승...",
-      "link": "http://www.breaknews.com/1201054",
-      "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보]與, 1호 인재로 전태진 변호사 영입…울산 출신·방통 전문 변호...",
@@ -1738,69 +1801,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700004.html",
-      "pub_date": "2026-04-17T01:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, '레바논·이스라엘 정상 백악관 회담' 제안",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594900",
-      "pub_date": "2026-04-17T01:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.munhwa.com/article/11582901?ref=naver",
-      "pub_date": "2026-04-17T01:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"트럼프 '레바논 휴전' 발표 속 네타냐후, 긴급 내각회의 소집\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594899",
-      "pub_date": "2026-04-17T01:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘-레바논 10일간 휴전 합의…백악관서 회담 추...",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254621.html",
-      "pub_date": "2026-04-17T01:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"레바논-이스라엘 10일간 휴전\"...이란은 \"거짓\" 주장",
-      "link": "https://www.hankyung.com/article/202604176862i",
-      "pub_date": "2026-04-17T01:09:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘과 레바논, 열흘간 휴전 합의”",
-      "link": "https://www.sedaily.com/article/20033604?ref=naver",
-      "pub_date": "2026-04-17T01:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
