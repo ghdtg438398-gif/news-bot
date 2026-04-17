@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 01:40:34",
+  "updated": "2026-04-18 01:45:29",
   "total": 200,
-  "breaking": 169,
+  "breaking": 170,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"美·이란, 아마 이번 주말 회담…하루 이틀 내 합의\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418013923Sie",
+      "pub_date": "2026-04-18T01:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"美·이란, 아마 이번주말 회담…하루이틀내 합의\"",
       "link": "https://www.yna.co.kr/view/AKR20260418002800071?input=1195m",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘공직선거법 개정안’ 국회 본회의 통과",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892192",
+      "title": "[속보]31년만에 광역 비례비율 10%→14%...정치개혁법안 본회의 처리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01239846645417432",
       "pub_date": "2026-04-18T01:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]31년만에 광역 비례비율 10%→14%...정치개혁법안 본회의 처리",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01239846645417432",
+      "title": "[속보] ‘공직선거법 개정안’ 국회 본회의 통과",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892192",
       "pub_date": "2026-04-18T01:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"늑구, 인터넷 스타 됐네\"…AI로 만든 패러디 이미지 쏟아져",
-      "link": "https://view.asiae.co.kr/article/2026041720030465806",
-      "pub_date": "2026-04-17T20:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
