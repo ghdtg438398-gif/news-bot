@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 19:45:29",
+  "updated": "2026-04-17 19:50:29",
   "total": 200,
-  "breaking": 119,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 수사검사 극단시도에…검찰총장대행 “참담한 마음, 국정조사가...",
+      "link": "https://www.dt.co.kr/article/12058030?ref=naver",
+      "pub_date": "2026-04-17T19:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 전국 평균 휘발유 가격 2000원 돌파…L당 2000.00원",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041719241829543",
@@ -22,20 +31,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 화학공장서 60대 작업자 추락… 병원 이송됐으나 중태",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500238?wlog_tag3=naver",
-      "pub_date": "2026-04-17T19:38:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]전재수-한동훈 맞고소...'까르띠에 시계' 설전 고소전으로 비화",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604170058",
       "pub_date": "2026-04-17T19:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화학공장서 60대 작업자 추락… 병원 이송됐으나 중태",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500238?wlog_tag3=naver",
+      "pub_date": "2026-04-17T19:38:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
     {
       "title": "\"폰으로 머리를...\" '3살 사망' 친모가 보낸 메시지 보니 '끔찍'",
       "link": "http://www.fnnews.com/news/202604171536375448",
-      "pub_date": "2026-04-17T15:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
-      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417035841",
       "pub_date": "2026-04-17T15:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
