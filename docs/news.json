@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 09:50:32",
+  "updated": "2026-04-17 09:55:27",
   "total": 200,
-  "breaking": 120,
+  "breaking": 117,
   "items": [
+    {
+      "title": "'민주당 텃밭'에 등장한 화환…\"'제명' 김관영 무소속 지지\"",
+      "link": "https://www.nocutnews.co.kr/news/6503949?utm_source=naver&utm_medium=article&utm_campaign=20260417095238",
+      "pub_date": "2026-04-17T09:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'오수관로 누수' 부산 삼광사~어린이대공원 차량 통제 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559352",
+      "pub_date": "2026-04-17T09:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"78년간 전쟁 상태 이어온 이스라엘-레바논, 열흘 휴전 합...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750001600000",
+      "pub_date": "2026-04-17T09:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758121/2",
+      "pub_date": "2026-04-17T09:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "올여름 '평년보다 높은 기온' 전망…고단열 창호 수요 확대",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512567",
+      "pub_date": "2026-04-17T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…울산 남구갑 보궐 출...",
       "link": "https://biz.heraldcorp.com/article/10719417?ref=naver",
@@ -76,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란전 순조롭게 풀리고 있어…곧 끝날 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417092939vc8",
+      "title": "[속보]코스피, 숨 고른 중동 따라 잠시 쉬어가나…6220대 출발",
+      "link": "https://www.nocutnews.co.kr/news/6503919?utm_source=naver&utm_medium=article&utm_campaign=20260417092937",
       "pub_date": "2026-04-17T09:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 숨 고른 중동 따라 잠시 쉬어가나…6220대 출발",
-      "link": "https://www.nocutnews.co.kr/news/6503919?utm_source=naver&utm_medium=article&utm_campaign=20260417092937",
+      "title": "[속보] 트럼프 \"이란전 순조롭게 풀리고 있어…곧 끝날 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417092939vc8",
       "pub_date": "2026-04-17T09:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,21 +310,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전국 휘발유 2000원 임박…서울 등 6곳 이미 돌파",
-      "link": "http://www.fnnews.com/news/202604170859135621",
-      "pub_date": "2026-04-17T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김어준 미디어, 팬덤 선동으로 455억 매출 올렸지만…",
       "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=24190&Newsnumb=20260424190",
       "pub_date": "2026-04-17T09:12:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전국 휘발유 2000원 임박…서울 등 6곳 이미 돌파",
+      "link": "http://www.fnnews.com/news/202604170859135621",
+      "pub_date": "2026-04-17T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-17T01:39:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417013356AUK",
-      "pub_date": "2026-04-17T01:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀…건강 상태 양호\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041701305621207",
-      "pub_date": "2026-04-17T01:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 레바논 총리, 트럼프 휴전 발표에 \"환영 표명\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594903",
-      "pub_date": "2026-04-17T01:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘늑구’ 9일 만에 생포 성공, 오월드 복귀…건강 이상 없어",
-      "link": "https://www.joongang.co.kr/article/25420912",
-      "pub_date": "2026-04-17T01:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 \"늑구 생포 후 오월드 복귀\"",
-      "link": "https://www.yna.co.kr/view/AKR20260417001800063?input=1195m",
-      "pub_date": "2026-04-17T01:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
