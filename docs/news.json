@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-17 09:00:41",
-  "total": 197,
-  "breaking": 119,
+  "updated": "2026-04-17 09:05:31",
+  "total": 200,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 코스닥 3.81p(0.33%) 오른 1166.78(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2576612",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 1.28p(0.02%) 오른 6227.33 출발",
+      "link": "https://www.ajunews.com/view/20260417085704739",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
+      "link": "https://www.sidae.com/article/2026041708515922813",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
+      "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2576608",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6227.33 출발, 전 거래일 대비 0.02% 상승",
+      "link": "https://www.sidae.com/article/2026041708503862170",
+      "pub_date": "2026-04-17T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.02% 오른 6227.33 출발…코스닥은 1166.78",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326645417104",
+      "pub_date": "2026-04-17T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율, 6.8원 오른 1481.4원 개장",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/4KOLMJWVP5EZLD2OE5HOOMHLK4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T09:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.02% 오른 6227.33 출발",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595149",
+      "pub_date": "2026-04-17T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"골든 타임 지나 긴급 수술\"…희소병 완치된 40대 문근영의 기대감",
       "link": "https://www.nocutnews.co.kr/news/6503905?utm_source=naver&utm_medium=article&utm_campaign=20260417085837",
@@ -1721,60 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 전한길, 명예훼손 혐의 구속영장 기각…법원 \"도주·증거인멸 우...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045295",
-      "pub_date": "2026-04-16T23:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 KBO] 삼성, 한화 꺾고 6연승…단독 1위 질주",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365254",
-      "pub_date": "2026-04-16T23:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]법원, '李대통령·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.nocutnews.co.kr/news/6503867?utm_source=naver&utm_medium=article&utm_campaign=20260416111032",
-      "pub_date": "2026-04-16T23:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원 전한길 구속영장 기각 파문 \"증거인멸 도망염려 없다\"",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333832",
-      "pub_date": "2026-04-16T23:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길 구속영장 기각, 증거인멸·도주 우려 인정 안 해",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604160078",
-      "pub_date": "2026-04-16T23:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 일제히 하락…S&P500 7000선 안착",
-      "link": "https://news.mtn.co.kr/news-detail/2026041622592756605",
-      "pub_date": "2026-04-16T23:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
