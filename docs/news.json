@@ -1,11 +1,83 @@
 {
-  "updated": "2026-04-17 14:55:30",
+  "updated": "2026-04-17 15:00:41",
   "total": 200,
-  "breaking": 112,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] 국힘 대구시장 후보 추경호·유영하 압축…충북 윤갑근 본경선행",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004967",
+      "pub_date": "2026-04-17T14:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
+      "link": "https://magazine.hankyung.com/business/article/202604178391b",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
+      "pub_date": "2026-04-17T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 메지온, 손해배상 소송 1심서 승소…법원 \"원고 청구 기각\"",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568550",
+      "pub_date": "2026-04-17T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 후보 '추경호·유영하' 압축… 충북지사 윤갑근 ...",
+      "link": "https://www.hankookilbo.com/news/article/A2026041714510003087?did=NA",
+      "pub_date": "2026-04-17T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '尹 변호인' 윤갑근, 국힘 충북지사 본경선 진출…김영환과 결선",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269794",
+      "pub_date": "2026-04-17T14:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국민의힘 대구시장 본경선에 추경호·유영하 의원 진출",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=224673",
+      "pub_date": "2026-04-17T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
       "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,7 +184,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
       "link": "https://www.dt.co.kr/article/12057999?ref=naver",
       "pub_date": "2026-04-17T14:47:00+09:00",
       "source_id": "yna",
@@ -121,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 대구시장 후보 ‘추경호·유영하’ 본경선",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254716.html",
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 본경선 진출",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369993",
       "pub_date": "2026-04-17T14:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 본경선 진출",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369993",
+      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 본경선",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254716.html",
       "pub_date": "2026-04-17T14:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,6 +238,15 @@
       "is_scoop": false
     },
     {
+      "title": "'강요미수 혐의' 효성 조현문 공판…8월 조현준 회장 증인신문",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=659804",
+      "pub_date": "2026-04-17T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
       "link": "https://news.jtbc.co.kr/article/NB12294663?influxDiv=NAVER",
       "pub_date": "2026-04-17T14:44:00+09:00",
@@ -193,21 +274,21 @@
       "is_scoop": false
     },
     {
-      "title": "'강요미수 혐의' 효성 조현문 공판…8월 조현준 회장 증인신문",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=659804",
-      "pub_date": "2026-04-17T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
       "link": "https://news.tf.co.kr/read/ptoday/2314422.htm",
       "pub_date": "2026-04-17T14:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "효성 '형제의난' 공방 장기화…증인 조현준 회장 불출석 [CEO와 법정]",
+      "link": "https://www.hankyung.com/article/202604178341i",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -226,15 +307,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "효성 '형제의난' 공방 장기화…증인 조현준 회장 불출석해 [CEO와 법정]",
-      "link": "https://www.hankyung.com/article/202604178341i",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1730,78 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
-      "link": "https://www.nocutnews.co.kr/news/6504030?utm_source=naver&utm_medium=article&utm_campaign=20260417110040",
-      "pub_date": "2026-04-17T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[LIV] '샷이글' 김민규, 송영한과 멕시코 대회 1R 나란히 공동 3위",
-      "link": "https://www.newspim.com/news/view/20260417000538",
-      "pub_date": "2026-04-17T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "아자뉴스바이트 20260417",
-      "link": "http://kor.theasian.asia/archives/404403",
-      "pub_date": "2026-04-17T10:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미 하원, 대중 반도체 통제 'MATCH 법안' 수정 재추진",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=131095",
-      "pub_date": "2026-04-17T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78143",
-      "pub_date": "2026-04-17T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우·임성재, PGA RBC 헤리티지 1R 나란히 공동 10위",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365354",
-      "pub_date": "2026-04-17T10:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]농협경제지주 전 간부, 직원 성추행...경찰 재수사 착수",
-      "link": "http://www.fnnews.com/news/202604162129043589",
-      "pub_date": "2026-04-17T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 장동혁, 美 요청에 방미 연장…20일 새벽 귀국",
-      "link": "https://www.kyeonggi.com/article/20260417580089",
-      "pub_date": "2026-04-17T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
