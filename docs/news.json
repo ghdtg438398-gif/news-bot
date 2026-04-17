@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-18 07:00:38",
+  "updated": "2026-04-18 07:05:30",
   "total": 200,
-  "breaking": 162,
+  "breaking": 159,
   "items": [
+    {
+      "title": "중동전쟁 여파 속 반도체 슈퍼사이클…1분기 성장률은[한은 미리보기]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01889286645417432",
+      "pub_date": "2026-04-18T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '1분 컷 사망' 장현성 \"'왕사남' 잘 될 줄 몰라, 장항준 정산 받...",
+      "link": "https://www.xportsnews.com/article/2138088",
+      "pub_date": "2026-04-18T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
+      "link": "https://www.wikitree.co.kr/articles/1131390",
+      "pub_date": "2026-04-18T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
+      "link": "https://www.xportsnews.com/article/2138087",
+      "pub_date": "2026-04-18T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
+      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
+      "pub_date": "2026-04-18T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[딜로이트 글로벌 경제 리뷰] 전쟁과 국방비 지출 확대의 거시경제적 영...",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255931",
+      "pub_date": "2026-04-18T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "경찰서 방문한 네덜란드 공주",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560209",
@@ -1748,60 +1802,6 @@
       "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539140&ref=A",
-      "pub_date": "2026-04-17T21:41:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "창원시 ‘입찰 비리 의혹’…‘뇌물죄’ 경찰 수사 확대",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539138&ref=A",
-      "pub_date": "2026-04-17T21:40:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 국제 화상회의 시작…李대통령 공식 발언 예정",
-      "link": "https://biz.heraldcorp.com/article/10720031?ref=naver",
-      "pub_date": "2026-04-17T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099005068",
-      "pub_date": "2026-04-17T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고시원에 불낸 60대 긴급체포…알고보니 상습범이었다",
-      "link": "https://www.mt.co.kr/society/2026/04/17/2026041717561848313",
-      "pub_date": "2026-04-17T21:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] “소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539111&ref=A",
-      "pub_date": "2026-04-17T21:28:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
