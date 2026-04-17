@@ -1,14 +1,50 @@
 {
-  "updated": "2026-04-17 11:45:30",
+  "updated": "2026-04-17 11:50:29",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "김세영, 통산 14승 향해 시동…LA 챔피언십 공동 2위 출발",
+      "link": "https://www.nocutnews.co.kr/news/6504087?utm_source=naver&utm_medium=article&utm_campaign=20260417114638",
+      "pub_date": "2026-04-17T11:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구속 석방 후 열린 재판서 전광훈 혐의 부인…\"난동 때 잤다\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522200&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "접근금지 끝나자 아내 살해…부평 가정폭력 살인 60대 남성 항소심서도...",
+      "link": "https://www.kyeongin.com/article/1762028",
+      "pub_date": "2026-04-17T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T11:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -121,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
       "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
       "pub_date": "2026-04-17T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -319,8 +355,8 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861150",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861150",
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -472,15 +508,6 @@
       "is_scoop": false
     },
     {
-      "title": "캐시닥 용돈퀴즈 정답 4월 17일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604170028",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
       "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
       "pub_date": "2026-04-17T11:02:00+09:00",
@@ -488,6 +515,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 17일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604170028",
+      "pub_date": "2026-04-17T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
@@ -1762,42 +1798,6 @@
       "title": "고양 관산동 공장서 화재...교회로 번져 7시간 만에 완진",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559191",
       "pub_date": "2026-04-17T07:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우·임성재, PGA RBC 헤리티지 1R 공동 10위",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521725&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T07:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '열일' 신혜선, 차차기작까지…'대쉬' 긍정 검토",
-      "link": "https://www.xportsnews.com/article/2137688",
-      "pub_date": "2026-04-17T07:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "이스라엘·레바논 '열흘 휴전' 합의…미국·이란 2차 협상에 '청신호'",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188637",
-      "pub_date": "2026-04-17T07:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈 체크] 개별 손보, 1조 투입해야 생존…‘5대 손보’ 재편 시나리...",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=203790",
-      "pub_date": "2026-04-17T07:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
