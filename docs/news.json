@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 14:10:37",
+  "updated": "2026-04-17 14:15:29",
   "total": 200,
-  "breaking": 103,
+  "breaking": 101,
   "items": [
+    {
+      "title": "[속보] 한화엔진 주가 오후들어 급등…17%↑",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568534",
+      "pub_date": "2026-04-17T14:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "https://www.mk.co.kr/article/12019915",
@@ -49,11 +58,29 @@
       "is_scoop": false
     },
     {
+      "title": "\"파키스탄 직접 갈 수 있다\"‥이스라엘-레바논도 휴전",
+      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816008_36974.html",
+      "pub_date": "2026-04-17T14:03:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "NCT WISH, 서울 앙코르 공연서 '오드 투 러브' 무대 첫 공개",
       "link": "https://news.jtbc.co.kr/article/NB12294654?influxDiv=NAVER",
       "pub_date": "2026-04-17T14:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538845&ref=A",
+      "pub_date": "2026-04-17T14:02:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1771,33 +1798,6 @@
       "title": "[속보] 우리로 VI 두차례 발동, 주가 21% 털썩…11000원선으로",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568461",
       "pub_date": "2026-04-17T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이원택 식사비 대납 의혹' 김슬지 도의원 후보 자격 박탈",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64010",
-      "pub_date": "2026-04-17T09:21:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충격 속보 \"김민재 에이전트 이스탄불 도착\" 5년 만에 페네르바체 복귀...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810921",
-      "pub_date": "2026-04-17T09:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미국-이란 2차 협상 '관망'…코스피, 6200 '공방전'",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170271&t=NN",
-      "pub_date": "2026-04-17T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
