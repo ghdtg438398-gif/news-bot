@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 12:45:33",
+  "updated": "2026-04-17 12:50:28",
   "total": 200,
   "breaking": 110,
   "items": [
@@ -211,20 +211,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
       "link": "https://www.imaeil.com/page/view/2026041710075299561",
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
