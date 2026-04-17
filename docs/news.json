@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 14:00:37",
+  "updated": "2026-04-17 14:05:27",
   "total": 200,
-  "breaking": 102,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[속보]호르무즈 봉쇄 후 첫 홍해 통과…한국 선박 안전 운항",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750027500000",
+      "pub_date": "2026-04-17T14:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "NCT WISH, 서울 앙코르 공연서 '오드 투 러브' 무대 첫 공개",
+      "link": "https://news.jtbc.co.kr/article/NB12294654?influxDiv=NAVER",
+      "pub_date": "2026-04-17T14:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "금융위, 철강산업 긴급간담회 \"추경 25.6조원 금융지원과 53조+α로 적극...",
+      "link": "https://www.newspim.com/news/view/20260417000432",
+      "pub_date": "2026-04-17T14:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "전광훈, 석방 후 열린 첫 재판서 혐의 부인…\"난동 때 잤다\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522302&plink=ORI&cooper=NAVER",
@@ -58,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
-      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
+      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
+      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 1조 6천억 '전쟁 추경' 편성…고유가 민생 지원에 70% 집중",
-      "link": "https://www.nocutnews.co.kr/news/6504125?utm_source=naver&utm_medium=article&utm_campaign=20260417014440",
+      "title": "경찰에 짓밟힌 10대 경찰 지망생... 성폭행 부실 수사에 유서 남기고 떠...",
+      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276412",
       "pub_date": "2026-04-17T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 0.02% 오른 6,227.33 개장",
-      "link": "http://www.yonhapnewstv.co.kr/MYH2026041709103077Q",
-      "pub_date": "2026-04-17T09:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독확인] 43년 운전경력 기자가 직접 몰았다! 중국산 전기차 BYD 시승...",
-      "link": "http://www.breaknews.com/1201054",
-      "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
-      "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
-      "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
