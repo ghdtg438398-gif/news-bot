@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 10:55:27",
+  "updated": "2026-04-17 11:00:43",
   "total": 200,
-  "breaking": 108,
+  "breaking": 107,
   "items": [
+    {
+      "title": "아자뉴스바이트 20260417",
+      "link": "http://kor.theasian.asia/archives/404403",
+      "pub_date": "2026-04-17T10:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미 하원, 대중 반도체 통제 'MATCH 법안' 수정 재추진",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=131095",
+      "pub_date": "2026-04-17T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78143",
+      "pub_date": "2026-04-17T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김시우·임성재, PGA RBC 헤리티지 1R 나란히 공동 10위",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365354",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전일 600% 폭등했던 올버드 오늘은 35% 폭락",
-      "link": "https://www.news1.kr/world/usa-canada/6139499",
-      "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정] 정치·정부 (17일, 금)",
-      "link": "https://www.news1.kr/politics/assembly/6139433",
-      "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정]정치(4월17일 금요일)",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594866",
-      "pub_date": "2026-04-17T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
