@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 17:45:33",
+  "updated": "2026-04-17 17:50:28",
   "total": 200,
-  "breaking": 123,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[단독] 개인정보위, 메타엠 '정보유출 의심' 조사 검토",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549927",
+      "pub_date": "2026-04-17T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
       "link": "https://www.donga.com/news/Politics/article/all/20260417/133762137/1",
@@ -211,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 \"시·도의원 비례대표 비율 14%로 상향\" 합의",
-      "link": "https://www.imaeil.com/page/view/2026041717181862977",
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
       "pub_date": "2026-04-17T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
+      "title": "[속보] 여야 \"시·도의원 비례대표 비율 14%로 상향\" 합의",
+      "link": "https://www.imaeil.com/page/view/2026041717181862977",
       "pub_date": "2026-04-17T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -535,21 +544,21 @@
       "is_scoop": false
     },
     {
-      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
-      "pub_date": "2026-04-17T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 신현송 청문보고서 채택 불발…‘딸 불법 여권’ 논란 여파",
       "link": "https://www.segye.com/newsView/20260417512509?OutUrl=naver",
       "pub_date": "2026-04-17T16:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보]국힘 충북지사 예비경선 윤갑근 승리…김영환과 본경선",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524621",
-      "pub_date": "2026-04-17T14:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘윤석열 변호인’ 윤갑근, 국힘 충북지사 본경선 진출…김영환...",
-      "link": "https://www.khan.co.kr/article/202604171445001",
       "pub_date": "2026-04-17T14:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
