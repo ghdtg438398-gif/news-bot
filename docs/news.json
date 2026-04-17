@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 13:50:29",
+  "updated": "2026-04-17 13:55:27",
   "total": 200,
-  "breaking": 104,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[기업家] 다이소 ㅣ 앱 성장·물류 투자·상생 행보 '동시 확대'",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568474",
+      "pub_date": "2026-04-17T13:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[N2기획 : 광주소상공인연합회 논란②] 광주소상공인연합회 총회 무산…...",
+      "link": "https://www.news2day.co.kr/article/20260417500177",
+      "pub_date": "2026-04-17T13:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'미토스 쇼크 차단'…세계 각국, 긴급 대응 나섰다",
+      "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=355883",
+      "pub_date": "2026-04-17T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 국정 지지도 66%, 민주당 48%, 국힘 19%-한국갤럽",
+      "link": "https://www.munhwa.com/article/11583132?ref=naver",
+      "pub_date": "2026-04-17T13:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[정치家] 구윤철 부총리 ③ ㅣ 공급망 안정·AI 전략 가속…'경제 컨트롤...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568478",
@@ -1762,42 +1798,6 @@
       "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…김상욱 지역구 ‘울산...",
       "link": "https://www.khan.co.kr/article/202604170910001",
       "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]60대 모친 살해 후 자해한 40대 구속…\"도주 우려\"",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750000900000",
-      "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]與, 1호 인재로 전태진 변호사 영입…울산 출신·방통 전문 변호...",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595116",
-      "pub_date": "2026-04-17T09:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘, “조작수사·원정출마 심판”… 민생 위기 속 ‘사법 정의’...",
-      "link": "http://www.breaknews.com/1201058",
-      "pub_date": "2026-04-17T09:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
-      "pub_date": "2026-04-17T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
