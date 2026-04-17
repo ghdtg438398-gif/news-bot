@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-17 09:05:31",
+  "updated": "2026-04-17 09:10:32",
   "total": 200,
-  "breaking": 123,
+  "breaking": 127,
   "items": [
+    {
+      "title": "국민의힘, “조작수사·원정출마 심판”… 민생 위기 속 ‘사법 정의’...",
+      "link": "http://www.breaknews.com/1201058",
+      "pub_date": "2026-04-17T09:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 1.28포인트(0.02%) 오른 6227.33 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833577",
+      "pub_date": "2026-04-17T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 3.81포인트(0.33%) 오른 1166.78 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833580",
+      "pub_date": "2026-04-17T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.02% 오른 6227.33 출발",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524558",
+      "pub_date": "2026-04-17T09:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 상승 출발 후 하락 전환",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595165",
+      "pub_date": "2026-04-17T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
+      "link": "https://www.sidae.com/article/2026041708515922813",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2576608",
+      "pub_date": "2026-04-17T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스닥 3.81p(0.33%) 오른 1166.78(개장)",
       "link": "https://www.etoday.co.kr/news/view/2576612",
@@ -22,26 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
-      "link": "https://www.sidae.com/article/2026041708515922813",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
       "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2576608",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +301,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]교황 친형 자택에 ‘폭발물 설치’ 신고로 주민 대피…트럼프·교...",
-      "link": "https://www.munhwa.com/article/11582955?ref=naver",
+      "title": "[속보]“미국과 전쟁 원하지 않지만, 침략하면 격퇴할 것” 쿠바 대통령",
+      "link": "https://www.munhwa.com/article/11582954?ref=naver",
       "pub_date": "2026-04-17T08:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -256,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]“미국과 전쟁 원하지 않지만, 침략하면 격퇴할 것” 쿠바 대통령",
-      "link": "https://www.munhwa.com/article/11582954?ref=naver",
+      "title": "[속보]교황 친형 자택에 ‘폭발물 설치’ 신고로 주민 대피…트럼프·교...",
+      "link": "https://www.munhwa.com/article/11582955?ref=naver",
       "pub_date": "2026-04-17T08:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1748,60 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "트럼프 \"이달 내 합의 가능\"...이란, 호르무즈 개방안 제시",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604162356012562",
-      "pub_date": "2026-04-16T23:56:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길, 구속영장 기각…李대통령·이준석 명예훼손 혐의",
-      "link": "https://www.munhwa.com/article/11582891?ref=naver",
-      "pub_date": "2026-04-16T23:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "남이섬, 안데르센상 18년 단독 후원…세계 아동문학 중심 우뚝",
-      "link": "https://www.nocutnews.co.kr/news/6503870?utm_source=naver&utm_medium=article&utm_campaign=20260416113232",
-      "pub_date": "2026-04-16T23:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "한화 실책으로 와르르…삼성, 6연승 단독 선두",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260416232917cVi",
-      "pub_date": "2026-04-16T23:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 유병언 일가는 미국 호화 주택에?…검찰은 차명 의심 재산 추징...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538316&ref=A",
-      "pub_date": "2026-04-16T23:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 친부 \"폰으로 아이 머리 때려\"…친모도 분리조치",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260416232608kX2",
-      "pub_date": "2026-04-16T23:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
