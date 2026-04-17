@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 11:55:30",
+  "updated": "2026-04-17 12:00:48",
   "total": 200,
-  "breaking": 109,
+  "breaking": 110,
   "items": [
+    {
+      "title": "접금근지 끝나자 아내 살해한 60대, 항소심서도 징역 27년",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522224&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이재명 지지율 66%…3주 만에 소폭 하락, 민주당은 48%",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170024",
+      "pub_date": "2026-04-17T11:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
       "link": "https://www.imaeil.com/page/view/2026041710075299561",
@@ -76,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
       "pub_date": "2026-04-17T11:43:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -400,6 +427,15 @@
       "is_scoop": false
     },
     {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
       "link": "https://www.news1.kr/photos/7861150",
       "pub_date": "2026-04-17T11:12:00+09:00",
@@ -424,15 +460,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-17T07:33:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[PGA] 김시우·임성재, RBC 헤리티지 1R 나란히 공동 10위 '굿샷'",
-      "link": "https://www.newspim.com/news/view/20260417000033",
-      "pub_date": "2026-04-17T07:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "도로 공사도 멈췄다‥여기도 석유 부족이?",
-      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815919_37012.html",
-      "pub_date": "2026-04-17T07:29:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란과의 다음 협상 주말에 열릴 수도”",
-      "link": "https://www.etnews.com/20260417000017",
-      "pub_date": "2026-04-17T07:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
