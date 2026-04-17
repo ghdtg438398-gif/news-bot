@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 19:25:26",
+  "updated": "2026-04-17 19:30:33",
   "total": 200,
-  "breaking": 119,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파… 서울은 2030원",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/17/20260417500236?wlog_tag3=naver",
+      "pub_date": "2026-04-17T19:25:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'고지원·이예원과 정면 승부한' 전예성, 또 선두 [KLPGA 넥센·세인트나...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019813",
@@ -11,6 +20,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] “소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538996&ref=A",
+      "pub_date": "2026-04-17T19:20:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "\"9언더파 질주\" 권성열, DB손해보험 프로미오픈 2R 단독 선두",
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-17T15:54:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조로 축소…시설투자는 사수하고 채...",
-      "link": "https://magazine.hankyung.com/business/article/202604178594b",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종전협상 관망세에 코스피 0.5% 하락… 코스닥은 상승 마감",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269804",
-      "pub_date": "2026-04-17T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
