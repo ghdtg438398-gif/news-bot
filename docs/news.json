@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 11:10:33",
+  "updated": "2026-04-17 11:15:33",
   "total": 200,
   "breaking": 102,
   "items": [
+    {
+      "title": "다목적 지도선 ‘창원바다’ 불법 단속 강화 나선다!",
+      "link": "http://www.breaknews.com/1201067",
+      "pub_date": "2026-04-17T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861150",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861143",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "서부지방검찰청 앞에서 열린 '용산경찰서 인권침해 규탄 긴급 기자회견...",
+      "link": "https://www.news1.kr/photos/7861145",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "서부지방검찰청 앞으로 모인 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861147",
+      "pub_date": "2026-04-17T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "헤즈볼라 \"휴전기간 이스라엘군 레바논 주둔 시 저항권 행사\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522138&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]‘방미’ 장동혁, 공항서 美 국무부 연락 받고 귀국 사흘 미뤄”",
       "link": "https://www.kwnews.co.kr/page/view/2026041750013500000",
@@ -13,7 +76,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전국 휘발유값 2000원 넘었다…전쟁 전보다 리터당 306원 올라",
+      "title": "[속보] 전국 휘발윳값 2000원 넘어…전쟁 전보다 리터당 306원↑",
       "link": "https://www.hani.co.kr/arti/economy/marketing/1254671.html",
       "pub_date": "2026-04-17T11:08:00+09:00",
       "source_id": "yna",
@@ -40,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁·김민수, 귀국 사흘 연기…“美 국무부 연락”",
-      "link": "https://biz.heraldcorp.com/article/10719543?ref=naver",
+      "title": "[속보] 정청래 “檢 야비함과 잔인성에 피 거꾸로 솟아…수사권 손톱만...",
+      "link": "https://www.dt.co.kr/article/12057966?ref=naver",
       "pub_date": "2026-04-17T11:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 “檢 야비함과 잔인성에 피 거꾸로 솟아…수사권 손톱만...",
-      "link": "https://www.dt.co.kr/article/12057966?ref=naver",
+      "title": "[속보] 장동혁·김민수, 귀국 사흘 연기…“美 국무부 연락”",
+      "link": "https://biz.heraldcorp.com/article/10719543?ref=naver",
       "pub_date": "2026-04-17T11:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1735,69 +1798,6 @@
       "title": "연락 끊긴 부모에 생활고 겪던 아이들…“중‧고생에 직접 생계급여 지...",
       "link": "https://www.kukinews.com/article/view/kuk202604160221",
       "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "메트로경제 4월 17일자 한줄뉴스",
-      "link": "http://www.metroseoul.co.kr/article/20260416500447",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "의료인 보호냐, 환자 권리 후퇴냐…본회의 앞둔 ‘의료분쟁조정법’ 논...",
-      "link": "https://www.kukinews.com/article/view/kuk202604160195",
-      "pub_date": "2026-04-17T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'첨단산업 특성화대학 성과교류회'에서 우수 성과 공유",
-      "link": "https://www.nocutnews.co.kr/news/6503672?utm_source=naver&utm_medium=article&utm_campaign=20260417060136",
-      "pub_date": "2026-04-17T06:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '이태원참사 마약테러설' 60대, '서울대 프락치 사건' 주동자였다",
-      "link": "https://www.news1.kr/society/court-prosecution/6139368",
-      "pub_date": "2026-04-17T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 오월드 탈출한 늑구 열흘 만에 생포, 무사히 복귀",
-      "link": "https://www.news1.kr/local/daejeon-chungnam/6139485",
-      "pub_date": "2026-04-17T05:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "여직원 목덜미 잡아 올린 40대 재판서 \"친근한 표현이라 착각\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521634&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T05:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "술취한 여성 부축해 사무실로 데려갔다가 체포된 30대 석방",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521631&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T05:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
