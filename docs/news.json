@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 19:15:29",
+  "updated": "2026-04-17 19:20:30",
   "total": 200,
   "breaking": 121,
   "items": [
+    {
+      "title": "\"9언더파 질주\" 권성열, DB손해보험 프로미오픈 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037602",
+      "pub_date": "2026-04-17T19:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 민중기 특검, '김건희 그림 청탁' 김상민 前검사 징역 6년 구형",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417508&PRO_CODE=99",
+      "pub_date": "2026-04-17T19:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "권성열, KPGA 투어 개막전 2라운드 단독 선두…8년 만에 우승 도전",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522752&plink=ORI&cooper=NAVER",
@@ -11,6 +29,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538985&ref=A",
+      "pub_date": "2026-04-17T19:08:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 전국 휘발윳값 3년 8개월여 만에 2천 원 돌파",
@@ -139,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰총장 대행 “참담한 마음…국정조사 평검사 증인채택 철회해...",
+      "title": "[속보] 검찰총장 대행 “국조증인 검사 소식 참담…채택 철회해달라”",
       "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
       "pub_date": "2026-04-17T18:36:00+09:00",
       "source_id": "yna",
@@ -1774,33 +1801,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 축소…2.4조→1.8조 원",
-      "link": "https://www.sedaily.com/article/20033880?ref=naver",
-      "pub_date": "2026-04-17T15:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]성비위·음주사고 경찰관…솜방망이 처분에 비위 반복",
-      "link": "https://www.nocutnews.co.kr/news/6504225?utm_source=naver&utm_medium=article&utm_campaign=20260417034540",
-      "pub_date": "2026-04-17T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "부산 신도브래뉴아파트 앞 차선 통제 중...차량 우회 안내",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559806",
-      "pub_date": "2026-04-17T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
