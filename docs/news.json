@@ -1,21 +1,48 @@
 {
-  "updated": "2026-04-17 15:00:41",
+  "updated": "2026-04-17 15:05:28",
   "total": 200,
-  "breaking": 118,
+  "breaking": 120,
   "items": [
     {
-      "title": "[속보] 국힘 대구시장 후보 추경호·유영하 압축…충북 윤갑근 본경선행",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004967",
-      "pub_date": "2026-04-17T14:59:00+09:00",
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://www.ajunews.com/view/20260417150114056",
+      "pub_date": "2026-04-17T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
-      "pub_date": "2026-04-17T14:58:00+09:00",
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.ajunews.com/view/20260417150049055",
+      "pub_date": "2026-04-17T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주당 “'송영길 하남갑 확실’ 보도 전혀 사실 아냐”",
+      "link": "https://www.viewsnnews.com/article?q=235212",
+      "pub_date": "2026-04-17T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘 추경호·유영하 대구시장 본경선 진출",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/17/3UUVEILIFBCM3H76YOURAEFWJU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T15:01:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 후보 추경호·유영하 압축…충북 윤갑근 본경선행",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004967",
+      "pub_date": "2026-04-17T14:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -31,8 +58,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
+      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 후보 '추경호·유영하' 압축… 충북지사 윤갑근 ...",
+      "link": "https://www.hankookilbo.com/news/article/A2026041714510003087?did=NA",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 대구시장 후보 '추경호·유영하' 압축… 충북지사 윤갑근 ...",
-      "link": "https://www.hankookilbo.com/news/article/A2026041714510003087?did=NA",
+      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -61,6 +97,15 @@
       "title": "[속보] '尹 변호인' 윤갑근, 국힘 충북지사 본경선 진출…김영환과 결선",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269794",
       "pub_date": "2026-04-17T14:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -85,15 +130,6 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
       "link": "https://www.donga.com/news/Politics/article/all/20260417/133760182/2",
       "pub_date": "2026-04-17T14:53:00+09:00",
@@ -103,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,6 +229,15 @@
       "is_scoop": false
     },
     {
+      "title": "28도의 봄, 지선 박차 민주당, 세월호 12주기[노컷한컷]",
+      "link": "https://www.nocutnews.co.kr/news/6504162?utm_source=naver&utm_medium=article&utm_campaign=20260417024540",
+      "pub_date": "2026-04-17T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 본경선 진출",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=369993",
       "pub_date": "2026-04-17T14:46:00+09:00",
@@ -208,15 +253,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "28도의 봄, 지선 박차 민주당, 세월호 12주기[노컷한컷]",
-      "link": "https://www.nocutnews.co.kr/news/6504162?utm_source=naver&utm_medium=article&utm_campaign=20260417024540",
-      "pub_date": "2026-04-17T14:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1766,42 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "청양군, 저소득층 암 환자 의료비 지원 '소아암 최대 3000만 원까지'",
-      "link": "http://www.breaknews.com/1201094",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘범죄도시 마동석’ 실제 모델 경찰관, 만취운전으로 재판행",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500079?wlog_tag3=naver",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
-      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "캐시닥 용돈퀴즈 정답 4월 17일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604170028",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
