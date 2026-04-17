@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 19:10:31",
+  "updated": "2026-04-17 19:15:29",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
+    {
+      "title": "권성열, KPGA 투어 개막전 2라운드 단독 선두…8년 만에 우승 도전",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522752&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T19:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 전국 휘발윳값 3년 8개월여 만에 2천 원 돌파",
       "link": "https://www.ytn.co.kr/_ln/0102_202604171903381228",
@@ -238,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
-      "link": "https://www.munhwa.com/article/11583151?ref=naver",
+      "title": "[속보]검찰총장 대행 \"국조, '검사·수사관 증인 채택' 철회해달라\"",
+      "link": "http://www.inews24.com/view/1961339",
       "pub_date": "2026-04-17T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰총장 대행 \"국조, '검사·수사관 증인 채택' 철회해달라\"",
-      "link": "http://www.inews24.com/view/1961339",
+      "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
+      "link": "https://www.munhwa.com/article/11583151?ref=naver",
       "pub_date": "2026-04-17T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 정정 공시…특수관계인 참여로 공정위 신...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568560",
-      "pub_date": "2026-04-17T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
