@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:35:26",
+  "updated": "2026-04-18 06:40:29",
   "total": 200,
   "breaking": 165,
   "items": [
+    {
+      "title": "[속보]44살 나탈리 포트만, 이혼 아픔 딛고 셋째 임신 \"이번이 마지막\"[...",
+      "link": "https://www.mydaily.co.kr/page/view/2026041806363081598",
+      "pub_date": "2026-04-18T06:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "2분에 600만원…인형뽑기방 턴 중학생들, 추가 범행도?",
       "link": "https://news.jtbc.co.kr/article/NB12294769?influxDiv=NAVER",
@@ -22,8 +31,8 @@
       "is_scoop": true
     },
     {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
+      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -31,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
+      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -1789,15 +1798,6 @@
       "title": "[속보] 李대통령, 英·佛 주도 호르무즈 관련 화상 정상회의 시작",
       "link": "https://view.asiae.co.kr/article/2026041721260399495",
       "pub_date": "2026-04-17T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]서정욱 “좌파 투항 홍준표, 총리 가능성 높다”",
-      "link": "https://www.munhwa.com/article/11583162?ref=naver",
-      "pub_date": "2026-04-17T21:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
