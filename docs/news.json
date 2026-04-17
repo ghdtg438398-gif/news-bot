@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 14:25:27",
+  "updated": "2026-04-17 14:30:41",
   "total": 200,
-  "breaking": 100,
+  "breaking": 99,
   "items": [
+    {
+      "title": "토큰포스트-코박, 콘텐츠 협업 위한 업무협약(MOU) 체결",
+      "link": "https://www.tokenpost.kr/news/insights/350490",
+      "pub_date": "2026-04-17T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "매출 7천7백억·흑자 구단 5곳…프로야구, 독립 산업화 속도",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037316",
+      "pub_date": "2026-04-17T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "서울 길음동 한복판서 '대낮 마약'… 외국인 남성 긴급체포",
+      "link": "https://www.ajunews.com/view/20260417142029001",
+      "pub_date": "2026-04-17T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]韓유조선 홍해 통과했다…호르무즈 해협 봉쇄 후 처음",
       "link": "https://www.nocutnews.co.kr/news/6504144?utm_source=naver&utm_medium=article&utm_campaign=20260417022040",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[N2기획 : 광주소상공인연합회 논란②] 광주소상공인연합회 총회 무산…...",
-      "link": "https://www.news2day.co.kr/article/20260417500177",
+      "title": "[기업家] 다이소 ㅣ 앱 성장·물류 투자·상생 행보 '동시 확대'",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568474",
       "pub_date": "2026-04-17T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[기업家] 다이소 ㅣ 앱 성장·물류 투자·상생 행보 '동시 확대'",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568474",
+      "title": "[N2기획 : 광주소상공인연합회 논란②] 광주소상공인연합회 총회 무산…...",
+      "link": "https://www.news2day.co.kr/article/20260417500177",
       "pub_date": "2026-04-17T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주당, '1호 인재'로 전태진 변호사 영입…'울산 남갑' 보궐선거...",
-      "link": "https://view.asiae.co.kr/article/2026041709312408180",
-      "pub_date": "2026-04-17T09:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 전화에 레바논 전선 멈췄다…이스라엘·레바논 ‘열흘 휴전’",
-      "link": "https://www.segye.com/newsView/20260417504659?OutUrl=naver",
-      "pub_date": "2026-04-17T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란전 순조롭게 풀리고 있어…곧 끝날 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417092939vc8",
-      "pub_date": "2026-04-17T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
