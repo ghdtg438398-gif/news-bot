@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-17 12:40:31",
+  "updated": "2026-04-17 12:45:33",
   "total": 200,
-  "breaking": 109,
+  "breaking": 110,
   "items": [
     {
       "title": "[속보] 오산 누읍동 인근서 화학물질 가스 누출 발생…\"대피 권고\"",
@@ -118,6 +118,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홍해 뚫었다…호르무즈 막힌 뒤 첫 원유 수송",
+      "link": "https://biz.heraldcorp.com/article/10719672?ref=naver",
+      "pub_date": "2026-04-17T12:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] \"골프 치고 술접대 받고\"…해경서장도 유착 정황",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188652",
-      "pub_date": "2026-04-17T08:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
