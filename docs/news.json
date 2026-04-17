@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-17 15:45:30",
+  "updated": "2026-04-17 15:50:33",
   "total": 200,
-  "breaking": 119,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 코스피 6191.92(▼34.13p, 0.55%), 원·달러 환율 1483.5(▲8.9원) ...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5188767",
+      "pub_date": "2026-04-17T15:49:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 축소…2.4조→1.8조 원",
+      "link": "https://www.sedaily.com/article/20033880?ref=naver",
+      "pub_date": "2026-04-17T15:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 정정 공시…특수관계인 참여로 공정위 신...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568560",
+      "pub_date": "2026-04-17T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부산 신도브래뉴아파트 앞 차선 통제 중...차량 우회 안내",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559806",
+      "pub_date": "2026-04-17T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]성비위·음주사고 경찰관…솜방망이 처분에 비위 반복",
+      "link": "https://www.nocutnews.co.kr/news/6504225?utm_source=naver&utm_medium=article&utm_campaign=20260417034540",
+      "pub_date": "2026-04-17T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 ‘2.4조→1.8조’로 정정",
+      "link": "https://www.sedaily.com/article/20033877?ref=naver",
+      "pub_date": "2026-04-17T15:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 한화솔루션, 유증 2.4조→1.8조 축소…채무상환 비중 줄여",
       "link": "http://www.fnnews.com/news/202604171540359867",
@@ -58,8 +112,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 부산 영도구 공사로 차선 통제…안전재난문자 발송",
-      "link": "https://www.etoday.co.kr/news/view/2576782",
+      "title": "김세영, LPGA 투어 LA 챔피언십 첫날 공동 2위로 출발!",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538884&ref=A",
+      "pub_date": "2026-04-17T15:41:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
+      "link": "https://www.news1.kr/industry/general-industry/6140378",
       "pub_date": "2026-04-17T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
-      "link": "https://www.news1.kr/industry/general-industry/6140378",
+      "title": "[속보] 부산 영도구 공사로 차선 통제…안전재난문자 발송",
+      "link": "https://www.etoday.co.kr/news/view/2576782",
       "pub_date": "2026-04-17T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
       "link": "https://www.newspim.com/news/view/20260417000699",
       "pub_date": "2026-04-17T15:36:00+09:00",
@@ -130,12 +184,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 원·달러 환율, 8.9원 오른 1483.5원 마감",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/S55M5DDRFVDS5AMWVGDAU4643M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -144,6 +198,15 @@
       "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율, 8.9원 오른 1483.5원 마감",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/S55M5DDRFVDS5AMWVGDAU4643M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 2.4조원서 1.8조원으로 축소",
-      "link": "https://www.dailian.co.kr/news/view/1634903/?sc=Naver",
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조에서 1.8조'로 축소",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305063?division=NAVER",
       "pub_date": "2026-04-17T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조에서 1.8조'로 축소",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305063?division=NAVER",
+      "title": "[속보] 한화솔루션, 유상증자 규모 2.4조원서 1.8조원으로 축소",
+      "link": "https://www.dailian.co.kr/news/view/1634903/?sc=Naver",
       "pub_date": "2026-04-17T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1735,69 +1798,6 @@
       "title": "\"아이가 혼자 부딪혔다\"더니…3살 아들 숨지게 한 20대 친부 검찰 송치",
       "link": "https://www.mt.co.kr/society/2026/04/17/2026041711125791110",
       "pub_date": "2026-04-17T11:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'압여목성' 8만3000채 정비 본격화…핵심 구역 공사비만 50조원 [K-건설 ...",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182120",
-      "pub_date": "2026-04-17T11:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지선 코앞인데 공항서 '유턴'…장동혁 방미 일정 '8박10일'로 연장",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298220&inflow=N",
-      "pub_date": "2026-04-17T11:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검 '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249174",
-      "pub_date": "2026-04-17T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 압수수색",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1254686.html",
-      "pub_date": "2026-04-17T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전광훈, '서부지법 사태 교사' 혐의 부인 \"나는 자고 있었다\"",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=732584",
-      "pub_date": "2026-04-17T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김재연 \"폭탄 던지듯 평택 출마, 당혹\"…조국 \"경쟁력 경쟁할 때\"",
-      "link": "https://www.news1.kr/politics/assembly/6140051",
-      "pub_date": "2026-04-17T11:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[LPGA] '엄마골퍼' 최운정, 첫날 공동 5위...부활의 신호탄",
-      "link": "https://www.newspim.com/news/view/20260417000603",
-      "pub_date": "2026-04-17T11:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
