@@ -1,16 +1,79 @@
 {
-  "updated": "2026-04-17 11:05:31",
+  "updated": "2026-04-17 11:10:33",
   "total": 200,
-  "breaking": 103,
+  "breaking": 102,
   "items": [
     {
-      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
-      "pub_date": "2026-04-17T11:04:00+09:00",
+      "title": "[속보]‘방미’ 장동혁, 공항서 美 국무부 연락 받고 귀국 사흘 미뤄”",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750013500000",
+      "pub_date": "2026-04-17T11:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전국 휘발유값 2000원 넘었다…전쟁 전보다 리터당 306원 올라",
+      "link": "https://www.hani.co.kr/arti/economy/marketing/1254671.html",
+      "pub_date": "2026-04-17T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 대통령 직무 긍정률 66%...지방선거 ‘여당 승리’ 45% [갤럽]",
+      "link": "https://www.kyeonggi.com/article/20260417580086",
+      "pub_date": "2026-04-17T11:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "예산군·경찰, 영화 ‘살목지’ 현장 안전사고 예방 위해 ‘강력 봉쇄’",
+      "link": "http://www.breaknews.com/1201090",
+      "pub_date": "2026-04-17T11:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁·김민수, 귀국 사흘 연기…“美 국무부 연락”",
+      "link": "https://biz.heraldcorp.com/article/10719543?ref=naver",
+      "pub_date": "2026-04-17T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 “檢 야비함과 잔인성에 피 거꾸로 솟아…수사권 손톱만...",
+      "link": "https://www.dt.co.kr/article/12057966?ref=naver",
+      "pub_date": "2026-04-17T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전광훈 \"폭동때 잤다…오줌도 못싸는 중환자\" 보석 후 첫 재판 출석",
+      "link": "https://www.nocutnews.co.kr/news/6504036?utm_source=naver&utm_medium=article&utm_campaign=20260417110438",
+      "pub_date": "2026-04-17T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘범죄도시 마동석’ 실제 모델 경찰관, 만취운전으로 재판행",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500079?wlog_tag3=naver",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
@@ -22,9 +85,27 @@
       "is_scoop": false
     },
     {
+      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "청양군, 저소득층 암 환자 의료비 지원 '소아암 최대 3000만 원까지'",
       "link": "http://www.breaknews.com/1201094",
       "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
+      "pub_date": "2026-04-17T11:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -40,21 +121,21 @@
       "is_scoop": true
     },
     {
-      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
-      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
       "link": "https://www.nocutnews.co.kr/news/6504030?utm_source=naver&utm_medium=article&utm_campaign=20260417110040",
       "pub_date": "2026-04-17T11:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[LIV] '샷이글' 김민규, 송영한과 멕시코 대회 1R 나란히 공동 3위",
+      "link": "https://www.newspim.com/news/view/20260417000538",
+      "pub_date": "2026-04-17T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1720,87 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 피해 보험사가 사기범에 유리한 '양형서' 날인 논란",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417053000iDK",
-      "pub_date": "2026-04-17T05:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 미국-이란 협상 기대…S&P500·나스닥 이틀연속 최고치",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170118&t=NN",
-      "pub_date": "2026-04-17T05:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란과 합의 근접…다음 협상 주말에 열릴 수도\"",
-      "link": "https://www.sidae.com/article/2026041705211574940",
-      "pub_date": "2026-04-17T05:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 넷플릭스 호실적에도 회장 사임 발표에 10% 폭락",
-      "link": "https://www.news1.kr/world/usa-canada/6139500",
-      "pub_date": "2026-04-17T05:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[우보세]금융, 부동산과 헤어질 결심",
-      "link": "https://www.mt.co.kr/finance/2026/04/17/2026041609381868106",
-      "pub_date": "2026-04-17T05:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]S&P·나스닥 이틀연속 최고치…‘불안한 랠리’",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01718726645417104",
-      "pub_date": "2026-04-17T05:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 상승 마감···S&P500·나스닥 이틀째 신고가",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=626765",
-      "pub_date": "2026-04-17T05:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이-레바논 휴전 미증시 일제 랠리… 나스닥 0.36↑",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029692133&code=61131111&cp=nv",
-      "pub_date": "2026-04-17T05:04:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"다음 협상 주말에 할수도\"…뉴욕증시, 상승 마감",
-      "link": "https://view.asiae.co.kr/article/2026041705030367417",
-      "pub_date": "2026-04-17T05:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
