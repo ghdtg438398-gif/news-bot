@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 18:00:40",
+  "updated": "2026-04-17 18:05:29",
   "total": 200,
   "breaking": 119,
   "items": [
+    {
+      "title": "[속보] 구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.yna.co.kr/view/AKR20260417142000004?input=1195m",
+      "pub_date": "2026-04-17T18:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 검찰총장 대행 \"국정조사, 진행 중 재판에 영향 주려해선...",
+      "link": "https://www.mt.co.kr/society/2026/04/17/2026041717454310631",
+      "pub_date": "2026-04-17T18:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전재수 '금품수수 의혹 부인' 허위사실 공표 고발",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417507&PRO_CODE=99",
+      "pub_date": "2026-04-17T18:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 여야, 광주 광산을 등 4개 선거구에 '중대선거구제' 도입 합의",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604170050",
@@ -31,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
+      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
+      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -83,6 +110,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "프로야구 연매출 '1조 시대' 눈앞…독립 산업 진입",
+      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97278",
+      "pub_date": "2026-04-17T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
@@ -265,21 +301,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전재수 “한동훈 허위사실 유포 혐의 고소…휴대폰 비번 꼭 풀길...",
-      "link": "https://biz.heraldcorp.com/article/10719962?ref=naver",
-      "pub_date": "2026-04-17T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "MBC충북 천교화·신석호·김현준 기자, '이달의 영상기자상' 수상",
       "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260417&SEQUENCE=0118",
       "pub_date": "2026-04-17T17:22:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전재수 “한동훈 허위사실 유포 혐의 고소…휴대폰 비번 꼭 풀길...",
+      "link": "https://biz.heraldcorp.com/article/10719962?ref=naver",
+      "pub_date": "2026-04-17T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘추경호-유영하’ 국힘 대구시장 2파전 압축…충북 윤갑근 본선...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
-      "link": "http://www.inews24.com/view/1961233",
-      "pub_date": "2026-04-17T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'막힌 호르무즈' 대안 찾았다…홍해 통한 원유 수송 첫 성과",
-      "link": "http://www.issuenbiz.com/news/articleView.html?idxno=75763",
-      "pub_date": "2026-04-17T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
