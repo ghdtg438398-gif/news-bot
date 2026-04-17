@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 07:09:12",
+  "updated": "2026-04-18 07:10:28",
   "total": 200,
   "breaking": 158,
   "items": [
@@ -22,13 +22,13 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
-      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
+      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
+      "link": "https://www.wikitree.co.kr/articles/1131390",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
@@ -40,13 +40,13 @@
       "is_scoop": true
     },
     {
-      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
-      "link": "https://www.wikitree.co.kr/articles/1131390",
+      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
+      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[딜로이트 글로벌 경제 리뷰] 전쟁과 국방비 지출 확대의 거시경제적 영...",
