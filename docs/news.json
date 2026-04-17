@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 15:25:26",
+  "updated": "2026-04-17 15:30:35",
   "total": 200,
-  "breaking": 119,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원'으로 정정",
+      "link": "https://www.mt.co.kr/industry/2026/04/17/2026041715281619609",
+      "pub_date": "2026-04-17T15:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "차원 다른 AI ‘미토스’ 위협…미국 입장 번복, 한국은 대책 있나? [지...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538880&ref=A",
+      "pub_date": "2026-04-17T15:27:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대바이오, 전립선암 치료제 'CP-PCA07' 1상 임상 변경 승인",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568556",
+      "pub_date": "2026-04-17T15:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "고려아연 주총 의결권 ‘검증대’…법원, 증거보전 인용",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298247&inflow=N",
@@ -184,20 +211,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
       "link": "https://magazine.hankyung.com/business/article/202604178391b",
       "pub_date": "2026-04-17T14:58:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -238,15 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
       "pub_date": "2026-04-17T14:54:00+09:00",
@@ -258,6 +276,15 @@
     {
       "title": "[속보] 국민의힘 대구시장 본경선에 추경호·유영하 의원 진출",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=224673",
+      "pub_date": "2026-04-17T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
       "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -283,15 +310,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]'원경' 김우담, 계백 장군 낙점..KBS 300억 대작 '문무' 합류",
       "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/17/2026041713555015828",
       "pub_date": "2026-04-17T14:52:00+09:00",
@@ -299,6 +317,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
@@ -1774,33 +1801,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "70대 노모 때려 숨지게 한 40대 딸 징역 7년…아들은 징역 3년",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522161&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "다목적 지도선 ‘창원바다’ 불법 단속 강화 나선다!",
-      "link": "http://www.breaknews.com/1201067",
-      "pub_date": "2026-04-17T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "창원 산호공원, '안전 요새'로 탈바꿈",
-      "link": "http://www.breaknews.com/1201066",
-      "pub_date": "2026-04-17T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
