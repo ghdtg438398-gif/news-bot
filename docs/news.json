@@ -1,15 +1,24 @@
 {
-  "updated": "2026-04-17 13:20:33",
+  "updated": "2026-04-17 13:25:29",
   "total": 200,
-  "breaking": 113,
+  "breaking": 112,
   "items": [
     {
-      "title": "[속보]호르무즈 봉쇄로 발 묶인 우리 유조선, 홍해 첫 통과",
+      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260417.99099004943",
       "pub_date": "2026-04-17T13:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "양산시 농수산물유통센터 법정관리 사태…김일권 예비후보에 불똥",
+      "link": "https://www.kpinews.kr/newsView/1065584532710637",
+      "pub_date": "2026-04-17T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T08:45:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
-      "link": "https://www.dailian.co.kr/news/view/1634638/?sc=Naver",
-      "pub_date": "2026-04-17T08:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
