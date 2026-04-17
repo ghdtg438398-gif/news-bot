@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-17 10:20:30",
+  "updated": "2026-04-17 10:25:31",
   "total": 200,
-  "breaking": 110,
+  "breaking": 109,
   "items": [
     {
       "title": "[속보]장동혁 귀국 이틀 연기…국힘 “美 국무부 인사 요청”",
@@ -31,6 +31,15 @@
       "is_scoop": false
     },
     {
+      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538631&ref=A",
+      "pub_date": "2026-04-17T10:14:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 장동혁, 오늘 귀국 안한다…\"美국무부 요청에 이틀 연장\"",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790077.html",
       "pub_date": "2026-04-17T10:12:00+09:00",
@@ -49,15 +58,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘방미’ 국민의힘 장동혁 대표 귀국 연기…“미 국무부 연락으...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538623&ref=A",
-      "pub_date": "2026-04-17T10:09:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "전력수급계획 공론화한다더니…닷새 앞두고 참가신청 시작",
       "link": "https://www.nocutnews.co.kr/news/6503961?utm_source=naver&utm_medium=article&utm_campaign=20260417100838",
       "pub_date": "2026-04-17T10:09:00+09:00",
@@ -67,8 +67,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁, 오늘 귀국 안 해…\"이틀 연장\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03050406645417104",
+      "title": "[속보] ‘방미’ 국민의힘 장동혁 대표 귀국 연기…“미 국무부 연락으...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538623&ref=A",
+      "pub_date": "2026-04-17T10:09:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 인사 요청\"",
+      "link": "https://www.dailian.co.kr/news/view/1634728/?sc=Naver",
       "pub_date": "2026-04-17T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 인사 요청\"",
-      "link": "https://www.dailian.co.kr/news/view/1634728/?sc=Naver",
+      "title": "[속보] 장동혁, 오늘 귀국 안 해…\"이틀 연장\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03050406645417104",
       "pub_date": "2026-04-17T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
-      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
+      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
+      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
+      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -310,6 +319,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "pub_date": "2026-04-17T09:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
@@ -319,9 +337,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
-      "pub_date": "2026-04-17T09:38:00+09:00",
+      "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
+      "pub_date": "2026-04-17T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -334,15 +352,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
-      "pub_date": "2026-04-17T09:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란과 다음 협상 주말에 열릴 수도\"",
-      "link": "https://view.asiae.co.kr/article/2026041703092659254",
-      "pub_date": "2026-04-17T03:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
