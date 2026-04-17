@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 11:40:42",
+  "updated": "2026-04-17 11:45:30",
   "total": 200,
-  "breaking": 111,
+  "breaking": 110,
   "items": [
+    {
+      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"아이가 혼자 부딪혔다\"더니…3살 아들 숨지게 한 20대 친부 검찰 송치",
+      "link": "https://www.mt.co.kr/society/2026/04/17/2026041711125791110",
+      "pub_date": "2026-04-17T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'압여목성' 8만3000채 정비 본격화…핵심 구역 공사비만 50조원 [K-건설 ...",
       "link": "http://www.kdfnews.com/news/articleView.html?idxno=182120",
@@ -94,15 +112,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
       "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
       "pub_date": "2026-04-17T11:26:00+09:00",
@@ -117,6 +126,15 @@
       "pub_date": "2026-04-17T11:26:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260417500323",
+      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
+      "link": "http://www.fnnews.com/news/202604171117281820",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
-      "link": "http://www.fnnews.com/news/202604171117281820",
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260417500323",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861150",
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -310,8 +328,8 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861150",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -418,15 +436,6 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
-      "link": "http://www.ddanzi.com/879087698",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
       "pub_date": "2026-04-17T11:04:00+09:00",
@@ -434,6 +443,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
+      "link": "http://www.ddanzi.com/879087698",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "청양군, 저소득층 암 환자 의료비 지원 '소아암 최대 3000만 원까지'",
@@ -454,15 +472,6 @@
       "is_scoop": false
     },
     {
-      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
-      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "캐시닥 용돈퀴즈 정답 4월 17일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604170028",
       "pub_date": "2026-04-17T11:02:00+09:00",
@@ -470,6 +479,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
+      "pub_date": "2026-04-17T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 베이루트 교외서 이-레바논 휴전 축하 시작중 총성 들려",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594947",
-      "pub_date": "2026-04-17T07:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]곽동연, FA 된다…블리츠웨이와 전속계약 종료",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810837",
-      "pub_date": "2026-04-17T07:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
