@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 11:25:31",
+  "updated": "2026-04-17 11:30:36",
   "total": 200,
-  "breaking": 107,
+  "breaking": 110,
   "items": [
+    {
+      "title": "트럭 살며 치매노모 간병하다 '비극'…존속살해 60대 징역 6년",
+      "link": "https://www.nocutnews.co.kr/news/6504062?utm_source=naver&utm_medium=article&utm_campaign=20260417112638",
+      "pub_date": "2026-04-17T11:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼성전자 노조, 5월 1일부터 18일간 총파업 결의",
+      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합 특검, '비상계엄 가담 의혹' 해양경찰청 압수수색",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604171125043300",
+      "pub_date": "2026-04-17T11:25:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, 비상계엄 당시 가담 여부 확인위해 해경 압수수색",
+      "link": "https://www.pressian.com/pages/articles/2026041711234379758?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-17T11:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790107.html",
+      "pub_date": "2026-04-17T11:24:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[다음주 경제일정] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 중...",
       "link": "https://biz.sbs.co.kr/article_hub/20000304966?division=NAVER",
@@ -157,15 +220,6 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
       "link": "https://www.news1.kr/photos/7861150",
       "pub_date": "2026-04-17T11:12:00+09:00",
@@ -190,6 +244,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -220,7 +283,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전국 휘발윳값 2000원 넘어…전쟁 전보다 리터당 306원↑",
+      "title": "[속보] 휘발유 값 2000원 넘어…전쟁 전보다 리터당 306원↑",
       "link": "https://www.hani.co.kr/arti/economy/marketing/1254671.html",
       "pub_date": "2026-04-17T11:08:00+09:00",
       "source_id": "yna",
@@ -247,6 +310,15 @@
       "is_scoop": false
     },
     {
+      "title": "전광훈 \"폭동때 잤다…오줌도 못싸는 중환자\" 보석 후 첫 재판 출석",
+      "link": "https://www.nocutnews.co.kr/news/6504036?utm_source=naver&utm_medium=article&utm_campaign=20260417110438",
+      "pub_date": "2026-04-17T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 장동혁·김민수, 귀국 사흘 연기…“美 국무부 연락”",
       "link": "https://biz.heraldcorp.com/article/10719543?ref=naver",
       "pub_date": "2026-04-17T11:05:00+09:00",
@@ -261,24 +333,6 @@
       "pub_date": "2026-04-17T11:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전광훈 \"폭동때 잤다…오줌도 못싸는 중환자\" 보석 후 첫 재판 출석",
-      "link": "https://www.nocutnews.co.kr/news/6504036?utm_source=naver&utm_medium=article&utm_campaign=20260417110438",
-      "pub_date": "2026-04-17T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘범죄도시 마동석’ 실제 모델 경찰관, 만취운전으로 재판행",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500079?wlog_tag3=naver",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -310,12 +364,12 @@
       "is_scoop": false
     },
     {
-      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
-      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
-      "pub_date": "2026-04-17T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
+      "title": "[속보] ‘범죄도시 마동석’ 실제 모델 경찰관, 만취운전으로 재판행",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500079?wlog_tag3=naver",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -326,6 +380,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "비비앙, 성수 플래그십 스토어 새단장…보이넥스트도어와 기념 행사 진...",
+      "link": "https://www.hinews.co.kr/view.php?ud=202604161431195435dacadeb388_48",
+      "pub_date": "2026-04-17T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]장동혁, 방미 일정 이틀 연장…\"美국무부 인사들 요청\"",
@@ -1737,69 +1800,6 @@
       "pub_date": "2026-04-17T06:50:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "나랏돈 노리며 불완전판매 행태도…금감원 실태 조사 나선다",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538406&ref=A",
-      "pub_date": "2026-04-17T06:49:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(속보) 이스라엘·레바논, 10일간 휴전 합의…美 트럼프 \"17일 오전 6시부...",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182088",
-      "pub_date": "2026-04-17T06:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538403&ref=A",
-      "pub_date": "2026-04-17T06:48:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[N2 모닝 경제 브리핑-4월 17일] 美증시, 중동 휴전 소식에 일제히 상승...",
-      "link": "https://www.news2day.co.kr/article/20260416500055",
-      "pub_date": "2026-04-17T06:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이스라엘-레바논 10일 간 임시 휴전",
-      "link": "https://magazine.hankyung.com/business/article/202604176966b",
-      "pub_date": "2026-04-17T06:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 유병언 일가는 미국 호화 대저택에?…‘횡령 창구’ 법인도 ‘영...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538402&ref=A",
-      "pub_date": "2026-04-17T06:45:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 탈출 늑대 '늑구' 9일 만에 생포… 체온·맥박 정상",
-      "link": "https://www.hankookilbo.com/news/article/A2026041706160003943?did=NA",
-      "pub_date": "2026-04-17T06:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
