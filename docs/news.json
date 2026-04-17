@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 00:10:28",
+  "updated": "2026-04-18 00:15:32",
   "total": 200,
   "breaking": 164,
   "items": [
+    {
+      "title": "\"클롭 선임 최우선 확정, 첫 영입 타깃은 맨시티 핵심\", '2연속 무관' 레...",
+      "link": "http://www.osen.co.kr/article/G1112784137",
+      "pub_date": "2026-04-18T00:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "KIA, 두산 꺾고 632일 만에 8연승 질주",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522847&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T00:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"망해가는 뉴욕타임스, 가짜뉴스 CNN 등은 어찌할 바 몰라...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394569",
+      "pub_date": "2026-04-18T00:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 사우디, 월드컵 두달 남기고 감독 경질! 르나르 날리고 도니스 ...",
       "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209070",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"카트 훔치고 이물질 협박당해\"…시장 휘젓던 '동네 조폭' 구속 ...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188828",
-      "pub_date": "2026-04-17T19:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 구자현 檢 \"검사 안타까운 소식 참담…어떤 국조도 재판 영향 안...",
-      "link": "https://www.pressian.com/pages/articles/2026041719324794112?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-17T19:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "아프리카 산유국 '경제외교'…\"대체 조달처 확보\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417193038gjY",
-      "pub_date": "2026-04-17T19:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
