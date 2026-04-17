@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 09:20:31",
+  "updated": "2026-04-17 09:25:30",
   "total": 200,
   "breaking": 128,
   "items": [
+    {
+      "title": "[속보] 우리로 VI 두차례 발동, 주가 21% 털썩…11000원선으로",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568461",
+      "pub_date": "2026-04-17T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이원택 식사비 대납 의혹' 김슬지 도의원 후보 자격 박탈",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64010",
+      "pub_date": "2026-04-17T09:21:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "충격 속보 \"김민재 에이전트 이스탄불 도착\" 5년 만에 페네르바체 복귀...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810921",
+      "pub_date": "2026-04-17T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피 6227.33(▲1.28p, 0.02%), 원·달러 환율 1481.4(▲6.8원) 개...",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5188666",
@@ -49,6 +76,15 @@
       "is_scoop": false
     },
     {
+      "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
+      "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
+      "pub_date": "2026-04-17T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…김상욱 지역구 ‘울산...",
       "link": "https://www.khan.co.kr/article/202604170910001",
       "pub_date": "2026-04-17T09:10:00+09:00",
@@ -58,21 +94,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]어머니 살해 후 자해한 40대 구속…\"도주 우려\"",
+      "title": "[속보]60대 모친 살해 후 자해한 40대 구속…\"도주 우려\"",
       "link": "https://www.kwnews.co.kr/page/view/2026041750000900000",
       "pub_date": "2026-04-17T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "왕사남 소풍열차, 영월 민관 600년째 찰떡 공조..단종문화제 지구촌에 ...",
-      "link": "https://biz.heraldcorp.com/article/10719327?ref=naver",
-      "pub_date": "2026-04-17T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -166,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
-      "link": "https://www.sidae.com/article/2026041708515922813",
+      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595155",
+      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
+      "link": "https://www.sidae.com/article/2026041708515922813",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
       "link": "https://www.dt.co.kr/article/12057928?ref=naver",
       "pub_date": "2026-04-17T00:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘과 레바논 10일간 휴전 합의\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594897",
-      "pub_date": "2026-04-17T00:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6815865_36925.html",
-      "pub_date": "2026-04-17T00:45:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 美 트럼프 \"이스라엘·레바논 10일 휴전\"…중동 긴장 완화 신호",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512500",
-      "pub_date": "2026-04-17T00:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
