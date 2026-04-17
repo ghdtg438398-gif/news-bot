@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 13:35:30",
+  "updated": "2026-04-17 13:40:31",
   "total": 200,
-  "breaking": 111,
+  "breaking": 109,
   "items": [
+    {
+      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
+      "link": "https://economist.co.kr/article/view/ecn202604170046",
+      "pub_date": "2026-04-17T13:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[정치家] 김민석 국무총리 ③ㅣ 에너지·안전·민생 전방위 대응…국정...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568483",
+      "pub_date": "2026-04-17T13:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 봉쇄 후 한국 유조선 첫 홍해 통과",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045323",
+      "pub_date": "2026-04-17T13:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"폭동 때 잤다\"는 전광훈, 석방 후 첫 재판서 혐의 부인",
+      "link": "https://www.nocutnews.co.kr/news/6504115?utm_source=naver&utm_medium=article&utm_campaign=20260417013639",
+      "pub_date": "2026-04-17T13:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"친인척집 화장실에도 설치\"…'몰카' 장학관, 6곳서 동료 등 41명...",
+      "link": "https://www.imaeil.com/page/view/2026041713035633149",
+      "pub_date": "2026-04-17T13:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "조현준·조현문 미뤄진 만남…효성 '형제의 난' 재판 증인신문 8월로",
       "link": "https://news.tf.co.kr/read/economy/2314379.htm",
@@ -1753,51 +1798,6 @@
       "title": "[속보] 코스피, 1.28p(0.02%) 오른 6227.33 출발",
       "link": "https://www.ajunews.com/view/20260417085704739",
       "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 3.81p(0.33%) 오른 1166.78(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2576612",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6227.33 출발, 전 거래일 대비 0.02% 상승",
-      "link": "https://www.sidae.com/article/2026041708503862170",
-      "pub_date": "2026-04-17T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.02% 오른 6227.33 출발…코스닥은 1166.78",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02686326645417104",
-      "pub_date": "2026-04-17T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 원·달러 환율, 6.8원 오른 1481.4원 개장",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/4KOLMJWVP5EZLD2OE5HOOMHLK4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T09:02:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.02% 오른 6227.33 출발",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595149",
-      "pub_date": "2026-04-17T09:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
