@@ -1,12 +1,48 @@
 {
-  "updated": "2026-04-17 23:50:31",
+  "updated": "2026-04-17 23:55:30",
   "total": 200,
-  "breaking": 157,
+  "breaking": 160,
   "items": [
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140764",
-      "pub_date": "2026-04-17T23:47:00+09:00",
+      "title": "[속보]'광역 비례대표 확대·광주 광역의회 중대선거구제 도입' 국회 법...",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596334",
+      "pub_date": "2026-04-17T23:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“다시 80달러선” 호르무즈 개방에 유가 급락",
+      "link": "https://www.munhwa.com/article/11583170?ref=naver",
+      "pub_date": "2026-04-17T23:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英총리 “10여개국 호르무즈 방어임무 참여 준비”",
+      "link": "https://www.sedaily.com/article/20034041?ref=naver",
+      "pub_date": "2026-04-17T23:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시는 봉쇄 않기로 합의\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140766",
+      "pub_date": "2026-04-17T23:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]英 \"호르무즈 제한없이 개방돼야…항행의 자유 임무에 12개국 참여...",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596455",
+      "pub_date": "2026-04-17T23:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -18,6 +54,15 @@
       "pub_date": "2026-04-17T23:47:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140764",
+      "pub_date": "2026-04-17T23:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -85,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
+      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
+      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
-      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
+      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1757,51 +1802,6 @@
       "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 휘발유 평균가격 2000원대 진입…2022년 이후 4년만",
-      "link": "https://www.news1.kr/industry/general-industry/6140627",
-      "pub_date": "2026-04-17T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민중기 특검, '그림 청탁' 김상민 前검사 징역 6년 구형",
-      "link": "https://www.dailian.co.kr/news/view/1635013/?sc=Naver",
-      "pub_date": "2026-04-17T18:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "돌아온 늑구에…오늘부터 한화 이기자? 폭발한 밈",
-      "link": "https://www.munhwa.com/article/11583153?ref=naver",
-      "pub_date": "2026-04-17T18:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[핌in김해] 홍지원-김민선-전예성, 넥센·세인트나인 마스터스 1R 공동 ...",
-      "link": "https://www.newspim.com/news/view/20260417001077",
-      "pub_date": "2026-04-17T18:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '홍해 뚫은' SK해운 유조선, 보름 뒤 한국 도착할 듯",
-      "link": "https://news.jtbc.co.kr/article/NB12294700?influxDiv=NAVER",
-      "pub_date": "2026-04-17T18:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
