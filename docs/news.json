@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 15:14:14",
+  "updated": "2026-04-17 15:15:30",
   "total": 200,
-  "breaking": 122,
+  "breaking": 120,
   "items": [
+    {
+      "title": "\"중, 이란에 첨단 레이더 제공 검토\"...미중 갈등 새 뇌관",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604171512444211",
+      "pub_date": "2026-04-17T15:12:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[6.3 지방선거] 안민석 경기도교육감 예비후보, 교육·돌봄·교원 복지 ...",
       "link": "https://www.ibabynews.com/news/articleView.html?idxno=150632",
@@ -37,6 +46,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[취재수첩] \"동물원 아닌 동물원\"...'Unzoo' 우리도 가능할까?",
+      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97262",
+      "pub_date": "2026-04-17T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -157,6 +175,15 @@
       "is_scoop": false
     },
     {
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "pub_date": "2026-04-17T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국민의힘 대구시장 본경선에 추경호·유영하 의원 진출",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=224673",
       "pub_date": "2026-04-17T14:54:00+09:00",
@@ -175,15 +202,6 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]추경호·유영하, 국힘 대구시장 후보 본경선 진출",
       "link": "https://www.donga.com/news/Politics/article/all/20260417/133760182/2",
       "pub_date": "2026-04-17T14:53:00+09:00",
@@ -193,7 +211,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 대구시장 본경선 후보 2인 압축…추경호·유영하",
+      "title": "[속보]‘추경호-유영하’ 국힘 대구시장 2파전 압축…충북 윤갑근 본선...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
@@ -1780,24 +1798,6 @@
       "title": "[속보]‘방미’ 장동혁, 공항서 美 국무부 연락 받고 귀국 사흘 미뤄”",
       "link": "https://www.kwnews.co.kr/page/view/2026041750013500000",
       "pub_date": "2026-04-17T11:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 휘발유 값 2000원 넘어…전쟁 전보다 리터당 306원↑",
-      "link": "https://www.hani.co.kr/arti/economy/marketing/1254671.html",
-      "pub_date": "2026-04-17T11:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 대통령 직무 긍정률 66%...지방선거 ‘여당 승리’ 45% [갤럽]",
-      "link": "https://www.kyeonggi.com/article/20260417580086",
-      "pub_date": "2026-04-17T11:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
