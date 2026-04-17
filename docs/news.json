@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 10:40:32",
+  "updated": "2026-04-17 10:45:32",
   "total": 200,
   "breaking": 107,
   "items": [
+    {
+      "title": "'칩인 이글 앞세운' 임성재, RBC 헤리티지 1R 김시우와 나란히 10위 [PGA ...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019807",
+      "pub_date": "2026-04-17T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 대표, 귀국 사흘 연기…“美 국무부 요청”",
+      "link": "https://www.munhwa.com/article/11583015?ref=naver",
+      "pub_date": "2026-04-17T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘방미’ 장동혁, 귀국 연기…“공항서 美 국무부 연락받아”",
+      "link": "https://www.segye.com/newsView/20260417506575?OutUrl=naver",
+      "pub_date": "2026-04-17T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[#통신 풍향계] LGU+ '도쿄 어코드' 체결·하나증권 'SKT 목표가' 상향·...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838112",
+      "pub_date": "2026-04-17T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '방미' 장동혁 귀국 취소 \"공항 수속 중 美 국무부 연락 받아\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041710253738887",
+      "pub_date": "2026-04-17T10:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 일부 광통신주 '급락→반등' 롤러코스터…광전자·대한광통신·빛...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568498",
@@ -202,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
+      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
+      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
-      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
+      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
       "pub_date": "2026-04-17T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1753,51 +1798,6 @@
       "title": "[속보] '축구계 비보' 불과 48세인데 교통사고로 사망...前 아스널·리버...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145444",
       "pub_date": "2026-04-17T04:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"파키스탄서 이란과 합의되면 직접 방문할수도\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003594914",
-      "pub_date": "2026-04-17T03:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "남자골프 개막전 첫날부터 '박빙'…최승빈·전가람·최찬·이상엽 공동...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019792",
-      "pub_date": "2026-04-17T03:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "네타냐후, 트럼프의 ‘레바논 휴전’ 발표 직후 안보 내각 긴급 소집",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538364&ref=A",
-      "pub_date": "2026-04-17T03:39:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반성 없는 정치검찰과 국정조사 훼방놓는 국민의힘",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444784",
-      "pub_date": "2026-04-17T03:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이슬라마바드서 이란 합의 성사되면 내가 갈 수도 있다...",
-      "link": "https://www.newspim.com/news/view/20260417000012",
-      "pub_date": "2026-04-17T03:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
