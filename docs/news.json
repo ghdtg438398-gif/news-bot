@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:25:27",
+  "updated": "2026-04-18 06:30:34",
   "total": 200,
-  "breaking": 170,
+  "breaking": 168,
   "items": [
+    {
+      "title": "[단독]'연개소문' 장혁, 오늘 몽골行..300억 대작 '문무' 주필산 전투 촬...",
+      "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/18/2026041801060397183",
+      "pub_date": "2026-04-18T06:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[위클리이슈] \"약포지가 없다\" 중동발 악재에 약국 아우성",
       "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=533205",
@@ -13,12 +22,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
-      "link": "https://www.etoday.co.kr/news/view/2576877",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
+      "title": "“소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539366&ref=A",
+      "pub_date": "2026-04-18T06:18:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -27,6 +36,15 @@
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
+      "link": "https://www.etoday.co.kr/news/view/2576877",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-17T21:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 화상 정상회의 시작...李대통령 공식 발언 예정",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/17/35YRVSI6SZEVZKOVJK2LUFISHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T21:23:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
-      "link": "https://www.hankyung.com/article/2026041792237",
-      "pub_date": "2026-04-17T21:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
