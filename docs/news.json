@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:50:36",
+  "updated": "2026-04-18 06:55:28",
   "total": 200,
-  "breaking": 163,
+  "breaking": 162,
   "items": [
+    {
+      "title": "경찰서 방문한 네덜란드 공주",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560209",
+      "pub_date": "2026-04-18T06:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[현장 포커스] 안현민·허경민 공백도 끄떡없다... KT 3연승 이끈 'FA 3인...",
       "link": "https://www.newspim.com/news/view/20260417001120",
@@ -85,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
-      "link": "https://www.etoday.co.kr/news/view/2576877",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
       "link": "https://www.kbsm.net/news/view.php?idx=516399",
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
+      "link": "https://www.etoday.co.kr/news/view/2576877",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1793,15 +1802,6 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
-      "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
-      "pub_date": "2026-04-17T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
