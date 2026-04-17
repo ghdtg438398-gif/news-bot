@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 21:40:34",
+  "updated": "2026-04-17 21:45:28",
   "total": 200,
   "breaking": 133,
   "items": [
@@ -103,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 화상 정상회의 시작...李대통령 공식 발언 예정",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/17/35YRVSI6SZEVZKOVJK2LUFISHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T21:23:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
       "link": "https://www.hankyung.com/article/2026041792237",
       "pub_date": "2026-04-17T21:23:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작...李대통령 공식 발언 예정",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/17/35YRVSI6SZEVZKOVJK2LUFISHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T21:23:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -184,15 +184,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
-      "link": "https://www.sedaily.com/article/20034010?ref=naver",
-      "pub_date": "2026-04-17T21:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
       "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721153688738",
       "pub_date": "2026-04-17T21:16:00+09:00",
@@ -204,6 +195,15 @@
     {
       "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
+      "link": "https://www.sedaily.com/article/20034010?ref=naver",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
