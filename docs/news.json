@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 18:50:32",
+  "updated": "2026-04-17 18:55:28",
   "total": 200,
-  "breaking": 123,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[단독] '홍해 뚫은' SK해운 유조선, 보름 뒤 한국 도착할 듯",
+      "link": "https://news.jtbc.co.kr/article/NB12294700?influxDiv=NAVER",
+      "pub_date": "2026-04-17T18:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]한화솔루션, 유상증자 규모 변경에 불성실공시법인 지정예고",
       "link": "https://magazine.hankyung.com/business/article/202604179094b",
@@ -76,7 +85,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 총장 대행 “국정조사서 평검사·수사관 증인채택 철회해...",
+      "title": "[속보] 검찰총장 대행 “국정조사 검사 증인채택 철회해 달라”",
       "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
       "pub_date": "2026-04-17T18:36:00+09:00",
       "source_id": "yna",
@@ -265,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
+      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
+      "link": "https://www.viva100.com/article/20260417500704",
       "pub_date": "2026-04-17T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
-      "link": "https://www.viva100.com/article/20260417500704",
+      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
       "pub_date": "2026-04-17T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 코스닥, 7.07포인트(0.61%) 오른 1170.04 마감",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833711",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 34.13포인트(0.55%) 내린 6191.92 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=833710",
       "pub_date": "2026-04-17T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
