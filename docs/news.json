@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 07:35:25",
+  "updated": "2026-04-18 07:40:29",
   "total": 200,
   "breaking": 159,
   "items": [
+    {
+      "title": "[속보]미-이란 2차 협상 20일 이슬라마바드에서 열린다",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596499",
+      "pub_date": "2026-04-18T07:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “이란과 큰 이견 없어 주말 협상 타결 전망...내가 갈 수...",
       "link": "https://www.munhwa.com/article/11583179?ref=naver",
@@ -94,8 +103,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
-      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
+      "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
+      "link": "https://www.xportsnews.com/article/2138087",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
-      "link": "https://www.xportsnews.com/article/2138087",
+      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
+      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T21:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무 \"레바논 휴전 기간 상업용 선박에 호르무즈 완전 개방...",
-      "link": "https://www.news1.kr/world/middleeast-africa/6140737",
-      "pub_date": "2026-04-17T21:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
