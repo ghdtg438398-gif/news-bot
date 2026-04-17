@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 08:55:30",
-  "total": 200,
-  "breaking": 121,
+  "updated": "2026-04-17 09:00:41",
+  "total": 197,
+  "breaking": 119,
   "items": [
+    {
+      "title": "\"골든 타임 지나 긴급 수술\"…희소병 완치된 40대 문근영의 기대감",
+      "link": "https://www.nocutnews.co.kr/news/6503905?utm_source=naver&utm_medium=article&utm_campaign=20260417085837",
+      "pub_date": "2026-04-17T08:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 통항위한 영·프 주도 40개국 정상회의…한국도 참석",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004919",
+      "pub_date": "2026-04-17T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
       "link": "https://www.tfmedia.co.kr/news/article.html?no=203802",
@@ -22,20 +40,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
-      "link": "https://www.dailian.co.kr/news/view/1634638/?sc=Naver",
-      "pub_date": "2026-04-17T08:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]한국도 참석...호르무즈 통항위한 영·프 주도 40개국 정상회의 개...",
       "link": "https://magazine.hankyung.com/business/article/202604177268b",
       "pub_date": "2026-04-17T08:45:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
+      "link": "https://www.dailian.co.kr/news/view/1634638/?sc=Naver",
+      "pub_date": "2026-04-17T08:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1753,51 +1771,6 @@
       "title": "[속보] 뉴욕증시, 일제히 하락…S&P500 7000선 안착",
       "link": "https://news.mtn.co.kr/news-detail/2026041622592756605",
       "pub_date": "2026-04-16T23:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕 증시, 중동 휴전 기대속 혼조 출발…다우지수 0.18%↑",
-      "link": "https://www.newsis.com/view/NISX20260416_0003594879",
-      "pub_date": "2026-04-16T23:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '이대통령·이준석 명예훼손' 전한길 구속영장 기각",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394363",
-      "pub_date": "2026-04-16T22:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정부 \"국제기구통한 이란 인도적 지원, 전용 가능성 없다\"",
-      "link": "https://www.nocutnews.co.kr/news/6503865?utm_source=naver&utm_medium=article&utm_campaign=20260416105632",
-      "pub_date": "2026-04-16T22:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전한길 구속영장 기각…법원 “도주 우려 없어”",
-      "link": "https://www.donga.com/news/Politics/article/all/20260416/133757181/1",
-      "pub_date": "2026-04-16T22:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, 전한길 구속영장 기각…증거인멸·도주우려 인정 안 해",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521525&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-16T22:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
