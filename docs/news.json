@@ -1,14 +1,41 @@
 {
-  "updated": "2026-04-17 23:20:33",
+  "updated": "2026-04-17 23:25:27",
   "total": 200,
-  "breaking": 157,
+  "breaking": 156,
   "items": [
+    {
+      "title": "KIA, 632일 만의 8연승…kt는 단독 2위로",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417232356NJr",
+      "pub_date": "2026-04-17T23:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
       "link": "https://www.hankyung.com/article/2026041792857",
       "pub_date": "2026-04-17T23:19:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417162800085?input=1195m",
+      "pub_date": "2026-04-17T23:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 對이란 해상봉쇄 유지\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700258.html",
+      "pub_date": "2026-04-17T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -31,12 +58,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 對이란 해상봉쇄 유지\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700258.html",
-      "pub_date": "2026-04-17T23:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
+      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539291&ref=A",
+      "pub_date": "2026-04-17T23:17:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -55,6 +82,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “핵 찌꺼기 받기로”…이란, 무기급 우라늄 진짜 내놓나?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539290&ref=A",
+      "pub_date": "2026-04-17T23:13:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1762,42 +1798,6 @@
       "title": "[속보]‘해직교사 복직 고공농성’ 고진수 세종호텔 지부장 구속",
       "link": "https://www.khan.co.kr/article/202604171831001",
       "pub_date": "2026-04-17T18:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이 대통령과 90분간 ‘막걸리 오찬’…홍준표 의미심장 SNS에 입각설 재...",
-      "link": "https://www.khan.co.kr/article/202604171829001",
-      "pub_date": "2026-04-17T18:29:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 창원 정병터널 차량사고 발생...안전 유의",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559941",
-      "pub_date": "2026-04-17T18:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "개혁진보 4당 \"양당 지선 합의는 기득권 수호...밀실서 정치개혁 후퇴시...",
-      "link": "https://www.mediapen.com/news/view/1094096",
-      "pub_date": "2026-04-17T18:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041718215430993",
-      "pub_date": "2026-04-17T18:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
