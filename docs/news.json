@@ -1,12 +1,57 @@
 {
-  "updated": "2026-04-17 18:40:36",
+  "updated": "2026-04-17 18:45:31",
   "total": 200,
-  "breaking": 122,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 특검, '김건희 그림 청탁' 김상민 2심서 총 징역 6년 구형",
+      "link": "http://www.fnnews.com/news/202604171840531118",
+      "pub_date": "2026-04-17T18:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검 '김건희 그림 청탁' 김상민 2심 징역 6년 구형",
+      "link": "https://news.tf.co.kr/read/life/2314562.htm",
+      "pub_date": "2026-04-17T18:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여수국가산단 내 석유화학 공장서 60대 근로자 추락 사고 사망",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104229",
+      "pub_date": "2026-04-17T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "불안한 평화 속 레바논 피란민 귀환…헤즈볼라 \"방아쇠서 손 안 떼\"",
+      "link": "https://www.goodnews1.com/news/articleView.html?idxno=458938",
+      "pub_date": "2026-04-17T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 특검, '김건희 그림 청탁' 김상민 2심서 총 징역 6년 구형",
       "link": "https://www.news1.kr/society/court-prosecution/6140668",
       "pub_date": "2026-04-17T18:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 총장 대행 “국정조사서 평검사·수사관 증인채택 철회해...",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
+      "pub_date": "2026-04-17T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -67,7 +112,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰총장 직무대행 \"국조증인 검사 안타까운 소식…참담한 마음...",
+      "title": "[속보] 검찰총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041718215430993",
       "pub_date": "2026-04-17T18:25:00+09:00",
       "source_id": "yna",
@@ -76,7 +121,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+      "title": "[속보]시·도의원 늘어난다…광역 비례대표 비율 14%로 상향",
       "link": "https://www.donga.com/news/Politics/article/all/20260417/133762718/2",
       "pub_date": "2026-04-17T18:20:00+09:00",
       "source_id": "yna",
@@ -229,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "[게임뉴스] 레벨 인피니트 및 에픽게임즈 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57298",
+      "pub_date": "2026-04-17T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
       "link": "https://view.asiae.co.kr/article/2026041718094285690",
       "pub_date": "2026-04-17T18:12:00+09:00",
@@ -244,15 +298,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[게임뉴스] 레벨 인피니트 및 에픽게임즈 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57298",
-      "pub_date": "2026-04-17T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -454,8 +499,8 @@
       "is_scoop": false
     },
     {
-      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
+      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -463,8 +508,8 @@
       "is_scoop": false
     },
     {
-      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
+      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1756,51 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
-      "link": "https://www.newspim.com/news/view/20260417000699",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 34.13p(0.55%) 내린 6191.92 마감",
-      "link": "https://www.ajunews.com/view/20260417153109095",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2576776",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 34.13p(0.55%) 내린 6191.92(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2576777",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
