@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 23:43:44",
+  "updated": "2026-04-17 23:45:41",
   "total": 200,
   "breaking": 157,
   "items": [
+    {
+      "title": "[속보]트럼프 “이란, 호르무즈 다시는 폐쇄 않기로 합의” 주장",
+      "link": "https://www.sedaily.com/article/20034040?ref=naver",
+      "pub_date": "2026-04-17T23:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 폴리마켓 \"호르무즈 해협 이달 말까지 정상화 확률 55%\"",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394565",
@@ -31,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
-      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
+      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
+      "link": "https://www.imaeil.com/page/view/2026041723252857216",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
-      "link": "https://www.imaeil.com/page/view/2026041723252857216",
+      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
+      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
       "pub_date": "2026-04-17T23:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,21 +238,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 참석 호르무즈 국제 화상회의 종료",
-      "link": "http://www.fnnews.com/news/202604172248431170",
-      "pub_date": "2026-04-17T22:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“일런 머스크 형제, 비트코인 2조5000억원 어치 보유 중”",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06671526645417104",
       "pub_date": "2026-04-17T22:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 참석 호르무즈 국제 화상회의 종료",
+      "link": "http://www.fnnews.com/news/202604172248431170",
+      "pub_date": "2026-04-17T22:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1789,15 +1798,6 @@
       "title": "[속보] 특검 '김건희 그림 청탁' 김상민 2심 징역 6년 구형",
       "link": "https://news.tf.co.kr/read/life/2314562.htm",
       "pub_date": "2026-04-17T18:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 여수국가산단 내 석유화학 공장서 60대 근로자 추락 사고 사망",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104229",
-      "pub_date": "2026-04-17T18:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
