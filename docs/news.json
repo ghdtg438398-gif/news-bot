@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-17 12:00:48",
+  "updated": "2026-04-17 12:05:26",
   "total": 200,
   "breaking": 110,
   "items": [
     {
-      "title": "접금근지 끝나자 아내 살해한 60대, 항소심서도 징역 27년",
+      "title": "[속보] 정청래 “남욱 증언에 피가 거꾸로 솟아…검찰 행태 잔인하고 야...",
+      "link": "https://www.kyeonggi.com/article/20260417580119",
+      "pub_date": "2026-04-17T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이다을, 5월 24일 첫 팬미팅 개최",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532115",
+      "pub_date": "2026-04-17T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김산 무안군수 예비후보, \"전 군민 10만 원 에너지 지원금 지급\" 공약",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745193",
+      "pub_date": "2026-04-17T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "접근금지 끝나자 현관에서 아내 찔러 살해…항소심서도 중형",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522224&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T11:57:00+09:00",
       "source_id": "yna",
@@ -18,6 +45,15 @@
       "pub_date": "2026-04-17T11:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -36,15 +72,6 @@
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -220,6 +247,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
+      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
+      "pub_date": "2026-04-17T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
       "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-17T11:26:00+09:00",
@@ -231,15 +267,6 @@
     {
       "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
       "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
-      "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
-      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
       "pub_date": "2026-04-17T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,15 +328,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260417500323",
-      "pub_date": "2026-04-17T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
       "link": "http://www.fnnews.com/news/202604171117281820",
       "pub_date": "2026-04-17T11:20:00+09:00",
@@ -326,6 +344,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260417500323",
+      "pub_date": "2026-04-17T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 정청래 \"남욱 증언, 피 거꾸로 솟게 해…검찰 수사권 박탈해야\"",
@@ -409,15 +436,6 @@
       "is_scoop": false
     },
     {
-      "title": "창원 산호공원, '안전 요새'로 탈바꿈",
-      "link": "http://www.breaknews.com/1201066",
-      "pub_date": "2026-04-17T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "다목적 지도선 ‘창원바다’ 불법 단속 강화 나선다!",
       "link": "http://www.breaknews.com/1201067",
       "pub_date": "2026-04-17T11:14:00+09:00",
@@ -427,17 +445,17 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
-      "pub_date": "2026-04-17T11:12:00+09:00",
+      "title": "창원 산호공원, '안전 요새'로 탈바꿈",
+      "link": "http://www.breaknews.com/1201066",
+      "pub_date": "2026-04-17T11:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861150",
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -460,6 +478,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861150",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 17일 굿모닝 MBN 이 시각 주요뉴스",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5188640",
-      "pub_date": "2026-04-17T07:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'입 연' 남욱 \"가족 사진 보여주며 '목표는 하나'\"",
-      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6815924_37012.html",
-      "pub_date": "2026-04-17T07:36:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 거의 모든 것 동의…주말에 다음협상 할수도\"",
-      "link": "https://magazine.hankyung.com/business/article/202604177013b",
-      "pub_date": "2026-04-17T07:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
