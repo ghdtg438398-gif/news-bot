@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 05:35:24",
+  "updated": "2026-04-18 05:40:30",
   "total": 200,
   "breaking": 171,
   "items": [
@@ -22,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보][뉴욕증시]S&P500·나스닥, 사흘 연속 사상 최고…테슬라, 3% 급등",
-      "link": "http://www.fnnews.com/news/202604180503022180",
+      "title": "[속보]뉴욕증시, 종전 기대속 일제 상승…다우 1.8% 나스닥 1.5%↑",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596478",
       "pub_date": "2026-04-18T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]뉴욕증시, 종전 기대속 일제 상승…다우 1.8% 나스닥 1.5%↑",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596478",
+      "title": "[속보][뉴욕증시]S&P500·나스닥, 사흘 연속 사상 최고…테슬라, 3% 급등",
+      "link": "http://www.fnnews.com/news/202604180503022180",
       "pub_date": "2026-04-18T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
