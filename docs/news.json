@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 22:30:41",
+  "updated": "2026-04-17 22:35:28",
   "total": 200,
-  "breaking": 144,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보]트럼프, 이란의 '호르무즈 완전개방' 발표에 \"땡큐\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06612486645417104",
+      "pub_date": "2026-04-17T22:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경남 사천서 '칼부림' 60대 긴급체포…여성 1명 이송",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522814&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T22:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 화상회의…靑 \"이 대통령, 에너지 안보 상황에 우려\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041721410721432",
+      "pub_date": "2026-04-17T22:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란 '호르무즈 완전개방' 발표에 \"땡큐\"",
+      "link": "https://www.imaeil.com/page/view/2026041722302693973",
+      "pub_date": "2026-04-17T22:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지\"",
+      "link": "https://www.yna.co.kr/view/AKR20260417160700071?input=1195m",
+      "pub_date": "2026-04-17T22:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, 이란의 '호르무즈 완전개방' 발표에 \"땡큐\"",
       "link": "https://www.hankyung.com/article/2026041792617",
@@ -31,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 \"이스라엘-레바논 휴전 기간 호르무즈 완전 개방\"",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260417010005558",
+      "title": "[속보] 이란 “휴전 기간 상선에 호르무즈 완전 개방…조정된 경로로 통...",
+      "link": "https://www.dt.co.kr/article/12058032?ref=naver",
       "pub_date": "2026-04-17T22:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “휴전 기간 상선에 호르무즈 완전 개방…조정된 경로로 통...",
-      "link": "https://www.dt.co.kr/article/12058032?ref=naver",
+      "title": "[속보] 이란 \"이스라엘-레바논 휴전 기간 호르무즈 완전 개방\"",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20260417010005558",
       "pub_date": "2026-04-17T22:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,7 +148,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란 “레바논 휴전기간 호르무즈 완전 개방…항로 협조해야”",
+      "title": "[속보]]이란 “레바논 휴전중 호르무즈 완전 개방”…트럼프 “땡큐”",
       "link": "https://www.donga.com/news/article/all/20260417/133764181/2",
       "pub_date": "2026-04-17T22:15:00+09:00",
       "source_id": "yna",
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "13일 청주 봉명동 가스폭발 피해 519건으로 늘어…청주시 지원·복구 조...",
-      "link": "https://idsn.co.kr/news/view/1065602698185785",
-      "pub_date": "2026-04-17T17:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 개인정보위, 메타엠 '정보유출 의심' 조사 검토",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549927",
-      "pub_date": "2026-04-17T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "프로야구 연매출 '1조 시대' 눈앞…독립 산업 진입",
-      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97278",
-      "pub_date": "2026-04-17T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133762137/1",
-      "pub_date": "2026-04-17T17:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "中, 이란에 긴급 인도주의 지원 제공",
-      "link": "http://kr.people.com.cn/n3/2026/0417/c208059-20447769.html",
-      "pub_date": "2026-04-17T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
