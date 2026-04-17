@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:30:34",
+  "updated": "2026-04-18 06:35:26",
   "total": 200,
-  "breaking": 168,
+  "breaking": 165,
   "items": [
+    {
+      "title": "2분에 600만원…인형뽑기방 턴 중학생들, 추가 범행도?",
+      "link": "https://news.jtbc.co.kr/article/NB12294769?influxDiv=NAVER",
+      "pub_date": "2026-04-18T06:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]'연개소문' 장혁, 오늘 몽골行..300억 대작 '문무' 주필산 전투 촬...",
       "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/18/2026041801060397183",
@@ -11,6 +20,24 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
+      "pub_date": "2026-04-18T06:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
+      "pub_date": "2026-04-18T06:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[위클리이슈] \"약포지가 없다\" 중동발 악재에 약국 아우성",
@@ -31,20 +58,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
-      "link": "https://www.kbsm.net/news/view.php?idx=516399",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
       "link": "https://www.etoday.co.kr/news/view/2576877",
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
+      "link": "https://www.kbsm.net/news/view.php?idx=516399",
+      "pub_date": "2026-04-18T06:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1771,33 +1798,6 @@
       "title": "[속보]서정욱 “좌파 투항 홍준표, 총리 가능성 높다”",
       "link": "https://www.munhwa.com/article/11583162?ref=naver",
       "pub_date": "2026-04-17T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 해협 국제 화상회의 시작… 李대통령 참석",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394552",
-      "pub_date": "2026-04-17T21:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 사태 대응 국제 화상회의 개시…이 대통령 참석",
-      "link": "https://www.g-enews.com/view.php?ud=20260417212330182778e43e3ead_1",
-      "pub_date": "2026-04-17T21:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '李대통령 참석' 호르무즈 국제 화상회의 시작",
-      "link": "http://www.fnnews.com/news/202604172123153611",
-      "pub_date": "2026-04-17T21:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
