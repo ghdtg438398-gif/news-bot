@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-17 17:30:33",
+  "updated": "2026-04-17 17:35:34",
   "total": 200,
-  "breaking": 124,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://www.kyeonggi.com/article/20260417580330",
+      "pub_date": "2026-04-17T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[퇴근길머니] 코스피, 랠리 후 '숨고르기'…경상흑자에도 뛰는 환율",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173223sMe",
+      "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 합...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524659",
+      "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야, 선거 40여일 앞두고…시도의원 120여명 더 뽑기로 합의",
+      "link": "https://www.sidae.com/article/2026041717311299743",
+      "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417173303wI8",
+      "pub_date": "2026-04-17T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://www.viva100.com/article/20260417500682",
+      "pub_date": "2026-04-17T17:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “비례대표 시·도의원 정수 비율 14%로 상향” 합의",
+      "link": "https://www.viva100.com/article/20260417500680",
+      "pub_date": "2026-04-17T17:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전재수 49.9%·박형준 41.2%…한자릿수 추격 “한동훈 나비효과”...",
+      "link": "https://www.munhwa.com/article/11583147?ref=naver",
+      "pub_date": "2026-04-17T17:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790225.html",
+      "pub_date": "2026-04-17T17:27:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790224.html",
+      "pub_date": "2026-04-17T17:26:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
       "link": "https://www.etoday.co.kr/news/view/2576834",
@@ -49,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
-      "link": "https://www.ajunews.com/view/20260417171724216",
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
       "pub_date": "2026-04-17T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,9 +157,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://www.ajunews.com/view/20260417171724216",
       "pub_date": "2026-04-17T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://www.sedaily.com/article/20033919?ref=naver",
+      "pub_date": "2026-04-17T17:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -94,9 +193,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
-      "link": "https://www.sedaily.com/article/20033919?ref=naver",
-      "pub_date": "2026-04-17T17:19:00+09:00",
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\"",
+      "link": "http://www.fnnews.com/news/202604171715287446",
+      "pub_date": "2026-04-17T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -139,15 +238,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\"",
-      "link": "http://www.fnnews.com/news/202604171715287446",
-      "pub_date": "2026-04-17T17:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 與野, 광주 광산을 등 4개 선거구에 중대선거구제 도입 합의",
       "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/IPUOU43ELFBU5DDTU3JNTGN6RU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-17T17:17:00+09:00",
@@ -166,21 +256,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 광주 선거구 4곳서 시·도의원 선거 최초 중대선거구제 도입",
-      "link": "https://www.news1.kr/politics/assembly/6140571",
-      "pub_date": "2026-04-17T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "‘나눔 경영’ 실천하는 애터미, 완도 순직 소방관 유가족 지원에 20억 ...",
       "link": "http://www.breaknews.com/1201256",
       "pub_date": "2026-04-17T17:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광주 선거구 4곳서 시·도의원 선거 최초 중대선거구제 도입",
+      "link": "https://www.news1.kr/politics/assembly/6140571",
+      "pub_date": "2026-04-17T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -211,21 +301,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
-      "link": "https://www.hankyung.com/article/2026041788547",
-      "pub_date": "2026-04-17T17:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "외교부 \"이란 인도적 지원 전용 가능성 없어\"…미스 이란도 \"오해 풀려...",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417171253Mm5",
       "pub_date": "2026-04-17T17:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
+      "link": "https://www.hankyung.com/article/2026041788547",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -364,21 +454,21 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
-      "pub_date": "2026-04-17T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
       "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
       "pub_date": "2026-04-17T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
+      "pub_date": "2026-04-17T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -526,15 +616,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
-      "pub_date": "2026-04-17T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
       "pub_date": "2026-04-17T16:42:00+09:00",
@@ -542,6 +623,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -1708,96 +1798,6 @@
       "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
       "link": "https://biz.heraldcorp.com/article/10719779?ref=naver",
       "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘, 대구시장 추경호·유영하 본경선 진출",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545400",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경오·유영하, 국민의힘 대구시장 후보 본경선 진출",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=701804",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133760115/1",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 윤갑근, 윤희근 꺾고 결선…김영환과 국힘 충북지사 공천 다퉈",
-      "link": "http://www.inews24.com/view/1961231",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국민의힘 충북지사 경선 김영환·윤갑근 대결 확정",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902484",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘추경호·유영하 2파전’...국민의힘 대구시장 후보 압축",
-      "link": "https://www.sedaily.com/article/20033829?ref=naver",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
-      "link": "https://www.viva100.com/article/20260417500471",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 대구시장 본경선에 추경호·유영하 진출",
-      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/DAE4D2MAPZHW7KFXSONJVQQU24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T14:41:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.mk.co.kr/article/12019956",
-      "pub_date": "2026-04-17T14:41:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]충북지사 2인 경선에 윤갑근…김영환 현역 지사와 경쟁",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03840886645417104",
-      "pub_date": "2026-04-17T14:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
