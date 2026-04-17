@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 07:05:30",
+  "updated": "2026-04-18 07:09:12",
   "total": 200,
-  "breaking": 159,
+  "breaking": 158,
   "items": [
     {
       "title": "중동전쟁 여파 속 반도체 슈퍼사이클…1분기 성장률은[한은 미리보기]",
@@ -22,13 +22,13 @@
       "is_scoop": true
     },
     {
-      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
-      "link": "https://www.wikitree.co.kr/articles/1131390",
+      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
+      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
@@ -40,13 +40,13 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
-      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
+      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
+      "link": "https://www.wikitree.co.kr/articles/1131390",
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "[딜로이트 글로벌 경제 리뷰] 전쟁과 국방비 지출 확대의 거시경제적 영...",
@@ -54,6 +54,15 @@
       "pub_date": "2026-04-18T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘서울의 봄’ 김기동 감독이 홍명보 감독에게 추천한 선수는?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539389&ref=A",
+      "pub_date": "2026-04-18T06:54:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1792,15 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 국제 화상회의 시작…이 대통령 참석",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029695868&code=61111111&cp=nv",
-      "pub_date": "2026-04-17T21:45:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
