@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 19:55:27",
+  "updated": "2026-04-17 20:00:38",
   "total": 200,
-  "breaking": 121,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 평창 대관령서 산불…헬기 6대 투입해 주불 진화",
+      "link": "https://biz.heraldcorp.com/article/10720012?ref=naver",
+      "pub_date": "2026-04-17T19:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 \"'조작 수사' 책임자 소환 반드시 필요\"",
+      "link": "http://www.inews24.com/view/1961351",
+      "pub_date": "2026-04-17T19:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 검찰총장대행, 수사검사 극단시도에 \"참담…국정조사가 재판 영...",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269826",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 지선 앞두고 'AI 유령' 딥페이크 판치는데 X 삭제율은 30%대 불과",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369751",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
-      "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417042341",
-      "pub_date": "2026-04-17T15:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
