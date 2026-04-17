@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 15:10:31",
+  "updated": "2026-04-17 15:14:14",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[6.3 지방선거] 안민석 경기도교육감 예비후보, 교육·돌봄·교원 복지 ...",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150632",
+      "pub_date": "2026-04-17T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]이 대통령, 홍준표와 막걸리 마시며 환담…“막걸리 한 잔 나누자...",
       "link": "https://www.khan.co.kr/article/202604171508001",
@@ -49,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
-      "link": "https://www.ajunews.com/view/20260417150114056",
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.ajunews.com/view/20260417150049055",
       "pub_date": "2026-04-17T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.ajunews.com/view/20260417150049055",
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://www.ajunews.com/view/20260417150114056",
       "pub_date": "2026-04-17T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 대구시장 후보 '추경호·유영하' 압축… 충북지사 윤갑근 ...",
-      "link": "https://www.hankookilbo.com/news/article/A2026041714510003087?did=NA",
+      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
+      "title": "[속보] 국힘 대구시장 후보 '추경호·유영하' 압축… 충북지사 윤갑근 ...",
+      "link": "https://www.hankookilbo.com/news/article/A2026041714510003087?did=NA",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
+      "title": "[속보]국힘, 대구시장 본경선 후보 2인 압축…추경호·유영하",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,6 +211,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[단독]'원경' 김우담, 계백 장군 낙점..KBS 300억 대작 '문무' 합류",
       "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/17/2026041713555015828",
       "pub_date": "2026-04-17T14:52:00+09:00",
@@ -209,15 +227,6 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]국힘, 대구시장 본경선 후보 2인 압축…추경호·유영하",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     },
     {
       "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "예산군·경찰, 영화 ‘살목지’ 현장 안전사고 예방 위해 ‘강력 봉쇄’",
-      "link": "http://www.breaknews.com/1201090",
-      "pub_date": "2026-04-17T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
