@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 16:15:30",
+  "updated": "2026-04-17 16:20:32",
   "total": 200,
-  "breaking": 127,
+  "breaking": 128,
   "items": [
+    {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 채택 불발 … 20일 재논의",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700209.html",
+      "pub_date": "2026-04-17T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보 청문보고서 채택 불발",
+      "link": "https://www.sidae.com/article/2026041716090189298",
+      "pub_date": "2026-04-17T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'밑 빠진 독' 옛말…프로야구 1천만 열기→年 1조 가시권",
       "link": "https://www.nocutnews.co.kr/news/6504256?utm_source=naver&utm_medium=article&utm_campaign=20260417041341",
@@ -130,21 +148,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
-      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[지평선] 장동혁의 사진 한 장",
       "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
       "pub_date": "2026-04-17T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
+      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -283,15 +301,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 정정 공시…특수관계인 참여로 공정위 신...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568560",
-      "pub_date": "2026-04-17T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "부산 신도브래뉴아파트 앞 차선 통제 중...차량 우회 안내",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559806",
       "pub_date": "2026-04-17T15:46:00+09:00",
@@ -308,6 +317,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 정정 공시…특수관계인 참여로 공정위 신...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568560",
+      "pub_date": "2026-04-17T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 한화솔루션, 유상증자 규모 ‘2.4조→1.8조’로 정정",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오산 화학물질 가스 누출…인근 주민 창문 닫고 대피 권고",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=863917",
-      "pub_date": "2026-04-17T12:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[재난문자] 오산 누읍동 인근서 화학물질 가스 누출사고 발생",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559607",
-      "pub_date": "2026-04-17T12:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
