@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-17 20:05:28",
+  "updated": "2026-04-17 20:10:27",
   "total": 200,
   "breaking": 122,
   "items": [
@@ -67,20 +67,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]전재수-한동훈 맞고소...'까르띠에 시계' 설전 고소전으로 비화",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604170058",
-      "pub_date": "2026-04-17T19:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 화학공장서 60대 작업자 추락… 병원 이송됐으나 중태",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500238?wlog_tag3=naver",
       "pub_date": "2026-04-17T19:38:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전재수-한동훈 맞고소...'까르띠에 시계' 설전 고소전으로 비화",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170058",
+      "pub_date": "2026-04-17T19:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
