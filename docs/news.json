@@ -1,21 +1,39 @@
 {
-  "updated": "2026-04-17 12:35:28",
+  "updated": "2026-04-17 12:40:31",
   "total": 200,
   "breaking": 109,
   "items": [
     {
-      "title": "[속보] 오산 화학물질 가스 누출…인근 주민 창문 닫고 대피 권고",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=863917",
-      "pub_date": "2026-04-17T12:30:00+09:00",
+      "title": "[속보] 오산 누읍동 인근서 화학물질 가스 누출 발생…\"대피 권고\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294644?influxDiv=NAVER",
+      "pub_date": "2026-04-17T12:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 오산 누읍동 일대 화학 가스 누출…\"대피 권고\"",
-      "link": "https://www.news1.kr/local/gyeonggi/6140119",
-      "pub_date": "2026-04-17T12:28:00+09:00",
+      "title": "창원시, 산호공원 사면 보강공사 준공 현장 점검",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300444",
+      "pub_date": "2026-04-17T12:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오산 한 공장서 화학물질가스 누출",
+      "link": "https://www.kyeonggi.com/article/20260417580145",
+      "pub_date": "2026-04-17T12:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오산 화학물질 가스 누출…인근 주민 창문 닫고 대피 권고",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=863917",
+      "pub_date": "2026-04-17T12:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -31,6 +49,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 오산 누읍동 일대 화학 가스 누출…\"대피 권고\"",
+      "link": "https://www.news1.kr/local/gyeonggi/6140119",
+      "pub_date": "2026-04-17T12:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[심층기획] 학교 담장 넘어 마을로…'온 동네 돌봄'으로 키우는 아이들",
       "link": "http://news.ebs.co.kr/ebsnews/allView/60714823/N",
       "pub_date": "2026-04-17T12:28:00+09:00",
@@ -40,20 +67,20 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538812&ref=A",
-      "pub_date": "2026-04-17T12:26:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "(단독)송영길 행선지, '하남갑' 확실",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298223&inflow=N",
       "pub_date": "2026-04-17T12:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538812&ref=A",
+      "pub_date": "2026-04-17T12:26:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
     },
@@ -166,6 +193,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
       "pub_date": "2026-04-17T11:54:00+09:00",
@@ -177,15 +213,6 @@
     {
       "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
       "link": "https://www.imaeil.com/page/view/2026041710075299561",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,20 +274,20 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
       "pub_date": "2026-04-17T11:43:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1775,33 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "구윤철 \"차량용 요소·요소수 4월말 공공비축분 방출 추진\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410099",
-      "pub_date": "2026-04-17T08:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"헤즈볼라 바르게 행동하면 위대한 순간…살육 더 없어야...",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417082651xNv",
-      "pub_date": "2026-04-17T08:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417082603S8k",
-      "pub_date": "2026-04-17T08:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
