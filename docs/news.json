@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 05:55:29",
+  "updated": "2026-04-18 06:00:35",
   "total": 200,
   "breaking": 170,
   "items": [
+    {
+      "title": "[속보] 뉴욕증시, 1%대 강세 마감…S&P500·나스닥 사상 최고치",
+      "link": "https://www.etoday.co.kr/news/view/2576876",
+      "pub_date": "2026-04-18T05:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[금주 OTT 신작] '성난사람들', '하트시그널5', '리버스' 등 공개",
       "link": "https://www.newspim.com/news/view/20260417000907",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T21:17:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 해협 국제 화상회의 시작…이재명 대통령 공개 발언 예...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539101&ref=A",
-      "pub_date": "2026-04-17T21:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
