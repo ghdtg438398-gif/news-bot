@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-18 05:00:39",
+  "updated": "2026-04-18 05:05:29",
   "total": 200,
-  "breaking": 169,
+  "breaking": 170,
   "items": [
+    {
+      "title": "[속보][뉴욕증시]S&P500·나스닥, 사흘 연속 사상 최고…테슬라, 3% 급등",
+      "link": "http://www.fnnews.com/news/202604180503022180",
+      "pub_date": "2026-04-18T05:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 호르무즈 해협 개방, 미증시 일제 랠리…다우 1.79%",
+      "link": "https://www.news1.kr/world/usa-canada/6140786",
+      "pub_date": "2026-04-18T05:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가축전염병에 중동 변수까지…축산물 가격 '이중 압력'",
+      "link": "https://www.nocutnews.co.kr/news/6504149?utm_source=naver&utm_medium=article&utm_campaign=20260418050051",
+      "pub_date": "2026-04-18T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 호르무즈 해협 개방, WTI 11% 폭락한 84달러",
+      "link": "https://www.news1.kr/world/usa-canada/6140787",
+      "pub_date": "2026-04-18T04:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "중국 휴머노이드 로봇 세계 80% 장악…미국 AI 전략 '사각지대' 노출",
       "link": "https://www.g-enews.com/view.php?ud=202604172236193082bd56fbc3c_1",
@@ -1766,42 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
-      "link": "https://www.etnews.com/20260417000335",
-      "pub_date": "2026-04-17T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI상보] '장성우 솔로포+소형준 무실점 역투' KT, 키움 잡고 단독 2위 도...",
-      "link": "https://www.newspim.com/news/view/20260417001100",
-      "pub_date": "2026-04-17T21:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "<속보> 지자체-양봉협회, 꿀벌 통계 조사 개선 착수",
-      "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=342476",
-      "pub_date": "2026-04-17T21:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[데일리안 오늘뉴스 종합] [단독] AWS 공급망 총괄·배터리 책임자, 삼성...",
-      "link": "https://www.dailian.co.kr/news/view/1635028/?sc=Naver",
-      "pub_date": "2026-04-17T21:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
