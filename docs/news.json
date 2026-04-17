@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 00:05:37",
+  "updated": "2026-04-18 00:10:28",
   "total": 200,
   "breaking": 164,
   "items": [
+    {
+      "title": "[속보] 사우디, 월드컵 두달 남기고 감독 경질! 르나르 날리고 도니스 ...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209070",
+      "pub_date": "2026-04-18T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "2사 만루도, 무사 2·3루도 싹 다 무실점!…소형준 완벽투, 이강철 감독...",
+      "link": "https://www.xportsnews.com/article/2138250",
+      "pub_date": "2026-04-18T00:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란, 호르무즈 해협 전면 개방 선언…레바논 휴전 이행 속 해상...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568695",
@@ -49,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.hankyung.com/article/2026041793017",
+      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
+      "link": "https://www.hankyung.com/article/2026041793007",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.hankyung.com/article/2026041793007",
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.hankyung.com/article/2026041793017",
       "pub_date": "2026-04-17T23:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -112,20 +130,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140764",
-      "pub_date": "2026-04-17T23:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 “이란, 호르무즈 해협 다시는 폐쇄하지 않기로 합의” ...",
       "link": "https://www.chosun.com/international/international_general/2026/04/17/HZYJC7FRKFEOPACFJVBGB4TFXM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-17T23:47:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
+      "link": "https://www.news1.kr/world/usa-canada/6140764",
+      "pub_date": "2026-04-17T23:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1780,24 +1798,6 @@
       "title": "아프리카 산유국 '경제외교'…\"대체 조달처 확보\"",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260417193038gjY",
       "pub_date": "2026-04-17T19:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파… 서울 2030원",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/17/20260417500236?wlog_tag3=naver",
-      "pub_date": "2026-04-17T19:25:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'고지원·이예원과 정면 승부한' 전예성, 또 선두 [KLPGA 넥센·세인트나...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019813",
-      "pub_date": "2026-04-17T19:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
