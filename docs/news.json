@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 08:25:23",
-  "total": 165,
-  "breaking": 122,
+  "updated": "2026-04-18 08:30:36",
+  "total": 160,
+  "breaking": 117,
   "items": [
     {
       "title": "[PGA] 벙커샷 버디! 벌렁 드러누운 김시우, 공동 7위 도약",
@@ -40,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[주간유통잇슈] 컴포즈커피의 새 시도, BTS와 손잡은 팔도·hy",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012441",
+      "title": "'대북송금' 관련 없더라도 '쌍방울 주가조작' 수사 필요한 이유",
+      "link": "https://news.jtbc.co.kr/article/NB12294771?influxDiv=NAVER",
       "pub_date": "2026-04-18T08:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "'대북송금' 관련 없더라도 '쌍방울 주가조작' 수사 필요한 이유",
-      "link": "https://news.jtbc.co.kr/article/NB12294771?influxDiv=NAVER",
+      "title": "[주간유통잇슈] 컴포즈커피의 새 시도, BTS와 손잡은 팔도·hy",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012441",
       "pub_date": "2026-04-18T08:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1438,51 +1438,6 @@
       "title": "[속보] 트럼프 \"이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지\"",
       "link": "https://www.yna.co.kr/view/AKR20260417160700071?input=1195m",
       "pub_date": "2026-04-17T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란의 '호르무즈 완전개방' 발표에 \"땡큐\"",
-      "link": "https://www.hankyung.com/article/2026041792617",
-      "pub_date": "2026-04-17T22:28:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
-      "link": "https://www.joongang.co.kr/article/25421130",
-      "pub_date": "2026-04-17T22:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"휴전 기간 호르무즈 상선 항해 전면 허용\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045347",
-      "pub_date": "2026-04-17T22:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 “휴전 기간 상선에 호르무즈 완전 개방…조정된 경로로 통...",
-      "link": "https://www.dt.co.kr/article/12058032?ref=naver",
-      "pub_date": "2026-04-17T22:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"이스라엘-레바논 휴전 기간 호르무즈 완전 개방\"",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260417010005558",
-      "pub_date": "2026-04-17T22:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
