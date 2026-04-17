@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 11:50:29",
+  "updated": "2026-04-17 11:55:30",
   "total": 200,
-  "breaking": 110,
+  "breaking": 109,
   "items": [
+    {
+      "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
+      "link": "https://www.imaeil.com/page/view/2026041710075299561",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "{단독} 광주시의회, 거액 통합청사 리모델링 '선집행 강행' 논란",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202604171011464382caa2b7671d_7",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "전광훈 \"난 오줌도 혼자 못싸는 중환자\"…보석 후 첫 재판",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03444006645417104",
+      "pub_date": "2026-04-17T11:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "주주환원으로 방향 튼 KCC…'할인 기업'에서 '밸류업 후보'로의 전환점",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728739",
+      "pub_date": "2026-04-17T11:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김세영, 통산 14승 향해 시동…LA 챔피언십 공동 2위 출발",
       "link": "https://www.nocutnews.co.kr/news/6504087?utm_source=naver&utm_medium=article&utm_campaign=20260417114638",
@@ -148,11 +193,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
-      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,11 +211,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/17/5A6GFWP6YZCZ3C3LHG3HXCBKSY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
+      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
       "pub_date": "2026-04-17T11:26:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -229,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
-      "link": "http://www.fnnews.com/news/202604171117281820",
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260417500323",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260417500323",
+      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
+      "link": "http://www.fnnews.com/news/202604171117281820",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -364,15 +409,6 @@
       "is_scoop": false
     },
     {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
       "link": "https://www.news1.kr/photos/7861143",
       "pub_date": "2026-04-17T11:12:00+09:00",
@@ -388,6 +424,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
+      "link": "https://www.news1.kr/photos/7861144",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이스라엘-레바논, 열흘 휴전 합의”",
-      "link": "https://www.etnews.com/20260417000019",
-      "pub_date": "2026-04-17T07:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
-      "link": "https://www.etnews.com/20260417000018",
-      "pub_date": "2026-04-17T07:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"5언더파 66타\" 김시우·임성재, RBC 헤리티지 첫날 상위권 추격",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16036893",
-      "pub_date": "2026-04-17T07:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘-레바논, 열흘 휴전 합의\"",
-      "link": "https://economist.co.kr/article/view/ecn202604170002",
-      "pub_date": "2026-04-17T07:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고양 관산동 공장서 화재...교회로 번져 7시간 만에 완진",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559191",
-      "pub_date": "2026-04-17T07:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
