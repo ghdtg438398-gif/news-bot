@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-17 10:00:39",
+  "updated": "2026-04-17 10:05:32",
   "total": 200,
-  "breaking": 116,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[속보]장동혁, 오늘 귀국 안한다…\"美 국무부 연락받고 이틀 연장\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041709564268312",
+      "pub_date": "2026-04-17T10:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 귀국 이틀 연기…국힘 “美 국무부 인사 요청”",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758261/1",
+      "pub_date": "2026-04-17T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
+      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
+      "pub_date": "2026-04-17T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 침묵 깬 '룰러' 박재혁... \"오히려 더 센 척, 아무렇지 않은 척했...",
+      "link": "https://www.xportsnews.com/article/2137777",
+      "pub_date": "2026-04-17T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
+      "pub_date": "2026-04-17T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 \"장동혁 대표 귀국 연기...월요일 새벽 도착 예정\"",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604170959347052",
+      "pub_date": "2026-04-17T09:59:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "美 “앤트로픽 퇴출” 번복하나…‘미토스 충격’에 도입 재검토",
       "link": "https://www.segye.com/newsView/20260417505356?OutUrl=naver",
@@ -1746,60 +1800,6 @@
       "pub_date": "2026-04-17T01:58:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전 오월드 동물원 탈출 늑대 '늑구' 생포...동물원으로 복귀",
-      "link": "https://www.ytn.co.kr/_ln/0115_202604170153121221",
-      "pub_date": "2026-04-17T01:53:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 \"늑구 생포…오월드 무사히 복귀\"",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5188617",
-      "pub_date": "2026-04-17T01:51:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 “늑구 생포 후 오월드 복귀”",
-      "link": "https://www.segye.com/newsView/20260417500821?OutUrl=naver",
-      "pub_date": "2026-04-17T01:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전시 \"늑구 생포 후 무사히 오월드 복귀\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294579?influxDiv=NAVER",
-      "pub_date": "2026-04-17T01:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 늑구 포획 성공... \"오월드 복귀\"",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153309",
-      "pub_date": "2026-04-17T01:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 탈출 늑대 '늑구', 대전 오월드로 무사귀환",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444785",
-      "pub_date": "2026-04-17T01:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
