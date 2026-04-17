@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 10:15:32",
+  "updated": "2026-04-17 10:20:30",
   "total": 200,
-  "breaking": 111,
+  "breaking": 110,
   "items": [
+    {
+      "title": "[속보]장동혁 귀국 이틀 연기…국힘 “美 국무부 인사 요청”",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758431/2",
+      "pub_date": "2026-04-17T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정은지, 15주년 맞아 '눈부신 미모' 발산",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568482",
+      "pub_date": "2026-04-17T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 인사 요청\"",
+      "link": "https://www.imaeil.com/page/view/2026041710130862613",
+      "pub_date": "2026-04-17T10:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁, 오늘 귀국 안한다…\"美국무부 요청에 이틀 연장\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790077.html",
+      "pub_date": "2026-04-17T10:12:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 지지율, 전주 대비 1%p 하락한 66%…민주 48%, 국힘 19%[한...",
       "link": "https://www.dt.co.kr/article/12057947?ref=naver",
@@ -103,6 +139,15 @@
       "is_scoop": false
     },
     {
+      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
+      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
+      "pub_date": "2026-04-17T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
       "pub_date": "2026-04-17T10:00:00+09:00",
@@ -119,15 +164,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
-      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
-      "pub_date": "2026-04-17T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     },
     {
       "title": "[속보] 국민의힘 \"장동혁 대표 귀국 연기...월요일 새벽 도착 예정\"",
@@ -274,15 +310,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
-      "pub_date": "2026-04-17T09:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
@@ -292,9 +319,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
-      "pub_date": "2026-04-17T09:36:00+09:00",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -310,21 +337,21 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 대한광통신, 15,550원 찍고 3% 반등…VI 흔들림 속 \"타이밍 싸움...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568466",
+      "pub_date": "2026-04-17T09:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[유통가 레이더] \"다양한 모양 상품도 완벽 배송\"... NS홈쇼핑, 롯데글로...",
       "link": "https://www.greened.kr/news/articleView.html?idxno=339408",
       "pub_date": "2026-04-17T09:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광전자 'VI 흔들림'에 급락 경고음…중동 휴전 기대 속에도 변동...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568465",
-      "pub_date": "2026-04-17T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -335,6 +362,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 광전자 'VI 흔들림'에 급락 경고음…중동 휴전 기대 속에도 변동...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568465",
+      "pub_date": "2026-04-17T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "\"주말쯤 협상‥이스라엘-레바논 열흘 휴전\"",
@@ -1762,42 +1798,6 @@
       "title": "[속보]트럼프 \"이란과 다음 협상 주말에 열릴 수도\"",
       "link": "https://view.asiae.co.kr/article/2026041703092659254",
       "pub_date": "2026-04-17T03:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘·레바논 휴전에 헤즈볼라 포함\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170309493613",
-      "pub_date": "2026-04-17T03:09:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란과 합의 근접, 이번 주말 2차 담판 가능성”",
-      "link": "https://www.dt.co.kr/article/12057932?ref=naver",
-      "pub_date": "2026-04-17T03:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 후속 협상 이번 주말에 열릴 수도\"",
-      "link": "https://www.news1.kr/world/usa-canada/6139491",
-      "pub_date": "2026-04-17T03:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 핵무기 보유 안하기로 합의…핵물질 美에 넘길 것...",
-      "link": "https://www.news1.kr/world/usa-canada/6139490",
-      "pub_date": "2026-04-17T03:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
