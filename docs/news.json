@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 20:00:38",
+  "updated": "2026-04-17 20:05:28",
   "total": 200,
-  "breaking": 123,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[마감을 하며] 고귀한 미션",
+      "link": "http://weekly.chosun.com/news/articleView.html?idxno=50757",
+      "pub_date": "2026-04-17T20:00:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 평창 대관령서 산불…헬기 6대 투입해 주불 진화",
       "link": "https://biz.heraldcorp.com/article/10720012?ref=naver",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
-      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
