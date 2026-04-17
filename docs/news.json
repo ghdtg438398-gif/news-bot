@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 08:50:27",
-  "total": 127,
-  "breaking": 82,
+  "updated": "2026-04-18 08:55:24",
+  "total": 126,
+  "breaking": 81,
   "items": [
     {
       "title": "[속보] '와' 이정후 또 첫 타석부터 벼락같은 '173.2㎞ 레이저 안타+득점...",
@@ -1132,15 +1132,6 @@
       "title": "[속보]이 대통령, 호르무즈 통항 위한 정상회의 참석…“해협 항행 자유...",
       "link": "https://www.khan.co.kr/article/202604172258001",
       "pub_date": "2026-04-17T22:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한국, 호르무즈 해협 항행 자유 보장 실질적 기여\" 강...",
-      "link": "https://www.newspim.com/news/view/20260417001123",
-      "pub_date": "2026-04-17T22:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
