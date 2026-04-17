@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 14:05:27",
+  "updated": "2026-04-17 14:10:37",
   "total": 200,
   "breaking": 103,
   "items": [
+    {
+      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
+      "link": "https://www.mk.co.kr/article/12019915",
+      "pub_date": "2026-04-17T14:08:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 해협 봉쇄 후 韓유조선 첫 홍해 통과...이 대통령 \"원팀...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170028",
+      "pub_date": "2026-04-17T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 입법조사처, '국세데이터 협력' 보도자료에 사적 문구 노출 '논란...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28021",
+      "pub_date": "2026-04-17T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 조이웍스앤코, 3:1 무상증자 결정…총 1436만주 발행",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568533",
+      "pub_date": "2026-04-17T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]호르무즈 봉쇄 후 첫 홍해 통과…한국 선박 안전 운항",
       "link": "https://www.kwnews.co.kr/page/view/2026041750027500000",
@@ -40,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[기업家] 다이소 ㅣ 앱 성장·물류 투자·상생 행보 '동시 확대'",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568474",
+      "title": "[N2기획 : 광주소상공인연합회 논란②] 광주소상공인연합회 총회 무산…...",
+      "link": "https://www.news2day.co.kr/article/20260417500177",
       "pub_date": "2026-04-17T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[N2기획 : 광주소상공인연합회 논란②] 광주소상공인연합회 총회 무산…...",
-      "link": "https://www.news2day.co.kr/article/20260417500177",
+      "title": "[기업家] 다이소 ㅣ 앱 성장·물류 투자·상생 행보 '동시 확대'",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568474",
       "pub_date": "2026-04-17T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 미국-이란 2차 협상 '관망'…코스피, 6200 '공방전'",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170271&t=NN",
       "pub_date": "2026-04-17T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6227.33(▲1.28p, 0.02%), 원·달러 환율 1481.4(▲6.8원) 개...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5188666",
-      "pub_date": "2026-04-17T09:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주, 울산남갑 보선 전략공천 후보에 전태진 변호사",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417091327vt7",
-      "pub_date": "2026-04-17T09:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김어준 미디어, 팬덤 선동으로 455억 매출 올렸지만…",
-      "link": "http://monthly.chosun.com/client/mdaily/daily_view.asp?idx=24190&Newsnumb=20260424190",
-      "pub_date": "2026-04-17T09:12:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 휘발유 2000원 임박…서울 등 6곳 이미 돌파",
-      "link": "http://www.fnnews.com/news/202604170859135621",
-      "pub_date": "2026-04-17T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
