@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 06:45:26",
+  "updated": "2026-04-18 06:50:36",
   "total": 200,
-  "breaking": 164,
+  "breaking": 163,
   "items": [
+    {
+      "title": "[현장 포커스] 안현민·허경민 공백도 끄떡없다... KT 3연승 이끈 'FA 3인...",
+      "link": "https://www.newspim.com/news/view/20260417001120",
+      "pub_date": "2026-04-18T06:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[ec.review] 램파드의 코벤트리, 25년 만에 PL 승격 성공!...양민혁은 12...",
       "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90729",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
       "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
-      "pub_date": "2026-04-17T21:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 해협 관련 화상 정상회의 시작…李 대통령 참석",
-      "link": "https://www.newspim.com/news/view/20260417001104",
       "pub_date": "2026-04-17T21:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
