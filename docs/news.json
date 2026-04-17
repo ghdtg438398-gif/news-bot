@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 12:10:28",
+  "updated": "2026-04-17 12:15:28",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "[단독] 피해자 집에 ‘홈캠’까지 설치하며 스토킹한 김훈…‘전자발찌...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538801&ref=A",
+      "pub_date": "2026-04-17T12:09:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "\"파키스탄 직접 갈 수 있다\"‥이스라엘-레바논도 휴전",
+      "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6815983_36967.html",
+      "pub_date": "2026-04-17T12:03:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 정청래 “남욱 증언에 피가 거꾸로 솟아…검찰 행태 잔인하고 야...",
       "link": "https://www.kyeonggi.com/article/20260417580119",
@@ -49,20 +67,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
       "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
       "pub_date": "2026-04-17T11:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029693870&code=61121111&cp=nv",
+      "pub_date": "2026-04-17T11:54:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -247,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
-      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
       "pub_date": "2026-04-17T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.dailian.co.kr/news/view/1634794/?sc=Naver",
+      "title": "[속보]삼성전자 노조, 5월 21일부터 18일간 총파업 결의",
+      "link": "https://www.g-enews.com/view.php?ud=2026041711015390096ed0c62d49_1",
       "pub_date": "2026-04-17T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
-      "link": "http://www.fnnews.com/news/202604171117281820",
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260417500323",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +364,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260417500323",
+      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
+      "link": "http://www.fnnews.com/news/202604171117281820",
       "pub_date": "2026-04-17T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "“대구 사람은 이재명을 박정희로 생각한다” 주재 기자가 전하는 민심...",
       "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57747",
       "pub_date": "2026-04-17T07:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴욕증시] '열흘 휴전' 리스크 완화…이틀 연속 사상 최고치",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008521707&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'대충격' 송성문, 마이너리그 잔류 확정…샌디에이고 마이너 옵션 사용...",
-      "link": "https://www.mhnse.com/news/articleView.html?idxno=528936",
-      "pub_date": "2026-04-17T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
