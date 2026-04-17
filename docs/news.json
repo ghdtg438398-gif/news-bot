@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 17:05:27",
+  "updated": "2026-04-17 17:10:31",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[필동정담] 머스크의 바벨탑 실험",
+      "link": "https://www.mk.co.kr/article/12020166",
+      "pub_date": "2026-04-17T17:09:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전재수 \"한동훈 '허위사실 유포' 고소…휴대전화 비밀번호 꼭 푸...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041717070391828",
+      "pub_date": "2026-04-17T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령-홍준표, 막걸리 오찬 회동...'보수' 洪 \"나라 위해 살겠...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170044",
+      "pub_date": "2026-04-17T17:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "막 내린 탈출‥\"늑구 뱃속에서 낚싯바늘 제거\"",
+      "link": "https://imnews.imbc.com/replay/2026/nw1700/article/6816062_36981.html",
+      "pub_date": "2026-04-17T17:03:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'승리의 여신: 니케' 서비스 3.5주년 맞아 18일 오후 7시 특별 방송",
       "link": "https://www.apnews.kr/news/articleView.html?idxno=3047956",
@@ -31,21 +67,21 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
-      "pub_date": "2026-04-17T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
       "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
       "pub_date": "2026-04-17T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
+      "pub_date": "2026-04-17T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -193,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
-      "pub_date": "2026-04-17T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
       "pub_date": "2026-04-17T16:42:00+09:00",
@@ -209,6 +236,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -256,15 +292,6 @@
       "is_scoop": false
     },
     {
-      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·시그널 편성",
-      "link": "http://www.joynews24.com/view/1961301",
-      "pub_date": "2026-04-17T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)LX하우시스 분쟁에 재무악화 중기…정부가 자금 지원",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298264&inflow=N",
       "pub_date": "2026-04-17T16:28:00+09:00",
@@ -272,6 +299,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·시그널 편성",
+      "link": "http://www.joynews24.com/view/1961301",
+      "pub_date": "2026-04-17T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
@@ -328,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 채택 불발 … 20일 재논의",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700209.html",
+      "title": "[속보] 재경위, 신현송 한은 총재 후보 청문보고서 채택 불발",
+      "link": "https://www.sidae.com/article/2026041716090189298",
       "pub_date": "2026-04-17T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -337,8 +373,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보 청문보고서 채택 불발",
-      "link": "https://www.sidae.com/article/2026041716090189298",
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 채택 불발 … 20일 재논의",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700209.html",
       "pub_date": "2026-04-17T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -355,7 +391,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 거래소, 한화솔루션에 주의…\"유증 22% 축소는 불성실공시\"",
+      "title": "[단독] 거래소, 한화솔루션에 경위서 요구…\"유증 22% 축소 불성실공시...",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170421&t=NN",
       "pub_date": "2026-04-17T16:13:00+09:00",
       "source_id": "hankyung",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조이웍스앤코, 3:1 무상증자 결정…총 1436만주 발행",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568533",
-      "pub_date": "2026-04-17T14:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"파키스탄 직접 갈 수 있다\"‥이스라엘-레바논도 휴전",
-      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816008_36974.html",
-      "pub_date": "2026-04-17T14:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 봉쇄 후 첫 홍해 통과…한국 선박 안전 운항",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750027500000",
-      "pub_date": "2026-04-17T14:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "NCT WISH, 서울 앙코르 공연서 '오드 투 러브' 무대 첫 공개",
-      "link": "https://news.jtbc.co.kr/article/NB12294654?influxDiv=NAVER",
-      "pub_date": "2026-04-17T14:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
