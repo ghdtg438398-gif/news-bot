@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 21:20:33",
+  "updated": "2026-04-17 21:25:29",
   "total": 200,
-  "breaking": 126,
+  "breaking": 128,
   "items": [
+    {
+      "title": "[속보] '李대통령 참석' 호르무즈 국제 화상회의 시작",
+      "link": "http://www.fnnews.com/news/202604172123153611",
+      "pub_date": "2026-04-17T21:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
+      "link": "https://www.hankyung.com/article/2026041792237",
+      "pub_date": "2026-04-17T21:23:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작...李대통령 참여",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/17/35YRVSI6SZEVZKOVJK2LUFISHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T21:23:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 국제 화상회의 시작…이 대통령 참석",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596411",
+      "pub_date": "2026-04-17T21:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "길거리서 40대 여성 흉기로 찌른 60대 긴급체포…\"지인 사이\"",
       "link": "https://www.mt.co.kr/society/2026/04/17/2026041721041943648",
@@ -31,6 +67,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
+      "pub_date": "2026-04-17T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 호르무즈 해협 국제 화상회의 시작…이재명 대통령 공개 발언 예...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539101&ref=A",
       "pub_date": "2026-04-17T21:16:00+09:00",
@@ -51,15 +96,6 @@
     {
       "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
       "link": "https://www.sedaily.com/article/20034010?ref=naver",
-      "pub_date": "2026-04-17T21:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[인터뷰] 봄 몰고 온 이프아이 \"전원 센터 그룹, 잊히지 않을 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294708?influxDiv=NAVER",
-      "pub_date": "2026-04-17T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[정유화학 딥체인지⑤] 사업재편 속도내는 LG화학...\"당분간은 실적 부...",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=2026041716253078020a47484cf8_23",
-      "pub_date": "2026-04-17T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '딸 불법 여권' 신현송 한은 총재 후보자 청문보고서 채택 불발",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417506&PRO_CODE=99",
-      "pub_date": "2026-04-17T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 헤즈볼라에 “중요한 시기, 젊잖게 행동하라”",
-      "link": "https://www.munhwa.com/article/11583141?ref=naver",
-      "pub_date": "2026-04-17T16:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
