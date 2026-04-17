@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 22:55:29",
+  "updated": "2026-04-17 23:00:47",
   "total": 200,
   "breaking": 153,
   "items": [
+    {
+      "title": "[속보] 이 대통령 \"호르무즈해협의 항행 자유 위해 실질적 기여할 것\"",
+      "link": "https://www.hankookilbo.com/news/article/A2026041722440002305?did=NA",
+      "pub_date": "2026-04-17T22:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 호르무즈 통항 위한 정상회의 참석…“해협 항행 자유...",
+      "link": "https://www.khan.co.kr/article/202604172258001",
+      "pub_date": "2026-04-17T22:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한국, 호르무즈 해협 항행 자유 보장 실질적 기여\" 강...",
+      "link": "https://www.newspim.com/news/view/20260417001123",
+      "pub_date": "2026-04-17T22:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"이란과 거래 100% 완료 전까지 이란 '해상 봉쇄' 유지\"",
       "link": "http://www.fnnews.com/news/202604172248144755",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-17T18:16:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]구자현 “국조, 재판에 영향 주려고 한다는 평가 받아선 안 돼”",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500227?wlog_tag3=naver",
-      "pub_date": "2026-04-17T18:15:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
-      "pub_date": "2026-04-17T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
-      "link": "https://www.viva100.com/article/20260417500704",
-      "pub_date": "2026-04-17T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
