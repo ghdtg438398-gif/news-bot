@@ -1,8 +1,116 @@
 {
-  "updated": "2026-04-17 14:45:39",
+  "updated": "2026-04-17 14:50:35",
   "total": 200,
-  "breaking": 109,
+  "breaking": 111,
   "items": [
+    {
+      "title": "[속보]韓유조선 홍해 통과…호르무즈 해협 봉쇄 후 처음",
+      "link": "https://www.munhwa.com/article/11583134?ref=naver",
+      "pub_date": "2026-04-17T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515834",
+      "pub_date": "2026-04-17T14:48:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 독일·프랑스 등 정부 공식 소통서 왓츠앱·시그널 퇴출",
+      "link": "https://www.news2day.co.kr/article/20260417500223",
+      "pub_date": "2026-04-17T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.dt.co.kr/article/12057999?ref=naver",
+      "pub_date": "2026-04-17T14:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구 추경호·유영하 본경선...충북 김영환·윤갑근 대결",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254716.html",
+      "pub_date": "2026-04-17T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 본경선 진출",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369993",
+      "pub_date": "2026-04-17T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "28도의 봄, 지선 박차 민주당, 세월호 12주기[노컷한컷]",
+      "link": "https://www.nocutnews.co.kr/news/6504162?utm_source=naver&utm_medium=article&utm_campaign=20260417024540",
+      "pub_date": "2026-04-17T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 충북지사 예비경선 윤갑근 승리…김영환과 본경선",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524621",
+      "pub_date": "2026-04-17T14:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘윤석열 변호인’ 윤갑근, 국힘 충북지사 본경선 진출…김영환...",
+      "link": "https://www.khan.co.kr/article/202604171445001",
+      "pub_date": "2026-04-17T14:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://news.jtbc.co.kr/article/NB12294662?influxDiv=NAVER",
+      "pub_date": "2026-04-17T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://news.jtbc.co.kr/article/NB12294663?influxDiv=NAVER",
+      "pub_date": "2026-04-17T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 후보 본경선 유영하·추경호 진출",
+      "link": "http://www.yonhapnewstv.co.kr/MYH2026041714435493E",
+      "pub_date": "2026-04-17T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'강요미수 혐의' 효성 조현문 공판…8월 조현준 회장 증인신문",
       "link": "https://www.bloter.net/news/articleView.html?idxno=659804",
@@ -22,26 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 윤갑근, 윤희근 꺾고 결선…김영환과 국힘 충북지사 공천 다퉈",
-      "link": "http://www.inews24.com/view/1961231",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 추경오·유영하, 국민의힘 대구시장 후보 본경선 진출",
       "link": "https://www.hidomin.com/news/articleView.html?idxno=701804",
-      "pub_date": "2026-04-17T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
-      "link": "https://www.viva100.com/article/20260417500471",
       "pub_date": "2026-04-17T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,6 +148,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 윤갑근, 윤희근 꺾고 결선…김영환과 국힘 충북지사 공천 다퉈",
+      "link": "http://www.inews24.com/view/1961231",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]국민의힘 충북지사 경선 김영환·윤갑근 대결 확정",
       "link": "http://www.cctimes.kr/news/articleView.html?idxno=902484",
       "pub_date": "2026-04-17T14:42:00+09:00",
@@ -67,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 결선 진출",
+      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
       "link": "https://biz.heraldcorp.com/article/10719779?ref=naver",
       "pub_date": "2026-04-17T14:42:00+09:00",
       "source_id": "yna",
@@ -94,12 +193,30 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://www.viva100.com/article/20260417500471",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "효성 '형제의난' 공방 장기화…증인 조현준 회장 불출석해 [CEO와 법정]",
       "link": "https://www.hankyung.com/article/202604178341i",
       "pub_date": "2026-04-17T14:42:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 본경선에 추경호·유영하 진출",
+      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/DAE4D2MAPZHW7KFXSONJVQQU24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T14:41:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -121,21 +238,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 대구시장 본경선에 추경호·유영하 진출",
-      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/DAE4D2MAPZHW7KFXSONJVQQU24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T14:41:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 추경호·유영하,국민의힘 대구시장 후보 최종 경선",
       "link": "https://www.news1.kr/politics/assembly/6140271",
       "pub_date": "2026-04-17T14:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "탈출 9일 만에 돌아온 늑대 ‘늑구’",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302613",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -199,15 +316,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "탈출 9일 만에 돌아온 늑대 ‘늑구’",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302613",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1693,114 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 귀국 늦춘 장동혁 “이재명정부, 北향한 태도 순진하고 위험…한...",
-      "link": "https://www.dt.co.kr/article/12057955?ref=naver",
-      "pub_date": "2026-04-17T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "에그앤파트너스, 싱가포르서 'RWA EMPIRE 단독 IR 서밋' 개최",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512596",
-      "pub_date": "2026-04-17T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 이 대통령 지지율 66%…이스라엘 이슈에도 견고",
-      "link": "https://www.mk.co.kr/article/12019744",
-      "pub_date": "2026-04-17T10:24:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁, 귀국 사흘 연기…“美국무부 인사 요청”",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758431/2",
-      "pub_date": "2026-04-17T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정은지, 15주년 맞아 '눈부신 미모' 발산",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568482",
-      "pub_date": "2026-04-17T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538631&ref=A",
-      "pub_date": "2026-04-17T10:14:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 인사 요청\"",
-      "link": "https://www.imaeil.com/page/view/2026041710130862613",
-      "pub_date": "2026-04-17T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁, 오늘 귀국 안한다…\"美국무부 요청에 이틀 연장\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790077.html",
-      "pub_date": "2026-04-17T10:12:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 지지율, 전주 대비 1%p 하락 66%… ‘김부겸 효과’로 ...",
-      "link": "https://www.dt.co.kr/article/12057947?ref=naver",
-      "pub_date": "2026-04-17T10:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전력수급계획 공론화한다더니…닷새 앞두고 참가신청 시작",
-      "link": "https://www.nocutnews.co.kr/news/6503961?utm_source=naver&utm_medium=article&utm_campaign=20260417100838",
-      "pub_date": "2026-04-17T10:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘방미’ 국민의힘 장동혁 대표 귀국 연기…“미 국무부 연락으...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538623&ref=A",
-      "pub_date": "2026-04-17T10:09:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁, 오늘 귀국 안 해…\"이틀 연장\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03050406645417104",
-      "pub_date": "2026-04-17T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
