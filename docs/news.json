@@ -1,12 +1,93 @@
 {
-  "updated": "2026-04-17 17:15:33",
+  "updated": "2026-04-17 17:20:32",
   "total": 200,
-  "breaking": 121,
+  "breaking": 124,
   "items": [
     {
-      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
-      "link": "https://www.hankyung.com/article/2026041788537",
-      "pub_date": "2026-04-17T17:13:00+09:00",
+      "title": "[속보] 광주 4곳 선거구서 중대선거구제 도입…총 27개곳 확대 실시",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604171717509cl",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야, 광역의원 비례비율 14%로 상향 합의…의원 늘어날 듯",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417171732024",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\"",
+      "link": "http://www.fnnews.com/news/202604171715287446",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與野, 광주 광산을 등 4개 선거구에 중대선거구제 도입 합의",
+      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/IPUOU43ELFBU5DDTU3JNTGN6RU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T17:17:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'우주 대스타'된 늑대 '늑구'… 무사 귀환에 AI 밈 사진 들썩",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269813",
+      "pub_date": "2026-04-17T17:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538951&ref=A",
+      "pub_date": "2026-04-17T17:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광주 선거구 4곳서 시·도의원 선거 최초 중대선거구제 도입",
+      "link": "https://www.news1.kr/politics/assembly/6140571",
+      "pub_date": "2026-04-17T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘나눔 경영’ 실천하는 애터미, 완도 순직 소방관 유가족 지원에 20억 ...",
+      "link": "http://www.breaknews.com/1201256",
+      "pub_date": "2026-04-17T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522622&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T17:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://www.hankyung.com/article/2026041788567",
+      "pub_date": "2026-04-17T17:14:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
@@ -15,6 +96,15 @@
     {
       "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
       "link": "https://www.hankyung.com/article/2026041788547",
+      "pub_date": "2026-04-17T17:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
+      "link": "https://www.hankyung.com/article/2026041788537",
       "pub_date": "2026-04-17T17:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -157,21 +247,21 @@
       "is_scoop": false
     },
     {
-      "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
-      "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
-      "pub_date": "2026-04-17T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
       "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
       "pub_date": "2026-04-17T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
+      "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
+      "pub_date": "2026-04-17T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -283,6 +373,15 @@
       "is_scoop": false
     },
     {
+      "title": "김 총리 \"마약, 청년 미래 갉아먹어\"…관계부처에 총력 대응 당부",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962943&call_from=naver_news",
+      "pub_date": "2026-04-17T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "“호르무즈 봉쇄 뚫은 늑구” “유퀴즈 출연”…돌아온 늑구에 ‘밈’도...",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500190?wlog_tag3=naver",
       "pub_date": "2026-04-17T16:45:00+09:00",
@@ -298,15 +397,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김 총리 \"마약, 청년 미래 갉아먹어\"…관계부처에 총력 대응 당부",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962943&call_from=naver_news",
-      "pub_date": "2026-04-17T16:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"공직자 손에 국가 운명 달려…대통령이 가장 큰 책임...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045326",
-      "pub_date": "2026-04-17T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 결선 진출",
-      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041714314464841",
-      "pub_date": "2026-04-17T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘 대구시장 2인 경선에 추경호·유영하 진출",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03827766645417104",
-      "pub_date": "2026-04-17T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "공중보건의 감소에 따른 의료공백 최소화…추경 예산 신속 집행",
-      "link": "https://www.nocutnews.co.kr/news/6504152?utm_source=naver&utm_medium=article&utm_campaign=20260417023540",
-      "pub_date": "2026-04-17T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]오베불망 기다리던 우리 원유 선박, '첫 통과' 소식 전해",
-      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320780",
-      "pub_date": "2026-04-17T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 최종 2인 확정",
-      "link": "https://www.sidae.com/article/2026041714322769040",
-      "pub_date": "2026-04-17T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "24년 승인 vs 26년 불허…2년 전 '계룡대 비상활주로'에선 어떻게 민간 ...",
-      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309896",
-      "pub_date": "2026-04-17T14:35:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260417095800011?input=1195m",
-      "pub_date": "2026-04-17T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "매출 7천7백억·흑자 구단 5곳…프로야구, 독립 산업화 속도",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037316",
-      "pub_date": "2026-04-17T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "토큰포스트-코박, 콘텐츠 협업 위한 업무협약(MOU) 체결",
-      "link": "https://www.tokenpost.kr/news/insights/350490",
-      "pub_date": "2026-04-17T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
