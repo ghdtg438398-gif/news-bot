@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 18:45:31",
+  "updated": "2026-04-17 18:50:32",
   "total": 200,
   "breaking": 123,
   "items": [
+    {
+      "title": "[속보]한화솔루션, 유상증자 규모 변경에 불성실공시법인 지정예고",
+      "link": "https://magazine.hankyung.com/business/article/202604179094b",
+      "pub_date": "2026-04-17T18:48:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"최대 제명\"…여자배구 GS칼텍스 우승 이끈 세터 안혜진, 음주운...",
+      "link": "https://www.imaeil.com/page/view/2026041718040699354",
+      "pub_date": "2026-04-17T18:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의 손으로 뽑는 대통령 세종집무실, 오는 23일까지 국민공감투표 실...",
+      "link": "https://www.korea.kr/news/reporterView.do?newsId=148962925&call_from=naver_news",
+      "pub_date": "2026-04-17T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 특검, '김건희 그림 청탁' 김상민 2심서 총 징역 6년 구형",
       "link": "http://www.fnnews.com/news/202604171840531118",
@@ -94,6 +121,15 @@
       "is_scoop": false
     },
     {
+      "title": "이 대통령과 90분간 ‘막걸리 오찬’…홍준표 의미심장 SNS에 입각설 재...",
+      "link": "https://www.khan.co.kr/article/202604171829001",
+      "pub_date": "2026-04-17T18:29:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 창원 정병터널 차량사고 발생...안전 유의",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559941",
       "pub_date": "2026-04-17T18:28:00+09:00",
@@ -157,6 +193,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]검찰총장 대행 \"국조, '검사·수사관 증인 채택' 철회해달라\"",
+      "link": "http://www.inews24.com/view/1961339",
+      "pub_date": "2026-04-17T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]구자현 검찰총장 대행 \"국조증인 검사 안타까운 소식…참담\"",
       "link": "https://www.nocutnews.co.kr/news/6504386?utm_source=naver&utm_medium=article&utm_campaign=20260417061642",
       "pub_date": "2026-04-17T18:17:00+09:00",
@@ -184,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
-      "pub_date": "2026-04-17T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 낮엔 ‘원팀’ 밤엔 ‘컷오프’…민주당 전북도당의 ‘기묘한 2...",
       "link": "https://www.jjan.kr/article/20260417500087",
       "pub_date": "2026-04-17T18:16:00+09:00",
@@ -200,6 +236,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
@@ -220,6 +265,15 @@
       "is_scoop": false
     },
     {
+      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
+      "pub_date": "2026-04-17T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
       "link": "https://www.viva100.com/article/20260417500704",
       "pub_date": "2026-04-17T18:14:00+09:00",
@@ -231,15 +285,6 @@
     {
       "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
       "link": "https://www.viva100.com/article/20260417500702",
-      "pub_date": "2026-04-17T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
       "pub_date": "2026-04-17T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
-      "link": "https://www.hankyung.com/article/2026041786007",
-      "pub_date": "2026-04-17T15:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 투어 LA 챔피언십 첫날 공동 2위로 출발!",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538884&ref=A",
-      "pub_date": "2026-04-17T15:41:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조'로 정정",
-      "link": "https://www.news1.kr/industry/general-industry/6140378",
-      "pub_date": "2026-04-17T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 부산 영도구 공사로 차선 통제…안전재난문자 발송",
-      "link": "https://www.etoday.co.kr/news/view/2576782",
-      "pub_date": "2026-04-17T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전광훈, 구속 석방 후 열린 재판서 혐의 부인…“난동 때 잤다”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538881&ref=A",
-      "pub_date": "2026-04-17T15:38:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
