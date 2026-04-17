@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 23:00:47",
+  "updated": "2026-04-17 23:05:29",
   "total": 200,
-  "breaking": 153,
+  "breaking": 154,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
+      "link": "https://www.viva100.com/article/20260417500756",
+      "pub_date": "2026-04-17T23:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
+      "link": "https://www.viva100.com/article/20260417500754",
+      "pub_date": "2026-04-17T23:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이 대통령 \"호르무즈해협의 항행 자유 위해 실질적 기여할 것\"",
       "link": "https://www.hankookilbo.com/news/article/A2026041722440002305?did=NA",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란과 거래 100% 완료 전까지 이란 '해상 봉쇄' 유지\"",
-      "link": "http://www.fnnews.com/news/202604172248144755",
+      "title": "[속보] 李대통령 참석 호르무즈 국제 화상회의 종료",
+      "link": "http://www.fnnews.com/news/202604172248431170",
       "pub_date": "2026-04-17T22:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 참석 호르무즈 국제 화상회의 종료",
-      "link": "http://www.fnnews.com/news/202604172248431170",
+      "title": "[속보]트럼프 \"이란과 거래 100% 완료 전까지 이란 '해상 봉쇄' 유지\"",
+      "link": "http://www.fnnews.com/news/202604172248144755",
       "pub_date": "2026-04-17T22:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,20 +85,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]호르무즈 화상회의 종료…李 대통령, 화상 참여국 중 '첫 발언'",
-      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041722461177549",
-      "pub_date": "2026-04-17T22:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5188855",
       "pub_date": "2026-04-17T22:47:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 화상회의 종료…李 대통령, 화상 참여국 중 '첫 발언'",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041722461177549",
+      "pub_date": "2026-04-17T22:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -94,7 +112,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 대이란 해상봉쇄 유지\"",
+      "title": "[속보] 트럼프, 이란 '호르무즈 개방'에 \"땡큐…이란 해상봉쇄는 계속\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522816&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T22:45:00+09:00",
       "source_id": "yna",
@@ -148,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
+      "title": "[속보] 트럼프, 이란 ‘호르무즈 개방’에 “땡큐…對이란 해상봉쇄는 ...",
       "link": "https://www.mk.co.kr/article/12020466",
       "pub_date": "2026-04-17T22:38:00+09:00",
       "source_id": "mk",
@@ -1783,24 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
-      "link": "http://www.breaknews.com/1201308",
-      "pub_date": "2026-04-17T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 구자현 \"국조, 재판에 영향 주려 한다는 평가 받아선 안돼\"",
-      "link": "https://www.hankyung.com/article/2026041790517",
-      "pub_date": "2026-04-17T18:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
