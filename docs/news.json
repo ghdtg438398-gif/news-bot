@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 03:30:43",
+  "updated": "2026-04-18 03:35:24",
   "total": 200,
-  "breaking": 171,
+  "breaking": 170,
   "items": [
+    {
+      "title": "옥태훈, 개막전 둘째날 3위로 도약…선두는 권성열 [KPGA]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019824",
+      "pub_date": "2026-04-18T03:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "구윤철 부총리, 중동전쟁 속 경제 안정 위한 긴급 대책 주도",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560114",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T20:47:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파…러·우 전쟁 후 4년만",
-      "link": "https://biz.heraldcorp.com/article/10720019?ref=naver",
-      "pub_date": "2026-04-17T20:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
