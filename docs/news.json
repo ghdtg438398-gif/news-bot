@@ -1,11 +1,110 @@
 {
-  "updated": "2026-04-17 17:20:32",
+  "updated": "2026-04-17 17:25:34",
   "total": 200,
-  "breaking": 124,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[현장] '4004가구 도시 재편' 하안주공3·4단지...7곳 현설 참석",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118709",
+      "pub_date": "2026-04-17T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전재수 “한동훈 허위사실 유포 혐의 고소…휴대폰 비번 꼭 풀길...",
+      "link": "https://biz.heraldcorp.com/article/10719962?ref=naver",
+      "pub_date": "2026-04-17T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "MBC충북 천교화·신석호·김현준 기자, '이달의 영상기자상' 수상",
+      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260417&SEQUENCE=0118",
+      "pub_date": "2026-04-17T17:22:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://www.ajunews.com/view/20260417171724216",
+      "pub_date": "2026-04-17T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 \"시·도의원 비례대표 비율 14%로 상향\" 합의",
+      "link": "https://www.imaeil.com/page/view/2026041717181862977",
+      "pub_date": "2026-04-17T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 선거 최초 중대선거구제 도...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05218486645417104",
+      "pub_date": "2026-04-17T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"비례대표 시·도의원 정수 비율 14%로 상향\"",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604171719033795",
+      "pub_date": "2026-04-17T17:19:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://biz.heraldcorp.com/article/10719956?ref=naver",
+      "pub_date": "2026-04-17T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여야 “광주 광산을 등 4개 선거구서 중대선거구제 도입”",
+      "link": "https://www.sedaily.com/article/20033919?ref=naver",
+      "pub_date": "2026-04-17T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
+      "link": "https://view.asiae.co.kr/article/2026041717164132937",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 광주 4곳 선거구서 중대선거구제 도입…총 27개곳 확대 실시",
       "link": "http://www.yonhapnewstv.co.kr/AKR202604171717509cl",
+      "pub_date": "2026-04-17T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]여야 \"광주 광산을 등 4개 선거구서 중대선거구제 도입\"",
+      "link": "https://view.asiae.co.kr/article/2026041717171138166",
       "pub_date": "2026-04-17T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,6 +220,15 @@
       "is_scoop": false
     },
     {
+      "title": "(단독)'색동원 공소장'서 드러난 시설장 만행…방·복도·화장실서도 '범...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298265&inflow=N",
+      "pub_date": "2026-04-17T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율 14%로 상향\" 합의",
       "link": "https://www.yna.co.kr/view/AKR20260417134400001?input=1195m",
       "pub_date": "2026-04-17T17:12:00+09:00",
@@ -139,24 +247,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)'색동원 공소장'서 드러난 시설장 만행…방·복도·화장실서도 '범...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298265&inflow=N",
-      "pub_date": "2026-04-17T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
-      "link": "https://www.news1.kr/politics/assembly/6140562",
-      "pub_date": "2026-04-17T17:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "길고양이 발로 차 죽여 처벌 후 또 같은 범행…결국 '실형' 선고",
       "link": "https://view.asiae.co.kr/article/2026041717002782603",
       "pub_date": "2026-04-17T17:11:00+09:00",
@@ -166,9 +256,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
-      "link": "https://www.news1.kr/society/incident-accident/6140559",
-      "pub_date": "2026-04-17T17:10:00+09:00",
+      "title": "[속보] 여야, 비례대표 시·도 의원 정수 비율 100분의 14로 상향 조정 ...",
+      "link": "https://www.news1.kr/politics/assembly/6140562",
+      "pub_date": "2026-04-17T17:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -182,6 +272,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] '지혜복 교사 복직' 시위 고진수 노조지부장 구속…시민 2명 기각",
+      "link": "https://www.news1.kr/society/incident-accident/6140559",
+      "pub_date": "2026-04-17T17:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[필동정담] 머스크의 바벨탑 실험",
@@ -247,15 +346,6 @@
       "is_scoop": false
     },
     {
-      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
-      "pub_date": "2026-04-17T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[포토뉴스] 춘천시, 고유가 피해지원 지급 앞두고 '읍면동장 긴급 간담...",
       "link": "https://gw.newdaily.co.kr/site/data/html/2026/04/17/2026041700221.html",
       "pub_date": "2026-04-17T17:00:00+09:00",
@@ -265,9 +355,9 @@
       "is_scoop": false
     },
     {
-      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
-      "pub_date": "2026-04-17T16:58:00+09:00",
+      "title": "경기도, 정부 '전쟁 추경' 맞춰 1조6천억 추경 편성…도의회 설득 '과제...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469191",
+      "pub_date": "2026-04-17T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -280,6 +370,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[17일 오!정말] 전 경남지사 김두관 '한동훈의 YS 정신 계승' 발언 놓고...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435985",
+      "pub_date": "2026-04-17T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1702,105 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 최종 2인 확정",
-      "link": "https://www.dailian.co.kr/news/view/1634870/?sc=Naver",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]추경호·유영하, 국힘 대구시장 후보 본경선 진출",
-      "link": "https://view.asiae.co.kr/article/2026041714400529145",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541499",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 확정",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249239",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 윤갑근, 국민의힘 충북지사 본경선 진출…김영환과 맞대결",
-      "link": "https://www.dailian.co.kr/news/view/1634868/?sc=Naver",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.viva100.com/article/20260417500467",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북 예비경선 윤갑근 승리…김영환과 본경선",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417143919TtT",
-      "pub_date": "2026-04-17T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경기도, 1차 추경 1조 6,237억 원 증액 편성…“정부 추경 대응”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538856&ref=A",
-      "pub_date": "2026-04-17T14:39:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 대구시장 경선 후보, 유영하-추경호 본경선 진출",
-      "link": "https://dgmbc.com/NewsArticle/835821",
-      "pub_date": "2026-04-17T14:38:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.yna.co.kr/view/AKR20260417101000001?input=1195m",
-      "pub_date": "2026-04-17T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘 충북지사 예비경선 윤갑근 승리…김영환과 본경선",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595863",
-      "pub_date": "2026-04-17T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
