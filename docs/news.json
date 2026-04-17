@@ -1,8 +1,143 @@
 {
-  "updated": "2026-04-17 18:10:35",
+  "updated": "2026-04-17 18:15:36",
   "total": 200,
-  "breaking": 119,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
+      "link": "https://www.viva100.com/article/20260417500704",
+      "pub_date": "2026-04-17T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.viva100.com/article/20260417500702",
+      "pub_date": "2026-04-17T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "평창 산불 확산 차단 총력…헬기 5대 긴급 투입",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037523",
+      "pub_date": "2026-04-17T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 \"평검사·수사관 국정조사 증인채택 철회해달라\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05641606645417104",
+      "pub_date": "2026-04-17T18:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 총장 대행 \"국정조사 재판에 영향 안 돼… 공정히 진행해...",
+      "link": "https://www.hankookilbo.com/news/article/A2026041717500003923?did=NA",
+      "pub_date": "2026-04-17T18:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담\"",
+      "link": "https://www.ajunews.com/view/20260417180930251",
+      "pub_date": "2026-04-17T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
+      "link": "https://view.asiae.co.kr/article/2026041718094285690",
+      "pub_date": "2026-04-17T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
+      "link": "https://view.asiae.co.kr/article/2026041718085578002",
+      "pub_date": "2026-04-17T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[게임뉴스] 레벨 인피니트 및 에픽게임즈 소식 외",
+      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57298",
+      "pub_date": "2026-04-17T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘탈출왕’ 늑구, 유퀴즈 출연? ‘늑구 밈’ 봇물",
+      "link": "https://www.donga.com/news/Culture/article/all/20260417/133762260/2",
+      "pub_date": "2026-04-17T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://biz.heraldcorp.com/article/10719998?ref=naver",
+      "pub_date": "2026-04-17T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 \"대장동 수사 일선 검사 안타까운 소식…참담한 심정\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05628486645417104",
+      "pub_date": "2026-04-17T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰총장 대행 \"평검사·수사관 국정조사 증인 철회해달라\"",
+      "link": "https://news.tf.co.kr/read/life/2314552.htm",
+      "pub_date": "2026-04-17T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]화순 산사음악회 통합 개최에도 예산은 8000만원 그대로",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446486",
+      "pub_date": "2026-04-17T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 구자현 검찰총장 대행 \"참담한 마음…국조가 재판에 영향 줘선 ...",
+      "link": "https://www.imaeil.com/page/view/2026041718075461507",
+      "pub_date": "2026-04-17T18:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "러닝의 힘? '러닝 크루' 홍지원·전예성, 넥센·세인트 마스터스 공동 선...",
       "link": "https://www.nocutnews.co.kr/news/6504369?utm_source=naver&utm_medium=article&utm_campaign=20260417060842",
@@ -27,6 +162,15 @@
       "pub_date": "2026-04-17T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 檢 총장대행 \"국조 증인 검사 안타까운 소식…참담\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790247.html",
+      "pub_date": "2026-04-17T18:05:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -58,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰총장 대행 \"국정조사, 재판 영향 주면 안돼…공정·객관 부탁...",
-      "link": "https://www.news1.kr/society/court-prosecution/6140636",
+      "title": "[속보]구자현 검찰총장 대행 \"공정·객관 국정조사 진행해 달라\"",
+      "link": "https://www.mt.co.kr/society/2026/04/17/2026041717462847289",
       "pub_date": "2026-04-17T18:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]구자현 검찰총장 대행 \"공정·객관 국정조사 진행해 달라\"",
-      "link": "https://www.mt.co.kr/society/2026/04/17/2026041717462847289",
+      "title": "[속보] 검찰총장 대행 \"국정조사, 재판 영향 주면 안돼…공정·객관 부탁...",
+      "link": "https://www.news1.kr/society/court-prosecution/6140636",
       "pub_date": "2026-04-17T18:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
+      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +292,8 @@
       "is_scoop": false
     },
     {
-      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
+      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "13일 청주 봉명동 가스폭발 피해 519건으로 늘어…청주시 지원·복구 조...",
-      "link": "https://idsn.co.kr/news/view/1065602698185785",
+      "title": "김한나 민주당 대변인 “호르무즈 봉쇄 위기 속 첫 홍해 통과…이재명 ...",
+      "link": "http://www.breaknews.com/1201269",
       "pub_date": "2026-04-17T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "김한나 민주당 대변인 “호르무즈 봉쇄 위기 속 첫 홍해 통과…이재명 ...",
-      "link": "http://www.breaknews.com/1201269",
+      "title": "13일 청주 봉명동 가스폭발 피해 519건으로 늘어…청주시 지원·복구 조...",
+      "link": "https://idsn.co.kr/news/view/1065602698185785",
       "pub_date": "2026-04-17T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +355,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율, 10%→14% 상향\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2314530.htm",
+      "title": "中, 이란에 긴급 인도주의 지원 제공",
+      "link": "http://kr.people.com.cn/n3/2026/0417/c208059-20447769.html",
       "pub_date": "2026-04-17T17:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "中, 이란에 긴급 인도주의 지원 제공",
-      "link": "http://kr.people.com.cn/n3/2026/0417/c208059-20447769.html",
+      "title": "[속보] 여야 \"비례대표 시·도의원 정수 비율, 10%→14% 상향\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2314530.htm",
       "pub_date": "2026-04-17T17:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1657,150 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"중, 이란에 첨단 레이더 제공 검토\"...미중 갈등 새 뇌관",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604171512444211",
-      "pub_date": "2026-04-17T15:12:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[6.3 지방선거] 안민석 경기도교육감 예비후보, 교육·돌봄·교원 복지 ...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150632",
-      "pub_date": "2026-04-17T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]이 대통령, 홍준표와 막걸리 마시며 환담…“막걸리 한 잔 나누자...",
-      "link": "https://www.khan.co.kr/article/202604171508001",
-      "pub_date": "2026-04-17T15:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[취재수첩] \"동물원 아닌 동물원\"...'Unzoo' 우리도 가능할까?",
-      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97262",
-      "pub_date": "2026-04-17T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘 대구 본경선에 유영하·추경호…충북 윤갑근·김영환",
-      "link": "https://www.nocutnews.co.kr/news/6504190?utm_source=naver&utm_medium=article&utm_campaign=20260417030741",
-      "pub_date": "2026-04-17T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 빛과전자 주가 오후장 상한가 터치…'큰폭의 변동'",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568552",
-      "pub_date": "2026-04-17T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '尹 변호인' 윤갑근, 국힘 충북지사 본경선 진출… 대구시장엔 ...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041714521000019",
-      "pub_date": "2026-04-17T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 대결",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411058",
-      "pub_date": "2026-04-17T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주당 “'송영길 하남갑 확실’ 보도 전혀 사실 아냐”",
-      "link": "https://www.viewsnnews.com/article?q=235212",
-      "pub_date": "2026-04-17T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
-      "link": "https://www.ajunews.com/view/20260417150114056",
-      "pub_date": "2026-04-17T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.ajunews.com/view/20260417150049055",
-      "pub_date": "2026-04-17T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국민의힘 추경호·유영하 대구시장 본경선 진출",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/17/3UUVEILIFBCM3H76YOURAEFWJU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T15:01:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 대구시장 후보 추경호·유영하 압축…충북 윤갑근 본경선행",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004967",
-      "pub_date": "2026-04-17T14:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
-      "link": "https://magazine.hankyung.com/business/article/202604178391b",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
-      "pub_date": "2026-04-17T14:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
