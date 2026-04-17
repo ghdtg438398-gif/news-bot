@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 09:45:30",
+  "updated": "2026-04-17 09:50:32",
   "total": 200,
   "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…울산 남구갑 보궐 출...",
+      "link": "https://biz.heraldcorp.com/article/10719417?ref=naver",
+      "pub_date": "2026-04-17T09:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'태국 톱 스타' 빌킨, 2년 만에 내한 확정... 6월 20일 첫 단독 콘서트 ...",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532137",
+      "pub_date": "2026-04-17T09:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "외교부 \"원유·나프타, 알제리·리비아에서 긴급 공급\"",
       "link": "https://www.nocutnews.co.kr/news/6503939?utm_source=naver&utm_medium=article&utm_campaign=20260417094337",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이스라엘·레바논 10일 휴전 합의…오늘 오후 5시 발효”",
-      "link": "https://news.mtn.co.kr/news-detail/2026041701192831687",
-      "pub_date": "2026-04-17T01:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"RIP\" 아스널 전 골키퍼 충격적 차량-열차 충돌 사고로 별세...향년 48세...",
-      "link": "https://www.sportschosun.com/football/2026-04-17/202604170100114710007344",
-      "pub_date": "2026-04-17T01:23:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
