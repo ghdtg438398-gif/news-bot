@@ -1,11 +1,92 @@
 {
-  "updated": "2026-04-17 11:20:37",
+  "updated": "2026-04-17 11:25:31",
   "total": 200,
-  "breaking": 105,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[다음주 경제일정] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 중...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000304966?division=NAVER",
+      "pub_date": "2026-04-17T11:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.hankyung.com/article/2026041780237",
+      "pub_date": "2026-04-17T11:22:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]종합특검, 해경 압수수색…\"비상계엄 가담 여부 확인\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03378406645417104",
+      "pub_date": "2026-04-17T11:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
+      "link": "http://www.fnnews.com/news/202604171117281820",
+      "pub_date": "2026-04-17T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260417500323",
+      "pub_date": "2026-04-17T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 국세청, 승진자 '민감 신체 이력'까지 홍보 도구로…'인권 불감...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28018",
+      "pub_date": "2026-04-17T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 정청래 \"남욱 증언, 피 거꾸로 솟게 해…검찰 수사권 박탈해야\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045313",
+      "pub_date": "2026-04-17T11:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://news.jtbc.co.kr/article/NB12294636?influxDiv=NAVER",
+      "pub_date": "2026-04-17T11:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李 만나는 홍준표, “내 마지막 인생 나라 위한 열정으로 살았으...",
       "link": "https://www.munhwa.com/article/11583025?ref=naver",
+      "pub_date": "2026-04-17T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260417072400004?input=1195m",
       "pub_date": "2026-04-17T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "다목적 지도선 ‘창원바다’ 불법 단속 강화 나선다!",
-      "link": "http://www.breaknews.com/1201067",
-      "pub_date": "2026-04-17T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "창원 산호공원, '안전 요새'로 탈바꿈",
       "link": "http://www.breaknews.com/1201066",
       "pub_date": "2026-04-17T11:14:00+09:00",
@@ -76,8 +148,26 @@
       "is_scoop": false
     },
     {
+      "title": "다목적 지도선 ‘창원바다’ 불법 단속 강화 나선다!",
+      "link": "http://www.breaknews.com/1201067",
+      "pub_date": "2026-04-17T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "구호외치는 공익제보교사 부당전보철회 공대위",
       "link": "https://www.news1.kr/photos/7861144",
+      "pub_date": "2026-04-17T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
+      "link": "https://www.news1.kr/photos/7861150",
       "pub_date": "2026-04-17T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -100,15 +190,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861150",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -202,15 +283,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
       "link": "http://www.ddanzi.com/879087698",
       "pub_date": "2026-04-17T11:04:00+09:00",
@@ -218,6 +290,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
+      "pub_date": "2026-04-17T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "청양군, 저소득층 암 환자 의료비 지원 '소아암 최대 3000만 원까지'",
@@ -301,15 +382,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁, 美 요청에 방미 연장…20일 새벽 귀국",
-      "link": "https://www.kyeonggi.com/article/20260417580089",
-      "pub_date": "2026-04-17T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]농협경제지주 전 간부, 직원 성추행...경찰 재수사 착수",
       "link": "http://www.fnnews.com/news/202604162129043589",
       "pub_date": "2026-04-17T10:46:00+09:00",
@@ -317,6 +389,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 장동혁, 美 요청에 방미 연장…20일 새벽 귀국",
+      "link": "https://www.kyeonggi.com/article/20260417580089",
+      "pub_date": "2026-04-17T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] \"美국무부 요청에 이틀 연장\"...장동혁, 오늘 귀국 안해",
@@ -346,21 +427,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘방미’ 장동혁, 귀국 연기…“공항서 美 국무부 연락받아”",
-      "link": "https://www.segye.com/newsView/20260417506575?OutUrl=naver",
-      "pub_date": "2026-04-17T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[#통신 풍향계] LGU+ '도쿄 어코드' 체결·하나증권 'SKT 목표가' 상향·...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838112",
       "pub_date": "2026-04-17T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘방미’ 장동혁, 귀국 연기…“공항서 美 국무부 연락받아”",
+      "link": "https://www.segye.com/newsView/20260417506575?OutUrl=naver",
+      "pub_date": "2026-04-17T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -391,21 +472,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 귀국 늦춘 장동혁 “이재명정부, 北향한 태도 순진하고 위험…한...",
-      "link": "https://www.dt.co.kr/article/12057955?ref=naver",
-      "pub_date": "2026-04-17T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[시선집중] 최은옥 교육차관 “서울대 10개, 거점국립대 3곳에 연 1천억...",
       "link": "https://n.news.naver.com/mnews/article/214/0001493476?sid=100",
       "pub_date": "2026-04-17T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 귀국 늦춘 장동혁 “이재명정부, 北향한 태도 순진하고 위험…한...",
+      "link": "https://www.dt.co.kr/article/12057955?ref=naver",
+      "pub_date": "2026-04-17T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1720,87 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]대전 탈출 늑대 '늑구', 마취 장비 활용해 안전 포획…열흘간 이...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568423",
-      "pub_date": "2026-04-17T06:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "업비트만 웃고 나머진 비상…5분 잔고대조 의무화 후폭풍",
-      "link": "https://www.newspim.com/news/view/20260416001232",
-      "pub_date": "2026-04-17T06:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이스라엘-레바논 10일 간 임시 휴전 돌입",
-      "link": "https://news.jtbc.co.kr/article/NB12294593?influxDiv=NAVER",
-      "pub_date": "2026-04-17T06:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가, 급등...WTI 3.72%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576554",
-      "pub_date": "2026-04-17T06:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[카드뉴스] \"같은 시간대에 복용하세요\" 폐경기 호르몬 치료제",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=532862",
-      "pub_date": "2026-04-17T06:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이스라엘·레바논, 열흘 임시 휴전 돌입",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417061541Vw8",
-      "pub_date": "2026-04-17T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 상승...다우 0.24%↑",
-      "link": "https://www.etoday.co.kr/news/view/2576553",
-      "pub_date": "2026-04-17T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이스라엘-레바논, 열흘 간 휴전 합의 발효",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559183",
-      "pub_date": "2026-04-17T06:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈인터뷰]정신동 KB금융연구소장 \"韓 경제 공급충격 직면…에너지·...",
-      "link": "https://view.asiae.co.kr/article/2026041616171095498",
-      "pub_date": "2026-04-17T06:10:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
