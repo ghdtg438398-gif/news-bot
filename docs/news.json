@@ -1,12 +1,30 @@
 {
-  "updated": "2026-04-17 21:35:29",
+  "updated": "2026-04-17 21:40:34",
   "total": 200,
-  "breaking": 131,
+  "breaking": 133,
   "items": [
     {
-      "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
-      "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
-      "pub_date": "2026-04-17T21:28:00+09:00",
+      "title": "[속보] 호르무즈 국제 화상회의 시작…李대통령 공식 발언 예정",
+      "link": "https://biz.heraldcorp.com/article/10720031?ref=naver",
+      "pub_date": "2026-04-17T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 해협 국제 화상회의 시작…李 대통령 참석",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099005068",
+      "pub_date": "2026-04-17T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "고시원에 불낸 60대 긴급체포…알고보니 상습범이었다",
+      "link": "https://www.mt.co.kr/society/2026/04/17/2026041717561848313",
+      "pub_date": "2026-04-17T21:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -29,6 +47,24 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 국제 화상 정상회의 시작...이 대통령 참여",
+      "link": "https://news.jtbc.co.kr/article/NB12294759?influxDiv=NAVER",
+      "pub_date": "2026-04-17T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] “소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539111&ref=A",
+      "pub_date": "2026-04-17T21:28:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]서정욱 “좌파 투항 홍준표, 총리 가능성 높다”",
@@ -67,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
-      "link": "https://www.hankyung.com/article/2026041792237",
-      "pub_date": "2026-04-17T21:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 호르무즈 화상 정상회의 시작...李대통령 공식 발언 예정",
       "link": "https://www.chosun.com/politics/politics_general/2026/04/17/35YRVSI6SZEVZKOVJK2LUFISHU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-17T21:23:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李대통령 공식 발언 예정",
+      "link": "https://www.hankyung.com/article/2026041792237",
+      "pub_date": "2026-04-17T21:23:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
+      "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
+      "link": "https://www.sedaily.com/article/20034010?ref=naver",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 화상 정상회의 시작…李 대통령 공식 발언 예정",
-      "link": "https://www.sedaily.com/article/20034010?ref=naver",
+      "title": "[속보]李대통령, 호르무즈 화상 정상회의 참석…공식 발언 예정",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06300886645417104",
       "pub_date": "2026-04-17T21:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-17T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "인뱅-지방은행 기업대출 동맹…리스크 분담 구조가 쟁점",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298258&inflow=N",
-      "pub_date": "2026-04-17T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영화 범죄도시 속 '마석도' 실제 모델…음주운전으로 기소",
-      "link": "https://www.imaeil.com/page/view/2026041712432491485",
-      "pub_date": "2026-04-17T16:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"완전히 날조\" 중국 반발했지만...수상한 무기에 새 뇌관 터졌다 [지금이...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604171649151595",
-      "pub_date": "2026-04-17T16:49:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘3살 아이’ 아동학대 의심 친부 송치…“아동학대치사 혐의”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538919&ref=A",
-      "pub_date": "2026-04-17T16:47:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
