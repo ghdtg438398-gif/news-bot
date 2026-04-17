@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 13:25:29",
+  "updated": "2026-04-17 13:30:33",
   "total": 200,
   "breaking": 112,
   "items": [
+    {
+      "title": "[속보] 금양, 100억 규모 부동산 강제경매 개시 결정 통보",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568526",
+      "pub_date": "2026-04-17T13:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "박명수, 20년 지기 '이 사람'과 결별…“서로의 길 응원”",
+      "link": "https://www.wikitree.co.kr/articles/1132119",
+      "pub_date": "2026-04-17T13:26:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경기 오산시 접착제 공장서 화학물질 누출 의심 신고",
+      "link": "https://www.etoday.co.kr/news/view/2576712",
+      "pub_date": "2026-04-17T13:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260417.99099004943",
@@ -58,7 +85,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]호르무즈 해협 봉쇄 이후 우리 선박 첫 홍해 통과",
+      "title": "[속보]호르무즈 해협 봉쇄 이후 한국 선박 첫 홍해 통과",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029694059&code=61131411&cp=nv",
       "pub_date": "2026-04-17T13:00:00+09:00",
       "source_id": "kmib",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-17T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'미토스 충격' 앤트로픽, 보안 위험성 낮춘 '오퍼스4.7' 출시",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=203802",
-      "pub_date": "2026-04-17T08:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 저격 받는 가운데…교황 형 자택에 '폭탄 설치' 신고",
-      "link": "https://www.hankyung.com/article/2026041771637",
-      "pub_date": "2026-04-17T08:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한국도 참석...호르무즈 통항위한 영·프 주도 40개국 정상회의 개...",
-      "link": "https://magazine.hankyung.com/business/article/202604177268b",
-      "pub_date": "2026-04-17T08:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
