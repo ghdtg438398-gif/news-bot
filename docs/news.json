@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-17 19:30:33",
+  "updated": "2026-04-17 19:35:27",
   "total": 200,
   "breaking": 118,
   "items": [
     {
-      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파… 서울은 2030원",
+      "title": "[속보] 구자현 檢 \"검사 안타까운 소식 참담…어떤 국조도 재판 영향 안...",
+      "link": "https://www.pressian.com/pages/articles/2026041719324794112?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-17T19:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "아프리카 산유국 '경제외교'…\"대체 조달처 확보\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417193038gjY",
+      "pub_date": "2026-04-17T19:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파… 서울 2030원",
       "link": "https://www.seoul.co.kr/news/economy/2026/04/17/20260417500236?wlog_tag3=naver",
       "pub_date": "2026-04-17T19:25:00+09:00",
       "source_id": "seoul",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'가수 데뷔' 김남길, 박보검 뒤 잇나…\"MC 되면 매주 나올 수 있어\" (더 ...",
-      "link": "https://www.xportsnews.com/article/2138019",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공보의 급감에 농촌 의료공백…추경으로 300여 명 긴급 채용",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538889&ref=A",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
