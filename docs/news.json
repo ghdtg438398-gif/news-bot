@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 16:50:31",
+  "updated": "2026-04-17 16:55:27",
   "total": 200,
-  "breaking": 124,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[퇴근길 포인트] 중동 리스크 확산…日 가격인상·금속 급등·정책 대응...",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301778",
+      "pub_date": "2026-04-17T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "인뱅-지방은행 기업대출 동맹…리스크 분담 구조가 쟁점",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298258&inflow=N",
+      "pub_date": "2026-04-17T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 영화 범죄도시 속 '마석도' 실제 모델…음주운전으로 기소",
+      "link": "https://www.imaeil.com/page/view/2026041712432491485",
+      "pub_date": "2026-04-17T16:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘3살 아이’ 아동학대 의심 친부 송치…“아동학대치사 혐의”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538919&ref=A",
+      "pub_date": "2026-04-17T16:47:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 회식자리 ‘불법촬영’ 장학관, 피해자 41명…연수 가서도 카메...",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500191?wlog_tag3=naver",
@@ -37,6 +73,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/17/2026041790215.html",
+      "pub_date": "2026-04-17T16:44:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -373,21 +418,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조서 1.8조'로 축소 정정",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700200.html",
-      "pub_date": "2026-04-17T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "메노킨, '미니 버블팩 디스커버리 6종 세트' 한정출시···핵심 스킨케...",
       "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49038",
       "pub_date": "2026-04-17T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조서 1.8조'로 축소 정정",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700200.html",
+      "pub_date": "2026-04-17T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1753,51 +1798,6 @@
       "title": "서울 왕복 8차선 대로변서 마약 투약…외국인 남성 긴급체포",
       "link": "https://www.news1.kr/society/incident-accident/6140167",
       "pub_date": "2026-04-17T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 우리 유조선 홍해 통과…호르무즈 해협 봉쇄 이후 처음",
-      "link": "https://www.segye.com/newsView/20260417509120?OutUrl=naver",
-      "pub_date": "2026-04-17T13:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "공주 석송초등학교, 마을과 함께 키우는 성장…승마교육 운영",
-      "link": "https://www.joongdo.co.kr/web/view.php?key=20260417010005407",
-      "pub_date": "2026-04-17T13:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "방미통위, 'YTN 최대주주 변경 승인 취소' 법률검토 착수",
-      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316755",
-      "pub_date": "2026-04-17T13:40:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한국 선박, 홍해 첫 안전 통과…원유 수송 재개",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417133837jEa",
-      "pub_date": "2026-04-17T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
-      "link": "https://economist.co.kr/article/view/ecn202604170046",
-      "pub_date": "2026-04-17T13:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
