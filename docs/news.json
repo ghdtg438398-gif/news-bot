@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 18:35:29",
+  "updated": "2026-04-17 18:40:36",
   "total": 200,
-  "breaking": 124,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 특검, '김건희 그림 청탁' 김상민 2심서 총 징역 6년 구형",
+      "link": "https://www.news1.kr/society/court-prosecution/6140668",
+      "pub_date": "2026-04-17T18:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 역사교사 53% \"교장·학부모 등 압력...수업 곤란 증가\"",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225705&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-17T18:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] \"포스코 88명 추가로 직고용하라\" 판결...포스코 하청노동자 대...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=339466",
+      "pub_date": "2026-04-17T18:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]‘대장동 검사 극단시도’에 檢총장 대행 “공정한 국조 간곡 부...",
       "link": "https://magazine.hankyung.com/business/article/202604179062b",
@@ -119,6 +146,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 낮엔 ‘원팀’ 밤엔 ‘컷오프’…민주당 전북도당의 ‘기묘한 2...",
+      "link": "https://www.jjan.kr/article/20260417500087",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
@@ -418,8 +454,8 @@
       "is_scoop": false
     },
     {
-      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
+      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -427,8 +463,8 @@
       "is_scoop": false
     },
     {
-      "title": "7언더파 65타 질주…김민선·전예성·홍지원, 넥센·세인트나인 1R 동반...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037503",
+      "title": "대우건설, 일본 EPC 3사와 협업···플랜트 수주경로 다변화한다",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49055",
       "pub_date": "2026-04-17T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -445,8 +481,8 @@
       "is_scoop": false
     },
     {
-      "title": "13일 청주 봉명동 가스폭발 피해 519건으로 늘어…청주시 지원·복구 조...",
-      "link": "https://idsn.co.kr/news/view/1065602698185785",
+      "title": "김한나 민주당 대변인 “호르무즈 봉쇄 위기 속 첫 홍해 통과…이재명 ...",
+      "link": "http://www.breaknews.com/1201269",
       "pub_date": "2026-04-17T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -454,8 +490,8 @@
       "is_scoop": false
     },
     {
-      "title": "김한나 민주당 대변인 “호르무즈 봉쇄 위기 속 첫 홍해 통과…이재명 ...",
-      "link": "http://www.breaknews.com/1201269",
+      "title": "13일 청주 봉명동 가스폭발 피해 519건으로 늘어…청주시 지원·복구 조...",
+      "link": "https://idsn.co.kr/news/view/1065602698185785",
       "pub_date": "2026-04-17T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 코스피 34.13p(0.55%) 내린 6191.92(마감)",
       "link": "https://www.etoday.co.kr/news/view/2576777",
       "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 0.02% 상승 출발 코스피, 하락 전환 '6191.92' 마감",
-      "link": "https://www.sidae.com/article/2026041715162568707",
-      "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 원·달러 환율, 8.9원 오른 1483.5원 마감",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/S55M5DDRFVDS5AMWVGDAU4643M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 하향 정정신고 '2.4조→1.8조원'",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596007",
-      "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
-      "pub_date": "2026-04-17T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
