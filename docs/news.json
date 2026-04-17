@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 13:40:31",
+  "updated": "2026-04-17 13:45:29",
   "total": 200,
-  "breaking": 109,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보] 우리 유조선 홍해 통과…호르무즈 해협 봉쇄 이후 처음",
+      "link": "https://www.segye.com/newsView/20260417509120?OutUrl=naver",
+      "pub_date": "2026-04-17T13:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "공주 석송초등학교, 마을과 함께 키우는 성장…승마교육 운영",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260417010005407",
+      "pub_date": "2026-04-17T13:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "방미통위, 'YTN 최대주주 변경 승인 취소' 법률검토 착수",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316755",
+      "pub_date": "2026-04-17T13:40:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한국 선박, 홍해 첫 안전 통과…원유 수송 재개",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260417133837jEa",
+      "pub_date": "2026-04-17T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "https://economist.co.kr/article/view/ecn202604170046",
@@ -1761,42 +1797,6 @@
     {
       "title": "[속보]원·달러 환율, 6.8원 오른 1481.4원 출발",
       "link": "https://www.newsis.com/view/NISX20260417_0003595155",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.02% 오른 6227.33 개장",
-      "link": "https://news.mtn.co.kr/news-detail/2026041709013338511",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 1166.78, 전 거래일 대비 0.33% 상승 출발",
-      "link": "https://www.sidae.com/article/2026041708515922813",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 1.28p(0.02%) 오른 6227.33(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2576608",
-      "pub_date": "2026-04-17T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 1.28p(0.02%) 오른 6227.33 출발",
-      "link": "https://www.ajunews.com/view/20260417085704739",
       "pub_date": "2026-04-17T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
