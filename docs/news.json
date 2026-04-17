@@ -1,8 +1,224 @@
 {
-  "updated": "2026-04-17 14:40:37",
+  "updated": "2026-04-17 14:45:39",
   "total": 200,
-  "breaking": 100,
+  "breaking": 109,
   "items": [
+    {
+      "title": "'강요미수 혐의' 효성 조현문 공판…8월 조현준 회장 증인신문",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=659804",
+      "pub_date": "2026-04-17T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
+      "link": "https://news.tf.co.kr/read/ptoday/2314422.htm",
+      "pub_date": "2026-04-17T14:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 윤갑근, 윤희근 꺾고 결선…김영환과 국힘 충북지사 공천 다퉈",
+      "link": "http://www.inews24.com/view/1961231",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경오·유영하, 국민의힘 대구시장 후보 본경선 진출",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=701804",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://www.viva100.com/article/20260417500471",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133760115/1",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘 충북지사 경선 김영환·윤갑근 대결 확정",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902484",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 결선 진출",
+      "link": "https://biz.heraldcorp.com/article/10719779?ref=naver",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘, 대구시장 추경호·유영하 본경선 진출",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545400",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘추경호·유영하 2파전’...국민의힘 대구시장 후보 압축",
+      "link": "https://www.sedaily.com/article/20033829?ref=naver",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "효성 '형제의난' 공방 장기화…증인 조현준 회장 불출석해 [CEO와 법정]",
+      "link": "https://www.hankyung.com/article/202604178341i",
+      "pub_date": "2026-04-17T14:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.mk.co.kr/article/12019956",
+      "pub_date": "2026-04-17T14:41:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]충북지사 2인 경선에 윤갑근…김영환 현역 지사와 경쟁",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03840886645417104",
+      "pub_date": "2026-04-17T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 대구시장 본경선에 추경호·유영하 진출",
+      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/17/DAE4D2MAPZHW7KFXSONJVQQU24/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T14:41:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하,국민의힘 대구시장 후보 최종 경선",
+      "link": "https://www.news1.kr/politics/assembly/6140271",
+      "pub_date": "2026-04-17T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 최종 2인 확정",
+      "link": "https://www.dailian.co.kr/news/view/1634870/?sc=Naver",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]추경호·유영하, 국힘 대구시장 후보 본경선 진출",
+      "link": "https://view.asiae.co.kr/article/2026041714400529145",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541499",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 경선 확정",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249239",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 윤갑근, 국민의힘 충북지사 본경선 진출…김영환과 맞대결",
+      "link": "https://www.dailian.co.kr/news/view/1634868/?sc=Naver",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.viva100.com/article/20260417500467",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 충북 예비경선 윤갑근 승리…김영환과 본경선",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417143919TtT",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "탈출 9일 만에 돌아온 늑대 ‘늑구’",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302613",
+      "pub_date": "2026-04-17T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경기도, 1차 추경 1조 6,237억 원 증액 편성…“정부 추경 대응”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538856&ref=A",
+      "pub_date": "2026-04-17T14:39:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국민의힘 대구시장 경선 후보, 유영하-추경호 본경선 진출",
       "link": "https://dgmbc.com/NewsArticle/835821",
@@ -58,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "공중보건의 감소에 따른 의료공백 최소화…추경 예산 신속 집행",
+      "link": "https://www.nocutnews.co.kr/news/6504152?utm_source=naver&utm_medium=article&utm_campaign=20260417023540",
+      "pub_date": "2026-04-17T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]오베불망 기다리던 우리 원유 선박, '첫 통과' 소식 전해",
       "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320780",
       "pub_date": "2026-04-17T14:36:00+09:00",
@@ -73,15 +298,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "공중보건의 감소에 따른 의료공백 최소화…추경 예산 신속 집행",
-      "link": "https://www.nocutnews.co.kr/news/6504152?utm_source=naver&utm_medium=article&utm_campaign=20260417023540",
-      "pub_date": "2026-04-17T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -103,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "토큰포스트-코박, 콘텐츠 협업 위한 업무협약(MOU) 체결",
-      "link": "https://www.tokenpost.kr/news/insights/350490",
+      "title": "매출 7천7백억·흑자 구단 5곳…프로야구, 독립 산업화 속도",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037316",
       "pub_date": "2026-04-17T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +328,8 @@
       "is_scoop": false
     },
     {
-      "title": "매출 7천7백억·흑자 구단 5곳…프로야구, 독립 산업화 속도",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037316",
+      "title": "토큰포스트-코박, 콘텐츠 협업 위한 업무협약(MOU) 체결",
+      "link": "https://www.tokenpost.kr/news/insights/350490",
       "pub_date": "2026-04-17T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,21 +346,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]韓유조선 홍해 통과했다…호르무즈 해협 봉쇄 후 처음",
-      "link": "https://www.nocutnews.co.kr/news/6504144?utm_source=naver&utm_medium=article&utm_campaign=20260417022040",
-      "pub_date": "2026-04-17T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] \"쟤네 모델 쓰지 마\" 엄포 놓던 백악관…'미토스 충격'에 제...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522171&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T14:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]韓유조선 홍해 통과했다…호르무즈 해협 봉쇄 후 처음",
+      "link": "https://www.nocutnews.co.kr/news/6504144?utm_source=naver&utm_medium=article&utm_campaign=20260417022040",
+      "pub_date": "2026-04-17T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -184,6 +400,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] 입법조사처, '국세데이터 협력' 보도자료에 사적 문구 노출 '논란...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28021",
+      "pub_date": "2026-04-17T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "https://www.mk.co.kr/article/12019915",
       "pub_date": "2026-04-17T14:08:00+09:00",
@@ -202,27 +427,9 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 입법조사처, '국세데이터 협력' 보도자료에 사적 문구 노출 '논란...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28021",
-      "pub_date": "2026-04-17T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[속보] 조이웍스앤코, 3:1 무상증자 결정…총 1436만주 발행",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568533",
       "pub_date": "2026-04-17T14:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 봉쇄 후 첫 홍해 통과…한국 선박 안전 운항",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750027500000",
-      "pub_date": "2026-04-17T14:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -235,6 +442,15 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 봉쇄 후 첫 홍해 통과…한국 선박 안전 운항",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750027500000",
+      "pub_date": "2026-04-17T14:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1585,222 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 인사 요청\"",
-      "link": "https://www.dailian.co.kr/news/view/1634728/?sc=Naver",
-      "pub_date": "2026-04-17T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이장우 시장 \"늑구 귀환 소방·경찰·시민께 감사… 재발방지 노...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269767",
-      "pub_date": "2026-04-17T10:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스+] ③ 김부겸 \"대구가 진보-보수 가릴 만큼 한가합니까?···지혜가...",
-      "link": "https://dgmbc.com/NewsArticle/835564",
-      "pub_date": "2026-04-17T10:05:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 지지율 66%…민주 48%, 국힘 19% [한국갤럽]",
-      "link": "https://www.mk.co.kr/article/12019718",
-      "pub_date": "2026-04-17T10:04:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프-교황 갈등 속 '폭탄 위협'…친형 자택 수색 소동",
-      "link": "https://view.asiae.co.kr/article/2026041709551899599",
-      "pub_date": "2026-04-17T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁, 오늘 귀국 안한다…\"美 국무부 연락받고 이틀 연장\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041709564268312",
-      "pub_date": "2026-04-17T10:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 귀국 이틀 연기…국힘 “美 국무부 인사 요청”",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758261/1",
-      "pub_date": "2026-04-17T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"4언더파 67타\" LIV 멕시코 첫날, 송영한·김민규 공동 3위 질주",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037055",
-      "pub_date": "2026-04-17T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 침묵 깬 '룰러' 박재혁... \"오히려 더 센 척, 아무렇지 않은 척했...",
-      "link": "https://www.xportsnews.com/article/2137777",
-      "pub_date": "2026-04-17T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "김시우·임성재, PGA RBC 헤리티지 공동 10위",
-      "link": "https://mdtoday.co.kr/news/view/1065572475686956",
-      "pub_date": "2026-04-17T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 \"장동혁 대표 귀국 연기...월요일 새벽 도착 예정\"",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604170959347052",
-      "pub_date": "2026-04-17T09:59:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스퀘어10] 트럼프 \"미-이란 2차협상 이르면 주말\" 이견 좁혔나",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170958063594",
-      "pub_date": "2026-04-17T09:58:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美 “앤트로픽 퇴출” 번복하나…‘미토스 충격’에 도입 재검토",
-      "link": "https://www.segye.com/newsView/20260417505356?OutUrl=naver",
-      "pub_date": "2026-04-17T09:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 아이씨티케이 주가 상한가 직행…전일 큰 폭 변동 보이기도",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568472",
-      "pub_date": "2026-04-17T09:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'민주당 텃밭'에 등장한 화환…\"'제명' 김관영 무소속 지지\"",
-      "link": "https://www.nocutnews.co.kr/news/6503949?utm_source=naver&utm_medium=article&utm_campaign=20260417095238",
-      "pub_date": "2026-04-17T09:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'오수관로 누수' 부산 삼광사~어린이대공원 차량 통제 중",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559352",
-      "pub_date": "2026-04-17T09:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758121/2",
-      "pub_date": "2026-04-17T09:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “78년간 전쟁 이어온 이스라엘-레바논, 열흘 휴전 합의…...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750001600000",
-      "pub_date": "2026-04-17T09:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "올여름 '평년보다 높은 기온' 전망…고단열 창호 수요 확대",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512567",
-      "pub_date": "2026-04-17T09:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…울산 남구갑 보궐 출...",
-      "link": "https://biz.heraldcorp.com/article/10719417?ref=naver",
-      "pub_date": "2026-04-17T09:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'태국 톱 스타' 빌킨, 2년 만에 내한 확정... 6월 20일 첫 단독 콘서트 ...",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532137",
-      "pub_date": "2026-04-17T09:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "외교부 \"원유·나프타, 알제리·리비아에서 긴급 공급\"",
-      "link": "https://www.nocutnews.co.kr/news/6503939?utm_source=naver&utm_medium=article&utm_campaign=20260417094337",
-      "pub_date": "2026-04-17T09:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“귀신 보러 가서 귀신 될 수도”…‘살목지’ 원조 ‘심야괴담회’ PD...",
-      "link": "https://www.mk.co.kr/article/12019695",
-      "pub_date": "2026-04-17T09:43:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "NC AI, ADB·과기정통부 워크숍서 아시아 고위급 대상 AX 비전 발표",
-      "link": "https://www.nocutnews.co.kr/news/6503938?utm_source=naver&utm_medium=article&utm_campaign=20260417094237",
-      "pub_date": "2026-04-17T09:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
