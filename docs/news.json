@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 23:25:27",
+  "updated": "2026-04-17 23:30:38",
   "total": 200,
-  "breaking": 156,
+  "breaking": 157,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"이란, 미국 도움 받아 모든 해양 기뢰 제거했거나 제거...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394564",
+      "pub_date": "2026-04-17T23:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
+      "pub_date": "2026-04-17T23:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
+      "link": "https://www.imaeil.com/page/view/2026041723252857216",
+      "pub_date": "2026-04-17T23:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
+      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
+      "pub_date": "2026-04-17T23:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "KIA, 632일 만의 8연승…kt는 단독 2위로",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260417232356NJr",
@@ -13,20 +49,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
-      "link": "https://www.hankyung.com/article/2026041792857",
-      "pub_date": "2026-04-17T23:19:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
       "link": "https://www.yna.co.kr/view/AKR20260417162800085?input=1195m",
       "pub_date": "2026-04-17T23:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
+      "link": "https://www.hankyung.com/article/2026041792857",
+      "pub_date": "2026-04-17T23:19:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -67,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이스라엘 레바논 폭격 없을것…헤즈볼라는 적절 조치\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596451",
+      "title": "[속보]트럼프 \"이란 '핵 잔해' 확보에 어떤 금전적 대가도 없을것\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596450",
       "pub_date": "2026-04-17T23:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 '핵 잔해' 확보에 어떤 금전적 대가도 없을것\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596450",
+      "title": "[속보]트럼프 \"이스라엘 레바논 폭격 없을것…헤즈볼라는 적절 조치\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596451",
       "pub_date": "2026-04-17T23:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
-      "link": "https://www.viva100.com/article/20260417500754",
+      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
+      "link": "https://www.viva100.com/article/20260417500756",
       "pub_date": "2026-04-17T23:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
-      "link": "https://www.viva100.com/article/20260417500756",
+      "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
+      "link": "https://www.viva100.com/article/20260417500754",
       "pub_date": "2026-04-17T23:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,15 +202,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란과 거래 100% 완료 전까지 이란 '해상 봉쇄' 유지\"",
-      "link": "http://www.fnnews.com/news/202604172248144755",
-      "pub_date": "2026-04-17T22:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령 참석 호르무즈 국제 화상회의 종료",
       "link": "http://www.fnnews.com/news/202604172248431170",
       "pub_date": "2026-04-17T22:50:00+09:00",
@@ -190,6 +217,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란과 거래 100% 완료 전까지 이란 '해상 봉쇄' 유지\"",
+      "link": "http://www.fnnews.com/news/202604172248144755",
+      "pub_date": "2026-04-17T22:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1762,42 +1798,6 @@
       "title": "[속보] 검찰총장 대행 “국조증인 검사 소식 참담…채택 철회해달라”",
       "link": "https://www.hani.co.kr/arti/society/society_general/1254766.html",
       "pub_date": "2026-04-17T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 역사교사 53% \"교장·학부모 등 압력...수업 곤란 증가\"",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225705&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-17T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] \"포스코 88명 추가로 직고용하라\" 판결...포스코 하청노동자 대...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=339466",
-      "pub_date": "2026-04-17T18:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘대장동 검사 극단시도’에 檢총장 대행 “공정한 국조 간곡 부...",
-      "link": "https://magazine.hankyung.com/business/article/202604179062b",
-      "pub_date": "2026-04-17T18:32:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘해직교사 복직 고공농성’ 고진수 세종호텔 지부장 구속",
-      "link": "https://www.khan.co.kr/article/202604171831001",
-      "pub_date": "2026-04-17T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
