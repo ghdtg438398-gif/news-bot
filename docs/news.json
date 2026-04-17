@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 13:30:33",
+  "updated": "2026-04-17 13:35:30",
   "total": 200,
-  "breaking": 112,
+  "breaking": 111,
   "items": [
+    {
+      "title": "조현준·조현문 미뤄진 만남…효성 '형제의 난' 재판 증인신문 8월로",
+      "link": "https://news.tf.co.kr/read/economy/2314379.htm",
+      "pub_date": "2026-04-17T13:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 류중일 감독 아들 집에 몰래 홈캠 설치…사돈 가족, 1심 무죄",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500110?wlog_tag3=naver",
+      "pub_date": "2026-04-17T13:32:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 금양, 100억 규모 부동산 강제경매 개시 결정 통보",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568526",
@@ -1780,24 +1798,6 @@
       "title": "[속보]코스피, 0.02% 오른 6227.33 출발",
       "link": "https://www.newsis.com/view/NISX20260417_0003595149",
       "pub_date": "2026-04-17T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"골든 타임 지나 긴급 수술\"…희소병 완치된 40대 문근영의 기대감",
-      "link": "https://www.nocutnews.co.kr/news/6503905?utm_source=naver&utm_medium=article&utm_campaign=20260417085837",
-      "pub_date": "2026-04-17T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 통항위한 영·프 주도 40개국 정상회의…한국도 참석",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260417.99099004919",
-      "pub_date": "2026-04-17T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
