@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 20:35:28",
+  "updated": "2026-04-17 20:40:31",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 전국 평균 휘발윳값 2000원 돌파…러·우 전쟁 후 4년만",
+      "link": "https://biz.heraldcorp.com/article/10720019?ref=naver",
+      "pub_date": "2026-04-17T20:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]'광역 비례 확대·중대선거구제 일부 도입' 정개특위 전체회의 통...",
       "link": "https://www.hankyung.com/article/2026041791857",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T16:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신현송 한국은행 총재 후보자 청문보고서 채택 불발",
-      "link": "https://www.hankyung.com/article/2026041784337",
-      "pub_date": "2026-04-17T16:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
