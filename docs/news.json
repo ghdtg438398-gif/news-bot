@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 20:15:30",
+  "updated": "2026-04-17 20:20:34",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 피해자 숨졌는데도 \"흔한 장난\"…강제추행 40대, 혐의 부인",
+      "link": "https://www.imaeil.com/page/view/2026041719383568990",
+      "pub_date": "2026-04-17T20:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"늑구, 인터넷 스타 됐네\"…AI로 만든 패러디 이미지 쏟아져",
+      "link": "https://view.asiae.co.kr/article/2026041720030465806",
+      "pub_date": "2026-04-17T20:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[KPGA] 권성열 시즌 개막전 프로미오픈 2R 단독 선두...옥태훈 공동 3위",
+      "link": "https://www.newspim.com/news/view/20260417001089",
+      "pub_date": "2026-04-17T20:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] '도이치·디올' 특검 조사대상 검사 3명 해외에‥\"귀국 심히 곤란...",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816116_37004.html",
+      "pub_date": "2026-04-17T20:12:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]'광역 비례 확대·중대선거구제 일부 도입' 정개특위 전체회의 통...",
       "link": "https://www.news1.kr/politics/assembly/6140646",
@@ -1766,42 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
-      "pub_date": "2026-04-17T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 조국, 평택을 예비후보 등록…“험지지만 경쟁력 있다”",
-      "link": "https://www.kyeonggi.com/article/20260417580258",
-      "pub_date": "2026-04-17T16:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프·유럽 '77년 대서양 동맹' 황혼이혼? [홍영식의 이슈 워치]",
-      "link": "https://magazine.hankyung.com/business/article/202604152739b",
-      "pub_date": "2026-04-17T16:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 17일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604170029",
-      "pub_date": "2026-04-17T16:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
