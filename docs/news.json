@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 10:05:32",
+  "updated": "2026-04-17 10:10:34",
   "total": 200,
-  "breaking": 113,
+  "breaking": 110,
   "items": [
+    {
+      "title": "전력수급계획 공론화한다더니…닷새 앞두고 참가신청 시작",
+      "link": "https://www.nocutnews.co.kr/news/6503961?utm_source=naver&utm_medium=article&utm_campaign=20260417100838",
+      "pub_date": "2026-04-17T10:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁, 오늘 귀국 안 해…\"이틀 연장\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03050406645417104",
+      "pub_date": "2026-04-17T10:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁, 김민수와 귀국 이틀 연기…\"美 국무부 요청\"",
+      "link": "https://www.dailian.co.kr/news/view/1634728/?sc=Naver",
+      "pub_date": "2026-04-17T10:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이장우 시장 \"늑구 귀환 소방·경찰·시민께 감사… 재발방지 노...",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269767",
+      "pub_date": "2026-04-17T10:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스+] ③ 김부겸 \"대구가 진보-보수 가릴 만큼 한가합니까?···지혜가...",
+      "link": "https://dgmbc.com/NewsArticle/835564",
+      "pub_date": "2026-04-17T10:05:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 지지율 66%…민주 48%, 국힘 19% [한국갤럽]",
+      "link": "https://www.mk.co.kr/article/12019718",
+      "pub_date": "2026-04-17T10:04:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프-교황 갈등 속 '폭탄 위협'…친형 자택 수색 소동",
+      "link": "https://view.asiae.co.kr/article/2026041709551899599",
+      "pub_date": "2026-04-17T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]장동혁, 오늘 귀국 안한다…\"美 국무부 연락받고 이틀 연장\"",
       "link": "https://www.mt.co.kr/politics/2026/04/17/2026041709564268312",
@@ -94,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758121/2",
+      "title": "[속보]트럼프 “78년간 전쟁 이어온 이스라엘-레바논, 열흘 휴전 합의…...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750001600000",
       "pub_date": "2026-04-17T09:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “78년간 전쟁 이어온 이스라엘-레바논, 열흘 휴전 합의…...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750001600000",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758121/2",
       "pub_date": "2026-04-17T09:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
+      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133758071/1",
+      "title": "[속보] 서울전자통신, VI만 7번 터졌다…\"올랐다가 무너졌다\" 시소 장세...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568468",
       "pub_date": "2026-04-17T09:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,6 +337,15 @@
       "is_scoop": false
     },
     {
+      "title": "트럼프 전화에 레바논 전선 멈췄다…이스라엘·레바논 ‘열흘 휴전’",
+      "link": "https://www.segye.com/newsView/20260417504659?OutUrl=naver",
+      "pub_date": "2026-04-17T09:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 트럼프 \"이란전 순조롭게 풀리고 있어…곧 끝날 것\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417092939vc8",
       "pub_date": "2026-04-17T09:30:00+09:00",
@@ -292,29 +364,11 @@
       "is_scoop": false
     },
     {
-      "title": "트럼프 전화에 레바논 전선 멈췄다…이스라엘·레바논 ‘열흘 휴전’",
-      "link": "https://www.segye.com/newsView/20260417504659?OutUrl=naver",
-      "pub_date": "2026-04-17T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 상승 출발 후 소폭 하락 전환",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041709285393085",
       "pub_date": "2026-04-17T09:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/17/54MDY5PI35EMVJJMYEG5HUUF4U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T09:28:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -325,6 +379,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, ‘1호 인재’ 전태진 변호사 영입…‘울산 남갑’ 출마",
+      "link": "https://www.chosun.com/politics/assembly/2026/04/17/54MDY5PI35EMVJJMYEG5HUUF4U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-17T09:28:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이정후 초대박! 또 터졌다...계약금만 137억 ML 투수 최고 유망주...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145522",
-      "pub_date": "2026-04-17T02:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 열흘간 가출했던 ‘늑구’, 마취총 맞고 ‘꿈나라 귀가’… “건...",
-      "link": "https://www.dt.co.kr/article/12057930?ref=naver",
-      "pub_date": "2026-04-17T02:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 나스닥·S&P500 사상 최고치 경신…이스라엘·레바논 휴전 합의",
-      "link": "https://news.mtn.co.kr/news-detail/2026041702153333763",
-      "pub_date": "2026-04-17T02:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]늑구 열흘만 포획 성공…“오월드로 옮겨, 건강 이상 없어”",
-      "link": "https://www.munhwa.com/article/11582904?ref=naver",
-      "pub_date": "2026-04-17T02:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '탄식 남발' 아 이정후...! 첫 타석부터 삼진, 시작이 좋지 않다",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553145517",
-      "pub_date": "2026-04-17T02:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대전오월드 탈출 ‘늑구’ 9일 만에 무사히 포획",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029691739&code=61121111&cp=nv",
-      "pub_date": "2026-04-17T02:06:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 레바논 총리, '이스라엘과 휴전' 트럼프 발표 환영",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604170158592907",
-      "pub_date": "2026-04-17T01:58:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
