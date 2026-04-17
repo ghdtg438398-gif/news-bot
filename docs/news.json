@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 18:30:34",
+  "updated": "2026-04-17 18:35:29",
   "total": 200,
   "breaking": 124,
   "items": [
+    {
+      "title": "[속보]‘대장동 검사 극단시도’에 檢총장 대행 “공정한 국조 간곡 부...",
+      "link": "https://magazine.hankyung.com/business/article/202604179062b",
+      "pub_date": "2026-04-17T18:32:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘해직교사 복직 고공농성’ 고진수 세종호텔 지부장 구속",
+      "link": "https://www.khan.co.kr/article/202604171831001",
+      "pub_date": "2026-04-17T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 창원 정병터널 차량사고 발생...안전 유의",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559941",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
-      "link": "https://view.asiae.co.kr/article/2026041718085578002",
+      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
+      "link": "https://view.asiae.co.kr/article/2026041718094285690",
       "pub_date": "2026-04-17T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
-      "link": "https://view.asiae.co.kr/article/2026041718094285690",
+      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
+      "link": "https://view.asiae.co.kr/article/2026041718085578002",
       "pub_date": "2026-04-17T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,15 +247,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰총장 대행 \"평검사·수사관 국정조사 증인 철회해달라\"",
-      "link": "https://news.tf.co.kr/read/life/2314552.htm",
-      "pub_date": "2026-04-17T18:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]화순 산사음악회 통합 개최에도 예산은 8000만원 그대로",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446486",
       "pub_date": "2026-04-17T18:10:00+09:00",
@@ -245,6 +254,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 검찰총장 대행 \"평검사·수사관 국정조사 증인 철회해달라\"",
+      "link": "https://news.tf.co.kr/read/life/2314552.htm",
+      "pub_date": "2026-04-17T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "러닝의 힘? '러닝 크루' 홍지원·전예성, 넥센·세인트 마스터스 공동 선...",
@@ -1780,24 +1798,6 @@
       "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
       "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 1170.04 마감… 전 거래일 보다 0.61% 상승",
-      "link": "https://www.sidae.com/article/2026041715180719735",
-      "pub_date": "2026-04-17T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조에서 1.8조'로 축소",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305063?division=NAVER",
-      "pub_date": "2026-04-17T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
