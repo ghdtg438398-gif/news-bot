@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-18 01:00:43",
+  "updated": "2026-04-18 01:05:29",
   "total": 200,
-  "breaking": 164,
+  "breaking": 165,
   "items": [
+    {
+      "title": "[속보] ‘사실상 지구당 부활·광역 비례 증원' 본회의 통과",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/18/LDTV6N2FOFGTVL3ECRWTGRGGRU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-18T01:03:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'6·3지선 중대선거구제 일부 도입·광역 비례 확대' 본회의 통과",
+      "link": "https://www.news1.kr/politics/assembly/6140768",
+      "pub_date": "2026-04-18T01:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘공직선거법 개정안’ 국회 본회의 통과",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892192",
+      "pub_date": "2026-04-18T01:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]31년만에 광역 비례비율 10%→14%...정치개혁법안 본회의 처리",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01239846645417432",
+      "pub_date": "2026-04-18T01:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 6월 지방선거서 광역비례 27~28명 증원‥광주서 광역의원 중대선...",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816171_36911.html",
+      "pub_date": "2026-04-18T01:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'광역 비례대표 확대·광역의회 중대선거구제 도입' 법안 국회 본...",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596352",
+      "pub_date": "2026-04-18T00:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 “이란, 호르무즈 다시는 폐쇄 않기로 합의”",
       "link": "https://www.hani.co.kr/arti/international/america/1254785.html",
@@ -1746,60 +1800,6 @@
       "pub_date": "2026-04-17T19:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 \"'조작 수사' 책임자 소환 반드시 필요\"",
-      "link": "http://www.inews24.com/view/1961351",
-      "pub_date": "2026-04-17T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰총장대행, 수사검사 극단시도에 \"참담…국정조사가 재판 영...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269826",
-      "pub_date": "2026-04-17T19:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 수사검사 극단시도에…검찰총장대행 “참담한 마음, 국정조사가...",
-      "link": "https://www.dt.co.kr/article/12058030?ref=naver",
-      "pub_date": "2026-04-17T19:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전국 평균 휘발유 가격 2000원 돌파…3년 9개월만",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041719241829543",
-      "pub_date": "2026-04-17T19:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]폭행 부인하다…화질 개선 CCTV에 딱 걸렸다",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524704",
-      "pub_date": "2026-04-17T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 화학공장서 60대 작업자 추락… 병원 이송됐으나 중태",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500238?wlog_tag3=naver",
-      "pub_date": "2026-04-17T19:38:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
