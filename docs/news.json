@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 02:10:34",
+  "updated": "2026-04-18 02:15:34",
   "total": 200,
-  "breaking": 170,
+  "breaking": 171,
   "items": [
+    {
+      "title": "[속보] '안타까운 비보' 에인절스 우승 이끈 전설, 향년 53세로 세상 떠...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553148447",
+      "pub_date": "2026-04-18T02:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "비트코인 반등 이끈 호르무즈 해협 개방…이더리움 보안·CFTC 규제도 주...",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/350809",
+      "pub_date": "2026-04-18T02:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"이란과 주말 회담…하루이틀 내 합의 이뤄질 것\"",
       "link": "https://www.newsis.com/view/NISX20260418_0003596474",
@@ -1784,24 +1802,6 @@
       "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "공보의 급감에 농어촌 의료공백 현실화…정부, 추경으로 취약지 진료 공...",
-      "link": "https://www.newspim.com/news/view/20260417001091",
-      "pub_date": "2026-04-17T20:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 체육관장이 입시생들에 성범죄‥\"알려지지 않은 피해 더 있다\"",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816120_37004.html",
-      "pub_date": "2026-04-17T20:19:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
