@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-17 16:00:41",
+  "updated": "2026-04-17 16:05:32",
   "total": 200,
-  "breaking": 125,
+  "breaking": 124,
   "items": [
+    {
+      "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
+      "pub_date": "2026-04-17T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
+      "pub_date": "2026-04-17T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국, 평택을 예비후보 등록…“험지지만 경쟁력 있다”",
+      "link": "https://www.kyeonggi.com/article/20260417580258",
+      "pub_date": "2026-04-17T16:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프·유럽 '77년 대서양 동맹' 황혼이혼? [홍영식의 이슈 워치]",
+      "link": "https://magazine.hankyung.com/business/article/202604152739b",
+      "pub_date": "2026-04-17T16:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 17일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604170029",
+      "pub_date": "2026-04-17T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] '6,200선 찍고 숨 고르기' 코스피 나흘 만에 소폭 하락...6,191.92 ...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604170040",
+      "pub_date": "2026-04-17T16:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
+      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[지평선] 장동혁의 사진 한 장",
+      "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 지선 앞두고 'AI 유령' 딥페이크 판치는데 X 삭제율은 30%대 불과",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=369751",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[칼럼]참사의 추억…재난을 키우는 주범은",
       "link": "https://www.nocutnews.co.kr/news/6504231?utm_source=naver&utm_medium=article&utm_campaign=20260417035841",
@@ -10,6 +91,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"폰으로 머리를...\" '3살 사망' 친모가 보낸 메시지 보니 '끔찍'",
+      "link": "http://www.fnnews.com/news/202604171536375448",
+      "pub_date": "2026-04-17T15:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조서 1.8조'로 축소 정정",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/17/2026041700200.html",
+      "pub_date": "2026-04-17T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -40,7 +139,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 시설투자는 사수하고 채무상환은 포기…유증 2.4조→...",
+      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조로 축소…시설투자는 사수하고 채...",
       "link": "https://magazine.hankyung.com/business/article/202604178594b",
       "pub_date": "2026-04-17T15:54:00+09:00",
       "source_id": "hankyung",
@@ -238,6 +337,24 @@
       "is_scoop": false
     },
     {
+      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
+      "link": "https://www.newspim.com/news/view/20260417000699",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 34.13p(0.55%) 내린 6191.92 마감",
       "link": "https://www.ajunews.com/view/20260417153109095",
       "pub_date": "2026-04-17T15:36:00+09:00",
@@ -262,24 +379,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
-      "link": "https://www.newspim.com/news/view/20260417000699",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
-      "pub_date": "2026-04-17T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1702,105 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홍해 뚫었다…호르무즈 막힌 뒤 첫 원유 수송",
-      "link": "https://biz.heraldcorp.com/article/10719672?ref=naver",
-      "pub_date": "2026-04-17T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 피해자 집에 ‘홈캠’까지 설치하며 스토킹한 김훈…‘전자발찌...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538801&ref=A",
-      "pub_date": "2026-04-17T12:09:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "네타냐후 “트럼프 요청에 휴전 수용”…헤즈볼라, 이스라엘군 주둔에...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538798&ref=A",
-      "pub_date": "2026-04-17T12:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"파키스탄 직접 갈 수 있다\"‥이스라엘-레바논도 휴전",
-      "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6815983_36967.html",
-      "pub_date": "2026-04-17T12:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 “남욱 증언에 피가 거꾸로 솟아…검찰 행태 잔인하고 야...",
-      "link": "https://www.kyeonggi.com/article/20260417580119",
-      "pub_date": "2026-04-17T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이다을, 5월 24일 첫 팬미팅 개최",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532115",
-      "pub_date": "2026-04-17T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김산 무안군수 예비후보, \"전 군민 10만 원 에너지 지원금 지급\" 공약",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745193",
-      "pub_date": "2026-04-17T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "접근금지 끝나자 현관에서 아내 찔러 살해…항소심서도 중형",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522224&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T11:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이재명 지지율 66%…3주 만에 소폭 하락, 민주당은 48%",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604170024",
-      "pub_date": "2026-04-17T11:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]70대 모친 인지능력 떨어지자 폭행해 숨지게 한 40대 딸 징역 7년...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750015400000",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"건강하라고 줬는데?\" 생후 2개월에 떡국 먹인 친모, 아동학대 송...",
-      "link": "https://www.imaeil.com/page/view/2026041710075299561",
-      "pub_date": "2026-04-17T11:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
