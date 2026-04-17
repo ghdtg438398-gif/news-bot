@@ -1,14 +1,59 @@
 {
-  "updated": "2026-04-17 15:20:28",
+  "updated": "2026-04-17 15:25:26",
   "total": 200,
   "breaking": 119,
   "items": [
+    {
+      "title": "고려아연 주총 의결권 ‘검증대’…법원, 증거보전 인용",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298247&inflow=N",
+      "pub_date": "2026-04-17T15:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전광훈 “난 오줌도 스스로 못 싸는 중환자” 혐의 부인",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500161?wlog_tag3=naver",
+      "pub_date": "2026-04-17T15:23:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "효성 조현문 재판, 조현준 회장 증인 불출석",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219557",
+      "pub_date": "2026-04-17T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 원가 급등에 '납품대금 연동제' 주목…현장 안착 시험대",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298226&inflow=N",
+      "pub_date": "2026-04-17T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "‘NC 초비상’ 사구 맞은 김휘집, 오른 손목 골절로 엔트리 말소…“복...",
       "link": "https://www.mk.co.kr/article/12020031",
       "pub_date": "2026-04-17T15:18:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "탈출 9일 만에 돌아온 늑구‥\"위에서 낚시바늘 제거\"",
+      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816035_36974.html",
+      "pub_date": "2026-04-17T15:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -139,15 +184,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
-      "link": "https://magazine.hankyung.com/business/article/202604178391b",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
       "pub_date": "2026-04-17T14:58:00+09:00",
@@ -157,8 +193,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 메지온, 손해배상 소송 1심서 승소…법원 \"원고 청구 기각\"",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568550",
+      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
+      "link": "https://magazine.hankyung.com/business/article/202604178391b",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 윤갑근 충북도지사 예비후보 본경선 진출",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417504&PRO_CODE=99",
+      "title": "[속보] 메지온, 손해배상 소송 1심서 승소…법원 \"원고 청구 기각\"",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568550",
       "pub_date": "2026-04-17T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,6 +238,15 @@
       "is_scoop": false
     },
     {
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "pub_date": "2026-04-17T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
       "pub_date": "2026-04-17T14:54:00+09:00",
@@ -204,15 +258,6 @@
     {
       "title": "[속보] 국민의힘 대구시장 본경선에 추경호·유영하 의원 진출",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=224673",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
       "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,15 +292,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]'원경' 김우담, 계백 장군 낙점..KBS 300억 대작 '문무' 합류",
       "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/17/2026041713555015828",
       "pub_date": "2026-04-17T14:52:00+09:00",
@@ -263,6 +299,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
@@ -1753,51 +1798,6 @@
       "title": "창원 산호공원, '안전 요새'로 탈바꿈",
       "link": "http://www.breaknews.com/1201066",
       "pub_date": "2026-04-17T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위",
-      "link": "https://www.news1.kr/photos/7861144",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861143",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "서부지방검찰청 앞에서 열린 '용산경찰서 인권침해 규탄 긴급 기자회견...",
-      "link": "https://www.news1.kr/photos/7861145",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "구호외치는 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861150",
-      "pub_date": "2026-04-17T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "서부지방검찰청 앞으로 모인 공익제보교사 부당전보철회 공대위 회원들",
-      "link": "https://www.news1.kr/photos/7861147",
-      "pub_date": "2026-04-17T11:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
