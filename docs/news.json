@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-17 22:45:36",
+  "updated": "2026-04-17 22:50:33",
   "total": 200,
-  "breaking": 152,
+  "breaking": 154,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5188855",
+      "pub_date": "2026-04-17T22:47:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]호르무즈 화상회의 종료…李 대통령, 화상 참여국 중 '첫 발언'",
+      "link": "https://www.mt.co.kr/politics/2026/04/17/2026041722461177549",
+      "pub_date": "2026-04-17T22:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
+      "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/04/17/20260417500249?wlog_tag3=naver",
+      "pub_date": "2026-04-17T22:46:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 대이란 해상봉쇄 유지\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522816&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T22:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 \"휴전 기간 호르무즈 해협 전면 개방\"... 글로벌 물류 숨통...",
       "link": "https://www.g-enews.com/view.php?ud=202604172236496473e250e8e188_1",
@@ -13,8 +49,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
-      "link": "https://biz.heraldcorp.com/article/10720042?ref=naver",
+      "title": "[속보] 이 대통령, 영·프 주도 '호르무즈 다자 화상 정상회의' 참석",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604172241312078",
+      "pub_date": "2026-04-17T22:41:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국제유가, ‘호르무즈 개방’ 소식에 일제히 하락…브렌트유 11...",
+      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254782.html",
       "pub_date": "2026-04-17T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈해협 개방 소식에 브렌트유 11% 하락",
-      "link": "https://www.hani.co.kr/arti/international/arabafrica/1254782.html",
+      "title": "[속보] 트럼프 “이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지”",
+      "link": "https://biz.heraldcorp.com/article/10720042?ref=naver",
       "pub_date": "2026-04-17T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,20 +103,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지\"",
-      "link": "https://www.hankyung.com/article/2026041792687",
+      "title": "[속보] 트럼프 “협상 100% 완료 때까지 이란 해상봉쇄 유지”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/17/JF4JNT63IFBPTHWDH5U7VVYC5A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"호르무즈 개방 감사…이란 대상 봉쇄는 유지\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596433",
-      "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -94,11 +130,38 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “협상 100% 완료 때까지 이란 해상봉쇄 유지”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/17/JF4JNT63IFBPTHWDH5U7VVYC5A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "title": "[속보] 트럼프 \"이란과 거래 100%완료 전까지 對이란 해상봉쇄 유지\"",
+      "link": "https://www.hankyung.com/article/2026041792687",
       "pub_date": "2026-04-17T22:36:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 개방 감사…이란 대상 봉쇄는 유지\"",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596433",
+      "pub_date": "2026-04-17T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"레바논 휴전 기간 호르무즈 해협 완전 개방\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604172235245780",
+      "pub_date": "2026-04-17T22:35:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 이란 해상 봉쇄는 유지\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260417223452ziU",
+      "pub_date": "2026-04-17T22:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -121,26 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 \"레바논 휴전 기간 호르무즈 해협 완전 개방\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604172235245780",
-      "pub_date": "2026-04-17T22:35:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]이 대통령, 호르무즈 해협 안정 위한 관리 메커니즘 국제사회 모...",
       "link": "https://www.newsis.com/view/NISX20260417_0003596434",
-      "pub_date": "2026-04-17T22:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 거래 100% 완료 전까지 이란 해상 봉쇄는 유지\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260417223452ziU",
       "pub_date": "2026-04-17T22:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -319,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "[프로야구]KIA, 두산 꺾고 8연승 '질주'",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365511",
+      "title": "안현민·허경민 다 빠졌는데도, KT는 무서웠다! 선발전원안타+소형준 6이...",
+      "link": "https://www.xportsnews.com/article/2138231",
       "pub_date": "2026-04-17T22:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,8 +373,8 @@
       "is_scoop": false
     },
     {
-      "title": "안현민·허경민 다 빠졌는데도, KT는 무서웠다! 선발전원안타+소형준 6이...",
-      "link": "https://www.xportsnews.com/article/2138231",
+      "title": "[프로야구]KIA, 두산 꺾고 8연승 '질주'",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365511",
       "pub_date": "2026-04-17T22:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1753,51 +1798,6 @@
       "title": "[속보] 구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담\"",
       "link": "https://www.ajunews.com/view/20260417180930251",
       "pub_date": "2026-04-17T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[게임뉴스] 레벨 인피니트 및 에픽게임즈 소식 외",
-      "link": "https://www.gamevu.co.kr/news/articleView.html?idxno=57298",
-      "pub_date": "2026-04-17T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
-      "link": "https://view.asiae.co.kr/article/2026041718094285690",
-      "pub_date": "2026-04-17T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
-      "link": "https://view.asiae.co.kr/article/2026041718085578002",
-      "pub_date": "2026-04-17T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“내가 어떻게 나왔냐면”…탈출왕 ‘늑구’, 예능 데뷔?",
-      "link": "https://www.donga.com/news/Culture/article/all/20260417/133762260/2",
-      "pub_date": "2026-04-17T18:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
-      "link": "https://biz.heraldcorp.com/article/10719998?ref=naver",
-      "pub_date": "2026-04-17T18:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
