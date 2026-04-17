@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-17 12:30:34",
+  "updated": "2026-04-17 12:35:28",
   "total": 200,
-  "breaking": 108,
+  "breaking": 109,
   "items": [
+    {
+      "title": "[속보] 오산 화학물질 가스 누출…인근 주민 창문 닫고 대피 권고",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=863917",
+      "pub_date": "2026-04-17T12:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오산 누읍동 일대 화학 가스 누출…\"대피 권고\"",
+      "link": "https://www.news1.kr/local/gyeonggi/6140119",
+      "pub_date": "2026-04-17T12:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[재난문자] 오산 누읍동 인근서 화학물질 가스 누출사고 발생",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3559607",
@@ -20,6 +38,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 검찰, ‘차명 재산’ 소송 줄패소에 결국 백기?…“수사 실패 자...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538812&ref=A",
+      "pub_date": "2026-04-17T12:26:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "(단독)송영길 행선지, '하남갑' 확실",
@@ -220,20 +247,20 @@
       "is_scoop": false
     },
     {
-      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
-      "pub_date": "2026-04-17T11:43:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] '응급 상황' 늑구 위장 깊은 곳 '2.6cm 낚싯바늘' 발견…오전...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522150&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-17T11:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원, 70대 노모 폭행해 숨지게 한 남매에 징역형 선고",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538778&ref=A",
+      "pub_date": "2026-04-17T11:43:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1771,33 +1798,6 @@
       "title": "[속보] 트럼프 \"헤즈볼라, 이 중요한 시기에 점잖게 행동하길\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260417082603S8k",
       "pub_date": "2026-04-17T08:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[아침저널] 차규근 \"국힘은 무정부주의자? 국가 최고 증거기관이 리호남...",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4078897",
-      "pub_date": "2026-04-17T08:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신세계, ‘맨즈&우먼스’ 위크 진행...쇼핑 관심도 증가",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604161115032884df3c2a17b7_23",
-      "pub_date": "2026-04-17T08:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“미국과 전쟁 원하지 않지만, 침략하면 격퇴할 것” 쿠바 대통령",
-      "link": "https://www.munhwa.com/article/11582954?ref=naver",
-      "pub_date": "2026-04-17T08:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
