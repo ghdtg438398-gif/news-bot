@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 03:10:28",
+  "updated": "2026-04-18 03:15:29",
   "total": 200,
   "breaking": 171,
   "items": [
+    {
+      "title": "구윤철 부총리, 중동전쟁 속 경제 안정 위한 긴급 대책 주도",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560114",
+      "pub_date": "2026-04-18T03:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '안타까운 비보' 에인절스 우승 이끈 전설, 향년 53세로 세상 떠...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553148447",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T20:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'광역 비례 확대·중대선거구제 일부 도입' 정개특위 전체회의 통...",
-      "link": "https://www.hankyung.com/article/2026041791857",
-      "pub_date": "2026-04-17T20:24:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
