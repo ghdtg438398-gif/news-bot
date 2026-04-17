@@ -1,15 +1,24 @@
 {
-  "updated": "2026-04-17 16:30:34",
+  "updated": "2026-04-17 16:35:30",
   "total": 200,
   "breaking": 126,
   "items": [
     {
-      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·걸그룹 오빠 체...",
-      "link": "http://www.joynews24.com/view/1961301",
-      "pub_date": "2026-04-17T16:28:00+09:00",
+      "title": "[속보] '딸 불법 여권' 신현송 한은 총재 후보자 청문보고서 채택 불발",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260417506&PRO_CODE=99",
+      "pub_date": "2026-04-17T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 헤즈볼라에 “중요한 시기, 젊잖게 행동하라”",
+      "link": "https://www.munhwa.com/article/11583141?ref=naver",
+      "pub_date": "2026-04-17T16:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -20,6 +29,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·걸그룹 오빠",
+      "link": "http://www.joynews24.com/view/1961301",
+      "pub_date": "2026-04-17T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
@@ -220,21 +238,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
-      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[지평선] 장동혁의 사진 한 장",
       "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
       "pub_date": "2026-04-17T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
+      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -508,8 +526,8 @@
       "is_scoop": false
     },
     {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
+      "link": "https://www.newspim.com/news/view/20260417000699",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -517,8 +535,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
-      "link": "https://www.newspim.com/news/view/20260417000699",
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한국 유조선, ‘우회로’ 홍해 통과…호르무즈 봉쇄 뒤 처음",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1254702.html",
-      "pub_date": "2026-04-17T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260417.99099004943",
-      "pub_date": "2026-04-17T13:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
