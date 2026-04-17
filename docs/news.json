@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 16:25:25",
+  "updated": "2026-04-17 16:30:34",
   "total": 200,
   "breaking": 126,
   "items": [
+    {
+      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·걸그룹 오빠 체...",
+      "link": "http://www.joynews24.com/view/1961301",
+      "pub_date": "2026-04-17T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)LX하우시스 분쟁에 재무악화 중기…정부가 자금 지원",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298264&inflow=N",
+      "pub_date": "2026-04-17T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]신현송 한은 총재 인사청문보고서 채택 불발…20일 재논의",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596137",
+      "pub_date": "2026-04-17T16:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"핵 인정 교황\" vs \"폭군\" 트럼프·교황 공방…교황 형 자택 '폭탄 소동...",
+      "link": "https://news.jtbc.co.kr/article/NB12294703?influxDiv=NAVER",
+      "pub_date": "2026-04-17T16:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]신현송 한은 총재 후보자 청문보고서 채택 또 불발…20일 재논의",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524645",
+      "pub_date": "2026-04-17T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]신현송 청문보고서 불발…'딸 불법 여권' 논란 여파",
       "link": "https://www.nocutnews.co.kr/news/6504271?utm_source=naver&utm_medium=article&utm_campaign=20260417042241",
@@ -94,7 +139,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 청문보고서 채택 불발",
+      "title": "[속보] 신현송 한국은행 총재 후보자 청문보고서 채택 불발",
       "link": "https://www.hankyung.com/article/2026041784337",
       "pub_date": "2026-04-17T16:08:00+09:00",
       "source_id": "hankyung",
@@ -463,8 +508,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
-      "link": "https://www.newspim.com/news/view/20260417000699",
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -472,8 +517,8 @@
       "is_scoop": false
     },
     {
-      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
+      "link": "https://www.newspim.com/news/view/20260417000699",
       "pub_date": "2026-04-17T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "양산시 농수산물유통센터 법정관리 사태…김일권 예비후보에 불똥",
-      "link": "https://www.kpinews.kr/newsView/1065584532710637",
-      "pub_date": "2026-04-17T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 우리 국적 유조선 , 호르무즈 해협 봉쇄 이후 첫 홍해 통과",
-      "link": "https://www.kyeonggi.com/article/20260417580164",
-      "pub_date": "2026-04-17T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한국 선박, 호르무즈 봉쇄 이후 첫 ‘우회로’ 홍해 통과···원유...",
-      "link": "https://www.khan.co.kr/article/202604171306001",
-      "pub_date": "2026-04-17T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중대선거구제 후퇴 논란에 조국혁신당 반발",
-      "link": "https://www.naeil.com/news/read/585715?ref=naver",
-      "pub_date": "2026-04-17T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[시론] 호르무즈 이후의 에너지 전략",
-      "link": "http://www.e2news.com/news/articleView.html?idxno=329595",
-      "pub_date": "2026-04-17T13:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
