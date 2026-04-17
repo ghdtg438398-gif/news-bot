@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 18:20:37",
+  "updated": "2026-04-17 18:25:27",
   "total": 200,
   "breaking": 125,
   "items": [
+    {
+      "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133762718/2",
+      "pub_date": "2026-04-17T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 “국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.mk.co.kr/article/12020321",
+      "pub_date": "2026-04-17T18:19:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김민선·전예성·홍지원, KLPGA 넥센·세인트나인 1R 공동 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522693&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-17T18:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
       "link": "https://www.munhwa.com/article/11583151?ref=naver",
@@ -103,7 +130,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 구자현 총장 대행 \"국정조사 재판에 영향 안 돼… 공정히 진행해...",
+      "title": "[속보] 구자현 檢총장 대행 \"국조, 재판에 영향 안 돼… 검사 안타까운...",
       "link": "https://www.hankookilbo.com/news/article/A2026041717500003923?did=NA",
       "pub_date": "2026-04-17T18:13:00+09:00",
       "source_id": "yna",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
-      "link": "https://view.asiae.co.kr/article/2026041718094285690",
+      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
+      "link": "https://view.asiae.co.kr/article/2026041718085578002",
       "pub_date": "2026-04-17T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음\"",
-      "link": "https://view.asiae.co.kr/article/2026041718085578002",
+      "title": "[속보]구자현 檢총장대행 \"국조, 재판에 영향주려 한다는 평가 받아선 ...",
+      "link": "https://view.asiae.co.kr/article/2026041718094285690",
       "pub_date": "2026-04-17T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,7 +175,7 @@
       "is_scoop": false
     },
     {
-      "title": "‘탈출왕’ 늑구, 유퀴즈 출연? ‘늑구 밈’ 봇물",
+      "title": "“내가 어떻게 나왔냐면”…탈출왕 ‘늑구’, 예능 데뷔?",
       "link": "https://www.donga.com/news/Culture/article/all/20260417/133762260/2",
       "pub_date": "2026-04-17T18:11:00+09:00",
       "source_id": "yna",
@@ -391,15 +418,6 @@
       "is_scoop": false
     },
     {
-      "title": "프로야구 연매출 '1조 시대' 눈앞…독립 산업 진입",
-      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97278",
-      "pub_date": "2026-04-17T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 개인정보위, 메타엠 '정보유출 의심' 조사 검토",
       "link": "https://www.ngetnews.com/news/articleView.html?idxno=549927",
       "pub_date": "2026-04-17T17:48:00+09:00",
@@ -407,6 +425,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "프로야구 연매출 '1조 시대' 눈앞…독립 산업 진입",
+      "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97278",
+      "pub_date": "2026-04-17T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
@@ -1771,33 +1798,6 @@
       "title": "[속보]코스피, 0.55% 내린 6191.92마감",
       "link": "https://www.newsis.com/view/NISX20260417_0003595999",
       "pub_date": "2026-04-17T15:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원'으로 정정",
-      "link": "https://www.mt.co.kr/industry/2026/04/17/2026041715281619609",
-      "pub_date": "2026-04-17T15:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "차원 다른 AI ‘미토스’ 위협…미국 입장 번복, 한국은 대책 있나? [지...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538880&ref=A",
-      "pub_date": "2026-04-17T15:27:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대바이오, 전립선암 치료제 'CP-PCA07' 1상 임상 변경 승인",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568556",
-      "pub_date": "2026-04-17T15:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
