@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-17 15:30:35",
+  "updated": "2026-04-17 15:35:28",
   "total": 200,
   "breaking": 121,
   "items": [
+    {
+      "title": "[속보]코스피, 0.55% 내린 6191.92마감",
+      "link": "https://www.newsis.com/view/NISX20260417_0003595999",
+      "pub_date": "2026-04-17T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원'으로 정정",
       "link": "https://www.mt.co.kr/industry/2026/04/17/2026041715281619609",
@@ -121,8 +130,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 빛과전자 주가 오후장 상한가 터치…'큰폭의 변동'",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568552",
+      "title": "[속보]국힘 대구 본경선에 유영하·추경호…충북 윤갑근·김영환",
+      "link": "https://www.nocutnews.co.kr/news/6504190?utm_source=naver&utm_medium=article&utm_campaign=20260417030741",
       "pub_date": "2026-04-17T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘 대구 본경선에 유영하·추경호…충북 윤갑근·김영환",
-      "link": "https://www.nocutnews.co.kr/news/6504190?utm_source=naver&utm_medium=article&utm_campaign=20260417030741",
+      "title": "[속보] 빛과전자 주가 오후장 상한가 터치…'큰폭의 변동'",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568552",
       "pub_date": "2026-04-17T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.ajunews.com/view/20260417150049055",
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
+      "link": "https://www.ajunews.com/view/20260417150114056",
       "pub_date": "2026-04-17T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
-      "link": "https://www.ajunews.com/view/20260417150114056",
+      "title": "[속보] 추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
+      "link": "https://www.ajunews.com/view/20260417150049055",
       "pub_date": "2026-04-17T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,20 +220,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
-      "link": "https://magazine.hankyung.com/business/article/202604178391b",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
       "pub_date": "2026-04-17T14:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
+      "link": "https://magazine.hankyung.com/business/article/202604178391b",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -265,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "pub_date": "2026-04-17T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 윤갑근, '국힘 충북지사' 본경선 진출 … 김영환 現 지사와 27일...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700180.html",
       "pub_date": "2026-04-17T14:54:00+09:00",
@@ -283,15 +301,6 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]추경호·유영하, 국힘 대구시장 후보 본경선 진출",
       "link": "https://www.donga.com/news/Politics/article/all/20260417/133760182/2",
       "pub_date": "2026-04-17T14:53:00+09:00",
@@ -301,8 +310,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘추경호-유영하’ 국힘 대구시장 2파전 압축…충북 윤갑근 본선...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
+      "link": "http://www.inews24.com/view/1961239",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -319,17 +337,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 국힘 충북지사, 윤갑근 본경선 진출⋯김영환과 결선",
-      "link": "http://www.inews24.com/view/1961239",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
+      "title": "[속보]‘추경호-유영하’ 국힘 대구시장 2파전 압축…충북 윤갑근 본선...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 국정수행 긍정 평가 66%.. 지난주 대비 1%p↓",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64017",
-      "pub_date": "2026-04-17T11:16:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
