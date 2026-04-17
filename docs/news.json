@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-17 16:40:30",
+  "updated": "2026-04-17 16:45:32",
   "total": 200,
-  "breaking": 126,
+  "breaking": 124,
   "items": [
+    {
+      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)배터리협회, 비위 신고는 7개월째 '묵묵부답'…신고자는 '대기발...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298227&inflow=N",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115299",
+      "pub_date": "2026-04-17T16:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[인터뷰] 봄 몰고 온 이프아이 \"전원 센터 그룹, 잊히지 않을 것\"",
       "link": "https://news.jtbc.co.kr/article/NB12294708?influxDiv=NAVER",
@@ -256,21 +283,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
-      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
-      "pub_date": "2026-04-17T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[지평선] 장동혁의 사진 한 장",
       "link": "https://www.hankookilbo.com/news/article/A2026041617000000204?did=NA",
       "pub_date": "2026-04-17T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조→1.8조원' 축소",
+      "link": "https://news.mtn.co.kr/news-detail/2026041715564571942",
+      "pub_date": "2026-04-17T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1771,33 +1798,6 @@
       "title": "[속보] \"친인척집 화장실에도 설치\"…'몰카' 장학관, 6곳서 동료 등 41명...",
       "link": "https://www.imaeil.com/page/view/2026041713035633149",
       "pub_date": "2026-04-17T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "조현준·조현문 미뤄진 만남…효성 '형제의 난' 재판 증인신문 8월로",
-      "link": "https://news.tf.co.kr/read/economy/2314379.htm",
-      "pub_date": "2026-04-17T13:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 류중일 감독 아들 집에 몰래 홈캠 설치…사돈 가족, 1심 무죄",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500110?wlog_tag3=naver",
-      "pub_date": "2026-04-17T13:32:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 금양, 100억 규모 부동산 강제경매 개시 결정 통보",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568526",
-      "pub_date": "2026-04-17T13:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
