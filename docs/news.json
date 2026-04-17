@@ -1,8 +1,125 @@
 {
-  "updated": "2026-04-17 15:35:28",
+  "updated": "2026-04-17 15:40:35",
   "total": 200,
   "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 코스피 34.13p(0.55%) 내린 6191.92(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2576777",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 34.13p(0.55%) 내린 6191.92 마감",
+      "link": "https://www.ajunews.com/view/20260417153109095",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 7.07p(0.61%) 오른 1170.04(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2576776",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI프리뷰] 17일 대구 LG-삼성전, 불꽃 튀는 선두 싸움...임찬규, 삼성 타...",
+      "link": "https://www.newspim.com/news/view/20260417000699",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'상폐 위기' 현대사료 주주연대, 누구를 위해 움직였나",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28007",
+      "pub_date": "2026-04-17T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율, 8.9원 오른 1483.5원 마감",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/17/S55M5DDRFVDS5AMWVGDAU4643M/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 0.02% 상승 출발 코스피, 하락 전환 '6191.92' 마감",
+      "link": "https://www.sidae.com/article/2026041715162568707",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 1170.04 마감… 전 거래일 보다 0.61% 상승",
+      "link": "https://www.sidae.com/article/2026041715180719735",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 하향 정정신고 '2.4조→1.8조원'",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596007",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.55% 내린 6191.92 마감…코스닥은 1170.04",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04224646645417104",
+      "pub_date": "2026-04-17T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 2.4조원서 1.8조원으로 축소",
+      "link": "https://www.dailian.co.kr/news/view/1634903/?sc=Naver",
+      "pub_date": "2026-04-17T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유상증자 규모 '2.4조에서 1.8조'로 축소",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305063?division=NAVER",
+      "pub_date": "2026-04-17T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 외국인, 또 변심 '2조' 던졌다…코스피 0.5%↓",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604170411&t=NN",
+      "pub_date": "2026-04-17T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]코스피, 0.55% 내린 6191.92마감",
       "link": "https://www.newsis.com/view/NISX20260417_0003595999",
@@ -175,6 +292,15 @@
       "is_scoop": false
     },
     {
+      "title": "민주당 “'송영길 하남갑 확실’ 보도 전혀 사실 아냐”",
+      "link": "https://www.viewsnnews.com/article?q=235212",
+      "pub_date": "2026-04-17T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
       "link": "https://www.ajunews.com/view/20260417150114056",
       "pub_date": "2026-04-17T15:02:00+09:00",
@@ -190,15 +316,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주당 “'송영길 하남갑 확실’ 보도 전혀 사실 아냐”",
-      "link": "https://www.viewsnnews.com/article?q=235212",
-      "pub_date": "2026-04-17T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -310,6 +427,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독]'원경' 김우담, 계백 장군 낙점..KBS 300억 대작 '문무' 합류",
+      "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/17/2026041713555015828",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
       "pub_date": "2026-04-17T14:52:00+09:00",
@@ -326,15 +452,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독]'원경' 김우담, 계백 장군 낙점..KBS 300억 대작 '문무' 합류",
-      "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/17/2026041713555015828",
-      "pub_date": "2026-04-17T14:52:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보]‘추경호-유영하’ 국힘 대구시장 2파전 압축…충북 윤갑근 본선...",
@@ -1684,123 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[다음주 경제일정] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 중...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000304966?division=NAVER",
-      "pub_date": "2026-04-17T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.hankyung.com/article/2026041780237",
-      "pub_date": "2026-04-17T11:22:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, 해경 압수수색…\"비상계엄 가담 여부 확인\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03378406645417104",
-      "pub_date": "2026-04-17T11:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘계엄 가담 의혹’ 해양경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260417500323",
-      "pub_date": "2026-04-17T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 국세청, 승진자 '민감 신체 이력'까지 홍보 도구로…'인권 불감...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28018",
-      "pub_date": "2026-04-17T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 종합특검, '비상계엄 가담' 의혹 해양경찰청 압수수색..\"청장실 ...",
-      "link": "http://www.fnnews.com/news/202604171117281820",
-      "pub_date": "2026-04-17T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"남욱 증언, 피 거꾸로 솟게 해…검찰 수사권 박탈해야\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045313",
-      "pub_date": "2026-04-17T11:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://news.jtbc.co.kr/article/NB12294636?influxDiv=NAVER",
-      "pub_date": "2026-04-17T11:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 만나는 홍준표, “내 마지막 인생 나라 위한 열정으로 살았으...",
-      "link": "https://www.munhwa.com/article/11583025?ref=naver",
-      "pub_date": "2026-04-17T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '계엄 가담 의혹' 해양경찰청 등 압수수색",
-      "link": "https://www.yna.co.kr/view/AKR20260417072400004?input=1195m",
-      "pub_date": "2026-04-17T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 해양경찰청 압수수색…\"계엄 가담 여부 확인\"",
-      "link": "https://www.news1.kr/society/court-prosecution/6140033",
-      "pub_date": "2026-04-17T11:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 해양경찰청 압수수색…'계엄 가담' 조사",
-      "link": "https://www.newsis.com/view/NISX20260417_0003595555",
-      "pub_date": "2026-04-17T11:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "예별손해보험 공개매각을 위한 본입찰 마감",
-      "link": "https://www.m-economynews.com/news/article.html?no=66542",
-      "pub_date": "2026-04-17T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
