@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 03:50:34",
+  "updated": "2026-04-18 03:55:29",
   "total": 200,
   "breaking": 169,
   "items": [
+    {
+      "title": "중국 휴머노이드 로봇 세계 80% 장악…미국 AI 전략 '사각지대' 노출",
+      "link": "https://www.g-enews.com/view.php?ud=202604172236193082bd56fbc3c_1",
+      "pub_date": "2026-04-18T03:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "서울 성북동 주택 화재...인명 피해 없어",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560118",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-17T21:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 대구 체육관장, 운동 빌미로 불러내 성폭행···\"중고생 피해자...",
-      "link": "https://dgmbc.com/NewsArticle/835779",
-      "pub_date": "2026-04-17T20:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
     }
