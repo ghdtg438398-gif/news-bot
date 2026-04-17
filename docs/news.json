@@ -1,12 +1,39 @@
 {
-  "updated": "2026-04-17 16:45:32",
+  "updated": "2026-04-17 16:50:31",
   "total": 200,
   "breaking": 124,
   "items": [
     {
-      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
-      "pub_date": "2026-04-17T16:42:00+09:00",
+      "title": "[속보] 회식자리 ‘불법촬영’ 장학관, 피해자 41명…연수 가서도 카메...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500191?wlog_tag3=naver",
+      "pub_date": "2026-04-17T16:46:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]불교시민단체, '불국사 주지 선출 산중총회 금품 제공 의혹' 경찰...",
+      "link": "https://www.imaeil.com/page/view/2026041716423649392",
+      "pub_date": "2026-04-17T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“호르무즈 봉쇄 뚫은 늑구” “유퀴즈 출연”…돌아온 늑구에 ‘밈’도...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/17/20260417500190?wlog_tag3=naver",
+      "pub_date": "2026-04-17T16:45:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김 총리 \"마약, 청년 미래 갉아먹어\"…관계부처에 총력 대응 당부",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148962943&call_from=naver_news",
+      "pub_date": "2026-04-17T16:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -20,6 +47,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "조니 소말리 `징역 6개월`…피해자측 \"양형 아쉬워\" 항소 의견",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04710086645417104",
+      "pub_date": "2026-04-17T16:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "구윤철 \"차량용 요소·요소수 공공비축분 22~27일 방출\"",
@@ -67,7 +103,7 @@
       "is_scoop": false
     },
     {
-      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·걸그룹 오빠",
+      "title": "[퇴근길이슈] 박봄 마약 없던 일로·모자무싸 대군부인·시그널 편성",
       "link": "http://www.joynews24.com/view/1961301",
       "pub_date": "2026-04-17T16:28:00+09:00",
       "source_id": "yna",
@@ -229,15 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
-      "pub_date": "2026-04-17T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)고배당인데 밸류업 공시 누락…거래소, 한화시스템 등 107곳에 요...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298245&inflow=N",
       "pub_date": "2026-04-17T16:04:00+09:00",
@@ -245,6 +272,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "조현준 효성 회장, '형제의 난' 재판 당당히 불출석…재판 장기화 우려...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59044",
+      "pub_date": "2026-04-17T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 조국, 평택을 예비후보 등록…“험지지만 경쟁력 있다”",
@@ -373,12 +409,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조로 축소…시설투자는 사수하고 채...",
-      "link": "https://magazine.hankyung.com/business/article/202604178594b",
+      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
       "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -391,20 +427,20 @@
       "is_scoop": false
     },
     {
-      "title": "[#클라우드 월드] NC AI 'AX 비전' 발표·앤스로픽 '오퍼스 4.7' 출시·'캔...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838164",
-      "pub_date": "2026-04-17T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "공보의 급감에 농촌 의료공백…추경으로 300여 명 긴급 채용",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538889&ref=A",
       "pub_date": "2026-04-17T15:54:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한화솔루션, 유증 2.4조→1.8조로 축소…시설투자는 사수하고 채...",
+      "link": "https://magazine.hankyung.com/business/article/202604178594b",
+      "pub_date": "2026-04-17T15:54:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보]호르무즈 봉쇄후 발 묶인 우리 유조선, 홍해 첫 통과",
       "link": "https://economist.co.kr/article/view/ecn202604170046",
       "pub_date": "2026-04-17T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[정치家] 김민석 국무총리 ③ㅣ 에너지·안전·민생 전방위 대응…국정...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568483",
-      "pub_date": "2026-04-17T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 봉쇄 후 한국 유조선 첫 홍해 통과",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045323",
-      "pub_date": "2026-04-17T13:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"폭동 때 잤다\"는 전광훈, 석방 후 첫 재판서 혐의 부인",
-      "link": "https://www.nocutnews.co.kr/news/6504115?utm_source=naver&utm_medium=article&utm_campaign=20260417013639",
-      "pub_date": "2026-04-17T13:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"친인척집 화장실에도 설치\"…'몰카' 장학관, 6곳서 동료 등 41명...",
-      "link": "https://www.imaeil.com/page/view/2026041713035633149",
-      "pub_date": "2026-04-17T13:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
