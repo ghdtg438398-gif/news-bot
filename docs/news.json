@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-17 15:05:28",
+  "updated": "2026-04-17 15:10:31",
   "total": 200,
-  "breaking": 120,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[단독]이 대통령, 홍준표와 막걸리 마시며 환담…“막걸리 한 잔 나누자...",
+      "link": "https://www.khan.co.kr/article/202604171508001",
+      "pub_date": "2026-04-17T15:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 빛과전자 주가 오후장 상한가 터치…'큰폭의 변동'",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568552",
+      "pub_date": "2026-04-17T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 대구 본경선에 유영하·추경호…충북 윤갑근·김영환",
+      "link": "https://www.nocutnews.co.kr/news/6504190?utm_source=naver&utm_medium=article&utm_campaign=20260417030741",
+      "pub_date": "2026-04-17T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '尹 변호인' 윤갑근, 국힘 충북지사 본경선 진출… 대구시장엔 ...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041714521000019",
+      "pub_date": "2026-04-17T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 대결",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411058",
+      "pub_date": "2026-04-17T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국힘 충북지사 후보 본경선에 윤갑근 진출…김영환과 결선",
       "link": "https://www.ajunews.com/view/20260417150114056",
@@ -49,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
-      "link": "https://magazine.hankyung.com/business/article/202604178391b",
-      "pub_date": "2026-04-17T14:58:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 파인텍, VI만 5번 발생 20%대 급등…거래량 폭증 속 단기 과열 양...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568551",
       "pub_date": "2026-04-17T14:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]공보의 60% 급감...정부, 추경 113억 긴급수혈",
+      "link": "https://magazine.hankyung.com/business/article/202604178391b",
+      "pub_date": "2026-04-17T14:58:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -103,15 +148,6 @@
       "is_scoop": false
     },
     {
-      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
-      "link": "https://www.inews365.com/news/article.html?no=915753",
-      "pub_date": "2026-04-17T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국민의힘 대구시장 본경선에 추경호·유영하 의원 진출",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=224673",
       "pub_date": "2026-04-17T14:54:00+09:00",
@@ -130,18 +166,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]추경호·유영하, 국민의힘 대구시장 후보 최종 경선행",
-      "link": "https://www.donga.com/news/Politics/article/all/20260417/133760182/2",
-      "pub_date": "2026-04-17T14:53:00+09:00",
+      "title": "<속보>윤갑근, 국민의힘 충북지사 후보 본경선 진출…김영환과 대결",
+      "link": "https://www.inews365.com/news/article.html?no=915753",
+      "pub_date": "2026-04-17T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
-      "pub_date": "2026-04-17T14:52:00+09:00",
+      "title": "[속보]추경호·유영하, 국힘 대구시장 후보 본경선 진출",
+      "link": "https://www.donga.com/news/Politics/article/all/20260417/133760182/2",
+      "pub_date": "2026-04-17T14:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -157,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 대구시장 본경선 후보 2인 압축…추경호·유영하",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
+      "title": "[속보] 유영하·추경호, '국힘 대구시장' 본경선 진출 … 26일 최종 후보...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/17/2026041700178.html",
       "pub_date": "2026-04-17T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -173,6 +209,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]국힘, 대구시장 본경선 후보 2인 압축…추경호·유영하",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524622",
+      "pub_date": "2026-04-17T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
@@ -202,15 +247,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
-      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515834",
-      "pub_date": "2026-04-17T14:48:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 독일·프랑스 등 정부 공식 소통서 왓츠앱·시그널 퇴출",
       "link": "https://www.news2day.co.kr/article/20260417500223",
       "pub_date": "2026-04-17T14:48:00+09:00",
@@ -218,6 +254,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 국힘, 유영하·추경호 대구시장 본경선 진출",
+      "link": "https://www.ilyoseoul.co.kr/news/articleView.html?idxno=515834",
+      "pub_date": "2026-04-17T14:48:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 추경호·유영하, 국힘 대구시장 후보 최종 경선 진출",
@@ -1753,51 +1798,6 @@
       "title": "예산군·경찰, 영화 ‘살목지’ 현장 안전사고 예방 위해 ‘강력 봉쇄’",
       "link": "http://www.breaknews.com/1201090",
       "pub_date": "2026-04-17T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "전광훈 \"폭동때 잤다…오줌도 못싸는 중환자\" 보석 후 첫 재판 출석",
-      "link": "https://www.nocutnews.co.kr/news/6504036?utm_source=naver&utm_medium=article&utm_campaign=20260417110438",
-      "pub_date": "2026-04-17T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁·김민수, 귀국 사흘 연기…“美 국무부 연락”",
-      "link": "https://biz.heraldcorp.com/article/10719543?ref=naver",
-      "pub_date": "2026-04-17T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 “檢 야비함과 잔인성에 피 거꾸로 솟아…수사권 손톱만...",
-      "link": "https://www.dt.co.kr/article/12057966?ref=naver",
-      "pub_date": "2026-04-17T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]박명수, 20년 동고동락 매니저와 결별했다…\"각자의 길\"",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=810962",
-      "pub_date": "2026-04-17T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[뉴공 아카이브]퍼니포: “목표는 하나”… 이재명 기소 정해놓은 수사...",
-      "link": "http://www.ddanzi.com/879087698",
-      "pub_date": "2026-04-17T11:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
