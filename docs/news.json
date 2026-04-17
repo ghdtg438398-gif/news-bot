@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-17 18:15:36",
+  "updated": "2026-04-17 18:20:37",
   "total": 200,
-  "breaking": 121,
+  "breaking": 125,
   "items": [
+    {
+      "title": "[속보]‘대장동 검사 극단시도’에 검찰총장 “공정한 국조 간곡 부탁”",
+      "link": "https://www.munhwa.com/article/11583151?ref=naver",
+      "pub_date": "2026-04-17T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 검찰총장 대행 \"국조증인 검사 안타까운 소식…참담\"",
+      "link": "https://www.nocutnews.co.kr/news/6504386?utm_source=naver&utm_medium=article&utm_campaign=20260417061642",
+      "pub_date": "2026-04-17T18:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 檢총장대행 \"국조증인 검사 안타까운 소식…참담한 마음...",
+      "link": "https://www.hankyung.com/article/2026041790507",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 구자현 \"국조, 재판에 영향 주려 한다는 평가 받아선 안돼\"",
+      "link": "https://www.hankyung.com/article/2026041790517",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "길고양이 발로 차 죽여 ‘집유’ 받은 30대 또 범행했다 ‘실형’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8538976&ref=A",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "보은군, 주소정보시설 일제조사 6월까지 추진",
+      "link": "http://www.breaknews.com/1201308",
+      "pub_date": "2026-04-17T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]구자현 “국조, 재판에 영향 주려고 한다는 평가 받아선 안 돼”",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/17/20260417500227?wlog_tag3=naver",
+      "pub_date": "2026-04-17T18:15:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 구자현 “국조, 재판에 영향 주려 한다는 평가 받아선 안돼”",
       "link": "https://www.viva100.com/article/20260417500704",
@@ -328,15 +391,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 개인정보위, 메타엠 '정보유출 의심' 조사 검토",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549927",
-      "pub_date": "2026-04-17T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "프로야구 연매출 '1조 시대' 눈앞…독립 산업 진입",
       "link": "http://www.tjb.co.kr/sub0301/bodo/view/id/97278",
       "pub_date": "2026-04-17T17:48:00+09:00",
@@ -344,6 +398,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 개인정보위, 메타엠 '정보유출 의심' 조사 검토",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549927",
+      "pub_date": "2026-04-17T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]광역의원 비례비율 14%로 상향…의원 늘어날 듯",
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고려아연 주총 의결권 ‘검증대’…법원, 증거보전 인용",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298247&inflow=N",
-      "pub_date": "2026-04-17T15:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전광훈 “난 오줌도 스스로 못 싸는 중환자” 혐의 부인",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/17/20260417500161?wlog_tag3=naver",
-      "pub_date": "2026-04-17T15:23:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "효성 조현문 재판, 조현준 회장 증인 불출석",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219557",
-      "pub_date": "2026-04-17T15:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 원가 급등에 '납품대금 연동제' 주목…현장 안착 시험대",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298226&inflow=N",
-      "pub_date": "2026-04-17T15:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "탈출 9일 만에 돌아온 늑구‥\"위에서 낚시바늘 제거\"",
-      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816035_36974.html",
-      "pub_date": "2026-04-17T15:18:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘NC 초비상’ 사구 맞은 김휘집, 오른 손목 골절로 엔트리 말소…“복...",
-      "link": "https://www.mk.co.kr/article/12020031",
-      "pub_date": "2026-04-17T15:18:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "70대 노모 때려 숨지게 한 40대 남매 징역형…'딸 7년·아들 3년'",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522451&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-17T15:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
