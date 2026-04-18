@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 02:35:24",
-  "total": 185,
-  "breaking": 147,
+  "updated": "2026-04-19 02:40:26",
+  "total": 184,
+  "breaking": 146,
   "items": [
     {
       "title": "[속보] 토트넘, 또 무너졌다! 日 미토마 환상 동점포, 손흥민 친정팀 울...",
@@ -1657,15 +1657,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장성군수 경선, 대리투표에 이어 '이중투표' 정황도",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446620",
-      "pub_date": "2026-04-18T16:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
