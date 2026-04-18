@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 19:45:29",
+  "updated": "2026-04-18 19:50:31",
   "total": 200,
   "breaking": 145,
   "items": [
+    {
+      "title": "[속보] 전광훈, 보석 후 첫 광화문 집회서 “대한민국 이미 망했다”",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418509&PRO_CODE=99",
+      "pub_date": "2026-04-18T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'KBO 새 역사 쓰더니' KT도 4연승 질주→'7연승' 삼성만 아니면 1위인데...",
       "link": "https://www.xportsnews.com/article/2138542",
@@ -13,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기도 고양 10층 건물 옥상서 고교생 추락사…경찰 조사",
-      "link": "https://www.dt.co.kr/article/12058073?ref=naver",
+      "title": "[속보]“일본인이 성추행” 중국 관광객 주장에 경찰 수사 착수",
+      "link": "https://www.munhwa.com/article/11583243?ref=naver",
       "pub_date": "2026-04-18T19:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]“일본인이 성추행” 중국 관광객 주장에 경찰 수사 착수",
-      "link": "https://www.munhwa.com/article/11583243?ref=naver",
+      "title": "[속보] 경기도 고양 10층 건물 옥상서 고교생 추락사…경찰 조사",
+      "link": "https://www.dt.co.kr/article/12058073?ref=naver",
       "pub_date": "2026-04-18T19:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-18T10:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]정원오 VS 오세훈 확정...서울시장 누가 될까",
-      "link": "https://magazine.hankyung.com/business/article/202604189602b",
-      "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
