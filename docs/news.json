@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 12:30:31",
-  "total": 183,
-  "breaking": 112,
+  "updated": "2026-04-18 12:35:27",
+  "total": 185,
+  "breaking": 113,
   "items": [
+    {
+      "title": "‘공직선거법 개정안’ 등 국회 통과...중대선거구제 일부 도입·광역 비...",
+      "link": "https://www.m-economynews.com/news/article.html?no=66571",
+      "pub_date": "2026-04-18T12:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 유명 걸그룹 멤버 친오빠, 구속 피했다… “BJ 성추행 혐의 소명...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/18/20260418500027?wlog_tag3=naver",
+      "pub_date": "2026-04-18T12:31:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "수원 인계동 상가서 화재...20분 만에 진화 '1명 대피'",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560269",
@@ -175,15 +193,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 10대 의붓딸 성폭행하며 “교육한 것”… 무직 40대男, 친딸도 학...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/18/20260418500023?wlog_tag3=naver",
-      "pub_date": "2026-04-18T11:36:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
@@ -200,6 +209,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 10대 의붓딸 성폭행하며 “교육한 것”… 무직 40대男, 친딸도 학...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/18/20260418500023?wlog_tag3=naver",
+      "pub_date": "2026-04-18T11:36:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보]오세훈, 국힘 서울시장 후보 확정…정원오와 서울시장 승부",
