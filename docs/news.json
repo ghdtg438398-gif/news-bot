@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 18:05:26",
-  "total": 190,
+  "updated": "2026-04-18 18:10:28",
+  "total": 189,
   "breaking": 124,
   "items": [
+    {
+      "title": "[속보] 이란 군부 \"호르무즈 해협, 다시 통제한다\"",
+      "link": "https://www.hankookilbo.com/news/article/A2026041818000001600?did=NA",
+      "pub_date": "2026-04-18T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '롯데 가슴 철렁' 비슬리, 2⅓이닝 만에 교체 왜?…\"어지러움 증...",
       "link": "https://www.xportsnews.com/article/2138482",
@@ -148,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란, 호르무즈 다시 폐쇄…미국 봉쇄 해제 요구\" AP",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418174521eO7",
+      "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
+      "link": "https://www.xportsnews.com/article/2138461",
       "pub_date": "2026-04-18T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
-      "link": "https://www.xportsnews.com/article/2138461",
+      "title": "[속보] \"이란, 호르무즈 다시 폐쇄…미국 봉쇄 해제 요구\" AP",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418174521eO7",
       "pub_date": "2026-04-18T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1690,24 +1699,6 @@
       "title": "[PGA] 벙커샷 버디! 벌렁 드러누운 김시우, 공동 7위 도약",
       "link": "https://www.newspim.com/news/view/20260418000015",
       "pub_date": "2026-04-18T08:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '와' 173km 타구속도 미쳤다!...뜨거운 이정후, 4G 연속 안타 행진",
-      "link": "http://www.osen.co.kr/article/G1112784190",
-      "pub_date": "2026-04-18T08:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[다음주 한국은행 및 금융위·금감원 일정]",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410305",
-      "pub_date": "2026-04-18T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
