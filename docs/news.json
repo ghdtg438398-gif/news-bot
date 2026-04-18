@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 12:35:27",
-  "total": 185,
-  "breaking": 113,
+  "updated": "2026-04-18 12:40:29",
+  "total": 186,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 안동 예안면 산불 확산 우려…주민·등산객 대피 권고",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864008",
+      "pub_date": "2026-04-18T12:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "‘공직선거법 개정안’ 등 국회 통과...중대선거구제 일부 도입·광역 비...",
       "link": "https://www.m-economynews.com/news/article.html?no=66571",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
+      "title": "[속보] 트럼프 \"합의 불발시 해협 봉쇄 유지…다시 폭탄 투하할 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418120043mDz",
       "pub_date": "2026-04-18T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"합의 불발시 해협 봉쇄 유지…다시 폭탄 투하할 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418120043mDz",
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
       "pub_date": "2026-04-18T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
