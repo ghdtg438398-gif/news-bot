@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-18 20:10:29",
+  "updated": "2026-04-18 20:15:30",
   "total": 200,
   "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "https://biz.chosun.com/international/international_general/2026/04/18/OBJRFVAAARF5RM6ZBPVENKVICQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-18T20:13:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 쓰라린 패배 안길 준비”",
+      "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/04/18/20260418500054?wlog_tag3=naver",
+      "pub_date": "2026-04-18T20:12:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 새 최고지도자 \"적들에게 새로운 패배의 쓴맛 안길 준비\"",
+      "link": "https://www.mt.co.kr/world/2026/04/18/2026041820111523363",
+      "pub_date": "2026-04-18T20:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "날씨는 초여름, 응원 열기는 한 여름… \"우리가 승리한다!\"",
+      "link": "http://www.journalist.or.kr/news/article.html?no=60743",
+      "pub_date": "2026-04-18T20:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370049",
+      "pub_date": "2026-04-18T20:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
       "link": "https://www.sedaily.com/article/20034112?ref=naver",
@@ -22,6 +67,15 @@
       "is_scoop": true
     },
     {
+      "title": "[속보] 이란 새 최고지도자 \"적들에게 새로운 패배의 쓴맛 안길 준비\"",
+      "link": "https://www.news1.kr/world/middleeast-africa/6141068",
+      "pub_date": "2026-04-18T20:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
       "link": "https://www.mk.co.kr/article/12020806",
       "pub_date": "2026-04-18T20:05:00+09:00",
@@ -31,13 +85,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 새 최고지도자 \"적들에게 새로운 패배의 쓴맛 안길 준비\"",
-      "link": "https://www.news1.kr/world/middleeast-africa/6141068",
+      "title": "[단독] \"오전까지 무전으로 위협\"‥한국 선박들 움직이지 못해",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816271_37004.html",
       "pub_date": "2026-04-18T20:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 민주당 김원종 긴급 기자회견…\"이정린 예비후보 지지 선언\"",
@@ -58,15 +112,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란 최고지도자 “적에 새로운 쓰라린 패배 안길 준비”",
-      "link": "https://www.mk.co.kr/article/12020805",
-      "pub_date": "2026-04-18T20:03:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180314&t=NN",
       "pub_date": "2026-04-18T20:03:00+09:00",
@@ -81,6 +126,15 @@
       "pub_date": "2026-04-18T20:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 최고지도자 “적에 새로운 쓰라린 패배 안길 준비”",
+      "link": "https://www.mk.co.kr/article/12020805",
+      "pub_date": "2026-04-18T20:03:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1744,60 +1798,6 @@
       "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.munhwa.com/article/11583201?ref=naver",
       "pub_date": "2026-04-18T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…5선 도전",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=118978",
-      "pub_date": "2026-04-18T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
-      "link": "https://www.imaeil.com/page/view/2026041810375551949",
-      "pub_date": "2026-04-18T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418502&PRO_CODE=99",
-      "pub_date": "2026-04-18T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘육우를 한우로’ 4년 속였다…춘천 레스토랑 업주 집유",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02118886645417432",
-      "pub_date": "2026-04-18T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "협상 막판 '트럼프 변수'... 직접 가면 곧바로 서명? [Y녹취록]",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604181036018783",
-      "pub_date": "2026-04-18T10:36:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…정원오와 본선 대결",
-      "link": "https://www.ajunews.com/view/20260418102730395",
-      "pub_date": "2026-04-18T10:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
