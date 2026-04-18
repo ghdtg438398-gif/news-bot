@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 18:00:35",
-  "total": 187,
-  "breaking": 121,
+  "updated": "2026-04-18 18:05:26",
+  "total": 190,
+  "breaking": 124,
   "items": [
+    {
+      "title": "[속보] '롯데 가슴 철렁' 비슬리, 2⅓이닝 만에 교체 왜?…\"어지러움 증...",
+      "link": "https://www.xportsnews.com/article/2138482",
+      "pub_date": "2026-04-18T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 롯데 158km 에이스, '괜찮다' 시그널 보냈는데 긴급교체 왜? \"어지...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811342",
+      "pub_date": "2026-04-18T18:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 배현진, 장동혁 겨냥 “눈치 없는 건지…거취 고민하라”",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418507&PRO_CODE=99",
+      "pub_date": "2026-04-18T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[김남현의 채권썰] 중동휴전 위험선호 그리고 물가..feat. 총재 공석",
       "link": "https://www.etoday.co.kr/news/view/2576898",
@@ -67,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
-      "pub_date": "2026-04-18T17:49:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]이란 “호르무즈 다시 이전처럼 통제...美, 봉쇄 명목으로 해적질...",
       "link": "https://biz.heraldcorp.com/article/10720192?ref=naver",
       "pub_date": "2026-04-18T17:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T17:49:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -112,11 +139,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
-      "link": "https://www.xportsnews.com/article/2138461",
+      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
       "pub_date": "2026-04-18T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -130,11 +157,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
+      "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
+      "link": "https://www.xportsnews.com/article/2138461",
       "pub_date": "2026-04-18T17:46:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
