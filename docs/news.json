@@ -1,12 +1,102 @@
 {
-  "updated": "2026-04-18 20:00:46",
+  "updated": "2026-04-18 20:05:32",
   "total": 200,
-  "breaking": 146,
+  "breaking": 147,
   "items": [
     {
+      "title": "[속보] 민주당 김원종 긴급 기자회견…\"이정린 예비후보 지지 선언\"",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=540764",
+      "pub_date": "2026-04-18T20:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英 해사무역기구 “이란 혁명수비대, 유조선에 발포”",
+      "link": "https://www.etoday.co.kr/news/view/2576900",
+      "pub_date": "2026-04-18T20:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 최고지도자 “적에 새로운 쓰라린 패배 안길 준비”",
+      "link": "https://www.mk.co.kr/article/12020805",
+      "pub_date": "2026-04-18T20:03:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 \"적에 새로운 쓰라린 패배 안길 준비\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180314&t=NN",
+      "pub_date": "2026-04-18T20:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]영국 해사무역기구 \"이란 혁명수비대, 호르무즈 인근서 유조선 공...",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596728",
+      "pub_date": "2026-04-18T20:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
-      "link": "https://biz.heraldcorp.com/article/10720206?ref=naver",
-      "pub_date": "2026-04-18T19:59:00+09:00",
+      "link": "https://www.khan.co.kr/article/202604182002001",
+      "pub_date": "2026-04-18T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
+      "link": "https://www.ajunews.com/view/20260418200119508",
+      "pub_date": "2026-04-18T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
+      "link": "https://www.ajunews.com/view/20260418195942507",
+      "pub_date": "2026-04-18T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 최고지도자 \"이란군, 적에 새 쓰라린 패배 안길 준비 돼\"",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596727",
+      "pub_date": "2026-04-18T20:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
+      "link": "https://biz.heraldcorp.com/article/10720207?ref=naver",
+      "pub_date": "2026-04-18T20:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
+      "link": "http://www.fnnews.com/news/202604181958293354",
+      "pub_date": "2026-04-18T20:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -15,6 +105,15 @@
     {
       "title": "[속보] 이란 최고지도자 \"이란軍, 적에 새로운 쓰라린 패배 안길 준비\"",
       "link": "https://www.imaeil.com/page/view/2026041819584032000",
+      "pub_date": "2026-04-18T19:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "https://biz.heraldcorp.com/article/10720206?ref=naver",
       "pub_date": "2026-04-18T19:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란 최고지도자 \"적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://view.asiae.co.kr/article/2026041819561801715",
-      "pub_date": "2026-04-18T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 영국 해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418195606t4E",
       "pub_date": "2026-04-18T19:56:00+09:00",
@@ -58,11 +148,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
+      "title": "[속보] 이란 최고지도자 \"적에게 새로운 쓰라린 패배 안길 준비\"",
       "link": "https://www.hankyung.com/article/2026041899167",
       "pub_date": "2026-04-18T19:56:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 최고지도자 \"적에 새로운 쓰라린 패배 안길 준비\"",
+      "link": "https://view.asiae.co.kr/article/2026041819561801715",
+      "pub_date": "2026-04-18T19:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1701,105 +1800,6 @@
       "pub_date": "2026-04-18T10:32:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
-      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
-      "pub_date": "2026-04-18T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
-      "link": "https://economist.co.kr/article/view/ecn202604180006",
-      "pub_date": "2026-04-18T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260418029200011?input=1195m",
-      "pub_date": "2026-04-18T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與 정원오와 대결",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=701846",
-      "pub_date": "2026-04-18T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 5선 도전한다...국힘 서울시장 후보 확정",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180252&t=NN",
-      "pub_date": "2026-04-18T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583198?ref=naver",
-      "pub_date": "2026-04-18T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오 전 성동구청장과 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045358",
-      "pub_date": "2026-04-18T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보 오세훈…민주 정원오와 맞대결",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005082",
-      "pub_date": "2026-04-18T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
-      "pub_date": "2026-04-18T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정...與 정원오와 대결",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269850",
-      "pub_date": "2026-04-18T10:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.ajunews.com/view/20260418102050393",
-      "pub_date": "2026-04-18T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
