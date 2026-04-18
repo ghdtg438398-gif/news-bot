@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 16:55:23",
-  "total": 184,
+  "updated": "2026-04-18 17:00:37",
+  "total": 181,
   "breaking": 113,
   "items": [
+    {
+      "title": "[단독] '내가 교육감 선거 참여단?' 100여명이 본인 삭제 요구",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-18T16:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[프로축구] K리그2 이정효의 수원, 경남 원정 1-0…부산 7연승",
       "link": "https://www.newspim.com/news/view/20260418000071",
@@ -1622,42 +1631,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[단독] '불란서 금고' 장현성 \"신구 '공연하다 떠날지 모른다, 준비하라...",
-      "link": "https://www.xportsnews.com/article/2138087",
-      "pub_date": "2026-04-18T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "카카오톡에 '이 기능' 새롭게 도입됐다…미성년자 자녀 있는 부모들이 ...",
-      "link": "https://www.wikitree.co.kr/articles/1131390",
-      "pub_date": "2026-04-18T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]이준호, 여전한 독기 \"몸무게 소수점까지..꾸준함이 신뢰\"[★FULL인...",
-      "link": "https://www.starnewskorea.com/star/2026/04/18/2026041714552381031",
-      "pub_date": "2026-04-18T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[딜로이트 글로벌 경제 리뷰] 전쟁과 국방비 지출 확대의 거시경제적 영...",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=255931",
-      "pub_date": "2026-04-18T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
