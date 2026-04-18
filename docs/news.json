@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 03:05:25",
-  "total": 182,
-  "breaking": 146,
+  "updated": "2026-04-19 03:10:29",
+  "total": 181,
+  "breaking": 145,
   "items": [
     {
       "title": "[속보] 토트넘, 또 무너졌다! 日 미토마 환상 동점포, 손흥민 친정팀 울...",
@@ -1631,15 +1631,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 진짜 폰세급 외인 떴다! 데뷔 후 17⅓이닝 무실점 위엄→페디 넘...",
-      "link": "http://www.osen.co.kr/article/G1112784433",
-      "pub_date": "2026-04-18T17:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
