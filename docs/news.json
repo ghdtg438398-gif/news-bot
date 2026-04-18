@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 15:55:28",
+  "updated": "2026-04-18 16:00:35",
   "total": 195,
   "breaking": 116,
   "items": [
+    {
+      "title": "[속보] 초대형 다년계약 맺고 \"감독급 스트레스\" 노시환, LG 3연전에 돌아...",
+      "link": "http://www.osen.co.kr/article/G1112784391",
+      "pub_date": "2026-04-18T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "효성가 '형제의 난' 조현준 회장 증인 불출석... 재판 장기화",
       "link": "https://www.insight.co.kr/news/550670",
@@ -1747,15 +1756,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 1%대 강세 마감…S&P500·나스닥 사상 최고치",
-      "link": "https://www.etoday.co.kr/news/view/2576876",
-      "pub_date": "2026-04-18T05:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
