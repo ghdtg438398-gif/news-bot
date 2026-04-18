@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 05:20:26",
-  "total": 99,
+  "updated": "2026-04-19 05:25:25",
+  "total": 98,
   "breaking": 76,
   "items": [
     {
@@ -884,15 +884,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "김민선, KLPGA 넥센·세인트나인 마스터스 2R 단독 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523308&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T19:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
