@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 13:00:36",
-  "total": 189,
-  "breaking": 116,
+  "updated": "2026-04-18 13:05:27",
+  "total": 190,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보]국힘 충남도당, 당진시의원 다선거구 김덕주, 전영옥 확정",
+      "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=111656",
+      "pub_date": "2026-04-18T13:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 오세훈 “서울 내어주면 정권 폭주 막을 마지막 제동장치 사라져...",
       "link": "https://www.segye.com/newsView/20260418504124?OutUrl=naver",
