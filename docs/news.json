@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 23:35:25",
-  "total": 196,
+  "updated": "2026-04-18 23:40:26",
+  "total": 193,
   "breaking": 153,
   "items": [
     {
@@ -1739,33 +1739,6 @@
       "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "좌굴·노반 유실·침수…코레일, 여름철 기후재난 대비 나서",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359505",
-      "pub_date": "2026-04-18T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "드래곤포니, 6월 일본 첫 EP 'Run to Run'으로 데뷔 확정",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532279",
-      "pub_date": "2026-04-18T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 투어 LA 챔피언십 2R 단독 선두…윤이나 3위",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523160&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T13:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
