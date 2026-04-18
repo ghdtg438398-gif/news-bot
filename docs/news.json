@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-18 10:25:31",
-  "total": 140,
-  "breaking": 89,
+  "updated": "2026-04-18 10:30:34",
+  "total": 144,
+  "breaking": 93,
   "items": [
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583198?ref=naver",
+      "pub_date": "2026-04-18T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오 전 성동구청장과 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045358",
+      "pub_date": "2026-04-18T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
+      "pub_date": "2026-04-18T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보 오세훈…민주 정원오와 맞대결",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005082",
+      "pub_date": "2026-04-18T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정...與 정원오와 대결",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269850",
+      "pub_date": "2026-04-18T10:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.ajunews.com/view/20260418102050393",
@@ -40,15 +85,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/18/2026041800016.html",
-      "pub_date": "2026-04-18T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.donga.com/news/Politics/article/all/20260418/133764773/1",
       "pub_date": "2026-04-18T10:20:00+09:00",
@@ -67,6 +103,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/18/2026041800016.html",
+      "pub_date": "2026-04-18T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029697596&code=61111111&cp=nv",
       "pub_date": "2026-04-18T10:19:00+09:00",
@@ -76,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국민의힘 서울시장 후보에 오세훈...與 정원오와 맞대결",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180011",
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…與정원오와 맞대결 성사",
+      "link": "https://www.sedaily.com/article/20034062?ref=naver",
       "pub_date": "2026-04-18T10:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…與정원오와 맞대결 성사",
-      "link": "https://www.sedaily.com/article/20034062?ref=naver",
+      "title": "[속보]국민의힘 서울시장 후보에 오세훈...與 정원오와 맞대결",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180011",
       "pub_date": "2026-04-18T10:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1249,15 +1294,6 @@
       "title": "[속보]'광역 비례대표 확대·광역의회 중대선거구제 도입' 법안 국회 본...",
       "link": "https://www.newsis.com/view/NISX20260417_0003596352",
       "pub_date": "2026-04-18T00:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란, 호르무즈 다시는 폐쇄 않기로 합의”",
-      "link": "https://www.hani.co.kr/arti/international/america/1254785.html",
-      "pub_date": "2026-04-18T00:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
