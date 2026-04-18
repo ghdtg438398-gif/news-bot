@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 08:50:27",
-  "total": 93,
+  "updated": "2026-04-19 08:54:29",
+  "total": 94,
   "breaking": 57,
   "items": [
+    {
+      "title": "[속보] 靑, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
+      "link": "https://www.news1.kr/politics/president/6141154",
+      "pub_date": "2026-04-19T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012513",
+      "pub_date": "2026-04-19T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "익산 단독주택서 불…50대 거주자 숨져",
+      "link": "https://www.nocutnews.co.kr/news/6504508?utm_source=naver&utm_medium=article&utm_campaign=20260419085101",
+      "pub_date": "2026-04-19T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "케빈 듀란트 갑작스런 결장. 구체적 이유 밝혀졌다. \"팀동료와 훈련 도...",
       "link": "https://www.sportschosun.com/basketball/2026-04-19/202604190100125450008185",
@@ -817,24 +844,6 @@
       "title": "[속보] 트럼프 \"이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418225430SUr",
       "pub_date": "2026-04-18T22:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418225148vq6",
-      "pub_date": "2026-04-18T22:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418057500071?input=1195m",
-      "pub_date": "2026-04-18T22:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
