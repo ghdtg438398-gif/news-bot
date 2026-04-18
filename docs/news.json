@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 11:30:33",
-  "total": 162,
-  "breaking": 100,
+  "updated": "2026-04-18 11:35:29",
+  "total": 165,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[속보] '이러면 감독이 김혜성 싫어할 수가 없지!'…KIM, 2G 연속 안타 터...",
+      "link": "https://www.xportsnews.com/article/2138362",
+      "pub_date": "2026-04-18T11:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 송언석 “정동영 ‘가벼운 입’이 한미관계 훼손”",
+      "link": "https://www.segye.com/newsView/20260418503695?OutUrl=naver",
+      "pub_date": "2026-04-18T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 송언석, 정동영 향해 \"외교적 대형사고…경질해야\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045362",
+      "pub_date": "2026-04-18T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'형제의 난' 조현준 효성 회장, 재판 불출석...8월 재지정",
       "link": "http://www.fnnews.com/news/202604171530318902",
@@ -112,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583201?ref=naver",
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.etnews.com/20260418000040",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.etnews.com/20260418000040",
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583201?ref=naver",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
