@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 20:40:28",
+  "updated": "2026-04-18 20:45:29",
   "total": 200,
   "breaking": 151,
   "items": [
+    {
+      "title": "[속보]로또 1220회 당첨번호 2·22·25·28·34·43…보너스 16",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03732646645417432",
+      "pub_date": "2026-04-18T20:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김동현, 넷째 임신 2주 만에 정관수술 발표..\"네 명이면 많아\"('놀토')[순...",
+      "link": "http://www.osen.co.kr/article/G1112784666",
+      "pub_date": "2026-04-18T20:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란 혁명수비대, 호르무즈서 유조선에 발포”",
+      "link": "https://www.dailian.co.kr/news/view/1635131/?sc=Naver",
+      "pub_date": "2026-04-18T20:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선 발포\"…선박·승무원...",
       "link": "http://www.fnnews.com/news/202604182028399413",
@@ -16,6 +43,15 @@
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260418.99099005105",
       "pub_date": "2026-04-18T20:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“이란 혁명수비대, 유조선에 발포”…모즈타바 “적에 쓰라린 패...",
+      "link": "https://www.donga.com/news/Inter/article/all/20260418/133765286/2",
+      "pub_date": "2026-04-18T20:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -1766,42 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
-      "pub_date": "2026-04-18T11:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미중 정상회담 특별할 것…역사적 만남 될 수도\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418114042oPg",
-      "pub_date": "2026-04-18T11:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"시진핑, 호르무즈 해협 개방에 매우 기뻐해\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418113955t1c",
-      "pub_date": "2026-04-18T11:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
-      "pub_date": "2026-04-18T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
