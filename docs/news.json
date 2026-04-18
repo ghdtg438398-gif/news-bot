@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-19 07:00:52",
-  "total": 70,
-  "breaking": 45,
+  "updated": "2026-04-19 07:05:28",
+  "total": 72,
+  "breaking": 46,
   "items": [
+    {
+      "title": "[속보] 이정후, 이걸 쳐? 타격감 완전히 물올랐다! 떨어지는 공 걷어내...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553149447",
+      "pub_date": "2026-04-19T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "韓 1분기 성장률 얼마나...케빈 워시 청문회 주목[한동훈의 위클리전망...",
+      "link": "https://www.sedaily.com/article/20034132?ref=naver",
+      "pub_date": "2026-04-19T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'2891일의 기다림' 다시 우승 앞에 섰다, 권성열 \"간절할수록 안 되더라...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041812582251050",
+      "pub_date": "2026-04-19T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
+      "link": "https://www.hankyung.com/article/2026041901067",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[글로벌 경제지표] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 관...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000304718?division=NAVER",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[10년 전 그날] 이서현, 공식석상 첫 연설",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249250",
@@ -31,21 +76,21 @@
       "is_scoop": false
     },
     {
-      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
       "link": "https://www.khan.co.kr/article/202604190658001",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
+      "pub_date": "2026-04-19T06:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -67,7 +112,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사…11일만에 또 도발",
+      "title": "[속보] 북한, 동해상으로 탄도미사일 발사…올해 7번째 도발",
       "link": "https://www.kyeonggi.com/article/20260419580005",
       "pub_date": "2026-04-19T06:53:00+09:00",
       "source_id": "yna",
@@ -601,33 +646,6 @@
       "title": "[속보] 하메네이 \"이란 해군, 적에 새 패배 안길 준비\"",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260418210700KlK",
       "pub_date": "2026-04-18T21:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "수원 장안구 연무동 화재 발생… \"접근 자제 및 창문 폐쇄\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560421",
-      "pub_date": "2026-04-18T21:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하메네이 \"용맹한 이란 해군, 적에 쓰라린 패배 안길 준비 완료...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041820555551965",
-      "pub_date": "2026-04-18T21:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란, 호르무즈 해협 다시 폐쇄 조치... 선박들 회항",
-      "link": "http://www.fnnews.com/news/202604182100363984",
-      "pub_date": "2026-04-18T21:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
