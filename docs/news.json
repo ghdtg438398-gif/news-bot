@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 08:05:25",
-  "total": 81,
-  "breaking": 52,
+  "updated": "2026-04-19 08:10:26",
+  "total": 84,
+  "breaking": 53,
   "items": [
+    {
+      "title": "'36홀 노보기' 김민선7, 와이어투와이어 우승에 성큼…김민별·전예성과...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019850",
+      "pub_date": "2026-04-19T08:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"5타 줄인 66타\" 김시우, RBC 헤리티지 공동 3위로 우승 도전",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038538",
+      "pub_date": "2026-04-19T08:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "낙관론 속 엄습한 '재봉쇄 위기'…트럼프, 백악관 상황실서 긴급 대응",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217646",
+      "pub_date": "2026-04-19T08:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "한국 로컬이 원하는 K팝을 들려주는, 동급 최강자 에이핑크[파고들기]",
       "link": "https://www.nocutnews.co.kr/news/6504503?utm_source=naver&utm_medium=article&utm_campaign=20260419080101",
