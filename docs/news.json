@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 09:45:29",
-  "total": 113,
-  "breaking": 62,
+  "updated": "2026-04-18 09:50:30",
+  "total": 108,
+  "breaking": 56,
   "items": [
     {
       "title": "[다음주 경제] 신현송 청문책택보고서 재논의…중동발 악재 속 한국경제...",
@@ -11,6 +11,15 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[LIV] 김민규, 멕시코 대회 2R 단독 9위…이태훈 공동 6위",
+      "link": "https://www.newspim.com/news/view/20260418000022",
+      "pub_date": "2026-04-18T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[기원상컬럼] \"길이 없으면 만든다\" SK해운 홍해 돌파, 정부·기업 합작...",
@@ -76,8 +85,8 @@
       "is_scoop": true
     },
     {
-      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
-      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
+      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
+      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
+      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -961,60 +970,6 @@
       "title": "[속보]영국·프랑스 “호르무즈, 영구 개방돼야...12개국 방어임무 참여...",
       "link": "https://www.sedaily.com/article/20034041?ref=naver",
       "pub_date": "2026-04-17T23:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시는 봉쇄 않기로 합의\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140766",
-      "pub_date": "2026-04-17T23:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]英 \"호르무즈 제한없이 개방돼야…항행의 자유 임무에 12개국 참여...",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596455",
-      "pub_date": "2026-04-17T23:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140764",
-      "pub_date": "2026-04-17T23:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란, 호르무즈 해협 다시는 폐쇄하지 않기로 합의” ...",
-      "link": "https://www.chosun.com/international/international_general/2026/04/17/HZYJC7FRKFEOPACFJVBGB4TFXM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-17T23:47:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.news1.kr/world/usa-canada/6140763",
-      "pub_date": "2026-04-17T23:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시 폐쇄하지 않기로 합의\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394566",
-      "pub_date": "2026-04-17T23:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
