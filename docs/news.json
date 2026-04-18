@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 16:45:31",
-  "total": 186,
+  "updated": "2026-04-18 16:50:28",
+  "total": 185,
   "breaking": 113,
   "items": [
     {
@@ -1665,15 +1665,6 @@
       "pub_date": "2026-04-18T06:54:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰서 방문한 네덜란드 공주",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560209",
-      "pub_date": "2026-04-18T06:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
