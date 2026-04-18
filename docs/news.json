@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 05:05:25",
-  "total": 106,
-  "breaking": 80,
+  "updated": "2026-04-19 05:10:30",
+  "total": 103,
+  "breaking": 78,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -928,33 +928,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "삼성, 파죽의 7연승+단독 선두 질주!…'헤드샷 악재'까지 이겨냈다→홈...",
-      "link": "https://www.xportsnews.com/article/2138488",
-      "pub_date": "2026-04-18T19:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 민주당 제주지사 후보 위성곤 확정",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698673&code=61122027&cp=nv",
-      "pub_date": "2026-04-18T19:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 위성곤, 민주당 제주도지사 후보 선출… 국힘 문성유와 대결",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041819055396742",
-      "pub_date": "2026-04-18T19:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
