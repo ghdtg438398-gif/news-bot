@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:40:26",
-  "total": 115,
-  "breaking": 87,
+  "updated": "2026-04-19 04:45:26",
+  "total": 111,
+  "breaking": 84,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1000,42 +1000,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
-      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419806",
-      "pub_date": "2026-04-18T18:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 “호르무즈 통제 재개”…미국과 충돌 격화",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418508&PRO_CODE=99",
-      "pub_date": "2026-04-18T18:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "https://www.dt.co.kr/article/12058071?ref=naver",
-      "pub_date": "2026-04-18T18:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미·이란 2차 담판 임박...트럼프 \"합의 안 되면 폭격 재개\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604181841073520",
-      "pub_date": "2026-04-18T18:41:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
