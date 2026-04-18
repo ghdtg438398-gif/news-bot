@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:25:25",
-  "total": 124,
-  "breaking": 95,
+  "updated": "2026-04-19 04:30:30",
+  "total": 121,
+  "breaking": 93,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1091,33 +1091,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "https://www.viva100.com/article/20260418500157",
-      "pub_date": "2026-04-18T18:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"호르무즈 해협 다시 통제… 미국 계속 해적행위\"",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=701862",
-      "pub_date": "2026-04-18T18:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산 사상구 단독주택 화재…70대 남성 사망",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523259&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T18:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
