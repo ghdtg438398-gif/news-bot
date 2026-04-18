@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 20:55:25",
+  "updated": "2026-04-18 21:00:34",
   "total": 200,
   "breaking": 151,
   "items": [
@@ -13,7 +13,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 1220회 로또 1등 ‘2, 22, 25, 28, 34, 43’",
+      "title": "[속보] 로또 1등 14명, 21억1000만원씩…‘2, 22, 25, 28, 34, 43’",
       "link": "https://www.mk.co.kr/article/12020830",
       "pub_date": "2026-04-18T20:48:00+09:00",
       "source_id": "mk",
@@ -229,20 +229,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란 혁명수비대 군함 2척, 호르무즈서 유조선에 발포”",
-      "link": "https://www.chosun.com/international/2026/04/18/AY4TFYWDTRCCFIOP324ULYBVXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-18T20:14:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]영국 해사무역기구 \"이란 혁명수비대, 호르무즈 인근서 유조선 공...",
       "link": "https://www.mt.co.kr/world/2026/04/18/2026041820140176440",
       "pub_date": "2026-04-18T20:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란 혁명수비대 군함 2척, 호르무즈서 유조선에 발포”",
+      "link": "https://www.chosun.com/international/2026/04/18/AY4TFYWDTRCCFIOP324ULYBVXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-18T20:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
