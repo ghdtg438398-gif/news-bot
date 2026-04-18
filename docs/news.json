@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 17:15:28",
-  "total": 178,
-  "breaking": 113,
+  "updated": "2026-04-18 17:20:28",
+  "total": 177,
+  "breaking": 112,
   "items": [
+    {
+      "title": "[단독] 박정민·고현정, 변영주 감독 '당신의 과녁' 캐스팅",
+      "link": "https://news.jtbc.co.kr/article/NB12294812?influxDiv=NAVER",
+      "pub_date": "2026-04-18T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 진짜 폰세급 외인 떴다! 데뷔 후 17⅓이닝 무실점 위엄→페디 넘...",
       "link": "http://www.osen.co.kr/article/G1112784433",
@@ -1584,24 +1593,6 @@
       "pub_date": "2026-04-18T07:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, RBC 헤리티지 2R 공동 7위↑…임성재는 35위 [PGA 시그니처]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019832",
-      "pub_date": "2026-04-18T07:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]호르무즈 개방...S&P500·나스닥, 사상 최고",
-      "link": "https://magazine.hankyung.com/business/article/202604189422b",
-      "pub_date": "2026-04-18T07:18:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
