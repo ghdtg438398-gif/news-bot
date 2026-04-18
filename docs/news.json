@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 12:45:27",
-  "total": 187,
-  "breaking": 114,
+  "updated": "2026-04-18 12:50:29",
+  "total": 188,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 금강터널서 화물차·승용차·SUV 등 연쇄추돌...인명 피해 확인중",
+      "link": "https://www.newspim.com/news/view/20260418000043",
+      "pub_date": "2026-04-18T12:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "유명 맛집이라 믿었는데…‘육우를 한우로’ 4년간 속인 업주, 결국",
       "link": "https://biz.heraldcorp.com/article/10720129?ref=naver",
