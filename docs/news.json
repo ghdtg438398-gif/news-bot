@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-18 09:55:29",
-  "total": 104,
-  "breaking": 52,
+  "updated": "2026-04-18 10:00:35",
+  "total": 102,
+  "breaking": 50,
   "items": [
     {
-      "title": "[속보]트럼프, 이번엔 UFO 언급...\"흥미있는 자료 발견…곧 공개\"",
+      "title": "[속보] 트럼프, 이번엔 UFO 언급…“흥미로운 자료 곧 공개”",
+      "link": "https://www.segye.com/newsView/20260418503045?OutUrl=naver",
+      "pub_date": "2026-04-18T09:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 이번엔 UFO 언급...\"흥미있는 자료 발견, 곧 공개\"",
       "link": "https://magazine.hankyung.com/business/article/202604189557b",
       "pub_date": "2026-04-18T09:52:00+09:00",
       "source_id": "hankyung",
@@ -910,33 +919,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란, 호르무즈 재봉쇄 않는데 동의…이제 무기화 안해\"",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596458",
-      "pub_date": "2026-04-17T23:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘광역 비례대표 확대·광주 광역의회 중대선거구제 도입’ 국회...",
-      "link": "https://www.joongang.co.kr/article/25421143",
-      "pub_date": "2026-04-17T23:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 해협 다시는 봉쇄 않기로 합의\"",
-      "link": "https://www.hankyung.com/article/2026041793027",
-      "pub_date": "2026-04-17T23:56:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
