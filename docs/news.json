@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 00:00:39",
-  "total": 193,
-  "breaking": 151,
+  "updated": "2026-04-19 00:05:25",
+  "total": 192,
+  "breaking": 150,
   "items": [
     {
       "title": "신한카드 오프라인 결제 '일시 장애'…1시간 만에 복구에도 '이용자 불...",
@@ -1728,15 +1728,6 @@
       "pub_date": "2026-04-18T14:18:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘식비 대납’ 의혹에 깊어지는 민주당 내홍… 안호영 “회유·...",
-      "link": "https://www.munhwa.com/article/11583218?ref=naver",
-      "pub_date": "2026-04-18T14:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
