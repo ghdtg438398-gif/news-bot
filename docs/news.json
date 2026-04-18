@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 07:10:29",
-  "total": 75,
-  "breaking": 47,
+  "updated": "2026-04-19 07:15:31",
+  "total": 76,
+  "breaking": 49,
   "items": [
+    {
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
+      "link": "https://biz.heraldcorp.com/article/10720228?ref=naver",
+      "pub_date": "2026-04-19T07:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]하루만에 막힌 호르무즈 해협…이란 “18일 저녁부터 폐쇄”",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260419.99099005117",
+      "pub_date": "2026-04-19T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김시우, RBC 헤리티지 3위로 '우승 경쟁'…임성재는 3R 41위 [PGA 시그니...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019848",
@@ -22,7 +40,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]IMF \"한국, 나라빚 빠르게 늘어...내년 56.6%\"",
+      "title": "[속보]IMF \"한국, 나라빚 빠르게 늘어...내년 부채 비율 56.6%\"",
       "link": "https://magazine.hankyung.com/business/article/202604190105b",
       "pub_date": "2026-04-19T07:05:00+09:00",
       "source_id": "hankyung",
@@ -58,11 +76,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
-      "link": "https://www.hankyung.com/article/2026041901067",
+      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
       "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -76,11 +94,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
+      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
+      "link": "https://www.hankyung.com/article/2026041901067",
       "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -103,12 +121,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
-      "link": "https://www.sedaily.com/article/20034137?ref=naver",
+      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -121,12 +139,12 @@
       "is_scoop": false
     },
     {
-      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
+      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
+      "link": "https://www.sedaily.com/article/20034137?ref=naver",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -666,15 +684,6 @@
       "pub_date": "2026-04-18T21:23:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI상보] KT, 안우진 등판 키움에 4-2 승리…보쉴리 22이닝 무실점 대기...",
-      "link": "https://www.newspim.com/news/view/20260418000090",
-      "pub_date": "2026-04-18T21:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
