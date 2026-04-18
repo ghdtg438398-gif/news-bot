@@ -1,21 +1,21 @@
 {
-  "updated": "2026-04-19 08:25:30",
-  "total": 88,
+  "updated": "2026-04-19 08:30:31",
+  "total": 89,
   "breaking": 57,
   "items": [
+    {
+      "title": "호주, '태양광 발전 아파트'로 가계 에너지 혁명 성취",
+      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=164014",
+      "pub_date": "2026-04-19T08:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]북한, 11일 만에 또 탄도미사일 도발…동해상으로 수 발 발사",
       "link": "https://www.kwnews.co.kr/page/view/2026041950009300000",
       "pub_date": "2026-04-19T08:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.newspim.com/news/view/20260419000005",
-      "pub_date": "2026-04-19T08:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -27,6 +27,15 @@
       "pub_date": "2026-04-19T08:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.newspim.com/news/view/20260419000005",
+      "pub_date": "2026-04-19T08:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
