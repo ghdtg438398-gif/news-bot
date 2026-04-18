@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 07:15:31",
+  "updated": "2026-04-19 07:20:27",
   "total": 76,
   "breaking": 49,
   "items": [
@@ -121,21 +121,21 @@
       "is_scoop": false
     },
     {
-      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
       "link": "https://www.khan.co.kr/article/202604190658001",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
+      "pub_date": "2026-04-19T06:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -214,8 +214,8 @@
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539648&ref=A",
       "pub_date": "2026-04-19T06:46:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
