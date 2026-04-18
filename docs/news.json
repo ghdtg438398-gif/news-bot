@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 17:20:28",
+  "updated": "2026-04-18 17:25:28",
   "total": 177,
-  "breaking": 112,
+  "breaking": 110,
   "items": [
+    {
+      "title": "'4회 5득점 빅이닝'…삼성, LG 제압하고 7연승 단독 1위",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038281",
+      "pub_date": "2026-04-18T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "\"보호선수 5인 고심\"…흥국생명, 정호영 보상 규정에 촉각",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038280",
+      "pub_date": "2026-04-18T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 박정민·고현정, 변영주 감독 '당신의 과녁' 캐스팅",
       "link": "https://news.jtbc.co.kr/article/NB12294812?influxDiv=NAVER",
@@ -1576,24 +1594,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] CNN \"2차 종전협상, 월요일 파키스탄에서 개최\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604180724421320",
-      "pub_date": "2026-04-18T07:24:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하룻밤 새 11% 급락…투심 역시 \"전면개방\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180220&t=NN",
-      "pub_date": "2026-04-18T07:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
