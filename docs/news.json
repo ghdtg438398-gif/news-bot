@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:20:26",
-  "total": 133,
-  "breaking": 104,
+  "updated": "2026-04-19 04:25:25",
+  "total": 124,
+  "breaking": 95,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1118,87 +1118,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 이란 “호르무즈 해협 통제 재개…미국이 해적행위 계속해\"",
-      "link": "https://www.kyeonggi.com/article/20260418580096",
-      "pub_date": "2026-04-18T18:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 '제주지사 후보'에 위성곤…문대림 탈락",
-      "link": "https://news.tf.co.kr/read/ptoday/2314641.htm",
-      "pub_date": "2026-04-18T18:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
-      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
-      "pub_date": "2026-04-18T18:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
-      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
-      "pub_date": "2026-04-18T18:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 제주지사 후보에 위성곤 확정",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523255&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T18:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 제주지사 후보로 위성곤 확정...문대림 탈락",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604181822136144",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
-      "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318478",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 16개 시도광역단체장 공천 완료…현역 전원 ‘물갈이’",
-      "link": "https://www.sedaily.com/article/20034105?ref=naver",
-      "pub_date": "2026-04-18T18:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
