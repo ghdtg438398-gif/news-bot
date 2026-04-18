@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 02:20:26",
-  "total": 185,
+  "updated": "2026-04-19 02:25:23",
+  "total": 184,
   "breaking": 146,
   "items": [
     {
@@ -1657,15 +1657,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "후반 35분 왼발 결승골…수원 삼성, 경남 꺾고 선두 추격",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038253",
-      "pub_date": "2026-04-18T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
