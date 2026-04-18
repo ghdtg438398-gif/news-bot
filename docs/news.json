@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 06:05:28",
-  "total": 70,
-  "breaking": 44,
+  "updated": "2026-04-19 06:10:27",
+  "total": 68,
+  "breaking": 43,
   "items": [
     {
       "title": "'36홀 선두일 때 승률 좋은' 김세영, LA 챔피언십 2R 단독1위 [LPGA]",
@@ -610,24 +610,6 @@
       "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370049",
       "pub_date": "2026-04-18T20:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'22이닝 무자책' 보쉴리, kt 4연승·단독 2위 견인",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038331",
-      "pub_date": "2026-04-18T20:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.sedaily.com/article/20034112?ref=naver",
-      "pub_date": "2026-04-18T20:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
