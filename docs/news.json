@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:05:25",
-  "total": 155,
-  "breaking": 125,
+  "updated": "2026-04-19 04:10:25",
+  "total": 152,
+  "breaking": 122,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1366,33 +1366,6 @@
       "title": "[속보] 이란 군부 “호르무즈 해협 통제 재개”…“미국 봉쇄 지속에 대...",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260418.99099005102",
       "pub_date": "2026-04-18T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란, 호르무즈 해협 통제 재개… \"미국 해적 행위에 맞대응\"",
-      "link": "https://economist.co.kr/article/view/ecn202604180019",
-      "pub_date": "2026-04-18T18:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"호르무즈 해협 다시 통제···미군 봉쇄 해제 요구\"",
-      "link": "https://magazine.hankyung.com/business/article/202604189848b",
-      "pub_date": "2026-04-18T18:09:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 군부 \"호르무즈 해협, 다시 통제한다… 美 해적 행위 탓\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026041818000001600?did=NA",
-      "pub_date": "2026-04-18T18:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
