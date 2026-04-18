@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 11:15:29",
-  "total": 161,
+  "updated": "2026-04-18 11:20:31",
+  "total": 162,
   "breaking": 100,
   "items": [
+    {
+      "title": "'형제의 난' 조현준 효성 회장, 재판 불출석...8월 재지정",
+      "link": "http://www.fnnews.com/news/202604171530318902",
+      "pub_date": "2026-04-18T11:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 송언석 “정동영 경질해야…‘가벼운 입’이 한미관계 훼손”",
       "link": "https://www.munhwa.com/article/11583204?ref=naver",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583201?ref=naver",
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.etnews.com/20260418000040",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.etnews.com/20260418000040",
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583201?ref=naver",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,20 +184,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
-      "link": "https://www.mk.co.kr/article/12020640",
-      "pub_date": "2026-04-18T10:32:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
       "pub_date": "2026-04-18T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
+      "link": "https://www.mk.co.kr/article/12020640",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
-      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
+      "link": "https://economist.co.kr/article/view/ecn202604180006",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
-      "link": "https://economist.co.kr/article/view/ecn202604180006",
+      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
+      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
+      "title": "[속보] 국힘 서울시장 후보 오세훈…민주 정원오와 맞대결",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005082",
       "pub_date": "2026-04-18T10:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보 오세훈…민주 정원오와 맞대결",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005082",
+      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
       "pub_date": "2026-04-18T10:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
