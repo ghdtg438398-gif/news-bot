@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 08:35:27",
-  "total": 90,
-  "breaking": 57,
+  "updated": "2026-04-19 08:40:32",
+  "total": 92,
+  "breaking": 58,
   "items": [
+    {
+      "title": "[아주사설 | 기본 원칙 상식] 호르무즈 봉쇄, 협상은 진행되지만 시장은...",
+      "link": "https://www.ajunews.com/view/20260419082934551",
+      "pub_date": "2026-04-19T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045400",
+      "pub_date": "2026-04-19T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "호르무즈 재봉쇄 선언에 트럼프 대응 고심…전쟁 재개 갈림길",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038555",
