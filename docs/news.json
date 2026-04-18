@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 13:10:29",
-  "total": 190,
-  "breaking": 117,
+  "updated": "2026-04-18 13:15:30",
+  "total": 189,
+  "breaking": 116,
   "items": [
     {
       "title": "[속보]국힘 충남도당, 당진시의원 다선거구 김덕주, 전영옥 확정",
@@ -1702,15 +1702,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구윤철 부총리, 중동전쟁 속 경제 안정 위한 긴급 대책 주도",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560114",
-      "pub_date": "2026-04-18T03:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
