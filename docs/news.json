@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 08:10:26",
-  "total": 84,
-  "breaking": 53,
+  "updated": "2026-04-19 08:15:30",
+  "total": 86,
+  "breaking": 55,
   "items": [
+    {
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
+      "link": "https://magazine.hankyung.com/business/article/202604190218b",
+      "pub_date": "2026-04-19T08:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260419081046QLS",
+      "pub_date": "2026-04-19T08:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'36홀 노보기' 김민선7, 와이어투와이어 우승에 성큼…김민별·전예성과...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019850",
