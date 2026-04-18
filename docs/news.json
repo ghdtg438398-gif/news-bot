@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-18 11:35:29",
-  "total": 165,
+  "updated": "2026-04-18 11:40:32",
+  "total": 167,
   "breaking": 103,
   "items": [
     {
-      "title": "[속보] '이러면 감독이 김혜성 싫어할 수가 없지!'…KIM, 2G 연속 안타 터...",
+      "title": "[속보] 10대 의붓딸 성폭행하며 “교육한 것”… 무직 40대男, 친딸도 학...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/18/20260418500023?wlog_tag3=naver",
+      "pub_date": "2026-04-18T11:36:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "pub_date": "2026-04-18T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "pub_date": "2026-04-18T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]오세훈, 국힘 서울시장 후보 확정…정원오와 서울시장 승부",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850007600000",
+      "pub_date": "2026-04-18T11:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이래도 김혜성 안 좋아 할거야?'…KIM, 2G 연속 안타 터졌다→볼...",
       "link": "https://www.xportsnews.com/article/2138362",
       "pub_date": "2026-04-18T11:33:00+09:00",
       "source_id": "yna",
@@ -121,21 +157,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합수본, 박왕열 외조카 '흰수염고래' 필리핀서 조사",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045359",
-      "pub_date": "2026-04-18T10:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "육우 스테이크를 한우로 표시... 4년간 손님 속인 레스토랑 업주",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523102&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-18T10:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합수본, 박왕열 외조카 '흰수염고래' 필리핀서 조사",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045359",
+      "pub_date": "2026-04-18T10:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1465,24 +1501,6 @@
       "title": "[속보]트럼프 \"이란과 주말 회담…하루이틀 내 합의 이뤄질 것\"",
       "link": "https://www.newsis.com/view/NISX20260418_0003596474",
       "pub_date": "2026-04-18T01:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美·이란, 아마 이번 주말 회담…하루 이틀 내 합의\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418013923Sie",
-      "pub_date": "2026-04-18T01:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美·이란, 아마 이번주말 회담…하루이틀내 합의\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418002800071?input=1195m",
-      "pub_date": "2026-04-18T01:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
