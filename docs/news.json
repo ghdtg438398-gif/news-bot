@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 03:50:26",
-  "total": 161,
-  "breaking": 130,
+  "updated": "2026-04-19 03:55:24",
+  "total": 159,
+  "breaking": 128,
   "items": [
+    {
+      "title": "수원 연무동 다세대주택 화재...주민 11명 긴급 대피",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560456",
+      "pub_date": "2026-04-19T03:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 토트넘, 또 무너졌다! 日 미토마 환상 동점포, 손흥민 친정팀 울...",
       "link": "https://www.xportsnews.com/article/2138662",
@@ -1423,33 +1432,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘미쳤다’ 韓 45년 최초 대기록 탄생! 데뷔 후 20이닝 무실점 실...",
-      "link": "http://www.osen.co.kr/article/G1112784480",
-      "pub_date": "2026-04-18T17:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]배현진, 장동혁 향해 “미국서 돌아오면 후보들을 위해서라도 본...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850023400000",
-      "pub_date": "2026-04-18T17:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"호르무즈 해협 다시 통제...美, 해적질\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180290&t=NN",
-      "pub_date": "2026-04-18T17:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
