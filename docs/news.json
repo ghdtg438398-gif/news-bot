@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 17:00:37",
-  "total": 181,
+  "updated": "2026-04-18 17:05:25",
+  "total": 179,
   "breaking": 113,
   "items": [
     {
@@ -1613,24 +1613,6 @@
       "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "중동전쟁 여파 속 반도체 슈퍼사이클…1분기 성장률은[한은 미리보기]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01889286645417432",
-      "pub_date": "2026-04-18T07:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '1분 컷 사망' 장현성 \"'왕사남' 잘 될 줄 몰라, 장항준 정산 받...",
-      "link": "https://www.xportsnews.com/article/2138088",
-      "pub_date": "2026-04-18T07:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
