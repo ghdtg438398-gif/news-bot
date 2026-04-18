@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 13:20:31",
-  "total": 189,
-  "breaking": 116,
+  "updated": "2026-04-18 13:25:25",
+  "total": 191,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[AI프리뷰] 18일 대구 LG-삼성전, '사자 천적' 임찬규, 삼성 7연승 저지할...",
+      "link": "https://www.newspim.com/news/view/20260418000045",
+      "pub_date": "2026-04-18T13:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “22일까지 합의 안되면 휴전연장 안하고 폭격할 수도”",
+      "link": "https://www.dt.co.kr/article/12058062?ref=naver",
+      "pub_date": "2026-04-18T13:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]국힘 충남도당, 당진시의원 다선거구 김덕주, 전영옥 확정",
       "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=111656",
