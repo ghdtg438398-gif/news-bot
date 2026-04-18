@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 11:55:28",
-  "total": 173,
-  "breaking": 108,
+  "updated": "2026-04-18 12:00:39",
+  "total": 172,
+  "breaking": 107,
   "items": [
     {
       "title": "[속보] \"부산 게스트하우스서 성추행\" 中여성 주장 일파만파…경찰 수사",
@@ -1549,15 +1549,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란과 주말 회담…하루이틀 내 합의 이뤄질 것\"",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596474",
-      "pub_date": "2026-04-18T01:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
