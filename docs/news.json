@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 16:15:30",
-  "total": 192,
-  "breaking": 114,
+  "updated": "2026-04-18 16:20:29",
+  "total": 191,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[종합] 안성 금강터널서 5중 추돌...중상자 2명 헬기 이송·10명 경상",
+      "link": "https://www.newspim.com/news/view/20260418000066",
+      "pub_date": "2026-04-18T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한동훈, 조국 겨냥 “끝까지 반성 안 해…부산시민 용납 안 할 것...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850020800000",
+      "pub_date": "2026-04-18T16:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 초대형 다년계약 맺고 \"감독급 스트레스\" 노시환, LG 3연전에 돌아...",
       "link": "http://www.osen.co.kr/article/G1112784391",
@@ -1702,33 +1720,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539366&ref=A",
-      "pub_date": "2026-04-18T06:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가, 급락…WTI 11%↓ㆍ브렌트 9%↓",
-      "link": "https://www.etoday.co.kr/news/view/2576877",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 추경호·유영하,국힘 대구시장 후보 최종 경선",
-      "link": "https://www.kbsm.net/news/view.php?idx=516399",
-      "pub_date": "2026-04-18T06:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
