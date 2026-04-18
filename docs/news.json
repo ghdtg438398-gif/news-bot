@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 18:30:33",
+  "updated": "2026-04-18 18:35:27",
   "total": 200,
-  "breaking": 150,
+  "breaking": 151,
   "items": [
+    {
+      "title": "[속보]與 제주지사 후보에 위성곤, 민주 16개 광역단체장 후보 공천 마무...",
+      "link": "https://www.munhwa.com/article/11583239?ref=naver",
+      "pub_date": "2026-04-18T18:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 제주지사 후보 위성곤 확정",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333861",
+      "pub_date": "2026-04-18T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 제주지사 후보 위성곤…민주 광역단체장 공천 끝",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765247/2",
+      "pub_date": "2026-04-18T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
       "link": "https://www.viva100.com/article/20260418500157",
@@ -76,15 +103,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
       "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318478",
       "pub_date": "2026-04-18T18:22:00+09:00",
@@ -94,7 +112,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
+      "pub_date": "2026-04-18T18:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 16개 시도광역단체장 공천 완료…현역 전원 ‘물갈이’",
       "link": "https://www.sedaily.com/article/20034105?ref=naver",
       "pub_date": "2026-04-18T18:21:00+09:00",
       "source_id": "yna",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 기저귀로 얼굴 때리고 신체부위 학대…외국인 간병인 '집유'",
       "link": "https://www.kyeonggi.com/article/20260418580029",
       "pub_date": "2026-04-18T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] UFO 기밀 누설했다며 오바마 비난 트럼프 “흥미있는 자료 발견...",
-      "link": "https://www.munhwa.com/article/11583196?ref=naver",
-      "pub_date": "2026-04-18T10:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 18일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604180005",
-      "pub_date": "2026-04-18T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 외계인 진짜 있나?…트럼프, UFO 자료 공개 예고에 관심 집중",
-      "link": "https://www.segye.com/newsView/20260418503045?OutUrl=naver",
-      "pub_date": "2026-04-18T09:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
