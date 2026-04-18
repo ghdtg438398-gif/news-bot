@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 03:35:25",
-  "total": 177,
-  "breaking": 145,
+  "updated": "2026-04-19 03:40:28",
+  "total": 175,
+  "breaking": 143,
   "items": [
     {
       "title": "[속보] 토트넘, 또 무너졌다! 日 미토마 환상 동점포, 손흥민 친정팀 울...",
@@ -1575,24 +1575,6 @@
       "pub_date": "2026-04-18T17:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전광훈, 보석 후 첫 광화문집회 참석해 \"대한민국 망했다\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045384",
-      "pub_date": "2026-04-18T17:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] AP \"이란군, 호르무즈 다시 통제...미군 봉쇄 해제 요구\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604181737377257",
-      "pub_date": "2026-04-18T17:37:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
