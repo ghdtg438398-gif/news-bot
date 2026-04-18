@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 02:10:27",
-  "total": 187,
-  "breaking": 147,
+  "updated": "2026-04-19 02:15:27",
+  "total": 186,
+  "breaking": 146,
   "items": [
     {
       "title": "4월 18일 모닝 뉴스 헤드라인",
@@ -1675,15 +1675,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한동훈, 조국 겨냥 “끝까지 반성 안 해…부산시민 용납 안 할 것...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850020800000",
-      "pub_date": "2026-04-18T16:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
