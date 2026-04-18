@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 16:05:26",
-  "total": 193,
-  "breaking": 115,
+  "updated": "2026-04-18 16:10:26",
+  "total": 192,
+  "breaking": 114,
   "items": [
     {
       "title": "[속보] 초대형 다년계약 맺고 \"감독급 스트레스\" 노시환, LG 3연전에 돌아...",
@@ -1728,15 +1728,6 @@
       "pub_date": "2026-04-18T06:16:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘, 오늘 서울시장 후보 확정",
-      "link": "https://magazine.hankyung.com/business/article/202604189374b",
-      "pub_date": "2026-04-18T06:06:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
