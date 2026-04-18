@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 12:55:28",
-  "total": 188,
-  "breaking": 115,
+  "updated": "2026-04-18 13:00:36",
+  "total": 189,
+  "breaking": 116,
   "items": [
+    {
+      "title": "[속보] 오세훈 “서울 내어주면 정권 폭주 막을 마지막 제동장치 사라져...",
+      "link": "https://www.segye.com/newsView/20260418504124?OutUrl=naver",
+      "pub_date": "2026-04-18T12:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 금강터널서 화물차·승용차·SUV 등 연쇄추돌...인명 피해 확인중",
       "link": "https://www.newspim.com/news/view/20260418000043",
