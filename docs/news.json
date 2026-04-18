@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 17:35:28",
-  "total": 176,
-  "breaking": 109,
+  "updated": "2026-04-18 17:40:28",
+  "total": 177,
+  "breaking": 110,
   "items": [
+    {
+      "title": "[속보] 전광훈, 보석 후 첫 광화문집회 참석해 \"대한민국 망했다\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045384",
+      "pub_date": "2026-04-18T17:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] AP \"이란군, 호르무즈 다시 통제...미군 봉쇄 해제 요구\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604181737377257",
+      "pub_date": "2026-04-18T17:37:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[AI상보] 오러클린 '헤드샷 퇴장'에도 1위 삼성, 홈에서 LG 꺾고 7연승",
       "link": "https://www.newspim.com/news/view/20260418000076",
@@ -1573,15 +1591,6 @@
       "title": "[속보]트럼프 “이란과 큰 이견 없어 주말 타결 전망…내가 갈 수도”",
       "link": "https://www.dt.co.kr/article/12058053?ref=naver",
       "pub_date": "2026-04-18T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]미-이란 2차 협상 20일 이슬라마바드에서 열린다",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596499",
-      "pub_date": "2026-04-18T07:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
