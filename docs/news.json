@@ -1,12 +1,30 @@
 {
-  "updated": "2026-04-18 12:05:26",
-  "total": 175,
-  "breaking": 110,
+  "updated": "2026-04-18 12:10:32",
+  "total": 178,
+  "breaking": 112,
   "items": [
     {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
-      "pub_date": "2026-04-18T12:01:00+09:00",
+      "title": "[속보] 세종포천고속도로 금광터널 사고…세종 방향 전면 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864007",
+      "pub_date": "2026-04-18T12:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[LPGA] 김세영, 이틀 연속 7언더 몰아쳐 단독 선두…윤이나 3위",
+      "link": "https://www.newspim.com/news/view/20260418000040",
+      "pub_date": "2026-04-18T12:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 트럼프, 이란 관련해 \"꽤 좋은 소식 있어…중동 상황 순조로운 ...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418120411kcP",
+      "pub_date": "2026-04-18T12:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -15,6 +33,15 @@
     {
       "title": "[속보] 트럼프 \"합의 불발시 해협 봉쇄 유지…다시 폭탄 투하할 것\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418120043mDz",
+      "pub_date": "2026-04-18T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
       "pub_date": "2026-04-18T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +76,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
-      "link": "https://www.imaeil.com/page/view/2026041811414264339",
+      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
+      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
+      "link": "https://www.imaeil.com/page/view/2026041811414264339",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
