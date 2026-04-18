@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 22:40:28",
-  "total": 194,
-  "breaking": 147,
+  "updated": "2026-04-18 22:45:25",
+  "total": 192,
+  "breaking": 146,
   "items": [
     {
       "title": "“피해자에 용서받지 못해”… 아내 폭행한 50대, 징역형 집유 [사건수...",
@@ -1729,24 +1729,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 금강터널서 화물차·승용차·SUV 등 연쇄추돌...인명 피해 확인중",
-      "link": "https://www.newspim.com/news/view/20260418000043",
-      "pub_date": "2026-04-18T12:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "유명 맛집이라 믿었는데…‘육우를 한우로’ 4년간 속인 업주, 결국",
-      "link": "https://biz.heraldcorp.com/article/10720129?ref=naver",
-      "pub_date": "2026-04-18T12:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
