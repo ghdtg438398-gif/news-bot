@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 23:55:42",
+  "updated": "2026-04-19 00:00:39",
   "total": 193,
-  "breaking": 152,
+  "breaking": 151,
   "items": [
+    {
+      "title": "신한카드 오프라인 결제 '일시 장애'…1시간 만에 복구에도 '이용자 불...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838219",
+      "pub_date": "2026-04-18T23:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "이란 군부, 외무장관에 경고 날렸다…‘호르무즈 재봉쇄’ 전말",
       "link": "https://www.munhwa.com/article/11583261?ref=naver",
@@ -1726,15 +1735,6 @@
       "title": "[속보] ‘식비 대납’ 의혹에 깊어지는 민주당 내홍… 안호영 “회유·...",
       "link": "https://www.munhwa.com/article/11583218?ref=naver",
       "pub_date": "2026-04-18T14:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 남양주 진접읍 산불 발생…입산 통제에 안전 주의 당부",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864010",
-      "pub_date": "2026-04-18T13:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
