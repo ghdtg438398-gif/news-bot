@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 17:05:25",
-  "total": 179,
-  "breaking": 113,
+  "updated": "2026-04-18 17:09:10",
+  "total": 180,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 진짜 폰세급 외인 떴다! 데뷔 후 17⅓이닝 무실점 위엄→페디 넘...",
+      "link": "http://www.osen.co.kr/article/G1112784433",
+      "pub_date": "2026-04-18T17:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] '내가 교육감 선거 참여단?' 100여명이 본인 삭제 요구",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225892&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
