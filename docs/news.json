@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 19:26:31",
+  "updated": "2026-04-18 19:30:29",
   "total": 200,
   "breaking": 146,
   "items": [
@@ -22,21 +22,21 @@
       "is_scoop": false
     },
     {
-      "title": "[아는기자]엇갈린 여야 표정…현재 대진표?",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524825",
-      "pub_date": "2026-04-18T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 배현진, '방미' 장동혁 향해 \"열흘이나 집 비운 가장…거취 고민...",
       "link": "https://www.imaeil.com/page/view/2026041818385019304",
       "pub_date": "2026-04-18T19:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[아는기자]엇갈린 여야 표정…현재 대진표?",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524825",
+      "pub_date": "2026-04-18T19:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
