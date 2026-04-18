@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 20:35:26",
+  "updated": "2026-04-18 20:40:28",
   "total": 200,
-  "breaking": 150,
+  "breaking": 151,
   "items": [
+    {
+      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선 발포\"…선박·승무원...",
+      "link": "http://www.fnnews.com/news/202604182028399413",
+      "pub_date": "2026-04-18T20:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260418.99099005105",
+      "pub_date": "2026-04-18T20:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[KLPGA] 김민선 넥센·세인트나인 2R 단독 선두...코스 레코드 방신실 4위...",
       "link": "https://www.newspim.com/news/view/20260418000095",
@@ -175,7 +193,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 최고지도자 “이란군, 적에 쓰라린 패배 안길 준비”",
+      "title": "[속보] 이란 최고지도자 “이란군, 적들에 새로운 패배의 쓴맛 안길 준...",
       "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/04/18/20260418500054?wlog_tag3=naver",
       "pub_date": "2026-04-18T20:12:00+09:00",
       "source_id": "seoul",
@@ -211,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.sedaily.com/article/20034112?ref=naver",
-      "pub_date": "2026-04-18T20:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'22이닝 무자책' 보쉴리, kt 4연승·단독 2위 견인",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038331",
       "pub_date": "2026-04-18T20:06:00+09:00",
@@ -227,6 +236,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
+      "link": "https://www.sedaily.com/article/20034112?ref=naver",
+      "pub_date": "2026-04-18T20:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[단독] \"오전까지 무전으로 위협\"‥한국 선박들 움직이지 못해",
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
-      "pub_date": "2026-04-18T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 10대 의붓딸 성폭행하며 “교육한 것”… 무직 40대男, 친딸도 학...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/18/20260418500023?wlog_tag3=naver",
-      "pub_date": "2026-04-18T11:36:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
