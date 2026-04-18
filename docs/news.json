@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 07:30:38",
-  "total": 73,
-  "breaking": 48,
+  "updated": "2026-04-19 07:35:27",
+  "total": 75,
+  "breaking": 49,
   "items": [
+    {
+      "title": "'새 코스레코드 9언더파' 방신실, 단독4위로 '우승 경쟁'…2연패 보인다...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019849",
+      "pub_date": "2026-04-19T07:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 좌파 정상들, 트럼프 맞서 결집했다…“전쟁 반대” 구호",
+      "link": "https://www.dt.co.kr/article/12058098?ref=naver",
+      "pub_date": "2026-04-19T07:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://biz.heraldcorp.com/article/10720228?ref=naver",
@@ -85,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "[글로벌 경제지표] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 관...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000304718?division=NAVER",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
       "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
       "pub_date": "2026-04-19T07:00:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[글로벌 경제지표] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 관...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000304718?division=NAVER",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -130,21 +148,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
-      "link": "https://www.khan.co.kr/article/202604190658001",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
+      "link": "https://www.khan.co.kr/article/202604190658001",
+      "pub_date": "2026-04-19T06:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
