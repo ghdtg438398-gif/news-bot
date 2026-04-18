@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 18:45:32",
+  "updated": "2026-04-18 18:50:28",
   "total": 200,
-  "breaking": 152,
+  "breaking": 151,
   "items": [
+    {
+      "title": "[속보] “일본인이 내 몸에 소변을”…부산 게스트하우스 찾은 중국인 ...",
+      "link": "https://biz.heraldcorp.com/article/10720200?ref=naver",
+      "pub_date": "2026-04-18T18:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김용 \"내란·정치검찰 심판 선거에 출마하는 것은 역풍 아니라 순...",
+      "link": "https://www.kyeonggi.com/article/20260418580090",
+      "pub_date": "2026-04-18T18:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419806",
+      "pub_date": "2026-04-18T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 “호르무즈 통제 재개”…미국과 충돌 격화",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418508&PRO_CODE=99",
@@ -19,6 +46,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "미·이란 2차 담판 임박...트럼프 \"합의 안 되면 폭격 재개\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604181841073520",
+      "pub_date": "2026-04-18T18:41:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -112,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
-      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
+      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
+      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
       "pub_date": "2026-04-18T18:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
-      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
+      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
       "pub_date": "2026-04-18T18:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-18T10:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국민의힘 서울시장 후보 오세훈 확정...정원오와 맞대결",
-      "link": "https://www.mt.co.kr/politics/2026/04/18/2026041809101865459",
-      "pub_date": "2026-04-18T10:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘, 서울시장 후보로 오세훈 확정…정원오와 맞대결",
-      "link": "https://www.hankookilbo.com/news/article/A2026041809590005182?did=NA",
-      "pub_date": "2026-04-18T10:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국민의힘 지방선거 서울시장 후보에 오세훈 선출",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596558",
-      "pub_date": "2026-04-18T10:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 현 서울시장 확정",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816208_36911.html",
-      "pub_date": "2026-04-18T10:10:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
