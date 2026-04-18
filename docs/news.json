@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:35:23",
-  "total": 118,
-  "breaking": 90,
+  "updated": "2026-04-19 04:40:26",
+  "total": 115,
+  "breaking": 87,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1036,33 +1036,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '룸살롱 접대·인플루언서 수사 무마' 의혹 경찰청 간부, 직위해...",
-      "link": "https://www.imaeil.com/page/view/2026041818132481810",
-      "pub_date": "2026-04-18T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]여성 BJ 추행 혐의 유명 걸그룹 멤버 오빠 구속영장, 검찰서 반려",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850011600000",
-      "pub_date": "2026-04-18T18:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 군부 “호르무즈 해협 다시 통제…美해상봉쇄 유지 탓”",
-      "link": "https://www.dt.co.kr/article/12058070?ref=naver",
-      "pub_date": "2026-04-18T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
