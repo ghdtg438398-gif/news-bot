@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 09:30:36",
+  "updated": "2026-04-18 09:35:28",
   "total": 112,
   "breaking": 64,
   "items": [
+    {
+      "title": "[속보]이란 호르무즈 개방 직전 '1조원대' 유가 하락 베팅 '막대한 수익...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180008",
+      "pub_date": "2026-04-18T09:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "환자 짜증낸다고 성기 꼬집어…외국인 간병인 집유",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606645417432",
@@ -13,7 +22,7 @@
       "is_scoop": false
     },
     {
-      "title": "군 복무하면서 4억대 사이버 도박을? 이 남성에게 내려진 건 벌금형",
+      "title": "군 복무하면서 4억대 사이버 도박…이 병사에게 내려진 처벌은?",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523038&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-18T09:26:00+09:00",
       "source_id": "yna",
@@ -85,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "코번트리, 25년 만에 EPL 복귀 잔치…양민혁은 초대받지 못했다",
-      "link": "https://www.newspim.com/news/view/20260418000018",
+      "title": "호르무즈 개방 선언에 유가 11% '뚝'…파나마 운하는 병목",
+      "link": "https://www.g-enews.com/view.php?ud=2026041808292034732bd56fbc3c_1",
       "pub_date": "2026-04-18T08:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "호르무즈 개방 선언에 유가 11% '뚝'…파나마 운하는 병목",
-      "link": "https://www.g-enews.com/view.php?ud=2026041808292034732bd56fbc3c_1",
+      "title": "코번트리, 25년 만에 EPL 복귀 잔치…양민혁은 초대받지 못했다",
+      "link": "https://www.newspim.com/news/view/20260418000018",
       "pub_date": "2026-04-18T08:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -999,15 +1008,6 @@
       "pub_date": "2026-04-17T23:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英 총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
-      "link": "https://www.hankyung.com/article/2026041792927",
-      "pub_date": "2026-04-17T23:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
