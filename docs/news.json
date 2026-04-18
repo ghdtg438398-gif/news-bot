@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 05:55:26",
-  "total": 88,
-  "breaking": 65,
+  "updated": "2026-04-19 06:00:35",
+  "total": 79,
+  "breaking": 56,
   "items": [
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
@@ -709,87 +709,6 @@
       "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
       "link": "https://biz.heraldcorp.com/article/10720207?ref=naver",
       "pub_date": "2026-04-18T20:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "http://www.fnnews.com/news/202604181958293354",
-      "pub_date": "2026-04-18T20:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란軍, 적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://www.imaeil.com/page/view/2026041819584032000",
-      "pub_date": "2026-04-18T19:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
-      "link": "https://biz.heraldcorp.com/article/10720206?ref=naver",
-      "pub_date": "2026-04-18T19:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://biz.chosun.com/international/international_general/2026/04/18/DNZF7WHKZVCKTAJMTIIQI6BLZI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-18T19:58:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604181956409Ky",
-      "pub_date": "2026-04-18T19:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 최고지도자 \"적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://view.asiae.co.kr/article/2026041819561801715",
-      "pub_date": "2026-04-18T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"적에게 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://www.hankyung.com/article/2026041899167",
-      "pub_date": "2026-04-18T19:56:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영국 해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418195606t4E",
-      "pub_date": "2026-04-18T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
-      "link": "https://www.joongang.co.kr/article/25421297",
-      "pub_date": "2026-04-18T19:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
