@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 20:30:34",
+  "updated": "2026-04-18 20:35:26",
   "total": 200,
-  "breaking": 151,
+  "breaking": 150,
   "items": [
+    {
+      "title": "[KLPGA] 김민선 넥센·세인트나인 2R 단독 선두...코스 레코드 방신실 4위...",
+      "link": "https://www.newspim.com/news/view/20260418000095",
+      "pub_date": "2026-04-18T20:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698827&code=61131111&cp=nv",
@@ -148,7 +157,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란 혁명수비대 군함 2척, 오만 해상 유조선에 발포”",
+      "title": "[속보] “이란 혁명수비대 군함 2척, 호르무즈서 유조선에 발포”",
       "link": "https://www.chosun.com/international/2026/04/18/AY4TFYWDTRCCFIOP324ULYBVXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-18T20:14:00+09:00",
       "source_id": "chosun",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]오세훈, 국힘 서울시장 후보 확정…정원오와 서울시장 승부",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850007600000",
-      "pub_date": "2026-04-18T11:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
