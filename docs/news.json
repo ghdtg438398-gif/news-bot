@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 18:55:25",
+  "updated": "2026-04-18 19:00:39",
   "total": 200,
   "breaking": 150,
   "items": [
+    {
+      "title": "[속보] 위성곤, 민주 제주지사 후보 확정…국힘 문성유와 맞대결",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005104",
+      "pub_date": "2026-04-18T18:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독]“혁명수비대, 여전히 무전으로 경고 방송”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524812",
@@ -1789,15 +1798,6 @@
       "title": "[속보]국힘 서울시장 후보에 오세훈 확정…정원오와 맞대결",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366645417432",
       "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…민주 정원오와 맞대결",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539457&ref=A",
-      "pub_date": "2026-04-18T10:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
