@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-18 10:40:30",
-  "total": 156,
-  "breaking": 102,
+  "updated": "2026-04-18 10:45:30",
+  "total": 161,
+  "breaking": 106,
   "items": [
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583201?ref=naver",
+      "pub_date": "2026-04-18T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.etnews.com/20260418000040",
+      "pub_date": "2026-04-18T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…5선 도전",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=118978",
+      "pub_date": "2026-04-18T10:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
+      "link": "https://www.imaeil.com/page/view/2026041810375551949",
+      "pub_date": "2026-04-18T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418502&PRO_CODE=99",
@@ -18,6 +54,15 @@
       "pub_date": "2026-04-18T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "협상 막판 '트럼프 변수'... 직접 가면 곧바로 서명? [Y녹취록]",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604181036018783",
+      "pub_date": "2026-04-18T10:36:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -40,11 +85,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
-      "link": "https://www.mk.co.kr/article/12020640",
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
       "pub_date": "2026-04-18T10:32:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -58,9 +103,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
+      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
+      "link": "https://www.mk.co.kr/article/12020640",
       "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
+      "link": "https://economist.co.kr/article/view/ecn202604180006",
+      "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -69,15 +123,6 @@
     {
       "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
       "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
-      "pub_date": "2026-04-18T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
-      "link": "https://economist.co.kr/article/view/ecn202604180006",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
-      "pub_date": "2026-04-18T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국힘 서울시장 후보 오세훈…민주 정원오와 맞대결",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005082",
       "pub_date": "2026-04-18T10:26:00+09:00",
@@ -148,7 +184,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정",
+      "title": "[속보]트럼프 “미·이란 협상 주말에도 계속…남은 중대 쟁점 많지 않...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850001400000",
+      "pub_date": "2026-04-18T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정...與 정원오와 대결",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269850",
       "pub_date": "2026-04-18T10:25:00+09:00",
       "source_id": "yna",
