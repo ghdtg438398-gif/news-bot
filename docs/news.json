@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 02:40:26",
-  "total": 184,
+  "updated": "2026-04-19 02:45:27",
+  "total": 183,
   "breaking": 146,
   "items": [
     {
@@ -1649,15 +1649,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[프로축구] K리그2 이정효의 수원, 경남 원정 1-0…부산 7연승",
-      "link": "https://www.newspim.com/news/view/20260418000071",
-      "pub_date": "2026-04-18T16:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
