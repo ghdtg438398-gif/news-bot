@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-18 10:20:33",
-  "total": 129,
-  "breaking": 78,
+  "updated": "2026-04-18 10:25:31",
+  "total": 140,
+  "breaking": 89,
   "items": [
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.ajunews.com/view/20260418102050393",
+      "pub_date": "2026-04-18T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈 최종 선정…與정원오와 대결",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524771",
+      "pub_date": "2026-04-18T10:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
+      "link": "https://www.etoday.co.kr/news/view/2576887",
+      "pub_date": "2026-04-18T10:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 서울시장 후보에 오세훈…與정원오와 맞대결",
+      "link": "https://www.nocutnews.co.kr/news/6504446?utm_source=naver&utm_medium=article&utm_campaign=20260418102050",
+      "pub_date": "2026-04-18T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/18/2026041800016.html",
+      "pub_date": "2026-04-18T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133764773/1",
+      "pub_date": "2026-04-18T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 선출…정원오와 맞대결",
+      "link": "https://www.newspim.com/news/view/20260418000029",
+      "pub_date": "2026-04-18T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029697596&code=61111111&cp=nv",
+      "pub_date": "2026-04-18T10:19:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘 서울시장 후보에 오세훈...與 정원오와 맞대결",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180011",
+      "pub_date": "2026-04-18T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…與정원오와 맞대결 성사",
+      "link": "https://www.sedaily.com/article/20034062?ref=naver",
+      "pub_date": "2026-04-18T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "SK하이닉스, HBM4E에 TSMC 3나노 적용…삼성 추격 차단",
       "link": "https://www.sedaily.com/article/20034064?ref=naver",
@@ -10,6 +100,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://view.asiae.co.kr/article/2026041810182977953",
+      "pub_date": "2026-04-18T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -49,35 +148,26 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/18/AZZYWUPXRNFMJED5N7XHOGZBJ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "title": "[속보] 외계인·UFO 진짜 있나...트럼프 \"흥미로운 자료 곧 공개\"",
+      "link": "https://economist.co.kr/article/view/ecn202604180005",
       "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘 서울시장 후보에 오세훈…정원오와 대결",
-      "link": "https://www.khan.co.kr/article/202604181014001",
+      "title": "[속보]정원오 VS 오세훈 확정...서울시장 누가 될까",
+      "link": "https://magazine.hankyung.com/business/article/202604189602b",
       "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.joongang.co.kr/article/25421264",
-      "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 외계인·UFO 진짜 있나...트럼프 \"흥미로운 자료 곧 공개\"",
-      "link": "https://economist.co.kr/article/view/ecn202604180005",
       "pub_date": "2026-04-18T10:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,11 +184,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정원오 VS 오세훈 확정...서울시장 누가 될까",
-      "link": "https://magazine.hankyung.com/business/article/202604189602b",
+      "title": "[속보]국힘 서울시장 후보에 오세훈…민주 정원오와 맞붙는다",
+      "link": "https://www.khan.co.kr/article/202604181014001",
       "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/18/AZZYWUPXRNFMJED5N7XHOGZBJ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-18T10:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -301,7 +400,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 트럼프, 이번엔 UFO 언급…“흥미로운 자료 곧 공개”",
+      "title": "[속보] 외계인 진짜 있나?…트럼프, UFO 자료 공개 예고에 관심 집중",
       "link": "https://www.segye.com/newsView/20260418503045?OutUrl=naver",
       "pub_date": "2026-04-18T09:58:00+09:00",
       "source_id": "yna",
