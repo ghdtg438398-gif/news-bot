@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 15:50:28",
-  "total": 196,
+  "updated": "2026-04-18 15:55:28",
+  "total": 195,
   "breaking": 116,
   "items": [
     {
@@ -1756,15 +1756,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[금주 OTT 신작] '성난사람들', '하트시그널5', '리버스' 등 공개",
-      "link": "https://www.newspim.com/news/view/20260417000907",
-      "pub_date": "2026-04-18T05:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
