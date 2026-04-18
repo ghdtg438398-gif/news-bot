@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 21:50:28",
+  "updated": "2026-04-18 21:55:27",
   "total": 200,
-  "breaking": 150,
+  "breaking": 149,
   "items": [
+    {
+      "title": "이란 군부, 호르무즈 개방 ‘전격 선언’ 외무장관에 ‘불만’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539603&ref=A",
+      "pub_date": "2026-04-18T21:44:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "광주 광역의원 ‘중대선거구’ 도입…정치적 다양성은 ‘글쎄’",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539583&ref=A",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘유명 인플루언서 수사 무마 의혹’ 경정 직위해제…룸살롱 접대...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850010900000",
-      "pub_date": "2026-04-18T12:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
