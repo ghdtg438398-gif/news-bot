@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 19:15:28",
+  "updated": "2026-04-18 19:20:27",
   "total": 200,
-  "breaking": 148,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 배현진, '방미' 장동혁 향해 \"열흘이나 집 비운 가장…거취 고민...",
+      "link": "https://www.imaeil.com/page/view/2026041818385019304",
+      "pub_date": "2026-04-18T19:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[아는기자]엇갈린 여야 표정…현재 대진표?",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524825",
+      "pub_date": "2026-04-18T19:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "2R 합계 13언더파 131타…김민선, 넥센·세인트나인 마스터스 선두 질주",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038321",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정…정원오와 맞대결",
       "link": "https://www.dailian.co.kr/news/view/1635064/?sc=Naver",
       "pub_date": "2026-04-18T10:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘, 오세훈 서울시장 후보 선출…박수민·윤희숙 탈락",
-      "link": "https://www.ajunews.com/view/20260418100920389",
-      "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국힘 서울시장 후보로 선출…민주 정원오와 맞대결",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254806.html",
-      "pub_date": "2026-04-18T10:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
