@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 16:20:29",
+  "updated": "2026-04-18 16:25:24",
   "total": 191,
   "breaking": 113,
   "items": [
+    {
+      "title": "후반 35분 왼발 결승골…수원 삼성, 경남 꺾고 선두 추격",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038253",
+      "pub_date": "2026-04-18T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[종합] 안성 금강터널서 5중 추돌...중상자 2명 헬기 이송·10명 경상",
       "link": "https://www.newspim.com/news/view/20260418000066",
@@ -1710,15 +1719,6 @@
       "pub_date": "2026-04-18T06:29:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[위클리이슈] \"약포지가 없다\" 중동발 악재에 약국 아우성",
-      "link": "https://www.kpanews.co.kr/news/articleView.html?idxno=533205",
-      "pub_date": "2026-04-18T06:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
