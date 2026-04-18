@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 03:25:29",
-  "total": 178,
+  "updated": "2026-04-19 03:30:31",
+  "total": 177,
   "breaking": 145,
   "items": [
     {
@@ -1594,15 +1594,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI상보] 오러클린 '헤드샷 퇴장'에도 1위 삼성, 홈에서 LG 꺾고 7연승",
-      "link": "https://www.newspim.com/news/view/20260418000076",
-      "pub_date": "2026-04-18T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
