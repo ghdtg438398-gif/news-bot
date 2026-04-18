@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 07:25:26",
-  "total": 75,
-  "breaking": 49,
+  "updated": "2026-04-19 07:30:38",
+  "total": 73,
+  "breaking": 48,
   "items": [
     {
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
@@ -76,11 +76,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
+      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
+      "link": "https://www.hankyung.com/article/2026041901067",
       "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -94,11 +94,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
-      "link": "https://www.hankyung.com/article/2026041901067",
+      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
       "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -121,12 +121,12 @@
       "is_scoop": false
     },
     {
-      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
+      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
+      "link": "https://www.sedaily.com/article/20034137?ref=naver",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -139,12 +139,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
-      "link": "https://www.sedaily.com/article/20034137?ref=naver",
+      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -658,24 +658,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "광주 광역의원 ‘중대선거구’ 도입…정치적 다양성은 ‘글쎄’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539583&ref=A",
-      "pub_date": "2026-04-18T21:30:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모즈타바 “이란 해군, 적에 새로운 쓰라린 패배 안길 준비”",
-      "link": "https://www.sedaily.com/article/20034119?ref=naver",
-      "pub_date": "2026-04-18T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
