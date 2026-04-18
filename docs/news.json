@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 09:40:30",
+  "updated": "2026-04-18 09:45:29",
   "total": 113,
-  "breaking": 63,
+  "breaking": 62,
   "items": [
+    {
+      "title": "[다음주 경제] 신현송 청문책택보고서 재논의…중동발 악재 속 한국경제...",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228573",
+      "pub_date": "2026-04-18T09:44:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기원상컬럼] \"길이 없으면 만든다\" SK해운 홍해 돌파, 정부·기업 합작...",
+      "link": "https://www.ajunews.com/view/20260418093011371",
+      "pub_date": "2026-04-18T09:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "베트남서 230억 도박사이트 돌린 50대, 징역 2년6개월",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02036886645417432",
@@ -58,8 +76,8 @@
       "is_scoop": true
     },
     {
-      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
+      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
+      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
-      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
+      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1001,24 +1019,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란, 호르무즈 다시는 폐쇄 않기로 합의” 주장",
-      "link": "https://www.sedaily.com/article/20034040?ref=naver",
-      "pub_date": "2026-04-17T23:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] “소풍이 뭔가요?”…서울 초교 4곳 중 3곳은 기피",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539299&ref=A",
-      "pub_date": "2026-04-17T23:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
