@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 20:45:29",
+  "updated": "2026-04-18 20:50:28",
   "total": 200,
   "breaking": 151,
   "items": [
+    {
+      "title": "[속보] 1220회 로또 1등 ‘2, 22, 25, 28, 34, 43’",
+      "link": "https://www.mk.co.kr/article/12020830",
+      "pub_date": "2026-04-18T20:48:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]로또 1220회 당첨번호 2·22·25·28·34·43…보너스 16",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03732646645417432",
@@ -65,6 +74,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "선발 투수 퇴장에도 7연승‥삼성, '우승 후보' 맞대결서 완승",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816282_37004.html",
+      "pub_date": "2026-04-18T20:31:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
@@ -1780,24 +1798,6 @@
       "title": "[속보] \"부산 게스트하우스서 성추행\" 中여성 주장 일파만파…경찰 수사",
       "link": "https://www.kyeonggi.com/article/20260418580044",
       "pub_date": "2026-04-18T11:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "화려한 부활 노리는 김세영, LA 챔피언십 2R 단독 선두 도약",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02171366645417432",
-      "pub_date": "2026-04-18T11:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
-      "link": "https://www.imaeil.com/page/view/2026041811414264339",
-      "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
