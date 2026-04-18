@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-18 20:25:26",
+  "updated": "2026-04-18 20:30:34",
   "total": 200,
   "breaking": 151,
   "items": [
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698827&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T20:29:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "기안84, 이시언 없이 '만삭' 서지승과 떠나더니…\"건강하게 낳길\" 기도 ...",
+      "link": "https://www.xportsnews.com/article/2138577",
+      "pub_date": "2026-04-18T20:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "https://www.dailian.co.kr/news/view/1635127/?sc=Naver",
+      "pub_date": "2026-04-18T20:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란 혁명수비대, 호르무즈서 유조선에 발포\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260418202650Yzr",
+      "pub_date": "2026-04-18T20:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 호르무즈 해협 통제 재개 …美해상봉쇄 유지 탓”",
+      "link": "https://www.munhwa.com/article/11583249?ref=naver",
+      "pub_date": "2026-04-18T20:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 수원 연무동 화재 발생…주민에 접근 자제·창문 폐쇄 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864031",
+      "pub_date": "2026-04-18T20:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "광주 4곳에 중대선거구제 첫 도입",
+      "link": "https://kjmbc.co.kr/NewsArticle/1514747",
+      "pub_date": "2026-04-18T20:25:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 영국해사무역기구 \"이란 혁명수비대, 호르무즈 해협 지나는 유조...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041820210304162",
@@ -31,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698806&code=61131111&cp=nv",
-      "pub_date": "2026-04-18T20:18:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 패배 안길 준비\"",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394673",
       "pub_date": "2026-04-18T20:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698806&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T20:18:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,6 +220,15 @@
       "is_scoop": true
     },
     {
+      "title": "[단독] \"오전까지 무전으로 위협\"‥한국 선박들 움직이지 못해",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816271_37004.html",
+      "pub_date": "2026-04-18T20:05:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
       "link": "https://www.mk.co.kr/article/12020806",
       "pub_date": "2026-04-18T20:05:00+09:00",
@@ -173,15 +245,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] \"오전까지 무전으로 위협\"‥한국 선박들 움직이지 못해",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816271_37004.html",
-      "pub_date": "2026-04-18T20:05:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보] 민주당 김원종 긴급 기자회견…\"이정린 예비후보 지지 선언\"",
@@ -1735,69 +1798,6 @@
       "title": "[속보]오세훈, 국힘 서울시장 후보 확정…정원오와 서울시장 승부",
       "link": "https://www.kwnews.co.kr/page/view/2026041850007600000",
       "pub_date": "2026-04-18T11:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '이래도 김혜성 안 좋아 할거야?'…KIM, 2G 연속 안타 터졌다→볼...",
-      "link": "https://www.xportsnews.com/article/2138362",
-      "pub_date": "2026-04-18T11:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 송언석 “정동영 ‘가벼운 입’이 한미관계 훼손”",
-      "link": "https://www.segye.com/newsView/20260418503695?OutUrl=naver",
-      "pub_date": "2026-04-18T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 송언석, 정동영 향해 \"외교적 대형사고…경질해야\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045362",
-      "pub_date": "2026-04-18T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'형제의 난' 조현준 효성 회장, 재판 불출석...8월 재지정",
-      "link": "http://www.fnnews.com/news/202604171530318902",
-      "pub_date": "2026-04-18T11:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 송언석 “정동영 경질해야…‘가벼운 입’이 한미관계 훼손”",
-      "link": "https://www.munhwa.com/article/11583204?ref=naver",
-      "pub_date": "2026-04-18T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"장동혁, 부산 북구갑 무공천 가능성 제로\"... 왜?",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225268&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-18T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美, 러시아산 원유 판매 한달 더 허용…제재완화 연장",
-      "link": "https://www.dt.co.kr/article/12058060?ref=naver",
-      "pub_date": "2026-04-18T11:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
