@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 07:35:27",
+  "updated": "2026-04-19 07:40:27",
   "total": 75,
   "breaking": 49,
   "items": [
@@ -103,20 +103,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[글로벌 경제지표] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 관...",
       "link": "https://biz.sbs.co.kr/article_hub/20000304718?division=NAVER",
       "pub_date": "2026-04-19T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -139,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
-      "link": "https://www.sedaily.com/article/20034137?ref=naver",
+      "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
+      "link": "https://www.khan.co.kr/article/202604190658001",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
-      "link": "https://www.khan.co.kr/article/202604190658001",
+      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
+      "link": "https://www.sedaily.com/article/20034137?ref=naver",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
