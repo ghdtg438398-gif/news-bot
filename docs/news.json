@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 05:25:25",
-  "total": 98,
-  "breaking": 76,
+  "updated": "2026-04-19 05:30:29",
+  "total": 96,
+  "breaking": 74,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -865,24 +865,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경기도 고양 10층 건물 옥상서 고교생 추락사…경찰 조사",
-      "link": "https://www.dt.co.kr/article/12058073?ref=naver",
-      "pub_date": "2026-04-18T19:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“일본인이 성추행” 중국 관광객 주장에 경찰 수사 착수",
-      "link": "https://www.munhwa.com/article/11583243?ref=naver",
-      "pub_date": "2026-04-18T19:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
