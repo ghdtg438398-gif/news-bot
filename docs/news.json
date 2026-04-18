@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 17:40:28",
+  "updated": "2026-04-18 17:45:26",
   "total": 177,
   "breaking": 110,
   "items": [
+    {
+      "title": "[속보] 李대통령 “장특공제 폐지가 세금 많이 안긴다고? 명백한 거짓 선...",
+      "link": "https://www.kyeonggi.com/article/20260418580050",
+      "pub_date": "2026-04-18T17:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란과 종전 합의 안 되면 휴전연장 없이 다시 폭탄 투하...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180023",
+      "pub_date": "2026-04-18T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 전광훈, 보석 후 첫 광화문집회 참석해 \"대한민국 망했다\"",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045384",
@@ -1575,24 +1593,6 @@
       "pub_date": "2026-04-18T07:47:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “내가 갈 수도 있다”…트럼프, 이란 협상 주말 타결 ‘승부수...",
-      "link": "https://www.segye.com/newsView/20260418502311?OutUrl=naver",
-      "pub_date": "2026-04-18T07:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 큰 이견 없어 주말 타결 전망…내가 갈 수도”",
-      "link": "https://www.dt.co.kr/article/12058053?ref=naver",
-      "pub_date": "2026-04-18T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
