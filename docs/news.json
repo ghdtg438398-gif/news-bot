@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 06:50:36",
-  "total": 59,
+  "updated": "2026-04-19 06:53:05",
+  "total": 60,
   "breaking": 39,
   "items": [
+    {
+      "title": "[속보] 하루 만에 닫힌 호르무즈…이란 이슬람혁명수비대 \"18일 저녁부터...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041906495018270",
+      "pub_date": "2026-04-19T06:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'♥5살 연하와 재혼' 최정윤, 11살 딸=오작교 맞다…\"아빠 해 달라며 유...",
+      "link": "https://www.xportsnews.com/article/2138656",
+      "pub_date": "2026-04-19T06:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란 이슬람혁명수비대 \"호르무즈 해협 18일 저녁부터 폐쇄\"",
       "link": "https://magazine.hankyung.com/business/article/202604190094b",
@@ -13,7 +31,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539650&ref=A",
       "pub_date": "2026-04-19T06:48:00+09:00",
       "source_id": "kbs",
@@ -103,20 +121,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
-      "pub_date": "2026-04-19T06:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://www.seoul.co.kr/news/politics/north/2026/04/19/20260419500002?wlog_tag3=naver",
       "pub_date": "2026-04-19T06:24:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
+      "pub_date": "2026-04-19T06:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
       "pub_date": "2026-04-19T06:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
+      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
       "pub_date": "2026-04-19T06:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,15 +238,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
-      "link": "https://www.news1.kr/society/court-prosecution/6140569",
-      "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
       "link": "https://www.newspim.com/news/view/20260417001032",
       "pub_date": "2026-04-19T06:00:00+09:00",
@@ -236,6 +245,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
+      "link": "https://www.news1.kr/society/court-prosecution/6140569",
+      "pub_date": "2026-04-19T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
@@ -520,15 +538,6 @@
       "title": "[속보] 이란, 호르무즈 해협 다시 폐쇄 조치... 선박들 회항",
       "link": "http://www.fnnews.com/news/202604182100363984",
       "pub_date": "2026-04-18T21:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]전광훈, 보석 뒤 첫 광화문 집회 참석…“대한민국 이미 망했다”...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041850024200000",
-      "pub_date": "2026-04-18T20:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
