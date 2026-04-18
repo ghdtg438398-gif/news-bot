@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:56:08",
-  "total": 108,
-  "breaking": 82,
+  "updated": "2026-04-19 05:00:33",
+  "total": 106,
+  "breaking": 80,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -952,24 +952,6 @@
       "title": "[속보] 위성곤, 민주당 제주도지사 후보 선출… 국힘 문성유와 대결",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041819055396742",
       "pub_date": "2026-04-18T19:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 맞대결",
-      "link": "https://www.hani.co.kr/arti/politics/assembly/1254821.html",
-      "pub_date": "2026-04-18T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 위성곤, 민주 제주지사 후보 확정…국힘 문성유와 맞대결",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005104",
-      "pub_date": "2026-04-18T18:57:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
