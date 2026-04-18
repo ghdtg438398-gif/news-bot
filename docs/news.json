@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-18 22:55:27",
-  "total": 194,
-  "breaking": 148,
+  "updated": "2026-04-18 23:00:37",
+  "total": 198,
+  "breaking": 152,
   "items": [
+    {
+      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 “대화 순조롭게 진행”",
+      "link": "https://www.viva100.com/article/20260418500202",
+      "pub_date": "2026-04-18T22:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해”",
+      "link": "https://www.viva100.com/article/20260418500200",
+      "pub_date": "2026-04-18T22:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
+      "link": "https://www.joongang.co.kr/article/25421303",
+      "pub_date": "2026-04-18T22:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418225430SUr",
+      "pub_date": "2026-04-18T22:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, 이란 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418225148vq6",
