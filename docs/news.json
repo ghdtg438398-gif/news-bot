@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 10:55:25",
-  "total": 166,
-  "breaking": 108,
+  "updated": "2026-04-18 11:00:36",
+  "total": 163,
+  "breaking": 104,
   "items": [
+    {
+      "title": "전남도, 취약계층 3만7천여가구 안전한 겨울나기 지원",
+      "link": "https://www.nocutnews.co.kr/news/6504334?utm_source=naver&utm_medium=article&utm_campaign=20260418105551",
+      "pub_date": "2026-04-18T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'이종석♥' 아이유, 남사친 위해 나섰다…\"1~2주에 한 번씩 만나\" 누구?...",
       "link": "https://www.xportsnews.com/article/2138353",
@@ -1456,42 +1465,6 @@
       "title": "[속보]'6·3지선 중대선거구제 일부 도입·광역 비례 확대' 본회의 통과",
       "link": "https://www.news1.kr/politics/assembly/6140768",
       "pub_date": "2026-04-18T01:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘공직선거법 개정안’ 국회 본회의 통과",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892192",
-      "pub_date": "2026-04-18T01:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]31년만에 광역 비례비율 10%→14%...정치개혁법안 본회의 처리",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01239846645417432",
-      "pub_date": "2026-04-18T01:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 6월 지방선거서 광역비례 27~28명 증원‥광주서 광역의원 중대선...",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816171_36911.html",
-      "pub_date": "2026-04-18T01:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'광역 비례대표 확대·광역의회 중대선거구제 도입' 법안 국회 본...",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596352",
-      "pub_date": "2026-04-18T00:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
