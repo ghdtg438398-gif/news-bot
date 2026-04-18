@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 19:00:39",
+  "updated": "2026-04-18 19:05:26",
   "total": 200,
   "breaking": 150,
   "items": [
+    {
+      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 맞대결",
+      "link": "https://www.hani.co.kr/arti/politics/assembly/1254821.html",
+      "pub_date": "2026-04-18T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 위성곤, 민주 제주지사 후보 확정…국힘 문성유와 맞대결",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005104",
@@ -166,6 +175,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 민주 '제주지사 후보'에 위성곤…문대림 탈락",
+      "link": "https://news.tf.co.kr/read/ptoday/2314641.htm",
+      "pub_date": "2026-04-18T18:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
       "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
       "pub_date": "2026-04-18T18:24:00+09:00",
@@ -184,18 +202,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주 '제주지사 후보'에 위성곤…문대림 탈락",
-      "link": "https://news.tf.co.kr/read/ptoday/2314641.htm",
-      "pub_date": "2026-04-18T18:24:00+09:00",
+      "title": "[속보] 민주당 제주지사 후보에 위성곤 확정",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523255&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T18:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당 제주지사 후보에 위성곤 확정",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523255&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T18:23:00+09:00",
+      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
+      "pub_date": "2026-04-18T18:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -213,15 +231,6 @@
     {
       "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
       "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318478",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
       "pub_date": "2026-04-18T18:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://biz.heraldcorp.com/article/10720097?ref=naver",
-      "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘 서울시장 후보에 오세훈 확정…정원오와 맞대결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366645417432",
       "pub_date": "2026-04-18T10:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
