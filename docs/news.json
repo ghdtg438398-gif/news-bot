@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 07:45:27",
-  "total": 76,
+  "updated": "2026-04-19 07:50:30",
+  "total": 77,
   "breaking": 50,
   "items": [
+    {
+      "title": "충북개발공사 상임이사 채용, 국민권익위원회 공익제보",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260419010005653",
+      "pub_date": "2026-04-19T07:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "호르무즈 기뢰 제거, 미국 단독 불가…나토 없인 '무력’",
       "link": "https://www.g-enews.com/view.php?ud=2026041907411357272bd56fbc3c_1",
@@ -121,20 +130,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
-      "link": "https://www.hankyung.com/article/2026041901067",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[글로벌 경제지표] 테슬라·인텔 실적 주목…韓 1분기 성장률 속보치 관...",
       "link": "https://biz.sbs.co.kr/article_hub/20000304718?division=NAVER",
       "pub_date": "2026-04-19T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
+      "link": "https://www.hankyung.com/article/2026041901067",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,21 +166,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 “북한, 동해로 탄도미사일 여러 발 발사”…올해 7번째 탄...",
-      "link": "https://www.khan.co.kr/article/202604190658001",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]합참 “북한, 동해로 탄도미사일 여러 발 발사”…올해 7번째 탄...",
+      "link": "https://www.khan.co.kr/article/202604190658001",
+      "pub_date": "2026-04-19T06:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
