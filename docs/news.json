@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 13:45:27",
-  "total": 197,
+  "updated": "2026-04-18 13:50:25",
+  "total": 195,
   "breaking": 118,
   "items": [
     {
@@ -1756,24 +1756,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중국 휴머노이드 로봇 세계 80% 장악…미국 AI 전략 '사각지대' 노출",
-      "link": "https://www.g-enews.com/view.php?ud=202604172236193082bd56fbc3c_1",
-      "pub_date": "2026-04-18T03:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "서울 성북동 주택 화재...인명 피해 없어",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560118",
-      "pub_date": "2026-04-18T03:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
