@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 11:10:33",
+  "updated": "2026-04-18 11:15:29",
   "total": 161,
-  "breaking": 101,
+  "breaking": 100,
   "items": [
+    {
+      "title": "[속보] 송언석 “정동영 경질해야…‘가벼운 입’이 한미관계 훼손”",
+      "link": "https://www.munhwa.com/article/11583204?ref=naver",
+      "pub_date": "2026-04-18T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"장동혁, 부산 북구갑 무공천 가능성 제로\"... 왜?",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003225268&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-18T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 술 마시던 친구가 가해자로…집까지 쫓아와 흉기 휘두른 50대",
       "link": "https://www.imaeil.com/page/view/2026041810590457260",
@@ -166,20 +184,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 서울시장 3연임 도전…정원오와 맞대결",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500017?wlog_tag3=naver",
-      "pub_date": "2026-04-18T10:32:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
       "pub_date": "2026-04-18T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 서울시장 3연임 도전…정원오와 맞대결",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500017?wlog_tag3=naver",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1429,24 +1447,6 @@
       "title": "[속보] 광주 4곳 광역의회 중대선거제 최초 도입 법안 통과",
       "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333854",
       "pub_date": "2026-04-18T01:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘시·도 의원 비례대표 ‘10→14% 증원’ 국회 본회의 통과",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254788.html",
-      "pub_date": "2026-04-18T01:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '중대선거구제 일부 도입·광역 비례 확대' 본회의 통과",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418011107VVr",
-      "pub_date": "2026-04-18T01:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
