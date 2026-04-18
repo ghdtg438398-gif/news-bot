@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 03:10:29",
-  "total": 181,
+  "updated": "2026-04-19 03:15:27",
+  "total": 180,
   "breaking": 145,
   "items": [
     {
@@ -1622,15 +1622,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 박정민·고현정, 변영주 감독 '당신의 과녁' 캐스팅",
-      "link": "https://news.jtbc.co.kr/article/NB12294812?influxDiv=NAVER",
-      "pub_date": "2026-04-18T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
