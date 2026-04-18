@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-18 20:15:30",
+  "updated": "2026-04-18 20:20:32",
   "total": 200,
-  "breaking": 147,
+  "breaking": 150,
   "items": [
+    {
+      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269875",
+      "pub_date": "2026-04-18T20:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 패배 안길 준비\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394673",
+      "pub_date": "2026-04-18T20:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698806&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T20:18:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선 향해 발포\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394672",
+      "pub_date": "2026-04-18T20:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부산 사상구 단독주택 화재…70대 남성 숨져",
+      "link": "https://www.nocutnews.co.kr/news/6504492?utm_source=naver&utm_medium=article&utm_campaign=20260418081555",
+      "pub_date": "2026-04-18T20:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
+      "link": "https://www.dt.co.kr/article/12058078?ref=naver",
+      "pub_date": "2026-04-18T20:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란 혁명수비대 군함 2척, 오만 해상 유조선에 발포”",
+      "link": "https://www.chosun.com/international/2026/04/18/AY4TFYWDTRCCFIOP324ULYBVXQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-18T20:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]영국 해사무역기구 \"이란 혁명수비대, 호르무즈 인근서 유조선 공...",
+      "link": "https://www.mt.co.kr/world/2026/04/18/2026041820140176440",
+      "pub_date": "2026-04-18T20:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
       "link": "https://biz.chosun.com/international/international_general/2026/04/18/OBJRFVAAARF5RM6ZBPVENKVICQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
@@ -1726,78 +1798,6 @@
       "title": "[속보] 술 마시던 친구가 가해자로…집까지 쫓아와 흉기 휘두른 50대",
       "link": "https://www.imaeil.com/page/view/2026041810590457260",
       "pub_date": "2026-04-18T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전남도, 취약계층 3만7천여가구 안전한 겨울나기 지원",
-      "link": "https://www.nocutnews.co.kr/news/6504334?utm_source=naver&utm_medium=article&utm_campaign=20260418105551",
-      "pub_date": "2026-04-18T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'이종석♥' 아이유, 남사친 위해 나섰다…\"1~2주에 한 번씩 만나\" 누구?...",
-      "link": "https://www.xportsnews.com/article/2138353",
-      "pub_date": "2026-04-18T10:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중요부위 꼬집고 기저귀로 구타...80대 환자 폭행한 외국인 간병인",
-      "link": "https://www.mt.co.kr/society/2026/04/18/2026041810312529205",
-      "pub_date": "2026-04-18T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘명픽’ 정원오 vs ‘5선 도전’ 오세훈…서울시장 맞대결",
-      "link": "https://www.donga.com/news/Politics/article/all/20260418/133764788/2",
-      "pub_date": "2026-04-18T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "육우 스테이크를 한우로 표시... 4년간 손님 속인 레스토랑 업주",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523102&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T10:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합수본, 박왕열 외조카 '흰수염고래' 필리핀서 조사",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045359",
-      "pub_date": "2026-04-18T10:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.etnews.com/20260418000040",
-      "pub_date": "2026-04-18T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583201?ref=naver",
-      "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
