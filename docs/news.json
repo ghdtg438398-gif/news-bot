@@ -1,11 +1,56 @@
 {
-  "updated": "2026-04-18 10:45:30",
-  "total": 161,
-  "breaking": 106,
+  "updated": "2026-04-18 10:50:27",
+  "total": 166,
+  "breaking": 108,
   "items": [
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583201?ref=naver",
+      "title": "'이종석♥' 아이유, 남사친 위해 나섰다…\"1~2주에 한 번씩 만나\" 누구?...",
+      "link": "https://www.xportsnews.com/article/2138353",
+      "pub_date": "2026-04-18T10:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133764788/2",
+      "pub_date": "2026-04-18T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "기저귀로 때리고 중요부위를…80대 환자 폭행한 외국인 간병인 '집유'",
+      "link": "https://www.mt.co.kr/society/2026/04/18/2026041810312529205",
+      "pub_date": "2026-04-18T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합수본, 박왕열 외조카 '흰수염고래' 필리핀서 조사",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045359",
+      "pub_date": "2026-04-18T10:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "육우 스테이크를 한우로 표시... 4년간 손님 속인 레스토랑 업주에게 징...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523102&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T10:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.etnews.com/20260418000040",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -13,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.etnews.com/20260418000040",
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583201?ref=naver",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
-      "link": "https://economist.co.kr/article/view/ecn202604180006",
+      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
+      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
-      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
+      "link": "https://economist.co.kr/article/view/ecn202604180006",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 5선 도전한다...국힘 서울시장 후보 확정",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180252&t=NN",
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與 정원오와 대결",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=701846",
       "pub_date": "2026-04-18T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與 정원오와 대결",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=701846",
+      "title": "[속보] 오세훈, 5선 도전한다...국힘 서울시장 후보 확정",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180252&t=NN",
       "pub_date": "2026-04-18T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
