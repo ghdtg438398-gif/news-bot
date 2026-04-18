@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 16:40:30",
+  "updated": "2026-04-18 16:45:31",
   "total": 186,
-  "breaking": 112,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[프로축구] K리그2 이정효의 수원, 경남 원정 1-0…부산 7연승",
+      "link": "https://www.newspim.com/news/view/20260418000071",
+      "pub_date": "2026-04-18T16:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장성군수 경선, 대리투표에 이어 '이중투표' 정황도",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446620",
+      "pub_date": "2026-04-18T16:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "후반 35분 왼발 결승골…수원 삼성, 경남 꺾고 선두 추격",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038253",
@@ -1654,24 +1672,6 @@
       "title": "경찰서 방문한 네덜란드 공주",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560209",
       "pub_date": "2026-04-18T06:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장 포커스] 안현민·허경민 공백도 끄떡없다... KT 3연승 이끈 'FA 3인...",
-      "link": "https://www.newspim.com/news/view/20260417001120",
-      "pub_date": "2026-04-18T06:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[ec.review] 램파드의 코벤트리, 25년 만에 PL 승격 성공!...양민혁은 12...",
-      "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90729",
-      "pub_date": "2026-04-18T06:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
