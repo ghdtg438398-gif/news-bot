@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 06:00:35",
-  "total": 79,
-  "breaking": 56,
+  "updated": "2026-04-19 06:05:28",
+  "total": 70,
+  "breaking": 44,
   "items": [
+    {
+      "title": "'36홀 선두일 때 승률 좋은' 김세영, LA 챔피언십 2R 단독1위 [LPGA]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019845",
+      "pub_date": "2026-04-19T06:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "데뷔 4경기 만에 KBO 45년史 새로 썼다!…그런데 왜 \"이건 내 기록 아냐...",
+      "link": "https://www.xportsnews.com/article/2138659",
+      "pub_date": "2026-04-19T06:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
+      "link": "https://www.newspim.com/news/view/20260417001032",
+      "pub_date": "2026-04-19T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
+      "link": "https://www.news1.kr/society/court-prosecution/6140569",
+      "pub_date": "2026-04-19T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
       "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90790",
@@ -592,123 +628,6 @@
       "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
       "link": "https://www.sedaily.com/article/20034112?ref=naver",
       "pub_date": "2026-04-18T20:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"오전까지 무전으로 위협\"‥한국 선박들 움직이지 못해",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816271_37004.html",
-      "pub_date": "2026-04-18T20:05:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.mk.co.kr/article/12020806",
-      "pub_date": "2026-04-18T20:05:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 새 최고지도자 \"적들에게 새로운 패배의 쓴맛 안길 준비\"",
-      "link": "https://www.news1.kr/world/middleeast-africa/6141068",
-      "pub_date": "2026-04-18T20:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 김원종 긴급 기자회견…\"이정린 예비후보 지지 선언\"",
-      "link": "http://news.lghellovision.net/news/articleView.html?idxno=540764",
-      "pub_date": "2026-04-18T20:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英 해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.etoday.co.kr/news/view/2576900",
-      "pub_date": "2026-04-18T20:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 최고지도자 “적에 새로운 쓰라린 패배 안길 준비”",
-      "link": "https://www.mk.co.kr/article/12020805",
-      "pub_date": "2026-04-18T20:03:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180314&t=NN",
-      "pub_date": "2026-04-18T20:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]영국 해사무역기구 \"이란 혁명수비대, 호르무즈 인근서 유조선 공...",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596728",
-      "pub_date": "2026-04-18T20:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
-      "link": "https://www.khan.co.kr/article/202604182002001",
-      "pub_date": "2026-04-18T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://www.ajunews.com/view/20260418200119508",
-      "pub_date": "2026-04-18T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "https://www.ajunews.com/view/20260418195942507",
-      "pub_date": "2026-04-18T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 최고지도자 \"이란군, 적에 새 쓰라린 패배 안길 준비 돼\"",
-      "link": "https://www.newsis.com/view/NISX20260418_0003596727",
-      "pub_date": "2026-04-18T20:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://biz.heraldcorp.com/article/10720207?ref=naver",
-      "pub_date": "2026-04-18T20:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
