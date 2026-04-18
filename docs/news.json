@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 18:40:30",
+  "updated": "2026-04-18 18:45:32",
   "total": 200,
   "breaking": 152,
   "items": [
+    {
+      "title": "[속보] 이란 “호르무즈 통제 재개”…미국과 충돌 격화",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418508&PRO_CODE=99",
+      "pub_date": "2026-04-18T18:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "https://www.dt.co.kr/article/12058071?ref=naver",
+      "pub_date": "2026-04-18T18:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '룸살롱 접대·인플루언서 수사 무마' 의혹 경찰청 간부, 직위해...",
+      "link": "https://www.imaeil.com/page/view/2026041818132481810",
+      "pub_date": "2026-04-18T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]여성 BJ 추행 혐의 유명 걸그룹 멤버 오빠 구속영장, 검찰서 반려",
       "link": "https://www.kwnews.co.kr/page/view/2026041850011600000",
@@ -85,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
-      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
+      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
       "pub_date": "2026-04-18T18:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
-      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
+      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
+      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400053",
       "pub_date": "2026-04-18T18:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,15 +148,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
-      "pub_date": "2026-04-18T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
       "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318478",
       "pub_date": "2026-04-18T18:22:00+09:00",
@@ -144,6 +162,15 @@
       "pub_date": "2026-04-18T18:22:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
+      "pub_date": "2026-04-18T18:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-18T10:10:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.yna.co.kr/view/AKR20260418021600001?input=1195m",
-      "pub_date": "2026-04-18T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정..정원오와 맞대결",
-      "link": "http://www.fnnews.com/news/202604180945206790",
-      "pub_date": "2026-04-18T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
-      "link": "https://www.news1.kr/politics/assembly/6140863",
-      "pub_date": "2026-04-18T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
