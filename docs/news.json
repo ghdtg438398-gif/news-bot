@@ -1,8 +1,188 @@
 {
-  "updated": "2026-04-18 10:10:34",
-  "total": 103,
-  "breaking": 51,
+  "updated": "2026-04-18 10:15:39",
+  "total": 121,
+  "breaking": 71,
   "items": [
+    {
+      "title": "[속보]정원오 VS 오세훈 확정...서울시장 누가 될까",
+      "link": "https://magazine.hankyung.com/business/article/202604189602b",
+      "pub_date": "2026-04-18T10:14:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 외계인·UFO 진짜 있나...트럼프 \"흥미로운 자료 곧 공개\"",
+      "link": "https://economist.co.kr/article/view/ecn202604180005",
+      "pub_date": "2026-04-18T10:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/18/AZZYWUPXRNFMJED5N7XHOGZBJ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-18T10:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정…정원오와 맞대결",
+      "link": "https://www.dailian.co.kr/news/view/1635064/?sc=Naver",
+      "pub_date": "2026-04-18T10:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘, 오세훈 서울시장 후보 선출…박수민·윤희숙 탈락",
+      "link": "https://www.ajunews.com/view/20260418100920389",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://biz.heraldcorp.com/article/10720097?ref=naver",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 서울시장 최종 후보에 오세훈…정원오와 맞대결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02089366645417432",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈 국민의힘 서울시장 후보 확정…정원오와 맞대결",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1254806.html",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.mk.co.kr/article/12020636",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604181011502JV",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與 정원오와 대결",
+      "link": "https://www.hankyung.com/article/2026041896017",
+      "pub_date": "2026-04-18T10:12:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘 서울시장 후보 오세훈 확정...정원오와 맞대결",
+      "link": "https://www.mt.co.kr/politics/2026/04/18/2026041809101865459",
+      "pub_date": "2026-04-18T10:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘, 서울시장 후보로 오세훈 확정…정원오와 맞대결",
+      "link": "https://www.hankookilbo.com/news/article/A2026041809590005182?did=NA",
+      "pub_date": "2026-04-18T10:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈···박수민·윤희숙 꺾어",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539457&ref=A",
+      "pub_date": "2026-04-18T10:11:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘, 서울시장 후보에 오세훈 결정",
+      "link": "https://www.sidae.com/article/2026041810100578954",
+      "pub_date": "2026-04-18T10:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘 지방선거 서울시장 후보에 오세훈 선출",
+      "link": "https://www.newsis.com/view/NISX20260418_0003596558",
+      "pub_date": "2026-04-18T10:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 현 서울시장 확정",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816208_36911.html",
+      "pub_date": "2026-04-18T10:10:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.yna.co.kr/view/AKR20260418021600001?input=1195m",
+      "pub_date": "2026-04-18T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정..정원오와 맞대결",
+      "link": "http://www.fnnews.com/news/202604180945206790",
+      "pub_date": "2026-04-18T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정",
+      "link": "https://www.news1.kr/politics/assembly/6140863",
+      "pub_date": "2026-04-18T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"UFO 관련 흥미로운 자료 조만간 공개\"",
       "link": "https://www.ajunews.com/view/20260418100614388",
@@ -910,24 +1090,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"클롭 선임 최우선 확정, 첫 영입 타깃은 맨시티 핵심\", '2연속 무관' 레...",
-      "link": "http://www.osen.co.kr/article/G1112784137",
-      "pub_date": "2026-04-18T00:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "KIA, 두산 꺾고 632일 만에 8연승 질주",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008522847&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T00:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
