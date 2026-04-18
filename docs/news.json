@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 22:25:26",
-  "total": 198,
+  "updated": "2026-04-18 22:30:29",
+  "total": 197,
   "breaking": 149,
   "items": [
     {
@@ -1774,15 +1774,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "수원 인계동 상가서 화재...20분 만에 진화 '1명 대피'",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560269",
-      "pub_date": "2026-04-18T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
