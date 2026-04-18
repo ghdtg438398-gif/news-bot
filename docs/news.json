@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 09:35:28",
-  "total": 112,
-  "breaking": 64,
+  "updated": "2026-04-18 09:40:30",
+  "total": 113,
+  "breaking": 63,
   "items": [
+    {
+      "title": "베트남서 230억 도박사이트 돌린 50대, 징역 2년6개월",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02036886645417432",
+      "pub_date": "2026-04-18T09:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "80대 환자를 기저귀로 때리고 성기 꼬집은 간병인에게 징역형 집행유예",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523043&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란 호르무즈 개방 직전 '1조원대' 유가 하락 베팅 '막대한 수익...",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604180008",
@@ -1001,15 +1019,6 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 폴리마켓 \"호르무즈 해협 이달 말까지 정상화 확률 55%\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394565",
-      "pub_date": "2026-04-17T23:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
