@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 07:05:28",
-  "total": 72,
-  "breaking": 46,
+  "updated": "2026-04-19 07:10:29",
+  "total": 75,
+  "breaking": 47,
   "items": [
+    {
+      "title": "김시우, RBC 헤리티지 3위로 '우승 경쟁'…임성재는 3R 41위 [PGA 시그니...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019848",
+      "pub_date": "2026-04-19T07:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "익산 황등면 단독주택서 화재...50대 남성 사망",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560501",
+      "pub_date": "2026-04-19T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]IMF \"한국, 나라빚 빠르게 늘어...내년 56.6%\"",
+      "link": "https://magazine.hankyung.com/business/article/202604190105b",
+      "pub_date": "2026-04-19T07:05:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이정후, 이걸 쳐? 타격감 완전히 물올랐다! 떨어지는 공 걷어내...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553149447",
@@ -45,6 +72,15 @@
       "pub_date": "2026-04-19T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -640,15 +676,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하메네이 \"이란 해군, 적에 새 패배 안길 준비\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260418210700KlK",
-      "pub_date": "2026-04-18T21:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
