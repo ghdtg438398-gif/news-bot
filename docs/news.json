@@ -1,14 +1,41 @@
 {
-  "updated": "2026-04-18 17:50:37",
-  "total": 184,
-  "breaking": 117,
+  "updated": "2026-04-18 17:55:28",
+  "total": 188,
+  "breaking": 121,
   "items": [
     {
-      "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
-      "pub_date": "2026-04-18T17:49:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "title": "[속보]배현진, 장동혁 향해 “미국서 돌아오면 후보들을 위해서라도 본...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041850023400000",
+      "pub_date": "2026-04-18T17:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"호르무즈 해협 다시 통제...美, 해적질\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180290&t=NN",
+      "pub_date": "2026-04-18T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 민간항공청 “민항기에 영공 부분 재개방”",
+      "link": "https://www.segye.com/newsView/20260418505253?OutUrl=naver",
+      "pub_date": "2026-04-18T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] AP \"이란군, 호르무즈 해협 다시 통제‥미군 봉쇄 해제 요구\"",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6816249_36925.html",
+      "pub_date": "2026-04-18T17:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -18,6 +45,15 @@
       "pub_date": "2026-04-18T17:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T17:49:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -49,6 +85,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
+      "pub_date": "2026-04-18T17:46:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
       "link": "https://www.xportsnews.com/article/2138461",
       "pub_date": "2026-04-18T17:46:00+09:00",
@@ -63,15 +108,6 @@
       "pub_date": "2026-04-18T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
-      "pub_date": "2026-04-18T17:46:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
