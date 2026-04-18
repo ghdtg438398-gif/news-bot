@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 14:45:28",
+  "updated": "2026-04-18 14:50:29",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
+    {
+      "title": "'한우 스테이크'라더니 거짓말…4년간 원산지 속인 식당",
+      "link": "https://www.mt.co.kr/society/2026/04/18/2026041814162379753",
+      "pub_date": "2026-04-18T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "과거 말다툼 앙심에…지인 흉기로 찌른 60대 구속영장",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02312406645417432",
+      "pub_date": "2026-04-18T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] ‘충격 결말’ 레알 마드리드 또 ‘감독 경질’ 사령탑 교체, 西...",
       "link": "https://sports.khan.co.kr/article/202604181420003?pt=nv",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 이란 호르무즈 해협 개방, 미증시 일제 랠리…다우 1.79%",
       "link": "https://www.news1.kr/world/usa-canada/6140786",
       "pub_date": "2026-04-18T05:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "가축전염병에 중동 변수까지…축산물 가격 '이중 압력'",
-      "link": "https://www.nocutnews.co.kr/news/6504149?utm_source=naver&utm_medium=article&utm_campaign=20260418050051",
-      "pub_date": "2026-04-18T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 호르무즈 해협 개방, WTI 11% 폭락한 84달러",
-      "link": "https://www.news1.kr/world/usa-canada/6140787",
-      "pub_date": "2026-04-18T04:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
