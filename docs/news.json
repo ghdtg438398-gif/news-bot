@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 14:55:25",
+  "updated": "2026-04-18 15:00:35",
   "total": 200,
-  "breaking": 121,
+  "breaking": 122,
   "items": [
     {
       "title": "'한우 스테이크'라더니 거짓말…4년간 원산지 속인 식당",
@@ -40,12 +40,12 @@
       "is_scoop": false
     },
     {
-      "title": "‘식비 대납’ 의혹에 깊어지는 민주당 내홍… 안호영 “회유·압박 있...",
+      "title": "[속보] ‘식비 대납’ 의혹에 깊어지는 민주당 내홍… 안호영 “회유·...",
       "link": "https://www.munhwa.com/article/11583218?ref=naver",
       "pub_date": "2026-04-18T14:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
