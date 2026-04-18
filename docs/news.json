@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 09:20:30",
-  "total": 115,
+  "updated": "2026-04-18 09:25:27",
+  "total": 114,
   "breaking": 68,
   "items": [
+    {
+      "title": "'2R 2언더파 69타' 김민규, LIV 멕시코 단독 9위",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038065",
+      "pub_date": "2026-04-18T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
@@ -1018,24 +1027,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KIA, 632일 만의 8연승…kt는 단독 2위로",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260417232356NJr",
-      "pub_date": "2026-04-17T23:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539292&ref=A",
-      "pub_date": "2026-04-17T23:22:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
