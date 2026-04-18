@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 09:50:30",
-  "total": 108,
-  "breaking": 56,
+  "updated": "2026-04-18 09:55:29",
+  "total": 104,
+  "breaking": 52,
   "items": [
+    {
+      "title": "[속보]트럼프, 이번엔 UFO 언급...\"흥미있는 자료 발견…곧 공개\"",
+      "link": "https://magazine.hankyung.com/business/article/202604189557b",
+      "pub_date": "2026-04-18T09:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[다음주 경제] 신현송 청문책택보고서 재논의…중동발 악재 속 한국경제...",
       "link": "https://www.ngonews.kr/news/articleView.html?idxno=228573",
@@ -85,8 +94,8 @@
       "is_scoop": true
     },
     {
-      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
+      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
+      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
-      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
+      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
       "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -927,51 +936,6 @@
       "pub_date": "2026-04-17T23:56:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 美 도움으로 해상 기뢰 제거 진행 중\"",
-      "link": "https://www.hankyung.com/article/2026041793007",
-      "pub_date": "2026-04-17T23:55:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈 사태 종료…세계에 있어 위대하고 눈부신 날\"",
-      "link": "https://www.hankyung.com/article/2026041793017",
-      "pub_date": "2026-04-17T23:55:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'광역 비례대표 확대·광주 광역의회 중대선거구제 도입' 국회 법...",
-      "link": "https://www.newsis.com/view/NISX20260417_0003596334",
-      "pub_date": "2026-04-17T23:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“다시 80달러선” 호르무즈 개방에 유가 급락",
-      "link": "https://www.munhwa.com/article/11583170?ref=naver",
-      "pub_date": "2026-04-17T23:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]영국·프랑스 “호르무즈, 영구 개방돼야...12개국 방어임무 참여...",
-      "link": "https://www.sedaily.com/article/20034041?ref=naver",
-      "pub_date": "2026-04-17T23:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
