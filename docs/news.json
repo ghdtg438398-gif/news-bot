@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-18 17:45:26",
-  "total": 177,
-  "breaking": 110,
+  "updated": "2026-04-18 17:50:37",
+  "total": 184,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
+      "pub_date": "2026-04-18T17:49:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “호르무즈 다시 이전처럼 통제...美, 봉쇄 명목으로 해적질...",
+      "link": "https://biz.heraldcorp.com/article/10720192?ref=naver",
+      "pub_date": "2026-04-18T17:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 군부 \"호르무즈 해협 통제 재개\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041817464767314",
+      "pub_date": "2026-04-18T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "임성한 작가 36년 만 등장? 엄은향 전화 인터뷰 잡음…\"전 관종\"",
+      "link": "https://www.nocutnews.co.kr/news/6504482?utm_source=naver&utm_medium=article&utm_campaign=20260418054753",
+      "pub_date": "2026-04-18T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 말다툼했던 40대女에 길거리서 흉기 휘두른 60대男…구속 기로",
+      "link": "https://www.imaeil.com/page/view/2026041815073272118",
+      "pub_date": "2026-04-18T17:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 'KBO 45년 최초 초대형 한국신기록 나왔다!'…KT 보쉴리, 데뷔 후...",
+      "link": "https://www.xportsnews.com/article/2138461",
+      "pub_date": "2026-04-18T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 호르무즈 다시 폐쇄…미국 봉쇄 해제 요구\" AP",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418174521eO7",
+      "pub_date": "2026-04-18T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
+      "pub_date": "2026-04-18T17:46:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전광훈 \"대한민국 망했다\" 보석 허가 뒤 첫 공개 행보",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269868",
+      "pub_date": "2026-04-18T17:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전광훈, 보석 후 광화문 집회 참석…“대한민국 망했다” 발언",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260418.99099005100",
+      "pub_date": "2026-04-18T17:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 “장특공제 폐지가 세금 많이 안긴다고? 명백한 거짓 선...",
       "link": "https://www.kyeonggi.com/article/20260418580050",
@@ -1567,33 +1657,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"AVC컵 A조 편성\" 여자배구대표팀, 진천서 18→14명 최종 점검",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16037990",
-      "pub_date": "2026-04-18T07:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "압구정 아파트 12층서 심야 화재…주민 60명 긴급 대피",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217618",
-      "pub_date": "2026-04-18T07:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미-이란 2차 협상 20일 파키스탄서 열린다",
-      "link": "https://magazine.hankyung.com/business/article/202604189444b",
-      "pub_date": "2026-04-18T07:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
