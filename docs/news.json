@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 09:25:27",
-  "total": 114,
-  "breaking": 68,
+  "updated": "2026-04-18 09:30:36",
+  "total": 112,
+  "breaking": 64,
   "items": [
+    {
+      "title": "환자 짜증낸다고 성기 꼬집어…외국인 간병인 집유",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606645417432",
+      "pub_date": "2026-04-18T09:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "군 복무하면서 4억대 사이버 도박을? 이 남성에게 내려진 건 벌금형",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523038&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'2R 2언더파 69타' 김민규, LIV 멕시코 단독 9위",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038065",
@@ -990,42 +1008,6 @@
       "pub_date": "2026-04-17T23:33:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 미국 도움 받아 모든 해양 기뢰 제거했거나 제거...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394564",
-      "pub_date": "2026-04-17T23:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈 해협 상황 종료되자 나토서 도움 필요한지 물...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394563",
-      "pub_date": "2026-04-17T23:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英총리 \"10여개국 호르무즈 방어임무 참여 준비\"",
-      "link": "https://www.imaeil.com/page/view/2026041723252857216",
-      "pub_date": "2026-04-17T23:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이스라엘, 더 이상 레바논 폭격하지 않을 것…미국이 금...",
-      "link": "https://news.jtbc.co.kr/article/NB12294765?influxDiv=NAVER",
-      "pub_date": "2026-04-17T23:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
