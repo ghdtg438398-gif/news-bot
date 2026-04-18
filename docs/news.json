@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-19 06:20:31",
-  "total": 58,
-  "breaking": 34,
+  "updated": "2026-04-19 06:25:30",
+  "total": 63,
+  "breaking": 40,
   "items": [
+    {
+      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
+      "pub_date": "2026-04-19T06:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
+      "link": "https://www.seoul.co.kr/news/politics/north/2026/04/19/20260419500002?wlog_tag3=naver",
+      "pub_date": "2026-04-19T06:24:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"北, 동쪽방향으로 미상 탄도미사일 발사\"",
+      "link": "http://www.fnnews.com/news/202604190618177239",
+      "pub_date": "2026-04-19T06:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260419062045MWT",
+      "pub_date": "2026-04-19T06:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 “北, 동쪽 방향으로 미상 탄도미사일 발사”",
+      "link": "https://www.sedaily.com/article/20034135?ref=naver",
+      "pub_date": "2026-04-19T06:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽으로 미상 탄도미사일 발사\"",
+      "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6141114",
+      "pub_date": "2026-04-19T06:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
+      "pub_date": "2026-04-19T06:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
+      "pub_date": "2026-04-19T06:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“운동은 먹는 것까지가 완성이다”…엄정화의 ‘당근 면’ 저속 노화 ...",
       "link": "https://www.segye.com/newsView/20260414521639?OutUrl=naver",
@@ -493,33 +565,6 @@
       "title": "[속보] 수원 연무동 화재 발생…주민에 접근 자제·창문 폐쇄 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864031",
       "pub_date": "2026-04-18T20:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "광주 4곳에 중대선거구제 첫 도입",
-      "link": "https://kjmbc.co.kr/NewsArticle/1514747",
-      "pub_date": "2026-04-18T20:25:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영국해사무역기구 \"이란 혁명수비대, 호르무즈 해협 지나는 유조...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041820210304162",
-      "pub_date": "2026-04-18T20:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260418/133765276/1",
-      "pub_date": "2026-04-18T20:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
