@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-18 16:25:24",
-  "total": 191,
+  "updated": "2026-04-18 16:30:29",
+  "total": 187,
   "breaking": 113,
   "items": [
     {
@@ -1684,42 +1684,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "2분에 600만원…인형뽑기방 턴 중학생들, 추가 범행도?",
-      "link": "https://news.jtbc.co.kr/article/NB12294769?influxDiv=NAVER",
-      "pub_date": "2026-04-18T06:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]'연개소문' 장혁, 오늘 몽골行..300억 대작 '문무' 주필산 전투 촬...",
-      "link": "https://www.starnewskorea.com/broadcast-drama/2026/04/18/2026041801060397183",
-      "pub_date": "2026-04-18T06:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "늑구 탈출에서 포획까지…동물원 재개장에 관심",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539372&ref=A",
-      "pub_date": "2026-04-18T06:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘늑구’ 탈출 10일째 생포…뱃속엔 2.6cm 낚싯바늘",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539371&ref=A",
-      "pub_date": "2026-04-18T06:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
