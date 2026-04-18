@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:10:25",
-  "total": 152,
-  "breaking": 122,
+  "updated": "2026-04-19 04:15:28",
+  "total": 149,
+  "breaking": 119,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -1339,33 +1339,6 @@
       "title": "[속보] 조국 \"4·16 기억식 불참? 허위사실 유포자들, 무얼 노리나\"",
       "link": "https://www.kyeonggi.com/article/20260418580079",
       "pub_date": "2026-04-18T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 군부 \"호르무즈 해협 통제 재개… 美, 해적행위\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269870",
-      "pub_date": "2026-04-18T18:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 정부 \"민항기에 동부 하늘길 재개방\"…영공 폐쇄 49일만",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045386",
-      "pub_date": "2026-04-18T18:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 군부 “호르무즈 해협 통제 재개”…“미국 봉쇄 지속에 대...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260418.99099005102",
-      "pub_date": "2026-04-18T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
