@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-18 10:30:34",
-  "total": 144,
-  "breaking": 93,
+  "updated": "2026-04-18 10:35:28",
+  "total": 152,
+  "breaking": 100,
   "items": [
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…정원오와 본선 대결",
+      "link": "https://www.ajunews.com/view/20260418102730395",
+      "pub_date": "2026-04-18T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
+      "link": "https://www.mk.co.kr/article/12020640",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 서울시장 3연임 도전…정원오와 맞대결",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500017?wlog_tag3=naver",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
+      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
+      "pub_date": "2026-04-18T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
+      "link": "https://economist.co.kr/article/view/ecn202604180006",
+      "pub_date": "2026-04-18T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260418029200011?input=1195m",
+      "pub_date": "2026-04-18T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與 정원오와 대결",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=701846",
+      "pub_date": "2026-04-18T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.munhwa.com/article/11583198?ref=naver",
@@ -40,7 +112,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정...與 정원오와 대결",
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269850",
       "pub_date": "2026-04-18T10:25:00+09:00",
       "source_id": "yna",
@@ -112,6 +184,15 @@
       "is_scoop": false
     },
     {
+      "title": "SK하이닉스, HBM4E에 TSMC 3나노 적용…삼성 추격 차단",
+      "link": "https://www.sedaily.com/article/20034064?ref=naver",
+      "pub_date": "2026-04-18T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029697596&code=61111111&cp=nv",
       "pub_date": "2026-04-18T10:19:00+09:00",
@@ -136,15 +217,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "SK하이닉스, HBM4E에 TSMC 3나노 적용…삼성 추격 차단",
-      "link": "https://www.sedaily.com/article/20034064?ref=naver",
-      "pub_date": "2026-04-18T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
