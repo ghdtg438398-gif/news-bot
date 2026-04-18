@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 08:40:32",
+  "updated": "2026-04-19 08:45:26",
   "total": 92,
   "breaking": 58,
   "items": [
@@ -49,20 +49,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.newspim.com/news/view/20260419000005",
-      "pub_date": "2026-04-19T08:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://magazine.hankyung.com/business/article/202604190218b",
       "pub_date": "2026-04-19T08:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.newspim.com/news/view/20260419000005",
+      "pub_date": "2026-04-19T08:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
