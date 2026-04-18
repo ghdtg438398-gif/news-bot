@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 14:20:28",
-  "total": 199,
-  "breaking": 121,
+  "updated": "2026-04-18 14:25:25",
+  "total": 200,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] ‘충격 결말’ 레알 마드리드 또 ‘감독 경질’ 사령탑 교체, 西...",
+      "link": "https://sports.khan.co.kr/article/202604181420003?pt=nv",
+      "pub_date": "2026-04-18T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 룸살롱 접대받고 女인플루언서 사건 덮은 경찰청 간부… 직위 해...",
       "link": "https://www.seoul.co.kr/news/society/2026/04/18/20260418500031?wlog_tag3=naver",
