@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 07:40:27",
-  "total": 75,
-  "breaking": 49,
+  "updated": "2026-04-19 07:45:27",
+  "total": 76,
+  "breaking": 50,
   "items": [
+    {
+      "title": "호르무즈 기뢰 제거, 미국 단독 불가…나토 없인 '무력’",
+      "link": "https://www.g-enews.com/view.php?ud=2026041907411357272bd56fbc3c_1",
+      "pub_date": "2026-04-19T07:44:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 합참 \"北 신포 일대서 동해상으로, 미상 탄도미사일 수 발 포착\"",
+      "link": "http://www.fnnews.com/news/202604190730280054",
+      "pub_date": "2026-04-19T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'새 코스레코드 9언더파' 방신실, 단독4위로 '우승 경쟁'…2연패 보인다...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019849",
@@ -94,6 +112,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
+      "pub_date": "2026-04-19T07:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] NHK \"北 탄도미사일 가능성 물체, 日 EEZ 밖 낙하한 듯\"",
       "link": "https://www.hankyung.com/article/2026041901067",
       "pub_date": "2026-04-19T07:00:00+09:00",
@@ -108,15 +135,6 @@
       "pub_date": "2026-04-19T07:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -139,7 +157,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 “북한, 동쪽 방향으로 탄도미사일 발사”…올해 7번째 탄도...",
+      "title": "[속보]합참 “북한, 동해로 탄도미사일 여러 발 발사”…올해 7번째 탄...",
       "link": "https://www.khan.co.kr/article/202604190658001",
       "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
@@ -666,15 +684,6 @@
       "pub_date": "2026-04-18T22:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 군부, 호르무즈 개방 ‘전격 선언’ 외무장관에 ‘불만’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539603&ref=A",
-      "pub_date": "2026-04-18T21:44:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
