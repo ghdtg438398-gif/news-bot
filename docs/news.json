@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 23:15:27",
+  "updated": "2026-04-18 23:20:26",
   "total": 200,
   "breaking": 154,
   "items": [
+    {
+      "title": "이란 군부 \"2차 협상 합의 아직\"…호르무즈 개방 선언에 제동",
+      "link": "https://view.asiae.co.kr/article/2026041823134462326",
+      "pub_date": "2026-04-18T23:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
       "link": "https://imnews.imbc.com/news/2026/world/article/6816295_36925.html",
@@ -49,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해”",
-      "link": "https://www.viva100.com/article/20260418500200",
+      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 “대화 순조롭게 진행”",
+      "link": "https://www.joongang.co.kr/article/25421303",
       "pub_date": "2026-04-18T22:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 “대화 순조롭게 진행”",
-      "link": "https://www.joongang.co.kr/article/25421303",
+      "title": "[속보] 트럼프 “이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해”",
+      "link": "https://www.viva100.com/article/20260418500200",
       "pub_date": "2026-04-18T22:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 18일 대구 LG-삼성전, '사자 천적' 임찬규, 삼성 7연승 저지할...",
-      "link": "https://www.newspim.com/news/view/20260418000045",
-      "pub_date": "2026-04-18T13:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
