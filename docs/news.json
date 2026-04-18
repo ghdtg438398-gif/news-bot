@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 01:00:35",
+  "updated": "2026-04-19 01:05:26",
   "total": 188,
   "breaking": 148,
   "items": [
+    {
+      "title": "4월 18일 모닝 뉴스 헤드라인",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493556",
+      "pub_date": "2026-04-19T01:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'양준혁·박용택 넘었다' 연이틀 KBO 역대 단독 4위 기록 제조!…뿌듯한...",
       "link": "https://www.xportsnews.com/article/2138592",
@@ -1684,15 +1693,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "효성가 '형제의 난' 조현준 회장 증인 불출석... 재판 장기화",
-      "link": "https://www.insight.co.kr/news/550670",
-      "pub_date": "2026-04-18T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
