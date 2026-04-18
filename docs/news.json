@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 06:35:24",
-  "total": 61,
-  "breaking": 40,
+  "updated": "2026-04-19 06:40:38",
+  "total": 60,
+  "breaking": 39,
   "items": [
+    {
+      "title": "[속보] 합참 \"北, 동쪽 방향으로 탄도미사일 발사\"…11일만의 도발",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190005",
+      "pub_date": "2026-04-19T06:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.segye.com/newsView/20260419501475?OutUrl=naver",
+      "pub_date": "2026-04-19T06:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523434&plink=ORI&cooper=NAVER",
@@ -40,7 +58,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “北, 동쪽 방향으로 탄도미사일 발사”",
+      "title": "[속보] 합참 “北, 동쪽 방향으로 탄도미사일 발사”... 올해 7번째",
       "link": "https://www.chosun.com/politics/north_korea/2026/04/19/REW2GH46QFBU7FL23YDQNQYLDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-19T06:25:00+09:00",
       "source_id": "chosun",
@@ -49,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
+      "link": "https://www.dt.co.kr/article/12058094?ref=naver",
       "pub_date": "2026-04-19T06:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,18 +85,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://www.dt.co.kr/article/12058094?ref=naver",
+      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
       "pub_date": "2026-04-19T06:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “北, 동쪽 방향으로 미상 탄도미사일 발사”",
-      "link": "https://www.sedaily.com/article/20034135?ref=naver",
-      "pub_date": "2026-04-19T06:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -87,6 +96,15 @@
     {
       "title": "[속보] 합참 \"北, 동쪽방향으로 미상 탄도미사일 발사\"",
       "link": "http://www.fnnews.com/news/202604190618177239",
+      "pub_date": "2026-04-19T06:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 “北, 동쪽 방향으로 미상 탄도미사일 발사”",
+      "link": "https://www.sedaily.com/article/20034135?ref=naver",
       "pub_date": "2026-04-19T06:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
       "pub_date": "2026-04-19T06:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
+      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
       "pub_date": "2026-04-19T06:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,15 +193,6 @@
       "is_scoop": false
     },
     {
-      "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
-      "link": "https://www.newspim.com/news/view/20260417001032",
-      "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
       "link": "https://www.news1.kr/society/court-prosecution/6140569",
       "pub_date": "2026-04-19T06:00:00+09:00",
@@ -191,6 +200,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
+      "link": "https://www.newspim.com/news/view/20260417001032",
+      "pub_date": "2026-04-19T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
@@ -520,33 +538,6 @@
       "title": "[속보] “이란 혁명수비대, 호르무즈서 유조선에 발포”",
       "link": "https://www.dailian.co.kr/news/view/1635131/?sc=Naver",
       "pub_date": "2026-04-18T20:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선 발포\"…선박·승무원...",
-      "link": "http://www.fnnews.com/news/202604182028399413",
-      "pub_date": "2026-04-18T20:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260418.99099005105",
-      "pub_date": "2026-04-18T20:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“이란 혁명수비대, 유조선에 발포”…모즈타바 “적에 쓰라린 패...",
-      "link": "https://www.donga.com/news/Inter/article/all/20260418/133765286/2",
-      "pub_date": "2026-04-18T20:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
