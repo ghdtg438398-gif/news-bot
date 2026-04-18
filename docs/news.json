@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 16:35:25",
-  "total": 187,
-  "breaking": 113,
+  "updated": "2026-04-18 16:40:30",
+  "total": 186,
+  "breaking": 112,
   "items": [
     {
       "title": "후반 35분 왼발 결승골…수원 삼성, 경남 꺾고 선두 추격",
@@ -1675,15 +1675,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]44살 나탈리 포트만, 이혼 아픔 딛고 셋째 임신 \"이번이 마지막\"[...",
-      "link": "https://www.mydaily.co.kr/page/view/2026041806363081598",
-      "pub_date": "2026-04-18T06:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
