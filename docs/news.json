@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 10:35:28",
-  "total": 152,
-  "breaking": 100,
+  "updated": "2026-04-18 10:40:30",
+  "total": 156,
+  "breaking": 102,
   "items": [
+    {
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418502&PRO_CODE=99",
+      "pub_date": "2026-04-18T10:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘육우를 한우로’ 4년 속였다…춘천 레스토랑 업주 집유",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02118886645417432",
+      "pub_date": "2026-04-18T10:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 오세훈, 국민의힘 서울시장 후보 확정…정원오와 본선 대결",
       "link": "https://www.ajunews.com/view/20260418102730395",
@@ -10,6 +28,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서울 구로구 일대 한때 정전…2시간 만에 복구",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523094&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -64,6 +91,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈, 5선 도전한다...국힘 서울시장 후보 확정",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604180252&t=NN",
+      "pub_date": "2026-04-18T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
