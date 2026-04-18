@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 21:15:30",
+  "updated": "2026-04-18 21:20:30",
   "total": 200,
   "breaking": 150,
   "items": [
+    {
+      "title": "[AI상보] KT, 안우진 등판 키움에 4-2 승리…보쉴리 22이닝 무실점 대기...",
+      "link": "https://www.newspim.com/news/view/20260418000090",
+      "pub_date": "2026-04-18T21:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 하메네이 \"이란 해군, 적에 새 패배 안길 준비\"",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260418210700KlK",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[LPGA] 김세영, 이틀 연속 7언더 몰아쳐 단독 선두…윤이나 3위",
-      "link": "https://www.newspim.com/news/view/20260418000040",
-      "pub_date": "2026-04-18T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
