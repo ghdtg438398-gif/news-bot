@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 21:00:34",
+  "updated": "2026-04-18 21:05:27",
   "total": 200,
-  "breaking": 151,
+  "breaking": 150,
   "items": [
+    {
+      "title": "수원 장안구 연무동 화재 발생… \"접근 자제 및 창문 폐쇄\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560421",
+      "pub_date": "2026-04-18T21:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 최고지도자 \"용맹한 이란 해군, 적에 쓰라린 패배 안길 준비...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041820555551965",
+      "pub_date": "2026-04-18T21:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란, 호르무즈 해협 다시 봉쇄... 선박들 회항",
+      "link": "http://www.fnnews.com/news/202604182100363984",
+      "pub_date": "2026-04-18T21:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]전광훈, 보석 뒤 첫 광화문 집회 참석…“대한민국 이미 망했다”...",
       "link": "https://www.kwnews.co.kr/page/view/2026041850024200000",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 트럼프, 이란 관련해 \"꽤 좋은 소식 있어…중동 상황 순조로운 ...",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260418120411kcP",
       "pub_date": "2026-04-18T12:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"합의 불발시 해협 봉쇄 유지…다시 폭탄 투하할 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418120043mDz",
-      "pub_date": "2026-04-18T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
-      "pub_date": "2026-04-18T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"수요일까지 합의 이뤄지지 않으면 휴전 종료할 수도\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604181159294fq",
-      "pub_date": "2026-04-18T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
