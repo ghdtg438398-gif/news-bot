@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 05:50:25",
-  "total": 96,
-  "breaking": 73,
+  "updated": "2026-04-19 05:55:26",
+  "total": 88,
+  "breaking": 65,
   "items": [
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
@@ -790,78 +790,6 @@
       "title": "[속보] 이란 최고지도자 “이란군, 적에 새로운 쓰라린 패배 안길 준비...",
       "link": "https://www.joongang.co.kr/article/25421297",
       "pub_date": "2026-04-18T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영국 해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816267_36925.html",
-      "pub_date": "2026-04-18T19:55:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.dt.co.kr/article/12058076?ref=naver",
-      "pub_date": "2026-04-18T19:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "https://www.hankyung.com/article/2026041899137",
-      "pub_date": "2026-04-18T19:54:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418053700099?input=1195m",
-      "pub_date": "2026-04-18T19:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "https://www.joongang.co.kr/article/25421296",
-      "pub_date": "2026-04-18T19:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]英해사무역기구 \"이란 혁명수비대, 유조선 발포\"",
-      "link": "https://view.asiae.co.kr/article/2026041819545694613",
-      "pub_date": "2026-04-18T19:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]광화문집회 복귀 전광훈의 일성, “대한민국은 이미 망해”",
-      "link": "https://www.munhwa.com/article/11583245?ref=naver",
-      "pub_date": "2026-04-18T19:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선에 발포\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418053500085?input=1195m",
-      "pub_date": "2026-04-18T19:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
