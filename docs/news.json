@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 17:10:26",
-  "total": 180,
-  "breaking": 114,
+  "updated": "2026-04-18 17:15:28",
+  "total": 178,
+  "breaking": 113,
   "items": [
     {
       "title": "[속보] 진짜 폰세급 외인 떴다! 데뷔 후 17⅓이닝 무실점 위엄→페디 넘...",
@@ -1602,24 +1602,6 @@
       "pub_date": "2026-04-18T07:18:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충격의 104일 결근..'병역비리' 송민호, 드디어 법정 출근[★FOCUS]",
-      "link": "https://www.starnewskorea.com/music/2026/04/18/2026041612054178207",
-      "pub_date": "2026-04-18T07:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
-      "link": "https://www.mk.co.kr/article/12020588",
-      "pub_date": "2026-04-18T07:11:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
