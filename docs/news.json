@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 12:15:25",
-  "total": 176,
+  "updated": "2026-04-18 12:20:26",
+  "total": 178,
   "breaking": 111,
   "items": [
+    {
+      "title": "“20년 만의 원정 승리 기억 되살린다”, 대전하나시티즌 '서울전 배수...",
+      "link": "http://www.breaknews.com/1201333",
+      "pub_date": "2026-04-18T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "선관위 “배기철 후보 선거법 위반 사실 여부 확인 중”",
+      "link": "http://www.breaknews.com/1201342",
+      "pub_date": "2026-04-18T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 세종포천고속도로 금광터널 사고…세종 방향 전면 통제",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864007",
@@ -76,8 +94,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
-      "link": "https://www.imaeil.com/page/view/2026041811414264339",
+      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
+      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
+      "link": "https://www.imaeil.com/page/view/2026041811414264339",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +148,8 @@
       "is_scoop": true
     },
     {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
