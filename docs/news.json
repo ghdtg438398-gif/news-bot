@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 19:40:29",
+  "updated": "2026-04-18 19:45:29",
   "total": 200,
-  "breaking": 146,
+  "breaking": 145,
   "items": [
+    {
+      "title": "'KBO 새 역사 쓰더니' KT도 4연승 질주→'7연승' 삼성만 아니면 1위인데...",
+      "link": "https://www.xportsnews.com/article/2138542",
+      "pub_date": "2026-04-18T19:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경기도 고양 10층 건물 옥상서 고교생 추락사…경찰 조사",
       "link": "https://www.dt.co.kr/article/12058073?ref=naver",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-18T10:14:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.joongang.co.kr/article/25421264",
-      "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
