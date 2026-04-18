@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 09:05:27",
-  "total": 125,
-  "breaking": 78,
+  "updated": "2026-04-18 09:06:16",
+  "total": 126,
+  "breaking": 77,
   "items": [
+    {
+      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
+      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
+      "pub_date": "2026-04-18T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[재난문자] 인천 계양산 국악제 행사로 교통 통제 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560241",
+      "pub_date": "2026-04-18T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "②본업 흔들리는데 전방위 인수전…태광 이호진 '오너 귀환' 시동",
       "link": "https://www.asiatime.co.kr/article/20260417500140",
@@ -1114,15 +1132,6 @@
       "title": "[속보] 트럼프 “해상봉쇄는 유지…이스라엘, 레바논 폭격 안할 것”",
       "link": "https://www.hani.co.kr/arti/international/america/1254784.html",
       "pub_date": "2026-04-17T23:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 이란 '호르무즈 개방'에 \"땡큐...對이란 해상봉쇄는 계속...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604170075",
-      "pub_date": "2026-04-17T23:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
