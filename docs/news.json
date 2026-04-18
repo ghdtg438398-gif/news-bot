@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 06:30:35",
+  "updated": "2026-04-19 06:35:24",
   "total": 61,
-  "breaking": 39,
+  "breaking": 40,
   "items": [
+    {
+      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523434&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T06:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'골프인생 최고의 9개 홀' 윤이나, LA 챔피언십 선두 경쟁 [LPGA]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019846",
+      "pub_date": "2026-04-19T06:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://www.mk.co.kr/article/12020865",
@@ -22,7 +40,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “北, 동쪽 방향으로 미상 탄도미사일 발사”",
+      "title": "[속보] 합참 “北, 동쪽 방향으로 탄도미사일 발사”",
       "link": "https://www.chosun.com/politics/north_korea/2026/04/19/REW2GH46QFBU7FL23YDQNQYLDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-19T06:25:00+09:00",
       "source_id": "chosun",
@@ -157,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
-      "link": "https://www.news1.kr/society/court-prosecution/6140569",
-      "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
       "link": "https://www.newspim.com/news/view/20260417001032",
       "pub_date": "2026-04-19T06:00:00+09:00",
@@ -173,6 +182,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
+      "link": "https://www.news1.kr/society/court-prosecution/6140569",
+      "pub_date": "2026-04-19T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
@@ -532,24 +550,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[KLPGA] 김민선 넥센·세인트나인 2R 단독 선두...코스 레코드 방신실 4위...",
-      "link": "https://www.newspim.com/news/view/20260418000095",
-      "pub_date": "2026-04-18T20:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "선발 투수 퇴장에도 7연승‥삼성, '우승 후보' 맞대결서 완승",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816282_37004.html",
-      "pub_date": "2026-04-18T20:31:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
