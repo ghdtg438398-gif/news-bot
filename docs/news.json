@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 04:45:26",
-  "total": 111,
-  "breaking": 84,
+  "updated": "2026-04-19 04:50:28",
+  "total": 108,
+  "breaking": 82,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -970,33 +970,6 @@
       "title": "[속보] 위성곤, 민주 제주지사 후보 확정…국힘 문성유와 맞대결",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260418.99099005104",
       "pub_date": "2026-04-18T18:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]“혁명수비대, 여전히 무전으로 경고 방송”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524812",
-      "pub_date": "2026-04-18T18:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] “일본인이 내 몸에 소변을”…부산 게스트하우스 찾은 중국인 ...",
-      "link": "https://biz.heraldcorp.com/article/10720200?ref=naver",
-      "pub_date": "2026-04-18T18:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김용 \"내란·정치검찰 심판 선거에 출마하는 것은 역풍 아니라 순...",
-      "link": "https://www.kyeonggi.com/article/20260418580090",
-      "pub_date": "2026-04-18T18:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
