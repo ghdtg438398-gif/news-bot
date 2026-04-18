@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 05:15:26",
-  "total": 102,
-  "breaking": 78,
+  "updated": "2026-04-19 05:20:26",
+  "total": 99,
+  "breaking": 76,
   "items": [
     {
       "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
@@ -893,33 +893,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] “학원 휴식시간에 옥상으로” 고양 10층 건물서 고교생 추락사...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/18/20260418500053?wlog_tag3=naver",
-      "pub_date": "2026-04-18T19:20:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[아는기자]엇갈린 여야 표정…현재 대진표?",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524825",
-      "pub_date": "2026-04-18T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 배현진, '방미' 장동혁 향해 \"열흘이나 집 비운 가장…거취 고민...",
-      "link": "https://www.imaeil.com/page/view/2026041818385019304",
-      "pub_date": "2026-04-18T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
