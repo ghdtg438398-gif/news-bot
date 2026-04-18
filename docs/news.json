@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 13:35:26",
-  "total": 193,
+  "updated": "2026-04-18 13:40:30",
+  "total": 196,
   "breaking": 118,
   "items": [
+    {
+      "title": "드래곤포니, 6월 일본 첫 EP 'Run to Run'으로 데뷔 확정",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532279",
+      "pub_date": "2026-04-18T13:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA 투어 LA 챔피언십 2R 단독 선두…윤이나 3위",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523160&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T13:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[2026년 4월 3주] 이주의 코스메틱 뉴스",
       "link": "https://www.mhj21.com/news/articleView.html?idxno=251651",
@@ -15,6 +33,15 @@
     {
       "title": "[초점] 인천시교육청, '제3회 읽걷쓰 출판전시회' 대성황",
       "link": "https://www.g-enews.com/view.php?ud=2026041812172475979ae5042aca_1",
+      "pub_date": "2026-04-18T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI프리뷰] 18일 수원 KT-키움전, 키움 '안우진+배동현' 전략 또 통할지",
+      "link": "https://www.newspim.com/news/view/20260418000049",
       "pub_date": "2026-04-18T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
