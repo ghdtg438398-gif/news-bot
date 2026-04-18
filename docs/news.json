@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 11:45:30",
-  "total": 171,
+  "updated": "2026-04-18 11:50:29",
+  "total": 172,
   "breaking": 107,
   "items": [
+    {
+      "title": "화려한 부활 노리는 김세영, LA 챔피언십 2R 단독 선두 도약",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02171366645417432",
+      "pub_date": "2026-04-18T11:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
       "link": "https://www.imaeil.com/page/view/2026041811414264339",
@@ -49,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +67,8 @@
       "is_scoop": true
     },
     {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
