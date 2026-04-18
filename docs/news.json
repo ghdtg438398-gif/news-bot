@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 12:10:32",
-  "total": 178,
-  "breaking": 112,
+  "updated": "2026-04-18 12:15:25",
+  "total": 176,
+  "breaking": 111,
   "items": [
     {
       "title": "[속보] 세종포천고속도로 금광터널 사고…세종 방향 전면 통제",
@@ -76,8 +76,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
+      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
+      "link": "https://www.imaeil.com/page/view/2026041811414264339",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
-      "link": "https://www.imaeil.com/page/view/2026041811414264339",
+      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +130,8 @@
       "is_scoop": true
     },
     {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1585,24 +1585,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '안타까운 비보' 에인절스 우승 이끈 전설, 향년 53세로 세상 떠...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553148447",
-      "pub_date": "2026-04-18T02:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "비트코인 반등 이끈 호르무즈 해협 개방…이더리움 보안·CFTC 규제도 주...",
-      "link": "https://www.tokenpost.kr/news/cryptocurrency/350809",
-      "pub_date": "2026-04-18T02:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
