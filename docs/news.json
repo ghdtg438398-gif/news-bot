@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 02:25:23",
-  "total": 184,
-  "breaking": 146,
+  "updated": "2026-04-19 02:30:32",
+  "total": 185,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 토트넘, 또 무너졌다! 日 미토마 환상 동점포, 손흥민 친정팀 울...",
+      "link": "https://www.xportsnews.com/article/2138662",
+      "pub_date": "2026-04-19T02:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "4월 18일 모닝 뉴스 헤드라인",
       "link": "https://www.radiokorea.com/news/article.php?uid=493556",
