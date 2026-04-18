@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 21:25:30",
+  "updated": "2026-04-18 21:30:33",
   "total": 200,
   "breaking": 150,
   "items": [
+    {
+      "title": "[속보] 모즈타바 “이란 해군, 적에 새로운 쓰라린 패배 안길 준비”",
+      "link": "https://www.sedaily.com/article/20034119?ref=naver",
+      "pub_date": "2026-04-18T21:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[AI상보] KT, 안우진 등판 키움에 4-2 승리…보쉴리 22이닝 무실점 대기...",
       "link": "https://www.newspim.com/news/view/20260418000090",
@@ -31,7 +40,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 최고지도자 \"용맹한 이란 해군, 적에 쓰라린 패배 안길 준비...",
+      "title": "[속보] 하메네이 \"용맹한 이란 해군, 적에 쓰라린 패배 안길 준비 완료...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041820555551965",
       "pub_date": "2026-04-18T21:03:00+09:00",
       "source_id": "yna",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 세종포천고속도로 금광터널 사고…세종 방향 전면 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864007",
-      "pub_date": "2026-04-18T12:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
