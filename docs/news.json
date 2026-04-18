@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 21:30:33",
+  "updated": "2026-04-18 21:35:29",
   "total": 200,
   "breaking": 150,
   "items": [
@@ -10,6 +10,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서울 ‘무패 행진’ 멈춘 대전의 투혼",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539569&ref=A",
+      "pub_date": "2026-04-18T21:23:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1788,15 +1797,6 @@
     {
       "title": "“20년 만의 원정 승리 기억 되살린다”, 대전하나시티즌 '서울전 배수...",
       "link": "http://www.breaknews.com/1201333",
-      "pub_date": "2026-04-18T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "선관위 “배기철 후보 선거법 위반 사실 여부 확인 중”",
-      "link": "http://www.breaknews.com/1201342",
       "pub_date": "2026-04-18T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
