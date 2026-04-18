@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 03:55:24",
-  "total": 159,
-  "breaking": 128,
+  "updated": "2026-04-19 04:00:33",
+  "total": 156,
+  "breaking": 126,
   "items": [
+    {
+      "title": "전남도, 겨울철 취약계층 3만7천 가구 집중 지원…\"안전·난방·생계까지...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745275",
+      "pub_date": "2026-04-19T03:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "수원 연무동 다세대주택 화재...주민 11명 긴급 대피",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560456",
@@ -1396,42 +1405,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 배현진, 장동혁 겨냥 “눈치 없는 건지…거취 고민하라”",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260418507&PRO_CODE=99",
-      "pub_date": "2026-04-18T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[김남현의 채권썰] 중동휴전 위험선호 그리고 물가..feat. 총재 공석",
-      "link": "https://www.etoday.co.kr/news/view/2576898",
-      "pub_date": "2026-04-18T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 군부 “美봉쇄에 호르무즈 해협 통제 재개”",
-      "link": "https://www.sedaily.com/article/20034104?ref=naver",
-      "pub_date": "2026-04-18T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주당 군산시장 결선 앞두고 혼탁 양상",
-      "link": "http://www.jeollailbo.com/news/articleView.html?idxno=797923",
-      "pub_date": "2026-04-18T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
