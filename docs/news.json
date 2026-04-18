@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 12:00:39",
-  "total": 172,
-  "breaking": 107,
+  "updated": "2026-04-18 12:05:26",
+  "total": 175,
+  "breaking": 110,
   "items": [
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333860",
+      "pub_date": "2026-04-18T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"합의 불발시 해협 봉쇄 유지…다시 폭탄 투하할 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418120043mDz",
+      "pub_date": "2026-04-18T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"수요일까지 합의 이뤄지지 않으면 휴전 종료할 수도\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604181159294fq",
+      "pub_date": "2026-04-18T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] \"부산 게스트하우스서 성추행\" 中여성 주장 일파만파…경찰 수사",
       "link": "https://www.kyeonggi.com/article/20260418580044",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +103,8 @@
       "is_scoop": true
     },
     {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
