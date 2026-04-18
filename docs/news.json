@@ -1,10 +1,28 @@
 {
-  "updated": "2026-04-18 18:10:28",
-  "total": 189,
-  "breaking": 124,
+  "updated": "2026-04-18 18:15:32",
+  "total": 191,
+  "breaking": 127,
   "items": [
     {
-      "title": "[속보] 이란 군부 \"호르무즈 해협, 다시 통제한다\"",
+      "title": "[속보] 이란 \"호르무즈 해협 다시 통제···미군 봉쇄 해제 요구\"",
+      "link": "https://magazine.hankyung.com/business/article/202604189848b",
+      "pub_date": "2026-04-18T18:09:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란, 호르무즈 해협 통제 재개… \"미국 해적 행위에 맞대응\"",
+      "link": "https://economist.co.kr/article/view/ecn202604180019",
+      "pub_date": "2026-04-18T18:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 군부 \"호르무즈 해협, 다시 통제한다… 美 해적 행위 탓\"",
       "link": "https://www.hankookilbo.com/news/article/A2026041818000001600?did=NA",
       "pub_date": "2026-04-18T18:08:00+09:00",
       "source_id": "yna",
@@ -46,6 +64,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 군부 “美봉쇄에 호르무즈 해협 통제 재개”",
+      "link": "https://www.sedaily.com/article/20034104?ref=naver",
+      "pub_date": "2026-04-18T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -103,20 +130,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란 “호르무즈 다시 이전처럼 통제...美, 봉쇄 명목으로 해적질...",
-      "link": "https://biz.heraldcorp.com/article/10720192?ref=naver",
-      "pub_date": "2026-04-18T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] “이란, 호르무즈 다시 통제…미군 봉쇄 해제 요구”",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698521&code=61131111&cp=nv",
       "pub_date": "2026-04-18T17:49:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “호르무즈 다시 이전처럼 통제…美 해적질”",
+      "link": "https://biz.heraldcorp.com/article/10720192?ref=naver",
+      "pub_date": "2026-04-18T17:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,11 +175,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
+      "title": "[속보] \"이란, 호르무즈 다시 폐쇄…미국 봉쇄 해제 요구\" AP",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418174521eO7",
       "pub_date": "2026-04-18T17:46:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,11 +193,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란, 호르무즈 다시 폐쇄…미국 봉쇄 해제 요구\" AP",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260418174521eO7",
+      "title": "[속보] 李 “실거주 1주택자 세금폭탄? 명백한 거짓선동”",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/18/20260418500046?wlog_tag3=naver",
       "pub_date": "2026-04-18T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1692,15 +1719,6 @@
       "pub_date": "2026-04-18T08:28:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[PGA] 벙커샷 버디! 벌렁 드러누운 김시우, 공동 7위 도약",
-      "link": "https://www.newspim.com/news/view/20260418000015",
-      "pub_date": "2026-04-18T08:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
