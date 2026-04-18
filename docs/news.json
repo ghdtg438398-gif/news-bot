@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 08:55:24",
-  "total": 126,
-  "breaking": 81,
+  "updated": "2026-04-18 09:00:37",
+  "total": 125,
+  "breaking": 80,
   "items": [
+    {
+      "title": "[속보] 한밤 압구정 아파트 12층서 화재…주민 60여 명 긴급 대피",
+      "link": "https://www.dailian.co.kr/news/view/1635053/?sc=Naver",
+      "pub_date": "2026-04-18T08:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '와' 이정후 또 첫 타석부터 벼락같은 '173.2㎞ 레이저 안타+득점...",
       "link": "https://www.starnewskorea.com/sports/2026/04/18/2026041808155042164",
@@ -1114,24 +1123,6 @@
       "title": "[속보] 트럼프, 이란의 ‘호르무즈 완전개방’ 발표에 “땡큐”",
       "link": "https://www.viva100.com/article/20260417500754",
       "pub_date": "2026-04-17T23:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"호르무즈해협 항행 자유 위해 실질적 기여할 것\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026041722440002305?did=NA",
-      "pub_date": "2026-04-17T22:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 호르무즈 통항 위한 정상회의 참석…“해협 항행 자유...",
-      "link": "https://www.khan.co.kr/article/202604172258001",
-      "pub_date": "2026-04-17T22:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
