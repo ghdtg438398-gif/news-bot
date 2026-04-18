@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 11:20:31",
+  "updated": "2026-04-18 11:25:25",
   "total": 162,
   "breaking": 100,
   "items": [
@@ -28,6 +28,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美, 러시아산 원유 판매 한달 더 허용…제재완화 연장",
+      "link": "https://www.dt.co.kr/article/12058060?ref=naver",
+      "pub_date": "2026-04-18T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -67,21 +76,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘명픽’ 정원오 vs ‘5선 도전’ 오세훈…서울시장 맞대결",
-      "link": "https://www.donga.com/news/Politics/article/all/20260418/133764788/2",
-      "pub_date": "2026-04-18T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중요부위 꼬집고 기저귀로 구타...80대 환자 폭행한 외국인 간병인",
       "link": "https://www.mt.co.kr/society/2026/04/18/2026041810312529205",
       "pub_date": "2026-04-18T10:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘명픽’ 정원오 vs ‘5선 도전’ 오세훈…서울시장 맞대결",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133764788/2",
+      "pub_date": "2026-04-18T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.etnews.com/20260418000040",
+      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.munhwa.com/article/11583201?ref=naver",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://www.munhwa.com/article/11583201?ref=naver",
+      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
+      "link": "https://www.etnews.com/20260418000040",
       "pub_date": "2026-04-18T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
-      "link": "https://economist.co.kr/article/view/ecn202604180006",
+      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
+      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 '서울시장 후보'에 오세훈…與정원오와 맞대결",
-      "link": "https://news.tf.co.kr/read/ptoday/2314607.htm",
+      "title": "[속보] 오세훈, 국민의힘 서울시장 후보...與정원오와 대결",
+      "link": "https://economist.co.kr/article/view/ecn202604180006",
       "pub_date": "2026-04-18T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1447,15 +1456,6 @@
       "title": "[속보] 트럼프 \"美·이란, 아마 이번주말 회담…하루이틀내 합의\"",
       "link": "https://www.yna.co.kr/view/AKR20260418002800071?input=1195m",
       "pub_date": "2026-04-18T01:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광주 4곳 광역의회 중대선거제 최초 도입 법안 통과",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333854",
-      "pub_date": "2026-04-18T01:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
