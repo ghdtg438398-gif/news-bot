@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 06:15:33",
-  "total": 61,
-  "breaking": 37,
+  "updated": "2026-04-19 06:20:31",
+  "total": 58,
+  "breaking": 34,
   "items": [
+    {
+      "title": "“운동은 먹는 것까지가 완성이다”…엄정화의 ‘당근 면’ 저속 노화 ...",
+      "link": "https://www.segye.com/newsView/20260414521639?OutUrl=naver",
+      "pub_date": "2026-04-19T06:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] IMF “빠르게 느는 한국 부채비율, 내년 56.6%…선진 非기축통화...",
+      "link": "https://www.dt.co.kr/article/12058093?ref=naver",
+      "pub_date": "2026-04-19T06:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 헤즈볼라 수장, 레바논에 대한 이스라엘 정전 위반에 보복 밝혀",
       "link": "https://www.newsis.com/view/NISX20260419_0003596788",
@@ -506,51 +524,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 쓰라린 패배 안길 준비\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269875",
-      "pub_date": "2026-04-18T20:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 최고지도자 \"이란군, 적에 새로운 패배 안길 준비\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394673",
-      "pub_date": "2026-04-18T20:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 “이란 혁명수비대, 유조선에 발포”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698806&code=61131111&cp=nv",
-      "pub_date": "2026-04-18T20:18:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 英해사무역기구 \"이란 혁명수비대, 유조선 향해 발포\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394672",
-      "pub_date": "2026-04-18T20:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산 사상구 단독주택 화재…70대 남성 숨져",
-      "link": "https://www.nocutnews.co.kr/news/6504492?utm_source=naver&utm_medium=article&utm_campaign=20260418081555",
-      "pub_date": "2026-04-18T20:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
