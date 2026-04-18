@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-18 11:40:32",
-  "total": 167,
-  "breaking": 103,
+  "updated": "2026-04-18 11:45:30",
+  "total": 171,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
+      "link": "https://www.imaeil.com/page/view/2026041811414264339",
+      "pub_date": "2026-04-18T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
+      "pub_date": "2026-04-18T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미중 정상회담 특별할 것…역사적 만남 될 수도\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418114042oPg",
+      "pub_date": "2026-04-18T11:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"시진핑, 호르무즈 해협 개방에 매우 기뻐해\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418113955t1c",
+      "pub_date": "2026-04-18T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 10대 의붓딸 성폭행하며 “교육한 것”… 무직 40대男, 친딸도 학...",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/18/20260418500023?wlog_tag3=naver",
@@ -103,21 +139,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 술 마시던 친구가 가해자로…집까지 쫓아와 흉기 휘두른 50대",
-      "link": "https://www.imaeil.com/page/view/2026041810590457260",
-      "pub_date": "2026-04-18T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[인투라디오] 4월 3주 뉴스브리핑 '인투Pick'",
       "link": "https://www.incheontoday.com/news/articleView.html?idxno=317901",
       "pub_date": "2026-04-18T11:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 술 마시던 친구가 가해자로…집까지 쫓아와 흉기 휘두른 50대",
+      "link": "https://www.imaeil.com/page/view/2026041810590457260",
+      "pub_date": "2026-04-18T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
