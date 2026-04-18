@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 22:30:29",
-  "total": 197,
-  "breaking": 149,
+  "updated": "2026-04-18 22:35:27",
+  "total": 194,
+  "breaking": 147,
   "items": [
     {
       "title": "“피해자에 용서받지 못해”… 아내 폭행한 50대, 징역형 집유 [사건수...",
@@ -1747,33 +1747,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 안동 예안면 산불 확산 우려…주민·등산객 대피 권고",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864008",
-      "pub_date": "2026-04-18T12:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘공직선거법 개정안’ 등 국회 통과...중대선거구제 일부 도입·광역 비...",
-      "link": "https://www.m-economynews.com/news/article.html?no=66571",
-      "pub_date": "2026-04-18T12:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 유명 걸그룹 멤버 친오빠, 구속 피했다… “BJ 성추행 혐의 소명...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/18/20260418500027?wlog_tag3=naver",
-      "pub_date": "2026-04-18T12:31:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
