@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 08:45:26",
-  "total": 92,
-  "breaking": 58,
+  "updated": "2026-04-19 08:50:27",
+  "total": 93,
+  "breaking": 57,
   "items": [
+    {
+      "title": "케빈 듀란트 갑작스런 결장. 구체적 이유 밝혀졌다. \"팀동료와 훈련 도...",
+      "link": "https://www.sportschosun.com/basketball/2026-04-19/202604190100125450008185",
+      "pub_date": "2026-04-19T08:48:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "총리설에 홍준표 직접 입장 밝혀…“청와대 오찬에 대해 말씀드리겠다...",
+      "link": "https://www.wikitree.co.kr/articles/1132247",
+      "pub_date": "2026-04-19T08:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[아주사설 | 기본 원칙 상식] 호르무즈 봉쇄, 협상은 진행되지만 시장은...",
       "link": "https://www.ajunews.com/view/20260419082934551",
@@ -49,20 +67,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://magazine.hankyung.com/business/article/202604190218b",
-      "pub_date": "2026-04-19T08:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
       "link": "https://www.newspim.com/news/view/20260419000005",
       "pub_date": "2026-04-19T08:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
+      "link": "https://magazine.hankyung.com/business/article/202604190218b",
+      "pub_date": "2026-04-19T08:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -817,15 +835,6 @@
       "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
       "link": "https://www.yna.co.kr/view/AKR20260418057500071?input=1195m",
       "pub_date": "2026-04-18T22:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해\"",
-      "link": "https://www.yna.co.kr/view/AKR20260418057300071?input=1195m",
-      "pub_date": "2026-04-18T22:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
