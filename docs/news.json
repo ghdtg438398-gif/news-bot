@@ -1,14 +1,23 @@
 {
-  "updated": "2026-04-18 19:20:27",
+  "updated": "2026-04-18 19:25:27",
   "total": 200,
-  "breaking": 147,
+  "breaking": 146,
   "items": [
     {
-      "title": "[속보] 배현진, '방미' 장동혁 향해 \"열흘이나 집 비운 가장…거취 고민...",
-      "link": "https://www.imaeil.com/page/view/2026041818385019304",
-      "pub_date": "2026-04-18T19:18:00+09:00",
+      "title": "김민선, KLPGA 넥센·세인트나인 마스터스 2R 단독 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523308&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T19:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] “학원 휴식시간에 옥상으로” 고양 10층 건물서 고교생 추락사...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/18/20260418500053?wlog_tag3=naver",
+      "pub_date": "2026-04-18T19:20:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -19,6 +28,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 배현진, '방미' 장동혁 향해 \"열흘이나 집 비운 가장…거취 고민...",
+      "link": "https://www.imaeil.com/page/view/2026041818385019304",
+      "pub_date": "2026-04-18T19:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1780,24 +1798,6 @@
       "title": "[속보]국힘 서울시장 후보에 오세훈…민주 정원오와 맞붙는다",
       "link": "https://www.khan.co.kr/article/202604181014001",
       "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/18/AZZYWUPXRNFMJED5N7XHOGZBJ4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-18T10:14:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보에 오세훈 확정…정원오와 맞대결",
-      "link": "https://www.dailian.co.kr/news/view/1635064/?sc=Naver",
-      "pub_date": "2026-04-18T10:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
