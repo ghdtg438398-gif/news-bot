@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 12:25:25",
-  "total": 182,
+  "updated": "2026-04-18 12:30:31",
+  "total": 183,
   "breaking": 112,
   "items": [
+    {
+      "title": "수원 인계동 상가서 화재...20분 만에 진화 '1명 대피'",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560269",
+      "pub_date": "2026-04-18T12:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국민의힘, 중동위기·사법리스크 정면 돌파... 1주택자 ‘세금폭탄’ 저...",
       "link": "http://www.breaknews.com/1201350",
@@ -130,8 +139,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
+      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
+      "link": "https://www.imaeil.com/page/view/2026041811414264339",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 부산서 중국인 관광객 \"일본인에 성추행\" 주장 확산…경찰 수사",
-      "link": "https://www.imaeil.com/page/view/2026041811414264339",
+      "title": "[속보]'한우 스테이크'라더니 육우였다…춘천 유명 레스토랑 4년간 속였...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604180013",
       "pub_date": "2026-04-18T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
+      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +193,8 @@
       "is_scoop": true
     },
     {
-      "title": "14언더파 질주…김세영 LA 챔피언십 2R 단독 선두",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038156",
+      "title": "'이틀 연속 7언더파' 김세영, LA 챔피언십 2R 단독 선두…윤이나 3위·임...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065579039221636",
       "pub_date": "2026-04-18T11:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
