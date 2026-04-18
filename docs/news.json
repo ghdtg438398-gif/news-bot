@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 00:20:29",
-  "total": 191,
-  "breaking": 149,
+  "updated": "2026-04-19 00:25:26",
+  "total": 190,
+  "breaking": 148,
   "items": [
     {
       "title": "신한카드 오프라인 결제 '일시 장애'…1시간 만에 복구에도 '이용자 불...",
@@ -1711,15 +1711,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘충격 결말’ 레알 마드리드 또 ‘감독 경질’ 사령탑 교체, 西...",
-      "link": "https://sports.khan.co.kr/article/202604181420003?pt=nv",
-      "pub_date": "2026-04-18T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
