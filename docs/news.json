@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 08:00:37",
-  "total": 79,
+  "updated": "2026-04-19 08:05:25",
+  "total": 81,
   "breaking": 52,
   "items": [
+    {
+      "title": "한국 로컬이 원하는 K팝을 들려주는, 동급 최강자 에이핑크[파고들기]",
+      "link": "https://www.nocutnews.co.kr/news/6504503?utm_source=naver&utm_medium=article&utm_campaign=20260419080101",
+      "pub_date": "2026-04-19T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, 가짜뉴스 총력전에도 '법 미비·플랫폼 비협조' 난관",
+      "link": "https://www.newsis.com/view/NISX20260417_0003596202",
+      "pub_date": "2026-04-19T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "식약처, 주사기 수급 안정 위해 한국백신과 ‘특별연장근로’ 긴급 협약",
       "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065566259796149",
@@ -19,6 +37,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이란 외무장관 ‘호르무즈 개방’ 선언하자 군부 제동…내부 엇박자",
+      "link": "https://www.chosun.com/international/international_general/2026/04/19/Y2AWUW4RQVCU5JHRI622W67CVU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-19T07:51:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -703,15 +730,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“피해자에 용서받지 못해”… 아내 폭행한 50대, 징역형 집유 [사건수...",
-      "link": "https://www.segye.com/newsView/20260417505741?OutUrl=naver",
-      "pub_date": "2026-04-18T22:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
