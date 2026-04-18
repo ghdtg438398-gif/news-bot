@@ -1,11 +1,65 @@
 {
-  "updated": "2026-04-18 18:20:40",
+  "updated": "2026-04-18 18:25:28",
   "total": 200,
-  "breaking": 142,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보]위성곤, 민주당 제주지사 후보 확정…與 광역단체장 공천 마무리",
+      "link": "https://www.donga.com/news/Politics/article/all/20260418/133765244/1",
+      "pub_date": "2026-04-18T18:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 제주지사 후보에 위성곤 확정",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523255&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-18T18:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 더불어민주당 제주도지사 후보 위성곤 확정",
+      "link": "https://www.jejudomin.co.kr/news/articleView.html?idxno=318478",
+      "pub_date": "2026-04-18T18:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418182156hm1",
+      "pub_date": "2026-04-18T18:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "https://www.sedaily.com/article/20034105?ref=naver",
+      "pub_date": "2026-04-18T18:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 與 제주지사 후보에 위성곤…국민의힘 문성유와 대결",
       "link": "https://biz.heraldcorp.com/article/10720196?ref=naver",
+      "pub_date": "2026-04-18T18:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "https://www.joongang.co.kr/article/25421291",
       "pub_date": "2026-04-18T18:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당 제주지사 후보에 위성곤 확정",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03532566645417432",
+      "title": "[속보] 위성곤, 민주당 제주지사 후보 확정...경선 승리",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=590954",
       "pub_date": "2026-04-18T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 위성곤, 민주당 제주지사 후보 확정...경선 승리",
-      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=590954",
+      "title": "[속보]민주당 제주지사 후보에 위성곤 확정",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03532566645417432",
       "pub_date": "2026-04-18T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
-      "link": "https://www.yna.co.kr/view/AKR20260418049900001?input=1195m",
+      "title": "[속보] 더불어민주당 제주지사 후보로 위성곤 확정",
+      "link": "https://news.jtbc.co.kr/article/NB12294823?influxDiv=NAVER",
       "pub_date": "2026-04-18T18:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,18 +130,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 더불어민주당 제주지사 후보로 위성곤 확정",
-      "link": "https://news.jtbc.co.kr/article/NB12294823?influxDiv=NAVER",
+      "title": "[속보] 與 제주지사 후보에 위성곤…국힘 문성유와 대결",
+      "link": "https://www.yna.co.kr/view/AKR20260418049900001?input=1195m",
       "pub_date": "2026-04-18T18:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 제주지사 민주당 후보 위성곤 확정",
-      "link": "https://www.jibs.co.kr/news/articles/articlesDetail/60251?feed=na",
-      "pub_date": "2026-04-18T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -96,6 +141,15 @@
     {
       "title": "[속보]민주당 제주지사 경선 결과 위성곤 후보 확정",
       "link": "https://www.newsis.com/view/NISX20260418_0003596689",
+      "pub_date": "2026-04-18T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 제주지사 민주당 후보 위성곤 확정",
+      "link": "https://www.jibs.co.kr/news/articles/articlesDetail/60251?feed=na",
       "pub_date": "2026-04-18T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1744,60 +1798,6 @@
       "title": "베트남서 230억 도박사이트 돌린 50대, 징역 2년6개월",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02036886645417432",
       "pub_date": "2026-04-18T09:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "짜증 낸다고 기저귀로 폭행…이 간병인에게 내려진 판결",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523043&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 호르무즈 개방 직전 '1조원대' 유가 하락 베팅 '막대한 수익...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604180008",
-      "pub_date": "2026-04-18T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "환자 짜증낸다고 성기 꼬집어…외국인 간병인 집유",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02033606645417432",
-      "pub_date": "2026-04-18T09:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "군 복무하면서 4억대 사이버 도박…이 병사에게 내려진 처벌은?",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523038&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-18T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2R 2언더파 69타' 김민규, LIV 멕시코 단독 9위",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038065",
-      "pub_date": "2026-04-18T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[다음주 경제] 중동발 악재 속 한국경제 1분기 성장률은",
-      "link": "https://www.yna.co.kr/view/AKR20260418024600002?input=1195m",
-      "pub_date": "2026-04-18T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
