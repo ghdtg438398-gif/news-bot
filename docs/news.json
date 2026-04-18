@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-18 16:00:35",
-  "total": 195,
-  "breaking": 116,
+  "updated": "2026-04-18 16:05:26",
+  "total": 193,
+  "breaking": 115,
   "items": [
     {
       "title": "[속보] 초대형 다년계약 맺고 \"감독급 스트레스\" 노시환, LG 3연전에 돌아...",
@@ -1738,24 +1738,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 비트코인 3% 이상 급등, 7만8000달러 회복",
-      "link": "https://www.news1.kr/world/usa-canada/6140795",
-      "pub_date": "2026-04-18T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "홍준표 “붉게 지는 석양의 아름다움처럼…” [김태훈의 의미 또는 재미...",
-      "link": "https://www.segye.com/newsView/20260417514704?OutUrl=naver",
-      "pub_date": "2026-04-18T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
