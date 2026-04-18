@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-18 11:25:25",
+  "updated": "2026-04-18 11:30:33",
   "total": 162,
   "breaking": 100,
   "items": [
@@ -193,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
-      "pub_date": "2026-04-18T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국힘 서울시장 후보에 오세훈...與 정원오와 맞붙는다",
       "link": "https://www.mk.co.kr/article/12020640",
       "pub_date": "2026-04-18T10:32:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260418103139P4y",
+      "pub_date": "2026-04-18T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
