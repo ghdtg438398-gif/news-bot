@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-18 21:40:29",
+  "updated": "2026-04-18 21:45:27",
   "total": 200,
   "breaking": 150,
   "items": [
+    {
+      "title": "광주 광역의원 ‘중대선거구’ 도입…정치적 다양성은 ‘글쎄’",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539583&ref=A",
+      "pub_date": "2026-04-18T21:30:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 모즈타바 “이란 해군, 적에 새로운 쓰라린 패배 안길 준비”",
       "link": "https://www.sedaily.com/article/20034119?ref=naver",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“20년 만의 원정 승리 기억 되살린다”, 대전하나시티즌 '서울전 배수...",
-      "link": "http://www.breaknews.com/1201333",
-      "pub_date": "2026-04-18T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
