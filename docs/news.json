@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 19:05:26",
+  "updated": "2026-04-18 19:10:31",
   "total": 200,
-  "breaking": 150,
+  "breaking": 149,
   "items": [
+    {
+      "title": "삼성, 파죽의 7연승+단독 선두 질주!…'헤드샷 악재'까지 이겨냈다→홈...",
+      "link": "https://www.xportsnews.com/article/2138488",
+      "pub_date": "2026-04-18T19:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 민주당 제주지사 후보 위성곤 확정",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029698673&code=61122027&cp=nv",
+      "pub_date": "2026-04-18T19:08:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 위성곤, 민주당 제주도지사 후보 선출… 국힘 문성유와 대결",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041819055396742",
+      "pub_date": "2026-04-18T19:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민주 제주지사 후보에 위성곤…국힘 문성유와 맞대결",
       "link": "https://www.hani.co.kr/arti/politics/assembly/1254821.html",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-18T10:12:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 서울시장 후보 오세훈 확정…정원오와 대결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604181011502JV",
-      "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與 정원오와 대결",
-      "link": "https://www.hankyung.com/article/2026041896017",
-      "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 서울시장 후보에 오세훈…與정원오와 대결",
-      "link": "https://biz.heraldcorp.com/article/10720097?ref=naver",
-      "pub_date": "2026-04-18T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
