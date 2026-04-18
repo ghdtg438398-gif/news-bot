@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-18 13:55:28",
-  "total": 195,
-  "breaking": 118,
+  "updated": "2026-04-18 14:00:35",
+  "total": 197,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 남양주 진접읍 산불 발생…입산 통제에 안전 주의 당부",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864010",
+      "pub_date": "2026-04-18T13:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"종전 합의 안되면 이란 폭격할 수도\"",
+      "link": "https://magazine.hankyung.com/business/article/202604189714b",
+      "pub_date": "2026-04-18T13:55:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "좌굴·노반 유실·침수…코레일, 여름철 기후재난 대비 나서",
       "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359505",
