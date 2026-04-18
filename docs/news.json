@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-18 22:50:29",
-  "total": 192,
-  "breaking": 146,
+  "updated": "2026-04-18 22:55:27",
+  "total": 194,
+  "breaking": 148,
   "items": [
+    {
+      "title": "[속보] 트럼프, 이란 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260418225148vq6",
+      "pub_date": "2026-04-18T22:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 \"대화 순조롭게 진행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418057500071?input=1195m",
+      "pub_date": "2026-04-18T22:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란, 호르무즈 재봉쇄 원했지만 우리 협박 못해\"",
+      "link": "https://www.yna.co.kr/view/AKR20260418057300071?input=1195m",
+      "pub_date": "2026-04-18T22:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“피해자에 용서받지 못해”… 아내 폭행한 50대, 징역형 집유 [사건수...",
       "link": "https://www.segye.com/newsView/20260417505741?OutUrl=naver",
@@ -1717,15 +1744,6 @@
       "title": "[속보]국힘 충남도당, 당진시의원 다선거구 김덕주, 전영옥 확정",
       "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=111656",
       "pub_date": "2026-04-18T13:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오세훈 “서울 내어주면 정권 폭주 막을 마지막 제동장치 사라져...",
-      "link": "https://www.segye.com/newsView/20260418504124?OutUrl=naver",
-      "pub_date": "2026-04-18T12:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
