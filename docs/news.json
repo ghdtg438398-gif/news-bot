@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 17:10:29",
+  "updated": "2026-04-19 17:15:27",
   "total": 200,
-  "breaking": 117,
+  "breaking": 115,
   "items": [
+    {
+      "title": "이상엽, 캐디 맡은 여자친구와 함께 개막전 역전 우승…10년만에 통산 2...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019869",
+      "pub_date": "2026-04-19T17:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 조국, 평택을 출마 선언…“국가대표 도시엔 국가대표 의원 필요...",
       "link": "https://www.segye.com/newsView/20260419508957?OutUrl=naver",
@@ -31,6 +40,15 @@
       "is_scoop": false
     },
     {
+      "title": "북, ‘잠수함 기지’ 신포서 미사일 발사…SLBM 가능성",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539744&ref=A",
+      "pub_date": "2026-04-19T17:03:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '헌재'서 '성추행' 이어 '스토킹' 의혹도 줄줄이 터져…간부급 ...",
       "link": "https://www.imaeil.com/page/view/2026041915230402374",
       "pub_date": "2026-04-19T17:01:00+09:00",
@@ -49,7 +67,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하필 경찰에…손님 음식 ‘꿀꺽’, 훔친 음식 갖다준 배달기사,...",
+      "title": "[속보] 손님 음식 ‘꿀꺽’, 대신 훔친 음식 갖다준 배달기사, 잡혔다",
       "link": "https://www.dt.co.kr/article/12058223?ref=naver",
       "pub_date": "2026-04-19T16:56:00+09:00",
       "source_id": "yna",
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-19T10:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"4·19 정신, '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.hankyung.com/article/2026041904867",
-      "pub_date": "2026-04-19T10:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"4·19혁명 유공자 포상·예우…한 분이라도 더 찾아내...",
-      "link": "https://www.hankyung.com/article/2026041904847",
-      "pub_date": "2026-04-19T10:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
