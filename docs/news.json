@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 04:45:27",
-  "total": 131,
-  "breaking": 101,
+  "updated": "2026-04-20 04:50:26",
+  "total": 130,
+  "breaking": 102,
   "items": [
+    {
+      "title": "'김세영·윤이나 우승 경쟁' LA 챔피언십 3R 성적은?…이미향·황유민·...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019883",
+      "pub_date": "2026-04-20T04:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"해상 봉쇄 뚫으려던 이란 국적 화물선 나포\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604200445232403",
+      "pub_date": "2026-04-20T04:45:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 “美, 봉쇄 뚫으려던 이란 화물선 나포...내부 조사 중”",
       "link": "https://www.sedaily.com/article/20034374?ref=naver",
@@ -1152,33 +1170,6 @@
       "pub_date": "2026-04-19T18:56:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"6홀 연속 버디 폭발\"…이상엽, DB프로미오픈 23언더 역전 우승",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038845",
-      "pub_date": "2026-04-19T18:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]“헹감섬 동쪽으로 항해 금지” 경고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524883",
-      "pub_date": "2026-04-19T18:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "北, 잠수함 기지 신포서 SRBM 여러 발 발사",
-      "link": "https://www.segye.com/newsView/20260419508848?OutUrl=naver",
-      "pub_date": "2026-04-19T18:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
