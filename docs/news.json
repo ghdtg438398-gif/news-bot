@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 16:20:27",
+  "updated": "2026-04-19 16:25:29",
   "total": 200,
-  "breaking": 126,
+  "breaking": 127,
   "items": [
+    {
+      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
+      "link": "https://www.imaeil.com/page/view/2026041916194155724",
+      "pub_date": "2026-04-19T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
+      "link": "https://dgmbc.com/NewsArticle/835978",
+      "pub_date": "2026-04-19T16:21:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "종전 협상 앞 '호르무즈 재봉쇄'…막판 기싸움 '최고조'",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298328&inflow=N",
@@ -139,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
       "link": "https://www.dt.co.kr/article/12058202?ref=naver",
       "pub_date": "2026-04-19T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 내포신도시 홍예공원 재단장",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
+      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
+      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
-      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
+      "title": "[속보] 내포신도시 홍예공원 재단장",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]합참 \"북한 발사 탄도미사일은 단거리…약 140km 비행\"",
-      "link": "https://view.asiae.co.kr/article/2026041910341181486",
-      "pub_date": "2026-04-19T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "2주 만에 금 간 휴전…‘3차 대전’ 경고까지 나왔다 [美-이란 전쟁]",
-      "link": "https://www.sedaily.com/article/20034169?ref=naver",
-      "pub_date": "2026-04-19T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
