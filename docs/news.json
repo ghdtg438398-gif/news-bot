@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 04:15:28",
-  "total": 145,
-  "breaking": 105,
+  "updated": "2026-04-20 04:20:28",
+  "total": 142,
+  "breaking": 104,
   "items": [
     {
       "title": "[출근길 포인트] 이 대통령, 인도 모디 총리와 오늘 회담… AI·방산 전략...",
@@ -1276,33 +1276,6 @@
       "title": "[이슈] 이란, 호르무즈 해협 하루 만에 재봉쇄…미·이란 종전 협상 '안...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728887",
       "pub_date": "2026-04-19T18:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 봉쇄됐는데 통과...전율이 이는 '한국행' 유조선 보니 [지금이...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604191819079155",
-      "pub_date": "2026-04-19T18:19:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 아산 오세현·논산 오인환…천안은 결선",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444884",
-      "pub_date": "2026-04-19T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북, 신포서 단거리 탄도미사일 발사…SLBM 가능성",
-      "link": "https://www.goodnews1.com/news/articleView.html?idxno=458954",
-      "pub_date": "2026-04-19T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
