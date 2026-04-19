@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 00:00:37",
+  "updated": "2026-04-20 00:05:28",
   "total": 200,
-  "breaking": 132,
+  "breaking": 130,
   "items": [
+    {
+      "title": "울산 남구 종량제봉투 품귀, 소각장 반입량은 줄어",
+      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054473",
+      "pub_date": "2026-04-20T00:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] ① 리앤리CC, 개인정보 유출 6개월 뒤 통보...탐지 실패·대응 공...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59082",
+      "pub_date": "2026-04-20T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[잡채기 칼럼] '양치기 노인' 트럼프",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061194",
+      "pub_date": "2026-04-20T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이재명 대통령 \"중동 전쟁 여파, 한국-인도 중요한 파트너\"",
       "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333872",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-19T15:31:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190026",
-      "pub_date": "2026-04-19T15:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산 영도구서 선박 침수로 기름 유출…해경 긴급 방제",
-      "link": "https://www.newspim.com/news/view/20260419000125",
-      "pub_date": "2026-04-19T15:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
-      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
-      "pub_date": "2026-04-19T15:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
