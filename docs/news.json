@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 21:00:37",
+  "updated": "2026-04-19 21:05:27",
   "total": 200,
-  "breaking": 106,
+  "breaking": 105,
   "items": [
+    {
+      "title": "뜨거운 마음이 전부는 아니다 [김소연 칼럼]",
+      "link": "https://www.mk.co.kr/article/12020122",
+      "pub_date": "2026-04-19T21:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 구리·군포·부천·파주 민주당 공천 확정",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723297",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 李대통령, 인도·베트남 국빈 방문…뉴델리로 출발",
       "link": "https://view.asiae.co.kr/article/2026041910374700824",
-      "pub_date": "2026-04-19T12:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 돈 내라는 택시기사 얼굴을 '퍽퍽'…차에 벽돌도 던진 50대 징역...",
-      "link": "https://www.imaeil.com/page/view/2026041910570638046",
       "pub_date": "2026-04-19T12:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
