@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 02:25:25",
-  "total": 177,
-  "breaking": 117,
+  "updated": "2026-04-20 02:30:34",
+  "total": 174,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.dt.co.kr/article/12058262?ref=naver",
+      "pub_date": "2026-04-20T02:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
       "link": "https://www.yna.co.kr/view/AKR20260420001400108?input=1195m",
@@ -1555,42 +1564,6 @@
       "title": "[속보] 국민의힘 대구 군위군수 후보에 김진열 확정",
       "link": "https://www.sidae.com/article/2026041916273253074",
       "pub_date": "2026-04-19T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “작동하는지 보려고” 경의중앙선서 소화기 난사한 20대 여성 붙...",
-      "link": "https://biz.heraldcorp.com/article/10720445?ref=naver",
-      "pub_date": "2026-04-19T16:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[핌in김해] 김민선 통산 2승 달성 '노 보기+와이어 투 와이어 우승'...김...",
-      "link": "https://www.newspim.com/news/view/20260419000157",
-      "pub_date": "2026-04-19T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조국, 평택을 출마 공식 선언…“교통혁신으로 대평택 시대 열 ...",
-      "link": "https://www.kyeonggi.com/article/20260419580261",
-      "pub_date": "2026-04-19T16:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경북 영양군 산불 발생...석보면 야산서 불",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560690",
-      "pub_date": "2026-04-19T16:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
