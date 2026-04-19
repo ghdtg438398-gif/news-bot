@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:30:34",
-  "total": 174,
-  "breaking": 115,
+  "updated": "2026-04-20 02:35:26",
+  "total": 173,
+  "breaking": 114,
   "items": [
     {
       "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
@@ -1558,15 +1558,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 대구 군위군수 후보에 김진열 확정",
-      "link": "https://www.sidae.com/article/2026041916273253074",
-      "pub_date": "2026-04-19T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
