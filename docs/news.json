@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-19 21:20:33",
+  "updated": "2026-04-19 21:25:30",
   "total": 200,
-  "breaking": 108,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604190120&t=NN",
+      "pub_date": "2026-04-19T21:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260419/133769949/1",
+      "pub_date": "2026-04-19T21:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미국 대표단, 내일 종전 협상 위해 파키스탄 도착\"",
+      "link": "https://www.hankookilbo.com/news/article/A2026041921180002893?did=NA",
+      "pub_date": "2026-04-19T21:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029702538&code=61131511&cp=nv",
+      "pub_date": "2026-04-19T21:22:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "https://www.hankyung.com/article/2026041912987",
+      "pub_date": "2026-04-19T21:22:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
+      "link": "https://www.sedaily.com/article/20034341?ref=naver",
+      "pub_date": "2026-04-19T21:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.hankyung.com/article/2026041912967",
+      "pub_date": "2026-04-19T21:21:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “미국 협상단, 내일 저녁 이슬라마바드 도착”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539806&ref=A",
+      "pub_date": "2026-04-19T21:20:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041921193472676",
+      "pub_date": "2026-04-19T21:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
       "link": "https://biz.heraldcorp.com/article/10720532?ref=naver",
@@ -31,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 대통령 인도 도착, 모디 총리와 세 번째 정상회담…경제·전략...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190052",
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419056300009?input=1195m",
       "pub_date": "2026-04-19T21:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419056300009?input=1195m",
+      "title": "[속보]李 대통령 인도 도착, 모디 총리와 세 번째 정상회담…경제·전략...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190052",
       "pub_date": "2026-04-19T21:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,7 +148,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 미 대표단 내일 저녁 협상 위해 이슬라마바드 도착",
+      "title": "[속보]트럼프, “미 대표단 20일 저녁 협상 위해 이슬라마바드 도착”",
       "link": "https://www.khan.co.kr/article/202604192112001",
       "pub_date": "2026-04-19T21:12:00+09:00",
       "source_id": "yna",
@@ -175,21 +256,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041920323079466",
-      "pub_date": "2026-04-19T20:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189068",
       "pub_date": "2026-04-19T20:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041920323079466",
+      "pub_date": "2026-04-19T20:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1719,87 +1800,6 @@
       "pub_date": "2026-04-19T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[주간 유통 나침반] 중동發 포장재 리스크, 홈플러스 위기 확산, 통신사...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512651",
-      "pub_date": "2026-04-19T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "온유, 홍콩 첫 단독 팬미팅 'TOUGH LOVE' 성료",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532287",
-      "pub_date": "2026-04-19T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 국힘, 李대통령 ‘장특공 존치론’ 반박에 “무능에 나랏돈 바닥...",
-      "link": "https://www.dt.co.kr/article/12058174?ref=naver",
-      "pub_date": "2026-04-19T13:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북한, 단거리 탄도미사일 발사…\"SLBM 시험 가능성\"",
-      "link": "https://www.asiatime.co.kr/article/20260419500081",
-      "pub_date": "2026-04-19T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "휴림로봇·두산로보틱스·레인보우로보틱스·현대무벡스·원익홀딩스, ...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568802",
-      "pub_date": "2026-04-19T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "청와대 국가안보실, 북한 탄도미사일 발사에 긴급 점검회의 개최…\"안보...",
-      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020089",
-      "pub_date": "2026-04-19T13:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
-      "pub_date": "2026-04-19T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
-      "pub_date": "2026-04-19T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미·이란 2차 협상 안갯속...이란, 호르무즈 재봉쇄",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604191239229216",
-      "pub_date": "2026-04-19T12:39:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     }
