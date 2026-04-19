@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 13:50:29",
+  "updated": "2026-04-19 13:55:24",
   "total": 200,
-  "breaking": 140,
+  "breaking": 138,
   "items": [
+    {
+      "title": "北 탄도미사일 발사, 동해상 140km 비행...군, SLBM 추정",
+      "link": "https://www.newsverse.kr/news/articleView.html?idxno=10229",
+      "pub_date": "2026-04-19T13:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이란 재봉쇄에 협상 흔들…미·이란 종전 담판 기로",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038659",
+      "pub_date": "2026-04-19T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "미-이란 종전 협상 앞두고 기싸움 '팽팽'…등터지는 'K산업'",
       "link": "https://www.asiatime.co.kr/article/20260419500088",
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
-      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
-      "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
-      "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     }
