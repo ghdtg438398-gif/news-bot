@@ -1,14 +1,68 @@
 {
-  "updated": "2026-04-20 07:10:35",
-  "total": 175,
-  "breaking": 131,
+  "updated": "2026-04-20 07:15:29",
+  "total": 176,
+  "breaking": 132,
   "items": [
+    {
+      "title": "[속보]이란군 \"美 이란 상선 공격, 휴전 위반 해적행위…보복할것\"",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597416",
+      "pub_date": "2026-04-20T07:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란군 “美 상선 공격은 협정 위반, 곧 보복할것” 경고",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01856486645418088",
+      "pub_date": "2026-04-20T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것",
+      "link": "https://economist.co.kr/article/view/ecn202604200001",
+      "pub_date": "2026-04-20T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미국 이란 화물선 나포, 국제유가 8% 폭등 출발",
+      "link": "https://www.news1.kr/world/usa-canada/6141589",
+      "pub_date": "2026-04-20T07:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미국 이란 선박 나포, 지수선물 일제 급락…나스닥 %↓",
+      "link": "https://www.news1.kr/world/usa-canada/6141590",
+      "pub_date": "2026-04-20T07:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란군 \"미국, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
       "link": "https://www.ytn.co.kr/_ln/0104_202604200707083301",
       "pub_date": "2026-04-20T07:07:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200007",
+      "pub_date": "2026-04-20T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -22,17 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200007",
-      "pub_date": "2026-04-20T07:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305284?division=NAVER",
+      "title": "[속보] 이란군 \"美, 이란 선박 공격은 휴전합의 위반…곧 보복\"",
+      "link": "http://www.fnnews.com/news/202604200703161758",
       "pub_date": "2026-04-20T07:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란 선박 공격은 휴전합의 위반…곧 보복\"",
-      "link": "http://www.fnnews.com/news/202604200703161758",
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305284?division=NAVER",
       "pub_date": "2026-04-20T07:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “곧 보복한다”는 이란군 “美, 이란상선 발포는 휴전합의 위반...",
-      "link": "https://www.sedaily.com/article/20034377?ref=naver",
+      "title": "[속보] 이란군 \"미, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.sidae.com/article/2026042007001477802",
       "pub_date": "2026-04-20T07:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"미, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.sidae.com/article/2026042007001477802",
+      "title": "[속보] “곧 보복한다”는 이란군 “美, 이란상선 발포는 휴전합의 위반...",
+      "link": "https://www.sedaily.com/article/20034377?ref=naver",
       "pub_date": "2026-04-20T07:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1537,42 +1582,6 @@
       "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
       "link": "https://www.ajunews.com/view/20260419211633026",
       "pub_date": "2026-04-19T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419056300009?input=1195m",
-      "pub_date": "2026-04-19T21:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령 인도 도착, 모디 총리와 세 번째 정상회담…경제·전략...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190052",
-      "pub_date": "2026-04-19T21:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 군포시장 후보, 한대희 전 군포시장 확정",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224747",
-      "pub_date": "2026-04-19T21:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, “미 대표단 20일 저녁 협상 위해 이슬라마바드 도착”",
-      "link": "https://www.khan.co.kr/article/202604192112001",
-      "pub_date": "2026-04-19T21:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
