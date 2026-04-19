@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 06:30:31",
-  "total": 157,
-  "breaking": 114,
+  "updated": "2026-04-20 06:35:28",
+  "total": 155,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[속보] 美중부사령부 “이란 국적 화물선 현재 미군이 억류중”",
+      "link": "https://www.chosun.com/international/us/2026/04/20/VNNBHFRPABCS7BTBN5GTRRQGYA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T06:33:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[재계 인사이드] 한화솔루션발 긴급이슈, ‘기업부채’",
+      "link": "https://www.news2day.co.kr/article/20260419500030",
+      "pub_date": "2026-04-20T06:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"해상봉쇄 열려던 이란 화물선 기관실에 구멍내\"",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005410",
@@ -193,6 +211,15 @@
       "is_scoop": true
     },
     {
+      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[PSK칼럼] 제약산업 산책 - ﻿한미 FTA",
       "link": "https://www.medipana.com/news/articleView.html?idxno=409624",
       "pub_date": "2026-04-20T06:00:00+09:00",
@@ -204,15 +231,6 @@
     {
       "title": "공사비 폭등에 '링거' 꽂는 정부…건설업계 \"빚내서 버티기\"",
       "link": "https://www.ziksir.com/news/articleView.html?idxno=131141",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1375,42 +1393,6 @@
       "title": "[속보]미국·이란 2차 종전 협상 “이번주 금요일 전, 파키스탄에서”",
       "link": "https://www.munhwa.com/article/11583360?ref=naver",
       "pub_date": "2026-04-19T20:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189068",
-      "pub_date": "2026-04-19T20:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041920323079466",
-      "pub_date": "2026-04-19T20:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 첫 순방지 인도 도착…20일 모디 총리와 정상회담",
-      "link": "https://www.newspim.com/news/view/20260419000193",
-      "pub_date": "2026-04-19T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도 뉴델리 도착…국빈 방문 일정 시작",
-      "link": "https://view.asiae.co.kr/article/2026041919535367767",
-      "pub_date": "2026-04-19T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
