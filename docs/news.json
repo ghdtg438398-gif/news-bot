@@ -1,14 +1,95 @@
 {
-  "updated": "2026-04-19 21:15:29",
+  "updated": "2026-04-19 21:20:33",
   "total": 200,
-  "breaking": 103,
+  "breaking": 108,
   "items": [
+    {
+      "title": "[속보] 트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
+      "link": "https://biz.heraldcorp.com/article/10720532?ref=naver",
+      "pub_date": "2026-04-19T21:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419056500009?input=1195m",
+      "pub_date": "2026-04-19T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.ajunews.com/view/20260419211633026",
+      "pub_date": "2026-04-19T21:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 인도 도착, 모디 총리와 세 번째 정상회담…경제·전략...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190052",
+      "pub_date": "2026-04-19T21:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419056300009?input=1195m",
+      "pub_date": "2026-04-19T21:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"황교익 문화관광연구원장 임명은 파행 인사\" 학계와 문화예술계 거센 ...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524013&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T21:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 군포시장 후보, 한대희 전 군포시장 확정",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224747",
+      "pub_date": "2026-04-19T21:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 미 대표단 내일 저녁 협상 위해 이슬라마바드 도착",
+      "link": "https://www.khan.co.kr/article/202604192112001",
+      "pub_date": "2026-04-19T21:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“협상 잘 되고 있다?”…백악관 긴급 회의 소집",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539788&ref=A",
       "pub_date": "2026-04-19T21:08:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"순조롭다\"더니 갑자기 긴급 상황실 회의?",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816408_37004.html",
+      "pub_date": "2026-04-19T21:07:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1719,87 +1800,6 @@
       "pub_date": "2026-04-19T12:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "靑 “북 탄도미사일 발사, 유엔안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.wikitree.co.kr/articles/1132284",
-      "pub_date": "2026-04-19T12:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "北, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성(종합)",
-      "link": "https://www.ajunews.com/view/20260419122436730",
-      "pub_date": "2026-04-19T12:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"군대 다녀왔으면 신입도 바로 5급?\"…법원 \"성 차별 맞다\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041912315316061",
-      "pub_date": "2026-04-19T12:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "휴전 D-2, 호르무즈 재봉쇄…미·이란 종전협상 안갯속",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512877",
-      "pub_date": "2026-04-19T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[6·3전주]우범기, '국주영은 사진 무단 사용' 논란 사과",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597050",
-      "pub_date": "2026-04-19T12:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 인도·베트남 국빈 방문 출국···5박6일 일정",
-      "link": "https://www.khan.co.kr/article/202604191220001",
-      "pub_date": "2026-04-19T12:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "靑, 北 탄도미사일 발사에 긴급 안보 점검··· \"UN안보리 결의 위반\"",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541542",
-      "pub_date": "2026-04-19T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
-      "pub_date": "2026-04-19T12:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
-      "pub_date": "2026-04-19T12:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
