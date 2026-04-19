@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 08:20:27",
-  "total": 181,
-  "breaking": 117,
+  "updated": "2026-04-20 08:25:26",
+  "total": 185,
+  "breaking": 118,
   "items": [
+    {
+      "title": "'아쉬운 18번 홀' 김시우, RBC 헤리티지 3위…시즌 세 번째 톱5",
+      "link": "https://www.nocutnews.co.kr/news/6504703?utm_source=naver&utm_medium=article&utm_campaign=20260420082213",
+      "pub_date": "2026-04-20T08:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
+      "link": "http://www.breaknews.com/1201428",
+      "pub_date": "2026-04-20T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
+      "link": "http://www.breaknews.com/1201414",
+      "pub_date": "2026-04-20T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선에 발포는 휴전합의 위반 … 곧 보복할 것\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000030.html",
+      "pub_date": "2026-04-20T08:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 지지율 65.5%…취임 후 최고치 [리얼미터]",
+      "link": "https://www.mk.co.kr/article/12021358",
+      "pub_date": "2026-04-20T08:20:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[주간경제전망] 이창용 총재 퇴임…1분기 GDP·SK하이닉스 실적 발표",
       "link": "https://www.sidae.com/article/2026041714280926313",
@@ -13,7 +58,7 @@
       "is_scoop": false
     },
     {
-      "title": "[미장브리핑] 미·이란 2차 협상…22일 테슬라 1Q 실적 발표",
+      "title": "[미장브리핑] 미·이란 2차 협상…22일 테슬라 1분기 실적 발표",
       "link": "https://zdnet.co.kr/view/?no=20260420081617",
       "pub_date": "2026-04-20T08:17:00+09:00",
       "source_id": "yna",
@@ -58,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
+      "title": "[속보] 삼전, 美 이란 화물선 발포에 1%대 하락세 … 하이닉스는 0.35% 소...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼전, 美 이란 화물선 발포에 1%대 하락세 … 하이닉스는 0.35% 소...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
+      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1621,15 +1666,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무 \"美, 자국 항구·해안 봉쇄 휴전 위반\" 비난",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597333",
-      "pub_date": "2026-04-19T22:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
