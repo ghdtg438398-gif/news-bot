@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 17:50:26",
+  "updated": "2026-04-19 17:55:30",
   "total": 200,
-  "breaking": 114,
+  "breaking": 113,
   "items": [
+    {
+      "title": "[단독] 용산 1만가구 공급, 절반은 오피스텔",
+      "link": "https://www.mk.co.kr/article/12021213",
+      "pub_date": "2026-04-19T17:40:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 용산 국제업무·문화지역에도 주택 … 주거비율 29% → 50%로",
+      "link": "https://www.mk.co.kr/article/12021185",
+      "pub_date": "2026-04-19T17:34:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "\"23언더파 신기록 우승\" 이상엽, KPGA 개막전서 통산 2승",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038810",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 “4·19 정신 있었기에 ‘내란의 밤’ 물리쳤다”",
-      "link": "https://www.munhwa.com/article/11583297?ref=naver",
-      "pub_date": "2026-04-19T10:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "北 탄도미사일 수 발 또 발사…靑 안보점검회의 개최(종합)",
-      "link": "https://www.nocutnews.co.kr/news/6504547?utm_source=naver&utm_medium=article&utm_campaign=20260419104702",
-      "pub_date": "2026-04-19T10:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
