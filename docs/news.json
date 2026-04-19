@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 16:50:27",
+  "updated": "2026-04-19 16:55:27",
   "total": 200,
-  "breaking": 121,
+  "breaking": 118,
   "items": [
+    {
+      "title": "전력망 탓 태양광 막혀 히트펌프 신청도 못해",
+      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263001",
+      "pub_date": "2026-04-19T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'와이어 투 와이어' 김민선, KLPGA 넥센·세인트나인 '노보기' 우승…통...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523881&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "李 대통령 인도·베트남 순방…이번주(20~25일) 주요일정",
+      "link": "https://www.news1.kr/politics/president/6141406",
+      "pub_date": "2026-04-19T16:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'살기좋은 아파트' 도전하세요 … 올해 시니어하우징 분야 신설",
       "link": "https://www.mk.co.kr/article/12021091",
@@ -10,15 +37,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
-      "pub_date": "2026-04-19T16:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -31,13 +49,13 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)진주서 언론사 임원 흉기 공격에 큰 부상",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685800",
-      "pub_date": "2026-04-19T16:38:00+09:00",
+      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
+      "pub_date": "2026-04-19T16:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "\"54홀 노보기\" 김민선, 넥센·세인트나인 와이어 투 와이어 제패",
@@ -47,6 +65,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)진주서 언론사 임원 흉기 공격에 큰 부상",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685800",
+      "pub_date": "2026-04-19T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 국민의힘 대구 군위군수 후보에 김진열 확정",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 李대통령 “민주주의 위해 희생, 한 분이라도 더 찾아내 포상”",
       "link": "https://www.viva100.com/article/20260419500270",
       "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “독재 군홧발, 불평등·빈곤 파고들어…오직 민생”",
-      "link": "https://www.viva100.com/article/20260419500274",
-      "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523629&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “민주주의 위해 희생, 한 분이라도 더 찾아내 포상”",
-      "link": "https://biz.heraldcorp.com/article/10720317?ref=naver",
-      "pub_date": "2026-04-19T10:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
