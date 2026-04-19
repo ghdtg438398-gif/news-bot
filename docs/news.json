@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 12:35:24",
+  "updated": "2026-04-19 12:40:27",
   "total": 200,
-  "breaking": 145,
+  "breaking": 144,
   "items": [
+    {
+      "title": "北, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성(종합)",
+      "link": "https://www.ajunews.com/view/20260419122436730",
+      "pub_date": "2026-04-19T12:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "靑 “북 탄도미사일 발사, 유엔안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.wikitree.co.kr/articles/1132284",
+      "pub_date": "2026-04-19T12:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] \"군대 다녀왔으면 신입도 바로 5급?\"…법원 \"성 차별 맞다\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041912315316061",
@@ -49,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
+      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
+      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
-      "link": "https://www.newspim.com/news/view/20260419000054",
+      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
+      "link": "https://www.newspim.com/news/view/20260419000043",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
+      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
+      "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[아주사설 | 기본 원칙 상식] 호르무즈 봉쇄, 협상은 진행되지만 시장은...",
       "link": "https://www.ajunews.com/view/20260419082934551",
       "pub_date": "2026-04-19T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045400",
-      "pub_date": "2026-04-19T08:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 재봉쇄 선언에 트럼프 대응 고심…전쟁 재개 갈림길",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038555",
-      "pub_date": "2026-04-19T08:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
