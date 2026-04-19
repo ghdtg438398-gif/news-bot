@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 21:45:31",
+  "updated": "2026-04-19 21:50:30",
   "total": 200,
-  "breaking": 132,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보]트럼프 \"내일 이란과 '2차회담'…불발 시 인프라 대거 파괴\"",
+      "link": "https://www.nocutnews.co.kr/news/6504665?utm_source=naver&utm_medium=article&utm_campaign=20260419094707",
+      "pub_date": "2026-04-19T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, \"미국 대표단, 협상 위해 내일 저녁 파키스탄 수도에 도...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597320",
+      "pub_date": "2026-04-19T21:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 “美대표단, 협상하러 오늘 이슬라마바다드로 가는 중”",
       "link": "https://www.munhwa.com/article/11583364?ref=naver",
@@ -22,7 +40,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “이란 합의안 안 받으면 모든 발전소·다리 파괴할 것”",
+      "title": "불탄 산 그대로인데 장마 온다…산사태 비상",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539835&ref=A",
+      "pub_date": "2026-04-19T21:43:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “美협상단 파키스탄 가는 중…합의 안되면 이란 발전소·...",
       "link": "https://www.donga.com/news/Inter/article/all/20260419/133770031/1",
       "pub_date": "2026-04-19T21:42:00+09:00",
       "source_id": "yna",
@@ -31,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소ㆍ다리 파괴할 것...",
-      "link": "https://www.etoday.co.kr/news/view/2577033",
+      "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419513&PRO_CODE=99",
       "pub_date": "2026-04-19T21:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419513&PRO_CODE=99",
+      "title": "[속보] 트럼프 “이란, 합의 거부하면 모든 발전소ㆍ다리 파괴할 것”",
+      "link": "https://www.etoday.co.kr/news/view/2577033",
       "pub_date": "2026-04-19T21:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,17 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
-      "pub_date": "2026-04-19T21:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
+      "title": "[속보] 트럼프 “美대표단 파키스탄 가고 있다…합의불발땐 이란인프라...",
+      "link": "https://www.dt.co.kr/article/12058255?ref=naver",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +112,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
-      "link": "https://www.dt.co.kr/article/12058255?ref=naver",
+      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
+      "pub_date": "2026-04-19T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,7 +328,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “미 협상단, 내일 파키스탄행…이란이 합의 거부시 발전...",
+      "title": "[속보] 트럼프 “미 협상단, 내일 파키스탄 도착…이란이 합의 거부시 ...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539806&ref=A",
       "pub_date": "2026-04-19T21:20:00+09:00",
       "source_id": "yna",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-19T15:05:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"이재명 대통령, 국회에 특별감찰관 임명절차 개시 요청\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/19/2026041915032988567",
-      "pub_date": "2026-04-19T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.imaeil.com/page/view/2026041915031625352",
-      "pub_date": "2026-04-19T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
-      "link": "https://www.chosun.com/politics/blue_house/2026/04/19/DRCBSLKO65HDDLFDOAGJ7XHY4A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-19T15:04:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     }
