@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 23:35:27",
+  "updated": "2026-04-19 23:40:31",
   "total": 200,
-  "breaking": 131,
+  "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"韓·印 완전 다른차원으로… 중동전쟁 속 중요파트너...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394831",
+      "pub_date": "2026-04-19T23:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 “한-인도, 정상회담 계기 다른 차원 관계 발전 가능성...",
+      "link": "https://biz.heraldcorp.com/article/10720547?ref=naver",
+      "pub_date": "2026-04-19T23:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[조용헌 살롱] [1538] 돈, 명예, 섹스",
+      "link": "https://www.chosun.com/opinion/specialist_column/2026/04/19/OE5NTRPB5NA4LOUELHXQEA2MSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-19T23:36:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이 대통령 \"한-인도 완전 다른차원으로…중동전쟁 속 중요파트너...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041923322672405",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
       "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
-      "pub_date": "2026-04-19T15:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 추천 요청”",
-      "link": "https://www.dt.co.kr/article/12058196?ref=naver",
-      "pub_date": "2026-04-19T15:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, ‘특별감찰관’ 임명 절차 개시 재차 요청",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419502&PRO_CODE=99",
-      "pub_date": "2026-04-19T15:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
