@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:56:17",
-  "total": 164,
-  "breaking": 113,
+  "updated": "2026-04-20 03:00:36",
+  "total": 163,
+  "breaking": 112,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -1465,15 +1465,6 @@
       "title": "[속보] '헌재'서 '성추행' 이어 '스토킹' 의혹도 줄줄이 터져…간부급 ...",
       "link": "https://www.imaeil.com/page/view/2026041915230402374",
       "pub_date": "2026-04-19T17:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이준석 “콩·팥 대신 오렌지 심자...다른 당과 연대, 가당치 않...",
-      "link": "https://www.kyeonggi.com/article/20260419580257",
-      "pub_date": "2026-04-19T16:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
