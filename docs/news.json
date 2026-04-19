@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 10:00:36",
-  "total": 129,
-  "breaking": 82,
+  "updated": "2026-04-19 10:05:28",
+  "total": 131,
+  "breaking": 84,
   "items": [
+    {
+      "title": "[속보]이 대통령, 4·19혁명 기념식 취임 후 첫 참석",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596892",
+      "pub_date": "2026-04-19T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, '4·19 기념식' 취임 후 첫 참석",
+      "link": "https://www.news1.kr/politics/president/6141176",
+      "pub_date": "2026-04-19T10:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "안병훈·김민규, LIV 골프 멕시코 대회 3R 공동 17위…람 선두",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523596&plink=ORI&cooper=NAVER",
