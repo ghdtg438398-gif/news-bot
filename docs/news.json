@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 17:00:37",
+  "updated": "2026-04-19 17:05:27",
   "total": 200,
-  "breaking": 117,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] '헌재'서 '성추행' 이어 '스토킹' 의혹도 줄줄이 터져…간부급 ...",
+      "link": "https://www.imaeil.com/page/view/2026041915230402374",
+      "pub_date": "2026-04-19T17:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이준석 “콩·팥 대신 오렌지 심자...다른 당과 연대, 가당치 않...",
       "link": "https://www.kyeonggi.com/article/20260419580257",
@@ -54,6 +63,15 @@
       "pub_date": "2026-04-19T16:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] '연기 속에서 탈출로가 보여'...감탄 나오는 시스템 개발",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604191646119245",
+      "pub_date": "2026-04-19T16:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1783,24 +1801,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "11일만에 '또' 도발한 北…동해상으로 단거리 탄도미사일 발사",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01482566645417760",
-      "pub_date": "2026-04-19T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 \"호르무즈 재봉쇄\"...미 \"백악관 회의 소집\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604191040440040",
-      "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
