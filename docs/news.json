@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 03:55:25",
-  "total": 151,
-  "breaking": 108,
+  "updated": "2026-04-20 04:00:37",
+  "total": 150,
+  "breaking": 107,
   "items": [
     {
       "title": "[속보] 이란, 2차 평화협상 참여 거부…IRNA",
@@ -1350,15 +1350,6 @@
       "pub_date": "2026-04-19T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “조건만남해요” 10대들, 20대男 담뱃불로 지지고 수백만원 갈...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/19/20260419500097?wlog_tag3=naver",
-      "pub_date": "2026-04-19T17:59:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
