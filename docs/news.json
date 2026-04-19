@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 19:55:28",
+  "updated": "2026-04-19 20:00:35",
   "total": 200,
-  "breaking": 100,
+  "breaking": 99,
   "items": [
+    {
+      "title": "한미일 지휘관 회동 나흘 만에 SLBM 추정 도발",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521597",
+      "pub_date": "2026-04-19T19:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "북한, 신포서 단거리 탄도미사일 발사…SLBM 가능성도",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260419195408HEd",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-19T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]IMO 총장 \"호르무즈 개방해도 통행 정상화에 수개월\"",
-      "link": "https://magazine.hankyung.com/business/article/202604190549b",
-      "pub_date": "2026-04-19T11:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
