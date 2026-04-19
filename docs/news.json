@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 11:30:34",
+  "updated": "2026-04-19 11:35:25",
   "total": 200,
-  "breaking": 146,
+  "breaking": 145,
   "items": [
+    {
+      "title": "靑 \"대통령 국빈 방문 날 北 미사일 발사…태세 유지 만전\"",
+      "link": "https://www.newspim.com/news/view/20260419000047",
+      "pub_date": "2026-04-19T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]IMO 총장 \"호르무즈 개방해도 통행 정상화에 수개월\"",
+      "link": "https://magazine.hankyung.com/business/article/202604190549b",
+      "pub_date": "2026-04-19T11:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]靑 “北 탄도미사일 발사, 안보리 결의 위반한 도발…즉각 중단해...",
+      "link": "https://www.donga.com/news/Politics/article/all/20260419/133766198/1",
+      "pub_date": "2026-04-19T11:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]靑 \"北 탄도미사일, 안보리 결의 위반..즉각 중단 촉구\"",
       "link": "http://www.fnnews.com/news/202604191127339981",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
-      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
+      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
+      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
+      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
+      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]합참 “북한, 동해로 탄도미사일 여러 발 발사”…올해 7번째 탄...",
-      "link": "https://www.khan.co.kr/article/202604190658001",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 “北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯” < NHK>",
-      "link": "https://www.sedaily.com/article/20034137?ref=naver",
-      "pub_date": "2026-04-19T06:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 \"北 탄도미사일 가능성 물체, 日EEZ 밖 낙하한 듯\"< NHK>",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260419065506JFz",
-      "pub_date": "2026-04-19T06:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
