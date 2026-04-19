@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 18:00:37",
+  "updated": "2026-04-19 18:05:26",
   "total": 200,
-  "breaking": 113,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 파주 산불 발생...월롱면 야산서 불",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560772",
+      "pub_date": "2026-04-19T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “조건만남해요” 10대들, 20대男 담뱃불로 지지고 수백만원 갈...",
       "link": "https://www.seoul.co.kr/news/society/2026/04/19/20260419500097?wlog_tag3=naver",
@@ -11,6 +20,15 @@
       "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] \"택배 상하차 알바로 겨우 버텨\"… 2030일용직, 7년만에 증가",
+      "link": "https://www.mk.co.kr/article/12021220",
+      "pub_date": "2026-04-19T17:42:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독] 용산 1만가구 공급, 절반은 오피스텔",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, 시즌 첫 승 보인다…LA챔피언십 이틀 연속 선두",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065577193282714",
-      "pub_date": "2026-04-19T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"이란과는 다르다\"...'악마의 무기' 사용한 북한의 도발",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604191055286966",
-      "pub_date": "2026-04-19T10:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
