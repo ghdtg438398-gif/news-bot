@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 16:05:28",
+  "updated": "2026-04-19 16:10:30",
   "total": 200,
   "breaking": 131,
   "items": [
+    {
+      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보에 동구 우성진·서구 권오...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260419022148786",
+      "pub_date": "2026-04-19T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경북 문경 산불 발생 \"입산 금지\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560684",
+      "pub_date": "2026-04-19T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 남양주시 진접읍 공장 화재 발생 \"주민 안전 유의\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560682",
@@ -67,20 +85,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
       "link": "https://www.dt.co.kr/article/12058202?ref=naver",
       "pub_date": "2026-04-19T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -103,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 내포신도시 홍예공원 재단장",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
+      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
+      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
-      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
+      "title": "[속보] 내포신도시 홍예공원 재단장",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
+      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
+      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
-      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
+      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
+      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,15 +319,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
-      "pub_date": "2026-04-19T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
       "link": "https://www.sidae.com/article/2026041915102824072",
       "pub_date": "2026-04-19T15:12:00+09:00",
@@ -321,6 +330,15 @@
     {
       "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
+      "pub_date": "2026-04-19T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
       "link": "https://www.hidomin.com/news/articleView.html?idxno=701875",
-      "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"4·19 정신 있었기에 2024년 12월 내란의 밤 물리쳐\"",
-      "link": "https://view.asiae.co.kr/article/2026041909472014964",
-      "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"2차 종전협상 날짜 미정...상호 이해 틀 합의가 우선\"",
-      "link": "https://www.g-enews.com/view.php?ud=202604191026168513e250e8e188_1",
       "pub_date": "2026-04-19T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
