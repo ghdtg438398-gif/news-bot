@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-19 09:35:30",
-  "total": 122,
-  "breaking": 79,
+  "updated": "2026-04-19 09:40:37",
+  "total": 124,
+  "breaking": 80,
   "items": [
+    {
+      "title": "삼성, LG 꺾고 7연승 질주…한화, 류현진이 구했다",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260419093827QJK",
+      "pub_date": "2026-04-19T09:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "북한 또 탄도미사일 도발…청와대, 긴급 안보상황회의 소집",
       "link": "https://www.sidae.com/article/2026041909200480070",
       "pub_date": "2026-04-19T09:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보상황점검회의 개최",
+      "link": "https://imnews.imbc.com/news/2026/politics/article/6816319_36911.html",
+      "pub_date": "2026-04-19T09:32:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,15 +193,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑, 북 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.seoul.co.kr/news/politics/president/2026/04/19/20260419500015?wlog_tag3=naver",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
       "link": "http://www.fnnews.com/news/202604190902012108",
       "pub_date": "2026-04-19T09:04:00+09:00",
@@ -202,11 +211,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
-      "link": "https://economist.co.kr/article/view/ecn202604190001",
+      "title": "[속보] 靑, 북 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.seoul.co.kr/news/politics/president/2026/04/19/20260419500015?wlog_tag3=naver",
       "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -217,6 +226,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
+      "link": "https://economist.co.kr/article/view/ecn202604190001",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -265,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
-      "link": "https://www.sidae.com/article/2026041908574450012",
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,8 +292,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
+      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
+      "link": "https://www.sidae.com/article/2026041908574450012",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
