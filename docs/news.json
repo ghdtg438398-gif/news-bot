@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 09:40:37",
-  "total": 124,
-  "breaking": 80,
+  "updated": "2026-04-19 09:45:26",
+  "total": 126,
+  "breaking": 81,
   "items": [
+    {
+      "title": "에이핑크, 오늘(19일) 데뷔 15주년 기념 팬송 '15th Season' 발매",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568785",
+      "pub_date": "2026-04-19T09:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 국회의장 \"美와 협상 진전, 최종 합의는 멀어\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560560",
+      "pub_date": "2026-04-19T09:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "삼성, LG 꺾고 7연승 질주…한화, 류현진이 구했다",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260419093827QJK",
@@ -211,11 +229,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑, 북 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.seoul.co.kr/news/politics/president/2026/04/19/20260419500015?wlog_tag3=naver",
+      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
+      "link": "https://economist.co.kr/article/view/ecn202604190001",
       "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -229,11 +247,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
-      "link": "https://economist.co.kr/article/view/ecn202604190001",
+      "title": "[속보] 靑, 북 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.seoul.co.kr/news/politics/president/2026/04/19/20260419500015?wlog_tag3=naver",
       "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -283,8 +301,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
+      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
+      "link": "https://www.sidae.com/article/2026041908574450012",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -292,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
-      "link": "https://www.sidae.com/article/2026041908574450012",
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
