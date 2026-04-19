@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-19 11:15:32",
+  "updated": "2026-04-19 11:20:33",
   "total": 200,
   "breaking": 146,
   "items": [
+    {
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
+      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
+      "pub_date": "2026-04-19T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
+      "pub_date": "2026-04-19T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.viva100.com/article/20260419500298",
+      "pub_date": "2026-04-19T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서초·압구정·성수 정비사업 빅매치 '치열'",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365647",
+      "pub_date": "2026-04-19T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정철원-윤동희-쿄야마-김민성이 사라졌다...롯데 초대형 엔트리...",
+      "link": "http://www.osen.co.kr/article/G1112784815",
+      "pub_date": "2026-04-19T11:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스특보] 휴전 시한 앞두고 호르무즈 재봉쇄…백악관 긴급회의",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856574?sid=104",
+      "pub_date": "2026-04-19T11:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 \"北 탄도미사일, 안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269927",
+      "pub_date": "2026-04-19T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이번주 경제]중동 쇼크 속 1분기 韓 경제지표는…신현송 청문보고서 재...",
+      "link": "https://www.news1.kr/economy/trend/6141257",
+      "pub_date": "2026-04-19T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 靑 \"북한 탄도미사일, 유엔 안보리 결의 위반\"",
       "link": "https://www.hankyung.com/article/2026041905247",
@@ -220,6 +292,15 @@
       "is_scoop": false
     },
     {
+      "title": "전병우 3점 홈런…삼성, LG 꺾고 7연승 단독 선두",
+      "link": "https://m.sports.naver.com/kbaseball/article/422/0000856563",
+      "pub_date": "2026-04-19T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 李대통령 “4·19 정신으로 내란의 밤 물리쳐...경제 강국 도약”",
       "link": "https://www.kyeonggi.com/article/20260419580013",
       "pub_date": "2026-04-19T10:46:00+09:00",
@@ -236,15 +317,6 @@
       "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "전병우 3점 홈런…삼성, LG 꺾고 7연승 단독 선두",
-      "link": "https://m.sports.naver.com/kbaseball/article/422/0000856563",
-      "pub_date": "2026-04-19T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보] 李대통령 \"4·19혁명 유공자 포상·예우…한 분이라도 더 찾아내...",
@@ -472,7 +544,7 @@
       "is_scoop": false
     },
     {
-      "title": "휴전 2주 만에 깨진 호르무즈…‘3차 대전’ 경고까지 나왔다 [美-이란...",
+      "title": "2주 만에 금 간 휴전…‘3차 대전’ 경고까지 나왔다 [美-이란 전쟁]",
       "link": "https://www.sedaily.com/article/20034169?ref=naver",
       "pub_date": "2026-04-19T10:33:00+09:00",
       "source_id": "yna",
@@ -1728,78 +1800,6 @@
       "pub_date": "2026-04-19T06:48:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539648&ref=A",
-      "pub_date": "2026-04-19T06:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]北, 동쪽 향해 탄도미사일 발사…올해 들어 7번째",
-      "link": "https://www.munhwa.com/article/11583268?ref=naver",
-      "pub_date": "2026-04-19T06:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]한화에어로스페이스, 루마니아 장갑차 입찰서 불공정 배제 논란",
-      "link": "https://www.kpinews.kr/newsView/1065561662963117",
-      "pub_date": "2026-04-19T06:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 합참 \"北, 동쪽 방향으로 탄도미사일 발사\"…11일만의 도발",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190005",
-      "pub_date": "2026-04-19T06:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.segye.com/newsView/20260419501475?OutUrl=naver",
-      "pub_date": "2026-04-19T06:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523434&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T06:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'골프인생 최고의 9개 홀' 윤이나, LA 챔피언십 선두 경쟁 [LPGA]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019846",
-      "pub_date": "2026-04-19T06:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://www.mk.co.kr/article/12020865",
-      "pub_date": "2026-04-19T06:28:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
