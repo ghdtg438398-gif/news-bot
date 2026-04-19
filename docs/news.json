@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-20 07:00:39",
-  "total": 164,
-  "breaking": 122,
+  "updated": "2026-04-20 07:05:34",
+  "total": 172,
+  "breaking": 128,
   "items": [
+    {
+      "title": "김시우, 우승 경쟁한 RBC 헤리티지 단독 3위로 마쳐 [PGA]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019887",
+      "pub_date": "2026-04-20T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
+      "link": "https://biz.heraldcorp.com/article/10720581?ref=naver",
+      "pub_date": "2026-04-20T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 한은, 4년째 기후변화 대응 미적…10개 과제 가운데 2개만 이행",
+      "link": "https://www.hani.co.kr/arti/society/environment/1254945.html",
+      "pub_date": "2026-04-20T07:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]北, 집속탄두 장착 탄도미사일 시험발사…김정은 “특정 표적타격...",
+      "link": "https://www.munhwa.com/article/11583388?ref=naver",
+      "pub_date": "2026-04-20T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"미, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.sidae.com/article/2026042007001477802",
+      "pub_date": "2026-04-20T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “곧 보복한다”는 이란군 “美, 이란상선 발포는 휴전합의 위반...",
+      "link": "https://www.sedaily.com/article/20034377?ref=naver",
+      "pub_date": "2026-04-20T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군, 미군 함정 드론으로 공격…나포 직후 보복 감행",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420065955RJo",
+      "pub_date": "2026-04-20T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]임윤아, 'AAA'와 특별한 인연 \"10년간 절반 참석..'대상' 의미 깊어...",
+      "link": "https://www.starnewskorea.com/star/2026/04/20/2026041820470672366",
+      "pub_date": "2026-04-20T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[Who is ?] 이환구 흥아해운 대표이사 사장",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=435624",
+      "pub_date": "2026-04-20T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김혜성, 타율 3할 복귀! 2루타→안타로 시즌 두 번째 멀티히트 완...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553150885",
+      "pub_date": "2026-04-20T06:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
       "link": "https://www.mk.co.kr/article/12021330",
@@ -1458,24 +1548,6 @@
       "pub_date": "2026-04-19T21:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 상선에 총격까지 가한 이란 혁명수비대‥한국 선박들 여전히 고...",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816406_37004.html",
-      "pub_date": "2026-04-19T21:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "뜨거운 마음이 전부는 아니다 [김소연 칼럼]",
-      "link": "https://www.mk.co.kr/article/12020122",
-      "pub_date": "2026-04-19T21:01:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": false
     }
