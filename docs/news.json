@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 12:20:26",
+  "updated": "2026-04-19 12:25:24",
   "total": 200,
   "breaking": 146,
   "items": [
+    {
+      "title": "[속보]이 대통령, 인도·베트남 국빈 방문 출국···5박6일 일정",
+      "link": "https://www.khan.co.kr/article/202604191220001",
+      "pub_date": "2026-04-19T12:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "靑, 北 탄도미사일 발사에 긴급 안보 점검··· \"UN안보리 결의 위반\"",
       "link": "https://www.dkilbo.com/news/articleView.html?idxno=541542",
@@ -13,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
+      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
+      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
-      "link": "https://www.newspim.com/news/view/20260419000054",
+      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
+      "link": "https://www.newspim.com/news/view/20260419000043",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
+      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
+      "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-19T08:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.newspim.com/news/view/20260419000005",
-      "pub_date": "2026-04-19T08:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
