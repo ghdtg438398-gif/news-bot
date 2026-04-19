@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 16:15:29",
+  "updated": "2026-04-19 16:20:27",
   "total": 200,
-  "breaking": 128,
+  "breaking": 126,
   "items": [
+    {
+      "title": "종전 협상 앞 '호르무즈 재봉쇄'…막판 기싸움 '최고조'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298328&inflow=N",
+      "pub_date": "2026-04-19T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "추경호 “택시, 대구의 얼굴… 서비스 고도화·기사 안전 투트랙 지원”...",
+      "link": "https://www.segye.com/newsView/20260419508197?OutUrl=naver",
+      "pub_date": "2026-04-19T16:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
+      "link": "https://economist.co.kr/article/view/ecn202604190016",
+      "pub_date": "2026-04-19T16:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "평택을, 박빙 울산·경남 맞교환 카드 부상… 민주, 범여권 연대 딜레마",
       "link": "https://www.dt.co.kr/article/12058210?ref=naver",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 4·19 기념식서 \"자유·평등·통합·연대의 민주주의 온...",
-      "link": "https://www.mt.co.kr/politics/2026/04/19/2026041909370477564",
-      "pub_date": "2026-04-19T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 “4·19 정신 있었기에 ‘내란의 밤’ 물리칠 수 있었...",
-      "link": "https://www.mk.co.kr/article/12020909",
-      "pub_date": "2026-04-19T10:33:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 대통령 \"정치의 책임은 오직 민생…국민 삶이 국가 존재 이유...",
-      "link": "https://news.tf.co.kr/read/ptoday/2314693.htm",
-      "pub_date": "2026-04-19T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
