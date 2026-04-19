@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:05:27",
-  "total": 188,
-  "breaking": 121,
+  "updated": "2026-04-20 02:10:31",
+  "total": 184,
+  "breaking": 119,
   "items": [
     {
       "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
@@ -1657,42 +1657,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "더 유명해지고 싶은 NCT 위시, 체조 입성 \"다음 목표=일본 돔\"[일문일답...",
-      "link": "https://www.nocutnews.co.kr/news/6504609?utm_source=naver&utm_medium=article&utm_campaign=20260419044705",
-      "pub_date": "2026-04-19T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "더 유명해지고 싶은 NCT 위시, 체조 입성 \"다음 목표는 일본 돔\"[현장EN:...",
-      "link": "https://www.nocutnews.co.kr/news/6504609?utm_source=naver&utm_medium=article&utm_campaign=20260419040904",
-      "pub_date": "2026-04-19T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보에 동구 우성진·서구 권오...",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260419022148786",
-      "pub_date": "2026-04-19T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경북 문경 산불 발생 \"입산 금지\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560684",
-      "pub_date": "2026-04-19T16:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
