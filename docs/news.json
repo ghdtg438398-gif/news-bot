@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 22:15:27",
+  "updated": "2026-04-19 22:20:28",
   "total": 200,
   "breaking": 130,
   "items": [
@@ -13,7 +13,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “20일 종전 협상…거부하면 이란 발전소·다리 파괴”",
+      "title": "[속보] 트럼프 “20일 종전 협상…이란이 거부하면 발전소·다리 파괴”",
       "link": "https://www.hani.co.kr/arti/international/international_general/1254931.html",
       "pub_date": "2026-04-19T22:06:00+09:00",
       "source_id": "yna",
@@ -184,6 +184,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131101mg",
+      "pub_date": "2026-04-19T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
       "pub_date": "2026-04-19T21:32:00+09:00",
@@ -194,8 +203,8 @@
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131101mg",
-      "pub_date": "2026-04-19T21:32:00+09:00",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260419.99099005405",
+      "pub_date": "2026-04-19T21:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -207,15 +216,6 @@
       "pub_date": "2026-04-19T21:31:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260419.99099005405",
-      "pub_date": "2026-04-19T21:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
