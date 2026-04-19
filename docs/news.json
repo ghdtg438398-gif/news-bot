@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 01:45:28",
-  "total": 195,
+  "updated": "2026-04-20 01:50:28",
+  "total": 194,
   "breaking": 124,
   "items": [
     {
@@ -1747,15 +1747,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김민선7, 노보기 우승으로 '통산 2승째'…KLPGA 대회 3연속 '와이어투와...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019867",
-      "pub_date": "2026-04-19T15:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
