@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 18:10:24",
+  "updated": "2026-04-19 18:15:28",
   "total": 200,
   "breaking": 112,
   "items": [
+    {
+      "title": "[단독] ‘치매 머니’ 뜯기지 않게… 檢, 고소권자 지정 피해 구제 나섰...",
+      "link": "https://www.segye.com/newsView/20260419508833?OutUrl=naver",
+      "pub_date": "2026-04-19T18:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[특별기고] '경제대국'의 그늘, 저소득 노인 문제: (1) 현실",
       "link": "https://www.asiatoday.co.kr/view.php?key=20260419010005772",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "국토부, 20일부터 노후·취약시설 700곳 집중안전점검 착수",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01518646645417760",
-      "pub_date": "2026-04-19T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
