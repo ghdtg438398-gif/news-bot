@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 21:10:30",
+  "updated": "2026-04-19 21:15:29",
   "total": 200,
   "breaking": 103,
   "items": [
+    {
+      "title": "“협상 잘 되고 있다?”…백악관 긴급 회의 소집",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539788&ref=A",
+      "pub_date": "2026-04-19T21:08:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "지예은, ♥바타와 열애 입 열었다 \"용기있는 자가 미인 얻어\"…멤버들 ...",
       "link": "https://www.xportsnews.com/article/2138945",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도 국빈방문 위해 출국…글로벌 사우스 외교 본격 ...",
-      "link": "https://biz.heraldcorp.com/article/10720359?ref=naver",
-      "pub_date": "2026-04-19T12:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
