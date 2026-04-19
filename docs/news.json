@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 03:00:36",
-  "total": 163,
-  "breaking": 112,
+  "updated": "2026-04-20 03:05:26",
+  "total": 159,
+  "breaking": 110,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -22,7 +22,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "title": "[속보] 트럼프 “내일 협상” vs 이란 “언론 플레이”… 2차 협상 불투...",
       "link": "https://www.dt.co.kr/article/12058262?ref=naver",
       "pub_date": "2026-04-20T02:27:00+09:00",
       "source_id": "yna",
@@ -1429,42 +1429,6 @@
       "title": "[속보] 조국, 평택을 출마 선언…“국가대표 도시엔 국가대표 의원 필요...",
       "link": "https://www.segye.com/newsView/20260419508957?OutUrl=naver",
       "pub_date": "2026-04-19T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://www.viva100.com/article/20260419500583",
-      "pub_date": "2026-04-19T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 재봉쇄·선박 피격…美·이란 2차 종전협상 안갯속(종합)",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597198",
-      "pub_date": "2026-04-19T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "북, ‘잠수함 기지’ 신포서 미사일 발사…SLBM 가능성",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539744&ref=A",
-      "pub_date": "2026-04-19T17:03:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '헌재'서 '성추행' 이어 '스토킹' 의혹도 줄줄이 터져…간부급 ...",
-      "link": "https://www.imaeil.com/page/view/2026041915230402374",
-      "pub_date": "2026-04-19T17:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
