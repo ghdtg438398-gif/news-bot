@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 03:30:33",
-  "total": 155,
-  "breaking": 108,
+  "updated": "2026-04-20 03:35:25",
+  "total": 152,
+  "breaking": 107,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -1370,33 +1370,6 @@
       "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[단독] 용산 국제업무·문화지역에도 주택 … 주거비율 29% → 50%로",
-      "link": "https://www.mk.co.kr/article/12021185",
-      "pub_date": "2026-04-19T17:34:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "\"23언더파 신기록 우승\" 이상엽, KPGA 개막전서 통산 2승",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038810",
-      "pub_date": "2026-04-19T17:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “작동되나 보려고” 열차서 소화기 뿌린 20대 여성 체포",
-      "link": "https://www.kyeonggi.com/article/20260419580277",
-      "pub_date": "2026-04-19T17:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
