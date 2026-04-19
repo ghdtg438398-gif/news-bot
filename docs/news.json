@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 04:56:42",
-  "total": 132,
-  "breaking": 105,
+  "updated": "2026-04-20 05:00:34",
+  "total": 131,
+  "breaking": 104,
   "items": [
     {
       "title": "[속보] 트럼프 “美, 호르무즈 해협 봉쇄 돌파 이란 화물선 나포”",
@@ -1180,15 +1180,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 불안한 휴전에 이스라엘 '경고'...\"파기시 에너지시설 공격\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604190109&t=NN",
-      "pub_date": "2026-04-19T18:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
