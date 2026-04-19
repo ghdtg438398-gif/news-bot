@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 07:55:24",
-  "total": 172,
-  "breaking": 118,
+  "updated": "2026-04-20 08:00:36",
+  "total": 175,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[속보] 미군, 이란 화물선에 발포·나포…이란군 \"곧 보복할 것\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045640",
+      "pub_date": "2026-04-20T07:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, RBC 헤리티지 단독 3위…시즌 세 번째 톱5",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733027",
+      "pub_date": "2026-04-20T07:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "2개월간 '집중안전점검' 시작…전국 700여개 시설 점검",
+      "link": "https://www.nocutnews.co.kr/news/6504699?utm_source=naver&utm_medium=article&utm_campaign=20260420075412",
+      "pub_date": "2026-04-20T07:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스핌 이 시각 PICK] 3선 친명 박찬대 vs 3선 친박 유정복 外",
       "link": "https://www.newspim.com/news/view/20260420000030",
@@ -112,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
-      "link": "https://www.etnews.com/20260420000006",
+      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.etnews.com/20260420000006",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
-      "link": "https://www.news1.kr/world/usa-canada/6141609",
+      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
+      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
+      "link": "https://www.news1.kr/world/usa-canada/6141609",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,21 +202,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.ajunews.com/view/20260420072739097",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
       "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
       "pub_date": "2026-04-20T07:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.ajunews.com/view/20260420072739097",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
