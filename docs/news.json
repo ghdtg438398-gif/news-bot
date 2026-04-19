@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 12:30:33",
+  "updated": "2026-04-19 12:35:24",
   "total": 200,
-  "breaking": 144,
+  "breaking": 145,
   "items": [
+    {
+      "title": "[속보] \"군대 다녀왔으면 신입도 바로 5급?\"…법원 \"성 차별 맞다\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041912315316061",
+      "pub_date": "2026-04-19T12:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "휴전 D-2, 호르무즈 재봉쇄…미·이란 종전협상 안갯속",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=512877",
@@ -130,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
-      "pub_date": "2026-04-19T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
       "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
@@ -150,6 +150,15 @@
     {
       "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
       "link": "https://www.newspim.com/news/view/20260419000056",
+      "pub_date": "2026-04-19T12:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
+      "link": "https://www.newspim.com/news/view/20260419000043",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1789,15 +1798,6 @@
       "title": "호르무즈 재봉쇄 선언에 트럼프 대응 고심…전쟁 재개 갈림길",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038555",
       "pub_date": "2026-04-19T08:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "호주, '태양광 발전 아파트'로 가계 에너지 혁명 성취",
-      "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=164014",
-      "pub_date": "2026-04-19T08:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
