@@ -1,20 +1,47 @@
 {
-  "updated": "2026-04-19 21:35:33",
+  "updated": "2026-04-19 21:40:31",
   "total": 200,
-  "breaking": 131,
+  "breaking": 132,
   "items": [
     {
       "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
-      "pub_date": "2026-04-19T21:32:00+09:00",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394816",
+      "pub_date": "2026-04-19T21:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
-      "link": "https://www.dt.co.kr/article/12058255?ref=naver",
+      "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419513&PRO_CODE=99",
+      "pub_date": "2026-04-19T21:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소ㆍ다리 파괴할 것...",
+      "link": "https://www.etoday.co.kr/news/view/2577033",
+      "pub_date": "2026-04-19T21:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"황교익 문화관광연구원장 임명은 파행 인사\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524013&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T21:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +58,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라바마드로 갈 것\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
+      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
+      "link": "https://www.dt.co.kr/article/12058255?ref=naver",
+      "pub_date": "2026-04-19T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
-      "link": "https://www.kyeonggi.com/article/20260419580453",
+      "title": "[속보] 트럼프 “미국 협상단, 내일 저녁 이슬라마바드 도착”",
+      "link": "https://www.etoday.co.kr/news/view/2577031",
       "pub_date": "2026-04-19T21:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “미국 협상단, 내일 저녁 이슬라마바드 도착”",
-      "link": "https://www.etoday.co.kr/news/view/2577031",
+      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
+      "link": "https://www.kyeonggi.com/article/20260419580453",
       "pub_date": "2026-04-19T21:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,7 +274,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “미 협상단, 내일 파키스탄행…이란, 합의 거부시 발전...",
+      "title": "[속보] 트럼프 “미 협상단, 내일 파키스탄행…이란이 합의 거부시 발전...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539806&ref=A",
       "pub_date": "2026-04-19T21:20:00+09:00",
       "source_id": "yna",
@@ -298,15 +334,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"황교익 문화관광연구원장 임명은 파행 인사\" 학계와 문화예술계 거센 ...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524013&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T21:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1771,33 +1798,6 @@
       "title": "[속보] 강훈식 “이 대통령, 국회에 특별감찰관 임명 절차 개시 요청”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539730&ref=A",
       "pub_date": "2026-04-19T15:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[채권-주간] 미국과 이란 종전협상 주시…신현송 한은 총재 취임일성은",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410388",
-      "pub_date": "2026-04-19T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 특별감찰관 임명절차 개시 재요청…강훈식 \"공직기강...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597134",
-      "pub_date": "2026-04-19T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"국회, 특별감찰관 임명 절차 개시\" 요청",
-      "link": "https://www.news1.kr/politics/president/6141370",
-      "pub_date": "2026-04-19T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
