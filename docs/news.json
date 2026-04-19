@@ -1,11 +1,29 @@
 {
-  "updated": "2026-04-20 00:10:29",
+  "updated": "2026-04-20 00:15:31",
   "total": 200,
   "breaking": 129,
   "items": [
     {
+      "title": "원주 사설구급차·승용차 사고 …“긴급차 특례 관리·교차로 안전 강화...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041750028800000",
+      "pub_date": "2026-04-20T00:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[선택 2026 강원] 강원 지방의원 8석 늘었다",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045618",
+      "pub_date": "2026-04-20T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국민 100명 중 4명이 구독…지역신문 전국화 이정표 우뚝",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045629",
       "pub_date": "2026-04-20T00:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
       "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
       "pub_date": "2026-04-19T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합] NCT 위시, 데뷔 2년 만 KSPO돔 입성→20일 컴백⋯\"다음 목표는 돔...",
-      "link": "http://www.joynews24.com/view/1961478",
-      "pub_date": "2026-04-19T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.ajunews.com/view/20260419152831872",
-      "pub_date": "2026-04-19T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
