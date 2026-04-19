@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 13:40:26",
+  "updated": "2026-04-19 13:45:30",
   "total": 200,
-  "breaking": 143,
+  "breaking": 142,
   "items": [
+    {
+      "title": "온유, 홍콩 첫 단독 팬미팅 'TOUGH LOVE' 성료",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532287",
+      "pub_date": "2026-04-19T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 국힘, 李대통령 ‘장특공 존치론’ 반박에 “무능에 나랏돈 바닥...",
+      "link": "https://www.dt.co.kr/article/12058174?ref=naver",
+      "pub_date": "2026-04-19T13:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "북한, 단거리 탄도미사일 발사…\"SLBM 시험 가능성\"",
       "link": "https://www.asiatime.co.kr/article/20260419500081",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
+      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
       "pub_date": "2026-04-19T13:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
+      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
       "pub_date": "2026-04-19T13:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "https://www.yna.co.kr/view/AKR20260419013400001?input=1195m",
       "pub_date": "2026-04-19T08:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대 \"북한 탄도미사일 관련 안보상황점검회의 예정\"",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604190855276453",
-      "pub_date": "2026-04-19T08:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑, 북한 탄도미사일 관련 긴급 안보상황점검회의 소집",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596850",
-      "pub_date": "2026-04-19T08:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
