@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 15:35:28",
+  "updated": "2026-04-19 15:40:31",
   "total": 200,
-  "breaking": 135,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[속보]“美, 대북정보 공유 일부 제한”…정동영 ‘北 핵시설 공개’ 후...",
+      "link": "https://magazine.hankyung.com/business/article/202604190842b",
+      "pub_date": "2026-04-19T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"국회, 특별감찰관 임명 절차 개시해달라…권력 감시...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045460",
+      "pub_date": "2026-04-19T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 내포신도시 홍예공원 재단장",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
+      "pub_date": "2026-04-19T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
+      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
+      "pub_date": "2026-04-19T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[종합] NCT 위시, 데뷔 2년 만 KSPO돔 입성→20일 컴백⋯\"다음 목표는 돔...",
       "link": "http://www.joynews24.com/view/1961478",
@@ -28,6 +64,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "동료 제지에도 \"야옹·멍멍\"...얼 빠진 조종사들의 최후 [지금이뉴스]",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604191531281861",
+      "pub_date": "2026-04-19T15:31:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -94,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
+      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
-      "link": "https://www.sidae.com/article/2026041915102824072",
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
+      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
+      "link": "https://www.sidae.com/article/2026041915102824072",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
     {
       "title": "[속보]이 대통령 \"민주주의 위해 희생한 모든 분 포상하고 기록·예우\"",
       "link": "https://www.newsis.com/view/NISX20260419_0003596903",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령 \"4·19 정신 있었기에 내란의 밤 물리칠 수 있었다\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01469446645417760",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한 발사 탄도미사일은 단거리…약 140km 비행\"",
-      "link": "https://www.ajunews.com/view/20260419102757636",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.etoday.co.kr/news/view/2576953",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
-      "link": "https://news.jtbc.co.kr/article/NB12294836?influxDiv=NAVER",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 대통령 \"4·19 정신이 있어 12.3 내란의 밤 물리쳐\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2314692.htm",
       "pub_date": "2026-04-19T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
