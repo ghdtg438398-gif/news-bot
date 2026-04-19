@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 23:40:31",
+  "updated": "2026-04-19 23:45:32",
   "total": 200,
   "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"南北동포 함께 사는 인도… 한반도 평화 미래 보여줘...",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394832",
+      "pub_date": "2026-04-19T23:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 미국 해상 봉쇄하는 한 협상 없어\"",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6816432_36925.html",
+      "pub_date": "2026-04-19T23:39:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 \"韓·印 완전 다른차원으로… 중동전쟁 속 중요파트너...",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394831",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 상호만 들어도 다 아는 강원 유명 식당, 원산지표시법 위반 잇따...",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045458",
       "pub_date": "2026-04-19T15:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"1년간 74차례 신고\"…\"집에 도둑 들었다\" 상습 허위신고 50대, 석...",
-      "link": "https://www.imaeil.com/page/view/2026041915175605965",
-      "pub_date": "2026-04-19T15:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
-      "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
