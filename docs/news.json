@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 12:15:31",
+  "updated": "2026-04-19 12:20:26",
   "total": 200,
   "breaking": 146,
   "items": [
+    {
+      "title": "靑, 北 탄도미사일 발사에 긴급 안보 점검··· \"UN안보리 결의 위반\"",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541542",
+      "pub_date": "2026-04-19T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
+      "pub_date": "2026-04-19T12:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
+      "pub_date": "2026-04-19T12:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, 인도 국빈방문 위해 출국…글로벌 사우스 외교 본격 ...",
       "link": "https://biz.heraldcorp.com/article/10720359?ref=naver",
@@ -76,15 +103,6 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
-      "pub_date": "2026-04-19T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
       "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
@@ -96,6 +114,15 @@
     {
       "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
       "link": "https://www.newspim.com/news/view/20260419000056",
+      "pub_date": "2026-04-19T12:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
+      "link": "https://www.newspim.com/news/view/20260419000043",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260419081046QLS",
-      "pub_date": "2026-04-19T08:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'36홀 노보기' 김민선7, 와이어투와이어 우승에 성큼…김민별·전예성과...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019850",
-      "pub_date": "2026-04-19T08:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"5타 줄인 66타\" 김시우, RBC 헤리티지 공동 3위로 우승 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038538",
-      "pub_date": "2026-04-19T08:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
