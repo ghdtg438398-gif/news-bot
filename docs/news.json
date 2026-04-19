@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 20:50:29",
+  "updated": "2026-04-19 20:55:29",
   "total": 200,
   "breaking": 106,
   "items": [
+    {
+      "title": "[광주일보가 걸어온 길] 정론직필 74년 외길 …격동의 시대 호남 역사 산...",
+      "link": "http://www.kwangju.co.kr/article.php?aid=1775660400797983006",
+      "pub_date": "2026-04-19T20:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령, 인도 뉴델리 도착…20일 모디 총리와 정상회담",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005404",
+      "pub_date": "2026-04-19T20:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"조건 만남하자\"며 20대 남성들 유인한 10대들, 담뱃불로 지지고...",
+      "link": "https://www.imaeil.com/page/view/2026041918062408923",
+      "pub_date": "2026-04-19T20:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 평택제천선 천등산3터널 차량 화재 발생 \"일방향 전면차단\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560846",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
-      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
+      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
+      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
+      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도·베트남 국빈순방 돌입…뉴델리 향발 출국",
-      "link": "https://www.news1.kr/politics/president/6141240",
-      "pub_date": "2026-04-19T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이재명 대통령, 19일 인도·베트남 순방차 '출국'",
-      "link": "https://www.mt.co.kr/politics/2026/04/19/2026041910233374195",
-      "pub_date": "2026-04-19T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568797",
-      "pub_date": "2026-04-19T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
