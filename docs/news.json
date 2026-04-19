@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 20:05:25",
+  "updated": "2026-04-19 20:10:28",
   "total": 200,
   "breaking": 98,
   "items": [
+    {
+      "title": "북, 단거리 탄도미사일 발사…청와대 \"유엔 안보리 결의 위반\"",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189064",
+      "pub_date": "2026-04-19T20:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "미 아이오와대 캠퍼스서 주말 새벽 총격…다수 부상, 용의자 미검거",
       "link": "https://view.asiae.co.kr/article/2026041920033185208",
@@ -1789,15 +1798,6 @@
       "title": "北 11일 만에 탄도미사일 발사…SLBM 가능성 제기",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=512872",
       "pub_date": "2026-04-19T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "靑 \"대통령 국빈 방문 날 北 미사일 발사…태세 유지 만전\"",
-      "link": "https://www.newspim.com/news/view/20260419000047",
-      "pub_date": "2026-04-19T11:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
