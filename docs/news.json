@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 04:40:32",
-  "total": 133,
+  "updated": "2026-04-20 04:45:27",
+  "total": 131,
   "breaking": 101,
   "items": [
+    {
+      "title": "[속보]트럼프 “美, 봉쇄 뚫으려던 이란 화물선 나포...내부 조사 중”",
+      "link": "https://www.sedaily.com/article/20034374?ref=naver",
+      "pub_date": "2026-04-20T04:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420043814ge4",
+      "pub_date": "2026-04-20T04:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
       "link": "https://www.dt.co.kr/article/12058271?ref=naver",
@@ -1162,42 +1180,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 충남 논산 연산면 화재 \"검은 연기 발생\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560808",
-      "pub_date": "2026-04-19T18:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "北, 동해상에 탄도미사일 발사…올해만 7번째 도발",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657038",
-      "pub_date": "2026-04-19T18:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“어떤 얼간이” 망신당한 이란 외무장관",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524882",
-      "pub_date": "2026-04-19T18:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 논산 연산면 청동리 화재 발생… \"인근 주민 창문 닫고 우회 당부...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270087",
-      "pub_date": "2026-04-19T18:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
