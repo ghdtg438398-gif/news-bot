@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 05:50:30",
-  "total": 146,
-  "breaking": 114,
+  "updated": "2026-04-20 05:55:26",
+  "total": 147,
+  "breaking": 115,
   "items": [
+    {
+      "title": "트럼프 \"이란 선박 나포...합의 안하면 파괴\" 최후 통첩",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604200551020292",
+      "pub_date": "2026-04-20T05:51:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중동 긴장 재고조, 비트코인 2%↓ 7만5000달러 붕괴",
+      "link": "https://www.news1.kr/world/usa-canada/6141585",
+      "pub_date": "2026-04-20T05:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[BOOKS] ‘겸손’보다 ‘존재감’… 유능한 여성 리더의 커리어 전략",
       "link": "https://economychosun.com/site/data/html_dir/2026/04/10/2026041000039.html",
@@ -1303,15 +1321,6 @@
       "title": "한미일 지휘관 회동 나흘 만에 SLBM 추정 도발",
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521597",
       "pub_date": "2026-04-19T19:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "북한, 신포서 단거리 탄도미사일 발사…SLBM 가능성도",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260419195408HEd",
-      "pub_date": "2026-04-19T19:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
