@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 18:30:29",
+  "updated": "2026-04-19 18:35:23",
   "total": 200,
-  "breaking": 111,
+  "breaking": 108,
   "items": [
+    {
+      "title": "넥센·세인트나인 최종일 아쉬움 남긴 방신실·박현경 [KLPGA]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019873",
+      "pub_date": "2026-04-19T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "돌아온 늑구… “소고기 특식 먹고 회복 중”",
+      "link": "https://www.segye.com/newsView/20260419508879?OutUrl=naver",
+      "pub_date": "2026-04-19T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'44년 만의 대기록'...SSG 박성한, 개막 후 18경기 연속 안타 '금자탑'",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217650",
+      "pub_date": "2026-04-19T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[이슈] 이란, 호르무즈 해협 하루 만에 재봉쇄…미·이란 종전 협상 '안...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728887",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-19T11:08:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 윤동희-정철원-쿄야마-김민성 충격 말소…'2연패' 김태형 감독 인...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811402",
-      "pub_date": "2026-04-19T11:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강득구 “피해자 김용에 무죄 입증 요구는 정치 책임 떠넘기는 ...",
-      "link": "https://www.kyeonggi.com/article/20260419580009",
-      "pub_date": "2026-04-19T11:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419023900001?input=1195m",
-      "pub_date": "2026-04-19T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
