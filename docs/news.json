@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 06:40:29",
-  "total": 155,
-  "breaking": 113,
+  "updated": "2026-04-20 06:45:28",
+  "total": 157,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
+      "link": "http://www.fnnews.com/news/202604200640204286",
+      "pub_date": "2026-04-20T06:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북한, ‘화성-11라’ 미사일 탄두 위력 시험…김정은 참관",
+      "link": "https://www.kyeonggi.com/article/20260420580001",
+      "pub_date": "2026-04-20T06:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 미 중부사령부, 오만만서 이란 상선 나포 공식 확인",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420063536Tzl",
@@ -67,21 +85,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 북한 '화성-11라' 미사일 탄두 위력 시험…김정은 참관",
-      "link": "https://news.jtbc.co.kr/article/NB12294889?influxDiv=NAVER",
-      "pub_date": "2026-04-20T06:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "中 로봇 마라톤 신기록…자율주행으로 인간 앞서",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260420061648rtE",
       "pub_date": "2026-04-20T06:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북한 '화성-11라' 미사일 탄두 위력 시험…김정은 참관",
+      "link": "https://news.jtbc.co.kr/article/NB12294889?influxDiv=NAVER",
+      "pub_date": "2026-04-20T06:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -157,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
-      "pub_date": "2026-04-20T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독] 어쿠스틱콜라보 김승재·故모수진, ‘정산금 미지급’ 전 소속사...",
       "link": "https://www.kukinews.com/article/view/kuk202604190048",
       "pub_date": "2026-04-20T06:02:00+09:00",
@@ -177,6 +186,15 @@
     {
       "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
+      "pub_date": "2026-04-20T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
-      "link": "https://www.news1.kr/economy/employment-labor/6141209",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
       "link": "https://www.newspim.com/news/view/20260417000567",
       "pub_date": "2026-04-20T06:00:00+09:00",
@@ -229,13 +238,13 @@
       "is_scoop": false
     },
     {
-      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
+      "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
+      "link": "https://www.news1.kr/economy/employment-labor/6141209",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[PSK칼럼] 제약산업 산책 - ﻿한미 FTA",
@@ -249,6 +258,15 @@
     {
       "title": "공사비 폭등에 '링거' 꽂는 정부…건설업계 \"빚내서 버티기\"",
       "link": "https://www.ziksir.com/news/articleView.html?idxno=131141",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
