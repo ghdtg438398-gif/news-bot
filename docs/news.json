@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-19 11:00:39",
+  "updated": "2026-04-19 11:05:27",
   "total": 200,
   "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 李대통령 “독재 군홧발, 불평등·빈곤 파고들어…오직 민생”",
+      "link": "https://www.dt.co.kr/article/12058148?ref=naver",
+      "pub_date": "2026-04-19T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[LPGA] 김세영 LA 챔피언십 3R 단독 선두...김효주 허리통증 기권",
+      "link": "https://www.newspim.com/news/view/20260419000038",
+      "pub_date": "2026-04-19T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "국토부, 20일부터 노후·취약시설 700곳 집중안전점검 착수",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01518646645417760",
+      "pub_date": "2026-04-19T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리쳤다\"",
+      "link": "https://economist.co.kr/article/view/ecn202604190010",
+      "pub_date": "2026-04-19T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[우보세] 우주 데이터가 산업 판도 바꾼다",
+      "link": "https://www.mt.co.kr/opinion/2026/04/19/2026041415525726911",
+      "pub_date": "2026-04-19T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "이란 혁명수비대, 호르무즈 해협 재봉쇄…트럼프 백악관 긴급회의 소집",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657034",
@@ -49,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
-      "link": "https://www.hankyung.com/article/2026041904877",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
       "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
       "pub_date": "2026-04-19T10:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
+      "link": "https://www.hankyung.com/article/2026041904877",
+      "pub_date": "2026-04-19T10:47:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
-      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
+      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
+      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
+      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1757,51 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] IMF “빠르게 느는 한국 부채비율, 내년 56.6%…선진 非기축통화...",
-      "link": "https://www.dt.co.kr/article/12058093?ref=naver",
-      "pub_date": "2026-04-19T06:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 헤즈볼라 수장, 레바논에 대한 이스라엘 정전 위반에 보복 밝혀",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596788",
-      "pub_date": "2026-04-19T06:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'36홀 선두일 때 승률 좋은' 김세영, LA 챔피언십 2R 단독1위 [LPGA]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019845",
-      "pub_date": "2026-04-19T06:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "데뷔 4경기 만에 KBO 45년史 새로 썼다!…그런데 왜 \"이건 내 기록 아냐...",
-      "link": "https://www.xportsnews.com/article/2138659",
-      "pub_date": "2026-04-19T06:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
-      "link": "https://www.news1.kr/society/court-prosecution/6140569",
-      "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
