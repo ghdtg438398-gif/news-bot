@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 15:45:28",
+  "updated": "2026-04-19 15:50:30",
   "total": 200,
   "breaking": 134,
   "items": [
+    {
+      "title": "김민선7, 노보기 우승으로 '통산 2승째'…KLPGA 대회 3연속 '와이어투와...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019867",
+      "pub_date": "2026-04-19T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
+      "link": "https://www.dt.co.kr/article/12058202?ref=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]“美, 대북정보 공유 일부 제한”…정동영 ‘北 핵시설 공개’ 후...",
       "link": "https://magazine.hankyung.com/business/article/202604190842b",
@@ -94,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
+      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
+      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
-      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
+      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
+      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
       "pub_date": "2026-04-19T15:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
-      "link": "https://www.sidae.com/article/2026041915102824072",
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
+      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
+      "link": "https://www.sidae.com/article/2026041915102824072",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-19T10:31:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"민주주의 희생자들 더 찾아 포상·기록·예우할 것\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01472726645417760",
-      "pub_date": "2026-04-19T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[김능구·장성철의 직언직썰 4월①] \"李대통령, 이스라엘 인권문제 직격...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728805",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 \"민주주의 위해 희생한 모든 분 포상하고 기록·예우\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596903",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
