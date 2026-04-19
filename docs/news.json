@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 10:05:28",
-  "total": 131,
-  "breaking": 84,
+  "updated": "2026-04-19 10:10:32",
+  "total": 132,
+  "breaking": 85,
   "items": [
+    {
+      "title": "[속보] 李대통령, 4·19혁명 기념식 취임 후 첫 참석",
+      "link": "http://www.fnnews.com/news/202604191005200596",
+      "pub_date": "2026-04-19T10:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이 대통령, 4·19혁명 기념식 취임 후 첫 참석",
       "link": "https://www.newsis.com/view/NISX20260419_0003596892",
