@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 23:10:29",
+  "updated": "2026-04-19 23:15:30",
   "total": 200,
-  "breaking": 129,
+  "breaking": 128,
   "items": [
+    {
+      "title": "[속보] “이란, 美 해상 봉쇄하는 한 협상없어”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029702766&code=61131511&cp=nv",
+      "pub_date": "2026-04-19T23:13:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란, 美 해상봉쇄하는 한 협상없어”<이란 매체>",
+      "link": "https://www.joongang.co.kr/article/25421429",
+      "pub_date": "2026-04-19T23:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "22년 만의 대굴욕! 2조 가까이 쓰고 10연패 참사, \"당장 감독 잘라라\" 비...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553150351",
+      "pub_date": "2026-04-19T23:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"<이란 매체>",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041923074770757",
@@ -1771,33 +1798,6 @@
       "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
       "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 대통령, 국회에 \"특별감찰관 임명 절차 개시 요청\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270056",
-      "pub_date": "2026-04-19T15:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“도둑 들었다” 허위 신고만 1년 간 74차례 ‘양치기 중년’",
-      "link": "https://www.munhwa.com/article/11583328?ref=naver",
-      "pub_date": "2026-04-19T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 국회에 특별감찰관 임명 절차 개시 재요청",
-      "link": "http://www.fnnews.com/news/202604191508132777",
-      "pub_date": "2026-04-19T15:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
