@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 06:50:27",
-  "total": 157,
-  "breaking": 115,
+  "updated": "2026-04-20 06:54:12",
+  "total": 156,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[단독] ‘쓰레기집’에 자녀 방치해놓고… 하나같이 “부모 역할 다했다...",
+      "link": "https://www.segye.com/newsView/20260419508770?OutUrl=naver",
+      "pub_date": "2026-04-20T06:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
       "link": "http://www.fnnews.com/news/202604200640204286",
@@ -130,20 +139,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://www.hankyung.com/article/2026042014577",
-      "pub_date": "2026-04-20T06:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 北, ‘화성-11라’ 미사일 탄두 위력시험…김정은 참관",
       "link": "https://www.dt.co.kr/article/12058272?ref=naver",
       "pub_date": "2026-04-20T06:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
+      "link": "https://www.hankyung.com/article/2026042014577",
+      "pub_date": "2026-04-20T06:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,8 +202,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
+      "title": "[단독] 어쿠스틱콜라보 김승재·故모수진, ‘정산금 미지급’ 전 소속사...",
+      "link": "https://www.kukinews.com/article/view/kuk202604190048",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +211,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 어쿠스틱콜라보 김승재·故모수진, ‘정산금 미지급’ 전 소속사...",
-      "link": "https://www.kukinews.com/article/view/kuk202604190048",
+      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1393,24 +1402,6 @@
       "title": "[속보] 구리·군포·부천·파주 민주당 공천 확정",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723297",
       "pub_date": "2026-04-19T20:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[광주일보가 걸어온 길] 정론직필 74년 외길 …격동의 시대 호남 역사 산...",
-      "link": "http://www.kwangju.co.kr/article.php?aid=1775660400797983006",
-      "pub_date": "2026-04-19T20:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 인도 뉴델리 도착…20일 모디 총리와 정상회담",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005404",
-      "pub_date": "2026-04-19T20:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
