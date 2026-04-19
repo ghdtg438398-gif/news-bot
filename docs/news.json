@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 17:55:30",
+  "updated": "2026-04-19 18:00:37",
   "total": 200,
   "breaking": 113,
   "items": [
+    {
+      "title": "[속보] “조건만남해요” 10대들, 20대男 담뱃불로 지지고 수백만원 갈...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/19/20260419500097?wlog_tag3=naver",
+      "pub_date": "2026-04-19T17:59:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 용산 1만가구 공급, 절반은 오피스텔",
       "link": "https://www.mk.co.kr/article/12021213",
@@ -1792,15 +1801,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李, 4·19 혁명 기념사 “국민 함성 오만·무도 권력 무너뜨려\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005153",
-      "pub_date": "2026-04-19T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
