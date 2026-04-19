@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 11:45:30",
+  "updated": "2026-04-19 11:50:32",
   "total": 200,
-  "breaking": 144,
+  "breaking": 145,
   "items": [
+    {
+      "title": "[속보] 1년간 74차례 “도둑 들었다” 허위신고 50대, 체포 뒤 석방되자...",
+      "link": "https://www.dt.co.kr/article/12058162?ref=naver",
+      "pub_date": "2026-04-19T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]올해에만 7번째 도발...靑 \"北 탄도미사일, 안보리 결의 위반\"",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=118999",
+      "pub_date": "2026-04-19T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"중간 합계 15언더파\"…김세영, LA 챔피언십 선두 질주",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038627",
@@ -139,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
-      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
+      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
+      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2891일의 기다림' 다시 우승 앞에 섰다, 권성열 \"간절할수록 안 되더라...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041812582251050",
-      "pub_date": "2026-04-19T07:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북, 동쪽 방향으로 탄도미사일 발사‥11일 만의 도발",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6816305_36911.html",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
