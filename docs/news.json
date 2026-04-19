@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 03:50:27",
-  "total": 150,
-  "breaking": 107,
+  "updated": "2026-04-20 03:55:25",
+  "total": 151,
+  "breaking": 108,
   "items": [
+    {
+      "title": "[속보] 이란, 2차 평화협상 참여 거부…IRNA",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597373",
+      "pub_date": "2026-04-20T03:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420023356rHL",
