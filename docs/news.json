@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:20:28",
-  "total": 180,
-  "breaking": 119,
+  "updated": "2026-04-20 02:25:25",
+  "total": 177,
+  "breaking": 117,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -1591,33 +1591,6 @@
       "title": "[속보] 경북 영양군 산불 발생...석보면 야산서 불",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560690",
       "pub_date": "2026-04-19T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 북한의 ‘전략적 우호국’ 브라질, 10년 만에 대사급 외교 목전...",
-      "link": "https://www.segye.com/newsView/20260419508216?OutUrl=naver",
-      "pub_date": "2026-04-19T16:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
-      "link": "https://dgmbc.com/NewsArticle/835978",
-      "pub_date": "2026-04-19T16:21:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
-      "link": "https://www.imaeil.com/page/view/2026041916194155724",
-      "pub_date": "2026-04-19T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
