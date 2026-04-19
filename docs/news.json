@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 21:05:27",
+  "updated": "2026-04-19 21:10:30",
   "total": 200,
-  "breaking": 105,
+  "breaking": 103,
   "items": [
+    {
+      "title": "지예은, ♥바타와 열애 입 열었다 \"용기있는 자가 미인 얻어\"…멤버들 ...",
+      "link": "https://www.xportsnews.com/article/2138945",
+      "pub_date": "2026-04-19T21:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 상선에 총격까지 가한 이란 혁명수비대‥한국 선박들 여전히 고...",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816406_37004.html",
+      "pub_date": "2026-04-19T21:03:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "뜨거운 마음이 전부는 아니다 [김소연 칼럼]",
       "link": "https://www.mk.co.kr/article/12020122",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
-      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
+      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
+      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
+      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 李대통령, 인도 국빈방문 위해 출국…글로벌 사우스 외교 본격 ...",
       "link": "https://biz.heraldcorp.com/article/10720359?ref=naver",
       "pub_date": "2026-04-19T12:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도·베트남 국빈순방 일정 돌입…뉴델리로 출국",
-      "link": "http://www.fnnews.com/news/202604191210343149",
-      "pub_date": "2026-04-19T12:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도·베트남 국빈 방문…뉴델리로 출발",
-      "link": "https://view.asiae.co.kr/article/2026041910374700824",
-      "pub_date": "2026-04-19T12:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
