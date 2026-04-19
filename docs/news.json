@@ -1,14 +1,77 @@
 {
-  "updated": "2026-04-19 09:00:50",
-  "total": 96,
-  "breaking": 59,
+  "updated": "2026-04-19 09:05:27",
+  "total": 101,
+  "breaking": 62,
   "items": [
+    {
+      "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
+      "link": "http://www.fnnews.com/news/202604190902012108",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269884",
+      "pub_date": "2026-04-19T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 19일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604190009",
+      "pub_date": "2026-04-19T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 호르무즈 다시 닫히자…낙관적이던 트럼프, 백악관 긴급회의 소...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041908593610018",
+      "pub_date": "2026-04-19T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "北, 올들어 7번째 미사일 발사…미중정상회담 앞두고 도발(종합)",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01321846645417760",
+      "pub_date": "2026-04-19T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
+      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
+      "pub_date": "2026-04-19T08:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
+      "link": "https://www.sidae.com/article/2026041908574450012",
+      "pub_date": "2026-04-19T08:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -22,9 +85,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
-      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
-      "pub_date": "2026-04-19T08:59:00+09:00",
+      "title": "[속보] 청와대긴급 안보상황점검회의 소집…북한 탄도미사일 발사 관련",
+      "link": "https://www.newspim.com/news/view/20260419000007",
+      "pub_date": "2026-04-19T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -844,24 +907,6 @@
       "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 “대화 순조롭게 진행”",
       "link": "https://www.dt.co.kr/article/12058081?ref=naver",
       "pub_date": "2026-04-18T23:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 호르무즈 재봉쇄에도… 트럼프 \"대화 순조롭게 진행 중\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026041823000003900?did=NA",
-      "pub_date": "2026-04-18T23:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란의 호르무즈 재봉쇄에도 “대화 순조롭게 진행”",
-      "link": "https://www.sedaily.com/article/20034130?ref=naver",
-      "pub_date": "2026-04-18T23:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
