@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 16:35:26",
+  "updated": "2026-04-19 16:40:27",
   "total": 200,
-  "breaking": 125,
+  "breaking": 122,
   "items": [
+    {
+      "title": "'살기좋은 아파트' 도전하세요 … 올해 시니어하우징 분야 신설",
+      "link": "https://www.mk.co.kr/article/12021091",
+      "pub_date": "2026-04-19T16:39:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“제대로 작동하는지 보려고”⋯경의중앙선 전동차 안에 비치된 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041950143900000",
+      "pub_date": "2026-04-19T16:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)진주서 언론사 임원 흉기 공격에 큰 부상",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685800",
+      "pub_date": "2026-04-19T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "\"54홀 노보기\" 김민선, 넥센·세인트나인 와이어 투 와이어 제패",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038789",
+      "pub_date": "2026-04-19T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국민의힘 대구 군위군수 후보에 김진열 확정",
       "link": "https://www.sidae.com/article/2026041916273253074",
@@ -58,20 +94,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
-      "link": "https://dgmbc.com/NewsArticle/835978",
-      "pub_date": "2026-04-19T16:21:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
       "link": "https://www.imaeil.com/page/view/2026041916194155724",
       "pub_date": "2026-04-19T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
+      "link": "https://dgmbc.com/NewsArticle/835978",
+      "pub_date": "2026-04-19T16:21:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -211,20 +247,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
       "link": "https://www.dt.co.kr/article/12058202?ref=naver",
       "pub_date": "2026-04-19T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보] 북한 신포發 발사체는 단거리 탄도미사일…합참 “약 140km 비행”",
       "link": "https://www.dt.co.kr/article/12058128?ref=naver",
       "pub_date": "2026-04-19T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 “대한민국 헌법 뿌리로 태어난 4·19 정신, 내란의 밤...",
-      "link": "https://www.khan.co.kr/article/202604191037001",
-      "pub_date": "2026-04-19T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"정치의 책임은 오직 민생…국민 주인인 나라로 나아갈...",
-      "link": "https://www.news1.kr/politics/president/6141239",
-      "pub_date": "2026-04-19T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리…약 140km 비행”",
-      "link": "https://www.viva100.com/article/20260419500263",
-      "pub_date": "2026-04-19T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “4·19 정신 있었기에 ‘내란의 밤’ 물리칠 수 있었다...",
-      "link": "https://www.viva100.com/article/20260419500267",
-      "pub_date": "2026-04-19T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
