@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 04:35:26",
-  "total": 137,
-  "breaking": 103,
+  "updated": "2026-04-20 04:40:32",
+  "total": 133,
+  "breaking": 101,
   "items": [
+    {
+      "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
+      "link": "https://www.dt.co.kr/article/12058271?ref=naver",
+      "pub_date": "2026-04-20T04:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420003000071?input=1195m",
+      "pub_date": "2026-04-20T04:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "늑구는 스타가 되길 원치 않는다 [뉴스룸에서]",
       "link": "https://www.hankookilbo.com/news/article/A2026041815350005348?did=NA",
@@ -1180,60 +1198,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
-      "pub_date": "2026-04-19T18:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
-      "pub_date": "2026-04-19T18:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당 천안시장 후보, 장기수·한태선 결선 진출",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597250",
-      "pub_date": "2026-04-19T18:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산 영도 굴항서 선박 침수돼 기름 유출…해경 긴급 방제",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523971&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T18:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
-      "pub_date": "2026-04-19T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
