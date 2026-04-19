@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 07:50:29",
-  "total": 170,
+  "updated": "2026-04-20 07:55:24",
+  "total": 172,
   "breaking": 118,
   "items": [
+    {
+      "title": "[뉴스핌 이 시각 PICK] 3선 친명 박찬대 vs 3선 친박 유정복 外",
+      "link": "https://www.newspim.com/news/view/20260420000030",
+      "pub_date": "2026-04-20T07:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 우회전 안 멈추면 바로 6만원…오늘부터 집중단속",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/20/20260420500011?wlog_tag3=naver",
+      "pub_date": "2026-04-20T07:52:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[주간경제일정] 한은, 1분기 성장률 속보치 발표…고유가 충격 우려",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305272?division=NAVER",
+      "pub_date": "2026-04-20T07:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구자은 LS 회장 모친 유한선 여사 별세…\"평생 가족위해 헌신\"",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604200739318423d0a8833aad_23",
+      "pub_date": "2026-04-20T07:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'연장전 끌려간' 피츠패트릭, 셰플러 제치고 우승…시즌 2승, PGA 통산 4승",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019890",
@@ -211,20 +247,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "https://www.seoul.co.kr/news/international/2026/04/20/20260420500009?wlog_tag3=naver",
-      "pub_date": "2026-04-20T07:21:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란군 \"美, 이란 화물선 공격…휴전 합의 위반, 곧 보복\"",
       "link": "https://www.mt.co.kr/world/2026/04/20/2026042007175063972",
       "pub_date": "2026-04-20T07:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/20/20260420500009?wlog_tag3=naver",
+      "pub_date": "2026-04-20T07:21:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -445,7 +481,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 한은, 4년째 기후변화 대응 미적…10개 과제 가운데 2개만 이행",
+      "title": "[단독] 한은, 4년째 기후변화 대응 미적…과제 10개 중 2개 이행",
       "link": "https://www.hani.co.kr/arti/society/environment/1254945.html",
       "pub_date": "2026-04-20T07:02:00+09:00",
       "source_id": "hankyung",
@@ -1512,24 +1548,6 @@
       "pub_date": "2026-04-19T22:02:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미국 대표단, 이란과 협상 위해 내일 저녁 파키스탄 도...",
-      "link": "https://www.newspim.com/news/view/20260419000204",
-      "pub_date": "2026-04-19T21:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미국 대표단 내일 파키스탄 도착…합의 불발시 이란 모...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045635",
-      "pub_date": "2026-04-19T21:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
