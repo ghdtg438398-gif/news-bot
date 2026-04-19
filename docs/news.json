@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 10:10:32",
-  "total": 132,
-  "breaking": 85,
+  "updated": "2026-04-19 10:15:27",
+  "total": 135,
+  "breaking": 87,
   "items": [
+    {
+      "title": "[속보] 李대통령, ‘4·19 기념식’ 취임 후 첫 참석…金여사 동행",
+      "link": "https://www.joongang.co.kr/article/25421329",
+      "pub_date": "2026-04-19T10:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "견조한 소비 흐름 속 '중동發 둔화 조짐'…물가에 달린 향방",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410361",
+      "pub_date": "2026-04-19T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이재명 대통령, '4·19 기념식' 취임 후 첫 참석",
+      "link": "https://www.sidae.com/article/2026041910085117423",
+      "pub_date": "2026-04-19T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, 4·19혁명 기념식 취임 후 첫 참석",
       "link": "http://www.fnnews.com/news/202604191005200596",
