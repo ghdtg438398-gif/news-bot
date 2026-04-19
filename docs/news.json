@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 08:50:34",
+  "updated": "2026-04-20 08:55:28",
   "total": 200,
-  "breaking": 126,
+  "breaking": 125,
   "items": [
+    {
+      "title": "중동발 '핵폭탄'에 밈 코인 초토화…이틀 만에 투심 완전 붕괴",
+      "link": "http://coinreaders.com/231646",
+      "pub_date": "2026-04-20T08:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이재명 대통령 지지도 65.5%…취임 후 최고치",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050005300000",
+      "pub_date": "2026-04-20T08:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美 공격에 드론 발사...미군 함정 공격\"",
+      "link": "https://www.dailian.co.kr/news/view/1635335/?sc=Naver",
+      "pub_date": "2026-04-20T08:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "포항서 2층 단독주택 전소…화목보일러 취급 부주의",
+      "link": "https://www.nocutnews.co.kr/news/6504717?utm_source=naver&utm_medium=article&utm_campaign=20260420085313",
+      "pub_date": "2026-04-20T08:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란군 \"미 군함에 드론으로 보복 타격\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604200852489318",
+      "pub_date": "2026-04-20T08:52:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"미국 군함에 드론으로 보복 타격\"<이란 반관영매체>",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189124",
+      "pub_date": "2026-04-20T08:52:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 타스님 통신 “미군 함정 향해 드론 공격”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524918",
+      "pub_date": "2026-04-20T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
+      "link": "https://www.mk.co.kr/article/12021377",
+      "pub_date": "2026-04-20T08:49:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란군 “美 공격에 드론 발사해 미군 함정 공격”",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02230406645418088",
@@ -18,15 +90,6 @@
       "pub_date": "2026-04-20T08:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
-      "link": "https://www.mk.co.kr/article/12021377",
-      "pub_date": "2026-04-20T08:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -51,6 +114,15 @@
     {
       "title": "[속보]이란군 \"美군함 드론으로 보복 타격\"",
       "link": "https://view.asiae.co.kr/article/2026042008461773274",
+      "pub_date": "2026-04-20T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란군, 미 군함에 드론으로 보복 타격\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524290&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-20T08:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,11 +175,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 반관영매체 “이란군, 美군함에 드론으로 보복 타격”",
-      "link": "https://www.joongang.co.kr/article/25421560",
+      "title": "[속보] 오늘부터 집중단속···위반 시 '범칙금 6만원'",
+      "link": "https://magazine.hankyung.com/business/article/202604201750b",
       "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -121,11 +193,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오늘부터 집중단속···위반 시 '범칙금 6만원'",
-      "link": "https://magazine.hankyung.com/business/article/202604201750b",
+      "title": "[속보] 이란 반관영매체 “이란군, 美군함에 드론으로 보복 타격”",
+      "link": "https://www.joongang.co.kr/article/25421560",
       "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,21 +220,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
-      "link": "https://www.yna.co.kr/view/AKR20260420022500009?input=1195m",
-      "pub_date": "2026-04-20T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[주간 뉴스 브리핑] \"60여 년 낮은 곳 향한 목회자\" 김삼환 목사?",
       "link": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400434",
       "pub_date": "2026-04-20T08:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
+      "link": "https://www.yna.co.kr/view/AKR20260420022500009?input=1195m",
+      "pub_date": "2026-04-20T08:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -310,8 +382,8 @@
       "is_scoop": false
     },
     {
-      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
+      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,8 +400,8 @@
       "is_scoop": false
     },
     {
-      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
+      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1726,78 +1798,6 @@
       "title": "[속보]이란 “美, 해상봉쇄 안풀면 협상단 안보낸다…봉쇄는 휴전 위반...",
       "link": "https://www.munhwa.com/article/11583373?ref=naver",
       "pub_date": "2026-04-19T23:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-인도, 정상회담 계기로 완전 다른차원 발전\"",
-      "link": "https://www.etoday.co.kr/news/view/2577041",
-      "pub_date": "2026-04-19T23:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"南北동포 함께 사는 인도… 한반도 평화 미래 보여줘...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394832",
-      "pub_date": "2026-04-19T23:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란, 미국 해상 봉쇄하는 한 협상 없어\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816432_36925.html",
-      "pub_date": "2026-04-19T23:39:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"韓·印 완전 다른차원으로… 중동전쟁 속 중요파트너...",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394831",
-      "pub_date": "2026-04-19T23:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 “한-인도, 정상회담 계기 다른 차원 관계 발전 가능성...",
-      "link": "https://biz.heraldcorp.com/article/10720547?ref=naver",
-      "pub_date": "2026-04-19T23:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[조용헌 살롱] [1538] 돈, 명예, 섹스",
-      "link": "https://www.chosun.com/opinion/specialist_column/2026/04/19/OE5NTRPB5NA4LOUELHXQEA2MSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-19T23:36:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"한-인도 완전 다른차원으로…중동전쟁 속 중요파트너...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041923322672405",
-      "pub_date": "2026-04-19T23:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"남북 동포 함께 사는 인도, 한반도 평화 미래 보여줘...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041923304845082",
-      "pub_date": "2026-04-19T23:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
