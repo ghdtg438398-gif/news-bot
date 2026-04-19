@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 18:45:30",
+  "updated": "2026-04-19 18:50:28",
   "total": 200,
-  "breaking": 106,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[단독]“헹감섬 동쪽으로 항해 금지” 경고",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524883",
+      "pub_date": "2026-04-19T18:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "北, 잠수함 기지 신포서 SRBM 여러 발 발사",
+      "link": "https://www.segye.com/newsView/20260419508848?OutUrl=naver",
+      "pub_date": "2026-04-19T18:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 충남 논산 연산면 화재 \"검은 연기 발생\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560808",
+      "pub_date": "2026-04-19T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "北, 동해상에 탄도미사일 발사…올해만 7번째 도발",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657038",
@@ -31,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
+      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
       "pub_date": "2026-04-19T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
+      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
       "pub_date": "2026-04-19T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
+      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
+      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,11 +148,29 @@
       "is_scoop": false
     },
     {
+      "title": "휴전 종료 사흘 앞으로...또 굳게 닫힌 호르무즈",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604191826385199",
+      "pub_date": "2026-04-19T18:26:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[이슈] 이란, 호르무즈 해협 하루 만에 재봉쇄…미·이란 종전 협상 '안...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728887",
       "pub_date": "2026-04-19T18:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동전쟁 후 초유의 통과...전율이 이는 '한국행' 유조선 항로 보니 [지...",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604191819079155",
+      "pub_date": "2026-04-19T18:19:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -175,21 +220,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
-      "link": "https://www.imaeil.com/page/view/2026041916365999525",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
       "link": "https://www.hankyung.com/article/2026041910711",
       "pub_date": "2026-04-19T18:06:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
+      "link": "https://www.imaeil.com/page/view/2026041916365999525",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-19T11:22:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 윤동희·정철원·쿄야마·김민성 '충격' 1군 말소! 김태형 감독 ...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041911071527881",
-      "pub_date": "2026-04-19T11:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.viva100.com/article/20260419500298",
-      "pub_date": "2026-04-19T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "서초·압구정·성수 정비사업 빅매치 '치열'",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365647",
-      "pub_date": "2026-04-19T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
-      "pub_date": "2026-04-19T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
-      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
-      "pub_date": "2026-04-19T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
