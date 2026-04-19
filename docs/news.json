@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 20:35:30",
+  "updated": "2026-04-19 20:40:28",
   "total": 200,
-  "breaking": 103,
+  "breaking": 106,
   "items": [
+    {
+      "title": "[속보] 평택제천선 천등산3터널 차량 화재 발생 \"일방향 전면차단\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560846",
+      "pub_date": "2026-04-19T20:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국·이란 2차 종전 협상 “이번주 금요일 전, 파키스탄에서”",
+      "link": "https://www.munhwa.com/article/11583360?ref=naver",
+      "pub_date": "2026-04-19T20:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041920323079466",
@@ -19,6 +37,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 첫 순방지 인도 도착…20일 모디 총리와 정상회담",
+      "link": "https://www.newspim.com/news/view/20260419000193",
+      "pub_date": "2026-04-19T20:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -103,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
-      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
+      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597277",
+      "title": "[속보] 이재명 대통령, '국빈 방문' 인도 뉴델리 도착",
+      "link": "https://www.hankookilbo.com/news/article/A2026041920070001100?did=NA",
       "pub_date": "2026-04-19T20:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1771,33 +1798,6 @@
       "title": "북, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568797",
       "pub_date": "2026-04-19T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
-      "pub_date": "2026-04-19T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
-      "link": "https://www.newspim.com/news/view/20260419000054",
-      "pub_date": "2026-04-19T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
-      "link": "https://www.newspim.com/news/view/20260419000056",
-      "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
