@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 02:15:30",
-  "total": 181,
-  "breaking": 118,
+  "updated": "2026-04-20 02:20:28",
+  "total": 180,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420001400108?input=1195m",
+      "pub_date": "2026-04-20T02:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
       "link": "https://www.munhwa.com/article/11583375?ref=naver",
@@ -1612,24 +1621,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "종전 협상 앞 '호르무즈 재봉쇄'…막판 기싸움 '최고조'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298328&inflow=N",
-      "pub_date": "2026-04-19T16:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "추경호 “택시, 대구의 얼굴… 서비스 고도화·기사 안전 투트랙 지원”...",
-      "link": "https://www.segye.com/newsView/20260419508197?OutUrl=naver",
-      "pub_date": "2026-04-19T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
