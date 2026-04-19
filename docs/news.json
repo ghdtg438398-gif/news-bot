@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-19 09:55:25",
-  "total": 130,
+  "updated": "2026-04-19 10:00:36",
+  "total": 129,
   "breaking": 82,
   "items": [
     {
@@ -274,21 +274,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
-      "link": "https://economist.co.kr/article/view/ecn202604190001",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
       "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
       "pub_date": "2026-04-19T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
+      "link": "https://economist.co.kr/article/view/ecn202604190001",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1163,15 +1163,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "신한카드 오프라인 결제 '일시 장애'…1시간 만에 복구에도 '이용자 불...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838219",
-      "pub_date": "2026-04-18T23:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
