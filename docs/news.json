@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 07:40:30",
-  "total": 172,
-  "breaking": 121,
+  "updated": "2026-04-20 07:45:29",
+  "total": 171,
+  "breaking": 119,
   "items": [
+    {
+      "title": "'연장전 끌려간' 피츠패트릭, 셰플러 제치고 우승…시즌 2승, PGA 통산 4승",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019890",
+      "pub_date": "2026-04-20T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국제유가, 호르무즈 긴장 고조에 급등…WTI 약 7%↑",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597444",
+      "pub_date": "2026-04-20T07:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란 화물선에 발포, 기관실 구멍냈다”…이란군 “휴전...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050002900000",
+      "pub_date": "2026-04-20T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]김신영, '나혼산' 추가촬영…박나래 자리 채우나 '고정각'",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811091",
+      "pub_date": "2026-04-20T07:40:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "택배비까지 덮친 유가 폭등…글로벌 이커머스 생태계 ‘균열’ [글로벌...",
       "link": "https://www.hankyung.com/article/202604178887i",
@@ -13,7 +49,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]불가리아 총선에서 라데브 전대통령의 진보연합 선두--국립TV",
+      "title": "[속보]불가리아 총선에서 라데프 전대통령의 진보연합 선두--국립TV",
       "link": "https://www.newsis.com/view/NISX20260420_0003597433",
       "pub_date": "2026-04-20T07:38:00+09:00",
       "source_id": "yna",
@@ -40,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
-      "link": "https://www.etnews.com/20260420000006",
+      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.etnews.com/20260420000006",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
-      "link": "https://www.news1.kr/world/usa-canada/6141609",
+      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
+      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
+      "link": "https://www.news1.kr/world/usa-canada/6141609",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,21 +130,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.ajunews.com/view/20260420072739097",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
       "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
       "pub_date": "2026-04-20T07:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.ajunews.com/view/20260420072739097",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -211,21 +247,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029703767&code=61131411&cp=nv",
-      "pub_date": "2026-04-20T07:17:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "HD현대, 인도·베트남에 조선 거점…중국 추격 정면 대응",
       "link": "https://www.sedaily.com/article/20034384?ref=naver",
       "pub_date": "2026-04-20T07:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029703767&code=61131411&cp=nv",
+      "pub_date": "2026-04-20T07:17:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1501,51 +1537,6 @@
       "title": "[속보]트럼프 \"내일 이란과 '2차회담'…불발 시 인프라 대거 파괴\"",
       "link": "https://www.nocutnews.co.kr/news/6504665?utm_source=naver&utm_medium=article&utm_campaign=20260419094707",
       "pub_date": "2026-04-19T21:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, \"미국 대표단, 협상 위해 내일 저녁 파키스탄 수도에 도...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597320",
-      "pub_date": "2026-04-19T21:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “美대표단, 협상하러 오늘 이슬라마바다드로 가는 중”",
-      "link": "https://www.munhwa.com/article/11583364?ref=naver",
-      "pub_date": "2026-04-19T21:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://news.tf.co.kr/read/world/2314778.htm",
-      "pub_date": "2026-04-19T21:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "불탄 산 그대로인데 장마 온다…산사태 비상",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539835&ref=A",
-      "pub_date": "2026-04-19T21:43:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “美협상단 파키스탄 가는 중…합의 안되면 이란 발전소·...",
-      "link": "https://www.donga.com/news/Inter/article/all/20260419/133770031/1",
-      "pub_date": "2026-04-19T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
