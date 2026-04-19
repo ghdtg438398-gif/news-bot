@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 08:35:29",
-  "total": 191,
+  "updated": "2026-04-20 08:40:26",
+  "total": 192,
   "breaking": 120,
   "items": [
+    {
+      "title": "김시우, PGA 투어 RBC 헤리티지 단독 3위…시즌 5번째 톱10",
+      "link": "https://www.ajunews.com/view/20260420083247177",
+      "pub_date": "2026-04-20T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "美 루이지애나서 총격사건 발생…1~14세 어린이·청소년 최소 8명 사망",
       "link": "https://www.etoday.co.kr/news/view/2577082",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
+      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
+      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼전, 美 이란 화물선 발포에 프리장서 1%대 하락세 … 하이닉스...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
+      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
+      "title": "[속보] 삼전, 美 이란 화물선 발포에 프리장서 1%대 하락세 … 하이닉스...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
