@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 01:40:30",
-  "total": 197,
-  "breaking": 126,
+  "updated": "2026-04-20 01:45:28",
+  "total": 195,
+  "breaking": 124,
   "items": [
     {
       "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
@@ -1756,24 +1756,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
-      "link": "https://www.dt.co.kr/article/12058202?ref=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
