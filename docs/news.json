@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 04:05:25",
-  "total": 150,
-  "breaking": 106,
+  "updated": "2026-04-20 04:10:29",
+  "total": 146,
+  "breaking": 105,
   "items": [
     {
       "title": "[출근길 포인트] 이 대통령, 인도 모디 총리와 오늘 회담… AI·방산 전략...",
@@ -1316,42 +1316,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[특별기고] '경제대국'의 그늘, 저소득 노인 문제: (1) 현실",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260419010005772",
-      "pub_date": "2026-04-19T18:08:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美 \"순조롭다\" 뒤로는 상황실…나포 확대도 준비",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260419180728Dyv",
-      "pub_date": "2026-04-19T18:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
-      "link": "https://www.imaeil.com/page/view/2026041916365999525",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
-      "link": "https://www.hankyung.com/article/2026041910711",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
