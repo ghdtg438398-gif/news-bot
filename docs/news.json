@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-19 15:20:29",
+  "updated": "2026-04-19 15:25:28",
   "total": 200,
-  "breaking": 137,
+  "breaking": 138,
   "items": [
+    {
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249449",
+      "pub_date": "2026-04-19T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294854?influxDiv=NAVER",
+      "pub_date": "2026-04-19T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 추천 요청”",
+      "link": "https://www.dt.co.kr/article/12058196?ref=naver",
+      "pub_date": "2026-04-19T15:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, ‘특별감찰관’ 임명 절차 개시 재차 요청",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419502&PRO_CODE=99",
+      "pub_date": "2026-04-19T15:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "NCT WISH \"2년만 KSPO 돔 입성, 믿기지 않아\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294853?influxDiv=NAVER",
+      "pub_date": "2026-04-19T15:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미토스 경고…AI는 20시간 만에 무기화된다 [김현아의 IT세상읽기]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02765046645417760",
+      "pub_date": "2026-04-19T15:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "NCT 위시 \"데뷔 2년 만의 KSPO돔, 믿기지 않아⋯성장 담았다\"",
       "link": "http://www.joynews24.com/view/1961476",
@@ -31,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,15 +130,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 특별감찰관 임명절차 개시 재요청",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029701596&code=61111111&cp=nv",
-      "pub_date": "2026-04-19T15:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
       "link": "https://biz.heraldcorp.com/article/10720414?ref=naver",
       "pub_date": "2026-04-19T15:08:00+09:00",
@@ -94,20 +139,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
-      "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]송언석 “대장동 비리 몸통은 하늘이 두 쪽 나도 이재명⋯민주당...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950095600000",
-      "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] 이 대통령, 특별감찰관 임명절차 개시 재요청",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029701596&code=61111111&cp=nv",
+      "pub_date": "2026-04-19T15:08:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -130,11 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 특별감찰관 임명절차 개시 재요청…강훈식 “공직기강...",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/19/20260419500060?wlog_tag3=naver",
+      "title": "[속보]송언석 “대장동 비리 몸통은 하늘이 두 쪽 나도 이재명⋯민주당...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041950095600000",
       "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
+      "pub_date": "2026-04-19T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -144,6 +189,15 @@
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 특별감찰관 임명절차 개시 재요청…강훈식 “공직기강...",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/19/20260419500060?wlog_tag3=naver",
+      "pub_date": "2026-04-19T15:07:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -301,8 +355,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십 3R도 선두…윤이나 2타 차 2위",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523794&plink=ORI&cooper=NAVER",
+      "title": "이통3사 1분기 실적 ‘희비’… 보안사고 '후폭풍'",
+      "link": "https://www.asiatime.co.kr/article/20260419500129",
       "pub_date": "2026-04-19T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -310,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "이통3사 1분기 실적 ‘희비’… 보안사고 '후폭풍'",
-      "link": "https://www.asiatime.co.kr/article/20260419500129",
+      "title": "김세영, LPGA 투어 LA 챔피언십 3R도 선두…윤이나 2타 차 2위",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523794&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 하루만의 재봉쇄 전말…\"이란 정부·군부 '내분' 심화\"",
-      "link": "https://www.mt.co.kr/world/2026/04/19/2026041910195244280",
-      "pub_date": "2026-04-19T10:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령, 4·19혁명 기념식 취임 후 첫 참석",
-      "link": "https://economist.co.kr/article/view/ecn202604190009",
-      "pub_date": "2026-04-19T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日교토 초등생 '중국인 계부설' SNS루머, 왜 뉴스로 둔갑했나[재팬인사...",
-      "link": "http://www.fnnews.com/news/202604190757126548",
-      "pub_date": "2026-04-19T10:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 “美, 계속 압박…호르무즈 해협 재봉쇄 하겠다”",
-      "link": "https://www.munhwa.com/article/11583292?ref=naver",
-      "pub_date": "2026-04-19T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, ‘4·19 기념식’ 취임 후 첫 참석…金여사 동행",
-      "link": "https://www.joongang.co.kr/article/25421329",
-      "pub_date": "2026-04-19T10:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "견조한 소비 흐름 속 '중동發 둔화 조짐'…물가에 달린 향방",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410361",
-      "pub_date": "2026-04-19T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
