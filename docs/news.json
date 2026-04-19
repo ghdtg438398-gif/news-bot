@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 22:05:26",
+  "updated": "2026-04-19 22:10:28",
   "total": 200,
   "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 트럼프 “20일 종전 협상…거부하면 이란 발전소·다리 파괴”",
+      "link": "https://www.hani.co.kr/arti/international/international_general/1254931.html",
+      "pub_date": "2026-04-19T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란, 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "http://www.fnnews.com/news/202604192204040289",
+      "pub_date": "2026-04-19T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 사실상 최후통첩?…트럼프 \"美 대표단 파키스탄 가는 중…합의불...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041921581751514",
@@ -22,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"미국 대표단, 이란과 협상 위해 내일 저녁 파키스탄 도...",
-      "link": "https://www.newspim.com/news/view/20260419000204",
+      "title": "[속보] 트럼프 \"미국 대표단 내일 파키스탄 도착…합의 불발시 이란 모...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045635",
       "pub_date": "2026-04-19T21:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"미국 대표단 내일 파키스탄 도착…합의 불발시 이란 모...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045635",
+      "title": "[속보] 트럼프 \"미국 대표단, 이란과 협상 위해 내일 저녁 파키스탄 도...",
+      "link": "https://www.newspim.com/news/view/20260419000204",
       "pub_date": "2026-04-19T21:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,15 +121,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394816",
-      "pub_date": "2026-04-19T21:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419513&PRO_CODE=99",
       "pub_date": "2026-04-19T21:38:00+09:00",
@@ -130,6 +139,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3394816",
+      "pub_date": "2026-04-19T21:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "\"황교익 문화관광연구원장 임명은 파행 인사\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524013&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T21:34:00+09:00",
@@ -139,17 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
-      "pub_date": "2026-04-19T21:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131101mg",
+      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +175,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131181Gx",
+      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604192131101mg",
+      "pub_date": "2026-04-19T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, \"미 협상단, 내일 이슬라마바드로 갈 것\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/19/2026041900104.html",
       "pub_date": "2026-04-19T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
-      "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://www.joongang.co.kr/article/25421365",
-      "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]송언석 “대장동 비리 몸통은 하늘이 두 쪽 나도 이재명⋯민주당...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950095600000",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
