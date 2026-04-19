@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 09:45:26",
-  "total": 126,
+  "updated": "2026-04-19 09:50:27",
+  "total": 128,
   "breaking": 81,
   "items": [
+    {
+      "title": "이란 군부, 외무장관 개방 선언에 제동…호르무즈 다시 봉쇄",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038599",
+      "pub_date": "2026-04-19T09:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "3위 도약한 왕정훈, KPGA 개막전에서 '루키 우승' 기대 [DB손해보험]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019859",
+      "pub_date": "2026-04-19T09:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“해킹 능력 너무 뛰어나서 공개 못 해” 미토스 체험판에 놀란 세계 [뉴...",
+      "link": "https://www.mk.co.kr/article/12018045",
+      "pub_date": "2026-04-19T09:46:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "에이핑크, 오늘(19일) 데뷔 15주년 기념 팬송 '15th Season' 발매",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568785",
@@ -211,6 +238,15 @@
       "is_scoop": false
     },
     {
+      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
       "link": "http://www.fnnews.com/news/202604190902012108",
       "pub_date": "2026-04-19T09:04:00+09:00",
@@ -235,15 +271,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
-      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -301,11 +328,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
-      "link": "https://www.sidae.com/article/2026041908574450012",
+      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
       "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -319,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
-      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
+      "title": "[속보]청와대, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
+      "link": "https://www.sidae.com/article/2026041908574450012",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,11 +355,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
+      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
+      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
       "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1123,15 +1150,6 @@
       "title": "신한카드 오프라인 결제 '일시 장애'…1시간 만에 복구에도 '이용자 불...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838219",
       "pub_date": "2026-04-18T23:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 군부, 외무장관에 경고 날렸다…‘호르무즈 재봉쇄’ 전말",
-      "link": "https://www.munhwa.com/article/11583261?ref=naver",
-      "pub_date": "2026-04-18T23:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
