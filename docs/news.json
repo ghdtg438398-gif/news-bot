@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 13:00:37",
+  "updated": "2026-04-19 13:05:27",
   "total": 200,
   "breaking": 144,
   "items": [
@@ -76,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
+      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "청와대 \"북 탄도미사일, 유엔 안보리 결의 위반…중단 촉구\"",
-      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182191",
+      "title": "北탄도미사일 발사에 靑 \"유엔안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01669526645417760",
       "pub_date": "2026-04-19T12:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,6 +166,15 @@
       "is_scoop": false
     },
     {
+      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
+      "link": "https://www.newspim.com/news/view/20260419000043",
+      "pub_date": "2026-04-19T12:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
       "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
@@ -177,15 +186,6 @@
     {
       "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
       "link": "https://www.newspim.com/news/view/20260419000056",
-      "pub_date": "2026-04-19T12:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 19일 수원 KT-키움전, KT 고영표 부진 탈출할지",
-      "link": "https://www.newspim.com/news/view/20260419000043",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
