@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 03:10:26",
-  "total": 158,
+  "updated": "2026-04-20 03:15:29",
+  "total": 157,
   "breaking": 109,
   "items": [
     {
@@ -1414,15 +1414,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이상엽, 캐디 맡은 여자친구와 함께 개막전 역전 우승…10년만에 통산 2...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019869",
-      "pub_date": "2026-04-19T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
