@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 10:55:26",
+  "updated": "2026-04-19 11:00:39",
   "total": 200,
-  "breaking": 145,
+  "breaking": 147,
   "items": [
+    {
+      "title": "이란 혁명수비대, 호르무즈 해협 재봉쇄…트럼프 백악관 긴급회의 소집",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657034",
+      "pub_date": "2026-04-19T10:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, 시즌 첫 승 보인다…LA챔피언십 이틀 연속 선두",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065577193282714",
+      "pub_date": "2026-04-19T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李, 4·19 혁명 기념사 “국민 함성 오만·무도 권력 무너뜨려\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005153",
+      "pub_date": "2026-04-19T10:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李 “4·19 정신 있었기에 ‘내란의 밤’ 물리쳤다”",
       "link": "https://www.munhwa.com/article/11583297?ref=naver",
@@ -22,20 +49,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
       "link": "https://www.hankyung.com/article/2026041904877",
       "pub_date": "2026-04-19T10:47:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
+      "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
+      "pub_date": "2026-04-19T10:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
+      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
+      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
-      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
+      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"정치의 책임은 오직 민생…국민 주인인 나라로 나아갈...",
-      "link": "https://www.news1.kr/politics/president/6141239",
+      "title": "[속보]이 대통령 “대한민국 헌법 뿌리로 태어난 4·19 정신, 내란의 밤...",
+      "link": "https://www.khan.co.kr/article/202604191037001",
       "pub_date": "2026-04-19T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령 “대한민국 헌법 뿌리로 태어난 4·19 정신, 내란의 밤...",
-      "link": "https://www.khan.co.kr/article/202604191037001",
+      "title": "[속보] 李대통령 \"정치의 책임은 오직 민생…국민 주인인 나라로 나아갈...",
+      "link": "https://www.news1.kr/politics/president/6141239",
       "pub_date": "2026-04-19T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1771,33 +1798,6 @@
       "title": "[단독] 총리가 하던 외국인정책위원장, 법무장관이 맡는다…실효성 제고",
       "link": "https://www.news1.kr/society/court-prosecution/6140569",
       "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[금주 재판일정] '내란 가담' 이상민 2심 결심...'설탕 담합' 前 경영진...",
-      "link": "https://www.newspim.com/news/view/20260417001032",
-      "pub_date": "2026-04-19T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'韓 최고 유망주' 양민혁 외면해놓고...램파드는 싱글벙글, 25년 만 승격...",
-      "link": "https://www.fourfourtwo.co.kr/news/articleView.html?idxno=90790",
-      "pub_date": "2026-04-19T05:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"국선변호인도 안 알려줬다\"…'윤창호법 위헌' 몰랐던 60대, 검사...",
-      "link": "https://www.segye.com/newsView/20260417514516?OutUrl=naver",
-      "pub_date": "2026-04-19T05:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
