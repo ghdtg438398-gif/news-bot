@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-19 16:45:26",
+  "updated": "2026-04-19 16:50:27",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
     {
       "title": "'살기좋은 아파트' 도전하세요 … 올해 시니어하우징 분야 신설",
@@ -13,8 +13,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]“제대로 작동하는지 보려고”⋯경의중앙선 전동차 안에 비치된 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950143900000",
+      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
       "pub_date": "2026-04-19T16:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
+      "title": "[속보]“제대로 작동하는지 보려고”⋯경의중앙선 전동차 안에 비치된 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041950143900000",
       "pub_date": "2026-04-19T16:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,20 +103,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
-      "link": "https://www.imaeil.com/page/view/2026041916194155724",
-      "pub_date": "2026-04-19T16:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
       "link": "https://dgmbc.com/NewsArticle/835978",
       "pub_date": "2026-04-19T16:21:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
+      "link": "https://www.imaeil.com/page/view/2026041916194155724",
+      "pub_date": "2026-04-19T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -160,6 +160,15 @@
       "title": "호르무즈 재봉쇄 속 미·이란 종전협상 기로···국내 증시 영향 주목",
       "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=420587",
       "pub_date": "2026-04-19T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "더 유명해지고 싶은 NCT 위시, 체조 입성 \"다음 목표=일본 돔\"[일문일답...",
+      "link": "https://www.nocutnews.co.kr/news/6504609?utm_source=naver&utm_medium=article&utm_campaign=20260419044705",
+      "pub_date": "2026-04-19T16:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -1789,15 +1798,6 @@
       "title": "[속보] 李대통령 “민주주의 위해 희생, 한 분이라도 더 찾아내 포상”",
       "link": "https://biz.heraldcorp.com/article/10720317?ref=naver",
       "pub_date": "2026-04-19T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “4·19 정신 있었기에 ‘내란의 밤’ 물리칠 수 있었다...",
-      "link": "https://biz.heraldcorp.com/article/10720316?ref=naver",
-      "pub_date": "2026-04-19T10:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
