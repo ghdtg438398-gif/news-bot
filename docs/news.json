@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 18:40:29",
+  "updated": "2026-04-19 18:45:30",
   "total": 200,
-  "breaking": 107,
+  "breaking": 106,
   "items": [
+    {
+      "title": "北, 동해상에 탄도미사일 발사…올해만 7번째 도발",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657038",
+      "pub_date": "2026-04-19T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 논산 연산면 청동리 화재 발생… \"인근 주민 창문 닫고 우회 당부...",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270087",
+      "pub_date": "2026-04-19T18:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“어떤 얼간이” 망신당한 이란 외무장관",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524882",
+      "pub_date": "2026-04-19T18:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
+      "pub_date": "2026-04-19T18:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
@@ -139,21 +175,21 @@
       "is_scoop": false
     },
     {
-      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
-      "link": "https://www.hankyung.com/article/2026041910711",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
       "link": "https://www.imaeil.com/page/view/2026041916365999525",
       "pub_date": "2026-04-19T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
+      "link": "https://www.hankyung.com/article/2026041910711",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스특보] 휴전 시한 앞두고 호르무즈 재봉쇄…백악관 긴급회의",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856574?sid=104",
-      "pub_date": "2026-04-19T11:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '충격' 정철원-윤동희-쿄야마-김민성, 동시에 사라졌다→2군행....",
-      "link": "http://www.osen.co.kr/article/G1112784815",
-      "pub_date": "2026-04-19T11:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 \"北 탄도미사일, 안보리 결의 위반…즉각 중단 촉구\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269927",
-      "pub_date": "2026-04-19T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[이번주 경제]중동 쇼크 속 1분기 韓 경제지표는…신현송 청문보고서 재...",
-      "link": "https://www.news1.kr/economy/trend/6141257",
-      "pub_date": "2026-04-19T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
