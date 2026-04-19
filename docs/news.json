@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 08:00:36",
-  "total": 175,
-  "breaking": 119,
+  "updated": "2026-04-20 08:05:27",
+  "total": 176,
+  "breaking": 118,
   "items": [
+    {
+      "title": "북, 단거리 탄도미사일 발사…청와대 \"유엔 안보리 결의 위반\"",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189094",
+      "pub_date": "2026-04-20T08:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란 화물선에 발포, 기관실 구멍냈다”…이란 “보복...",
+      "link": "https://magazine.hankyung.com/business/article/202604201593b",
+      "pub_date": "2026-04-20T08:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"16언더파 268타\" 김시우, RBC 헤리티지 단독 3위 질주",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039089",
+      "pub_date": "2026-04-20T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 미군, 이란 화물선에 발포·나포…이란군 \"곧 보복할 것\"",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045640",
@@ -175,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
+      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
+      "link": "https://www.news1.kr/world/usa-canada/6141609",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
-      "link": "https://www.news1.kr/world/usa-canada/6141609",
+      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,21 +229,21 @@
       "is_scoop": false
     },
     {
-      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
       "link": "https://www.ajunews.com/view/20260420072739097",
       "pub_date": "2026-04-20T07:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1557,24 +1584,6 @@
       "pub_date": "2026-04-19T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 사실상 최후통첩?…트럼프 \"美 대표단 파키스탄 가는 중…합의불...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041921581751514",
-      "pub_date": "2026-04-19T22:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
-      "link": "https://www.seoul.co.kr/news/international/USA-amrica/2026/04/19/20260419500115?wlog_tag3=naver",
-      "pub_date": "2026-04-19T22:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
