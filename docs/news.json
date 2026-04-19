@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 14:05:24",
+  "updated": "2026-04-19 14:10:26",
   "total": 200,
-  "breaking": 135,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[뉴스특보] 다시 닫힌 호르무즈…미, 선박 나포작전 준비",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856614?sid=104",
+      "pub_date": "2026-04-19T14:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[충남시론] 국민 마음 흔드는 '가짜 뉴스' 잡아내야 한다",
       "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884146",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 다시 닫히자…낙관적이던 트럼프, 백악관 긴급회의 소...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041908593610018",
-      "pub_date": "2026-04-19T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
