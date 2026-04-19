@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 23:20:31",
+  "updated": "2026-04-19 23:25:24",
   "total": 200,
   "breaking": 128,
   "items": [
+    {
+      "title": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260419232132IiM",
+      "pub_date": "2026-04-19T23:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “이란, 美 해상봉쇄하는 한 협상없어”",
       "link": "https://www.dailian.co.kr/news/view/1635296/?sc=Naver",
@@ -1789,15 +1798,6 @@
       "title": "[속보] 이 대통령, 국회에 특별감찰관 임명 절차 개시 재차 요청",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041915122025989",
       "pub_date": "2026-04-19T15:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
-      "link": "https://www.sidae.com/article/2026041915102824072",
-      "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
