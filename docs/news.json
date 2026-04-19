@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 20:00:35",
+  "updated": "2026-04-19 20:05:25",
   "total": 200,
-  "breaking": 99,
+  "breaking": 98,
   "items": [
+    {
+      "title": "미 아이오와대 캠퍼스서 주말 새벽 총격…다수 부상, 용의자 미검거",
+      "link": "https://view.asiae.co.kr/article/2026041920033185208",
+      "pub_date": "2026-04-19T20:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "한미일 지휘관 회동 나흘 만에 SLBM 추정 도발",
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521597",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑 “北 탄도미사일 발사, 안보리 결의 위반한 도발…즉각 중단해...",
-      "link": "https://www.donga.com/news/Politics/article/all/20260419/133766198/1",
-      "pub_date": "2026-04-19T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
