@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-19 15:10:38",
+  "updated": "2026-04-19 15:15:35",
   "total": 200,
-  "breaking": 135,
+  "breaking": 137,
   "items": [
+    {
+      "title": "NCT 위시 \"데뷔 2년 만의 KSPO돔, 믿기지 않아⋯성장 담았다\"",
+      "link": "http://www.joynews24.com/view/1961476",
+      "pub_date": "2026-04-19T15:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"이 대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041915122025989",
+      "pub_date": "2026-04-19T15:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
+      "link": "https://www.sidae.com/article/2026041915102824072",
+      "pub_date": "2026-04-19T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
+      "pub_date": "2026-04-19T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
+      "pub_date": "2026-04-19T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 국회에 \"특별감찰관 임명 절차 개시 요청\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270056",
+      "pub_date": "2026-04-19T15:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“도둑 들었다” 허위 신고만 1년 간 74차례 ‘양치기 중년’",
+      "link": "https://www.munhwa.com/article/11583328?ref=naver",
+      "pub_date": "2026-04-19T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 국회에 특별감찰관 임명 절차 개시 재요청",
+      "link": "http://www.fnnews.com/news/202604191508132777",
+      "pub_date": "2026-04-19T15:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이 대통령, 특별감찰관 임명절차 개시 재요청",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029701596&code=61111111&cp=nv",
@@ -22,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
-      "link": "https://www.newspim.com/news/view/20260419000122",
+      "title": "[속보]송언석 “대장동 비리 몸통은 하늘이 두 쪽 나도 이재명⋯민주당...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041950095600000",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]송언석 “대장동 비리 몸통은 하늘이 두 쪽 나도 이재명⋯민주당...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950095600000",
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
+      "link": "https://www.newspim.com/news/view/20260419000122",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +301,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십 3R도 선두…윤이나 2타 차 2위",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523794&plink=ORI&cooper=NAVER",
+      "title": "이통3사 1분기 실적 ‘희비’… 보안사고 '후폭풍'",
+      "link": "https://www.asiatime.co.kr/article/20260419500129",
       "pub_date": "2026-04-19T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "이통3사 1분기 실적 ‘희비’… 보안사고 '후폭풍'",
-      "link": "https://www.asiatime.co.kr/article/20260419500129",
+      "title": "김세영, LPGA 투어 LA 챔피언십 3R도 선두…윤이나 2타 차 2위",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523794&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1726,78 +1798,6 @@
       "title": "견조한 소비 흐름 속 '중동發 둔화 조짐'…물가에 달린 향방",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410361",
       "pub_date": "2026-04-19T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이재명 대통령, '4·19 기념식' 취임 후 첫 참석",
-      "link": "https://www.sidae.com/article/2026041910085117423",
-      "pub_date": "2026-04-19T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 4·19혁명 기념식 취임 후 첫 참석",
-      "link": "http://www.fnnews.com/news/202604191005200596",
-      "pub_date": "2026-04-19T10:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 4·19혁명 기념식 취임 후 첫 참석",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596892",
-      "pub_date": "2026-04-19T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, '4·19 기념식' 취임 후 첫 참석",
-      "link": "https://www.news1.kr/politics/president/6141176",
-      "pub_date": "2026-04-19T10:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "안병훈·김민규, LIV 골프 멕시코 대회 3R 공동 17위…람 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523596&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T09:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘갈비뼈 골절의심’ FC서울 최준, 다행히 타박상 진단…“다만...",
-      "link": "https://www.sportsseoul.com/news/read/1603783?ref=naver",
-      "pub_date": "2026-04-19T09:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 군부, 외무장관 개방 선언에 제동…호르무즈 다시 봉쇄",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038599",
-      "pub_date": "2026-04-19T09:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "3위 도약한 왕정훈, KPGA 개막전에서 '루키 우승' 기대 [DB손해보험]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019859",
-      "pub_date": "2026-04-19T09:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
