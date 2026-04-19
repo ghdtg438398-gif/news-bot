@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 16:55:27",
+  "updated": "2026-04-19 17:00:37",
   "total": 200,
-  "breaking": 118,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] 이준석 “콩·팥 대신 오렌지 심자...다른 당과 연대, 가당치 않...",
+      "link": "https://www.kyeonggi.com/article/20260419580257",
+      "pub_date": "2026-04-19T16:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 하필 경찰에…손님 음식 ‘꿀꺽’, 훔친 음식 갖다준 배달기사,...",
+      "link": "https://www.dt.co.kr/article/12058223?ref=naver",
+      "pub_date": "2026-04-19T16:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 파키스탄 세레나호텔 \"美·이란 회담 징발…19~23일 예약불가\"",
+      "link": "https://www.news1.kr/world/usa-canada/6141434",
+      "pub_date": "2026-04-19T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "전력망 탓 태양광 막혀 히트펌프 신청도 못해",
       "link": "http://www.samdailbo.com/news/articleView.html?idxno=263001",
@@ -58,15 +85,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"54홀 노보기\" 김민선, 넥센·세인트나인 와이어 투 와이어 제패",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038789",
-      "pub_date": "2026-04-19T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)진주서 언론사 임원 흉기 공격에 큰 부상",
       "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685800",
       "pub_date": "2026-04-19T16:38:00+09:00",
@@ -74,6 +92,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "\"54홀 노보기\" 김민선, 넥센·세인트나인 와이어 투 와이어 제패",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038789",
+      "pub_date": "2026-04-19T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 국민의힘 대구 군위군수 후보에 김진열 확정",
@@ -1774,33 +1801,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
-      "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
-      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
-      "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “민주주의 위해 희생, 한 분이라도 더 찾아내 포상”",
-      "link": "https://www.viva100.com/article/20260419500270",
-      "pub_date": "2026-04-19T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
