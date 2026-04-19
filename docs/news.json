@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 23:55:26",
+  "updated": "2026-04-20 00:00:37",
   "total": 200,
-  "breaking": 131,
+  "breaking": 132,
   "items": [
+    {
+      "title": "[속보] 이재명 대통령 \"중동 전쟁 여파, 한국-인도 중요한 파트너\"",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333872",
+      "pub_date": "2026-04-19T23:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란 “美, 해상봉쇄 안풀면 협상단 안보낸다…봉쇄는 휴전 위반...",
       "link": "https://www.munhwa.com/article/11583373?ref=naver",
@@ -1788,15 +1797,6 @@
     {
       "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
       "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
-      "pub_date": "2026-04-19T15:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
