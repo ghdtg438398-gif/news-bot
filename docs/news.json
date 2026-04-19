@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 00:15:31",
+  "updated": "2026-04-20 00:20:27",
   "total": 200,
   "breaking": 129,
   "items": [
+    {
+      "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
+      "link": "https://www.munhwa.com/article/11583375?ref=naver",
+      "pub_date": "2026-04-20T00:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "원주 사설구급차·승용차 사고 …“긴급차 특례 관리·교차로 안전 강화...",
       "link": "https://www.kwnews.co.kr/page/view/2026041750028800000",
@@ -13,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "[선택 2026 강원] 강원 지방의원 8석 늘었다",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045618",
+      "title": "국민 100명 중 4명이 구독…지역신문 전국화 이정표 우뚝",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045629",
       "pub_date": "2026-04-20T00:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "국민 100명 중 4명이 구독…지역신문 전국화 이정표 우뚝",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045629",
+      "title": "[선택 2026 강원] 강원 지방의원 8석 늘었다",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045618",
       "pub_date": "2026-04-20T00:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 내포신도시 홍예공원 재단장",
       "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
-      "pub_date": "2026-04-19T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
-      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
