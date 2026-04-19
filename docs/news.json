@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 00:05:28",
+  "updated": "2026-04-20 00:10:29",
   "total": 200,
-  "breaking": 130,
+  "breaking": 129,
   "items": [
+    {
+      "title": "[선택 2026 강원] 강원 지방의원 8석 늘었다",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045618",
+      "pub_date": "2026-04-20T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "강릉경찰 '예비후보 사퇴 협박 의혹' 수사 착수",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045610",
+      "pub_date": "2026-04-20T00:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "울산 남구 종량제봉투 품귀, 소각장 반입량은 줄어",
       "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054473",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령, 국회에 특별감찰관 임명 절차 개시 재요청",
-      "link": "https://www.munhwa.com/article/11583331?ref=naver",
-      "pub_date": "2026-04-19T15:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "동료 제지에도 \"야옹·멍멍\"...얼 빠진 조종사들의 최후 [지금이뉴스]",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604191531281861",
-      "pub_date": "2026-04-19T15:31:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
