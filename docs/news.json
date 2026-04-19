@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 14:30:30",
+  "updated": "2026-04-19 14:35:25",
   "total": 200,
-  "breaking": 132,
+  "breaking": 130,
   "items": [
+    {
+      "title": "김세영, LPGA 투어 LA 챔피언십 3R도 선두…윤이나 2타 차 2위",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523794&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이통3사 1분기 실적 ‘희비’… 보안사고 '후폭풍'",
+      "link": "https://www.asiatime.co.kr/article/20260419500129",
+      "pub_date": "2026-04-19T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "韓까지 파고든 '미토스 쇼크'…LGU+ 유심 교체[뉴스잇(IT)쥬]",
+      "link": "https://www.news1.kr/it-science/general-it/6141343",
+      "pub_date": "2026-04-19T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "지휘·통제 분야로 3국 협력 확대… 역할 분담도 명확",
       "link": "https://kookbang.dema.mil.kr/newsWeb/20260420/1/ATCE_CTGR_0020010011/view.do",
@@ -1774,33 +1801,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
-      "link": "http://www.fnnews.com/news/202604190902012108",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.viva100.com/article/20260419500106",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
-      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
