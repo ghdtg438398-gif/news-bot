@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:55:27",
-  "total": 165,
-  "breaking": 114,
+  "updated": "2026-04-20 02:56:17",
+  "total": 164,
+  "breaking": 113,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -1474,15 +1474,6 @@
       "title": "[속보] 이준석 “콩·팥 대신 오렌지 심자...다른 당과 연대, 가당치 않...",
       "link": "https://www.kyeonggi.com/article/20260419580257",
       "pub_date": "2026-04-19T16:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 손님 음식 ‘꿀꺽’, 대신 훔친 음식 갖다준 배달기사, 잡혔다",
-      "link": "https://www.dt.co.kr/article/12058223?ref=naver",
-      "pub_date": "2026-04-19T16:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
