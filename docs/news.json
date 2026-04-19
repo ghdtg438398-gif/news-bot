@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 15:18:17",
+  "updated": "2026-04-19 15:20:29",
   "total": 200,
   "breaking": 137,
   "items": [
@@ -31,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
+      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
+      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,15 +94,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
-      "link": "https://www.newspim.com/news/view/20260419000122",
-      "pub_date": "2026-04-19T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
       "pub_date": "2026-04-19T15:07:00+09:00",
@@ -121,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령, 국회에 ‘특별감찰관’ 임명 절차 개시 재요청",
-      "link": "https://www.khan.co.kr/article/202604191507001",
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
+      "link": "https://www.newspim.com/news/view/20260419000122",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://www.joongang.co.kr/article/25421365",
+      "title": "[속보]이 대통령, 국회에 ‘특별감찰관’ 임명 절차 개시 재요청",
+      "link": "https://www.khan.co.kr/article/202604191507001",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -144,6 +135,15 @@
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
+      "link": "https://www.joongang.co.kr/article/25421365",
+      "pub_date": "2026-04-19T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
