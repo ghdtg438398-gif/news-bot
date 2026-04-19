@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 23:45:32",
+  "updated": "2026-04-19 23:50:28",
   "total": 200,
   "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"한-인도, 정상회담 계기로 완전 다른차원 발전\"",
+      "link": "https://www.etoday.co.kr/news/view/2577041",
+      "pub_date": "2026-04-19T23:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 \"南北동포 함께 사는 인도… 한반도 평화 미래 보여줘...",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394832",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 상호만 들어도 다 아는 강원 유명 식당, 원산지표시법 위반 잇따...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045458",
-      "pub_date": "2026-04-19T15:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
