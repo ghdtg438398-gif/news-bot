@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 18:50:28",
+  "updated": "2026-04-19 18:55:27",
   "total": 200,
-  "breaking": 103,
+  "breaking": 102,
   "items": [
+    {
+      "title": "\"6홀 연속 버디 폭발\"…이상엽, DB프로미오픈 23언더 역전 우승",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038845",
+      "pub_date": "2026-04-19T18:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]“헹감섬 동쪽으로 항해 금지” 경고",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524883",
@@ -40,15 +49,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 논산 연산면 청동리 화재 발생… \"인근 주민 창문 닫고 우회 당부...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270087",
-      "pub_date": "2026-04-19T18:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“어떤 얼간이” 망신당한 이란 외무장관",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524882",
       "pub_date": "2026-04-19T18:41:00+09:00",
@@ -58,9 +58,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
-      "pub_date": "2026-04-19T18:38:00+09:00",
+      "title": "[속보] 논산 연산면 청동리 화재 발생… \"인근 주민 창문 닫고 우회 당부...",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270087",
+      "pub_date": "2026-04-19T18:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -69,6 +69,15 @@
     {
       "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
       "link": "https://www.newsis.com/view/NISX20260419_0003597253",
+      "pub_date": "2026-04-19T18:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
       "pub_date": "2026-04-19T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
+      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
+      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,21 +229,21 @@
       "is_scoop": false
     },
     {
-      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
-      "link": "https://www.hankyung.com/article/2026041910711",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
       "link": "https://www.imaeil.com/page/view/2026041916365999525",
       "pub_date": "2026-04-19T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
+      "link": "https://www.hankyung.com/article/2026041910711",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-19T11:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.mk.co.kr/article/12020925",
-      "pub_date": "2026-04-19T11:22:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
