@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 16:00:36",
+  "updated": "2026-04-19 16:05:28",
   "total": 200,
-  "breaking": 134,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보] 남양주시 진접읍 공장 화재 발생 \"주민 안전 유의\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560682",
+      "pub_date": "2026-04-19T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "손종원 大위기, 윤남노·박은영·권성준 합동 공격...최초 1:3 태그 매치...",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613096",
+      "pub_date": "2026-04-19T16:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 전국 경찰서 4곳 중 1곳 노후됐는데...재건축 계획은 미지수",
+      "link": "http://www.fnnews.com/news/202604161106027213",
+      "pub_date": "2026-04-19T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "전북 주유소 휘발유 2000원 돌파 임박…호르무즈 재봉쇄에 안개속",
+      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=438208",
+      "pub_date": "2026-04-19T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '최하위' 키움 초대형 악재 터졌다! '2선발 외인' 와일스→어깨...",
       "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041914125068764",
@@ -139,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
-      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
+      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
+      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
+      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 이란 \"2차 종전협상 날짜 미정...상호 이해 틀 합의가 우선\"",
       "link": "https://www.g-enews.com/view.php?ud=202604191026168513e250e8e188_1",
       "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 내란의 밤을 물리칠 수 있었다\"",
-      "link": "http://www.fnnews.com/news/202604191030181102",
-      "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041910315462932",
-      "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리…약 140km 비행”",
-      "link": "https://www.mk.co.kr/article/12020908",
-      "pub_date": "2026-04-19T10:32:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 \"민주주의 가장 유용하고 합리적인 체제…끊임없이 입증해야\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596906",
-      "pub_date": "2026-04-19T10:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
