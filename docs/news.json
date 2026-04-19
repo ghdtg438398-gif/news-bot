@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 04:30:35",
-  "total": 139,
-  "breaking": 104,
+  "updated": "2026-04-20 04:35:26",
+  "total": 137,
+  "breaking": 103,
   "items": [
+    {
+      "title": "늑구는 스타가 되길 원치 않는다 [뉴스룸에서]",
+      "link": "https://www.hankookilbo.com/news/article/A2026041815350005348?did=NA",
+      "pub_date": "2026-04-20T04:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[출근길 포인트] 이 대통령, 인도 모디 총리와 오늘 회담… AI·방산 전략...",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301820",
@@ -1222,33 +1231,6 @@
       "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
       "pub_date": "2026-04-19T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프, 긴급회의 소집…파키스탄 적색경보",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524879",
-      "pub_date": "2026-04-19T18:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "넥센·세인트나인 최종일 아쉬움 남긴 방신실·박현경 [KLPGA]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019873",
-      "pub_date": "2026-04-19T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돌아온 늑구… “소고기 특식 먹고 회복 중”",
-      "link": "https://www.segye.com/newsView/20260419508879?OutUrl=naver",
-      "pub_date": "2026-04-19T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
