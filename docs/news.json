@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 03:40:27",
-  "total": 151,
+  "updated": "2026-04-20 03:45:29",
+  "total": 150,
   "breaking": 107,
   "items": [
     {
@@ -1352,15 +1352,6 @@
       "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] \"택배 상하차 알바로 겨우 버텨\"… 2030일용직, 7년만에 증가",
-      "link": "https://www.mk.co.kr/article/12021220",
-      "pub_date": "2026-04-19T17:42:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
