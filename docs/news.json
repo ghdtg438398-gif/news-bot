@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 10:15:27",
-  "total": 135,
-  "breaking": 87,
+  "updated": "2026-04-19 10:20:28",
+  "total": 138,
+  "breaking": 89,
   "items": [
+    {
+      "title": "[속보]李 대통령, 4·19혁명 기념식 취임 후 첫 참석",
+      "link": "https://economist.co.kr/article/view/ecn202604190009",
+      "pub_date": "2026-04-19T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日교토 초등생 '중국인 계부설' SNS루머, 왜 뉴스로 둔갑했나[재팬인사...",
+      "link": "http://www.fnnews.com/news/202604190757126548",
+      "pub_date": "2026-04-19T10:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “美, 계속 압박…호르무즈 해협 재봉쇄 하겠다”",
+      "link": "https://www.munhwa.com/article/11583292?ref=naver",
+      "pub_date": "2026-04-19T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, ‘4·19 기념식’ 취임 후 첫 참석…金여사 동행",
       "link": "https://www.joongang.co.kr/article/25421329",
