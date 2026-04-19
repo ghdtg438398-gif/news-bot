@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 13:20:26",
+  "updated": "2026-04-19 13:25:23",
   "total": 200,
   "breaking": 143,
   "items": [
+    {
+      "title": "북한, 단거리 탄도미사일 발사…\"SLBM 시험 가능성\"",
+      "link": "https://www.asiatime.co.kr/article/20260419500081",
+      "pub_date": "2026-04-19T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "휴림로봇·두산로보틱스·레인보우로보틱스·현대무벡스·원익홀딩스, ...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568802",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
+      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
       "pub_date": "2026-04-19T13:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
+      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
       "pub_date": "2026-04-19T13:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "익산 단독주택서 불…50대 거주자 숨져",
-      "link": "https://www.nocutnews.co.kr/news/6504508?utm_source=naver&utm_medium=article&utm_campaign=20260419085101",
-      "pub_date": "2026-04-19T08:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
