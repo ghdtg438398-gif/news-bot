@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 12:05:28",
+  "updated": "2026-04-19 12:10:30",
   "total": 200,
-  "breaking": 144,
+  "breaking": 143,
   "items": [
+    {
+      "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
+      "link": "https://www.newspim.com/news/view/20260419000056",
+      "pub_date": "2026-04-19T12:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 김은혜 “장특공이 투기? 李대통령이 제도를 모르거나 모른 척하...",
       "link": "https://www.kyeonggi.com/article/20260419580033",
@@ -220,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
-      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
+      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
+      "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,7 +256,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정철원-윤동희-쿄야마-김민성이 사라졌다...롯데 초대형 엔트리...",
+      "title": "[속보] '충격' 정철원-윤동희-쿄야마-김민성, 동시에 사라졌다→2군행....",
       "link": "http://www.osen.co.kr/article/G1112784815",
       "pub_date": "2026-04-19T11:17:00+09:00",
       "source_id": "yna",
@@ -292,8 +301,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
+      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -301,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
+      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 좌파 정상들, 트럼프 맞서 결집했다…“전쟁 반대” 구호",
-      "link": "https://www.dt.co.kr/article/12058098?ref=naver",
-      "pub_date": "2026-04-19T07:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
