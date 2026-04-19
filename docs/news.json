@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 04:10:29",
-  "total": 146,
+  "updated": "2026-04-20 04:15:28",
+  "total": 145,
   "breaking": 105,
   "items": [
     {
@@ -1307,15 +1307,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘치매 머니’ 뜯기지 않게… 檢, 고소권자 지정 피해 구제 나섰...",
-      "link": "https://www.segye.com/newsView/20260419508833?OutUrl=naver",
-      "pub_date": "2026-04-19T18:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
