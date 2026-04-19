@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 05:25:24",
-  "total": 143,
-  "breaking": 113,
+  "updated": "2026-04-20 05:30:31",
+  "total": 144,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"美봉쇄 뚫으려던 이란 선박 나포…기관실에 구멍 내\"",
+      "link": "https://www.dailian.co.kr/news/view/1635304/?sc=Naver",
+      "pub_date": "2026-04-20T05:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "요금 내라는 택시 기사에 주먹질…벽돌로 차까지 망가뜨린 50대",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524113&plink=ORI&cooper=NAVER",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 나포\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200013&t=NN",
+      "title": "[속보] 트럼프 \"美해상봉쇄 뚫으려던 이란 선적 배 차단\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260420051607cU8",
       "pub_date": "2026-04-20T05:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美해상봉쇄 뚫으려던 이란 선적 배 차단\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420051607cU8",
+      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 나포\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200013&t=NN",
       "pub_date": "2026-04-20T05:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
