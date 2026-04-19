@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 03:25:26",
-  "total": 156,
+  "updated": "2026-04-20 03:30:33",
+  "total": 155,
   "breaking": 108,
   "items": [
     {
@@ -1396,15 +1396,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'최종일 버디 10개' 옥태훈, 개막전 준우승 뒷심 [KPGA DB손해보험]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019870",
-      "pub_date": "2026-04-19T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
