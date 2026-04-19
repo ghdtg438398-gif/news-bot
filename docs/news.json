@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-20 06:00:37",
-  "total": 146,
+  "updated": "2026-04-20 06:05:26",
+  "total": 155,
   "breaking": 115,
   "items": [
+    {
+      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
+      "pub_date": "2026-04-20T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
+      "pub_date": "2026-04-20T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 어쿠스틱콜라보 김승재·故모수진, ‘정산금 미지급’ 전 소속사...",
+      "link": "https://www.kukinews.com/article/view/kuk202604190048",
+      "pub_date": "2026-04-20T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "“너무 위험해서 출시 보류”… 겹겹의 보안 뚫는 AI 등장에 비상",
+      "link": "https://www.segye.com/newsView/20260419508716?OutUrl=naver",
+      "pub_date": "2026-04-20T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘일상 속 해결사 된 AI’... 서울 자치구, 시민 삶 바꾼다",
+      "link": "https://www.chosun.com/special/special_section/2026/04/20/CX2NY2MWVNCIHMPQSJHCMRQMWQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T06:01:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
+      "link": "https://www.news1.kr/economy/employment-labor/6141209",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
+      "link": "https://www.newspim.com/news/view/20260417000567",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[PSK칼럼] 제약산업 산책 - ﻿한미 FTA",
+      "link": "https://www.medipana.com/news/articleView.html?idxno=409624",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공사비 폭등에 '링거' 꽂는 정부…건설업계 \"빚내서 버티기\"",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=131141",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "트럼프 \"이란 선박 나포...합의 안하면 파괴\" 최후 통첩",
       "link": "https://www.ytn.co.kr/_ln/0104_202604200551020292",
@@ -85,20 +175,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보][현장영상+] 장동혁, '8박 10일' 방미 종료...귀국 현장",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604200509519112",
-      "pub_date": "2026-04-20T05:09:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 저지하고 장악\"",
       "link": "http://www.fnnews.com/news/202604200507223575",
       "pub_date": "2026-04-20T05:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보][현장영상+] 장동혁, '8박 10일' 방미 종료...귀국 현장",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604200509519112",
+      "pub_date": "2026-04-20T05:09:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1303,15 +1393,6 @@
       "title": "북, 단거리 탄도미사일 발사…청와대 \"유엔 안보리 결의 위반\"",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189064",
       "pub_date": "2026-04-19T20:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미 아이오와대 캠퍼스서 주말 새벽 총격…다수 부상, 용의자 미검거",
-      "link": "https://view.asiae.co.kr/article/2026041920033185208",
-      "pub_date": "2026-04-19T20:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
