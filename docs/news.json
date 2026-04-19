@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-19 11:10:33",
+  "updated": "2026-04-19 11:15:32",
   "total": 200,
-  "breaking": 148,
+  "breaking": 146,
   "items": [
+    {
+      "title": "[속보] 靑 \"북한 탄도미사일, 유엔 안보리 결의 위반\"",
+      "link": "https://www.hankyung.com/article/2026041905247",
+      "pub_date": "2026-04-19T11:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
+      "pub_date": "2026-04-19T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
+      "pub_date": "2026-04-19T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.joongang.co.kr/article/25421337",
+      "pub_date": "2026-04-19T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[김찬완의 India Insight] 8년 만의 인도 방문… '조선·방산·CEPA'로 전략...",
+      "link": "https://www.ajunews.com/view/20260409073425196",
+      "pub_date": "2026-04-19T11:10:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 靑 “北 탄도미사일, 안보리 결의 위반… 중단 촉구”",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700850&code=61111211&cp=nv",
@@ -13,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 윤동희-정철원-쿄야마-김민성 충격 말소…'2연패' 김태형 감독 인...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811402",
+      "title": "[속보] 강득구 “피해자 김용에 무죄 입증 요구는 정치 책임 떠넘기는 ...",
+      "link": "https://www.kyeonggi.com/article/20260419580009",
       "pub_date": "2026-04-19T11:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강득구 “피해자 김용에 무죄 입증 요구는 정치 책임 떠넘기는 ...",
-      "link": "https://www.kyeonggi.com/article/20260419580009",
+      "title": "[속보] 윤동희-정철원-쿄야마-김민성 충격 말소…'2연패' 김태형 감독 인...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811402",
       "pub_date": "2026-04-19T11:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -127,6 +172,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"이란과는 다르다\"...'악마의 무기' 사용한 북한의 도발",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604191055286966",
+      "pub_date": "2026-04-19T10:55:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1746,60 +1800,6 @@
       "pub_date": "2026-04-19T06:28:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도 미사일 발사\"",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604190627266097",
-      "pub_date": "2026-04-19T06:27:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “北, 동쪽 방향으로 탄도미사일 발사”... 올해 7번째",
-      "link": "https://www.chosun.com/politics/north_korea/2026/04/19/REW2GH46QFBU7FL23YDQNQYLDE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-19T06:25:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394704",
-      "pub_date": "2026-04-19T06:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://www.dt.co.kr/article/12058094?ref=naver",
-      "pub_date": "2026-04-19T06:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://www.seoul.co.kr/news/politics/north/2026/04/19/20260419500002?wlog_tag3=naver",
-      "pub_date": "2026-04-19T06:24:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"北, 동쪽방향으로 미상 탄도미사일 발사\"",
-      "link": "http://www.fnnews.com/news/202604190618177239",
-      "pub_date": "2026-04-19T06:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
