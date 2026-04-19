@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 08:05:27",
+  "updated": "2026-04-20 08:10:28",
   "total": 176,
-  "breaking": 118,
+  "breaking": 117,
   "items": [
+    {
+      "title": "펜타곤 진호, 서울 팬 콘서트 'Dear. You' 성료",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568846",
+      "pub_date": "2026-04-20T08:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
+      "pub_date": "2026-04-20T08:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼전, 美 이란 화물선 발포에 1%대 하락세 … 하이닉스는 0.35% 소...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
+      "pub_date": "2026-04-20T08:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "북, 단거리 탄도미사일 발사…청와대 \"유엔 안보리 결의 위반\"",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189094",
@@ -130,7 +157,7 @@
       "is_scoop": true
     },
     {
-      "title": "택배비까지 덮친 유가 폭등…글로벌 이커머스 생태계 ‘균열’ [글로벌...",
+      "title": "250년 버틴 미국인데…\"무료배송 사라질 것\" 택배비 덮쳤다 [글로벌 머니...",
       "link": "https://www.hankyung.com/article/202604178887i",
       "pub_date": "2026-04-20T07:39:00+09:00",
       "source_id": "hankyung",
@@ -166,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.etnews.com/20260420000006",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
-      "link": "https://www.etnews.com/20260420000006",
+      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
       "pub_date": "2026-04-20T07:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1555,33 +1582,6 @@
       "title": "[속보] 이란 외무 \"美, 자국 항구·해안 봉쇄 휴전 위반\" 비난",
       "link": "https://www.newsis.com/view/NISX20260419_0003597333",
       "pub_date": "2026-04-19T22:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "사천서 지인 여성 흉기 살해 혐의 60대 남성 긴급체포",
-      "link": "https://www.nocutnews.co.kr/news/6504668?utm_source=naver&utm_medium=article&utm_campaign=20260419100907",
-      "pub_date": "2026-04-19T22:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란, 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "http://www.fnnews.com/news/202604192204040289",
-      "pub_date": "2026-04-19T22:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “20일 종전 협상단 파키스탄 도착…이란 거부하면 발전...",
-      "link": "https://www.hani.co.kr/arti/international/international_general/1254931.html",
-      "pub_date": "2026-04-19T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
