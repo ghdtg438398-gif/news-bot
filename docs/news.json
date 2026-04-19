@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 23:07:10",
+  "updated": "2026-04-19 23:10:29",
   "total": 200,
   "breaking": 129,
   "items": [
+    {
+      "title": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"<이란 매체>",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041923074770757",
+      "pub_date": "2026-04-19T23:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 美 해상봉쇄하는 한 협상없어\"<이란 매체>",
+      "link": "https://www.yna.co.kr/view/AKR20260419059600009?input=1195m",
+      "pub_date": "2026-04-19T23:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "뇌종양 수술 미루며 헌신한 박일준 대한상의 전 부회장의 ‘안타까운 퇴...",
       "link": "https://biz.heraldcorp.com/article/10720540?ref=naver",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 李대통령, 국회에 특별감찰관 임명 절차 개시 재요청",
       "link": "http://www.fnnews.com/news/202604191508132777",
       "pub_date": "2026-04-19T15:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 특별감찰관 임명절차 개시 재요청",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029701596&code=61111111&cp=nv",
-      "pub_date": "2026-04-19T15:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://biz.heraldcorp.com/article/10720414?ref=naver",
-      "pub_date": "2026-04-19T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
