@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 10:50:29",
+  "updated": "2026-04-19 10:55:26",
   "total": 200,
-  "breaking": 144,
+  "breaking": 145,
   "items": [
+    {
+      "title": "[속보]李 “4·19 정신 있었기에 ‘내란의 밤’ 물리쳤다”",
+      "link": "https://www.munhwa.com/article/11583297?ref=naver",
+      "pub_date": "2026-04-19T10:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "北 탄도미사일 수 발 또 발사…靑 안보점검회의 개최(종합)",
       "link": "https://www.nocutnews.co.kr/news/6504547?utm_source=naver&utm_medium=article&utm_campaign=20260419104702",
@@ -10,15 +19,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
-      "link": "https://www.hankyung.com/article/2026041904877",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -31,11 +31,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
+      "link": "https://www.hankyung.com/article/2026041904877",
+      "pub_date": "2026-04-19T10:47:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 李대통령 \"4·19 정신, '내란의 밤' 물리칠 수 있었다\"",
       "link": "https://www.hankyung.com/article/2026041904867",
       "pub_date": "2026-04-19T10:46:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 “4·19 정신으로 내란의 밤 물리쳐...경제 강국 도약”",
+      "link": "https://www.kyeonggi.com/article/20260419580013",
+      "pub_date": "2026-04-19T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -58,20 +76,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269903",
-      "pub_date": "2026-04-19T10:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어\"",
       "link": "https://www.hankyung.com/article/2026041904837",
       "pub_date": "2026-04-19T10:43:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269903",
+      "pub_date": "2026-04-19T10:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -103,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
-      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
+      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이재명 \"4·19 정신으로 2024년 내란의 밤 물리쳐\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604190014",
+      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리, 140㎞ 비행”",
+      "link": "https://biz.heraldcorp.com/article/10720319?ref=naver",
       "pub_date": "2026-04-19T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,7 +157,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "title": "[속보] 이 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523629&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T10:39:00+09:00",
       "source_id": "yna",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이 대통령 “대한민국 헌법 뿌리로 태어난 4·19 정신, 내란의 밤...",
-      "link": "https://www.khan.co.kr/article/202604191037001",
+      "title": "[속보] 李대통령 \"정치의 책임은 오직 민생…국민 주인인 나라로 나아갈...",
+      "link": "https://www.news1.kr/politics/president/6141239",
       "pub_date": "2026-04-19T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"정치의 책임은 오직 민생…국민 주인인 나라로 나아갈...",
-      "link": "https://www.news1.kr/politics/president/6141239",
+      "title": "[속보]이 대통령 “대한민국 헌법 뿌리로 태어난 4·19 정신, 내란의 밤...",
+      "link": "https://www.khan.co.kr/article/202604191037001",
       "pub_date": "2026-04-19T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 이란 혁명수비대 \"호르무즈 해협, 토요일 오후부터 폐쇄\"",
-      "link": "https://www.newspim.com/news/view/20260419000001",
-      "pub_date": "2026-04-19T03:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전남도, 겨울철 취약계층 3만7천 가구 집중 지원…\"안전·난방·생계까지...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745275",
-      "pub_date": "2026-04-19T03:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
