@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 05:05:26",
-  "total": 138,
+  "updated": "2026-04-20 05:10:30",
+  "total": 137,
   "breaking": 108,
   "items": [
     {
@@ -1233,15 +1233,6 @@
       "pub_date": "2026-04-19T19:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'개방 선언' 하루 만에 해협 폐쇄…이란 강경파, 민간 선박 공격",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/19/2026041990136.html",
-      "pub_date": "2026-04-19T19:10:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": false,
       "is_scoop": false
     }
