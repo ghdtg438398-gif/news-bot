@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 07:45:29",
-  "total": 171,
-  "breaking": 119,
+  "updated": "2026-04-20 07:50:29",
+  "total": 170,
+  "breaking": 118,
   "items": [
     {
       "title": "'연장전 끌려간' 피츠패트릭, 셰플러 제치고 우승…시즌 2승, PGA 통산 4승",
@@ -76,6 +76,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.etnews.com/20260420000006",
+      "pub_date": "2026-04-20T07:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
       "pub_date": "2026-04-20T07:35:00+09:00",
@@ -85,12 +94,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
-      "link": "https://www.etnews.com/20260420000006",
-      "pub_date": "2026-04-20T07:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
+      "title": "[스타트 경제] 트럼프 \"이란 선박 나포...합의 안하면 파괴\" 최후통첩",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604200734451658",
+      "pub_date": "2026-04-20T07:34:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
+      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
+      "link": "https://www.news1.kr/world/usa-canada/6141609",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
-      "link": "https://www.news1.kr/world/usa-canada/6141609",
+      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
       "pub_date": "2026-04-20T07:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,21 +139,21 @@
       "is_scoop": false
     },
     {
-      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
       "link": "https://www.ajunews.com/view/20260420072739097",
       "pub_date": "2026-04-20T07:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1519,24 +1528,6 @@
       "title": "[속보] 트럼프 \"미국 대표단 내일 파키스탄 도착…합의 불발시 이란 모...",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045635",
       "pub_date": "2026-04-19T21:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“지진부터 화재까지”…축제장에서 배우는 ‘안전 교육’",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539846&ref=A",
-      "pub_date": "2026-04-19T21:50:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"내일 이란과 '2차회담'…불발 시 인프라 대거 파괴\"",
-      "link": "https://www.nocutnews.co.kr/news/6504665?utm_source=naver&utm_medium=article&utm_campaign=20260419094707",
-      "pub_date": "2026-04-19T21:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
