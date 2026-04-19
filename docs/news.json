@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-19 11:05:27",
+  "updated": "2026-04-19 11:10:33",
   "total": 200,
-  "breaking": 147,
+  "breaking": 148,
   "items": [
+    {
+      "title": "[속보] 靑 “北 탄도미사일, 안보리 결의 위반… 중단 촉구”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700850&code=61111211&cp=nv",
+      "pub_date": "2026-04-19T11:08:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 윤동희-정철원-쿄야마-김민성 충격 말소…'2연패' 김태형 감독 인...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811402",
+      "pub_date": "2026-04-19T11:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강득구 “피해자 김용에 무죄 입증 요구는 정치 책임 떠넘기는 ...",
+      "link": "https://www.kyeonggi.com/article/20260419580009",
+      "pub_date": "2026-04-19T11:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419023900001?input=1195m",
+      "pub_date": "2026-04-19T11:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 北 탄도미사일 발사에 대비 태세 유지 만전 지시",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596985",
+      "pub_date": "2026-04-19T11:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 \"북한 탄도미사일 발사는 안보리 결의 위반한 도발 행위…즉...",
+      "link": "https://www.news1.kr/politics/president/6141259",
+      "pub_date": "2026-04-19T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 “독재 군홧발, 불평등·빈곤 파고들어…오직 민생”",
       "link": "https://www.dt.co.kr/article/12058148?ref=naver",
@@ -31,21 +85,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리쳤다\"",
-      "link": "https://economist.co.kr/article/view/ecn202604190010",
-      "pub_date": "2026-04-19T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[우보세] 우주 데이터가 산업 판도 바꾼다",
       "link": "https://www.mt.co.kr/opinion/2026/04/19/2026041415525726911",
       "pub_date": "2026-04-19T11:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리쳤다\"",
+      "link": "https://economist.co.kr/article/view/ecn202604190010",
+      "pub_date": "2026-04-19T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -94,15 +148,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
       "link": "https://www.hankyung.com/article/2026041904877",
       "pub_date": "2026-04-19T10:47:00+09:00",
@@ -112,11 +157,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"4·19 정신, '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.hankyung.com/article/2026041904867",
-      "pub_date": "2026-04-19T10:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
+      "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
+      "pub_date": "2026-04-19T10:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -126,6 +171,15 @@
       "pub_date": "2026-04-19T10:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 정신, '내란의 밤' 물리칠 수 있었다\"",
+      "link": "https://www.hankyung.com/article/2026041904867",
+      "pub_date": "2026-04-19T10:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,20 +202,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어\"",
-      "link": "https://www.hankyung.com/article/2026041904837",
-      "pub_date": "2026-04-19T10:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269903",
       "pub_date": "2026-04-19T10:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어\"",
+      "link": "https://www.hankyung.com/article/2026041904837",
+      "pub_date": "2026-04-19T10:43:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “北, 동쪽 방향으로 미상 탄도미사일 발사”",
-      "link": "https://www.sedaily.com/article/20034135?ref=naver",
-      "pub_date": "2026-04-19T06:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260419062045MWT",
-      "pub_date": "2026-04-19T06:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽으로 미상 탄도미사일 발사\"",
-      "link": "https://www.news1.kr/diplomacy/defense-diplomacy/6141114",
-      "pub_date": "2026-04-19T06:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]합참 \"북, 동쪽 방향으로 미상 탄도미사일 발사\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596790",
-      "pub_date": "2026-04-19T06:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419005100504?input=1195m",
-      "pub_date": "2026-04-19T06:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“운동은 먹는 것까지가 완성이다”…엄정화의 ‘당근 면’ 저속 노화 ...",
-      "link": "https://www.segye.com/newsView/20260414521639?OutUrl=naver",
-      "pub_date": "2026-04-19T06:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
