@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 06:54:12",
-  "total": 156,
-  "breaking": 114,
+  "updated": "2026-04-20 06:55:25",
+  "total": 158,
+  "breaking": 116,
   "items": [
+    {
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420008900009?input=1195m",
+      "pub_date": "2026-04-20T06:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]북한, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042006501989730",
+      "pub_date": "2026-04-20T06:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] ‘쓰레기집’에 자녀 방치해놓고… 하나같이 “부모 역할 다했다...",
       "link": "https://www.segye.com/newsView/20260419508770?OutUrl=naver",
@@ -139,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 北, ‘화성-11라’ 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://www.dt.co.kr/article/12058272?ref=naver",
-      "pub_date": "2026-04-20T06:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
       "link": "https://www.hankyung.com/article/2026042014577",
       "pub_date": "2026-04-20T06:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 北, ‘화성-11라’ 미사일 탄두 위력시험…김정은 참관",
+      "link": "https://www.dt.co.kr/article/12058272?ref=naver",
+      "pub_date": "2026-04-20T06:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
+      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +229,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
+      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,6 +265,15 @@
       "is_scoop": false
     },
     {
+      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
+      "link": "https://www.newspim.com/news/view/20260417000567",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
       "link": "https://www.news1.kr/economy/employment-labor/6141209",
       "pub_date": "2026-04-20T06:00:00+09:00",
@@ -256,8 +283,8 @@
       "is_scoop": true
     },
     {
-      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
-      "link": "https://www.newspim.com/news/view/20260417000567",
+      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -276,15 +303,6 @@
     {
       "title": "공사비 폭등에 '링거' 꽂는 정부…건설업계 \"빚내서 버티기\"",
       "link": "https://www.ziksir.com/news/articleView.html?idxno=131141",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
