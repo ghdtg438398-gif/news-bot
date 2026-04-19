@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 05:00:34",
-  "total": 131,
-  "breaking": 104,
+  "updated": "2026-04-20 05:05:26",
+  "total": 138,
+  "breaking": 108,
   "items": [
+    {
+      "title": "‘공천이 당선’ 선거의 씁쓸함 [전국 프리즘]",
+      "link": "https://www.hani.co.kr/arti/opinion/column/1254939.html",
+      "pub_date": "2026-04-20T05:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미국 해상봉쇄 돌파하려던 이란 화물선 나포\"",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042004554160509",
+      "pub_date": "2026-04-20T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "뒤로 갈수록 파워 업↑ NCT 위시, 앵앵콜까지…화려한 '체조 입성'[노컷...",
+      "link": "https://www.nocutnews.co.kr/news/6504674?utm_source=naver&utm_medium=article&utm_campaign=20260420050014",
+      "pub_date": "2026-04-20T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 곳곳 봄비 이틀간 제주산지 80㎜ 서울 낮 19도...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44498",
+      "pub_date": "2026-04-20T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] ⑭ 구미신협, 사업자대출로 주택담보대출 실시...전입정보 변경...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59069",
+      "pub_date": "2026-04-20T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 트럼프 ”美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
+      "link": "https://www.joongang.co.kr/article/25421490",
+      "pub_date": "2026-04-20T04:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"美 해상 봉쇄 뚫으려던 이란 화물선 저지·장악\"",
+      "link": "https://www.news1.kr/world/usa-canada/6141581",
+      "pub_date": "2026-04-20T04:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “美, 호르무즈 해협 봉쇄 돌파 이란 화물선 나포”",
       "link": "https://www.newsis.com/view/NISX20260420_0003597376",
@@ -13,20 +76,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “美 해상 봉쇄 뚫으려던 이란 화물선 요격해 나포”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/20/7XBVDVOYJZGJRAKUQXLQ6KGHSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-20T04:49:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"미 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
       "link": "https://imnews.imbc.com/news/2026/world/article/6816444_36925.html",
       "pub_date": "2026-04-20T04:49:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “美 해상 봉쇄 뚫으려던 이란 화물선 요격해 나포”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/20/7XBVDVOYJZGJRAKUQXLQ6KGHSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T04:49:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
