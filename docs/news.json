@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 20:23:01",
+  "updated": "2026-04-19 20:25:28",
   "total": 200,
   "breaking": 101,
   "items": [
+    {
+      "title": "[속보] 李대통령 첫 순방지 인도 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.hankyung.com/article/2026041912627",
+      "pub_date": "2026-04-19T20:22:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, 인도 도착…내일 모디 총리와 정상회담",
       "link": "https://www.etoday.co.kr/news/view/2577026",
@@ -1789,15 +1798,6 @@
       "title": "[속보] 1년간 74차례 “도둑 들었다” 허위신고 50대, 체포 뒤 석방되자...",
       "link": "https://www.dt.co.kr/article/12058162?ref=naver",
       "pub_date": "2026-04-19T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]올해에만 7번째 도발...靑 \"北 탄도미사일, 안보리 결의 위반\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=118999",
-      "pub_date": "2026-04-19T11:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
