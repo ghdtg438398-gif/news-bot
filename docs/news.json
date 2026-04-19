@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 23:30:33",
+  "updated": "2026-04-19 23:35:27",
   "total": 200,
-  "breaking": 128,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보] 이 대통령 \"한-인도 완전 다른차원으로…중동전쟁 속 중요파트너...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041923322672405",
+      "pub_date": "2026-04-19T23:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"南北동포 함께 사는 인도, 한반도 평화 미래 보여줘...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041923304845082",
+      "pub_date": "2026-04-19T23:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"정상회담 계기, 韓-인도 완전 다른차원으로…공급망 ...",
+      "link": "https://view.asiae.co.kr/article/2026041923303037799",
+      "pub_date": "2026-04-19T23:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-인도 완전 다른차원으로…중동전쟁 속 중요파트너...",
+      "link": "https://www.yna.co.kr/view/AKR20260419061200001?input=1195m",
+      "pub_date": "2026-04-19T23:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 \"南北동포 함께 사는 인도, 한반도 평화 미래 보여줘\"",
       "link": "https://www.yna.co.kr/view/AKR20260419061000001?input=1195m",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "NCT WISH \"2년만 KSPO 돔 입성, 믿기지 않아\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294853?influxDiv=NAVER",
-      "pub_date": "2026-04-19T15:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미토스 경고…AI는 20시간 만에 무기화된다 [김현아의 IT세상읽기]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02765046645417760",
-      "pub_date": "2026-04-19T15:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강훈식 “李, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://www.donga.com/news/Politics/article/all/20260419/133767542/1",
-      "pub_date": "2026-04-19T15:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "NCT 위시 \"데뷔 2년 만의 KSPO돔, 믿기지 않아⋯성장 담았다\"",
-      "link": "http://www.joynews24.com/view/1961476",
-      "pub_date": "2026-04-19T15:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
