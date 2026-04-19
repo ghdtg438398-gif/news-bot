@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 10:20:28",
-  "total": 138,
+  "updated": "2026-04-19 10:25:25",
+  "total": 140,
   "breaking": 89,
   "items": [
+    {
+      "title": "국주영은 “법적 대응”⋯‘사진 무단 사용’ 우범기 사과",
+      "link": "https://www.jjan.kr/article/20260419500092",
+      "pub_date": "2026-04-19T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "호르무즈 하루만의 재봉쇄 전말…\"이란 정부·군부 '내분' 심화\"",
+      "link": "https://www.mt.co.kr/world/2026/04/19/2026041910195244280",
+      "pub_date": "2026-04-19T10:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李 대통령, 4·19혁명 기념식 취임 후 첫 참석",
       "link": "https://economist.co.kr/article/view/ecn202604190009",
