@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 05:40:28",
+  "updated": "2026-04-20 05:45:31",
   "total": 144,
   "breaking": 114,
   "items": [
@@ -31,7 +31,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 나포\"",
+      "title": "[속보] 트럼프 \"美해상봉쇄 뚫으려던 이란 선적 배 차단\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260420051607cU8",
+      "pub_date": "2026-04-20T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"기관실에 구멍냈다\"…트럼프, 이란 화물선 '투스카' 나포",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200013&t=NN",
       "pub_date": "2026-04-20T05:16:00+09:00",
       "source_id": "yna",
@@ -40,9 +49,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"美해상봉쇄 뚫으려던 이란 선적 배 차단\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420051607cU8",
-      "pub_date": "2026-04-20T05:16:00+09:00",
+      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 저지하고 장악\"",
+      "link": "http://www.fnnews.com/news/202604200507223575",
+      "pub_date": "2026-04-20T05:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -54,15 +63,6 @@
       "pub_date": "2026-04-20T05:09:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 화물선 저지하고 장악\"",
-      "link": "http://www.fnnews.com/news/202604200507223575",
-      "pub_date": "2026-04-20T05:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -112,8 +112,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
-      "link": "https://www.joongang.co.kr/article/25421490",
+      "title": "[속보]트럼프 \"美 해상 봉쇄 뚫으려던 이란 화물선 저지·장악\"",
+      "link": "https://www.news1.kr/world/usa-canada/6141581",
       "pub_date": "2026-04-20T04:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"美 해상 봉쇄 뚫으려던 이란 화물선 저지·장악\"",
-      "link": "https://www.news1.kr/world/usa-canada/6141581",
+      "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
+      "link": "https://www.joongang.co.kr/article/25421490",
       "pub_date": "2026-04-20T04:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
