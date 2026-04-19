@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 14:15:28",
+  "updated": "2026-04-19 14:20:28",
   "total": 200,
   "breaking": 134,
   "items": [
+    {
+      "title": "한화토탈, PX 공급 5월 조기 정상화…나프타 11만톤 확보",
+      "link": "https://www.nocutnews.co.kr/news/6504588?utm_source=naver&utm_medium=article&utm_campaign=20260419021604",
+      "pub_date": "2026-04-19T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "美 \"순조롭다\" 뒤로는 상황실…나포 확대도 준비",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856616?sid=104",
+      "pub_date": "2026-04-19T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스특보] 다시 닫힌 호르무즈…미, 선박 나포작전 준비",
       "link": "https://n.news.naver.com/mnews/article/422/0000856614?sid=104",
@@ -28,6 +46,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “美, 대북정보 공유 끊었다”…정동영 ‘평북 구성 핵시설’ 발...",
+      "link": "https://www.dt.co.kr/article/12058182?ref=naver",
+      "pub_date": "2026-04-19T14:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2269884",
-      "pub_date": "2026-04-19T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 19일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604190009",
-      "pub_date": "2026-04-19T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "北, 올들어 7번째 미사일 발사…미중정상회담 앞두고 도발(종합)",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01321846645417760",
-      "pub_date": "2026-04-19T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
