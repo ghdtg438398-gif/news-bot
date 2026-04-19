@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 04:20:28",
-  "total": 142,
+  "updated": "2026-04-20 04:25:25",
+  "total": 141,
   "breaking": 104,
   "items": [
     {
@@ -1269,15 +1269,6 @@
       "pub_date": "2026-04-19T18:26:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈] 이란, 호르무즈 해협 하루 만에 재봉쇄…미·이란 종전 협상 '안...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728887",
-      "pub_date": "2026-04-19T18:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
