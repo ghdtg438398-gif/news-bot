@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 08:15:27",
-  "total": 179,
+  "updated": "2026-04-20 08:20:27",
+  "total": 181,
   "breaking": 117,
   "items": [
+    {
+      "title": "[주간경제전망] 이창용 총재 퇴임…1분기 GDP·SK하이닉스 실적 발표",
+      "link": "https://www.sidae.com/article/2026041714280926313",
+      "pub_date": "2026-04-20T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[미장브리핑] 미·이란 2차 협상…22일 테슬라 1Q 실적 발표",
+      "link": "https://zdnet.co.kr/view/?no=20260420081617",
+      "pub_date": "2026-04-20T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
@@ -13,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[넥스트-샷] \"분위기 좋았는데\"···호르무즈 재봉쇄, 멀어진 안정",
-      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=252757",
+      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
+      "title": "[넥스트-샷] \"분위기 좋았는데\"···호르무즈 재봉쇄, 멀어진 안정",
+      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=252757",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -310,21 +328,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 귀국…오전 11시 국회서 방미 성과 설명",
-      "link": "https://www.donga.com/news/Politics/article/all/20260420/133770631/1",
-      "pub_date": "2026-04-20T07:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[김수인 칼럼] 작은 일 못참으면 큰 도모 어지럽힌다!",
       "link": "http://www.nongaek.com/news/articleView.html?idxno=95136",
       "pub_date": "2026-04-20T07:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 귀국…오전 11시 국회서 방미 성과 설명",
+      "link": "https://www.donga.com/news/Politics/article/all/20260420/133770631/1",
+      "pub_date": "2026-04-20T07:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
