@@ -1,8 +1,215 @@
 {
-  "updated": "2026-04-19 10:30:39",
-  "total": 149,
-  "breaking": 98,
+  "updated": "2026-04-19 10:35:39",
+  "total": 172,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어…오직 민생\"",
+      "link": "https://www.etoday.co.kr/news/view/2576956",
+      "pub_date": "2026-04-19T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 대통령 \"정치의 책임은 오직 민생…국민 삶이 국가 존재 이유...",
+      "link": "https://news.tf.co.kr/read/ptoday/2314693.htm",
+      "pub_date": "2026-04-19T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 “4·19 정신 있었기에 ‘내란의 밤’ 물리칠 수 있었...",
+      "link": "https://www.mk.co.kr/article/12020909",
+      "pub_date": "2026-04-19T10:33:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "휴전 2주 만에 깨진 호르무즈…‘3차 대전’ 경고까지 나왔다 [美-이란...",
+      "link": "https://www.sedaily.com/article/20034169?ref=naver",
+      "pub_date": "2026-04-19T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"4·19 정신 있었기에 2024년 12월 내란의 밤 물리쳐\"",
+      "link": "https://view.asiae.co.kr/article/2026041909472014964",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=701875",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 정신 있었기에 내란의 밤을 물리칠 수 있었다\"",
+      "link": "http://www.fnnews.com/news/202604191030181102",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041910315462932",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 “북한 발사 탄도미사일은 단거리…약 140km 비행”",
+      "link": "https://www.mk.co.kr/article/12020908",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"2차 종전협상 날짜 미정...상호 이해 틀 합의가 우선\"",
+      "link": "https://www.g-enews.com/view.php?ud=202604191026168513e250e8e188_1",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "청와대, 긴급 안보상황점검회의 소집…북한 '탄도미사일' 발사 관련",
+      "link": "https://www.newspim.com/news/view/20260419000009",
+      "pub_date": "2026-04-19T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 \"민주주의 가장 유용하고 합리적인 체제…끊임없이 입증해야\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596906",
+      "pub_date": "2026-04-19T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령, 4·19 기념식서 \"민주주의에 희생한 분, 한 분이라도 더...",
+      "link": "https://www.mt.co.kr/politics/2026/04/19/2026041910304223582",
+      "pub_date": "2026-04-19T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 택시기사 얼굴에 주먹질…폭행·존속상해 이어 운전자폭행까지",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/19/20260419500022?wlog_tag3=naver",
+      "pub_date": "2026-04-19T10:31:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"민주주의 희생자들 더 찾아 포상·기록·예우할 것\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01472726645417760",
+      "pub_date": "2026-04-19T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령 \"민주주의 위해 희생한 모든 분 포상하고 기록·예우\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596903",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"4·19 정신 있었기에 내란의 밤 물리칠 수 있었다\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01469446645417760",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한 발사 탄도미사일은 단거리…약 140km 비행\"",
+      "link": "https://www.ajunews.com/view/20260419102757636",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
+      "link": "https://www.etoday.co.kr/news/view/2576953",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://news.jtbc.co.kr/article/NB12294836?influxDiv=NAVER",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 대통령 \"4·19 정신이 있어 12.3 내란의 밤 물리쳐\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2314692.htm",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어…오직 민생\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419015900001?input=1195m",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[김능구·장성철의 직언직썰 4월①] \"李대통령, 이스라엘 인권문제 직격...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728805",
+      "pub_date": "2026-04-19T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
       "link": "https://www.etoday.co.kr/news/view/2576950",
@@ -67,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "국주영은 “법적 대응”⋯‘사진 무단 사용’ 우범기 사과",
+      "link": "https://www.jjan.kr/article/20260419500092",
+      "pub_date": "2026-04-19T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
       "link": "https://www.yna.co.kr/view/AKR20260419015600001?input=1195m",
       "pub_date": "2026-04-19T10:24:00+09:00",
@@ -82,15 +298,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국주영은 “법적 대응”⋯‘사진 무단 사용’ 우범기 사과",
-      "link": "https://www.jjan.kr/article/20260419500092",
-      "pub_date": "2026-04-19T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
