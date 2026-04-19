@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 23:15:30",
+  "updated": "2026-04-19 23:20:31",
   "total": 200,
   "breaking": 128,
   "items": [
+    {
+      "title": "[속보] “이란, 美 해상봉쇄하는 한 협상없어”",
+      "link": "https://www.dailian.co.kr/news/view/1635296/?sc=Naver",
+      "pub_date": "2026-04-19T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 해상봉쇄 풀지 않으면 파키스탄에 협상단 안 보내\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597343",
+      "pub_date": "2026-04-19T23:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “이란, 美 해상 봉쇄하는 한 협상없어”",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029702766&code=61131511&cp=nv",
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보] 강훈식 \"이재명 대통령, 특별감찰관 임명절차 개시 요청\"",
       "link": "https://www.sidae.com/article/2026041915102824072",
-      "pub_date": "2026-04-19T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 재요청",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838246",
-      "pub_date": "2026-04-19T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 국회에 특별감찰관 후보 추천 재차 요청",
-      "link": "https://www.hankookilbo.com/news/article/A2026041914540000358?did=NA",
       "pub_date": "2026-04-19T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
