@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-19 12:00:36",
+  "updated": "2026-04-19 12:05:28",
   "total": 200,
-  "breaking": 145,
+  "breaking": 144,
   "items": [
+    {
+      "title": "[속보] 김은혜 “장특공이 투기? 李대통령이 제도를 모르거나 모른 척하...",
+      "link": "https://www.kyeonggi.com/article/20260419580033",
+      "pub_date": "2026-04-19T12:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "호르무즈 재봉쇄… 미·이란 2차 종전협상 안갯속",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249384",
+      "pub_date": "2026-04-19T12:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]성범죄로 복역하고 출소해 또다시 흉기로 여성 위협해 성폭행한 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026041950062700000",
+      "pub_date": "2026-04-19T12:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국방부, 北 탄도미사일 발사에 \"도발 중단하고 평화 정착 동참해...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597039",
+      "pub_date": "2026-04-19T12:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "北 미사일 140㎞ 비행…靑 \"도발 중단 촉구\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838239",
+      "pub_date": "2026-04-19T12:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "신현송 한은 총재 시대 열리나…1분기 GDP '촉각'",
+      "link": "https://news.bizwatch.co.kr/article/finance/2026/04/17/0037",
+      "pub_date": "2026-04-19T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "靑 안보실 \"北 탄도미사일, 안보리 결의 위반…도발 즉각 중단 촉구\"",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365664",
@@ -139,6 +193,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.mk.co.kr/article/12020925",
+      "pub_date": "2026-04-19T11:22:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 윤동희·정철원·쿄야마·김민성 '충격' 1군 말소! 김태형 감독 ...",
       "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041911071527881",
       "pub_date": "2026-04-19T11:22:00+09:00",
@@ -149,16 +212,7 @@
     },
     {
       "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.mk.co.kr/article/12020925",
-      "pub_date": "2026-04-19T11:22:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
+      "link": "https://www.viva100.com/article/20260419500298",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.viva100.com/article/20260419500298",
+      "title": "[속보] 이 대통령 \"민주주의는 국민 잠재력 실현하는 체제\"...4·19 정신 ...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045414",
       "pub_date": "2026-04-19T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1744,60 +1798,6 @@
       "title": "[속보] 좌파 정상들, 트럼프 맞서 결집했다…“전쟁 반대” 구호",
       "link": "https://www.dt.co.kr/article/12058098?ref=naver",
       "pub_date": "2026-04-19T07:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://biz.heraldcorp.com/article/10720228?ref=naver",
-      "pub_date": "2026-04-19T07:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]하루만에 막힌 호르무즈 해협…이란 “18일 저녁부터 폐쇄”",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260419.99099005117",
-      "pub_date": "2026-04-19T07:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, RBC 헤리티지 3위로 '우승 경쟁'…임성재는 3R 41위 [PGA 시그니...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019848",
-      "pub_date": "2026-04-19T07:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "익산 황등면 단독주택서 화재...50대 남성 사망",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560501",
-      "pub_date": "2026-04-19T07:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]IMF \"한국, 나라빚 빠르게 늘어...내년 부채 비율 56.6%\"",
-      "link": "https://magazine.hankyung.com/business/article/202604190105b",
-      "pub_date": "2026-04-19T07:05:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이정후, 이걸 쳐? 타격감 완전히 물올랐다! 떨어지는 공 걷어내...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553149447",
-      "pub_date": "2026-04-19T07:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
