@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 06:35:28",
+  "updated": "2026-04-20 06:40:29",
   "total": 155,
   "breaking": 113,
   "items": [
+    {
+      "title": "[속보] 미 중부사령부, 오만만서 이란 상선 나포 공식 확인",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420063536Tzl",
+      "pub_date": "2026-04-20T06:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
+      "link": "https://www.ajunews.com/view/20260420063248082",
+      "pub_date": "2026-04-20T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 美중부사령부 “이란 국적 화물선 현재 미군이 억류중”",
       "link": "https://www.chosun.com/international/us/2026/04/20/VNNBHFRPABCS7BTBN5GTRRQGYA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
@@ -139,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
+      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +175,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
+      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
       "pub_date": "2026-04-20T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,15 +211,6 @@
       "is_scoop": false
     },
     {
-      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
-      "link": "https://www.newspim.com/news/view/20260417000567",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
       "link": "https://www.news1.kr/economy/employment-labor/6141209",
       "pub_date": "2026-04-20T06:00:00+09:00",
@@ -209,6 +218,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
+      "link": "https://www.newspim.com/news/view/20260417000567",
+      "pub_date": "2026-04-20T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
@@ -1375,24 +1393,6 @@
       "title": "[속보] \"조건 만남하자\"며 20대 남성들 유인한 10대들, 담뱃불로 지지고...",
       "link": "https://www.imaeil.com/page/view/2026041918062408923",
       "pub_date": "2026-04-19T20:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 평택제천선 천등산3터널 차량 화재 발생 \"일방향 전면차단\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560846",
-      "pub_date": "2026-04-19T20:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]미국·이란 2차 종전 협상 “이번주 금요일 전, 파키스탄에서”",
-      "link": "https://www.munhwa.com/article/11583360?ref=naver",
-      "pub_date": "2026-04-19T20:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
