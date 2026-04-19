@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 09:15:32",
-  "total": 110,
-  "breaking": 70,
+  "updated": "2026-04-19 09:20:32",
+  "total": 114,
+  "breaking": 74,
   "items": [
+    {
+      "title": "[속보] 청와대, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.imaeil.com/page/view/2026041909171079411",
+      "pub_date": "2026-04-19T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이란 호르무즈 재봉쇄→유조선 피격…트럼프 '긴급회의'",
+      "link": "https://www.sidae.com/article/2026041908513629184",
+      "pub_date": "2026-04-19T09:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]靑 “북한 탄도미사일 관련 안보상황점검회의 개최”",
+      "link": "https://www.dt.co.kr/article/12058105?ref=naver",
+      "pub_date": "2026-04-19T09:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "연속 데일리 베스트 권성열, 개막전 3R 선두로 우승에 성큼 [KPGA DB손해보...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019858",
@@ -10,6 +37,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국가안보실, 북한 탄도미사일 발사에 긴급 안보점검회의",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539671&ref=A",
+      "pub_date": "2026-04-19T09:14:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -67,6 +103,15 @@
       "is_scoop": false
     },
     {
+      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
       "link": "http://www.fnnews.com/news/202604190902012108",
       "pub_date": "2026-04-19T09:04:00+09:00",
@@ -91,15 +136,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
-      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
