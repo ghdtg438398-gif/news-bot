@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-19 15:00:34",
+  "updated": "2026-04-19 15:05:35",
   "total": 200,
-  "breaking": 129,
+  "breaking": 128,
   "items": [
+    {
+      "title": "[속보] 李, 국회에 ‘특별감찰관 임명’ 절차 개시 요청",
+      "link": "https://biz.chosun.com/policy/politics/president_office/2026/04/19/QGZGCJ3W2NHSNFMCKJWKIPNDEA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-19T15:04:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.imaeil.com/page/view/2026041915031625352",
+      "pub_date": "2026-04-19T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
+      "link": "https://www.chosun.com/politics/blue_house/2026/04/19/DRCBSLKO65HDDLFDOAGJ7XHY4A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-19T15:04:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 국회에 '특별감찰관' 임명 절차 개시 재요청",
+      "link": "https://view.asiae.co.kr/article/2026041915041226699",
+      "pub_date": "2026-04-19T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 “이 대통령, 국회에 특별감찰관 추천 요청”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539730&ref=A",
+      "pub_date": "2026-04-19T15:03:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"국회, 특별감찰관 임명 절차 개시\" 요청",
+      "link": "https://www.news1.kr/politics/president/6141370",
+      "pub_date": "2026-04-19T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419036100001?input=1195m",
+      "pub_date": "2026-04-19T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 특별감찰관 임명절차 개시 재요청…강훈식 \"공직기강...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597134",
+      "pub_date": "2026-04-19T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[서환-주간] '호르무즈 해협 재봉쇄'…급락 출발 후 1,480원대 재진입할...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410389",
+      "pub_date": "2026-04-19T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[채권-주간] 미국과 이란 종전협상 주시…신현송 한은 총재 취임일성은",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410388",
+      "pub_date": "2026-04-19T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "해킹 후폭풍에 실적 희비 엇갈린 통신 3사…LG유플러스 ‘나홀로 성장’",
       "link": "https://www.news2day.co.kr/article/20260419500020",
@@ -1708,96 +1798,6 @@
       "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "https://www.dailian.co.kr/news/view/1635154/?sc=Naver",
       "pub_date": "2026-04-19T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북, 11일만에 탄도미사일 수 발 발사…올들어 7번째",
-      "link": "https://www.dt.co.kr/article/12058106?ref=naver",
-      "pub_date": "2026-04-19T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.imaeil.com/page/view/2026041909171079411",
-      "pub_date": "2026-04-19T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 호르무즈 재봉쇄→유조선 잇따라 피격…트럼프 '긴급회의'",
-      "link": "https://www.sidae.com/article/2026041908513629184",
-      "pub_date": "2026-04-19T09:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑 “북한 탄도미사일 관련 안보상황점검회의 개최”",
-      "link": "https://www.dt.co.kr/article/12058105?ref=naver",
-      "pub_date": "2026-04-19T09:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "연속 데일리 베스트 권성열, 개막전 3R 선두로 우승에 성큼 [KPGA DB손해보...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019858",
-      "pub_date": "2026-04-19T09:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국가안보실, 북한 탄도미사일 발사에 긴급 안보점검회의",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539671&ref=A",
-      "pub_date": "2026-04-19T09:14:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.mk.co.kr/article/12020887",
-      "pub_date": "2026-04-19T09:13:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.sedaily.com/article/20034153?ref=naver",
-      "pub_date": "2026-04-19T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.hankyung.com/article/2026041902657",
-      "pub_date": "2026-04-19T09:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "http://www.fnnews.com/news/202604190904283553",
-      "pub_date": "2026-04-19T09:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
