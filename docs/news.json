@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 18:05:26",
+  "updated": "2026-04-19 18:10:24",
   "total": 200,
-  "breaking": 114,
+  "breaking": 112,
   "items": [
+    {
+      "title": "[특별기고] '경제대국'의 그늘, 저소득 노인 문제: (1) 현실",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20260419010005772",
+      "pub_date": "2026-04-19T18:08:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "美 \"순조롭다\" 뒤로는 상황실…나포 확대도 준비",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260419180728Dyv",
+      "pub_date": "2026-04-19T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
+      "link": "https://www.imaeil.com/page/view/2026041916365999525",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
+      "link": "https://www.hankyung.com/article/2026041910711",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 파주 산불 발생...월롱면 야산서 불",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560772",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “독재 군홧발, 불평등·빈곤 파고들어…오직 민생”",
-      "link": "https://www.dt.co.kr/article/12058148?ref=naver",
-      "pub_date": "2026-04-19T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[우보세] 우주 데이터가 산업 판도 바꾼다",
-      "link": "https://www.mt.co.kr/opinion/2026/04/19/2026041415525726911",
-      "pub_date": "2026-04-19T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령 \"4·19 정신 있었기에 '내란의 밤' 물리쳤다\"",
-      "link": "https://economist.co.kr/article/view/ecn202604190010",
-      "pub_date": "2026-04-19T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 혁명수비대, 호르무즈 해협 재봉쇄…트럼프 백악관 긴급회의 소집",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657034",
-      "pub_date": "2026-04-19T10:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
