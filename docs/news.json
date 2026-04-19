@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 04:25:25",
-  "total": 141,
+  "updated": "2026-04-20 04:30:35",
+  "total": 139,
   "breaking": 104,
   "items": [
     {
@@ -1251,24 +1251,6 @@
       "pub_date": "2026-04-19T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'44년 만의 대기록'...SSG 박성한, 개막 후 18경기 연속 안타 '금자탑'",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217650",
-      "pub_date": "2026-04-19T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "휴전 종료 사흘 앞으로...또 굳게 닫힌 호르무즈",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604191826385199",
-      "pub_date": "2026-04-19T18:26:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     }
