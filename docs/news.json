@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 11:20:33",
+  "updated": "2026-04-19 11:25:27",
   "total": 200,
-  "breaking": 146,
+  "breaking": 147,
   "items": [
+    {
+      "title": "[속보] 李대통령 “4·19 정신, ‘내란의 밤’ 물리칠 수 있었다”",
+      "link": "https://www.segye.com/newsView/20260419504496?OutUrl=naver",
+      "pub_date": "2026-04-19T11:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 윤동희·정철원·쿄야마·김민성 '충격' 1군 말소! 김태형 감독 ...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041911071527881",
+      "pub_date": "2026-04-19T11:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.mk.co.kr/article/12020925",
+      "pub_date": "2026-04-19T11:22:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반”",
       "link": "https://biz.heraldcorp.com/article/10720332?ref=naver",
@@ -238,21 +265,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李, 4·19 혁명 기념사 “국민 함성 오만·무도 권력 무너뜨려\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005153",
-      "pub_date": "2026-04-19T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] \"이란과는 다르다\"...'악마의 무기' 사용한 북한의 도발",
       "link": "https://www.ytn.co.kr/_ln/0134_202604191055286966",
       "pub_date": "2026-04-19T10:55:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李, 4·19 혁명 기념사 “국민 함성 오만·무도 권력 무너뜨려\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260419.99099005153",
+      "pub_date": "2026-04-19T10:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-19T06:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'♥5살 연하와 재혼' 최정윤, 11살 딸=오작교 맞다…\"아빠 해 달라며 유...",
-      "link": "https://www.xportsnews.com/article/2138656",
-      "pub_date": "2026-04-19T06:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 이슬람혁명수비대 \"호르무즈 해협 18일 저녁부터 폐쇄\"",
-      "link": "https://magazine.hankyung.com/business/article/202604190094b",
-      "pub_date": "2026-04-19T06:49:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539650&ref=A",
-      "pub_date": "2026-04-19T06:48:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     }
