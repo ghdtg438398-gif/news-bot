@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 19:05:25",
+  "updated": "2026-04-19 19:10:31",
   "total": 200,
-  "breaking": 102,
+  "breaking": 101,
   "items": [
+    {
+      "title": "[속보] 불안한 휴전에 이스라엘 '경고'...\"파기시 에너지시설 공격\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604190109&t=NN",
+      "pub_date": "2026-04-19T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539762&ref=A",
+      "pub_date": "2026-04-19T18:56:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"6홀 연속 버디 폭발\"…이상엽, DB프로미오픈 23언더 역전 우승",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038845",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
+      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
       "pub_date": "2026-04-19T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 더불어민주당, 아산시장 후보 오세현 확정",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597253",
+      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
       "pub_date": "2026-04-19T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
+      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
+      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
       "pub_date": "2026-04-19T18:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이재명 대통령 “민주주의 끝없이 입증해야 반민주 세력 국민 유...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950047300000",
-      "pub_date": "2026-04-19T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “4·19 정신 있어 ‘내란의 밤’ 물리칠 수 있었다”",
-      "link": "https://www.segye.com/newsView/20260419504496?OutUrl=naver",
-      "pub_date": "2026-04-19T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
