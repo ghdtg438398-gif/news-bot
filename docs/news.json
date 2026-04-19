@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 02:10:31",
-  "total": 184,
-  "breaking": 119,
+  "updated": "2026-04-20 02:15:30",
+  "total": 181,
+  "breaking": 118,
   "items": [
     {
       "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
@@ -1627,33 +1627,6 @@
       "title": "추경호 “택시, 대구의 얼굴… 서비스 고도화·기사 안전 투트랙 지원”...",
       "link": "https://www.segye.com/newsView/20260419508197?OutUrl=naver",
       "pub_date": "2026-04-19T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
-      "link": "https://economist.co.kr/article/view/ecn202604190016",
-      "pub_date": "2026-04-19T16:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "평택을, 박빙 울산·경남 맞교환 카드 부상… 민주, 범여권 연대 딜레마",
-      "link": "https://www.dt.co.kr/article/12058210?ref=naver",
-      "pub_date": "2026-04-19T16:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 재봉쇄 속 미·이란 종전협상 기로···국내 증시 영향 주목",
-      "link": "https://www.sisajournal-e.com/news/articleView.html?idxno=420587",
-      "pub_date": "2026-04-19T16:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
