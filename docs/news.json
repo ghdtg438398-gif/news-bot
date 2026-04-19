@@ -1,11 +1,65 @@
 {
-  "updated": "2026-04-19 15:30:33",
+  "updated": "2026-04-19 15:35:28",
   "total": 200,
-  "breaking": 137,
+  "breaking": 135,
   "items": [
+    {
+      "title": "[종합] NCT 위시, 데뷔 2년 만 KSPO돔 입성→20일 컴백⋯\"다음 목표는 돔...",
+      "link": "http://www.joynews24.com/view/1961478",
+      "pub_date": "2026-04-19T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.ajunews.com/view/20260419152831872",
+      "pub_date": "2026-04-19T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령, 국회에 특별감찰관 임명 절차 개시 재요청",
+      "link": "https://www.munhwa.com/article/11583331?ref=naver",
+      "pub_date": "2026-04-19T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]강훈식 \"李대통령, 국회에 특별감찰관 임명 절차 개시 재요청\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604190026",
+      "pub_date": "2026-04-19T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부산 영도구서 선박 침수로 기름 유출…해경 긴급 방제",
+      "link": "https://www.newspim.com/news/view/20260419000125",
+      "pub_date": "2026-04-19T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
+      "pub_date": "2026-04-19T15:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'첫 정규' NCT WISH \"위시리스트? 더 유명해지고 싶다\"(종합)",
+      "link": "https://news.jtbc.co.kr/article/NB12294855?influxDiv=NAVER",
       "pub_date": "2026-04-19T15:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,7 +76,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보 ]상호만 들어도 다 아는 강원 유명 식당, 원산지표시법 위반 잇따...",
+      "title": "[속보] 상호만 들어도 다 아는 강원 유명 식당, 원산지표시법 위반 잇따...",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045458",
       "pub_date": "2026-04-19T15:27:00+09:00",
       "source_id": "yna",
@@ -175,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
-      "link": "https://biz.heraldcorp.com/article/10720414?ref=naver",
-      "pub_date": "2026-04-19T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이 대통령, 특별감찰관 임명절차 개시 재요청",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029701596&code=61111111&cp=nv",
       "pub_date": "2026-04-19T15:08:00+09:00",
@@ -193,8 +238,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
+      "title": "[속보] “李대통령, 국회에 특별감찰관 임명 절차 개시 재요청”",
+      "link": "https://biz.heraldcorp.com/article/10720414?ref=naver",
+      "pub_date": "2026-04-19T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
+      "link": "https://www.newspim.com/news/view/20260419000122",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 국회에 '특별감찰관 임명' 절차 개시 요청",
-      "link": "https://www.newspim.com/news/view/20260419000122",
+      "title": "[속보]李대통령, 국회에 특별감찰관 임명 절차 개시 요청",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524850",
       "pub_date": "2026-04-19T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,11 +382,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강훈식 “이 대통령, 국회에 특별감찰관 추천 요청”",
+      "title": "[속보] 강훈식 “이 대통령, 국회에 특별감찰관 임명 절차 개시 요청”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539730&ref=A",
       "pub_date": "2026-04-19T15:03:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1744,60 +1798,6 @@
       "title": "[속보] 李 대통령 \"4·19 정신이 있어 12.3 내란의 밤 물리쳐\"",
       "link": "https://news.tf.co.kr/read/ptoday/2314692.htm",
       "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어…오직 민생\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419015900001?input=1195m",
-      "pub_date": "2026-04-19T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
-      "link": "https://www.etoday.co.kr/news/view/2576950",
-      "pub_date": "2026-04-19T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"4·19혁명 유공자분들께 깊은 존경과 감사\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01462886645417760",
-      "pub_date": "2026-04-19T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한 발사 탄도미사일은 단거리…약 140km 비행\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419021500504?input=1195m",
-      "pub_date": "2026-04-19T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 4·19 기념사 “국민주권 함성, 무도한 권력 무너뜨려...",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700675&code=61111111&cp=nv",
-      "pub_date": "2026-04-19T10:27:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]합참 \"北 발사 탄도미사일, 140㎞ 비행…한미 정밀분석 중\"",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596959",
-      "pub_date": "2026-04-19T10:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
