@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 02:50:26",
-  "total": 169,
+  "updated": "2026-04-20 02:55:27",
+  "total": 165,
   "breaking": 114,
   "items": [
     {
@@ -1486,42 +1486,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 파키스탄 세레나호텔 \"美·이란 회담 징발…19~23일 예약불가\"",
-      "link": "https://www.news1.kr/world/usa-canada/6141434",
-      "pub_date": "2026-04-19T16:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "전력망 탓 태양광 막혀 히트펌프 신청도 못해",
-      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263001",
-      "pub_date": "2026-04-19T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'와이어 투 와이어' 김민선, KLPGA 넥센·세인트나인 '노보기' 우승…통...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523881&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "李 대통령 인도·베트남 순방…이번주(20~25일) 주요일정",
-      "link": "https://www.news1.kr/politics/president/6141406",
-      "pub_date": "2026-04-19T16:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
