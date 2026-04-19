@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-19 18:35:23",
+  "updated": "2026-04-19 18:40:29",
   "total": 200,
-  "breaking": 108,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보] 논산 연산면 화재 발생…검은 연기 확산에 주민 주의 요청",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864054",
+      "pub_date": "2026-04-19T18:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 더불어민주당 천안시장 후보, 장기수·한태선 결선 진출",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597250",
+      "pub_date": "2026-04-19T18:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부산 영도 굴항서 선박 침수돼 기름 유출…해경 긴급 방제",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523971&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T18:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523969&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T18:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"22이닝 무자책 행진\" kt 보쉴리, 데뷔 신기록에도 담담한 에이스",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038834",
+      "pub_date": "2026-04-19T18:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프, 긴급회의 소집…파키스탄 적색경보",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524879",
+      "pub_date": "2026-04-19T18:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "넥센·세인트나인 최종일 아쉬움 남긴 방신실·박현경 [KLPGA]",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019873",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 \"북한 탄도미사일, 유엔 안보리 결의 위반\"",
-      "link": "https://www.hankyung.com/article/2026041905247",
-      "pub_date": "2026-04-19T11:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
-      "pub_date": "2026-04-19T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
-      "pub_date": "2026-04-19T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 “北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.joongang.co.kr/article/25421337",
-      "pub_date": "2026-04-19T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[김찬완의 India Insight] 8년 만의 인도 방문… '조선·방산·CEPA'로 전략...",
-      "link": "https://www.ajunews.com/view/20260409073425196",
-      "pub_date": "2026-04-19T11:10:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑 “北 탄도미사일, 안보리 결의 위반… 중단 촉구”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700850&code=61111211&cp=nv",
-      "pub_date": "2026-04-19T11:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
