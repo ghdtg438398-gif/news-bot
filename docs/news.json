@@ -1,11 +1,83 @@
 {
-  "updated": "2026-04-19 09:05:27",
-  "total": 101,
-  "breaking": 62,
+  "updated": "2026-04-19 09:10:35",
+  "total": 110,
+  "breaking": 70,
   "items": [
+    {
+      "title": "[속보] 청와대, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.hankyung.com/article/2026041902657",
+      "pub_date": "2026-04-19T09:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑, 北 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "http://www.fnnews.com/news/202604190904283553",
+      "pub_date": "2026-04-19T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 北 탄도미사일 발사…靑 긴급안보점검회의 개최",
+      "link": "https://biz.chosun.com/policy/politics/president_office/2026/04/19/AEXJORHJ5ZGX5JTPC3OBL3YPCM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-19T09:05:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524828",
+      "pub_date": "2026-04-19T09:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑, 북 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.seoul.co.kr/news/politics/president/2026/04/19/20260419500015?wlog_tag3=naver",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
       "link": "http://www.fnnews.com/news/202604190902012108",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.viva100.com/article/20260419500106",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
+      "link": "https://economist.co.kr/article/view/ecn202604190001",
       "pub_date": "2026-04-19T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,20 +121,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]靑, 北 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/19/2026041990007.html",
+      "pub_date": "2026-04-19T09:00:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
-      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
-      "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -78,6 +150,15 @@
     {
       "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
+      "pub_date": "2026-04-19T08:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
+      "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,6 +202,15 @@
       "is_scoop": false
     },
     {
+      "title": "익산 단독주택서 불…50대 거주자 숨져",
+      "link": "https://www.nocutnews.co.kr/news/6504508?utm_source=naver&utm_medium=article&utm_campaign=20260419085101",
+      "pub_date": "2026-04-19T08:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 합참 \"북한, 동쪽 방향으로 탄도미사일 발사\"",
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012513",
       "pub_date": "2026-04-19T08:52:00+09:00",
@@ -137,15 +227,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "익산 단독주택서 불…50대 거주자 숨져",
-      "link": "https://www.nocutnews.co.kr/news/6504508?utm_source=naver&utm_medium=article&utm_campaign=20260419085101",
-      "pub_date": "2026-04-19T08:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "케빈 듀란트 갑작스런 결장. 구체적 이유 밝혀졌다. \"팀동료와 훈련 도...",
