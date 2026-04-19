@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 08:40:26",
-  "total": 192,
-  "breaking": 120,
+  "updated": "2026-04-20 08:45:29",
+  "total": 199,
+  "breaking": 125,
   "items": [
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042008413839697",
+      "pub_date": "2026-04-20T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 반관영매체 “이란군, 美군함에 드론으로 보복 타격”",
+      "link": "https://www.joongang.co.kr/article/25421560",
+      "pub_date": "2026-04-20T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"미 군함에 드론으로 보복 타격\"(이란 반관영 매체)",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540073&ref=A",
+      "pub_date": "2026-04-20T08:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오늘부터 집중단속···위반 시 '범칙금 6만원'",
+      "link": "https://magazine.hankyung.com/business/article/202604201750b",
+      "pub_date": "2026-04-20T08:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
+      "link": "https://www.yna.co.kr/view/AKR20260420022500009?input=1195m",
+      "pub_date": "2026-04-20T08:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[주간 뉴스 브리핑] \"60여 년 낮은 곳 향한 목회자\" 김삼환 목사?",
+      "link": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400434",
+      "pub_date": "2026-04-20T08:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김시우, PGA 투어 RBC 헤리티지 단독 3위…시즌 5번째 톱10",
       "link": "https://www.ajunews.com/view/20260420083247177",
@@ -23,6 +77,15 @@
     },
     {
       "title": "[뉴스특보] 미군, 이란 상선 나포…이란군, 美함정 공격",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856774?sid=104",
+      "pub_date": "2026-04-20T08:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스특보] 미군, 이란 상선 나포…이란군, 美함정 공격",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260420083047QIP",
       "pub_date": "2026-04-20T08:31:00+09:00",
       "source_id": "yna",
@@ -31,7 +94,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美 이란 상선에 발포해 휴전 합의 위반…곧 보복할 것\"",
+      "title": "[속보] 이란 화물선 나포해 구멍 낸 美에 이란 \"휴전 위반·곧 보복\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042008295754270",
       "pub_date": "2026-04-20T08:30:00+09:00",
       "source_id": "yna",
@@ -85,15 +148,6 @@
       "is_scoop": false
     },
     {
-      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
-      "link": "http://www.breaknews.com/1201414",
-      "pub_date": "2026-04-20T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
       "link": "http://www.breaknews.com/1201428",
       "pub_date": "2026-04-20T08:22:00+09:00",
@@ -103,12 +157,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 지지율 65.5%…취임 후 최고치 [리얼미터]",
-      "link": "https://www.mk.co.kr/article/12021358",
-      "pub_date": "2026-04-20T08:20:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
+      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
+      "link": "http://www.breaknews.com/1201414",
+      "pub_date": "2026-04-20T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -117,6 +171,15 @@
       "pub_date": "2026-04-20T08:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 지지율 65.5%…취임 후 최고치 [리얼미터]",
+      "link": "https://www.mk.co.kr/article/12021358",
+      "pub_date": "2026-04-20T08:20:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -175,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
+      "title": "[속보] 삼전, 美 이란 화물선 발포에 프리장서 1%대 하락세 … 하이닉스...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼전, 美 이란 화물선 발포에 프리장서 1%대 하락세 … 하이닉스...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
+      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
       "pub_date": "2026-04-20T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
