@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 07:05:34",
-  "total": 172,
-  "breaking": 128,
+  "updated": "2026-04-20 07:10:35",
+  "total": 175,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보] 이란군 \"미국, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604200707083301",
+      "pub_date": "2026-04-20T07:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이번주 한국은행 및 금융위·금감원 일정]",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410405",
+      "pub_date": "2026-04-20T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200007",
+      "pub_date": "2026-04-20T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305284?division=NAVER",
+      "pub_date": "2026-04-20T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
+      "link": "https://www.sedaily.com/article/20034380?ref=naver",
+      "pub_date": "2026-04-20T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란 선박 공격은 휴전합의 위반…곧 보복\"",
+      "link": "http://www.fnnews.com/news/202604200703161758",
+      "pub_date": "2026-04-20T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김시우, 우승 경쟁한 RBC 헤리티지 단독 3위로 마쳐 [PGA]",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019887",
@@ -40,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"미, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.sidae.com/article/2026042007001477802",
+      "title": "[속보] “곧 보복한다”는 이란군 “美, 이란상선 발포는 휴전합의 위반...",
+      "link": "https://www.sedaily.com/article/20034377?ref=naver",
       "pub_date": "2026-04-20T07:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “곧 보복한다”는 이란군 “美, 이란상선 발포는 휴전합의 위반...",
-      "link": "https://www.sedaily.com/article/20034377?ref=naver",
+      "title": "[속보] 이란군 \"미, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.sidae.com/article/2026042007001477802",
       "pub_date": "2026-04-20T07:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,7 +202,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
       "link": "https://www.yna.co.kr/view/AKR20260420008900009?input=1195m",
       "pub_date": "2026-04-20T06:53:00+09:00",
       "source_id": "yna",
@@ -1522,33 +1576,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“협상 잘 되고 있다?”…백악관 긴급 회의 소집",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539788&ref=A",
-      "pub_date": "2026-04-19T21:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"순조롭다\"더니 갑자기 긴급 상황실 회의?",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816408_37004.html",
-      "pub_date": "2026-04-19T21:07:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "지예은, ♥바타와 열애 입 열었다 \"용기있는 자가 미인 얻어\"…멤버들 ...",
-      "link": "https://www.xportsnews.com/article/2138945",
-      "pub_date": "2026-04-19T21:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
