@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 07:35:29",
-  "total": 168,
-  "breaking": 119,
+  "updated": "2026-04-20 07:40:30",
+  "total": 172,
+  "breaking": 121,
   "items": [
+    {
+      "title": "택배비까지 덮친 유가 폭등…글로벌 이커머스 생태계 ‘균열’ [글로벌...",
+      "link": "https://www.hankyung.com/article/202604178887i",
+      "pub_date": "2026-04-20T07:39:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]불가리아 총선에서 라데브 전대통령의 진보연합 선두--국립TV",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597433",
+      "pub_date": "2026-04-20T07:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"파리 마라톤 공무원 보도, '지역 기자'이기에 가능했죠\"",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316763",
+      "pub_date": "2026-04-20T07:38:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
+      "link": "https://www.etnews.com/20260420000007",
+      "pub_date": "2026-04-20T07:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
+      "link": "https://www.etnews.com/20260420000006",
+      "pub_date": "2026-04-20T07:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
+      "pub_date": "2026-04-20T07:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미군, 오만만에서 이란 상선 나포 공식 확인",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260420073216dFT",
+      "pub_date": "2026-04-20T07:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
       "link": "https://www.news1.kr/world/usa-canada/6141609",
@@ -103,20 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美, 이란 화물선 공격…휴전 합의 위반, 곧 보복\"",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042007175063972",
-      "pub_date": "2026-04-20T07:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
       "link": "https://www.seoul.co.kr/news/international/2026/04/20/20260420500009?wlog_tag3=naver",
       "pub_date": "2026-04-20T07:21:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란 화물선 공격…휴전 합의 위반, 곧 보복\"",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042007175063972",
+      "pub_date": "2026-04-20T07:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,6 +229,15 @@
       "is_scoop": false
     },
     {
+      "title": "中 휴머노이드, 하프마라톤 50분 26초…인간 기록 경신",
+      "link": "https://www.sedaily.com/article/20034383?ref=naver",
+      "pub_date": "2026-04-20T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]미국 이란 화물선 나포 여파, 국제유가 8% 폭등 출발",
       "link": "https://www.sidae.com/article/2026042007132723734",
       "pub_date": "2026-04-20T07:16:00+09:00",
@@ -177,15 +249,6 @@
     {
       "title": "美 군함 타격에 유가 6% 폭등...업비트 투심 '비명'",
       "link": "http://coinreaders.com/231631",
-      "pub_date": "2026-04-20T07:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "中 휴머노이드, 하프마라톤 50분 26초…인간 기록 경신",
-      "link": "https://www.sedaily.com/article/20034383?ref=naver",
       "pub_date": "2026-04-20T07:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1483,33 +1546,6 @@
       "title": "[속보]트럼프 “美협상단 파키스탄 가는 중…합의 안되면 이란 발전소·...",
       "link": "https://www.donga.com/news/Inter/article/all/20260419/133770031/1",
       "pub_date": "2026-04-19T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260419513&PRO_CODE=99",
-      "pub_date": "2026-04-19T21:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란, 합의 거부하면 모든 발전소ㆍ다리 파괴할 것”",
-      "link": "https://www.etoday.co.kr/news/view/2577033",
-      "pub_date": "2026-04-19T21:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3394816",
-      "pub_date": "2026-04-19T21:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
