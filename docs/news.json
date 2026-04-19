@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 04:50:26",
-  "total": 130,
-  "breaking": 102,
+  "updated": "2026-04-20 04:55:28",
+  "total": 133,
+  "breaking": 105,
   "items": [
+    {
+      "title": "[속보] 트럼프 “美, 호르무즈 해협 봉쇄 돌파 이란 화물선 나포”",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597376",
+      "pub_date": "2026-04-20T04:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “美 해상 봉쇄 뚫으려던 이란 화물선 요격해 나포”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/20/7XBVDVOYJZGJRAKUQXLQ6KGHSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T04:49:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6816444_36925.html",
+      "pub_date": "2026-04-20T04:49:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'김세영·윤이나 우승 경쟁' LA 챔피언십 3R 성적은?…이미향·황유민·...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019883",
