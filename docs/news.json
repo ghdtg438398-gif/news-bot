@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 07:15:29",
-  "total": 176,
+  "updated": "2026-04-20 07:20:31",
+  "total": 179,
   "breaking": 132,
   "items": [
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029703767&code=61131411&cp=nv",
+      "pub_date": "2026-04-20T07:17:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "HD현대, 인도·베트남에 조선 거점…중국 추격 정면 대응",
+      "link": "https://www.sedaily.com/article/20034384?ref=naver",
+      "pub_date": "2026-04-20T07:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국 이란 화물선 나포 여파, 국제유가 8% 폭등 출발",
+      "link": "https://www.sidae.com/article/2026042007132723734",
+      "pub_date": "2026-04-20T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "美 군함 타격에 유가 6% 폭등...업비트 투심 '비명'",
+      "link": "http://coinreaders.com/231631",
+      "pub_date": "2026-04-20T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "中 휴머노이드, 하프마라톤 50분 26초…인간 기록 경신",
+      "link": "https://www.sedaily.com/article/20034383?ref=naver",
+      "pub_date": "2026-04-20T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] WTI 6월물 선물 가격 7% 상승···20분전 1조원 베팅 잭팟",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=626900",
+      "pub_date": "2026-04-20T07:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"미, 이란 상선 발포는 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294903?influxDiv=NAVER",
+      "pub_date": "2026-04-20T07:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
+      "link": "https://www.dt.co.kr/article/12058273?ref=naver",
+      "pub_date": "2026-04-20T07:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란군 \"美 이란 상선 공격, 휴전 위반 해적행위…보복할것\"",
       "link": "https://www.newsis.com/view/NISX20260420_0003597416",
@@ -157,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군, 미군 함정 드론으로 공격…나포 직후 보복 감행",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420065955RJo",
-      "pub_date": "2026-04-20T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]임윤아, 'AAA'와 특별한 인연 \"10년간 절반 참석..'대상' 의미 깊어...",
       "link": "https://www.starnewskorea.com/star/2026/04/20/2026041820470672366",
       "pub_date": "2026-04-20T07:00:00+09:00",
@@ -181,6 +244,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군, 미군 함정 드론으로 공격…나포 직후 보복 감행",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420065955RJo",
+      "pub_date": "2026-04-20T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1539,51 +1611,6 @@
       "pub_date": "2026-04-19T21:21:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “미 협상단, 내일 파키스탄 도착…이란이 합의 거부시 ...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539806&ref=A",
-      "pub_date": "2026-04-19T21:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041921193472676",
-      "pub_date": "2026-04-19T21:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
-      "link": "https://biz.heraldcorp.com/article/10720532?ref=naver",
-      "pub_date": "2026-04-19T21:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 합의안 안받으면 모든 발전소·다리 파괴할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260419056500009?input=1195m",
-      "pub_date": "2026-04-19T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://www.ajunews.com/view/20260419211633026",
-      "pub_date": "2026-04-19T21:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
