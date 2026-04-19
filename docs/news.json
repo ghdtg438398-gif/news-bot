@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 14:25:24",
+  "updated": "2026-04-19 14:30:30",
   "total": 200,
-  "breaking": 133,
+  "breaking": 132,
   "items": [
+    {
+      "title": "지휘·통제 분야로 3국 협력 확대… 역할 분담도 명확",
+      "link": "https://kookbang.dema.mil.kr/newsWeb/20260420/1/ATCE_CTGR_0020010011/view.do",
+      "pub_date": "2026-04-19T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "택시기사 때리고 주차 차량에 ‘벽돌 투척’…50대 징역 10개월",
       "link": "https://www.kyeonggi.com/article/20260419580134",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]북한, 동해상으로 탄도미사일 수발 발사…올해 일곱번째",
-      "link": "https://economist.co.kr/article/view/ecn202604190001",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
