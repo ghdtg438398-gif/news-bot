@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 20:30:31",
+  "updated": "2026-04-19 20:35:30",
   "total": 200,
   "breaking": 103,
   "items": [
+    {
+      "title": "[속보] 이 대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041920323079466",
+      "pub_date": "2026-04-19T20:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189068",
+      "pub_date": "2026-04-19T20:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 인도 뉴델리 도착…국빈 방문 일정 시작",
+      "link": "https://view.asiae.co.kr/article/2026041919535367767",
+      "pub_date": "2026-04-19T20:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 태운 공군 1호기, 뉴델리 도착…글로벌 사우스 외교 본...",
+      "link": "https://biz.heraldcorp.com/article/10720520?ref=naver",
+      "pub_date": "2026-04-19T20:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 평택제천선 천등산3터널 내 차량 화재…전면 통제에 국도 우회 ...",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864055",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김은혜 “장특공이 투기? 李대통령이 제도를 모르거나 모른 척하...",
-      "link": "https://www.kyeonggi.com/article/20260419580033",
-      "pub_date": "2026-04-19T12:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 재봉쇄… 미·이란 2차 종전협상 안갯속",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249384",
-      "pub_date": "2026-04-19T12:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]성범죄로 복역하고 출소해 또다시 흉기로 여성 위협해 성폭행한 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950062700000",
-      "pub_date": "2026-04-19T12:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국방부, 北 탄도미사일 발사에 \"도발 중단하고 평화 정착 동참해...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003597039",
-      "pub_date": "2026-04-19T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
