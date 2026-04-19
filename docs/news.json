@@ -1,16 +1,43 @@
 {
-  "updated": "2026-04-19 16:25:29",
+  "updated": "2026-04-19 16:30:32",
   "total": 200,
-  "breaking": 127,
+  "breaking": 126,
   "items": [
     {
-      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
-      "link": "https://www.imaeil.com/page/view/2026041916194155724",
-      "pub_date": "2026-04-19T16:21:00+09:00",
+      "title": "[속보] “작동하는지 보려고” 경의중앙선서 소화기 난사한 20대 여성 붙...",
+      "link": "https://biz.heraldcorp.com/article/10720445?ref=naver",
+      "pub_date": "2026-04-19T16:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국, 평택을 출마 공식 선언…“교통혁신으로 대평택 시대 열 ...",
+      "link": "https://www.kyeonggi.com/article/20260419580261",
+      "pub_date": "2026-04-19T16:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경북 영양군 산불 발생...석보면 야산서 불",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560690",
+      "pub_date": "2026-04-19T16:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 북한의 ‘전략적 우호국’ 브라질, 10년 만에 대사급 외교 목전...",
+      "link": "https://www.segye.com/newsView/20260419508216?OutUrl=naver",
+      "pub_date": "2026-04-19T16:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]국민의힘, 동구청장 우성진·서구청장 권오상·북구청장 이근수·...",
@@ -18,6 +45,15 @@
       "pub_date": "2026-04-19T16:21:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 대구 기초단체장 최종 후보…동구 우성진·서구 권오상...",
+      "link": "https://www.imaeil.com/page/view/2026041916194155724",
+      "pub_date": "2026-04-19T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
-      "link": "https://www.dt.co.kr/article/12058202?ref=naver",
-      "pub_date": "2026-04-19T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 군산 해상서 어선-부선 충돌 파손…인명피해 없어",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/19/20260419500069?wlog_tag3=naver",
       "pub_date": "2026-04-19T15:43:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 의협 “성분명 처방 강제, 건보공단 특사경 등 시도에 단호히 맞...",
+      "link": "https://www.dt.co.kr/article/12058202?ref=naver",
+      "pub_date": "2026-04-19T15:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
-      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
+      "title": "[속보] 내포신도시 홍예공원 재단장",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 내포신도시 홍예공원 재단장",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884157",
+      "title": "[속보] 이 대통령 “모든 권력은 감시받아야”...특별감찰관 임명절차 ...",
+      "link": "https://www.segye.com/newsView/20260419507460?OutUrl=naver",
       "pub_date": "2026-04-19T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 李대통령 4·19 기념사…“국민주권 함성, 무도한 권력 무너뜨려...",
       "link": "https://www.viva100.com/article/20260419500265",
       "pub_date": "2026-04-19T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 “민주주의 위해 희생한 한 분이라도 더 찾아내 예우”",
-      "link": "https://www.sedaily.com/article/20034170?ref=naver",
-      "pub_date": "2026-04-19T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이재명 대통령 \"4·19 정신, 2024년 12월 내란의 밤 물리쳐\"",
-      "link": "https://www.sidae.com/article/2026041910350943665",
-      "pub_date": "2026-04-19T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"민주주의 위해 희생한 분 찾아내 포상·기록하며 예우...",
-      "link": "http://www.fnnews.com/news/202604191031571686",
-      "pub_date": "2026-04-19T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"독재 군홧발, 불평등·빈곤 파고들어…오직 민생\"",
-      "link": "https://www.etoday.co.kr/news/view/2576956",
-      "pub_date": "2026-04-19T10:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
