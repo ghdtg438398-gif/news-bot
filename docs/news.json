@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 03:20:29",
-  "total": 157,
-  "breaking": 109,
+  "updated": "2026-04-20 03:25:26",
+  "total": 156,
+  "breaking": 108,
   "items": [
     {
       "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
@@ -1405,15 +1405,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '늑구' 돌아오자 야구·축구 다 이겨...돌아온 '늑구'에 대전 들...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045494",
-      "pub_date": "2026-04-19T17:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
