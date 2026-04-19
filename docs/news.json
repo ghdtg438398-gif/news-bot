@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 11:35:25",
+  "updated": "2026-04-19 11:40:27",
   "total": 200,
-  "breaking": 145,
+  "breaking": 146,
   "items": [
+    {
+      "title": "[속보] 강간죄로 징역 살고나와 또 10대 여성 성폭행… “무서울 게 없...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/19/20260419500039?wlog_tag3=naver",
+      "pub_date": "2026-04-19T11:38:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "北 11일 만에 탄도미사일 발사…SLBM 가능성 제기",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512872",
+      "pub_date": "2026-04-19T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "靑 \"대통령 국빈 방문 날 北 미사일 발사…태세 유지 만전\"",
       "link": "https://www.newspim.com/news/view/20260419000047",
@@ -13,20 +31,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]IMO 총장 \"호르무즈 개방해도 통행 정상화에 수개월\"",
-      "link": "https://magazine.hankyung.com/business/article/202604190549b",
-      "pub_date": "2026-04-19T11:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]靑 “北 탄도미사일 발사, 안보리 결의 위반한 도발…즉각 중단해...",
       "link": "https://www.donga.com/news/Politics/article/all/20260419/133766198/1",
       "pub_date": "2026-04-19T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]IMO 총장 \"호르무즈 개방해도 통행 정상화에 수개월\"",
+      "link": "https://magazine.hankyung.com/business/article/202604190549b",
+      "pub_date": "2026-04-19T11:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
+      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]靑 \"北탄도미사일 발사, 유엔 안보리 결의 위반 도발 행위…즉각...",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596989",
+      "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 위반…즉각 중단 촉구\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041911112209433",
       "pub_date": "2026-04-19T11:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[10년 전 그날] 이서현, 공식석상 첫 연설",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249250",
       "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(이번주 법조 일정) 4월 20일~4월 24일",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219601",
-      "pub_date": "2026-04-19T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "부천 경인고속도로 달리던 차에 불...엔진룸 발화 원인 추정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560500",
-      "pub_date": "2026-04-19T06:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
