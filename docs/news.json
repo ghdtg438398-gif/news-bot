@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-20 04:55:28",
-  "total": 133,
+  "updated": "2026-04-20 04:56:42",
+  "total": 132,
   "breaking": 105,
   "items": [
     {
@@ -1189,15 +1189,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이상엽, KPGA 투어 개막전 우승…10년 만에 감격의 통산 2승",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8539762&ref=A",
-      "pub_date": "2026-04-19T18:56:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
