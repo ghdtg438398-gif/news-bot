@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 04:00:37",
+  "updated": "2026-04-20 04:05:25",
   "total": 150,
-  "breaking": 107,
+  "breaking": 106,
   "items": [
+    {
+      "title": "[출근길 포인트] 이 대통령, 인도 모디 총리와 오늘 회담… AI·방산 전략...",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301820",
+      "pub_date": "2026-04-20T04:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란, 2차 평화협상 참여 거부…IRNA",
       "link": "https://www.newsis.com/view/NISX20260420_0003597373",
@@ -1342,15 +1351,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 파주 산불 발생...월롱면 야산서 불",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560772",
-      "pub_date": "2026-04-19T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
