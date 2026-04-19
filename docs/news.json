@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 13:05:27",
+  "updated": "2026-04-19 13:10:28",
   "total": 200,
   "breaking": 144,
   "items": [
+    {
+      "title": "청와대 국가안보실, 북한 탄도미사일 발사에 긴급 점검회의 개최…\"안보...",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020089",
+      "pub_date": "2026-04-19T13:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "8평에 17명 '꽉꽉'…발 뻗기도 어려운 교도소",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856598?sid=102",
+      "pub_date": "2026-04-19T13:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "美-이란 2차 종전 협상 앞두고 호르무즈 해협 재봉쇄…\"지정학적 위기 ...",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446691",
+      "pub_date": "2026-04-19T13:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "미·이란 2차 협상 안갯속...이란, 호르무즈 재봉쇄",
       "link": "https://www.ytn.co.kr/_ln/0104_202604191239229216",
@@ -13,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "靑 “북 탄도미사일 발사, 유엔안보리 결의 위반…즉각 중단 촉구”",
-      "link": "https://www.wikitree.co.kr/articles/1132284",
+      "title": "北, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성(종합)",
+      "link": "https://www.ajunews.com/view/20260419122436730",
       "pub_date": "2026-04-19T12:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "北, '잠수함 기지' 신포서 단거리 탄도미사일 발사…SLBM 가능성(종합)",
-      "link": "https://www.ajunews.com/view/20260419122436730",
+      "title": "靑 “북 탄도미사일 발사, 유엔안보리 결의 위반…즉각 중단 촉구”",
+      "link": "https://www.wikitree.co.kr/articles/1132284",
       "pub_date": "2026-04-19T12:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 북한 탄도미사일 발사 관련 긴급 안보상황점검회의 소집",
-      "link": "https://www.news1.kr/politics/president/6141154",
-      "pub_date": "2026-04-19T08:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "케빈 듀란트 갑작스런 결장. 구체적 이유 밝혀졌다. \"팀동료와 훈련 도...",
-      "link": "https://www.sportschosun.com/basketball/2026-04-19/202604190100125450008185",
-      "pub_date": "2026-04-19T08:48:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "총리설에 홍준표 직접 입장 밝혀…“청와대 오찬에 대해 말씀드리겠다...",
-      "link": "https://www.wikitree.co.kr/articles/1132247",
-      "pub_date": "2026-04-19T08:46:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
