@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-19 20:25:28",
+  "updated": "2026-04-19 20:30:31",
   "total": 200,
-  "breaking": 101,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[속보] 평택제천선 천등산3터널 내 차량 화재…전면 통제에 국도 우회 ...",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864055",
+      "pub_date": "2026-04-19T20:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'YTN-뉴스1, 채널A-한경, 동아-중앙, 국민-KBS' 8강 격돌",
+      "link": "http://www.journalist.or.kr/news/article.html?no=60744",
+      "pub_date": "2026-04-19T20:26:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 인도 뉴델리 도착…20일 모디 총리와 정상회담",
+      "link": "http://www.fnnews.com/news/202604192020483977",
+      "pub_date": "2026-04-19T20:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 인도 뉴델리 도착…내일 모디 총리와 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1635289/?sc=Naver",
+      "pub_date": "2026-04-19T20:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 첫 순방지 인도 도착…내일 모디 총리와 정상회담",
       "link": "https://www.hankyung.com/article/2026041912627",
@@ -1762,42 +1798,6 @@
       "title": "[속보]국방부, 北 탄도미사일 발사에 \"도발 중단하고 평화 정착 동참해...",
       "link": "https://www.newsis.com/view/NISX20260419_0003597039",
       "pub_date": "2026-04-19T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "北 미사일 140㎞ 비행…靑 \"도발 중단 촉구\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838239",
-      "pub_date": "2026-04-19T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신현송 한은 총재 시대 열리나…1분기 GDP '촉각'",
-      "link": "https://news.bizwatch.co.kr/article/finance/2026/04/17/0037",
-      "pub_date": "2026-04-19T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "靑 안보실 \"北 탄도미사일, 안보리 결의 위반…도발 즉각 중단 촉구\"",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365664",
-      "pub_date": "2026-04-19T11:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 1년간 74차례 “도둑 들었다” 허위신고 50대, 체포 뒤 석방되자...",
-      "link": "https://www.dt.co.kr/article/12058162?ref=naver",
-      "pub_date": "2026-04-19T11:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
