@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 18:20:27",
+  "updated": "2026-04-19 18:25:27",
   "total": 200,
-  "breaking": 112,
+  "breaking": 111,
   "items": [
+    {
+      "title": "[이슈] 이란, 호르무즈 해협 하루 만에 재봉쇄…미·이란 종전 협상 '안...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728887",
+      "pub_date": "2026-04-19T18:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민주당 아산 오세현·논산 오인환…천안은 결선",
       "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444884",
@@ -49,21 +58,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
-      "link": "https://www.imaeil.com/page/view/2026041916365999525",
-      "pub_date": "2026-04-19T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'중동전쟁 악재' 속 韓경제 1분기 성장률은",
       "link": "https://www.hankyung.com/article/2026041910711",
       "pub_date": "2026-04-19T18:06:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"제대로 작동하는지 보려고 뿌렸다\"…전동차 안에서 소화기 난사...",
+      "link": "https://www.imaeil.com/page/view/2026041916365999525",
+      "pub_date": "2026-04-19T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 靑 \"北 탄도미사일, 유엔 안보리 결의 위반…즉각 중단 촉구\"",
       "link": "https://www.yna.co.kr/view/AKR20260419023900001?input=1195m",
-      "pub_date": "2026-04-19T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 北 탄도미사일 발사에 대비 태세 유지 만전 지시",
-      "link": "https://www.newsis.com/view/NISX20260419_0003596985",
       "pub_date": "2026-04-19T11:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
