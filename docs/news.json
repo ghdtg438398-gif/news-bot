@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 02:35:26",
-  "total": 173,
+  "updated": "2026-04-20 02:40:28",
+  "total": 170,
   "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420023356rHL",
+      "pub_date": "2026-04-20T02:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 피로 물든 루이지애나… “가정불화로 어린이·청소년 10명 총격...",
+      "link": "https://www.dt.co.kr/article/12058263?ref=naver",
+      "pub_date": "2026-04-20T02:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
       "link": "https://www.dt.co.kr/article/12058262?ref=naver",
@@ -1512,51 +1530,6 @@
       "pub_date": "2026-04-19T16:46:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'살기좋은 아파트' 도전하세요 … 올해 시니어하우징 분야 신설",
-      "link": "https://www.mk.co.kr/article/12021091",
-      "pub_date": "2026-04-19T16:39:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“제대로 작동하는지 보려고”⋯경의중앙선 전동차 안에 비치된 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950143900000",
-      "pub_date": "2026-04-19T16:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
-      "pub_date": "2026-04-19T16:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)진주서 언론사 임원 흉기 공격에 큰 부상",
-      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=685800",
-      "pub_date": "2026-04-19T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "\"54홀 노보기\" 김민선, 넥센·세인트나인 와이어 투 와이어 제패",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038789",
-      "pub_date": "2026-04-19T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
