@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-19 23:50:28",
+  "updated": "2026-04-19 23:55:26",
   "total": 200,
-  "breaking": 130,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보]이란 “美, 해상봉쇄 안풀면 협상단 안보낸다…봉쇄는 휴전 위반...",
+      "link": "https://www.munhwa.com/article/11583373?ref=naver",
+      "pub_date": "2026-04-19T23:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 \"한-인도, 정상회담 계기로 완전 다른차원 발전\"",
       "link": "https://www.etoday.co.kr/news/view/2577041",
@@ -67,7 +76,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"南北동포 함께 사는 인도, 한반도 평화 미래 보여줘...",
+      "title": "[속보] 이 대통령 \"남북 동포 함께 사는 인도, 한반도 평화 미래 보여줘...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026041923304845082",
       "pub_date": "2026-04-19T23:31:00+09:00",
       "source_id": "yna",
@@ -1789,15 +1798,6 @@
       "title": "尹 '일반이적' 이번주 결심…'내란 종사' 전 장관들 변론 종결",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02863446645417760",
       "pub_date": "2026-04-19T15:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시 달서구청, 위기가구 통합 돌봄 체계 구축...안전망 강화",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560653",
-      "pub_date": "2026-04-19T15:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
