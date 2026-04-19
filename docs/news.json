@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-19 17:30:31",
+  "updated": "2026-04-19 17:35:25",
   "total": 200,
-  "breaking": 115,
+  "breaking": 114,
   "items": [
+    {
+      "title": "\"23언더파 신기록 우승\" 이상엽, KPGA 개막전서 통산 2승",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038810",
+      "pub_date": "2026-04-19T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “작동되나 보려고” 열차서 소화기 뿌린 20대 여성 체포",
+      "link": "https://www.kyeonggi.com/article/20260419580277",
+      "pub_date": "2026-04-19T17:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'최종일 버디 10개' 옥태훈, 개막전 준우승 뒷심 [KPGA DB손해보험]",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019870",
+      "pub_date": "2026-04-19T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '늑구' 돌아오자 야구·축구 다 이겨...돌아온 '늑구'에 대전 들...",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045494",
@@ -94,8 +121,8 @@
       "is_scoop": true
     },
     {
-      "title": "'와이어 투 와이어' 김민선, KLPGA 넥센·세인트나인 '노보기' 우승…통...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523881&plink=ORI&cooper=NAVER",
+      "title": "전력망 탓 태양광 막혀 히트펌프 신청도 못해",
+      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263001",
       "pub_date": "2026-04-19T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "전력망 탓 태양광 막혀 히트펌프 신청도 못해",
-      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263001",
+      "title": "'와이어 투 와이어' 김민선, KLPGA 넥센·세인트나인 '노보기' 우승…통...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523881&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-19T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1775,33 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 \"북한 발사 탄도미사일 약 140km 비행…단거리\"",
-      "link": "https://www.hankyung.com/article/2026041904877",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"4·19 정신 있었기에 '내란의 밤' 물리칠 수 있었다\"",
-      "link": "https://www.dailian.co.kr/news/view/1635177/?sc=Naver",
-      "pub_date": "2026-04-19T10:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전병우 3점 홈런…삼성, LG 꺾고 7연승 단독 선두",
-      "link": "https://m.sports.naver.com/kbaseball/article/422/0000856563",
-      "pub_date": "2026-04-19T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
