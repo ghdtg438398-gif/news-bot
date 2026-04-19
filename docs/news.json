@@ -1,12 +1,48 @@
 {
-  "updated": "2026-04-20 07:25:29",
-  "total": 177,
-  "breaking": 129,
+  "updated": "2026-04-20 07:30:35",
+  "total": 172,
+  "breaking": 122,
   "items": [
     {
-      "title": "[속보]이란군 “美 휴전 합의 위반, 이란 상선에 발포…곧 보복할 것”",
-      "link": "https://www.munhwa.com/article/11583391?ref=naver",
-      "pub_date": "2026-04-20T07:22:00+09:00",
+      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
+      "link": "https://www.ajunews.com/view/20260420072739097",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
+      "pub_date": "2026-04-20T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
+      "link": "https://www.etnews.com/20260420000005",
+      "pub_date": "2026-04-20T07:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[김수인 칼럼] 작은 일 못참으면 큰 도모 어지럽힌다!",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=95136",
+      "pub_date": "2026-04-20T07:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전 합의 위반…곧 보복\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200041&t=NN",
+      "pub_date": "2026-04-20T07:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -15,6 +51,15 @@
     {
       "title": "[속보] 美 이란 화물선 나포에 지수 선물 급락, 유가 8% 폭등 … 韓 또 ...",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000019.html",
+      "pub_date": "2026-04-20T07:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란군 “美 휴전 합의 위반, 이란 상선에 발포…곧 보복할 것”",
+      "link": "https://www.munhwa.com/article/11583391?ref=naver",
       "pub_date": "2026-04-20T07:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,21 +130,21 @@
       "is_scoop": false
     },
     {
-      "title": "美 군함 타격에 유가 6% 폭등...업비트 투심 '비명'",
-      "link": "http://coinreaders.com/231631",
-      "pub_date": "2026-04-20T07:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]미국 이란 화물선 나포 여파, 국제유가 8% 폭등 출발",
       "link": "https://www.sidae.com/article/2026042007132723734",
       "pub_date": "2026-04-20T07:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "美 군함 타격에 유가 6% 폭등...업비트 투심 '비명'",
+      "link": "http://coinreaders.com/231631",
+      "pub_date": "2026-04-20T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -121,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국제유가(WTI 6월물 선물) 8% 폭등 출발",
+      "title": "[속보] 국제유가(WTI 6월물 선물) 8% 급등 출발",
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=626900",
       "pub_date": "2026-04-20T07:15:00+09:00",
       "source_id": "yna",
@@ -1503,96 +1548,6 @@
       "pub_date": "2026-04-19T21:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “미국 대표단, 협상 위해 내일 저녁 이슬라마바드 도착...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189077",
-      "pub_date": "2026-04-19T21:30:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미 대표단, 협상 위해 내일 저녁 이슬라마바드 도착\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524014&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-19T21:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미 대표단 파키스탄행‥합의 불발 시 기반시설 파괴\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816419_36925.html",
-      "pub_date": "2026-04-19T21:28:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “미국 대표단, 내일 이슬라마바드 도착…협상 결렬시 발...",
-      "link": "https://www.mk.co.kr/article/12021288",
-      "pub_date": "2026-04-19T21:28:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"美대표단, 내일 저녁 협상 위해 이슬라마바드 도착\"",
-      "link": "http://www.fnnews.com/news/202604192125443555",
-      "pub_date": "2026-04-19T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 ″美대표단, 협상 위해 내일 저녁 이슬라마바드 도착″",
-      "link": "http://www.fnnews.com/news/202604192126081451",
-      "pub_date": "2026-04-19T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美 대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
-      "link": "https://biz.chosun.com/international/international_general/2026/04/19/6FKIE6OKUREVPD7I6WQZTB56CU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-19T21:27:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란이 합의안 안받으면 모든 발전소·다리 파괴할 것...",
-      "link": "https://www.kyeonggi.com/article/20260419580453",
-      "pub_date": "2026-04-19T21:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “미국 협상단, 내일 저녁 이슬라마바드 도착”",
-      "link": "https://www.etoday.co.kr/news/view/2577031",
-      "pub_date": "2026-04-19T21:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美대표단, 협상 위해 내일 저녁 이슬라마바드 도착”",
-      "link": "https://www.mk.co.kr/article/12021287",
-      "pub_date": "2026-04-19T21:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
