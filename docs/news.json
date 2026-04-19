@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 12:25:24",
+  "updated": "2026-04-19 12:30:33",
   "total": 200,
-  "breaking": 146,
+  "breaking": 144,
   "items": [
+    {
+      "title": "휴전 D-2, 호르무즈 재봉쇄…미·이란 종전협상 안갯속",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=512877",
+      "pub_date": "2026-04-19T12:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[6·3전주]우범기, '국주영은 사진 무단 사용' 논란 사과",
+      "link": "https://www.newsis.com/view/NISX20260419_0003597050",
+      "pub_date": "2026-04-19T12:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이 대통령, 인도·베트남 국빈 방문 출국···5박6일 일정",
       "link": "https://www.khan.co.kr/article/202604191220001",
@@ -121,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
-      "link": "https://www.newspim.com/news/view/20260419000056",
+      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
+      "link": "https://www.newspim.com/news/view/20260419000054",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[AI프리뷰] 19일 창원 SSG-NC전, 마운드 응집력과 타선 분위기의 한 판",
-      "link": "https://www.newspim.com/news/view/20260419000054",
+      "title": "[AI프리뷰] 19일 대구 LG-삼성전, 원태인 어깨에 달린 삼성의 8연승 도전",
+      "link": "https://www.newspim.com/news/view/20260419000056",
       "pub_date": "2026-04-19T12:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]북한, 11일 만에 또 탄도미사일 도발…동해상으로 수 발 발사",
-      "link": "https://www.kwnews.co.kr/page/view/2026041950009300000",
-      "pub_date": "2026-04-19T08:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합참 “북한, 동쪽 방향으로 탄도미사일 발사”",
-      "link": "https://magazine.hankyung.com/business/article/202604190218b",
-      "pub_date": "2026-04-19T08:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
