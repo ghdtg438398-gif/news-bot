@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-20 01:50:28",
-  "total": 194,
-  "breaking": 124,
+  "updated": "2026-04-20 01:55:24",
+  "total": 192,
+  "breaking": 122,
   "items": [
     {
       "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
@@ -1729,24 +1729,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '최하위' 키움 초대형 악재 터졌다! '2선발 외인' 와일스→어깨...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/19/2026041914125068764",
-      "pub_date": "2026-04-19T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산 영도 굴항서 19톤 선박 침수…기름 유출 긴급 방제",
-      "link": "https://www.nocutnews.co.kr/news/6504607?utm_source=naver&utm_medium=article&utm_campaign=20260419035104",
-      "pub_date": "2026-04-19T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
