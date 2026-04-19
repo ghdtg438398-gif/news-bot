@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-19 10:25:25",
-  "total": 140,
-  "breaking": 89,
+  "updated": "2026-04-19 10:30:39",
+  "total": 149,
+  "breaking": 98,
   "items": [
+    {
+      "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://www.etoday.co.kr/news/view/2576950",
+      "pub_date": "2026-04-19T10:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"4·19혁명 유공자분들께 깊은 존경과 감사\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01462886645417760",
+      "pub_date": "2026-04-19T10:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합참 \"북한 발사 탄도미사일은 단거리…약 140km 비행\"",
+      "link": "https://www.yna.co.kr/view/AKR20260419021500504?input=1195m",
+      "pub_date": "2026-04-19T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 4·19 기념사 “국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700675&code=61111111&cp=nv",
+      "pub_date": "2026-04-19T10:27:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]합참 \"北 발사 탄도미사일, 140㎞ 비행…한미 정밀분석 중\"",
+      "link": "https://www.newsis.com/view/NISX20260419_0003596959",
+      "pub_date": "2026-04-19T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19 위대한 승리, 세계 역사에 남을 민주혁명\"",
+      "link": "https://www.news1.kr/politics/president/6141179",
+      "pub_date": "2026-04-19T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"4·19혁명, 무도한 권력 무너뜨린 민주주의 등불\"",
+      "link": "https://www.news1.kr/politics/president/6141178",
+      "pub_date": "2026-04-19T10:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 4·19 기념사…\"국민주권 함성, 무도한 권력 무너뜨려...",
+      "link": "https://www.yna.co.kr/view/AKR20260419015600001?input=1195m",
+      "pub_date": "2026-04-19T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 제66주년 4·19혁명 기념식 참석…김혜경 여사 동행",
+      "link": "https://www.segye.com/newsView/20260419503480?OutUrl=naver",
+      "pub_date": "2026-04-19T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "국주영은 “법적 대응”⋯‘사진 무단 사용’ 우범기 사과",
       "link": "https://www.jjan.kr/article/20260419500092",
@@ -163,6 +244,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "삼성, LG 꺾고 7연승 질주…한화, 류현진이 구했다",
+      "link": "https://m.sports.naver.com/kbaseball/article/422/0000856528",
+      "pub_date": "2026-04-19T09:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1253,15 +1343,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "'양준혁·박용택 넘었다' 연이틀 KBO 역대 단독 4위 기록 제조!…뿌듯한...",
-      "link": "https://www.xportsnews.com/article/2138592",
-      "pub_date": "2026-04-19T00:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
