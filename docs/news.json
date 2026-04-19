@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 08:25:26",
-  "total": 185,
-  "breaking": 118,
+  "updated": "2026-04-20 08:30:32",
+  "total": 187,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[단독확인] 43년 운전경력 기자가 직접 몰았다! 중국산 전기차 BYD 시승...",
+      "link": "http://www.breaknews.com/1201417",
+      "pub_date": "2026-04-20T08:26:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 민주 \"장기보유특별공제 폐지 등 세제 개편 검토한 바 없어\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2314796.htm",
+      "pub_date": "2026-04-20T08:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "양주 가구 공장서 화재...진화 작업 중 '건물 2개 동 전소'",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560915",
+      "pub_date": "2026-04-20T08:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'아쉬운 18번 홀' 김시우, RBC 헤리티지 3위…시즌 세 번째 톱5",
       "link": "https://www.nocutnews.co.kr/news/6504703?utm_source=naver&utm_medium=article&utm_campaign=20260420082213",
@@ -130,15 +157,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란 화물선에 발포, 기관실 구멍냈다”…이란 “보복...",
-      "link": "https://magazine.hankyung.com/business/article/202604201593b",
-      "pub_date": "2026-04-20T08:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"16언더파 268타\" 김시우, RBC 헤리티지 단독 3위 질주",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039089",
       "pub_date": "2026-04-20T08:00:00+09:00",
@@ -146,6 +164,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 트럼프 “이란 화물선에 발포, 기관실 구멍냈다”…이란 “보복...",
+      "link": "https://magazine.hankyung.com/business/article/202604201593b",
+      "pub_date": "2026-04-20T08:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 미군, 이란 화물선에 발포·나포…이란군 \"곧 보복할 것\"",
@@ -1657,15 +1684,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "뇌종양 수술 미루며 헌신한 박일준 대한상의 전 부회장의 ‘안타까운 퇴...",
-      "link": "https://biz.heraldcorp.com/article/10720540?ref=naver",
-      "pub_date": "2026-04-19T22:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
