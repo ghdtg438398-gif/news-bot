@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-19 16:40:27",
+  "updated": "2026-04-19 16:45:26",
   "total": 200,
   "breaking": 122,
   "items": [
@@ -15,6 +15,15 @@
     {
       "title": "[속보]“제대로 작동하는지 보려고”⋯경의중앙선 전동차 안에 비치된 ...",
       "link": "https://www.kwnews.co.kr/page/view/2026041950143900000",
+      "pub_date": "2026-04-19T16:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국 \"추미애 하남 사람 아니지만 당선…평택에 '국가대표 정치...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041916192950603",
       "pub_date": "2026-04-19T16:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] 李대통령 “4·19 정신 있었기에 ‘내란의 밤’ 물리칠 수 있었다...",
       "link": "https://biz.heraldcorp.com/article/10720316?ref=naver",
-      "pub_date": "2026-04-19T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북한 신포發 발사체는 단거리 탄도미사일…합참 “약 140km 비행”",
-      "link": "https://www.dt.co.kr/article/12058128?ref=naver",
       "pub_date": "2026-04-19T10:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
