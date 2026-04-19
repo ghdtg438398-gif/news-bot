@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 08:10:28",
-  "total": 176,
+  "updated": "2026-04-20 08:15:27",
+  "total": 179,
   "breaking": 117,
   "items": [
+    {
+      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
+      "pub_date": "2026-04-20T08:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[넥스트-샷] \"분위기 좋았는데\"···호르무즈 재봉쇄, 멀어진 안정",
+      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=252757",
+      "pub_date": "2026-04-20T08:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
+      "pub_date": "2026-04-20T08:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "펜타곤 진호, 서울 팬 콘서트 'Dear. You' 성료",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568846",
