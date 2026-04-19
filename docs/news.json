@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-19 09:50:27",
-  "total": 128,
-  "breaking": 81,
+  "updated": "2026-04-19 09:55:25",
+  "total": 130,
+  "breaking": 82,
   "items": [
+    {
+      "title": "안병훈·김민규, LIV 골프 멕시코 대회 3R 공동 17위…람 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008523596&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-19T09:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘갈비뼈 골절의심’ FC서울 최준, 다행히 타박상 진단…“다만...",
+      "link": "https://www.sportsseoul.com/news/read/1603783?ref=naver",
+      "pub_date": "2026-04-19T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "이란 군부, 외무장관 개방 선언에 제동…호르무즈 다시 봉쇄",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16038599",
@@ -238,15 +256,6 @@
       "is_scoop": false
     },
     {
-      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
-      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
-      "pub_date": "2026-04-19T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]靑, 北탄도미사일 발사 '긴급 안보점검회의' 개최",
       "link": "http://www.fnnews.com/news/202604190902012108",
       "pub_date": "2026-04-19T09:04:00+09:00",
@@ -271,6 +280,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "산불은 기후 때문? 세밀하게 보자 [데이터로 보는 기후위기]",
+      "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57634",
+      "pub_date": "2026-04-19T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -301,15 +319,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 호르무즈 다시 닫히자…낙관적이던 트럼프, 백악관 긴급회의 소...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026041908593610018",
-      "pub_date": "2026-04-19T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "北, 올들어 7번째 미사일 발사…미중정상회담 앞두고 도발(종합)",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01321846645417760",
       "pub_date": "2026-04-19T09:01:00+09:00",
@@ -319,29 +328,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 호르무즈 다시 닫히자…낙관적이던 트럼프, 백악관 긴급회의 소...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026041908593610018",
+      "pub_date": "2026-04-19T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]靑, 北 탄도미사일 발사에 긴급 안보점검회의 개최",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/19/2026041990007.html",
       "pub_date": "2026-04-19T09:00:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
-      "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
-      "pub_date": "2026-04-19T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -355,11 +355,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 청와대, 북한 탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260419085906bnU",
+      "pub_date": "2026-04-19T08:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 청와대, 北탄도미사일 발사 관련 긴급 안보점검회의",
       "link": "https://biz.heraldcorp.com/article/10720270?ref=naver",
       "pub_date": "2026-04-19T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 靑, 北탄도미사일 발사에 긴급 안보점검회의 개최",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029700350&code=61111111&cp=nv",
+      "pub_date": "2026-04-19T08:59:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
