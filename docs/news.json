@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 18:50:29",
+  "updated": "2026-04-20 18:55:30",
   "total": 200,
   "breaking": 115,
   "items": [
+    {
+      "title": "日 혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 긴급 대피",
+      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459002",
+      "pub_date": "2026-04-20T18:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽서 7.4 '강진'에 쓰나미…\"가구 쓰러질 정도\"",
+      "link": "http://www.inews24.com/view/1961893",
+      "pub_date": "2026-04-20T18:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "日 혼슈 동쪽 해역서 규모 7.5 지진…'최고 80㎝' 쓰나미 관측(종합)",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042018032930454",
@@ -67,20 +85,20 @@
       "is_scoop": false
     },
     {
-      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "2026년 북중미 월드컵, KBS에서도 본다",
       "link": "https://www.munhwa.com/article/11583642?ref=naver",
       "pub_date": "2026-04-20T18:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -220,12 +238,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
+      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
       "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -238,12 +256,12 @@
       "is_scoop": false
     },
     {
-      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
+      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
       "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -310,20 +328,20 @@
       "is_scoop": true
     },
     {
-      "title": "일본 이와테현 앞바다 강진... 쓰나미 경보 발령에 다카이치 “대피해달...",
-      "link": "https://www.chosun.com/international/international_general/2026/04/20/OSKWM563L5HIZGVKNJ2PVFFPR4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-20T18:09:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민희진 향해 비속어 쓰더니...'손해배상' 부메랑 맞은 악플러들 [지금이...",
       "link": "https://www.ytn.co.kr/_ln/0134_202604201809443738",
       "pub_date": "2026-04-20T18:09:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 이와테현 앞바다 강진... 쓰나미 경보 발령에 다카이치 “대피해달...",
+      "link": "https://www.chosun.com/international/international_general/2026/04/20/OSKWM563L5HIZGVKNJ2PVFFPR4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T18:09:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
-      "pub_date": "2026-04-20T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 경기지사 4인 '원샷 경선'으로...5월 2일 최종 후보 확정",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366057",
-      "pub_date": "2026-04-20T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
