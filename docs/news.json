@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21 04:20:32",
-  "total": 198,
+  "updated": "2026-04-21 04:25:25",
+  "total": 194,
   "breaking": 99,
   "items": [
     {
@@ -1746,42 +1746,6 @@
       "pub_date": "2026-04-20T18:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 연장 접전 끝 준우승",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908031",
-      "pub_date": "2026-04-20T18:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "R]체육관장, 운동 빌미로 불러내 성폭행‥\"중고생 피해자 더 있어\"",
-      "link": "http://andongmbc.co.kr/adboard/NewsView82015",
-      "pub_date": "2026-04-20T18:22:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"'선당후사' 이광재, 핫플레이스 지역 재보선…송영길도 공천 염두\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298498&inflow=N",
-      "pub_date": "2026-04-20T18:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신축 타워맨션도 ‘흔들’… 커튼이 바람에 날리듯 흔들려",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029707402&code=61131211&cp=nv",
-      "pub_date": "2026-04-20T18:21:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": false,
       "is_scoop": false
     }
