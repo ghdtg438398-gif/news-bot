@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 23:15:35",
+  "updated": "2026-04-20 23:20:31",
   "total": 200,
-  "breaking": 105,
+  "breaking": 104,
   "items": [
+    {
+      "title": "화물연대 집회서 조합원 3명 사상… 경찰 1명도 부상",
+      "link": "https://www.segye.com/newsView/20260420515720?OutUrl=naver",
+      "pub_date": "2026-04-20T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 7일→26일로 늘린 ‘서울스프링페스티벌’…예산은 그대로, 현장...",
+      "link": "https://www.kukinews.com/article/view/kuk202604200201",
+      "pub_date": "2026-04-20T23:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 대구 군위군 산불 발생 \"주민 주의\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561957",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
+      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
+      "link": "https://www.munhwa.com/article/11583671?ref=naver",
       "pub_date": "2026-04-20T22:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
-      "link": "https://www.munhwa.com/article/11583671?ref=naver",
+      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
       "pub_date": "2026-04-20T22:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.hankyung.com/article/2026042041957",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
       "link": "http://www.fnnews.com/news/202604202235094339",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.hankyung.com/article/2026042041957",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.news1.kr/world/usa-canada/6143007",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.news1.kr/world/usa-canada/6143007",
+      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "일본 혼슈 동쪽서 규모 7.4 강진…쓰나미 경보 발령",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540546&ref=A",
       "pub_date": "2026-04-20T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260420.99099005745",
-      "pub_date": "2026-04-20T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'특급대회 3위' 김시우, 세계 26위로 도약…개인 역대 최고",
-      "link": "https://www.newspim.com/news/view/20260420001176",
-      "pub_date": "2026-04-20T18:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
