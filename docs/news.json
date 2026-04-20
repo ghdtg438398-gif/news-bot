@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 09:55:28",
+  "updated": "2026-04-20 10:00:37",
   "total": 200,
-  "breaking": 137,
+  "breaking": 136,
   "items": [
+    {
+      "title": "[속보] 홍준표 “국민의힘, 지선 참패하고 나면 이익집단의 ‘쌩얼’ 보...",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420504&PRO_CODE=99",
+      "pub_date": "2026-04-20T09:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홍준표 “보수정당, 지선 참패하면 난동부리는 이익집단의 맨얼...",
+      "link": "https://www.kyeonggi.com/article/20260420580044",
+      "pub_date": "2026-04-20T09:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "G마켓, 20일 하루 아모레퍼시픽 ‘올인’ 프로모션…인기 상품 최대 55%...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85761",
+      "pub_date": "2026-04-20T09:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "美, 이란 선박 발포 당시 상황 [현장영상]",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524928",
+      "pub_date": "2026-04-20T09:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]이란 “美군함에 드론으로 보복 타격…호르무즈 통제법 곧 시행",
       "link": "https://www.kwnews.co.kr/page/view/2026042050009100000",
@@ -31,15 +67,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미국프로축구 LAFC 1-4 새너제이(후반 35분 우세니 부다)",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597731",
-      "pub_date": "2026-04-20T09:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 자전거 상한가 터졌다? 빅텍·알톤까지 들썩…자전거주 갑자기 ...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568883",
       "pub_date": "2026-04-20T09:48:00+09:00",
@@ -49,7 +76,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란군, 美군함에 드론으로 보복 타격\" 이란 반관영매체",
+      "title": "[속보]미국프로축구 LAFC 1-4 새너제이(후반 35분 우세니 부다)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597731",
+      "pub_date": "2026-04-20T09:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란군, 美군함 드론으로 타격…상산 나포 보복\" 이란 반관영매...",
       "link": "https://biz.sbs.co.kr/article_hub/20000305317?division=NAVER",
       "pub_date": "2026-04-20T09:45:00+09:00",
       "source_id": "yna",
@@ -67,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 지지도 취임 후 최고치…민주 50.5%·국힘 31.4%",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270119",
+      "title": "[속보]미국 프로축구 LAFC 1-3 새너제이(후반 29분 리드 로버츠 자책골)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597724",
       "pub_date": "2026-04-20T09:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미국 프로축구 LAFC 1-3 새너제이(후반 29분 리드 로버츠 자책골)",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597724",
+      "title": "[속보] 李대통령 지지도 취임 후 최고치…민주 50.5%·국힘 31.4%",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270119",
       "pub_date": "2026-04-20T09:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -373,8 +409,8 @@
       "is_scoop": false
     },
     {
-      "title": "김시우, '특급대회'에서 3위…벌써 세 번째 '톱5' 상승세",
-      "link": "https://isplus.com/article/view/isp202604200027",
+      "title": "경남교육청, 18개 지원청에 '학생맞춤통합지원센터' 본격 가동",
+      "link": "https://www.nocutnews.co.kr/news/6504731?utm_source=naver&utm_medium=article&utm_campaign=20260420090913",
       "pub_date": "2026-04-20T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -382,8 +418,8 @@
       "is_scoop": false
     },
     {
-      "title": "경남교육청, 18개 지원청에 '학생맞춤통합지원센터' 본격 가동",
-      "link": "https://www.nocutnews.co.kr/news/6504731?utm_source=naver&utm_medium=article&utm_campaign=20260420090913",
+      "title": "김시우, '특급대회'에서 3위…벌써 세 번째 '톱5' 상승세",
+      "link": "https://isplus.com/article/view/isp202604200027",
       "pub_date": "2026-04-20T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -409,15 +445,6 @@
       "is_scoop": false
     },
     {
-      "title": "[HMM50년 돌아보기-19] 글로벌 얼라이언스와 제휴",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604200853151963570d99e4c8_23",
-      "pub_date": "2026-04-20T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "패닉, 20년 만의 단독 콘서트 'PANIC IS COMING' 성황리 종료",
       "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532312",
       "pub_date": "2026-04-20T09:08:00+09:00",
@@ -425,6 +452,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[HMM50년 돌아보기-19] 글로벌 얼라이언스와 제휴",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604200853151963570d99e4c8_23",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "미-이란, 휴전 종료 이틀 앞두고 ‘무력 충돌’",
@@ -1762,42 +1798,6 @@
       "title": "[속보]북한, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
       "link": "https://www.mt.co.kr/politics/2026/04/20/2026042006501989730",
       "pub_date": "2026-04-20T06:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘쓰레기집’에 자녀 방치해놓고… 하나같이 “부모 역할 다했다...",
-      "link": "https://www.segye.com/newsView/20260419508770?OutUrl=naver",
-      "pub_date": "2026-04-20T06:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090009.html",
-      "pub_date": "2026-04-20T06:50:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
-      "link": "http://www.fnnews.com/news/202604200640204286",
-      "pub_date": "2026-04-20T06:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북한, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://www.hankookilbo.com/news/article/A2026042006240004525?did=NA",
-      "pub_date": "2026-04-20T06:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
