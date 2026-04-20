@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-21 06:45:30",
-  "total": 178,
-  "breaking": 119,
+  "updated": "2026-04-21 06:50:31",
+  "total": 182,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 日다카이치 총리, 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.kyeonggi.com/article/20260421580003",
+      "pub_date": "2026-04-21T06:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://news.jtbc.co.kr/article/NB12295085?influxDiv=NAVER",
+      "pub_date": "2026-04-21T06:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "계란값 다시 7000원대…태국산 수입란 투입에도 ‘에그플레이션’ 우려",
+      "link": "https://www.news2day.co.kr/article/20260420500240",
+      "pub_date": "2026-04-21T06:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 봉납",
+      "link": "https://www.joongang.co.kr/article/25421892",
+      "pub_date": "2026-04-21T06:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260421064429gZG",
+      "pub_date": "2026-04-21T06:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.yna.co.kr/view/AKR20260421013600073?input=1195m",
@@ -1591,15 +1636,6 @@
       "title": "일본 혼슈 동쪽 해역서 규모 7.5 강진…“쓰나미, 도망가라” 긴급 방송",
       "link": "https://www.etnews.com/20260420000492",
       "pub_date": "2026-04-20T20:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 “‘구성 핵시설’ 이미 알려져…왜 이런 터무니 없는 일이”",
-      "link": "https://www.munhwa.com/article/11583658?ref=naver",
-      "pub_date": "2026-04-20T20:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
