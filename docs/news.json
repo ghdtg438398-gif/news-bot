@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 06:15:31",
-  "total": 183,
-  "breaking": 119,
+  "updated": "2026-04-21 06:20:31",
+  "total": 182,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 국제유가, 급등⋯WTI 7%↑",
+      "link": "https://www.etoday.co.kr/news/view/2577461",
+      "pub_date": "2026-04-21T06:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.ajunews.com/view/20260421061410287",
+      "pub_date": "2026-04-21T06:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 애플 \"팀쿡, 9월 CEO 물러나 … 이사회 의장맡는다\"",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/21/2026042100017.html",
@@ -40,11 +58,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
       "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -67,11 +85,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
+      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
       "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -94,20 +112,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀 쿡 CEO, 9월 사임…후임자는 존 터너스”",
-      "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
-      "pub_date": "2026-04-21T06:05:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]애플 15년만에 CEO 교체...“팀 쿡 후임에 존 터너스”",
       "link": "https://www.sedaily.com/article/20034906?ref=naver",
       "pub_date": "2026-04-21T06:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀 쿡 CEO, 9월 사임…후임자는 존 터너스”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
+      "pub_date": "2026-04-21T06:05:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -184,20 +202,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.joongang.co.kr/article/25421887",
-      "pub_date": "2026-04-21T05:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
       "link": "https://www.hankyung.com/article/202604214319i",
       "pub_date": "2026-04-21T05:56:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.joongang.co.kr/article/25421887",
+      "pub_date": "2026-04-21T05:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1621,33 +1639,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시, '제46회 장애인의 날 기념식' 개최",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541750",
-      "pub_date": "2026-04-20T20:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, CU 진주물류센터 집회 사망사고 전담수사팀 구성",
-      "link": "https://www.ajunews.com/view/20260420201310201",
-      "pub_date": "2026-04-20T20:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 평택 최원용·고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723415",
-      "pub_date": "2026-04-20T20:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
