@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 19:30:33",
+  "updated": "2026-04-20 19:35:28",
   "total": 200,
-  "breaking": 111,
+  "breaking": 110,
   "items": [
+    {
+      "title": "화물연대 집회 중 물류차 막아서다 사고…노조원 1명 사망",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189287",
+      "pub_date": "2026-04-20T19:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 동쪽 해역서 규모 7.4 강진…다카이치 총리 \"대피해달라\"",
+      "link": "https://www.hankyung.com/article/2026042040001",
+      "pub_date": "2026-04-20T19:31:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, '진주 화물연대 사망사고' 진상조사·전담수사팀 구성",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04890486645418088",
+      "pub_date": "2026-04-20T19:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경찰청 \"화물연대 집회 사망 유감…전담수사팀 구성, 엄정 수사...",
       "link": "https://www.imaeil.com/page/view/2026042019250163649",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 진주물류센터 집회서 화물차가 노조원 덮쳐... 1명 사망·2명 중경상",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834163",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[채권마감] 사흘만 강세, 외국인 3선·10선 대량매수",
-      "link": "https://www.etoday.co.kr/news/view/2577411",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420170401Vk7",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
