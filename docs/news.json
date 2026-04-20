@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 03:40:28",
+  "updated": "2026-04-21 03:45:29",
   "total": 200,
   "breaking": 102,
   "items": [
+    {
+      "title": "[속보] Betty Yee 전 CA회계감사관, CA주지사 선거 중도 하차",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493623",
+      "pub_date": "2026-04-21T03:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "미 핀테크 기업 \" 2억 9천만 달러 가상화폐 해킹, 북한 라자루스 소행 추...",
       "link": "https://www.voakorea.com/a/u-s-fintech-firm-layerzero-says-recent-290-million-cryptocurrency-hack-likely-carried-out-by-north-korea-s-lazarus-group-042026/8139591.html",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T18:18:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 변덕에 뿔난 이란 “미국과 추가 협상 없다”",
-      "link": "https://www.munhwa.com/article/11583640?ref=naver",
-      "pub_date": "2026-04-20T18:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
