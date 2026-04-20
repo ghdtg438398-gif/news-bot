@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 04:45:28",
-  "total": 181,
-  "breaking": 98,
+  "updated": "2026-04-21 04:50:31",
+  "total": 177,
+  "breaking": 97,
   "items": [
     {
       "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
@@ -1595,42 +1595,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 긴급 대피",
-      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459002",
-      "pub_date": "2026-04-20T18:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽서 7.4 '강진'에 쓰나미…\"가구 쓰러질 정도\"",
-      "link": "http://www.inews24.com/view/1961893",
-      "pub_date": "2026-04-20T18:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽 해역서 규모 7.5 지진…'최고 80㎝' 쓰나미 관측(종합)",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042018032930454",
-      "pub_date": "2026-04-20T18:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 서영교, 민주당 원내대표 선거 출마…\"입법으로 이재명 정부 성...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729009",
-      "pub_date": "2026-04-20T18:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
