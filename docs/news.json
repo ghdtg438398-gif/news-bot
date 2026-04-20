@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 08:00:38",
-  "total": 166,
-  "breaking": 111,
+  "updated": "2026-04-21 08:05:25",
+  "total": 168,
+  "breaking": 110,
   "items": [
+    {
+      "title": "신장식 \"유의동, 조국 평택 몰라? 본인은 3선하며 뭐했나?\"[한판승부]",
+      "link": "https://www.nocutnews.co.kr/news/6505338?utm_source=naver&utm_medium=article&utm_campaign=20260421080025",
+      "pub_date": "2026-04-21T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "성남시, 단독·다가구주택 1093곳 '상세주소' 부여…'안전·편의' 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513326",
+      "pub_date": "2026-04-21T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[전국 주요 신문 톱뉴스](21일 조간)",
+      "link": "https://www.yna.co.kr/view/AKR20260421017700011?input=1195m",
+      "pub_date": "2026-04-21T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 비트코인 3% 상승, 7만6000달러 회복",
       "link": "https://www.news1.kr/world/usa-canada/6143091",
@@ -40,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.etnews.com/20260421000007",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
+      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1485,15 +1512,6 @@
       "pub_date": "2026-04-20T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “이재명 암살단 모집…총·석궁 준비” SNS에 글 올린 30대男 불...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500260?wlog_tag3=naver",
-      "pub_date": "2026-04-20T22:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
