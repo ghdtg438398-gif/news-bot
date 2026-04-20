@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 00:55:27",
+  "updated": "2026-04-21 01:00:38",
   "total": 200,
-  "breaking": 103,
+  "breaking": 102,
   "items": [
     {
       "title": "[뉴스클레임 사설] 언제까지 미국의 '속국'으로 남을 건가",
@@ -28,6 +28,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "노조원 3명 사상·경찰 부상‥전담수사팀 구성",
+      "link": "https://imnews.imbc.com/replay/2026/nw2500/article/6816726_36989.html",
+      "pub_date": "2026-04-21T00:22:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1792,15 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS, JTBC ‘2026 북중미 월드컵 축구’ 공동중계",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540559&ref=A",
-      "pub_date": "2026-04-20T18:13:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
