@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 08:45:30",
-  "total": 158,
-  "breaking": 89,
+  "updated": "2026-04-21 08:50:27",
+  "total": 149,
+  "breaking": 84,
   "items": [
     {
       "title": "“이재명정권 안보·재정 포퓰리즘”, 국민의힘 “깨끗·유능한 지방정...",
@@ -1342,87 +1342,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오피셜] '2000억 월드컵 중계권' 결론 나왔다…KBS 중계 확정+전현무 깜...",
-      "link": "https://www.xportsnews.com/article/2139317",
-      "pub_date": "2026-04-20T22:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착...",
-      "link": "https://www.mk.co.kr/article/12022290",
-      "pub_date": "2026-04-20T22:48:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “이란, 미국과 2차 협상 참석 ‘긍정적’ 검토 중”<로이터>",
-      "link": "https://www.dt.co.kr/article/12058498?ref=naver",
-      "pub_date": "2026-04-20T22:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 송치영 소공연 회장 “유기준, 선거 뒤 기소돼 봐야 소용없어…...",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302689",
-      "pub_date": "2026-04-20T22:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "https://www.kyeonggi.com/article/20260420580652",
-      "pub_date": "2026-04-20T22:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“쿠웨이트, 호르무즈 봉쇄로 원유수출 ‘불가항력’ 선언”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525102",
-      "pub_date": "2026-04-20T22:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"밴스 등 미국 협상단, 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.newspim.com/news/view/20260420001290",
-      "pub_date": "2026-04-20T22:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
-      "pub_date": "2026-04-20T22:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
-      "pub_date": "2026-04-20T22:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
