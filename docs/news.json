@@ -1,12 +1,66 @@
 {
-  "updated": "2026-04-20 11:15:30",
+  "updated": "2026-04-20 11:20:27",
   "total": 200,
-  "breaking": 139,
+  "breaking": 134,
   "items": [
+    {
+      "title": "\"모두가 청주를 느낄 수 있도록\"",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847388",
+      "pub_date": "2026-04-20T11:18:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 63선...",
+      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
+      "pub_date": "2026-04-20T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
+      "link": "https://www.ajunews.com/view/20260420111147523",
+      "pub_date": "2026-04-20T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA 우승 문턱서 아쉬운 준우승…임진희 공동 2위",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733178",
+      "pub_date": "2026-04-20T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"다시 만나자\"… 술 마시고 전 여자친구 집 찾아간 30대 남성 현행범 체...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524672&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'컴백' 루시, 타이틀곡은 '전체관람가'…독보적 완전체 감성",
       "link": "http://www.joynews24.com/view/1961650",
       "pub_date": "2026-04-20T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[모닝 리포트] 유가 80달러 하단 돌파 시 \"연내 금리인상 없다\"…국고3년...",
+      "link": "https://www.newspim.com/news/view/20260420000498",
+      "pub_date": "2026-04-20T11:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -49,7 +103,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 현대차, 美에 ‘관세 폭탄’ 중복 제외 요청...USTR에 의견서 제...",
+      "title": "[단독] 현대차, 美에 ‘중복 관세’ 제외 요청...“미국서 57만명 먹여살...",
       "link": "https://www.mk.co.kr/article/12021581",
       "pub_date": "2026-04-20T11:06:00+09:00",
       "source_id": "hankyung",
@@ -283,8 +337,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
+      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
+      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -292,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
-      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오늘부터 집중단속···위반 시 '범칙금 6만원'",
-      "link": "https://magazine.hankyung.com/business/article/202604201750b",
-      "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “미 군함에 드론으로 보복 타격” (이란 반관영 매체)",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540073&ref=A",
-      "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 반관영매체 “이란군, 美군함에 드론으로 보복 타격”",
-      "link": "https://www.joongang.co.kr/article/25421560",
-      "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042008413839697",
-      "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090080.html",
-      "pub_date": "2026-04-20T08:42:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[주간 뉴스 브리핑] \"60여 년 낮은 곳 향한 목회자\" 김삼환 목사?",
-      "link": "https://www.newsnjoy.or.kr/news/articleView.html?idxno=400434",
-      "pub_date": "2026-04-20T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
