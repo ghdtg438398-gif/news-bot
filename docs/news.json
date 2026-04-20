@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 14:55:34",
+  "updated": "2026-04-20 15:00:39",
   "total": 200,
-  "breaking": 122,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] 20대 여성 피의자, 경찰조사 대기중 호흡곤란…병원 이송후 사망",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042014505417569",
+      "pub_date": "2026-04-20T14:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "총수 일가 지원 '벌떼 입찰' 의혹…檢, 대방건설 父子 징역 3년 구형",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03608006645418088",
+      "pub_date": "2026-04-20T14:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]정동영 “북핵 심각성 설명하기 위한 것인데 이를 정보 유출로 모...",
       "link": "https://www.kwnews.co.kr/page/view/2026042050073800000",
@@ -13,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
-      "link": "https://www.news1.kr/photos/7865347",
+      "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
+      "link": "https://www.news1.kr/photos/7865350",
       "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
-      "link": "https://www.news1.kr/photos/7865350",
+      "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
+      "link": "https://www.news1.kr/photos/7865347",
       "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,21 +67,21 @@
       "is_scoop": false
     },
     {
-      "title": "[무비053] 다큐멘터리 불모지에서 싹트는 씨앗들, 풀어야 할 과제들",
-      "link": "https://www.newsmin.co.kr/news/131522/",
-      "pub_date": "2026-04-20T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
       "link": "https://biz.heraldcorp.com/article/10721205?ref=naver",
       "pub_date": "2026-04-20T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[무비053] 다큐멘터리 불모지에서 싹트는 씨앗들, 풀어야 할 과제들",
+      "link": "https://www.newsmin.co.kr/news/131522/",
+      "pub_date": "2026-04-20T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -157,7 +175,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]화물연대 집회서 화물차가 조합원 치어 3명 사상...노조車, 경찰 ...",
+      "title": "[속보]화물연대 집회서 화물차가 조합원 치어 3명 사상...노조·경찰 대...",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604200032",
       "pub_date": "2026-04-20T14:37:00+09:00",
       "source_id": "yna",
@@ -202,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://news.tf.co.kr/read/ptoday/2315077.htm",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://news.tf.co.kr/read/ptoday/2315077.htm",
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,6 +265,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
       "pub_date": "2026-04-20T14:29:00+09:00",
@@ -261,15 +288,6 @@
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -409,8 +427,8 @@
       "is_scoop": false
     },
     {
-      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -418,8 +436,8 @@
       "is_scoop": false
     },
     {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 장동혁 \"방미, 논란 충분히 예상했지만 李정부 외교 참사 때문\"",
       "link": "https://www.dailian.co.kr/news/view/1635483/?sc=Naver",
       "pub_date": "2026-04-20T11:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"TSMC, 1.4나노 2028년 양산…2029년 '1나노 이하' 시험생산\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305364?division=NAVER",
-      "pub_date": "2026-04-20T11:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 \"美, 한국에 '필요한 역할' 해주길 바란다는 비공개 요청...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03001206645418088",
-      "pub_date": "2026-04-20T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
