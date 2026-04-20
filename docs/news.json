@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 21:55:27",
+  "updated": "2026-04-20 22:00:46",
   "total": 200,
-  "breaking": 96,
+  "breaking": 95,
   "items": [
+    {
+      "title": "박종원 민주당 담양군수 후보 \"예산 1조 원 시대·AI 농업 중심지로 도약...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200076",
+      "pub_date": "2026-04-20T21:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "이익공유제, 해상풍력 확대를 막는 장애물 될까?",
       "link": "https://www.danbinews.com/news/articleView.html?idxno=32870",
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 동북부 진도 7.4 지진... 쓰나미 경보",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729003",
-      "pub_date": "2026-04-20T17:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
