@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 00:45:46",
+  "updated": "2026-04-21 00:50:32",
   "total": 200,
   "breaking": 103,
   "items": [
@@ -19,6 +19,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미 뉴욕타임스 \"이란 대표단, 화요일에 파키스탄으로 출발\"",
+      "link": "https://www.newspim.com/news/view/20260421000005",
+      "pub_date": "2026-04-21T00:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보] KBS, JTBC ‘2026 북중미 월드컵 축구’ 공동중계",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540559&ref=A",
-      "pub_date": "2026-04-20T18:13:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] JTBC·KBS 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.hankyung.com/article/2026042039327",
       "pub_date": "2026-04-20T18:13:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
