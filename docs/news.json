@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 23:00:41",
+  "updated": "2026-04-20 23:05:27",
   "total": 200,
   "breaking": 105,
   "items": [
+    {
+      "title": "[속보] 트럼프 “밴스 등 美대표단 곧 파키스탄 도착, 오늘 합의”",
+      "link": "https://www.chosun.com/international/us/2026/04/20/ZNXCS22YIZDHXDL6WOHUBVZGPY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T23:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "화물연대 집회 중 차량 사고…조합원 1명 사망·2명 부상, 경찰도 다쳐",
       "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115391",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
+      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
       "pub_date": "2026-04-20T22:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
+      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
       "pub_date": "2026-04-20T22:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,20 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.hankyung.com/article/2026042041957",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
       "link": "http://www.fnnews.com/news/202604202235094339",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.hankyung.com/article/2026042041957",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1789,15 +1798,6 @@
       "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "http://www.inews24.com/view/1961877",
       "pub_date": "2026-04-20T18:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "파주시, '기부금 5억 원' 긴급 투입…복지 사각지대 틈새 메운다",
-      "link": "http://www.breaknews.com/1201566",
-      "pub_date": "2026-04-20T18:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
