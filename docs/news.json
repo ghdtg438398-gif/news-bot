@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 12:20:28",
+  "updated": "2026-04-20 12:25:26",
   "total": 200,
   "breaking": 115,
   "items": [
+    {
+      "title": "[단독]\"분수 넘쳐\"..장항준 '왕사남' 대박 후 절친 윤종신과 첫 동반 예...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042011150080674",
+      "pub_date": "2026-04-20T12:22:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "이재명 대통령, 인도의 '자립 인도'지지 : TOI 인터뷰",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701079",
+      "pub_date": "2026-04-20T12:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 이찬진 원장, 8대 지주 이사회 의장 간담회 '연기'…\"지배구조 개...",
       "link": "https://news.mtn.co.kr/news-detail/2026042011165945978",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
-      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
+      "title": "공무원 성과 '깜깜이' 사라진다…평가 결과 공개 확대",
+      "link": "https://www.nocutnews.co.kr/news/6504892?utm_source=naver&utm_medium=article&utm_campaign=20260420120019",
       "pub_date": "2026-04-20T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "공무원 성과 '깜깜이' 사라진다…평가 결과 공개 확대",
-      "link": "https://www.nocutnews.co.kr/news/6504892?utm_source=naver&utm_medium=article&utm_campaign=20260420120019",
+      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
+      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
       "pub_date": "2026-04-20T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
+      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[HMM50년 돌아보기-19] 글로벌 얼라이언스와 제휴",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604200853151963570d99e4c8_23",
-      "pub_date": "2026-04-20T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미-이란, 휴전 종료 이틀 앞두고 ‘무력 충돌’",
-      "link": "https://www.asiatime.co.kr/article/20260420500033",
-      "pub_date": "2026-04-20T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
