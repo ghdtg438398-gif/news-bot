@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 07:20:28",
+  "updated": "2026-04-21 07:25:25",
   "total": 169,
-  "breaking": 111,
+  "breaking": 110,
   "items": [
+    {
+      "title": "'부실 근무 혐의' 송민호, 오늘 첫 재판 진행…법정 출석 예정",
+      "link": "https://www.sidae.com/article/2026042107190093906",
+      "pub_date": "2026-04-21T07:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.hankyung.com/article/2026042144417",
+      "pub_date": "2026-04-21T07:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604210006",
@@ -193,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 봉납",
-      "link": "https://www.joongang.co.kr/article/25421892",
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260421064429gZG",
       "pub_date": "2026-04-21T06:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260421064429gZG",
+      "title": "[속보] 日다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 봉납",
+      "link": "https://www.joongang.co.kr/article/25421892",
       "pub_date": "2026-04-21T06:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1503,24 +1521,6 @@
       "pub_date": "2026-04-20T21:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.mk.co.kr/article/12022240",
-      "pub_date": "2026-04-20T21:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가…21일 공식 취임",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/20/20260420500258?wlog_tag3=naver",
-      "pub_date": "2026-04-20T21:23:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
