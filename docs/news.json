@@ -1,21 +1,48 @@
 {
-  "updated": "2026-04-20 09:40:25",
+  "updated": "2026-04-20 09:45:28",
   "total": 200,
   "breaking": 136,
   "items": [
     {
-      "title": "[속보]李 국정수행 긍정 65.5%…취임 후 최고-리얼미터",
-      "link": "https://www.munhwa.com/article/11583431?ref=naver",
-      "pub_date": "2026-04-20T09:33:00+09:00",
+      "title": "[속보] 李대통령 지지도 취임 후 최고치…민주 50.5%·국힘 31.4%",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270119",
+      "pub_date": "2026-04-20T09:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란軍 \"미 군함에 드론으로 보복 타격\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119026",
-      "pub_date": "2026-04-20T09:32:00+09:00",
+      "title": "'카스트로프 선발' 묀헨글라트바흐, 이재성 빠진 마인츠와 1-1",
+      "link": "https://www.newspim.com/news/view/20260420000243",
+      "pub_date": "2026-04-20T09:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 거침없는 李 지지율, 65.5% 최고치 경신… “원유 대량 확보 등 ...",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/20/20260420500029?wlog_tag3=naver",
+      "pub_date": "2026-04-20T09:41:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 지지도 취임 후 최고 65.5%…민주 50.5%·국힘 31.4%",
+      "link": "https://economist.co.kr/article/view/ecn202604200009",
+      "pub_date": "2026-04-20T09:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 국정수행 긍정 65.5%…취임 후 최고-리얼미터",
+      "link": "https://www.munhwa.com/article/11583431?ref=naver",
+      "pub_date": "2026-04-20T09:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -28,6 +55,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란軍 \"미 군함에 드론으로 보복 타격\"",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119026",
+      "pub_date": "2026-04-20T09:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -121,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
-      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
+      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +166,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
+      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
+      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031095",
+      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,20 +274,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031095",
+      "pub_date": "2026-04-20T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”…“호르무즈 통제법 곧...",
       "link": "https://www.seoul.co.kr/news/international/middleeast-africa/2026/04/20/20260420500022?wlog_tag3=naver",
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
-      "pub_date": "2026-04-20T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T06:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "中 로봇 마라톤 신기록…자율주행으로 인간 앞서",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420061648rtE",
-      "pub_date": "2026-04-20T06:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 북한 '화성-11라' 미사일 탄두 위력 시험…김정은 참관",
-      "link": "https://news.jtbc.co.kr/article/NB12294889?influxDiv=NAVER",
-      "pub_date": "2026-04-20T06:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]북 \"어제 화성포-11라 전투부위력평가 시험발사\"…김정은 참관",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597387",
-      "pub_date": "2026-04-20T06:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 北, ‘화성-11라’ 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://www.mk.co.kr/article/12021323",
-      "pub_date": "2026-04-20T06:13:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
