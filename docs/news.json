@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-20 12:50:32",
+  "updated": "2026-04-20 12:55:28",
   "total": 200,
-  "breaking": 116,
+  "breaking": 118,
   "items": [
     {
       "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
-      "link": "https://www.mk.co.kr/article/12021649",
-      "pub_date": "2026-04-20T12:47:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
+      "link": "https://www.joongang.co.kr/article/25421610",
+      "pub_date": "2026-04-20T12:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
+      "link": "https://www.dt.co.kr/article/12058338?ref=naver",
+      "pub_date": "2026-04-20T12:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200025",
+      "pub_date": "2026-04-20T12:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -18,6 +36,15 @@
       "pub_date": "2026-04-20T12:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
+      "link": "https://www.mk.co.kr/article/12021649",
+      "pub_date": "2026-04-20T12:47:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -82,6 +109,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이 대통령 “호르무즈해협 선박 안전 통과하도록 인도와 긴밀히 협력”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540387&ref=A",
+      "pub_date": "2026-04-20T12:40:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -211,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
-      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
+      "title": "노동부, 감독 지방 위임 앞두고 지자체와 밀착감독 협업 시동",
+      "link": "https://www.nocutnews.co.kr/news/6504849?utm_source=naver&utm_medium=article&utm_campaign=20260420120017",
       "pub_date": "2026-04-20T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "노동부, 감독 지방 위임 앞두고 지자체와 밀착감독 협업 시동",
-      "link": "https://www.nocutnews.co.kr/news/6504849?utm_source=naver&utm_medium=article&utm_campaign=20260420120017",
+      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
+      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
       "pub_date": "2026-04-20T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
-      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
-      "pub_date": "2026-04-20T09:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, PGA 투어 RBC 헤리티지 단독 3위…시즌 세 번째 톱5 달성",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319518",
-      "pub_date": "2026-04-20T09:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "온코닉테라퓨틱스, AACR 2026에서 '네수파립' 비임상 연구 결과 발표",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111441",
-      "pub_date": "2026-04-20T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'첫 멀티홈런' 박준순, 곰 군단 3번 찾았다",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226192&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-20T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
