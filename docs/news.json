@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 11:20:27",
+  "updated": "2026-04-20 11:25:24",
   "total": 200,
-  "breaking": 134,
+  "breaking": 130,
   "items": [
+    {
+      "title": "경제통계 고도화로 中企 맞춤형 정책 발굴 나선다",
+      "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=113959",
+      "pub_date": "2026-04-20T11:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월20일 10시 돈버는 퀴즈 정답 공개",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532349",
+      "pub_date": "2026-04-20T11:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
+      "pub_date": "2026-04-20T11:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"18번 홀 연장 버디\" 해나 그린, LA 챔피언십 3연패…김세영 연장 패배",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039444",
+      "pub_date": "2026-04-20T11:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 20일 10시 퀴즈 정답 정리",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513009",
+      "pub_date": "2026-04-20T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"모두가 청주를 느낄 수 있도록\"",
       "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847388",
@@ -364,20 +409,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 도박 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.sidae.com/article/2026042010340880509",
-      "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
       "pub_date": "2026-04-20T10:35:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 도박 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.sidae.com/article/2026042010340880509",
+      "pub_date": "2026-04-20T10:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1753,51 +1798,6 @@
       "title": "[속보]이란군 \"美군함 드론으로 보복 타격\"",
       "link": "https://view.asiae.co.kr/article/2026042008461773274",
       "pub_date": "2026-04-20T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란군, 미 군함에 드론으로 보복 타격\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524290&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미 군함에 드론으로 보복 타격\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816502_36925.html",
-      "pub_date": "2026-04-20T08:45:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
-      "link": "https://www.dt.co.kr/article/12058277?ref=naver",
-      "pub_date": "2026-04-20T08:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 반관영매체 \"이란군, 美군함에 드론으로 보복 타격\"",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365761",
-      "pub_date": "2026-04-20T08:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
-      "link": "https://www.sedaily.com/article/20034407?ref=naver",
-      "pub_date": "2026-04-20T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
