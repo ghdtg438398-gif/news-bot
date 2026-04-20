@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 10:40:34",
+  "updated": "2026-04-20 10:45:29",
   "total": 200,
-  "breaking": 136,
+  "breaking": 135,
   "items": [
+    {
+      "title": "\"트럼프는커녕 차관보 만난게 성과?\"…돌아온 장동혁이 직면한 역풍",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370100",
+      "pub_date": "2026-04-20T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420505&PRO_CODE=99",
+      "pub_date": "2026-04-20T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 천방위 압수...",
       "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
@@ -31,6 +49,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
+      "pub_date": "2026-04-20T10:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, '통일교 도박 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.sidae.com/article/2026042010340880509",
       "pub_date": "2026-04-20T10:35:00+09:00",
@@ -45,15 +72,6 @@
       "pub_date": "2026-04-20T10:35:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
-      "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -121,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260420500465",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.ajunews.com/view/20260420101502404",
       "pub_date": "2026-04-20T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ajunews.com/view/20260420101502404",
+      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260420500465",
       "pub_date": "2026-04-20T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,15 +193,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.dailian.co.kr/news/view/1635439/?sc=Naver",
-      "pub_date": "2026-04-20T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]종합특검, ‘통일교 해외도박 수사무마 의혹’ 경찰청 등 압수수...",
       "link": "https://www.khan.co.kr/article/202604201029001",
       "pub_date": "2026-04-20T10:29:00+09:00",
@@ -193,9 +202,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]강원·충남·전북 일부 내일 한파특보…2005년 이래 가장 늦어",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597934",
-      "pub_date": "2026-04-20T10:28:00+09:00",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.dailian.co.kr/news/view/1635439/?sc=Naver",
+      "pub_date": "2026-04-20T10:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -217,6 +226,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]강원·충남·전북 일부 내일 한파특보…2005년 이래 가장 늦어",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597934",
+      "pub_date": "2026-04-20T10:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -649,6 +667,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스퀘어10] 휴전 종료 앞두고 '무력 충돌'...'2차 협상' 열릴까?",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604200950321165",
+      "pub_date": "2026-04-20T09:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스핌 이 시각 PICK] 3선 친명 박찬대 vs 3선 친박 유정복 外",
-      "link": "https://www.newspim.com/news/view/20260420000030",
-      "pub_date": "2026-04-20T07:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 우회전 안 멈추면 바로 6만원…오늘부터 집중단속",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/20/20260420500011?wlog_tag3=naver",
-      "pub_date": "2026-04-20T07:52:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[주간경제일정] 한은, 1분기 성장률 속보치 발표…고유가 충격 우려",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305272?division=NAVER",
-      "pub_date": "2026-04-20T07:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
