@@ -1,11 +1,155 @@
 {
-  "updated": "2026-04-20 09:00:39",
+  "updated": "2026-04-20 09:05:34",
   "total": 200,
-  "breaking": 126,
+  "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042009034433452",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 2.94p(0.25%) 내린 1167.10(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2577121",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 22.00p(0.36%) 오른 6213.92(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2577120",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "물오른 김시우, RBC 헤리티지 단독 3위 마무리… 시즌 3번째 톱5",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931353",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]코스피, 0.36% 오른 6213.92 출발…코스닥은 1167.10",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02325526645418088",
+      "pub_date": "2026-04-20T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 22.00p(0.36%) 오른 6213.92 출발",
+      "link": "http://www.fnnews.com/news/202604200853362268",
+      "pub_date": "2026-04-20T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\" 국영매...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597631",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 1167.10 출발…2.94포인트(0.25%) 하락",
+      "link": "https://www.sidae.com/article/2026042008531499883",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
+      "link": "https://www.ajunews.com/view/20260420085853231",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6213.92…0.36% 올라 6200선 재돌파",
+      "link": "https://www.sidae.com/article/2026042008484917711",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 0.3% 오른 6213.92 출발…코스닥 0.2%↓",
+      "link": "https://news.mtn.co.kr/news-detail/2026042008575740895",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”",
+      "link": "https://biz.heraldcorp.com/article/10720685?ref=naver",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중기부, 중동전쟁 피해 기업에 5,500억 원 유동성 추가 공급",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524313&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美·이란 긴장감 속 코스피, 0.36% 오른 6213.92 출발",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597627",
+      "pub_date": "2026-04-20T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美 군함에 드론으로 보복 타격\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838269",
+      "pub_date": "2026-04-20T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000044.html",
+      "pub_date": "2026-04-20T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국 프로축구 LAFC 0-0 새너제이(전반 종료)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597467",
       "pub_date": "2026-04-20T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,6 +292,15 @@
       "is_scoop": false
     },
     {
+      "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189112",
+      "pub_date": "2026-04-20T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]이란군 \"美군함 드론으로 보복 타격\"",
       "link": "https://view.asiae.co.kr/article/2026042008461773274",
       "pub_date": "2026-04-20T08:46:00+09:00",
@@ -163,15 +316,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189112",
-      "pub_date": "2026-04-20T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -364,8 +508,8 @@
       "is_scoop": false
     },
     {
-      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
-      "link": "http://www.breaknews.com/1201428",
+      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
+      "link": "http://www.breaknews.com/1201414",
       "pub_date": "2026-04-20T08:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -373,8 +517,8 @@
       "is_scoop": false
     },
     {
-      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
-      "link": "http://www.breaknews.com/1201414",
+      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
+      "link": "http://www.breaknews.com/1201428",
       "pub_date": "2026-04-20T08:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -418,6 +562,15 @@
       "is_scoop": false
     },
     {
+      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
+      "pub_date": "2026-04-20T08:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
       "pub_date": "2026-04-20T08:10:00+09:00",
@@ -429,15 +582,6 @@
     {
       "title": "[넥스트-샷] \"분위기 좋았는데\"···호르무즈 재봉쇄, 멀어진 안정",
       "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=252757",
-      "pub_date": "2026-04-20T08:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
       "pub_date": "2026-04-20T08:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1657,150 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420043814ge4",
-      "pub_date": "2026-04-20T04:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
-      "link": "https://www.dt.co.kr/article/12058271?ref=naver",
-      "pub_date": "2026-04-20T04:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420003000071?input=1195m",
-      "pub_date": "2026-04-20T04:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "늑구는 스타가 되길 원치 않는다 [뉴스룸에서]",
-      "link": "https://www.hankookilbo.com/news/article/A2026041815350005348?did=NA",
-      "pub_date": "2026-04-20T04:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[출근길 포인트] 이 대통령, 인도 모디 총리와 오늘 회담… AI·방산 전략...",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=301820",
-      "pub_date": "2026-04-20T04:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란, 2차 평화협상 참여 거부…IRNA",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597373",
-      "pub_date": "2026-04-20T03:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420023356rHL",
-      "pub_date": "2026-04-20T02:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 피로 물든 루이지애나… “가정불화로 어린이·청소년 10명 총격...",
-      "link": "https://www.dt.co.kr/article/12058263?ref=naver",
-      "pub_date": "2026-04-20T02:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “내일 협상” vs 이란 “언론 플레이”… 2차 협상 불투...",
-      "link": "https://www.dt.co.kr/article/12058262?ref=naver",
-      "pub_date": "2026-04-20T02:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 매체 \"2차 회담 보도 사실 아냐, 협상 전망 불투명\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420001400108?input=1195m",
-      "pub_date": "2026-04-20T02:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경의중앙선서 20대 여성이 소화기 난사…경찰, 입원 조치",
-      "link": "https://www.munhwa.com/article/11583375?ref=naver",
-      "pub_date": "2026-04-20T00:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "원주 사설구급차·승용차 사고 …“긴급차 특례 관리·교차로 안전 강화...",
-      "link": "https://www.kwnews.co.kr/page/view/2026041750028800000",
-      "pub_date": "2026-04-20T00:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국민 100명 중 4명이 구독…지역신문 전국화 이정표 우뚝",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045629",
-      "pub_date": "2026-04-20T00:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[선택 2026 강원] 강원 지방의원 8석 늘었다",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045618",
-      "pub_date": "2026-04-20T00:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "강릉경찰 '예비후보 사퇴 협박 의혹' 수사 착수",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045610",
-      "pub_date": "2026-04-20T00:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "울산 남구 종량제봉투 품귀, 소각장 반입량은 줄어",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054473",
-      "pub_date": "2026-04-20T00:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
