@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 00:05:28",
+  "updated": "2026-04-21 00:10:31",
   "total": 200,
   "breaking": 104,
   "items": [
+    {
+      "title": "“공청회 없이 선거구 쪼갰다”⋯원주 우산동 부글부글",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050084700000",
+      "pub_date": "2026-04-21T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "특검, 통일교 도박 첩보 유출 재수사…강원경찰청·춘천경찰서 압색",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045860",
+      "pub_date": "2026-04-21T00:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "춘천시, 소양8교 건립 재도전… 사업비 1300억→ 970억원 조정",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045780",
+      "pub_date": "2026-04-21T00:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[2026 무인 병기: 노스롭 그루먼 'MQ-4C 트리톤'(30)] 호르무즈를 감시한...",
       "link": "https://www.news2day.co.kr/article/20260421500002",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-20T18:11:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "HUG, 중동 피해 건설업 지원…보증료 할인·PF 보증 특례 연장",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540554&ref=A",
-      "pub_date": "2026-04-20T18:11:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 코스피ETF에 웬 코스닥...테마 불일치 ETF '제동'",
-      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200268&t=NNv",
-      "pub_date": "2026-04-20T18:09:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "민희진 향해 비속어 쓰더니...'손해배상' 부메랑 맞은 악플러들 [지금이...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604201809443738",
-      "pub_date": "2026-04-20T18:09:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     }
