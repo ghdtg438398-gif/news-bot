@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-20 10:30:39",
+  "updated": "2026-04-20 10:35:33",
   "total": 200,
-  "breaking": 130,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보] 中 ‘기준금리 역할’ LPR 11개월째 동결…1년물 3.0%·5년물 3.5%",
+      "link": "https://biz.heraldcorp.com/article/10720886?ref=naver",
+      "pub_date": "2026-04-20T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.nocutnews.co.kr/news/6504825?utm_source=naver&utm_medium=article&utm_campaign=20260420103114",
+      "pub_date": "2026-04-20T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
+      "pub_date": "2026-04-20T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "빅토르 오르반의 16년 체제의 종식, 새로운 마자르의 시대가 시작",
+      "link": "http://www.breaknews.com/1201460",
+      "pub_date": "2026-04-20T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.ajunews.com/view/20260420101502404",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260420500465",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
+      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604200125",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '통일교 도박 수사 무마 의혹' 경찰청 압수수색",
+      "link": "https://news.tf.co.kr/read/life/2314914.htm",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]종합특검, '통일교 수사무마 의혹' 경찰청 압수수색 중",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02771606645418088",
@@ -13,9 +94,27 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]종합특검, ‘통일교 해외도박 수사무마 의혹’ 경찰청 등 압수수...",
+      "link": "https://www.khan.co.kr/article/202604201029001",
+      "pub_date": "2026-04-20T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.dailian.co.kr/news/view/1635439/?sc=Naver",
       "pub_date": "2026-04-20T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856803?sid=102",
+      "pub_date": "2026-04-20T10:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -33,15 +132,6 @@
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270168",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856803?sid=102",
       "pub_date": "2026-04-20T10:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,6 +211,24 @@
       "is_scoop": false
     },
     {
+      "title": "수도권 고급빌라 돌며 5억 턴 '복면 절도범' 구속…3년 만에 검거",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524530&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "우리은행-기보 , 중동 전쟁 피해 기업에 2000억원 지원",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48151",
+      "pub_date": "2026-04-20T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3394865",
       "pub_date": "2026-04-20T10:24:00+09:00",
@@ -145,24 +253,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "수도권 고급빌라 돌며 5억 턴 '복면 절도범' 구속…3년 만에 검거",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524530&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "우리은행-기보 , 중동 전쟁 피해 기업에 2000억원 지원",
-      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48151",
-      "pub_date": "2026-04-20T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1708,96 +1798,6 @@
       "title": "[속보] 北, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
       "link": "https://www.etnews.com/20260420000007",
       "pub_date": "2026-04-20T07:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 매체 “2차 회담 보도 사실 아냐, 협상 전망 불투명”",
-      "link": "https://www.etnews.com/20260420000006",
-      "pub_date": "2026-04-20T07:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 “美, 이란상선 발포는 합의 위반…곧 보복”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524913",
-      "pub_date": "2026-04-20T07:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[스타트 경제] 트럼프 \"이란 선박 나포...합의 안하면 파괴\" 최후통첩",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604200734451658",
-      "pub_date": "2026-04-20T07:34:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미군, 오만만에서 이란 상선 나포 공식 확인",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420073216dFT",
-      "pub_date": "2026-04-20T07:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미국 이란 선박 나포에 비트코인 7만4000달러도 붕괴",
-      "link": "https://www.news1.kr/world/usa-canada/6141609",
-      "pub_date": "2026-04-20T07:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 호르무즈 대치에 유가 급등…WTI 6.4%↑·브렌트 6.5%↑",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420073149DL1",
-      "pub_date": "2026-04-20T07:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 \"美, 이란 상선에 발포해 휴전 합의 위반…곧 보복\"",
-      "link": "https://www.nocutnews.co.kr/news/6504683?utm_source=naver&utm_medium=article&utm_campaign=20260420073012",
-      "pub_date": "2026-04-20T07:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.ajunews.com/view/20260420072739097",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "금주 한국은행 및 금융당국(금융위·금감원) 주요 일정",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=566824&class=18&grp=",
-      "pub_date": "2026-04-20T07:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "https://www.etnews.com/20260420000005",
-      "pub_date": "2026-04-20T07:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
