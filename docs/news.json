@@ -1,8 +1,125 @@
 {
-  "updated": "2026-04-20 16:10:33",
+  "updated": "2026-04-20 16:15:36",
   "total": 200,
-  "breaking": 114,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] 정청래 \"민주 광역단체장 후보 현역 의원들 29일 일괄 사퇴\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2315164.htm",
+      "pub_date": "2026-04-20T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.viva100.com/article/20260420501097",
+      "pub_date": "2026-04-20T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 인재영입 1호 전태진, 울산 남갑 공천 예정",
+      "link": "http://www.inews24.com/view/1961810",
+      "pub_date": "2026-04-20T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.ajunews.com/view/20260420152833866",
+      "pub_date": "2026-04-20T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 '전태진' 공천",
+      "link": "https://www.dailian.co.kr/news/view/1635644/?sc=Naver",
+      "pub_date": "2026-04-20T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정청래 \"재보궐 공천, 명망 있는 당내 인사 재배치\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016101556477",
+      "pub_date": "2026-04-20T16:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"할인 넘어 체험·상생으로\"…유통업계, 봄 성수기 마케팅 판 바꾼다",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095204",
+      "pub_date": "2026-04-20T16:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104247",
+      "pub_date": "2026-04-20T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 \"6·3 보궐선거 울산 남갑 후보에 전태진 예정\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000287.html",
+      "pub_date": "2026-04-20T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑에 전태진 공천…재보궐 ‘1호 공천’",
+      "link": "https://www.sedaily.com/article/20034716?ref=naver",
+      "pub_date": "2026-04-20T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.hankyung.com/article/2026042032997",
+      "pub_date": "2026-04-20T16:10:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 \"울산 남갑 보궐선거 후보에 전태진 변호사 전략공천\"",
+      "link": "https://www.hankookilbo.com/news/article/A2026042015540000680?did=NA",
+      "pub_date": "2026-04-20T16:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 \"재보궐 1호 공천, 김상욱 울산남갑에 전태진\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016073238654",
+      "pub_date": "2026-04-20T16:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]與, 울산 남갑에 전태진 변호사 전략공천",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04018006645418088&returntp=election",
@@ -13,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 케이엔에스, 108억 규모 2차전지 설비 공급계약 체결 공시",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568999",
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.yna.co.kr/view/AKR20260420126300001?input=1195m",
       "pub_date": "2026-04-20T16:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
-      "link": "https://www.yna.co.kr/view/AKR20260420126300001?input=1195m",
+      "title": "[속보] 케이엔에스, 108억 규모 2차전지 설비 공급계약 체결 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568999",
       "pub_date": "2026-04-20T16:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]與 \"6·3 보궐선거 울산 남갑 후보에 전태진 예정\"",
+      "title": "[속보]與 \"울산 남갑 보궐선거 후보에 전태진 예정\"",
       "link": "https://www.news1.kr/politics/assembly/6142638",
       "pub_date": "2026-04-20T16:06:00+09:00",
       "source_id": "yna",
@@ -112,6 +229,15 @@
       "is_scoop": true
     },
     {
+      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
+      "link": "https://www.newspim.com/news/view/20260420000935",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
       "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
       "pub_date": "2026-04-20T16:00:00+09:00",
@@ -123,15 +249,6 @@
     {
       "title": "[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험...",
       "link": "https://newstapa.org/article/NWYLD",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
-      "link": "https://www.newspim.com/news/view/20260420000935",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,15 +310,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '골드만삭스 8,000p 상향 전망' 코스피 0.44%↑...6,219.09 마감",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200041",
-      "pub_date": "2026-04-20T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[이슈체크] \"얼마인지도 모른다\"…건자재 가격, '기준 없는 시장' 드러났...",
       "link": "https://www.tfmedia.co.kr/news/article.html?no=203884",
       "pub_date": "2026-04-20T15:50:00+09:00",
@@ -211,9 +319,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유해남 사천시장 예비후보, 경선 결과 승복 선언",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547768",
-      "pub_date": "2026-04-20T15:48:00+09:00",
+      "title": "[속보] '골드만삭스 8,000p 상향 전망' 코스피 0.44%↑...6,219.09 마감",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200041",
+      "pub_date": "2026-04-20T15:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -226,6 +334,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 유해남 사천시장 예비후보, 경선 결과 승복 선언",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547768",
+      "pub_date": "2026-04-20T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -265,6 +382,15 @@
       "is_scoop": false
     },
     {
+      "title": "3위하고도 20억 번 김시우… 특급대회서 시즌 세 번째 톱5 달성",
+      "link": "https://www.segye.com/newsView/20260420513409?OutUrl=naver",
+      "pub_date": "2026-04-20T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]나동연, 국민의힘 양산시장 후보 확정",
       "link": "http://www.yangsanilbo.com/news/articleView.html?idxno=124308",
       "pub_date": "2026-04-20T15:42:00+09:00",
@@ -274,9 +400,9 @@
       "is_scoop": false
     },
     {
-      "title": "3위하고도 20억 번 김시우… 특급대회서 시즌 세 번째 톱5 달성",
-      "link": "https://www.segye.com/newsView/20260420513409?OutUrl=naver",
-      "pub_date": "2026-04-20T15:42:00+09:00",
+      "title": "우승 문턱에서 멈춘 ‘빨간바지 마법’ 김세영 6개월만 통산 14승 눈앞서...",
+      "link": "https://www.segye.com/newsView/20260420513276?OutUrl=naver",
+      "pub_date": "2026-04-20T15:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -289,15 +415,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "우승 문턱에서 멈춘 ‘빨간바지 마법’ 김세영 6개월만 통산 14승 눈앞서...",
-      "link": "https://www.segye.com/newsView/20260420513276?OutUrl=naver",
-      "pub_date": "2026-04-20T15:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1683,123 +1800,6 @@
       "pub_date": "2026-04-20T13:44:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]CU 진주물류센터에서 화물연대 조합원 사망",
-      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320796",
-      "pub_date": "2026-04-20T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 집회서 3명 사상…화물연대 총집결 예고",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705716&code=61121211&cp=nv",
-      "pub_date": "2026-04-20T13:43:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[유통 HOT 뉴스] BAT 사천공장, AI 스마트 지게차 도입…\"현장 안전성 강...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134282",
-      "pub_date": "2026-04-20T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…'심정지' 50대 조합원 사망",
-      "link": "https://www.dailian.co.kr/news/view/1635515/?sc=Naver",
-      "pub_date": "2026-04-20T13:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 “조합원 총집결” 대응",
-      "link": "https://www.viva100.com/article/20260420500748",
-      "pub_date": "2026-04-20T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 집회서 물류차가 노조원 덮쳐… 1명 사망·2명 부상",
-      "link": "https://www.hankookilbo.com/news/article/A2026042013300001281?did=NA",
-      "pub_date": "2026-04-20T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 “대통령실과 민주당의 ‘특별감찰관’ 의도적 불협화음…...",
-      "link": "https://www.segye.com/newsView/20260420509439?OutUrl=naver",
-      "pub_date": "2026-04-20T13:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
-      "link": "https://www.hankyung.com/article/2026042028247",
-      "pub_date": "2026-04-20T13:35:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "윤이나, '커리어 하이' 경신…LPGA투어 LA챔피언십 4위",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065586762069121",
-      "pub_date": "2026-04-20T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524863&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 3명 사상…화물연대 \"조합원 총집결\" 대응",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090175.html",
-      "pub_date": "2026-04-20T13:34:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충청남도, 중동발 위기 장기화 종합 지원 대책 발표",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701085",
-      "pub_date": "2026-04-20T13:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "추신수 ‘코앞까지 성큼’ 오타니… 51G 출루, 亞신기록까지 ‘-1’",
-      "link": "https://www.sportsseoul.com/news/read/1604033?ref=naver",
-      "pub_date": "2026-04-20T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
