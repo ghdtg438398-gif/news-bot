@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 07:11:26",
-  "total": 173,
-  "breaking": 115,
+  "updated": "2026-04-21 07:15:31",
+  "total": 169,
+  "breaking": 111,
   "items": [
+    {
+      "title": "[속보] 일본 다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.dailian.co.kr/news/view/1635779/?sc=Naver",
+      "pub_date": "2026-04-21T07:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日 다카이치, 야스쿠니 공물 봉납...총리 취임후 처음",
+      "link": "https://economist.co.kr/article/view/ecn202604210001",
+      "pub_date": "2026-04-21T07:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.imaeil.com/page/view/2026042107072507527",
@@ -1501,60 +1519,6 @@
       "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
       "link": "https://www.ajunews.com/view/20260420211201221",
       "pub_date": "2026-04-20T21:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 “인도 총리실 주도 ‘韓전담데스크’ 만들어 경제협...",
-      "link": "https://www.mk.co.kr/article/12022238",
-      "pub_date": "2026-04-20T21:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 김포·하남·이천 등 후보 확정…오산·의정부 결선행",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723419",
-      "pub_date": "2026-04-20T21:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042021112331924",
-      "pub_date": "2026-04-20T21:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://biz.heraldcorp.com/article/10721517?ref=naver",
-      "pub_date": "2026-04-20T21:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.fnnews.com/news/202604202109186746",
-      "pub_date": "2026-04-20T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420211120Fkq",
-      "pub_date": "2026-04-20T21:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
