@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 14:35:29",
+  "updated": "2026-04-20 14:40:32",
   "total": 200,
-  "breaking": 119,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://economist.co.kr/article/view/ecn202604200063",
+      "pub_date": "2026-04-20T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.sedaily.com/article/20034640?ref=naver",
+      "pub_date": "2026-04-20T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'뒷심 부족' 김세영, LA 챔피언십서 통한의 연장 패",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365980",
+      "pub_date": "2026-04-20T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]화물연대 집회서 화물차가 조합원 치어 3명 사상...노조 차, 경찰...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200032",
+      "pub_date": "2026-04-20T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 진주 화물연대 집회서 노조 차량이 경찰 바리케이드 돌진…경찰...",
       "link": "https://www.imaeil.com/page/view/2026042014235312398",
@@ -85,15 +121,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
       "link": "https://biz.sbs.co.kr/article_hub/20000305429?division=NAVER",
       "pub_date": "2026-04-20T14:29:00+09:00",
@@ -105,6 +132,15 @@
     {
       "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
       "link": "https://www.dt.co.kr/article/12058377?ref=naver",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,6 +175,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -157,15 +202,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
       "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -173,6 +209,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.etoday.co.kr/news/view/2577293",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 인사청문보고서 채택",
@@ -193,15 +238,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
-      "link": "https://www.etoday.co.kr/news/view/2577293",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
       "link": "http://www.breaknews.com/1201542",
       "pub_date": "2026-04-20T14:26:00+09:00",
@@ -212,19 +248,19 @@
     },
     {
       "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.seoul.co.kr/news/politics/congress/2026/04/20/20260420500136?wlog_tag3=naver",
-      "pub_date": "2026-04-20T14:25:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
       "link": "https://www.mk.co.kr/article/12021737",
       "pub_date": "2026-04-20T14:25:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘딸 여권 논란’ 신현송, 재경위 넘었다… 인사청문보고서 채택",
+      "link": "https://www.seoul.co.kr/news/politics/congress/2026/04/20/20260420500136?wlog_tag3=naver",
+      "pub_date": "2026-04-20T14:25:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -244,6 +280,33 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "우리금융, 생산적·포용금융 속도 높인다…첨단투자·서민지원 병행",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201004",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -271,33 +334,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
-      "pub_date": "2026-04-20T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
-      "pub_date": "2026-04-20T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "우리금융, 생산적·포용금융 속도 높인다…첨단투자·서민지원 병행",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201004",
-      "pub_date": "2026-04-20T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -472,8 +508,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -481,8 +517,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -715,13 +751,13 @@
       "is_scoop": false
     },
     {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "“경질하라” vs “이게 기밀?”",
@@ -733,13 +769,13 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "중단 예고 서부국민체육센터 프로그램 정상 운영 전망",
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
-      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
-      "pub_date": "2026-04-20T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
-      "link": "https://www.ajunews.com/view/20260420111147523",
-      "pub_date": "2026-04-20T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 우승 문턱서 아쉬운 준우승…임진희 공동 2위",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733178",
-      "pub_date": "2026-04-20T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"다시 만나자\"… 술 마시고 전 여자친구 집 찾아간 30대 남성 현행범 체...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524672&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
