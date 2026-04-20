@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 07:10:32",
-  "total": 175,
-  "breaking": 117,
+  "updated": "2026-04-21 07:11:26",
+  "total": 173,
+  "breaking": 115,
   "items": [
     {
       "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
@@ -1555,24 +1555,6 @@
       "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420211120Fkq",
       "pub_date": "2026-04-20T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090385.html",
-      "pub_date": "2026-04-20T21:11:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://view.asiae.co.kr/article/2026042021113381882",
-      "pub_date": "2026-04-20T21:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
