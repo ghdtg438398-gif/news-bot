@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 13:45:31",
+  "updated": "2026-04-20 13:50:31",
   "total": 200,
-  "breaking": 120,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] 진주 물류센터 집회 차사고 3명 사상…화물연대 \"조합원 총집결...",
+      "link": "https://www.ajunews.com/view/20260420103020440",
+      "pub_date": "2026-04-20T13:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁에 아스콘 수급 차질…도로 보수 공사도 중단·지연",
+      "link": "https://www.nocutnews.co.kr/news/6504977?utm_source=naver&utm_medium=article&utm_campaign=20260420014715",
+      "pub_date": "2026-04-20T13:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중단 예고 서부국민체육센터 프로그램 정상 운영 전망",
+      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263045",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "“경질하라” vs “이게 기밀?”",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604200011",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153748",
@@ -22,7 +76,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
+      "title": "[속보] 진주 물류센터 집회서 3명 사상…화물연대 총집결 예고",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705716&code=61121211&cp=nv",
       "pub_date": "2026-04-20T13:43:00+09:00",
       "source_id": "kmib",
@@ -1744,60 +1798,6 @@
       "title": "환경부, 유해화학물질 취급 사업장 400곳 집중 안전점검",
       "link": "https://idsn.co.kr/news/view/1065575754500307",
       "pub_date": "2026-04-20T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란, 합의 안 하면 나라 전체 날아갈 것”…또 초강경...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524937",
-      "pub_date": "2026-04-20T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김어준, '허위·음해'와의 전쟁 선포···10억 들여 민·형사 조치 나선...",
-      "link": "https://www.globale.co.kr/news/articleView.html?idxno=37740",
-      "pub_date": "2026-04-20T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조국 “3표 차로 이길 수 있다고 본다… 제가 더 잘할 수 있다”",
-      "link": "https://www.segye.com/newsView/20260420505540?OutUrl=naver",
-      "pub_date": "2026-04-20T10:18:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 中 '기준금리 역할' LPR 11개월째 동결…1년물 3.0%·5년물 3.5%",
-      "link": "https://www.ajunews.com/view/20260420084810205",
-      "pub_date": "2026-04-20T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, RBC 헤리티지 3위 선전… 상금 20억원 획득",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365763",
-      "pub_date": "2026-04-20T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "BAT 사천공장, AI 스마트 지게차 도입…현장 안전성 강화",
-      "link": "https://www.kpinews.kr/newsView/1065575063295553",
-      "pub_date": "2026-04-20T10:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
