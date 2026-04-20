@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 15:10:32",
+  "updated": "2026-04-20 15:15:30",
   "total": 200,
-  "breaking": 120,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[종합] \"소름 돋을만큼 좋아\"…코르티스 첫 컴백, 'BTS 동생'의 패기+자...",
+      "link": "http://www.joynews24.com/view/1961747",
+      "pub_date": "2026-04-20T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
+      "link": "https://www.xportsnews.com/article/2139148",
+      "pub_date": "2026-04-20T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "압구정 5구역 '도촬' 이어 3구역 '돌발 참여'…DL이앤씨로 향하는 조합원...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
+      "pub_date": "2026-04-20T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 측 \"미국의 긍정 신호 있으면 대표단 파견\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420150610apL",
@@ -211,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 1분기 실적 기대에 4% 급등...'신고가' 경신",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420507&PRO_CODE=99",
+      "title": "[속보] 진주 화물연대 집회서 탑차와 충돌…1명 사망·2명 부상",
+      "link": "https://news.tf.co.kr/read/life/2315099.htm",
       "pub_date": "2026-04-20T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 화물연대 집회서 탑차와 충돌…1명 사망·2명 부상",
-      "link": "https://news.tf.co.kr/read/life/2315099.htm",
+      "title": "[속보] SK하이닉스, 1분기 실적 기대에 4% 급등...'신고가' 경신",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420507&PRO_CODE=99",
       "pub_date": "2026-04-20T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.sedaily.com/article/20034640?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://economist.co.kr/article/view/ecn202604200063",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://economist.co.kr/article/view/ecn202604200063",
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.sedaily.com/article/20034640?ref=naver",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -310,8 +337,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://news.tf.co.kr/read/ptoday/2315077.htm",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -319,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://news.tf.co.kr/read/ptoday/2315077.htm",
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -355,8 +382,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
-      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -364,8 +391,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
+      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
+      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -409,20 +436,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
       "pub_date": "2026-04-20T14:28:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -436,8 +463,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
       "pub_date": "2026-04-20T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -517,8 +544,8 @@
       "is_scoop": false
     },
     {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -526,8 +553,8 @@
       "is_scoop": false
     },
     {
-      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“전쟁 포화 속 중소기업 살린다”… 정부, 5,500억 규모 ‘긴급 혈액’...",
-      "link": "https://www.daily365.news/2026/04/20/%ec%a0%84%ec%9f%81-%ed%8f%ac%ed%99%94-%ec%86%8d-%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85-%ec%82%b4%eb%a6%b0%eb%8b%a4-%ec%a0%95%eb%b6%80-5500%ec%96%b5-%ea%b7%9c%eb%aa%a8/",
-      "pub_date": "2026-04-20T11:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 \"미국, 李대통령의 이스라엘 비판 발언 진위 물어\"",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370122",
-      "pub_date": "2026-04-20T11:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "말레이시아 수상가옥 빈민촌에 큰불...집 1,000여 채 전소 [글로벌이야기...",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237155",
-      "pub_date": "2026-04-20T11:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
