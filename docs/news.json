@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 20:25:27",
+  "updated": "2026-04-20 20:30:34",
   "total": 200,
-  "breaking": 99,
+  "breaking": 98,
   "items": [
+    {
+      "title": "아오모리현 앞바다에서 또 강진‥쓰나미 경보 발령·17만 명 대피",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816686_37004.html",
+      "pub_date": "2026-04-20T20:23:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 김건희 고모-신천지 수상한 거래…윤석열 대통령실 개입 정황 포...",
       "link": "https://news.jtbc.co.kr/article/NB12295053?influxDiv=NAVER",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,15 +157,6 @@
       "is_scoop": false
     },
     {
-      "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
-      "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
-      "pub_date": "2026-04-20T19:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] '김건희 고모-신천지' 부동산 거래…윤 대통령실 개입 정황 녹취",
       "link": "https://news.jtbc.co.kr/article/NB12295010?influxDiv=NAVER",
       "pub_date": "2026-04-20T19:45:00+09:00",
@@ -164,6 +164,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
+      "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T17:14:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보",
-      "link": "https://www.pressian.com/pages/articles/2026042017115844520?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-20T17:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
