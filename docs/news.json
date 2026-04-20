@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 20:30:34",
+  "updated": "2026-04-20 20:35:28",
   "total": 200,
-  "breaking": 98,
+  "breaking": 96,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.hankyung.com/article/2026042040757",
+      "pub_date": "2026-04-20T20:33:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.news1.kr/politics/president/6142985",
+      "pub_date": "2026-04-20T20:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
+      "pub_date": "2026-04-20T20:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "네이버, TCS와 손잡고 14억 인도 시장 공략…AI·클라우드 협력 확대",
+      "link": "http://www.fnnews.com/news/202604201810390468",
+      "pub_date": "2026-04-20T20:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[리포트] 강원 도의원 5명, 시의원 3명.. 의원 수는 늘지만",
+      "link": "https://chmbc.co.kr/article/bnm3l6fVK1JeyIeLXcNs6J",
+      "pub_date": "2026-04-20T20:30:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "아오모리현 앞바다에서 또 강진‥쓰나미 경보 발령·17만 명 대피",
       "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816686_37004.html",
@@ -76,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-20T17:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한-인도 CEPA 개선 협상 재개하기로…장관급 산업협력위 신설",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598741",
-      "pub_date": "2026-04-20T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 韓-인도, 'CEPA 개선협상 재개 공동선언' 등 MOU·협력 문건 15건...",
-      "link": "https://www.news1.kr/politics/president/6142611",
-      "pub_date": "2026-04-20T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.sedaily.com/article/20034751?ref=naver",
-      "pub_date": "2026-04-20T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031231",
-      "pub_date": "2026-04-20T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 테헤란 “미국과 추가 협상 계획 없어”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029707041&code=61131111&cp=nv",
-      "pub_date": "2026-04-20T17:14:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     }
