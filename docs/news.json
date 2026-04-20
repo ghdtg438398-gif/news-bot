@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 08:56:03",
+  "updated": "2026-04-20 09:00:39",
   "total": 200,
-  "breaking": 125,
+  "breaking": 126,
   "items": [
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000044.html",
+      "pub_date": "2026-04-20T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, PGA 투어 RBC 헤리티지 단독 3위",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834004",
+      "pub_date": "2026-04-20T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 美해군, 항공모함 접근 이란군 공격 드론 격추 <로이터>",
+      "link": "https://www.etoday.co.kr/news/view/2577111",
+      "pub_date": "2026-04-20T08:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란군, 미 군함에 드론으로 보복 타격\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294916?influxDiv=NAVER",
+      "pub_date": "2026-04-20T08:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "중동발 '핵폭탄'에 밈 코인 초토화…이틀 만에 투심 완전 붕괴",
       "link": "http://coinreaders.com/231646",
@@ -49,20 +85,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"미국 군함에 드론으로 보복 타격\"<이란 반관영매체>",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189124",
-      "pub_date": "2026-04-20T08:52:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]이란 타스님 통신 “미군 함정 향해 드론 공격”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524918",
       "pub_date": "2026-04-20T08:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"미국 군함에 드론으로 보복 타격\"<이란 반관영매체>",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189124",
+      "pub_date": "2026-04-20T08:52:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
-      "link": "https://www.sedaily.com/article/20034407?ref=naver",
+      "title": "[속보] 이란 반관영매체 \"이란군, 美군함에 드론으로 보복 타격\"",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365761",
       "pub_date": "2026-04-20T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 반관영매체 \"이란군, 美군함에 드론으로 보복 타격\"",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365761",
+      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
+      "link": "https://www.sedaily.com/article/20034407?ref=naver",
       "pub_date": "2026-04-20T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ① 리앤리CC, 개인정보 유출 6개월 뒤 통보...탐지 실패·대응 공...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59082",
-      "pub_date": "2026-04-20T00:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[잡채기 칼럼] '양치기 노인' 트럼프",
-      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061194",
-      "pub_date": "2026-04-20T00:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이재명 대통령 \"중동 전쟁 여파, 한국-인도 중요한 파트너\"",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333872",
-      "pub_date": "2026-04-19T23:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 “美, 해상봉쇄 안풀면 협상단 안보낸다…봉쇄는 휴전 위반...",
-      "link": "https://www.munhwa.com/article/11583373?ref=naver",
-      "pub_date": "2026-04-19T23:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
