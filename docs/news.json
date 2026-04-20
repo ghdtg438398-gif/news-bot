@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 05:55:27",
+  "updated": "2026-04-21 06:00:41",
   "total": 168,
-  "breaking": 104,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260421055617QK5",
+      "pub_date": "2026-04-21T05:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.joongang.co.kr/article/25421887",
+      "pub_date": "2026-04-21T05:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
+      "link": "https://www.hankyung.com/article/202604214319i",
+      "pub_date": "2026-04-21T05:56:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"나 미국 사람이야\" 체류연장 없이 버틴 교포 벌금 500만 원",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525725&plink=ORI&cooper=NAVER",
@@ -49,7 +76,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 다시 막힌 호르무즈, 美증시 하락 마감…나스닥 0.26%↓",
+      "title": "[속보] 다시 막힌 호르무즈, 美증시 소폭 하락…나스닥 0.26%↓",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210100&t=NN",
       "pub_date": "2026-04-21T05:19:00+09:00",
       "source_id": "yna",
@@ -112,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1485,33 +1512,6 @@
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[비하인드 뉴스] \"야당 대표라\" 한계 있었다? 장동혁 주장 따져보니",
-      "link": "https://news.jtbc.co.kr/article/NB12295030?influxDiv=NAVER",
-      "pub_date": "2026-04-20T19:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, 진주 화물연대 조합원 사망사고 전담수사팀 구성",
-      "link": "https://www.newspim.com/news/view/20260420001255",
-      "pub_date": "2026-04-20T19:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국토부, 5월부터 공항시설료 한시 유예…“종합 지원방안 시행”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540754&ref=A",
-      "pub_date": "2026-04-20T19:56:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
