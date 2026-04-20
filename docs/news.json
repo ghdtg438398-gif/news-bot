@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 19:35:28",
+  "updated": "2026-04-20 19:40:31",
   "total": 200,
   "breaking": 110,
   "items": [
+    {
+      "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189310",
+      "pub_date": "2026-04-20T19:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰청 “진주 화물연대 조합원 사망 사고 전담 수사팀 구성”",
+      "link": "https://www.khan.co.kr/article/202604201937001",
+      "pub_date": "2026-04-20T19:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '사용기한 만료 수액' 3살짜리에 투여…책임은 막내 간호사 탓으...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189281",
+      "pub_date": "2026-04-20T19:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "화물연대 집회 중 물류차 막아서다 사고…노조원 1명 사망",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189287",
@@ -40,7 +67,7 @@
       "is_scoop": false
     },
     {
-      "title": "현대건설 '압구정 DH 타운' 한 발 더, 5.6조 규모 3구역 우선협상자 선정...",
+      "title": "현대건설 '압구정 DH 타운' 한 발 더, 5.6조 3구역 수주 우선협상자로 뽑...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436122",
       "pub_date": "2026-04-20T19:20:00+09:00",
       "source_id": "yna",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.dt.co.kr/article/12058452?ref=naver",
-      "pub_date": "2026-04-20T17:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 동쪽 해역 규모 7.4 지진 발생…쓰나미 경보 발령",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525310&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "호주 '싱글세' 연 2000만원…1인 가구 재정 부담 가중 확연",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260420010006067",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
