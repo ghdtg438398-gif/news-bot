@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 10:55:27",
+  "updated": "2026-04-20 11:00:37",
   "total": 200,
-  "breaking": 136,
+  "breaking": 138,
   "items": [
+    {
+      "title": "[속보] 공주 식품업체 화재 발생…주민에 창문 폐쇄·차량 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864103",
+      "pub_date": "2026-04-20T10:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '통일교 원정도박 수사 무마' 의혹 강원경찰청·춘천경찰서 압수...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045668",
+      "pub_date": "2026-04-20T10:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 제주 해상서 중국인 크루즈 승객 추락… “경비함정 동원해 수색...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500069?wlog_tag3=naver",
+      "pub_date": "2026-04-20T10:56:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "호르무즈 해협, 원유 넘어 반도체·석유화학까지 멈춘다…'공정 중단형...",
       "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=41770",
@@ -85,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
-      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
+      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
+      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -113,10 +140,10 @@
     },
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
       "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -131,8 +158,17 @@
     },
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
       "pub_date": "2026-04-20T10:35:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
+      "pub_date": "2026-04-20T10:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -148,9 +184,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
-      "pub_date": "2026-04-20T10:34:00+09:00",
+      "title": "[속보]강은희 대구시교육감 3선 도전 선언",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597889",
+      "pub_date": "2026-04-20T10:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -166,9 +202,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]강은희 대구시교육감 3선 도전 선언",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597889",
-      "pub_date": "2026-04-20T10:33:00+09:00",
+      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
+      "pub_date": "2026-04-20T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -184,21 +220,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
-      "pub_date": "2026-04-20T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "빅토르 오르반의 16년 체제의 종식, 새로운 마자르의 시대가 시작",
       "link": "http://www.breaknews.com/1201460",
       "pub_date": "2026-04-20T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
+      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -234,15 +270,6 @@
       "pub_date": "2026-04-20T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
-      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[넥스트-샷] \"분위기 좋았는데\"···호르무즈 재봉쇄, 멀어진 안정",
-      "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=252757",
-      "pub_date": "2026-04-20T08:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "펜타곤 진호, 서울 팬 콘서트 'Dear. You' 성료",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568846",
-      "pub_date": "2026-04-20T08:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼전, 美 이란 화물선 발포에 프리장서 1%대 하락세 … 하이닉스...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000023.html",
-      "pub_date": "2026-04-20T08:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
