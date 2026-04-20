@@ -1,11 +1,38 @@
 {
-  "updated": "2026-04-20 19:45:29",
+  "updated": "2026-04-20 19:50:30",
   "total": 200,
-  "breaking": 108,
+  "breaking": 106,
   "items": [
     {
-      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
+      "title": "납 초과 검출 DN오토모티브, 4620만원 과태료",
+      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1061946",
+      "pub_date": "2026-04-20T19:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '김건희 고모-신천지' 부동산 거래…윤 대통령실 개입 정황 녹취",
+      "link": "https://news.jtbc.co.kr/article/NB12295010?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
+      "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
       "pub_date": "2026-04-20T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -13,8 +40,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
+      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
       "pub_date": "2026-04-20T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-20T17:07:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '재창이형' → '실장님' 바꾼 속기사 특정...대장동 수사 검사들...",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226494&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029706997&code=61131111&cp=nv",
-      "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.viva100.com/article/20260420501191",
-      "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
