@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 16:35:30",
+  "updated": "2026-04-20 16:40:33",
   "total": 200,
-  "breaking": 121,
+  "breaking": 124,
   "items": [
+    {
+      "title": "[속보] 이란 외무부 \"미국과 추가 협상 계획 없어\"",
+      "link": "https://www.sidae.com/article/2026042016373194538",
+      "pub_date": "2026-04-20T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토중…송영길도 염두\"",
+      "link": "https://www.yna.co.kr/view/AKR20260420133300001?input=1195m",
+      "pub_date": "2026-04-20T16:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
+      "link": "https://www.hankyung.com/article/2026042035037",
+      "pub_date": "2026-04-20T16:36:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주 정청래 \"이광재·송영길 재보궐 전략공천 염두\"",
+      "link": "https://view.asiae.co.kr/article/2026042016351206789",
+      "pub_date": "2026-04-20T16:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366052",
+      "pub_date": "2026-04-20T16:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 외무부 \"미국과 추가 협상 계획 없다\"",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598818",
+      "pub_date": "2026-04-20T16:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
+      "link": "https://www.news1.kr/world/middleeast-africa/6142723",
+      "pub_date": "2026-04-20T16:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"말 맞추자\" 폭행 피해자를 가해자로 몰아…일당 징역형",
       "link": "https://www.nocutnews.co.kr/news/6505163?utm_source=naver&utm_medium=article&utm_campaign=20260420043217",
@@ -22,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 양산 군지산서 산불 발생…\"입산 금지\"",
-      "link": "https://www.ajunews.com/view/20260420162150978",
+      "title": "[속보] 정청래 \"송영길 하남갑 공천, 염두에 두고 있다\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838352",
       "pub_date": "2026-04-20T16:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 \"송영길 하남갑 공천, 염두에 두고 있다\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838352",
+      "title": "[속보] 양산 군지산서 산불 발생…\"입산 금지\"",
+      "link": "https://www.ajunews.com/view/20260420162150978",
       "pub_date": "2026-04-20T16:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,24 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 보이스피싱 돈 전달한 경찰...검찰 ‘징역 5년’ 구형",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420509&PRO_CODE=99",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"민주 광역단체장 후보 현역 의원, 29일 일괄 사퇴\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270293",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 정청래 \"송영길 하납갑 공천? 염두에 두고 있어 … 이광재도 전...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000296.html",
       "pub_date": "2026-04-20T16:24:00+09:00",
@@ -105,6 +150,24 @@
     {
       "title": "[속보] 지아이이노베이션, 전립선암 병용요법 임상 1b/2상 FDA 승인 공시",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569008",
+      "pub_date": "2026-04-20T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 보이스피싱 돈 전달한 경찰...검찰 ‘징역 5년’ 구형",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420509&PRO_CODE=99",
+      "pub_date": "2026-04-20T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 \"민주 광역단체장 후보 현역 의원, 29일 일괄 사퇴\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270293",
       "pub_date": "2026-04-20T16:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,6 +202,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]정청래 “재보궐 1호 공천에 울산 남갑 전태진…이광재·송영길도...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525000",
+      "pub_date": "2026-04-20T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 정청래 \"송영길 공천, 염두에 두고 있다\"",
       "link": "https://news.tf.co.kr/read/ptoday/2315169.htm",
       "pub_date": "2026-04-20T16:21:00+09:00",
@@ -148,12 +220,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정청래 “재보궐 1호 공천에 울산 남갑 전태진…이광재·송영길도...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525000",
-      "pub_date": "2026-04-20T16:21:00+09:00",
+      "title": "\"부도덕 행동 NO\"…최동석, '박지윤 지인' 상대로 상간 소송 7월 재개",
+      "link": "https://www.xportsnews.com/article/2139227",
+      "pub_date": "2026-04-20T16:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -172,15 +244,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"부도덕 행동 NO\"…최동석, '박지윤 지인' 상대로 상간 소송 7월 재개",
-      "link": "https://www.xportsnews.com/article/2139227",
-      "pub_date": "2026-04-20T16:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -220,24 +283,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 양산 군지산 산불 발생…입산 통제, 인근 주민 주의 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864142",
-      "pub_date": "2026-04-20T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
-      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
-      "pub_date": "2026-04-20T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "시흥시, 2차 복지 사각지대 발굴 추진",
       "link": "http://www.breaknews.com/1201645",
       "pub_date": "2026-04-20T16:16:00+09:00",
@@ -253,6 +298,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
+      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
+      "pub_date": "2026-04-20T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 양산 군지산 산불 발생…입산 통제, 인근 주민 주의 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864142",
+      "pub_date": "2026-04-20T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -517,17 +580,8 @@
       "is_scoop": true
     },
     {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
-      "link": "https://www.newspim.com/news/view/20260420000935",
+      "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -544,8 +598,17 @@
       "is_scoop": false
     },
     {
-      "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
+      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
+      "link": "https://www.newspim.com/news/view/20260420000935",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 미래에셋증권 홍콩법인, 中CIS 기업 '지픽셀' IPO 투자",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111436",
-      "pub_date": "2026-04-20T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773547/1",
-      "pub_date": "2026-04-20T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042014151632536",
-      "pub_date": "2026-04-20T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
-      "link": "https://www.mk.co.kr/article/12021719",
-      "pub_date": "2026-04-20T14:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "네이버 해피빈, CJ제일제당과 도서산간 돌봄공백 아동에 한 끼 지원",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048017",
-      "pub_date": "2026-04-20T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598407",
-      "pub_date": "2026-04-20T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한글과컴퓨터, 올해 경영 목표는 \"별도 기준 매출 2000억원\"",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048016",
-      "pub_date": "2026-04-20T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
