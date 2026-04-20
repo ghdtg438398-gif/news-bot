@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 18:20:33",
+  "updated": "2026-04-20 18:25:31",
   "total": 200,
-  "breaking": 125,
+  "breaking": 123,
   "items": [
+    {
+      "title": "김세영, LPGA 연장 접전 끝 준우승",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=908031",
+      "pub_date": "2026-04-20T18:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "R]체육관장, 운동 빌미로 불러내 성폭행‥\"중고생 피해자 더 있어\"",
+      "link": "http://andongmbc.co.kr/adboard/NewsView82015",
+      "pub_date": "2026-04-20T18:22:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"'선당후사' 이광재, 핫플레이스 지역 재보선…송영길도 공천 염두\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298498&inflow=N",
+      "pub_date": "2026-04-20T18:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "신축 타워맨션도 ‘흔들’… 커튼이 바람에 날리듯 흔들려",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029707402&code=61131211&cp=nv",
+      "pub_date": "2026-04-20T18:21:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KBS, 2026 북중미 월드컵 JTBC와 공동 중계",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
+      "pub_date": "2026-04-20T18:20:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
+      "pub_date": "2026-04-20T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중국·몽골 덮친 올봄 ‘최악 황사’ 21일 닥친다…대부분 지역...",
+      "link": "https://www.dt.co.kr/article/12058474?ref=naver",
+      "pub_date": "2026-04-20T18:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] KBS, JTBC '2026 북중미 월드컵' 공동중계",
       "link": "https://www.newsis.com/view/NISX20260420_0003599024",
@@ -22,15 +85,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "성장보다 물가…신현송 한은 총재 해법은?",
       "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
       "pub_date": "2026-04-20T18:16:00+09:00",
@@ -46,6 +100,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -121,20 +184,11 @@
       "is_scoop": false
     },
     {
-      "title": "민희진 향해 비속어 쓰더니...손해배상 물어내게 생긴 악플러들 [지금이...",
+      "title": "민희진 향해 비속어 쓰더니...'손해배상' 부메랑 맞은 악플러들 [지금이...",
       "link": "https://www.ytn.co.kr/_ln/0134_202604201809443738",
       "pub_date": "2026-04-20T18:09:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 해역 규모 7.4 강진…최대 3ｍ 쓰나미 경보 발령",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045762",
-      "pub_date": "2026-04-20T18:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -148,9 +202,9 @@
       "is_scoop": false
     },
     {
-      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
-      "pub_date": "2026-04-20T18:06:00+09:00",
+      "title": "일본 혼슈 해역 규모 7.4 강진…최대 3ｍ 쓰나미 경보 발령",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045762",
+      "pub_date": "2026-04-20T18:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -163,6 +217,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
+      "pub_date": "2026-04-20T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -248,7 +311,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -257,7 +320,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,15 +337,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"장난삼아 올렸다\" 지난 대선 李대통령 협박글 게시한 남성 기소",
-      "link": "https://www.kyeonggi.com/article/20260420580460",
-      "pub_date": "2026-04-20T17:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'세계랭킹 26위' 김시우, RBC 헤리티지 3위로 최고 순위 재점프",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039803",
       "pub_date": "2026-04-20T17:52:00+09:00",
@@ -292,9 +346,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://biz.heraldcorp.com/article/10721450?ref=naver",
-      "pub_date": "2026-04-20T17:50:00+09:00",
+      "title": "[속보] \"장난삼아 올렸다\" 지난 대선 李대통령 협박글 게시한 남성 기소",
+      "link": "https://www.kyeonggi.com/article/20260420580460",
+      "pub_date": "2026-04-20T17:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -319,6 +373,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "https://biz.heraldcorp.com/article/10721450?ref=naver",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 與 “윤석열 정권이 특별감찰관 임명 외면… 감시 체계 스스로 ...",
       "link": "https://www.segye.com/newsView/20260420517079?OutUrl=naver",
       "pub_date": "2026-04-20T17:49:00+09:00",
@@ -337,21 +400,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" (NHK)",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604200208",
-      "pub_date": "2026-04-20T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "국민의힘 재보궐 공천 ‘인물난’…올드보이 카드 꺼내들까 [6·3 재보궐...",
       "link": "https://www.kukinews.com/article/view/kuk202604200186",
       "pub_date": "2026-04-20T17:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" (NHK)",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604200208",
+      "pub_date": "2026-04-20T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 변수에도 버틴 코스피… 하이닉스 기대감에 6200선 회복",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702136",
-      "pub_date": "2026-04-20T16:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 “울산 남구갑에 전태진 변호사 전략공천”",
-      "link": "https://www.mk.co.kr/article/12021924",
-      "pub_date": "2026-04-20T16:44:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김부겸, 대구시장 양자 대결서 모두 승리…金51.5% vs 이진숙 33.4...",
-      "link": "https://www.pressian.com/pages/articles/2026042016425218763?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-20T16:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한동훈 \"김경수 복권시 강력 반대…다시는 선거 나오면 안되는 ...",
-      "link": "https://www.kyeonggi.com/article/20260420580463",
-      "pub_date": "2026-04-20T16:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "만덕~센텀 대심도 빈공간 미발견…부산시, “주기적 탐사 진행”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042016080904079",
-      "pub_date": "2026-04-20T16:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토중…송영길도 염두\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042016394548343",
-      "pub_date": "2026-04-20T16:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토 중…송영길도 염두\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090268.html",
-      "pub_date": "2026-04-20T16:40:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
