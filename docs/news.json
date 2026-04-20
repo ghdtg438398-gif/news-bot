@@ -1,11 +1,200 @@
 {
-  "updated": "2026-04-20 17:25:33",
+  "updated": "2026-04-20 17:30:44",
   "total": 200,
-  "breaking": 131,
+  "breaking": 133,
   "items": [
+    {
+      "title": "[속보] 李대통령 “한·인도 교역 규모 2030년까지 500억달러로 확대”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04339446645418088",
+      "pub_date": "2026-04-20T17:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 “韓기업 인도 조선시장 진출 협력해 나갈 것”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04342726645418088",
+      "pub_date": "2026-04-20T17:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"인도와 에너지·나프타 등 핵심 원자재 협력\"",
+      "link": "https://www.hankyung.com/article/2026042038207",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" < NHK>",
+      "link": "https://www.ajunews.com/view/20260420171104078",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-인도, 조선·금융·AI·국방·방산 전략산업 분야 ...",
+      "link": "https://www.hankyung.com/article/2026042038197",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-인도, 핵심광물·원전·청정에너지 등 전략 분야 협...",
+      "link": "https://www.news1.kr/politics/president/6142671",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
+      "link": "https://www.yna.co.kr/view/AKR20260420143600073?input=1195m",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한·인도 ‘산학협력위원회’ 신설 합의",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04336166645418088",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"지주택 '희망고문' 끊는다\"…토지확보 80% 완화·공사비 검증 의무화",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78198",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이준영의 WE(31회)",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521703",
+      "pub_date": "2026-04-20T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"CEPA 개선…한-인도 교역 2030년 500억 달러 확대\"",
+      "link": "https://www.news1.kr/politics/president/6142679",
+      "pub_date": "2026-04-20T17:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 “한·인도 동반성장 동력 창출키로”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04332886645418088",
+      "pub_date": "2026-04-20T17:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"모디 총리와 '한-인도 전방위적 협력 파트너' 공감\"",
+      "link": "https://www.hankyung.com/article/2026042038187",
+      "pub_date": "2026-04-20T17:27:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령 \"한-인도, 에너지·나프타 안정적 수급 협력 지속\"",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598765",
+      "pub_date": "2026-04-20T17:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"인도와 에너지·나프타 등 핵심 원자재 협력\"",
+      "link": "https://www.news1.kr/politics/president/6142674",
+      "pub_date": "2026-04-20T17:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" [ NHK]",
+      "link": "https://www.hankyung.com/article/2026042038097",
+      "pub_date": "2026-04-20T17:26:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" ＜NHK＞",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525336&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T17:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"모디 총리와 '한-인도 전방위적 협력 파트너' 공감\"",
+      "link": "https://www.news1.kr/politics/president/6142669",
+      "pub_date": "2026-04-20T17:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-인도, 조선·금융·AI·국방·방산 전략산업 분야 ...",
+      "link": "https://www.news1.kr/politics/president/6142670",
+      "pub_date": "2026-04-20T17:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'사냥개들2'로 대박난 비, 본업 복귀 선언 '가수로 재도약하나'",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613195",
+      "pub_date": "2026-04-20T17:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“나랏돈이 내돈이 되는 마법”…종신보험의 유혹",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540527&ref=A",
+      "pub_date": "2026-04-20T17:24:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정청래, “이광재·송영길 재보궐선거 전략 공천 염두” [지금뉴스]",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540531&ref=A",
       "pub_date": "2026-04-20T17:24:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -76,15 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보 발령\"",
-      "link": "https://www.dailian.co.kr/news/view/1635699/?sc=Naver",
-      "pub_date": "2026-04-20T17:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] '21억 차익' 김건희 고모-신천지 수상한 거래…대통령실 개입 정...",
       "link": "https://news.jtbc.co.kr/article/NB12295001?influxDiv=NAVER",
       "pub_date": "2026-04-20T17:19:00+09:00",
@@ -92,6 +272,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보 발령\"",
+      "link": "https://www.dailian.co.kr/news/view/1635699/?sc=Naver",
+      "pub_date": "2026-04-20T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "조합원 4명 사상자 발생…CU 진주 물류 차량 기사 체포",
@@ -193,6 +382,24 @@
       "is_scoop": false
     },
     {
+      "title": "'박지윤과 이혼' 최동석, 상간 소송 불복→오는 7월 2심 재개",
+      "link": "https://www.mhnse.com/news/articleView.html?idxno=531213",
+      "pub_date": "2026-04-20T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "강원·충남 등 일부 지역에 기습 한파…농작물 피해 우려",
+      "link": "https://www.nocutnews.co.kr/news/6505219?utm_source=naver&utm_medium=article&utm_campaign=20260420051117",
+      "pub_date": "2026-04-20T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561700",
       "pub_date": "2026-04-20T17:12:00+09:00",
@@ -226,24 +433,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'박지윤과 이혼' 최동석, 상간 소송 불복→오는 7월 2심 재개",
-      "link": "https://www.mhnse.com/news/articleView.html?idxno=531213",
-      "pub_date": "2026-04-20T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "강원·충남 등 일부 지역에 기습 한파…농작물 피해 우려",
-      "link": "https://www.nocutnews.co.kr/news/6505219?utm_source=naver&utm_medium=article&utm_campaign=20260420051117",
-      "pub_date": "2026-04-20T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -571,8 +760,8 @@
       "is_scoop": true
     },
     {
-      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
+      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -580,8 +769,8 @@
       "is_scoop": false
     },
     {
-      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
+      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1612,195 +1801,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘클러치 박’의 ‘도로공사 리턴’ 초읽기…박정아, 페퍼저축은...",
-      "link": "https://www.segye.com/newsView/20260420513204?OutUrl=naver",
-      "pub_date": "2026-04-20T15:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
-      "pub_date": "2026-04-20T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
-      "pub_date": "2026-04-20T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 4.81p(0.41%) 오른 1174.85(장마감)",
-      "link": "https://www.etoday.co.kr/news/view/2577341",
-      "pub_date": "2026-04-20T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"가상 세계에서 긴급대피 훈련한다\" 항공산업 재편하는 디지털 트윈 플...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=737776",
-      "pub_date": "2026-04-20T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 27.17p(0.44%) 오른 6219.09(장마감)",
-      "link": "https://www.etoday.co.kr/news/view/2577340",
-      "pub_date": "2026-04-20T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.44% 오른 6219.09 마감…코스닥은 1174.85",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03854006645418088",
-      "pub_date": "2026-04-20T15:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
-      "link": "https://www.sidae.com/article/2026042015183820823",
-      "pub_date": "2026-04-20T15:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 1174.85 종료…4.81포인트(0.41%) 상승",
-      "link": "https://www.sidae.com/article/2026042015184162862",
-      "pub_date": "2026-04-20T15:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
-      "link": "https://www.sidae.com/article/2026042015294536419",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
-      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이재영 증평군수 예비후보, ‘장애인이 행복한 증평’ 5대 공약 발표",
-      "link": "http://www.breaknews.com/1201592",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
-      "link": "https://www.ajunews.com/view/20260420152838868",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.44% 오른 6219.09 마감",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598642",
-      "pub_date": "2026-04-20T15:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "가정폭력 피해자 '공공임대주택 우선 입주' 대상 기준 완화",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963024&call_from=naver_news",
-      "pub_date": "2026-04-20T15:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한국정보통신 상한가, 나이스정보통신 급등…VI 발동되기도",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568991",
-      "pub_date": "2026-04-20T15:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 모디 총리와 정상회담 시작…'공급망·경제협력' 논의",
-      "link": "https://www.hankyung.com/article/2026042031307",
-      "pub_date": "2026-04-20T15:29:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고급주택만 골라 턴 '복면 절도범'…수년간 경찰 피한 황당 수법",
-      "link": "https://www.nocutnews.co.kr/news/6505093?utm_source=naver&utm_medium=article&utm_campaign=20260420032716",
-      "pub_date": "2026-04-20T15:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
