@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-20 18:30:31",
+  "updated": "2026-04-20 18:35:27",
   "total": 200,
-  "breaking": 123,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[속보] JTBC, KBS과 합의 마쳤다…북중미 월드컵 공동중계",
+      "link": "https://www.mhnse.com/news/articleView.html?idxno=531316",
+      "pub_date": "2026-04-20T18:34:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "홍명보호 월드컵 여정, KBS서도 본다… JTBC-KBS, 공동중계 합의",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931407",
+      "pub_date": "2026-04-20T18:34:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026년 북중미 월드컵, KBS에서도 본다",
+      "link": "https://www.munhwa.com/article/11583642?ref=naver",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
+      "link": "https://www.newstree.kr/newsView/ntr202604200019",
+      "pub_date": "2026-04-20T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "남구, 분포도서관 문화재단 위탁 보류",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
+      "pub_date": "2026-04-20T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 북중미 월드컵 중계, 지상파 KBS에서도 볼 수 있다",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039819",
+      "pub_date": "2026-04-20T18:32:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260420143651073?input=1195m",
+      "pub_date": "2026-04-20T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"쓰나미, 도망가라! 지금 바로!\"…일본 혼슈 동쪽 해역 강진...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525377&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T18:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“모멸감 줬던 KT 토탈영업TF…해체 후 수습 나섰지만 ‘사과’는 없었...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298448&inflow=N",
@@ -94,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
       "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
       "pub_date": "2026-04-20T18:16:00+09:00",
@@ -114,6 +186,15 @@
     {
       "title": "성장보다 물가…신현송 한은 총재 해법은?",
       "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
+      "title": "김정기 대구시장 권한대행, \"장애인·비장애인 동등한 일상 누리게 하겠...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561720",
       "pub_date": "2026-04-20T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "김정기 대구시장 권한대행, \"장애인·비장애인 동등한 일상 누리게 하겠...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561720",
+      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
       "pub_date": "2026-04-20T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,21 +346,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "http://www.inews24.com/view/1961877",
-      "pub_date": "2026-04-20T18:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'특급대회 3위' 김시우, 세계 26위로 도약…개인 역대 최고",
       "link": "https://www.newspim.com/news/view/20260420001176",
       "pub_date": "2026-04-20T18:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "http://www.inews24.com/view/1961877",
+      "pub_date": "2026-04-20T18:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -310,15 +391,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"인도와 에너지·나프타 협력...중동평화 중요성 공감\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200052",
-      "pub_date": "2026-04-20T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
@@ -330,6 +402,15 @@
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "pub_date": "2026-04-20T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"인도와 에너지·나프타 협력...중동평화 중요성 공감\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200052",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1717,87 +1798,6 @@
       "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
       "link": "https://www.ajunews.com/view/20260420162540987",
       "pub_date": "2026-04-20T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무부 \"현재로선 미국과 2차 협상 계획 없다\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090277.html",
-      "pub_date": "2026-04-20T16:51:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "임종룡 회장 \"생산적·포용금융 속도감 있게 추진\"",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4605642",
-      "pub_date": "2026-04-20T16:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"광역단체장 후보 與의원 29일 일괄사퇴\" 금강벨트 전선 확장",
-      "link": "https://www.joongdo.co.kr/web/view.php?key=20260420010006147",
-      "pub_date": "2026-04-20T16:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702139",
-      "pub_date": "2026-04-20T16:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무부 \"현재로선 미국과 2차 협상 계획 없어···미국, 외...",
-      "link": "https://dgmbc.com/NewsArticle/836155",
-      "pub_date": "2026-04-20T16:48:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전 연인 흉기 협박한 20대 여성, 경찰서에서 쓰러져 숨져",
-      "link": "https://www.kyeonggi.com/article/20260420580466",
-      "pub_date": "2026-04-20T16:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 “‘선당후사’ 이광재 전략공천 검토중…송영길도 염두...",
-      "link": "https://www.viva100.com/article/20260420501165",
-      "pub_date": "2026-04-20T16:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305473?division=NAVER",
-      "pub_date": "2026-04-20T16:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 “현재 미국과 2차 협상 계획 없어”…호르무즈 긴장 속 협...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525007",
-      "pub_date": "2026-04-20T16:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
