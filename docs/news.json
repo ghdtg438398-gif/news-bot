@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 15:45:30",
+  "updated": "2026-04-20 15:50:32",
   "total": 200,
-  "breaking": 120,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] 유해남 사천시장 예비후보, 경선 결과 승복 선언",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547768",
+      "pub_date": "2026-04-20T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[금융 HOT 뉴스] iM금융그룹, 국내 최초 블록체인 선불결제 실증 성공",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134311",
+      "pub_date": "2026-04-20T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "나라셀라, 덕혼 50주년 패키지 GS25 단독 출시…와인에 '한국의 美' 입혔...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513020",
+      "pub_date": "2026-04-20T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "울산시, 올해 '제2회 추경예산 1,989억 원 편성'",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561560",
+      "pub_date": "2026-04-20T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"명당 찾아서\" 깊은 숲속으로…봄철 잇따른 실종신고",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525128&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T15:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "청주시, '열린 여행 해설주간' 운영",
       "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411474",
@@ -49,11 +94,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 0.44% 오른 6,219.09로 마감",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604201540032051",
+      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
       "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -67,20 +112,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
-      "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 원·달러 환율, 6.3원 내린 1477.2원 마감",
       "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/UVOT4C6H25EIDC2JFEKJ57YCPQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-20T15:40:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 0.44% 오른 6,219.09로 마감",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604201540032051",
+      "pub_date": "2026-04-20T15:40:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -94,8 +139,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
+      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
       "pub_date": "2026-04-20T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
+      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
       "pub_date": "2026-04-20T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,15 +184,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
-      "link": "https://www.sidae.com/article/2026042015183820823",
-      "pub_date": "2026-04-20T15:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]코스피, 0.44% 오른 6219.09 마감…코스닥은 1174.85",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03854006645418088",
       "pub_date": "2026-04-20T15:33:00+09:00",
@@ -166,18 +202,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
-      "pub_date": "2026-04-20T15:32:00+09:00",
+      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
+      "link": "https://www.sidae.com/article/2026042015183820823",
+      "pub_date": "2026-04-20T15:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -199,6 +226,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-20T13:07:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189174",
-      "pub_date": "2026-04-20T13:07:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "퍼블리셔 떠나는 중소 게임사들…'홀로서기' 확산, 해법인가 리스크인가",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118813",
-      "pub_date": "2026-04-20T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]정동영 “공개자료 인용을 ‘정보 유출’로 모는 것 유감”···미...",
-      "link": "https://www.khan.co.kr/article/202604201304001",
-      "pub_date": "2026-04-20T13:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042013023978731",
-      "pub_date": "2026-04-20T13:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://www.yna.co.kr/view/AKR20260420084300052?input=1195m",
-      "pub_date": "2026-04-20T13:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
