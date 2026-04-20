@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-21 05:05:29",
-  "total": 181,
-  "breaking": 102,
+  "updated": "2026-04-21 05:10:33",
+  "total": 180,
+  "breaking": 104,
   "items": [
+    {
+      "title": "역대 최대 '50조 감축'…1순위는 교육교부금",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01666246645418416",
+      "pub_date": "2026-04-21T05:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 이란 전쟁 불확실성에 일제히 하락…다우지수 0.01% ↓",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305530?division=NAVER",
+      "pub_date": "2026-04-21T05:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중동 긴장에 미증시 일제 하락… 나스닥 0.26%↓",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029708960&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T05:06:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 이란 전쟁 불확실성에 일제히 하락 마감",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627002",
+      "pub_date": "2026-04-21T05:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'통한의 연장 준우승' 김세영, 세계랭킹 9위↑…임진희 32위로 상승 [LPG...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019907",
@@ -1586,51 +1622,6 @@
       "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰청, \"화물연대 집회 사망 유감…전담수사팀 구성해 엄정 수...",
-      "link": "https://www.news1.kr/society/incident-accident/6142964",
-      "pub_date": "2026-04-20T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"원청 교섭 나서라\"는 시위대에 돌진한 '사측 차량'...1명 사망 3명 부상",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=339537",
-      "pub_date": "2026-04-20T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국토장관, 항공업계와 비상경제 간담회…\"종합 지원방안 시행\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525470&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T19:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
-      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1074496",
-      "pub_date": "2026-04-20T19:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘룰러 논란’ 젠지 측 첫 해명…“조사위 결과에 따라 내부 징...",
-      "link": "https://www.kukinews.com/article/view/kuk202604200053",
-      "pub_date": "2026-04-20T19:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
