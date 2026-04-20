@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 18:45:29",
+  "updated": "2026-04-20 18:50:29",
   "total": 200,
-  "breaking": 116,
+  "breaking": 115,
   "items": [
+    {
+      "title": "日 혼슈 동쪽 해역서 규모 7.5 지진…'최고 80㎝' 쓰나미 관측(종합)",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042018032930454",
+      "pub_date": "2026-04-20T18:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 서영교, 민주당 원내대표 선거 출마…\"입법으로 이재명 정부 성...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729009",
+      "pub_date": "2026-04-20T18:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "이재명 \"인도와 에너지·나프타 수급 협력, 양국 교역 500억 달러로 확대...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436120",
@@ -157,7 +175,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전현무, KBS ‘2026 북중미 월드컵 중계 방송 한다’",
+      "title": "[속보] KBS ‘2026 북중미 월드컵 중계’ 전현무도 함께 한다!",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
       "pub_date": "2026-04-20T18:20:00+09:00",
       "source_id": "kbs",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 양자 대결 '김부겸 49.2%&추경호 35.1%' '김부겸 51.5%&이진숙 33....",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000306.html",
-      "pub_date": "2026-04-20T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "비, 5월 11일 가수 컴백…'사냥개들2' 기세 잇는다",
-      "link": "https://news.jtbc.co.kr/article/NB12294995?influxDiv=NAVER",
-      "pub_date": "2026-04-20T16:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
