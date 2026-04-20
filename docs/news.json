@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 15:50:32",
+  "updated": "2026-04-20 15:55:26",
   "total": 200,
   "breaking": 117,
   "items": [
+    {
+      "title": "[속보] ‘연인 흉기 협박’ 20대女, 경찰서서 호흡곤란 증상 보이다… ...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/20/20260420500184?wlog_tag3=naver",
+      "pub_date": "2026-04-20T15:51:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '골드만삭스 8,000p 상향 전망' 코스피 0.44%↑...6,219.09 마감",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200041",
+      "pub_date": "2026-04-20T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈체크] \"얼마인지도 모른다\"…건자재 가격, '기준 없는 시장' 드러났...",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=203884",
+      "pub_date": "2026-04-20T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 유해남 사천시장 예비후보, 경선 결과 승복 선언",
       "link": "https://www.newsgn.com/news/articleView.html?idxno=547768",
@@ -40,7 +67,7 @@
       "is_scoop": false
     },
     {
-      "title": "\"명당 찾아서\" 깊은 숲속으로…봄철 잇따른 실종신고",
+      "title": "\"고사리 명당\" 깊은 숲속으로…봄철 잇따른 실종신고",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525128&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-20T15:45:00+09:00",
       "source_id": "yna",
@@ -112,20 +139,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 원·달러 환율, 6.3원 내린 1477.2원 마감",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/UVOT4C6H25EIDC2JFEKJ57YCPQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 0.44% 오른 6,219.09로 마감",
       "link": "https://www.ytn.co.kr/_ln/0102_202604201540032051",
       "pub_date": "2026-04-20T15:40:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율, 6.3원 내린 1477.2원 마감",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/UVOT4C6H25EIDC2JFEKJ57YCPQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-20T15:40:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 1174.85 종료…4.81포인트(0.41%) 상승",
-      "link": "https://www.sidae.com/article/2026042015184162862",
+      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
+      "link": "https://www.sidae.com/article/2026042015183820823",
       "pub_date": "2026-04-20T15:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
-      "link": "https://www.sidae.com/article/2026042015183820823",
+      "title": "[속보] 코스닥, 1174.85 종료…4.81포인트(0.41%) 상승",
+      "link": "https://www.sidae.com/article/2026042015184162862",
       "pub_date": "2026-04-20T15:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -220,12 +247,12 @@
       "is_scoop": false
     },
     {
-      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
+      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -238,12 +265,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
+      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -283,21 +310,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한국정보통신 상한가, 나이스정보통신 급등…VI 발동되기도",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568991",
-      "pub_date": "2026-04-20T15:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "가정폭력 피해자 '공공임대주택 우선 입주' 대상 기준 완화",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963024&call_from=naver_news",
       "pub_date": "2026-04-20T15:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한국정보통신 상한가, 나이스정보통신 급등…VI 발동되기도",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568991",
+      "pub_date": "2026-04-20T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시장·기초단체장 공천 ‘그나물에 그밥’",
-      "link": "https://www.naeil.com/news/read/585963?ref=naver",
-      "pub_date": "2026-04-20T13:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…조합원 1명 사망",
-      "link": "https://www.hankyung.com/article/2026042027587",
-      "pub_date": "2026-04-20T13:07:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090171.html",
-      "pub_date": "2026-04-20T13:07:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
