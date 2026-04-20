@@ -1,12 +1,39 @@
 {
-  "updated": "2026-04-20 21:15:38",
+  "updated": "2026-04-20 21:20:31",
   "total": 200,
-  "breaking": 101,
+  "breaking": 102,
   "items": [
+    {
+      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
+      "link": "https://www.ajunews.com/view/20260420211201221",
+      "pub_date": "2026-04-20T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 모디 총리 “인도 총리실 주도 ‘韓전담데스크’ 만들어 경제협...",
+      "link": "https://www.mk.co.kr/article/12022238",
+      "pub_date": "2026-04-20T21:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민주당, 김포·하남·이천 등 후보 확정…오산·의정부 결선행",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723419",
       "pub_date": "2026-04-20T21:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042021112331924",
+      "pub_date": "2026-04-20T21:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -22,9 +49,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042021112331924",
-      "pub_date": "2026-04-20T21:13:00+09:00",
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "http://www.fnnews.com/news/202604202109186746",
+      "pub_date": "2026-04-20T21:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -41,19 +68,28 @@
     },
     {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.fnnews.com/news/202604202109186746",
-      "pub_date": "2026-04-20T21:12:00+09:00",
+      "link": "https://view.asiae.co.kr/article/2026042021113381882",
+      "pub_date": "2026-04-20T21:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://view.asiae.co.kr/article/2026042021113381882",
+      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090385.html",
       "pub_date": "2026-04-20T21:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
+      "pub_date": "2026-04-20T21:10:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -103,20 +139,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 신현송 한은 총재 후보자 임명안 재가",
-      "link": "https://www.joongang.co.kr/article/25421753",
-      "pub_date": "2026-04-20T21:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "https://www.ytn.co.kr/_ln/0101_202604202103242864",
       "pub_date": "2026-04-20T21:03:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가…내일자 발령",
+      "link": "https://www.joongang.co.kr/article/25421753",
+      "pub_date": "2026-04-20T21:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T17:30:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%",
-      "link": "https://www.goodnews1.com/news/articleView.html?idxno=458988",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 “韓기업 인도 조선시장 진출 협력해 나갈 것”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04342726645418088",
-      "pub_date": "2026-04-20T17:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 \"한-인도 교역액 2030년까지 500억달러로 2배 확대\"",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598804",
-      "pub_date": "2026-04-20T17:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “한·인도 교역 규모 2030년까지 500억달러로 확대”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04339446645418088",
-      "pub_date": "2026-04-20T17:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
