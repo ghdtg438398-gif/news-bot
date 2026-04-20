@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 15:00:39",
+  "updated": "2026-04-20 15:05:29",
   "total": 200,
-  "breaking": 121,
+  "breaking": 120,
   "items": [
+    {
+      "title": "'GX국제주간' 김성환 장관 \"'전기 국가' 전환 생존 핵심\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298431&inflow=N",
+      "pub_date": "2026-04-20T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 무신사, 2200원 '가격 오류' 주문 일괄 취소 통보…소비자 반발",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201457337181c808fa9903_23",
+      "pub_date": "2026-04-20T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "쿠팡, ‘마르디 메크르디’ 공식 입점…단독 상품 40종 선봬",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85793",
+      "pub_date": "2026-04-20T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "제조·유통업 경기 짓누르는 중동 리스크...추경 집행도 '최대 속도론'",
+      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316959",
+      "pub_date": "2026-04-20T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성SDI, 벤츠에 첫 배터리 공급…수조원대 추정",
+      "link": "https://www.mt.co.kr/industry/2026/04/20/2026042014593755346",
+      "pub_date": "2026-04-20T15:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[ND 유통] 쿠팡·SK인텔릭스·세라젬·다이소 外",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111462",
+      "pub_date": "2026-04-20T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 20대 여성 피의자, 경찰조사 대기중 호흡곤란…병원 이송후 사망",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042014505417569",
@@ -22,12 +76,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정동영 “북핵 심각성 설명하기 위한 것인데 이를 정보 유출로 모...",
+      "title": "[속보]정동영 “북핵 심각성 설명하기 위한 것을 정보 유출로 모는 것은...",
       "link": "https://www.kwnews.co.kr/page/view/2026042050073800000",
       "pub_date": "2026-04-20T14:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
+      "link": "https://www.news1.kr/photos/7865353",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -42,15 +105,6 @@
     {
       "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
       "link": "https://www.news1.kr/photos/7865347",
-      "pub_date": "2026-04-20T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
-      "link": "https://www.news1.kr/photos/7865353",
       "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +292,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
-      "link": "http://www.sisanews24.co.kr/18545",
+      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -256,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
+      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
+      "link": "http://www.sisanews24.co.kr/18545",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,8 +328,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
+      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
+      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -283,8 +337,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
-      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,15 +382,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
       "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -353,6 +398,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
@@ -652,8 +706,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회서 조합원 1명 사망… 돌진 차량 등 2명 체포",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -661,8 +715,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "[속보] 진주 물류센터 집회서 조합원 1명 사망… 돌진 차량 등 2명 체포",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스특보] 미, 이란 화물선에 첫 발포…이란, 미 군함 보복",
-      "link": "http://www.yonhapnewstv.co.kr/MYH2026042011292393x",
-      "pub_date": "2026-04-20T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
-      "pub_date": "2026-04-20T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
-      "pub_date": "2026-04-20T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "우리금융, 첨단산업 투자·서민금융 병행…자금 공급 확대 나선다",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095198",
-      "pub_date": "2026-04-20T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 “방미 논란 예상했지만 이재명 정권 외교 참사 때문에 미...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524948",
-      "pub_date": "2026-04-20T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 \"방미, 논란 충분히 예상했지만 李정부 외교 참사 때문\"",
-      "link": "https://www.dailian.co.kr/news/view/1635483/?sc=Naver",
-      "pub_date": "2026-04-20T11:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
