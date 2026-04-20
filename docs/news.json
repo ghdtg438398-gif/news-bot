@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 20:45:33",
+  "updated": "2026-04-20 20:50:29",
   "total": 200,
   "breaking": 97,
   "items": [
+    {
+      "title": "[속보]李 “‘구성 핵시설’ 이미 알려져…왜 이런 터무니 없는 일이”",
+      "link": "https://www.munhwa.com/article/11583658?ref=naver",
+      "pub_date": "2026-04-20T20:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 “‘구성 핵시설’ 이미 알려져…정동영 기밀 누설 주...",
       "link": "https://www.sedaily.com/article/20034861?ref=naver",
@@ -196,6 +205,15 @@
       "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[비하인드 뉴스] \"야당 대표라\" 한계 있었다? 장동혁 주장 따져보니",
+      "link": "https://news.jtbc.co.kr/article/NB12295030?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -1784,24 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "지예은♥바타 열애, '런닝맨' 러브라인 깨지고…양세찬 '걸그룹 킬러설...",
-      "link": "https://www.xportsnews.com/article/2139221",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 혼슈 동쪽 해역 규모 7.4 지진…국내 영향 없어",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864146",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
