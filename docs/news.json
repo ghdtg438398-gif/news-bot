@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 14:50:30",
+  "updated": "2026-04-20 14:55:34",
   "total": 200,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보]정동영 “북핵 심각성 설명하기 위한 것인데 이를 정보 유출로 모...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050073800000",
+      "pub_date": "2026-04-20T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
+      "link": "https://www.news1.kr/photos/7865347",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
+      "link": "https://www.news1.kr/photos/7865350",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
+      "link": "https://www.news1.kr/photos/7865353",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호 외치는 '한강버스 OUT! 서울시민 긴급행동'",
+      "link": "https://www.news1.kr/photos/7865345",
+      "pub_date": "2026-04-20T14:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[무비053] 다큐멘터리 불모지에서 싹트는 씨앗들, 풀어야 할 과제들",
+      "link": "https://www.newsmin.co.kr/news/131522/",
+      "pub_date": "2026-04-20T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
+      "link": "https://biz.heraldcorp.com/article/10721205?ref=naver",
+      "pub_date": "2026-04-20T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“지지합니다” vs “퇴출시키자”",
       "link": "https://www.bigtanews.co.kr/article/view/big202604200013",
@@ -40,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 1분기 실적 기대에 4% 급등...'신고가' 경신",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420507&PRO_CODE=99",
+      "title": "[속보] 진주 화물연대 집회서 탑차와 충돌…1명 사망·2명 부상",
+      "link": "https://news.tf.co.kr/read/life/2315099.htm",
       "pub_date": "2026-04-20T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 화물연대 집회서 탑차와 충돌…1명 사망·2명 부상",
-      "link": "https://news.tf.co.kr/read/life/2315099.htm",
+      "title": "[속보] SK하이닉스, 1분기 실적 기대에 4% 급등...'신고가' 경신",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420507&PRO_CODE=99",
       "pub_date": "2026-04-20T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.sedaily.com/article/20034640?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://economist.co.kr/article/view/ecn202604200063",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://economist.co.kr/article/view/ecn202604200063",
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.sedaily.com/article/20034640?ref=naver",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
+      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
+      "link": "http://www.sisanews24.co.kr/18545",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
-      "link": "http://www.sisanews24.co.kr/18545",
+      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,6 +301,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -256,15 +328,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
       "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -272,6 +335,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
+      "link": "http://www.breaknews.com/1201542",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 인사청문보고서 채택",
@@ -298,15 +370,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
-      "link": "http://www.breaknews.com/1201542",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -571,8 +634,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "[속보] 진주 물류센터 집회서 조합원 1명 사망… 돌진 차량 등 2명 체포",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -580,8 +643,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회서 조합원 1명 사망… 돌진 차량 등 2명 체포",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1738,69 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[방산 이슈 진단 (150)] 방산 수출과 연계한 ‘대응구매’ 제도 도입, 제...",
-      "link": "https://www.news2day.co.kr/article/20260420500119",
-      "pub_date": "2026-04-20T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 \"미국, 李 대통령 이스라엘 발언 진위 물어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011252699062",
-      "pub_date": "2026-04-20T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "양산 농수산물유통센터 위탁사 기업회생 신청…정치권 '우려'",
-      "link": "https://www.nocutnews.co.kr/news/6504906?utm_source=naver&utm_medium=article&utm_campaign=20260420112514",
-      "pub_date": "2026-04-20T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 \"방미 결정, 이재명 정권 외교 참사 때문\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294943?influxDiv=NAVER",
-      "pub_date": "2026-04-20T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 \"美, 韓이 동맹 역할 해주길 바라...비공개 요청도 있었다...",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011235641773",
-      "pub_date": "2026-04-20T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[MLS] '손흥민 풀타임' LAFC, 홈에서 새너제이에 1-4 대패",
-      "link": "https://www.newspim.com/news/view/20260420000526",
-      "pub_date": "2026-04-20T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경제통계 고도화로 中企 맞춤형 정책 발굴 나선다",
-      "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=113959",
-      "pub_date": "2026-04-20T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
