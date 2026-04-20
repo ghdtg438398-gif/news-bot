@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 21:00:39",
+  "updated": "2026-04-20 21:05:33",
   "total": 200,
-  "breaking": 96,
+  "breaking": 97,
   "items": [
+    {
+      "title": "[속보]李대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.sedaily.com/article/20034867?ref=naver",
+      "pub_date": "2026-04-20T21:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.hankyung.com/article/2026042040967",
+      "pub_date": "2026-04-20T21:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://www.newspim.com/news/view/20260420001269",
+      "pub_date": "2026-04-20T21:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 “‘구성 핵시설’ 이미 알려져…정동영 기밀 누설 주...",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/20/C3RBEDNF4JDEXNE2OLU2KVOE3M/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-20T21:00:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 신현송 한은 총재 후보자 임명안 재가",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599095",
+      "pub_date": "2026-04-20T21:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '낙제'가 '우수' 둔갑… 정신응급 실태 감춘 복지부 '꼼수 평가'",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042019012226446",
+      "pub_date": "2026-04-20T21:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.news1.kr/politics/president/6142987",
+      "pub_date": "2026-04-20T21:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "대심도 인근 땅꺼짐..\"공사범위 밖 추가 공동 3곳\"",
       "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=284638",
@@ -22,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
+      "title": "청소년, 흡연보다 마약 경험 더 많다",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
       "pub_date": "2026-04-20T20:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "청소년, 흡연보다 마약 경험 더 많다",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
+      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
       "pub_date": "2026-04-20T20:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -73,6 +136,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰 “화물연대 집회 사망, 전담수사팀 구성해 엄정 수사”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540796&ref=A",
+      "pub_date": "2026-04-20T20:41:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -121,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
+      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.news1.kr/politics/president/6142985",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.news1.kr/politics/president/6142985",
+      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,15 +238,6 @@
       "is_scoop": true
     },
     {
-      "title": "아오모리현 앞바다에서 또 강진‥쓰나미 경보 발령·17만 명 대피",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816686_37004.html",
-      "pub_date": "2026-04-20T20:23:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 김건희 고모-신천지 수상한 거래…윤석열 대통령실 개입 정황 포...",
       "link": "https://news.jtbc.co.kr/article/NB12295053?influxDiv=NAVER",
       "pub_date": "2026-04-20T20:23:00+09:00",
@@ -184,9 +247,27 @@
       "is_scoop": true
     },
     {
+      "title": "아오모리현 앞바다에서 또 강진‥쓰나미 경보 발령·17만 명 대피",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816686_37004.html",
+      "pub_date": "2026-04-20T20:23:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "대구시, '제46회 장애인의 날 기념식' 개최",
       "link": "https://www.dkilbo.com/news/articleView.html?idxno=541750",
       "pub_date": "2026-04-20T20:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, CU 진주물류센터 집회 사망사고 전담수사팀 구성",
+      "link": "https://www.ajunews.com/view/20260420201310201",
+      "pub_date": "2026-04-20T20:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -202,9 +283,9 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, CU 진주물류센터 집회 사망사고 전담수사팀 구성",
-      "link": "https://www.ajunews.com/view/20260420201310201",
-      "pub_date": "2026-04-20T20:18:00+09:00",
+      "title": "[국회 상임위 리포트①] 가스공사 미수금 14조…'요금 동결 4년'의 청구...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729021",
+      "pub_date": "2026-04-20T20:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -217,15 +298,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[국회 상임위 리포트①] 가스공사 미수금 14조…'요금 동결 4년'의 청구...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729021",
-      "pub_date": "2026-04-20T20:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1729,78 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"인도와 에너지·나프타 등 핵심 원자재 협력\"",
-      "link": "https://www.news1.kr/politics/president/6142674",
-      "pub_date": "2026-04-20T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" [ NHK]",
-      "link": "https://www.hankyung.com/article/2026042038097",
-      "pub_date": "2026-04-20T17:26:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'사냥개들2'로 대박난 비, 본업 복귀 선언 '가수로 재도약하나'",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613195",
-      "pub_date": "2026-04-20T17:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" ＜NHK＞",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525336&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T17:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"모디 총리와 '한-인도 전방위적 협력 파트너' 공감\"",
-      "link": "https://www.news1.kr/politics/president/6142669",
-      "pub_date": "2026-04-20T17:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-인도, 조선·금융·AI·국방·방산 전략산업 분야 ...",
-      "link": "https://www.news1.kr/politics/president/6142670",
-      "pub_date": "2026-04-20T17:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정청래 대표, “이광재·송영길 재보궐선거 전략 공천 염두” [지금뉴스...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540531&ref=A",
-      "pub_date": "2026-04-20T17:24:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“나랏돈이 내돈이 되는 마법”…종신보험의 유혹",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540527&ref=A",
-      "pub_date": "2026-04-20T17:24:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
