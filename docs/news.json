@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 19:40:31",
+  "updated": "2026-04-20 19:45:29",
   "total": 200,
-  "breaking": 110,
+  "breaking": 108,
   "items": [
+    {
+      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
+      "pub_date": "2026-04-20T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
+      "pub_date": "2026-04-20T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189310",
@@ -1780,24 +1798,6 @@
       "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
       "link": "https://www.viva100.com/article/20260420501191",
       "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.mk.co.kr/article/12021961",
-      "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042017045401945",
-      "pub_date": "2026-04-20T17:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
