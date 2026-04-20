@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 19:10:33",
+  "updated": "2026-04-20 19:15:30",
   "total": 200,
-  "breaking": 113,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 경찰청, \"화물연대 집회 사망 유감…전담수사팀 구성해 엄정 수...",
+      "link": "https://www.hankyung.com/article/2026042039877",
+      "pub_date": "2026-04-20T19:12:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰청, \"화물연대 집회 사망 유감…전담수사팀 구성해 엄정 수...",
+      "link": "https://www.news1.kr/society/incident-accident/6142964",
+      "pub_date": "2026-04-20T19:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"원청 교섭 나서라\"는 시위대에 돌진한 '사측 차량'...1명 사망 3명 부상",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=339537",
+      "pub_date": "2026-04-20T19:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국토장관, 항공업계와 비상경제 간담회…\"종합 지원방안 시행\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525470&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T19:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
       "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1074496",
@@ -37,6 +73,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"쓰나미! 도망가!\" 규모 7.5 강진...일본 총리 '긴급 기자회...",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604201902454896",
+      "pub_date": "2026-04-20T19:02:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -148,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "2026년 북중미 월드컵, KBS에서도 본다",
-      "link": "https://www.munhwa.com/article/11583642?ref=naver",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
       "link": "https://www.newsis.com/view/NISX20260420_0003599022",
       "pub_date": "2026-04-20T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026년 북중미 월드컵, KBS에서도 본다",
+      "link": "https://www.munhwa.com/article/11583642?ref=naver",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -256,20 +301,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
-      "pub_date": "2026-04-20T18:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] KBS ‘2026 북중미 월드컵 중계’ 전현무도 함께 한다!",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
       "pub_date": "2026-04-20T18:20:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
+      "pub_date": "2026-04-20T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 산리쿠 앞바다 규모 7.4 지진…태평양 연안 쓰나미 경보",
-      "link": "https://www.news1.kr/world/northeast-asia/6142794",
-      "pub_date": "2026-04-20T17:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] LH '고양창릉 3기신도시' 토양오염 조사 '패싱' 논란",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834111",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] ① 신안군 조경·미술관 사업, '쪼개기 계약·가짜 기증' 의혹 확...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59083",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "에이블리, 첫 뷰티 PB '바이블리' 론칭…1020 취향 정조준",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513006",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "與 \"영입인재 1호 전태진, 울산 남구갑 전략공천\"",
-      "link": "https://www.ajunews.com/view/20260420164114013",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
