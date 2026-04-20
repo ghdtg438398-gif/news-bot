@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 10:20:30",
+  "updated": "2026-04-20 10:25:32",
   "total": 200,
-  "breaking": 129,
+  "breaking": 128,
   "items": [
+    {
+      "title": "우리은행-기보 , 중동 전쟁 피해 기업에 2000억원 지원",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48151",
+      "pub_date": "2026-04-20T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
+      "link": "https://www.joongang.co.kr/article/25421576",
+      "pub_date": "2026-04-20T10:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.hankyung.com/article/2026042023047",
+      "pub_date": "2026-04-20T10:22:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]中, 기준금리 1년물 LPR 3.0% 5년물 3.5%…11개월째 동결",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597914",
+      "pub_date": "2026-04-20T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.yna.co.kr/view/AKR20260420052300004?input=1195m",
+      "pub_date": "2026-04-20T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 “이란, 합의 안 하면 나라 전체 날아갈 것”…또 초강경...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524937",
@@ -76,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597880",
+      "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
       "pub_date": "2026-04-20T10:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
+      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597880",
       "pub_date": "2026-04-20T10:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,12 +202,12 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
+      "title": "[인포맥스 POLL] 1분기 GDP 전기비 0.9%↑…전년비 2.7%↑",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410465",
       "pub_date": "2026-04-20T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -175,12 +220,12 @@
       "is_scoop": false
     },
     {
-      "title": "[인포맥스 POLL] 1분기 GDP 전기비 0.9%↑…전년비 2.7%↑",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410465",
+      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
       "pub_date": "2026-04-20T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-20T07:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것",
-      "link": "https://economist.co.kr/article/view/ecn202604200001",
-      "pub_date": "2026-04-20T07:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 “美 상선 공격은 협정 위반, 곧 보복할것” 경고",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01856486645418088",
-      "pub_date": "2026-04-20T07:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미국 이란 화물선 나포, 국제유가 8% 폭등 출발",
-      "link": "https://www.news1.kr/world/usa-canada/6141589",
-      "pub_date": "2026-04-20T07:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미국 이란 선박 나포, 지수선물 일제 급락…나스닥 %↓",
-      "link": "https://www.news1.kr/world/usa-canada/6141590",
-      "pub_date": "2026-04-20T07:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미국, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604200707083301",
-      "pub_date": "2026-04-20T07:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
