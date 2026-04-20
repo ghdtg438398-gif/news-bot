@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 23:30:36",
+  "updated": "2026-04-20 23:35:29",
   "total": 200,
   "breaking": 104,
   "items": [
+    {
+      "title": "[자정 뉴스브리핑] 레이어제로, KelpDAO 관련 약 2억9천만달러 보안 사고...",
+      "link": "https://www.tokenpost.kr/news/briefing/351511",
+      "pub_date": "2026-04-20T23:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 타워크레인노조 '원청 교섭' 첫인정…건설업계 파장 예고",
       "link": "https://www.hankyung.com/article/202604204149i",
@@ -220,20 +229,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.hankyung.com/article/2026042041957",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
       "link": "http://www.fnnews.com/news/202604202235094339",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.hankyung.com/article/2026042041957",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1789,15 +1798,6 @@
       "title": "일본 혼슈 해역 규모 7.4 강진…최대 3ｍ 쓰나미 경보 발령",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045762",
       "pub_date": "2026-04-20T18:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김정기 대구시장 권한대행, \"장애인·비장애인 동등한 일상 누리게 하겠...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561720",
-      "pub_date": "2026-04-20T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
