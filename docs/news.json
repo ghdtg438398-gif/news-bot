@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 11:05:29",
+  "updated": "2026-04-20 11:10:32",
   "total": 200,
   "breaking": 139,
   "items": [
+    {
+      "title": "[산업 HOT 뉴스] 한컴, 올해 매출 2000억 만든다…\"수익구조 전환 본격 ...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134263",
+      "pub_date": "2026-04-20T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 현대차, 美에 ‘관세 폭탄’ 중복 제외 요청...USTR에 의견서 제...",
+      "link": "https://www.mk.co.kr/article/12021581",
+      "pub_date": "2026-04-20T11:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 특검, ‘통일교 수사 무마 의혹’ 관련 경찰청 압수수색",
+      "link": "https://www.mk.co.kr/article/12021579",
+      "pub_date": "2026-04-20T11:06:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[쇼츠뉴스] 전예성, 대상·상금 선두…KLPGA투어 넥센·세인트나인 마스...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=179545803173787",
+      "pub_date": "2026-04-20T11:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김세영·임진희, LPGA 투어 LA 챔피언십 연장 접전 끝에 준우승",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834045",
@@ -148,6 +184,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]종합특검 ‘통일교 해외 원정도박’ 관련 강원경찰청·춘천경찰서...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050034400000",
+      "pub_date": "2026-04-20T10:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524944",
       "pub_date": "2026-04-20T10:48:00+09:00",
@@ -202,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
-      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
+      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
+      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스특보] 미군, 이란 상선 나포…이란군, 美함정 공격",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420083047QIP",
-      "pub_date": "2026-04-20T08:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 화물선 나포해 구멍 낸 美에 이란 \"휴전 위반·곧 보복\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042008295754270",
-      "pub_date": "2026-04-20T08:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[PGA] 김시우, 특급대회 RBC 헤리티지 단독 3위... 시즌 세 번째 '톱5'",
-      "link": "https://www.newspim.com/news/view/20260420000081",
-      "pub_date": "2026-04-20T08:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독확인] 43년 운전경력 기자가 직접 몰았다! 중국산 전기차 BYD 시승...",
-      "link": "http://www.breaknews.com/1201417",
-      "pub_date": "2026-04-20T08:26:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 민주 \"장기보유특별공제 폐지 등 세제 개편 검토한 바 없어\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2314796.htm",
-      "pub_date": "2026-04-20T08:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
