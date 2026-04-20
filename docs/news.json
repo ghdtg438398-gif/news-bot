@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 19:00:41",
+  "updated": "2026-04-20 19:05:26",
   "total": 200,
-  "breaking": 115,
+  "breaking": 114,
   "items": [
+    {
+      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
+      "link": "http://www.fnnews.com/news/202604201849060665",
+      "pub_date": "2026-04-20T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "현대건설, 압구정3구역 재건축 우선협상대상자로 선정",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410580",
+      "pub_date": "2026-04-20T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 이와테현 동쪽 해역서 규모 7.5 강진 발생",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604201857417623",
+      "pub_date": "2026-04-20T18:57:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "日혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 신칸센 운행 중단",
       "link": "https://www.nocutnews.co.kr/news/6505315?utm_source=naver&utm_medium=article&utm_campaign=20260420065518",
@@ -94,15 +121,6 @@
       "is_scoop": false
     },
     {
-      "title": "2026년 북중미 월드컵, KBS에서도 본다",
-      "link": "https://www.munhwa.com/article/11583642?ref=naver",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
       "link": "https://www.newsis.com/view/NISX20260420_0003599022",
       "pub_date": "2026-04-20T18:33:00+09:00",
@@ -112,8 +130,17 @@
       "is_scoop": false
     },
     {
-      "title": "남구, 분포도서관 문화재단 위탁 보류",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
+      "title": "2026년 북중미 월드컵, KBS에서도 본다",
+      "link": "https://www.munhwa.com/article/11583642?ref=naver",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
+      "link": "https://www.newstree.kr/newsView/ntr202604200019",
       "pub_date": "2026-04-20T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
-      "link": "https://www.newstree.kr/newsView/ntr202604200019",
+      "title": "남구, 분포도서관 문화재단 위탁 보류",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
       "pub_date": "2026-04-20T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "성장보다 물가…신현송 한은 총재 해법은?",
       "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
       "pub_date": "2026-04-20T18:16:00+09:00",
@@ -262,15 +298,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1775,33 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘, 경기지사 4인 경선 확정…5월 2일 후보 발표 ‘원샷 승부’",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04221366645418088",
-      "pub_date": "2026-04-20T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "지주택 토지 확보 95→80% 완화…“정상 사업 속도 높이고, 부실 조합은...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540495&ref=A",
-      "pub_date": "2026-04-20T16:55:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 예보, 하나저축은행 3년 연속 적자에 검사 착수…'턴어라운드' 발...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513188",
-      "pub_date": "2026-04-20T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
