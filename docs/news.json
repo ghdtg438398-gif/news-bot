@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 08:30:31",
-  "total": 161,
-  "breaking": 97,
+  "updated": "2026-04-21 08:35:26",
+  "total": 159,
+  "breaking": 95,
   "items": [
+    {
+      "title": "[속보]애플, '팀 쿡' 시대 끝난다...대대적 세대교체",
+      "link": "https://magazine.hankyung.com/business/article/202604214678b",
+      "pub_date": "2026-04-21T08:34:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중동 협상 불확실성에도 삼전·SK하닉 프리장 1~2% 강세",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/21/2026042100035.html",
+      "pub_date": "2026-04-21T08:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"용산에서 전화가..\" 김건희 고모 공장 거래 '수상한 흐름'",
+      "link": "https://news.jtbc.co.kr/article/NB12295080?influxDiv=NAVER",
+      "pub_date": "2026-04-21T08:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "정부, 항공사 공항시설 사용료 납부 한시 유예",
       "link": "https://www.nocutnews.co.kr/news/6505398?utm_source=naver&utm_medium=article&utm_campaign=20260421082825",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
+      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.etnews.com/20260421000007",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1405,51 +1432,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓”",
-      "link": "https://biz.heraldcorp.com/article/10721534?ref=naver",
-      "pub_date": "2026-04-20T22:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕 증시, 美·이란 긴장 재고조로 하락 출발…다우지수 0.1%↓",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599150",
-      "pub_date": "2026-04-20T22:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 끝내 믿을만한 獨 빌트 떴다! \"김민재, 뮌헨 떠나 튀르키예 안 간...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811700",
-      "pub_date": "2026-04-20T22:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
-      "pub_date": "2026-04-20T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "종전인가, 확전인가…2차 협상 앞두고 美 협상단은 파키스탄으로 [뉴스...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525100",
-      "pub_date": "2026-04-20T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
