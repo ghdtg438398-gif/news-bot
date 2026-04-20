@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-20 11:00:37",
+  "updated": "2026-04-20 11:05:29",
   "total": 200,
-  "breaking": 138,
+  "breaking": 139,
   "items": [
+    {
+      "title": "김세영·임진희, LPGA 투어 LA 챔피언십 연장 접전 끝에 준우승",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834045",
+      "pub_date": "2026-04-20T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 충남 공주·금산 등에 사상 첫 4월 하순 한파특보… 황사도 유입",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270202",
+      "pub_date": "2026-04-20T11:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "톱5 중 한국인만 4명인데 우승 놓쳤다… 김세영-임진희, 연장전 끝 준우...",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931368",
+      "pub_date": "2026-04-20T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 20일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604200021",
+      "pub_date": "2026-04-20T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 자율주행 로봇 ‘뉴비’ 주역 軍 입대…회사도 변신 나선다",
+      "link": "https://www.mk.co.kr/article/12021569",
+      "pub_date": "2026-04-20T11:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 나경원 “정동영 즉각 해임해야... 북한 기밀 생중계로 유출”",
+      "link": "https://www.kyeonggi.com/article/20260420580042",
+      "pub_date": "2026-04-20T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "유입 위험 높아지는 해외 병해충…맞춤형 검역 강화 추진",
+      "link": "https://www.nocutnews.co.kr/news/6504857?utm_source=naver&utm_medium=article&utm_campaign=20260420110016",
+      "pub_date": "2026-04-20T11:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 제주서 중국 향하던 크루즈서 20대 중국인 바다로 추락…해경 수...",
+      "link": "https://www.dt.co.kr/article/12058320?ref=naver",
+      "pub_date": "2026-04-20T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "BAT 사천공장, AI 스마트 지게차 도입해 현장 안전 강화",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85778",
+      "pub_date": "2026-04-20T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[LPGA] 다잡은 통산 14승 놓친 김세영...맹추격 임진희도 통산 2승 불발",
+      "link": "https://www.newspim.com/news/view/20260420000449",
+      "pub_date": "2026-04-20T10:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 공주 식품업체 화재 발생…주민에 창문 폐쇄·차량 우회 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864103",
@@ -112,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
+      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
+      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
-      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -140,10 +230,10 @@
     },
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
       "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -158,17 +248,8 @@
     },
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
       "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
-      "pub_date": "2026-04-20T10:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -180,6 +261,15 @@
       "pub_date": "2026-04-20T10:34:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
+      "pub_date": "2026-04-20T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,6 +292,15 @@
       "is_scoop": false
     },
     {
+      "title": "빅토르 오르반의 16년 체제의 종식, 새로운 마자르의 시대가 시작",
+      "link": "http://www.breaknews.com/1201460",
+      "pub_date": "2026-04-20T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
       "pub_date": "2026-04-20T10:32:00+09:00",
@@ -217,15 +316,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "빅토르 오르반의 16년 체제의 종식, 새로운 마자르의 시대가 시작",
-      "link": "http://www.breaknews.com/1201460",
-      "pub_date": "2026-04-20T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -400,7 +490,7 @@
       "is_scoop": false
     },
     {
-      "title": "수도권 고급빌라 돌며 5억 턴 '복면 절도범' 구속…3년 만에 검거",
+      "title": "야산 앞에 있는 집만 골랐다…3년 만에 잡힌 절도범",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524530&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-20T10:24:00+09:00",
       "source_id": "yna",
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "양주 가구 공장서 화재...진화 작업 중 '건물 2개 동 전소'",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3560915",
-      "pub_date": "2026-04-20T08:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'아쉬운 18번 홀' 김시우, RBC 헤리티지 3위…시즌 세 번째 톱5",
-      "link": "https://www.nocutnews.co.kr/news/6504703?utm_source=naver&utm_medium=article&utm_campaign=20260420082213",
-      "pub_date": "2026-04-20T08:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
-      "link": "http://www.breaknews.com/1201414",
-      "pub_date": "2026-04-20T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
-      "link": "http://www.breaknews.com/1201428",
-      "pub_date": "2026-04-20T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선에 발포는 휴전합의 위반 … 곧 보복할 것\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000030.html",
-      "pub_date": "2026-04-20T08:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 지지율 65.5%…취임 후 최고치 [리얼미터]",
-      "link": "https://www.mk.co.kr/article/12021358",
-      "pub_date": "2026-04-20T08:20:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[주간경제전망]이창용 총재 퇴임…1분기 GDP·SK하이닉스 실적 발표",
-      "link": "https://www.sidae.com/article/2026041714280926313",
-      "pub_date": "2026-04-20T08:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[미장브리핑] 미·이란 2차 협상…22일 테슬라 1분기 실적 발표",
-      "link": "https://zdnet.co.kr/view/?no=20260420081617",
-      "pub_date": "2026-04-20T08:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미국 루이지애나주 주택 총격 사건…어린이·청소년 8명 사망",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189090",
-      "pub_date": "2026-04-20T08:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美, 이란 선박 발포·나포…트럼프 \"기관실에 구멍\"[뉴스새벽배송]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02017206645418088",
-      "pub_date": "2026-04-20T08:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
