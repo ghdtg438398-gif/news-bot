@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 11:45:29",
+  "updated": "2026-04-20 11:50:32",
   "total": 200,
-  "breaking": 123,
+  "breaking": 121,
   "items": [
+    {
+      "title": "[속보] '빠른 결단' 대구FC, 김병수 감독 경질···최성용 수석코치 감...",
+      "link": "https://dgmbc.com/NewsArticle/836086",
+      "pub_date": "2026-04-20T11:47:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전북 주유소 평균 경유 가격 리터당 2,000원 근접",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64070",
+      "pub_date": "2026-04-20T11:46:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴공 아카이브]강은호 전 방위사업청장·전북대 첨단방위산업학과 교수...",
+      "link": "http://www.ddanzi.com/879301743",
+      "pub_date": "2026-04-20T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "굿네이버스·경기도교육청 맞손…경인교대 참여 ‘위기학생 지원’ 확대",
+      "link": "http://www.joynews24.com/view/1961659",
+      "pub_date": "2026-04-20T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "퍼주기 공약의 악성 진화[뉴스와 시각]",
+      "link": "https://www.munhwa.com/article/11583497?ref=naver",
+      "pub_date": "2026-04-20T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“전쟁 포화 속 중소기업 살린다”… 정부, 5,500억 규모 ‘긴급 혈액’...",
+      "link": "https://www.daily365.news/2026/04/20/%ec%a0%84%ec%9f%81-%ed%8f%ac%ed%99%94-%ec%86%8d-%ec%a4%91%ec%86%8c%ea%b8%b0%ec%97%85-%ec%82%b4%eb%a6%b0%eb%8b%a4-%ec%a0%95%eb%b6%80-5500%ec%96%b5-%ea%b7%9c%eb%aa%a8/",
+      "pub_date": "2026-04-20T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 장동혁 \"미국, 李대통령의 이스라엘 비판 발언 진위 물어\"",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370122",
@@ -76,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
+      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -256,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
-      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
+      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
+      "link": "https://www.ajunews.com/view/20260420111147523",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
-      "link": "https://www.ajunews.com/view/20260420111147523",
+      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
+      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -436,21 +490,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 제주서 중국 향하던 크루즈서 20대 중국인 바다로 추락…해경 수...",
-      "link": "https://www.dt.co.kr/article/12058320?ref=naver",
-      "pub_date": "2026-04-20T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "BAT 사천공장, AI 스마트 지게차 도입해 현장 안전 강화",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85778",
       "pub_date": "2026-04-20T11:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 제주서 중국 향하던 크루즈서 20대 중국인 바다로 추락…해경 수...",
+      "link": "https://www.dt.co.kr/article/12058320?ref=naver",
+      "pub_date": "2026-04-20T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1744,60 +1798,6 @@
       "title": "[속보]코스피, 0.36% 오른 6213.92 출발…코스닥은 1167.10",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02325526645418088",
       "pub_date": "2026-04-20T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중기부, 중동전쟁 피해 기업에 5,500억 원 유동성 추가 공급",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008524313&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6213.92…0.36% 올라 6200선 재돌파",
-      "link": "https://www.sidae.com/article/2026042008484917711",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.36% 오른 6213.92 출발…코스닥 0.25%↓",
-      "link": "https://news.mtn.co.kr/news-detail/2026042008575740895",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”",
-      "link": "https://biz.heraldcorp.com/article/10720685?ref=naver",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\" 국영매...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597631",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 1167.10 출발…2.94포인트(0.25%) 하락",
-      "link": "https://www.sidae.com/article/2026042008531499883",
-      "pub_date": "2026-04-20T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
