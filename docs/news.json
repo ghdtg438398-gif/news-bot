@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 15:25:26",
+  "updated": "2026-04-20 15:30:37",
   "total": 200,
-  "breaking": 117,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 李대통령, 모디 총리와 정상회담 시작…'공급망·경제협력' 논의",
+      "link": "https://www.hankyung.com/article/2026042031307",
+      "pub_date": "2026-04-20T15:29:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이대통령, 모디 총리와 정상회담 시작…'공급망·경제협력' 논의",
+      "link": "https://news.jtbc.co.kr/article/NB12294975?influxDiv=NAVER",
+      "pub_date": "2026-04-20T15:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "고급주택만 골라 턴 '복면 절도범'…수년간 경찰 피한 황당 수법",
+      "link": "https://www.nocutnews.co.kr/news/6505093?utm_source=naver&utm_medium=article&utm_campaign=20260420032716",
+      "pub_date": "2026-04-20T15:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 모디 총리와 정상회담 시작…'공급망·경제협력' 논의",
+      "link": "https://www.news1.kr/politics/president/6142525",
+      "pub_date": "2026-04-20T15:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘베팅 온 팩트’ 시청자 수 59%↑…장동민, 헬마우스·박성민 ‘페이커...",
+      "link": "https://www.sportsworldi.com/newsView/20260420512849",
+      "pub_date": "2026-04-20T15:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[정치SPOT] 이 대통령 4.19 기념사와 민주주의 입증",
       "link": "http://www.00news.co.kr/news/articleView.html?idxno=103322",
@@ -103,7 +148,7 @@
       "is_scoop": false
     },
     {
-      "title": "압구정 5구역 '도촬' 이어 3구역 '입찰 방해'…DL이앤씨로 향하는 조합원...",
+      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
@@ -229,6 +274,15 @@
       "is_scoop": false
     },
     {
+      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
+      "link": "https://www.news1.kr/photos/7865353",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
       "link": "https://www.news1.kr/photos/7865350",
       "pub_date": "2026-04-20T14:52:00+09:00",
@@ -240,15 +294,6 @@
     {
       "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
       "link": "https://www.news1.kr/photos/7865347",
-      "pub_date": "2026-04-20T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
-      "link": "https://www.news1.kr/photos/7865353",
       "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-20T12:13:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 화물선 발포·나포‥\"합의 안 되면 초토화\"",
-      "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6816543_36967.html",
-      "pub_date": "2026-04-20T12:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "추경호 “시민은 편리하게, 기사님은 안전하게”…안심 택시 도시 공약...",
-      "link": "http://www.breaknews.com/1201507",
-      "pub_date": "2026-04-20T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
-      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
-      "pub_date": "2026-04-20T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "노동부, 감독 지방 위임 앞두고 지자체와 밀착감독 협업 시동",
-      "link": "https://www.nocutnews.co.kr/news/6504849?utm_source=naver&utm_medium=article&utm_campaign=20260420120017",
-      "pub_date": "2026-04-20T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공무원 성과 '깜깜이' 사라진다…평가 결과 공개 확대",
-      "link": "https://www.nocutnews.co.kr/news/6504892?utm_source=naver&utm_medium=article&utm_campaign=20260420120019",
-      "pub_date": "2026-04-20T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
