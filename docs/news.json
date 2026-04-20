@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 19:50:30",
+  "updated": "2026-04-20 19:55:26",
   "total": 200,
-  "breaking": 106,
+  "breaking": 105,
   "items": [
+    {
+      "title": "CU 파업집회서 대체 차량 막다 조합원 사망",
+      "link": "https://www.kyeongin.com/article/1762197",
+      "pub_date": "2026-04-20T19:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 20일 '뉴스 9' 예고",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090304.html",
+      "pub_date": "2026-04-20T19:49:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "납 초과 검출 DN오토모티브, 4620만원 과태료",
       "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1061946",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
+      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
       "pub_date": "2026-04-20T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
+      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
       "pub_date": "2026-04-20T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] “지방대 살리려다 대학 서열화만 강화”…지방대 정책 비판한 ...",
-      "link": "https://www.mk.co.kr/article/12021963",
-      "pub_date": "2026-04-20T17:07:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
-      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/20/20260420500220?wlog_tag3=naver",
-      "pub_date": "2026-04-20T17:07:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
