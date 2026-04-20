@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 20:50:29",
+  "updated": "2026-04-20 20:55:26",
   "total": 200,
   "breaking": 97,
   "items": [
+    {
+      "title": "(R)[여론조사①]대전시장 여론조사..허태정 46.3% 이장우 22.9%",
+      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97363",
+      "pub_date": "2026-04-20T20:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "청소년, 흡연보다 마약 경험 더 많다",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
+      "pub_date": "2026-04-20T20:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
+      "pub_date": "2026-04-20T20:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 혼슈 동쪽 해역서 규모 7.5 강진…“쓰나미, 도망가라” 긴급 방송",
+      "link": "https://www.etnews.com/20260420000492",
+      "pub_date": "2026-04-20T20:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李 “‘구성 핵시설’ 이미 알려져…왜 이런 터무니 없는 일이”",
       "link": "https://www.munhwa.com/article/11583658?ref=naver",
@@ -31,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 평택 최원용·고양 민경선 본선행",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513254",
+      "title": "[속보] 李대통령 \"北 구성 핵시설 이미 알려져…정동영 기밀 누설 주장...",
+      "link": "https://www.imaeil.com/page/view/2026042020381524068",
       "pub_date": "2026-04-20T20:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"北 구성 핵시설 이미 알려져…정동영 기밀 누설 주장...",
-      "link": "https://www.imaeil.com/page/view/2026042020381524068",
+      "title": "[속보] 평택 최원용·고양 민경선 본선행",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513254",
       "pub_date": "2026-04-20T20:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
+      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.news1.kr/politics/president/6142985",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.news1.kr/politics/president/6142985",
+      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1766,42 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[6·3 지방선거] '압도적 승리' 천명 與…재보궐 출마자들도 대기 중",
-      "link": "https://www.ajunews.com/view/20260420154135889",
-      "pub_date": "2026-04-20T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한·인도, 'CEPA 개선 협상 재개 공동선언' 등 MOU·협력 문건 15...",
-      "link": "https://www.dailian.co.kr/news/view/1635689/?sc=Naver",
-      "pub_date": "2026-04-20T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 코스피ETF에 웬 코스닥...테마 불일치 ETF '제동'",
-      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200104&t=NNv",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "(단독)안전공업 '불법 증축', 면허도 없는 인테리어 업체가 시공했다",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298417&inflow=N",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
