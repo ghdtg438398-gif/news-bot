@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 14:45:33",
+  "updated": "2026-04-20 14:50:30",
   "total": 200,
-  "breaking": 124,
+  "breaking": 122,
   "items": [
+    {
+      "title": "“지지합니다” vs “퇴출시키자”",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604200013",
+      "pub_date": "2026-04-20T14:48:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] KT넷코어 'ABC 등급제'로 협력사 생존경쟁 내몰아, 상생·협력 파...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436056",
+      "pub_date": "2026-04-20T14:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 25t 화물차가 신입사원 33명 탄 버스 들이받아… 26명 부상",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500144?wlog_tag3=naver",
@@ -10,6 +28,15 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "석유화학 '불가항력' 선언 확산...\"공장 가동률 줄이며 최대한 버티기\"",
+      "link": "https://www.newspim.com/news/view/20260420000822",
+      "pub_date": "2026-04-20T14:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -67,7 +94,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]화물연대 집회서 화물차가 조합원 치어 3명 사상...노조 차, 경찰...",
+      "title": "[속보]화물연대 집회서 화물차가 조합원 치어 3명 사상...노조車, 경찰 ...",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604200032",
       "pub_date": "2026-04-20T14:37:00+09:00",
       "source_id": "yna",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
-      "link": "http://www.sisanews24.co.kr/18545",
+      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
+      "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
+      "link": "http://www.sisanews24.co.kr/18545",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
-      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
+      "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
+      "link": "https://www.dt.co.kr/article/12058377?ref=naver",
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,20 +238,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]진주 화물연대 집회서 탑차 이동 저지하다 충돌…1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
       "pub_date": "2026-04-20T14:28:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -247,15 +274,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
-      "link": "https://www.etoday.co.kr/news/view/2577293",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 인사청문보고서 채택",
       "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817332",
       "pub_date": "2026-04-20T14:26:00+09:00",
@@ -271,6 +289,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.etoday.co.kr/news/view/2577293",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -319,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,8 +355,8 @@
       "is_scoop": false
     },
     {
-      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -553,7 +580,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
+      "title": "[속보] 진주 물류센터 집회서 조합원 1명 사망… 돌진 차량 등 2명 체포",
       "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월20일 10시 돈버는 퀴즈 정답 공개",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532349",
-      "pub_date": "2026-04-20T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
-      "pub_date": "2026-04-20T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
-      "pub_date": "2026-04-20T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
