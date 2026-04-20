@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 20:15:30",
+  "updated": "2026-04-20 20:20:32",
   "total": 200,
-  "breaking": 100,
+  "breaking": 99,
   "items": [
+    {
+      "title": "[속보] 평택 최원용·고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723415",
+      "pub_date": "2026-04-20T20:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, CU 진주물류센터 집회 사망사고 전담수사팀 구성",
+      "link": "https://www.ajunews.com/view/20260420201310201",
+      "pub_date": "2026-04-20T20:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]코레일 신입사원 33명 태운 버스, 트럭과 추돌…26명 부상",
       "link": "https://www.munhwa.com/article/11583653?ref=naver",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,20 +94,20 @@
       "is_scoop": false
     },
     {
-      "title": "CU 파업집회서 대체 차량 막다 조합원 사망",
-      "link": "https://www.kyeongin.com/article/1762197",
-      "pub_date": "2026-04-20T19:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "울산 2천억 규모 2차 추경…고유가·고물가 대응",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540742&ref=A",
       "pub_date": "2026-04-20T19:50:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 파업집회서 대체 차량 막다 조합원 사망",
+      "link": "https://www.kyeongin.com/article/1762197",
+      "pub_date": "2026-04-20T19:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -112,15 +130,6 @@
       "is_scoop": false
     },
     {
-      "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
-      "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
-      "pub_date": "2026-04-20T19:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] '김건희 고모-신천지' 부동산 거래…윤 대통령실 개입 정황 녹취",
       "link": "https://news.jtbc.co.kr/article/NB12295010?influxDiv=NAVER",
       "pub_date": "2026-04-20T19:45:00+09:00",
@@ -128,6 +137,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
+      "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561700",
-      "pub_date": "2026-04-20T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.ajunews.com/view/20260420171021077",
-      "pub_date": "2026-04-20T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
