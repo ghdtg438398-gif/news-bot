@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 07:40:30",
-  "total": 164,
+  "updated": "2026-04-21 07:45:25",
+  "total": 162,
   "breaking": 105,
   "items": [
+    {
+      "title": "4월 21일 굿모닝 MBN 이 시각 주요뉴스",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189351",
+      "pub_date": "2026-04-21T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "귀국한 장동혁… 조선일보 \"화제 된 건 김민수와 웃으며 찍은 관광객 사...",
       "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333900",
@@ -148,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
-      "pub_date": "2026-04-21T07:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
       "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
       "pub_date": "2026-04-21T07:02:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1447,33 +1456,6 @@
       "title": "[아주경제 오늘의 뉴스 종합] 경찰, CU 진주물류센터 집회 사망사고 전...",
       "link": "https://www.ajunews.com/view/20260420213933230",
       "pub_date": "2026-04-20T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "네이버·印TCS 파트너십… \"AI·클라우드·B2C 협력\"",
-      "link": "http://www.fnnews.com/news/202604202142490886",
-      "pub_date": "2026-04-20T21:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "울산 2천억 규모 2차 추경…고유가·고물가 대응",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540866&ref=A",
-      "pub_date": "2026-04-20T21:43:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스공감] 김재연 \"이광재도? 조국도? 단일화 아닌 선거연대 필요\"",
-      "link": "https://news.cpbc.co.kr/article/1172298?division=NAVER",
-      "pub_date": "2026-04-20T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
