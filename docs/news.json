@@ -1,12 +1,57 @@
 {
-  "updated": "2026-04-20 22:35:29",
+  "updated": "2026-04-20 22:40:33",
   "total": 200,
   "breaking": 101,
   "items": [
     {
+      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
+      "pub_date": "2026-04-20T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"쿠웨이트, 호르무즈 봉쇄로…원유수출 불가항력\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260420223530eeC",
+      "pub_date": "2026-04-20T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓”",
+      "link": "https://biz.heraldcorp.com/article/10721534?ref=naver",
+      "pub_date": "2026-04-20T22:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕 증시, 美·이란 긴장 재고조로 하락 출발…다우지수 0.1%↓",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599150",
+      "pub_date": "2026-04-20T22:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 끝내 믿을만한 獨 빌트 떴다! \"김민재, 뮌헨 떠나 튀르키예 안 간...",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811700",
       "pub_date": "2026-04-20T22:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
+      "pub_date": "2026-04-20T22:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -19,15 +64,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
-      "pub_date": "2026-04-20T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -113,19 +149,19 @@
     },
     {
       "title": "[속보] \"쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420221202mpn",
+      "link": "https://www.hankyung.com/article/2026042041087",
       "pub_date": "2026-04-20T22:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] \"쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓\"",
-      "link": "https://www.hankyung.com/article/2026042041087",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420221202mpn",
       "pub_date": "2026-04-20T22:12:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
       "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
       "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://www.hankyung.com/article/2026042038717",
-      "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090295.html",
-      "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420174428zRk",
-      "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]일본 아오모리현 앞바다서 규모 7.5 지진…3m 쓰나미 경보",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042017403686498",
-      "pub_date": "2026-04-20T17:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
