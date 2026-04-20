@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 21:45:32",
+  "updated": "2026-04-20 21:50:32",
   "total": 200,
-  "breaking": 99,
+  "breaking": 97,
   "items": [
+    {
+      "title": "진주 화물연대 집회서 화물차 추돌 3명 사상",
+      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=584972",
+      "pub_date": "2026-04-20T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[아주경제 오늘의 뉴스 종합] 경찰, CU 진주물류센터 집회 사망사고 전...",
+      "link": "https://www.ajunews.com/view/20260420213933230",
+      "pub_date": "2026-04-20T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "네이버·印TCS 파트너십… \"AI·클라우드·B2C 협력\"",
       "link": "http://www.fnnews.com/news/202604202142490886",
@@ -121,20 +139,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.mk.co.kr/article/12022240",
-      "pub_date": "2026-04-20T21:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가…21일 공식 취임",
       "link": "https://www.seoul.co.kr/news/economy/2026/04/20/20260420500258?wlog_tag3=naver",
       "pub_date": "2026-04-20T21:23:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.mk.co.kr/article/12022240",
+      "pub_date": "2026-04-20T21:23:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1779,24 +1797,6 @@
     {
       "title": "[속보] 李 대통령 “한-인도, 에너지·원자재 수급 협력 지속”",
       "link": "https://www.etoday.co.kr/news/view/2577383",
-      "pub_date": "2026-04-20T17:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “일본 동쪽 해안서 쓰나미 관측” <NHK>",
-      "link": "https://www.viva100.com/article/20260420501263",
-      "pub_date": "2026-04-20T17:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 모디 총리와 공동언론 발표 “중동 평화회복…세계 경...",
-      "link": "https://biz.heraldcorp.com/article/10721428?ref=naver",
       "pub_date": "2026-04-20T17:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
