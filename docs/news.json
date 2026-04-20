@@ -1,11 +1,47 @@
 {
-  "updated": "2026-04-20 14:40:32",
+  "updated": "2026-04-20 14:45:33",
   "total": 200,
-  "breaking": 122,
+  "breaking": 124,
   "items": [
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://economist.co.kr/article/view/ecn202604200063",
+      "title": "[속보] 25t 화물차가 신입사원 33명 탄 버스 들이받아… 26명 부상",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500144?wlog_tag3=naver",
+      "pub_date": "2026-04-20T14:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 실적 기대에 4% 급등...'신고가' 경신",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420507&PRO_CODE=99",
+      "pub_date": "2026-04-20T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 화물연대 집회서 탑차와 충돌…1명 사망·2명 부상",
+      "link": "https://news.tf.co.kr/read/life/2315099.htm",
+      "pub_date": "2026-04-20T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "울산시, 올해 2회 추경 1989억 원 편성…\"대내외 경제 악화 대응\"",
+      "link": "https://www.nocutnews.co.kr/news/6505040?utm_source=naver&utm_medium=article&utm_campaign=20260420024116",
+      "pub_date": "2026-04-20T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.sedaily.com/article/20034640?ref=naver",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -13,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.sedaily.com/article/20034640?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://economist.co.kr/article/view/ecn202604200063",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,15 +157,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305429?division=NAVER",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 재경위 여야, 신현송 한국은행 총재 후보자 인사청문보고서 합의...",
       "link": "https://www.dt.co.kr/article/12058377?ref=naver",
       "pub_date": "2026-04-20T14:29:00+09:00",
@@ -166,6 +193,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305429?division=NAVER",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]진주 화물연대 집회서 차 사고, 심정지 조합원 사망",
       "link": "https://www.munhwa.com/article/11583576?ref=naver",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -175,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "title": "[속보]진주 화물연대 집회서 탑차 이동 저지하다 충돌…1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
       "pub_date": "2026-04-20T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +229,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
       "pub_date": "2026-04-20T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,6 +283,15 @@
       "is_scoop": false
     },
     {
+      "title": "멜론, NCT WISH 컴백 관련 온오프라인 이벤트 진행",
+      "link": "https://news.jtbc.co.kr/article/NB12294963?influxDiv=NAVER",
+      "pub_date": "2026-04-20T14:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
       "link": "https://www.mk.co.kr/article/12021737",
       "pub_date": "2026-04-20T14:25:00+09:00",
@@ -262,15 +307,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "멜론, NCT WISH 컴백 관련 온오프라인 이벤트 진행",
-      "link": "https://news.jtbc.co.kr/article/NB12294963?influxDiv=NAVER",
-      "pub_date": "2026-04-20T14:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -508,8 +544,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -517,8 +553,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -751,6 +787,15 @@
       "is_scoop": false
     },
     {
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
       "pub_date": "2026-04-20T13:46:00+09:00",
@@ -762,15 +807,6 @@
     {
       "title": "“경질하라” vs “이게 기밀?”",
       "link": "https://www.bigtanews.co.kr/article/view/big202604200011",
-      "pub_date": "2026-04-20T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]검찰, '계열사 부당 지원' 혐의 대방건설 구교운 회장·구찬우 대...",
-      "link": "https://view.asiae.co.kr/article/2026042011220655192",
-      "pub_date": "2026-04-20T11:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"18번 홀 연장 버디\" 해나 그린, LA 챔피언십 3연패…김세영 연장 패배",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039444",
-      "pub_date": "2026-04-20T11:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 20일 10시 퀴즈 정답 정리",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513009",
-      "pub_date": "2026-04-20T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"모두가 청주를 느낄 수 있도록\"",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847388",
-      "pub_date": "2026-04-20T11:18:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
