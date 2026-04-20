@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 18:40:31",
+  "updated": "2026-04-20 18:45:29",
   "total": 200,
-  "breaking": 117,
+  "breaking": 116,
   "items": [
+    {
+      "title": "이재명 \"인도와 에너지·나프타 수급 협력, 양국 교역 500억 달러로 확대...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436120",
+      "pub_date": "2026-04-20T18:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정부, 중동전쟁 여파 항공업계 지원…시설료 유예·LCC 자금 투입",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366087",
+      "pub_date": "2026-04-20T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "日혼슈 동쪽서 규모 7.4 지진…쓰나미 경보 발령",
       "link": "https://biz.heraldcorp.com/article/10721478?ref=naver",
@@ -139,7 +157,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KBS, 2026 북중미 월드컵 JTBC와 공동 중계",
+      "title": "[속보] 전현무, KBS ‘2026 북중미 월드컵 중계 방송 한다’",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
       "pub_date": "2026-04-20T18:20:00+09:00",
       "source_id": "kbs",
@@ -184,21 +202,21 @@
       "is_scoop": false
     },
     {
-      "title": "성장보다 물가…신현송 한은 총재 해법은?",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
       "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "성장보다 물가…신현송 한은 총재 해법은?",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -401,7 +419,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -410,7 +428,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -517,8 +535,8 @@
       "is_scoop": false
     },
     {
-      "title": "정청래 “이광재·송영길 공천 검토”...울산 남갑에 ‘인재영입 1호’...",
-      "link": "https://www.mediapen.com/news/view/1094549",
+      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -526,8 +544,8 @@
       "is_scoop": false
     },
     {
-      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
+      "title": "정청래 “이광재·송영길 공천 검토”...울산 남갑에 ‘인재영입 1호’...",
+      "link": "https://www.mediapen.com/news/view/1094549",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)실적은 두 배인데 고용은 제자리…증권사 장애인고용 '격차 심화...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298424&inflow=N",
-      "pub_date": "2026-04-20T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]20대女, 경찰조사 대기 중 호흡곤란…숨져, 부검 의뢰",
-      "link": "https://www.munhwa.com/article/11583633?ref=naver",
-      "pub_date": "2026-04-20T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
