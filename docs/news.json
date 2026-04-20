@@ -1,11 +1,47 @@
 {
-  "updated": "2026-04-20 22:40:33",
+  "updated": "2026-04-20 22:45:31",
   "total": 200,
   "breaking": 101,
   "items": [
     {
+      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "http://www.fnnews.com/news/202604202235094339",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.hankyung.com/article/2026042041957",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 美와 2차 협상 참석 '긍정적' 검토 중\"<로이터>",
+      "link": "https://news.jtbc.co.kr/article/NB12295065?influxDiv=NAVER",
+      "pub_date": "2026-04-20T22:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
       "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
+      "pub_date": "2026-04-20T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.news1.kr/world/usa-canada/6143007",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://www.viva100.com/article/20260420501292",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"옥상으로 유인해 폭행\"…여중생 뺨 때리고 영상 촬영한 10대 女...",
-      "link": "https://www.imaeil.com/page/view/2026042017350463450",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://www.ajunews.com/view/20260420174146126",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
