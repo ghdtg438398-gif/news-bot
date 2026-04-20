@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 19:20:30",
+  "updated": "2026-04-20 19:25:30",
   "total": 200,
-  "breaking": 113,
+  "breaking": 111,
   "items": [
+    {
+      "title": "현대건설 '압구정 DH 타운' 한 발 더, 5.6조 규모 3구역 우선협상자 선정...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436122",
+      "pub_date": "2026-04-20T19:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[폴리Shorts][단독] \"핵사이다, 민주당의 입법천사\" 서영교, 원내대표 출...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729017",
+      "pub_date": "2026-04-20T19:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[단독] 서울 진보교육감 시민참여단 대납 의심자 868명 확인",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226592&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -211,20 +229,20 @@
       "is_scoop": false
     },
     {
-      "title": "2026년 북중미 월드컵, KBS에서도 본다",
-      "link": "https://www.munhwa.com/article/11583642?ref=naver",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
       "link": "https://www.newsis.com/view/NISX20260420_0003599022",
       "pub_date": "2026-04-20T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026년 북중미 월드컵, KBS에서도 본다",
+      "link": "https://www.munhwa.com/article/11583642?ref=naver",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1782,24 +1800,6 @@
       "pub_date": "2026-04-20T17:04:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 “이광재 전략공천 검토중”",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050136200000",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日동북부 해역서 진도 7.4 지진…이와테·홋카이도 일부 쓰나미 경...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598887",
-      "pub_date": "2026-04-20T17:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
