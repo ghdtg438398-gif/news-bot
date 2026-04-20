@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 19:05:26",
+  "updated": "2026-04-20 19:10:33",
   "total": 200,
-  "breaking": 114,
+  "breaking": 113,
   "items": [
+    {
+      "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
+      "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1074496",
+      "pub_date": "2026-04-20T19:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] ‘룰러 논란’ 젠지 측 첫 해명…“조사위 결과에 따라 내부 징...",
+      "link": "https://www.kukinews.com/article/view/kuk202604200053",
+      "pub_date": "2026-04-20T19:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 민주, 23일 전략공관위 회의 후 전략공천 발표…이광재·송영길...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525467&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T19:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
       "link": "http://www.fnnews.com/news/202604201849060665",
@@ -121,20 +148,20 @@
       "is_scoop": false
     },
     {
-      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "2026년 북중미 월드컵, KBS에서도 본다",
       "link": "https://www.munhwa.com/article/11583642?ref=naver",
       "pub_date": "2026-04-20T18:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
+      "pub_date": "2026-04-20T18:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -229,20 +256,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KBS ‘2026 북중미 월드컵 중계’ 전현무도 함께 한다!",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
-      "pub_date": "2026-04-20T18:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
       "pub_date": "2026-04-20T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KBS ‘2026 북중미 월드컵 중계’ 전현무도 함께 한다!",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
+      "pub_date": "2026-04-20T18:20:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "부처 컴백부터 냥집사 나한까지…미소 번지는 불교의 '얼굴'",
-      "link": "https://www.ajunews.com/view/20260420142300735",
-      "pub_date": "2026-04-20T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "조승환 의원, 또 피소되나?",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300606",
-      "pub_date": "2026-04-20T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"현재로선 미국과 2차 협상 계획 없어\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294996?influxDiv=NAVER",
-      "pub_date": "2026-04-20T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
