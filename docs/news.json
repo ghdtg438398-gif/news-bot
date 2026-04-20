@@ -1,11 +1,29 @@
 {
-  "updated": "2026-04-20 14:10:33",
+  "updated": "2026-04-20 14:15:27",
   "total": 200,
-  "breaking": 118,
+  "breaking": 117,
   "items": [
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "네이버 해피빈, CJ제일제당과 도서산간 돌봄공백 아동에 한 끼 지원",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048017",
+      "pub_date": "2026-04-20T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한글과컴퓨터, 올해 경영 목표는 \"별도 기준 매출 2000억원\"",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048016",
+      "pub_date": "2026-04-20T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -13,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090182.html",
-      "pub_date": "2026-04-20T13:55:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420135420i6g",
       "pub_date": "2026-04-20T13:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090182.html",
+      "pub_date": "2026-04-20T13:55:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -238,15 +256,6 @@
       "is_scoop": false
     },
     {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
-      "pub_date": "2026-04-20T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
       "pub_date": "2026-04-20T13:46:00+09:00",
@@ -254,6 +263,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "“경질하라” vs “이게 기밀?”",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.dailian.co.kr/news/view/1635439/?sc=Naver",
-      "pub_date": "2026-04-20T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'베르너 데뷔골 포함 4실점' LAFC, 손흥민 풀타임에도 새너제이에 완패",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039341",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
