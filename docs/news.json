@@ -1,12 +1,21 @@
 {
-  "updated": "2026-04-21 06:40:28",
-  "total": 179,
+  "updated": "2026-04-21 06:45:30",
+  "total": 178,
   "breaking": 119,
   "items": [
     {
-      "title": "[속보] 애플 \"팀 쿡, 애플 CEO에서 물러난다…후임자는 존 터너스\"",
-      "link": "https://www.dailian.co.kr/news/view/1635777/?sc=Naver",
-      "pub_date": "2026-04-21T06:38:00+09:00",
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.yna.co.kr/view/AKR20260421013600073?input=1195m",
+      "pub_date": "2026-04-21T06:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 북미 월드컵 앞둔 멕시코, 유적지 총격에 2명 죽고 6명 부상",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599225",
+      "pub_date": "2026-04-21T06:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -15,6 +24,15 @@
     {
       "title": "[속보] 이란 협상대표 \"위협 동반한 협상 받아들이지 않을 것\"",
       "link": "https://news.jtbc.co.kr/article/NB12295083?influxDiv=NAVER",
+      "pub_date": "2026-04-21T06:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 \"팀 쿡, 애플 CEO에서 물러난다…후임자는 존 터너스\"",
+      "link": "https://www.dailian.co.kr/news/view/1635777/?sc=Naver",
       "pub_date": "2026-04-21T06:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
+      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +67,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
+      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,11 +157,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
       "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,11 +184,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
+      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
       "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,20 +211,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀 쿡 CEO, 9월 사임…후임자는 존 터너스”",
-      "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
-      "pub_date": "2026-04-21T06:05:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]애플 15년만에 CEO 교체...“팀 쿡 후임에 존 터너스”",
       "link": "https://www.sedaily.com/article/20034906?ref=naver",
       "pub_date": "2026-04-21T06:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀 쿡 CEO, 9월 사임…후임자는 존 터너스”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
+      "pub_date": "2026-04-21T06:05:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -256,15 +274,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 팀쿡, 애플 CEO서 15년만에 물러나…후임은 존 터너스",
-      "link": "https://www.dt.co.kr/article/12058516?ref=naver",
-      "pub_date": "2026-04-21T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“세상은 여자들이 바꾸잖아요”···자우림 김윤아 단독 인터뷰[록과...",
       "link": "https://www.khan.co.kr/article/202604210600071",
       "pub_date": "2026-04-21T06:00:00+09:00",
@@ -272,6 +281,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 팀쿡, 애플 CEO서 15년만에 물러나…후임은 존 터너스",
+      "link": "https://www.dt.co.kr/article/12058516?ref=naver",
+      "pub_date": "2026-04-21T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
@@ -1582,33 +1600,6 @@
       "title": "[속보]李 “‘구성 핵시설’ 이미 알려져…왜 이런 터무니 없는 일이”",
       "link": "https://www.munhwa.com/article/11583658?ref=naver",
       "pub_date": "2026-04-20T20:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 “‘구성 핵시설’ 이미 알려져…정동영 기밀 누설 주...",
-      "link": "https://www.sedaily.com/article/20034861?ref=naver",
-      "pub_date": "2026-04-20T20:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰 “화물연대 집회 사망, 전담수사팀 구성해 엄정 수사”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540796&ref=A",
-      "pub_date": "2026-04-20T20:41:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05221766645418088",
-      "pub_date": "2026-04-20T20:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
