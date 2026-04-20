@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-21 06:05:31",
-  "total": 173,
-  "breaking": 109,
+  "updated": "2026-04-21 06:10:39",
+  "total": 179,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T06:08:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"7만 6,000달러 돌파 시 8만 5,000달러 직행\" 비트코인 운명 가를 휴전 협...",
+      "link": "http://coinreaders.com/231817",
+      "pub_date": "2026-04-21T06:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 소폭 하락 마감…나스닥 0.26%↓",
+      "link": "https://www.etoday.co.kr/news/view/2577460",
+      "pub_date": "2026-04-21T06:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
+      "pub_date": "2026-04-21T06:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260421.99099005827",
+      "pub_date": "2026-04-21T06:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]애플 \"팀 쿡 후임에 존 터너스…9월 CEO 교체\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599215",
+      "pub_date": "2026-04-21T06:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
+      "pub_date": "2026-04-21T06:05:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]애플 15년만에 CEO 교체...“팀 쿡 후임에 존 터너스”",
+      "link": "https://www.sedaily.com/article/20034906?ref=naver",
+      "pub_date": "2026-04-21T06:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'병역비리' 송민호, 오늘(21일) 첫 공판..무슨 말할까[스타이슈]",
       "link": "https://www.starnewskorea.com/music/2026/04/21/2026042015000150755",
@@ -1537,24 +1609,6 @@
       "title": "[속보] 평택 최원용·고양 민경선 민주당 시장 후보 확정",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723415",
       "pub_date": "2026-04-20T20:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[국회 상임위 리포트①] 가스공사 미수금 14조…'요금 동결 4년'의 청구...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729021",
-      "pub_date": "2026-04-20T20:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코레일 신입사원 33명 태운 버스, 트럭과 추돌…26명 부상",
-      "link": "https://www.munhwa.com/article/11583653?ref=naver",
-      "pub_date": "2026-04-20T20:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
