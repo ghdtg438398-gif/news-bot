@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 16:50:35",
+  "updated": "2026-04-20 16:55:33",
   "total": 200,
-  "breaking": 121,
+  "breaking": 118,
   "items": [
+    {
+      "title": "[단독] 예보, 하나저축은행 3년 연속 적자에 검사 착수…'턴어라운드' 발...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513188",
+      "pub_date": "2026-04-20T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
+      "pub_date": "2026-04-20T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
+      "pub_date": "2026-04-20T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "비, 5월 11일 가수 컴백…'사냥개들2' 기세 잇는다",
+      "link": "https://news.jtbc.co.kr/article/NB12294995?influxDiv=NAVER",
+      "pub_date": "2026-04-20T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]20대女, 경찰조사 대기 중 호흡곤란…숨져, 부검 의뢰",
+      "link": "https://www.munhwa.com/article/11583633?ref=naver",
+      "pub_date": "2026-04-20T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
+      "link": "https://www.ajunews.com/view/20260420162540987",
+      "pub_date": "2026-04-20T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)실적은 두 배인데 고용은 제자리…증권사 장애인고용 '격차 심화...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298424&inflow=N",
+      "pub_date": "2026-04-20T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "임종룡 회장 \"생산적·포용금융 속도감 있게 추진\"",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4605642",
+      "pub_date": "2026-04-20T16:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 외무부 \"현재로선 미국과 2차 협상 계획 없어···미국, 외...",
       "link": "https://dgmbc.com/NewsArticle/836155",
@@ -49,6 +121,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305473?division=NAVER",
+      "pub_date": "2026-04-20T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]이란 “현재 미국과 2차 협상 계획 없어”…호르무즈 긴장 속 협...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525007",
       "pub_date": "2026-04-20T16:45:00+09:00",
@@ -58,11 +139,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305473?division=NAVER",
-      "pub_date": "2026-04-20T16:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] 민주당 “울산 남구갑에 전태진 변호사 전략공천”",
+      "link": "https://www.mk.co.kr/article/12021924",
+      "pub_date": "2026-04-20T16:44:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -73,15 +154,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 “울산 남갑에 전태진 변호사 전략공천”",
-      "link": "https://www.mk.co.kr/article/12021924",
-      "pub_date": "2026-04-20T16:44:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -121,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토중…송영길도 염두\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042016394548343",
-      "pub_date": "2026-04-20T16:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토 중…송영길도 염두\"",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090268.html",
       "pub_date": "2026-04-20T16:40:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토중…송영길도 염두\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042016394548343",
+      "pub_date": "2026-04-20T16:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -445,8 +517,8 @@
       "is_scoop": false
     },
     {
-      "title": "경남도, 복지 사각지대 갇힌 ‘경제 허리’ 4050 세대 지원책 마련",
-      "link": "http://www.breaknews.com/1201632",
+      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
+      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
       "pub_date": "2026-04-20T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -454,8 +526,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
-      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
+      "title": "경남도, 복지 사각지대 갇힌 ‘경제 허리’ 4050 세대 지원책 마련",
+      "link": "http://www.breaknews.com/1201632",
       "pub_date": "2026-04-20T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -733,6 +805,15 @@
       "is_scoop": true
     },
     {
+      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
       "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
       "pub_date": "2026-04-20T16:00:00+09:00",
@@ -753,15 +834,6 @@
     {
       "title": "[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험...",
       "link": "https://newstapa.org/article/NWYLD",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1726,78 +1798,6 @@
       "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
       "link": "http://www.breaknews.com/1201542",
       "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 인사청문보고서 채택",
-      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817332",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[성기노의 뉴스 피처링] 장동혁 아리송한 방미...\"안보 이슈 빌드업인가...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126644",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
-      "link": "https://www.etoday.co.kr/news/view/2577293",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "멜론, NCT WISH 컴백 관련 온오프라인 이벤트 진행",
-      "link": "https://news.jtbc.co.kr/article/NB12294963?influxDiv=NAVER",
-      "pub_date": "2026-04-20T14:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.mk.co.kr/article/12021737",
-      "pub_date": "2026-04-20T14:25:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘딸 여권 논란’ 신현송, 재경위 넘었다… 인사청문보고서 채택",
-      "link": "https://www.seoul.co.kr/news/politics/congress/2026/04/20/20260420500136?wlog_tag3=naver",
-      "pub_date": "2026-04-20T14:25:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 재경위, 닷새만에 신현송 한은총재 후보자 청문보고서 채택",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446978",
-      "pub_date": "2026-04-20T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
-      "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
