@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-21 07:30:34",
+  "updated": "2026-04-21 07:35:25",
   "total": 166,
-  "breaking": 106,
+  "breaking": 107,
   "items": [
+    {
+      "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배 보류 전망",
+      "link": "https://www.munhwa.com/article/11583710?ref=naver",
+      "pub_date": "2026-04-21T07:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "노영희 \"尹 변호사 윤갑근 결선 충격, 윤어게인 먹히다니\"[한판승부]",
+      "link": "https://www.nocutnews.co.kr/news/6505335?utm_source=naver&utm_medium=article&utm_campaign=20260421073024",
+      "pub_date": "2026-04-21T07:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.ajunews.com/view/20260421072858299",
+      "pub_date": "2026-04-21T07:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "SK브로드밴드, 전 직원 AI 교육…“퍼포머 400명 육성”",
+      "link": "https://www.sedaily.com/article/20034922?ref=naver",
+      "pub_date": "2026-04-21T07:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[손병관의 뉴스프레소] 정부 \"미국의 정보 공유 제한에 상응조치 검토\"",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226736&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
@@ -1459,42 +1495,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "JTBC, KBS와 북중미 월드컵 공동중계 합의...종편·지상파 시청 가능",
-      "link": "https://news.jtbc.co.kr/article/NB12295058?influxDiv=NAVER",
-      "pub_date": "2026-04-20T21:35:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 충주 금가면 인근 서부 순환대로 멧돼지 출몰",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561882",
-      "pub_date": "2026-04-20T21:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "계속되는 ‘손의 침묵’… 안방서 1-4 굴욕패",
-      "link": "https://www.segye.com/newsView/20260420515909?OutUrl=naver",
-      "pub_date": "2026-04-20T21:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'나솔' 28기 영호♥옥순, 진짜 가족 됐다…\"딸도 아빠라 불러\" 뭉클 ('솔...",
-      "link": "https://www.tenasia.co.kr/article/2026042040284",
-      "pub_date": "2026-04-20T21:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
