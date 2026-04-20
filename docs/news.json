@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-20 16:05:30",
+  "updated": "2026-04-20 16:10:33",
   "total": 200,
-  "breaking": 112,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보]與, 울산 남갑에 전태진 변호사 전략공천",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04018006645418088&returntp=election",
+      "pub_date": "2026-04-20T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 케이엔에스, 108억 규모 2차전지 설비 공급계약 체결 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568999",
+      "pub_date": "2026-04-20T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.yna.co.kr/view/AKR20260420126300001?input=1195m",
+      "pub_date": "2026-04-20T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與, 6·3 재보선 1호 공천에 '울산 남구 갑' 전태진 후보",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598740",
+      "pub_date": "2026-04-20T16:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 6일째 '랠리…삼천리자전거 상한가 '쌩쌩'",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200236&t=NN",
+      "pub_date": "2026-04-20T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 \"6·3 보궐선거 울산 남갑 후보에 전태진 예정\"",
+      "link": "https://www.news1.kr/politics/assembly/6142638",
+      "pub_date": "2026-04-20T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 파이버스(PIEVERSE) 업비트 KRW BTC USDT 상장, 시세는?…'휴전 종...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568977",
+      "pub_date": "2026-04-20T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 대통령 \"적에 대한 불신·교류 경계심은 필수 요소\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR2026042016051154T",
+      "pub_date": "2026-04-20T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁 장기화에 청년 고용 '직격탄'…채용 위축·현장 불안 '확산'",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217715",
+      "pub_date": "2026-04-20T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정청래 \"與 광역단체장 후보 현역 의원, 29일 일괄사퇴\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016032947405",
+      "pub_date": "2026-04-20T16:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "원청교섭 집회서 '사측 차량'에 참변…화물연대 \"CU, 정부가 죽였다\"",
       "link": "https://www.nocutnews.co.kr/news/6505129?utm_source=naver&utm_medium=article&utm_campaign=20260420040316",
@@ -22,26 +112,8 @@
       "is_scoop": true
     },
     {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
       "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
-      "link": "https://www.newspim.com/news/view/20260420000935",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,21 +130,30 @@
       "is_scoop": false
     },
     {
-      "title": "가방서 약 꺼내 먹은 뒤 '호흡곤란'…20대 피의자, 경찰 대기실서 사망",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217711",
-      "pub_date": "2026-04-20T15:58:00+09:00",
+      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
+      "link": "https://www.newspim.com/news/view/20260420000935",
+      "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[속보] '특수협박 혐의' 20대 여성 피의자, 경찰조사 대기중 호흡곤란으...",
-      "link": "https://www.imaeil.com/page/view/2026042014523224619",
-      "pub_date": "2026-04-20T15:56:00+09:00",
+      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
+      "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가방서 약 꺼내 먹은 뒤 '호흡곤란'…20대 피의자, 경찰 대기실서 사망",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217711",
+      "pub_date": "2026-04-20T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -91,6 +172,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '특수협박 혐의' 20대 여성 피의자, 경찰조사 대기중 호흡곤란으...",
+      "link": "https://www.imaeil.com/page/view/2026042014523224619",
+      "pub_date": "2026-04-20T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -211,24 +301,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중동 갈등 확대에도 증시 상승...코스피 0.44% 올라",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604201540309232",
-      "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
-      "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 0.44% 오른 6,219.09로 마감",
       "link": "https://www.ytn.co.kr/_ln/0102_202604201540032051",
       "pub_date": "2026-04-20T15:40:00+09:00",
@@ -243,6 +315,24 @@
       "pub_date": "2026-04-20T15:40:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
+      "pub_date": "2026-04-20T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중동 갈등 확대에도 증시 상승...코스피 0.44% 올라",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604201540309232",
+      "pub_date": "2026-04-20T15:40:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -283,8 +373,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 27.17p(0.44%) 오른 6219.09(장마감)",
-      "link": "https://www.etoday.co.kr/news/view/2577340",
+      "title": "\"가상 세계에서 긴급대피 훈련한다\" 항공산업 재편하는 디지털 트윈 플...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=737776",
       "pub_date": "2026-04-20T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -292,8 +382,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"가상 세계에서 긴급대피 훈련한다\" 항공산업 재편하는 디지털 트윈 플...",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=737776",
+      "title": "[속보] 코스피 27.17p(0.44%) 오른 6219.09(장마감)",
+      "link": "https://www.etoday.co.kr/news/view/2577340",
       "pub_date": "2026-04-20T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -328,17 +418,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
-      "link": "https://www.ajunews.com/view/20260420152838868",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
-      "link": "https://www.sidae.com/article/2026042015294536419",
+      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
+      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +427,8 @@
       "is_scoop": false
     },
     {
-      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
-      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
+      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
+      "link": "https://www.sidae.com/article/2026042015294536419",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -361,6 +442,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
+      "link": "https://www.ajunews.com/view/20260420152838868",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "임종룡 우리금융 회장 \"생산적·포용 금융 골든타임 잡는다\"",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118844",
-      "pub_date": "2026-04-20T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 물류센터 집회 차사고 3명 사상…화물연대 \"조합원 총집결...",
-      "link": "https://www.yna.co.kr/view/AKR20260420087700052?input=1195m",
-      "pub_date": "2026-04-20T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "쿠팡CLS·HR그룹, ‘하루온’ 런칭…물류 현장 디지털 전환과 근무 문화...",
-      "link": "https://www.hinews.co.kr/view.php?ud=2026042013273074039aeda69934_48",
-      "pub_date": "2026-04-20T13:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 비아트론, 117억 규모 디스플레이 장비 공급계약 체결 공시",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568944",
-      "pub_date": "2026-04-20T13:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 통일장관 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045683",
-      "pub_date": "2026-04-20T13:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "단식10일차 안호영 \"與 윤리감찰, 공정하다 말할 수 있나\"…재조사 촉구",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03257046645418088",
-      "pub_date": "2026-04-20T13:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]진주 화물연대 집회서 노조원-물류차 충돌…3명 사상",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524968",
-      "pub_date": "2026-04-20T13:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “호르무즈 탈출 유조선 한국 온다”…현대오일뱅크 시설 하역 ...",
-      "link": "https://www.dt.co.kr/article/12058342?ref=naver",
-      "pub_date": "2026-04-20T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 여야 \"특감관 추천키로..23일 최대한 많은 법안 처리\"",
-      "link": "http://www.fnnews.com/news/202604201320266013",
-      "pub_date": "2026-04-20T13:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 집회 현장서 화물차가 조합원 덮쳐 1명 사망, 2명 부상",
-      "link": "https://www.pressian.com/pages/articles/2026042013211305779?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-20T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
