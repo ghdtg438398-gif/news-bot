@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 13:40:35",
+  "updated": "2026-04-20 13:45:31",
   "total": 200,
-  "breaking": 119,
+  "breaking": 120,
   "items": [
+    {
+      "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1153748",
+      "pub_date": "2026-04-20T13:44:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]CU 진주물류센터에서 화물연대 조합원 사망",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320796",
+      "pub_date": "2026-04-20T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705716&code=61121211&cp=nv",
+      "pub_date": "2026-04-20T13:43:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[유통 HOT 뉴스] BAT 사천공장, AI 스마트 지게차 도입…\"현장 안전성 강...",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=134282",
@@ -22,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대 집회서 물류차가 노조원 덮쳐… 1명 사망·2명 부상",
-      "link": "https://www.hankookilbo.com/news/article/A2026042013300001281?did=NA",
+      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 “조합원 총집결” 대응",
+      "link": "https://www.viva100.com/article/20260420500748",
       "pub_date": "2026-04-20T13:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 “조합원 총집결” 대응",
-      "link": "https://www.viva100.com/article/20260420500748",
+      "title": "[속보] 화물연대 집회서 물류차가 노조원 덮쳐… 1명 사망·2명 부상",
+      "link": "https://www.hankookilbo.com/news/article/A2026042013300001281?did=NA",
       "pub_date": "2026-04-20T13:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,6 +94,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 진주 물류센터 3명 사상…화물연대 \"조합원 총집결\" 대응",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090175.html",
+      "pub_date": "2026-04-20T13:34:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "윤이나, '커리어 하이' 경신…LPGA투어 LA챔피언십 4위",
       "link": "https://swtvnews.com/news/newsview.php?ncode=1065586762069121",
       "pub_date": "2026-04-20T13:34:00+09:00",
@@ -85,7 +121,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
+      "title": "[속보] 진주 물류센터 집회 차사고 3명 사상…화물연대 \"조합원 총집결...",
       "link": "https://www.yna.co.kr/view/AKR20260420087700052?input=1195m",
       "pub_date": "2026-04-20T13:32:00+09:00",
       "source_id": "yna",
@@ -229,6 +265,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 화물연대본부 진주 물류센터 투쟁 중 1명 사망・2명 부상… 2.5t ...",
+      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509086",
+      "pub_date": "2026-04-20T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
       "link": "https://www.mk.co.kr/article/12021662",
       "pub_date": "2026-04-20T13:14:00+09:00",
@@ -240,15 +285,6 @@
     {
       "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042013075806189",
-      "pub_date": "2026-04-20T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대본부 진주 물류센터 투쟁 중 1명 사망・2명 부상… 2.5t ...",
-      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509086",
       "pub_date": "2026-04-20T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "BAT 사천공장, AI 스마트 지게차 도입…현장 안전성 강화",
       "link": "https://www.kpinews.kr/newsView/1065575063295553",
       "pub_date": "2026-04-20T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
-      "pub_date": "2026-04-20T10:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597880",
-      "pub_date": "2026-04-20T10:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "소림마라, 전용 소스 식약처 인증기관 정밀 검사 등 원료 투명성 및 안...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49072",
-      "pub_date": "2026-04-20T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경주시, '고유가 지원 사칭' 스미싱·보이스피싱 주의 당부",
-      "link": "https://www.nocutnews.co.kr/news/6504788?utm_source=naver&utm_medium=article&utm_campaign=20260420100613",
-      "pub_date": "2026-04-20T10:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
