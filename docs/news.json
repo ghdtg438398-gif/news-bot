@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 18:00:42",
+  "updated": "2026-04-20 18:05:37",
   "total": 200,
-  "breaking": 135,
+  "breaking": 134,
   "items": [
+    {
+      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260420.99099005745",
+      "pub_date": "2026-04-20T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "http://www.inews24.com/view/1961877",
+      "pub_date": "2026-04-20T18:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "파주시, '기부금 5억 원' 긴급 투입…복지 사각지대 틈새 메운다",
+      "link": "http://www.breaknews.com/1201566",
+      "pub_date": "2026-04-20T18:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[영상] 진주 화물연대 집회서 사망사고…대치 격화하며 경찰도 부상",
+      "link": "https://www.yna.co.kr/view/AKR20260420148600704?input=1195m",
+      "pub_date": "2026-04-20T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[가보니] 불황엔 달린다…'카페런'부터 러닝 편의점까지 일상이 된 러닝",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838351",
@@ -76,20 +112,20 @@
       "is_scoop": false
     },
     {
-      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
-      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
       "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
       "pub_date": "2026-04-20T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
+      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -130,6 +166,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
+      "pub_date": "2026-04-20T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "https://www.viva100.com/article/20260420501292",
       "pub_date": "2026-04-20T17:46:00+09:00",
@@ -157,12 +202,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
+      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -175,20 +220,11 @@
       "is_scoop": false
     },
     {
-      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://www.hankyung.com/article/2026042038717",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090295.html",
       "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -203,10 +239,10 @@
     },
     {
       "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090295.html",
+      "link": "https://www.hankyung.com/article/2026042038717",
       "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -247,6 +283,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 李대통령 “모디 총리, 중동 안정·평화 공감…한반도 평화 지지...",
+      "link": "https://www.joongang.co.kr/article/25421728",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200267&t=NN",
       "pub_date": "2026-04-20T17:41:00+09:00",
@@ -256,11 +301,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 “모디 총리, 중동 안정·평화 공감…한반도 평화 지지...",
-      "link": "https://www.joongang.co.kr/article/25421728",
-      "pub_date": "2026-04-20T17:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" <NHK>",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090293.html",
+      "pub_date": "2026-04-20T17:38:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -280,15 +325,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" <NHK>",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090293.html",
-      "pub_date": "2026-04-20T17:38:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -607,8 +643,8 @@
       "is_scoop": false
     },
     {
-      "title": "지역주택조합 사업인가 토지 확보 요건 95%→80%로 완화",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963041&call_from=naver_news",
+      "title": "\"지주택 '희망고문' 끊는다\"…토지확보 80% 완화·공사비 검증 의무화",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78198",
       "pub_date": "2026-04-20T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -616,8 +652,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"지주택 '희망고문' 끊는다\"…토지확보 80% 완화·공사비 검증 의무화",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78198",
+      "title": "지역주택조합 사업인가 토지 확보 요건 95%→80%로 완화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963041&call_from=naver_news",
       "pub_date": "2026-04-20T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 보이스피싱 돈 전달한 경찰...검찰 ‘징역 5년’ 구형",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420509&PRO_CODE=99",
       "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"민주 광역단체장 후보 현역 의원, 29일 일괄 사퇴\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270293",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "긴급 기자간담회 참석하는 정청래 대표",
-      "link": "https://www.news1.kr/photos/7865749",
-      "pub_date": "2026-04-20T16:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]양자대결서 김부겸 49.2%·추경호 35.1%…김부겸 51.5%·이진숙 33....",
-      "link": "https://www.munhwa.com/article/11583628?ref=naver",
-      "pub_date": "2026-04-20T16:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]정청래 “재보궐 1호 공천에 울산 남갑 전태진…이광재·송영길도...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525000",
-      "pub_date": "2026-04-20T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
