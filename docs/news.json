@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 06:50:31",
-  "total": 182,
+  "updated": "2026-04-21 06:55:25",
+  "total": 179,
   "breaking": 122,
   "items": [
+    {
+      "title": "[속보] 日다카이치, 야스쿠니 신사에 공물 봉납",
+      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500012?wlog_tag3=naver",
+      "pub_date": "2026-04-21T06:53:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 日다카이치 총리, 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.kyeonggi.com/article/20260421580003",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 협상대표 \"위협 동반한 협상 받아들이지 않을 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295083?influxDiv=NAVER",
+      "title": "[속보] 애플 \"팀 쿡, 애플 CEO에서 물러난다…후임자는 존 터너스\"",
+      "link": "https://www.dailian.co.kr/news/view/1635777/?sc=Naver",
       "pub_date": "2026-04-21T06:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 \"팀 쿡, 애플 CEO에서 물러난다…후임자는 존 터너스\"",
-      "link": "https://www.dailian.co.kr/news/view/1635777/?sc=Naver",
+      "title": "[속보] 이란 협상대표 \"위협 동반한 협상 받아들이지 않을 것\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295083?influxDiv=NAVER",
       "pub_date": "2026-04-21T06:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
+      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
+      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1603,42 +1612,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(R)[여론조사①]대전시장 여론조사..허태정 46.3% 이장우 22.9%",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97363",
-      "pub_date": "2026-04-20T20:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "청소년, 흡연보다 마약 경험 더 많다",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
-      "pub_date": "2026-04-20T20:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
-      "pub_date": "2026-04-20T20:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 동쪽 해역서 규모 7.5 강진…“쓰나미, 도망가라” 긴급 방송",
-      "link": "https://www.etnews.com/20260420000492",
-      "pub_date": "2026-04-20T20:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
