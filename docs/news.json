@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-20 14:05:27",
+  "updated": "2026-04-20 14:10:33",
   "total": 200,
-  "breaking": 119,
+  "breaking": 118,
   "items": [
     {
-      "title": "[속보]진주 물류센터 집회 현장서 화물차, 경찰 바리케이드 돌진…1명 ...",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "pub_date": "2026-04-20T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "pub_date": "2026-04-20T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[현대카드의 고민①] 애플페이 짊어지고 '외로운 독주'",
+      "link": "http://www.newswatch.kr/news/articleView.html?idxno=79213",
+      "pub_date": "2026-04-20T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]'이혼' 최동석, 박지윤 불륜 상대 소송 항소심 7월 스타트",
+      "link": "https://www.starnewskorea.com/star/2026/04/20/2026042013544293637",
+      "pub_date": "2026-04-20T14:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]진주 물류센터 집회 현장서 화물차가 경찰 바리케이드 돌진…1명...",
       "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
       "pub_date": "2026-04-20T14:02:00+09:00",
       "source_id": "yna",
@@ -58,15 +94,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘진주 집회 중 사상자’ 화물연대 차량, 경찰 바리케이드 돌진...",
-      "link": "https://www.dt.co.kr/article/12058358?ref=naver",
-      "pub_date": "2026-04-20T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"성폭행 무혐의 받아들일 수 없다\"고 한 후 10대 女 사망…경찰...",
       "link": "https://www.imaeil.com/page/view/2026042013522579009",
       "pub_date": "2026-04-20T13:56:00+09:00",
@@ -78,6 +105,15 @@
     {
       "title": "[속보] 집회 현장서 출차하는 차량, 막아서던 노조원들과 추돌…심정지...",
       "link": "https://www.dt.co.kr/article/12058359?ref=naver",
+      "pub_date": "2026-04-20T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘진주 집회 중 사상자’ 화물연대 차량, 경찰 바리케이드 돌진...",
+      "link": "https://www.dt.co.kr/article/12058358?ref=naver",
       "pub_date": "2026-04-20T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,6 +238,15 @@
       "is_scoop": false
     },
     {
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
       "pub_date": "2026-04-20T13:46:00+09:00",
@@ -213,15 +258,6 @@
     {
       "title": "“경질하라” vs “이게 기밀?”",
       "link": "https://www.bigtanews.co.kr/article/view/big202604200011",
-      "pub_date": "2026-04-20T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "와이앤바이오, 글로벌 원자재 상승에도 해충평판트랩 가격 동결 공급 확...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49074",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강원·충남·전북 일부 내일 한파특보…2005년 이래 가장 늦어",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597934",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856803?sid=102",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사무마' 경찰청 압수수색",
-      "link": "http://www.fnnews.com/news/202604201027434848",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
