@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-20 14:15:27",
+  "updated": "2026-04-20 14:20:34",
   "total": 200,
-  "breaking": 117,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
+      "link": "https://news.jtbc.co.kr/article/NB12294962?influxDiv=NAVER",
+      "pub_date": "2026-04-20T14:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.yna.co.kr/view/AKR20260420100500001?input=1195m",
+      "pub_date": "2026-04-20T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.newspim.com/news/view/20260420000758",
+      "pub_date": "2026-04-20T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 신세경, 조인성 이어 김남길과 호흡…드라마 '악몽' 특별 출연",
+      "link": "https://www.news1.kr/entertain/broadcast-tv/6142389",
+      "pub_date": "2026-04-20T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042014151632536",
+      "pub_date": "2026-04-20T14:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773547/1",
+      "pub_date": "2026-04-20T14:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 미래에셋증권 홍콩법인, 中CIS 기업 '지픽셀' IPO 투자",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111436",
+      "pub_date": "2026-04-20T14:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
+      "link": "https://www.mk.co.kr/article/12021719",
+      "pub_date": "2026-04-20T14:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598407",
+      "pub_date": "2026-04-20T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "네이버 해피빈, CJ제일제당과 도서산간 돌봄공백 아동에 한 끼 지원",
       "link": "https://www.apnews.kr/news/articleView.html?idxno=3048017",
@@ -22,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
-      "link": "https://www.kyeonggi.com/article/20260420580243",
+      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
+      "link": "https://www.etoday.co.kr/news/view/2577282",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 집회 사망사고 뒤…화물연대 차량, 경찰 바리케이드 돌진",
-      "link": "https://www.etoday.co.kr/news/view/2577282",
+      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
+      "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,7 +139,16 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]진주 물류센터 집회 현장서 화물차가 경찰 바리케이드 돌진…1명...",
+      "title": "이란 화물선 발포·나포‥\"합의 안 되면 초토화\"",
+      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816577_36974.html",
+      "pub_date": "2026-04-20T14:03:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]진주 물류센터 집회 현장서 화물차, 집회 참가자 추돌…1명 사망...",
       "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
       "pub_date": "2026-04-20T14:02:00+09:00",
       "source_id": "yna",
@@ -211,15 +301,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 화물연대 집회서 차량 충돌 사고⋯50대 조합원 사망",
-      "link": "http://www.inews24.com/view/1961691",
-      "pub_date": "2026-04-20T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
       "pub_date": "2026-04-20T13:50:00+09:00",
@@ -229,9 +310,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회 차사고 3명 사상…화물연대 \"조합원 총집결...",
-      "link": "https://www.ajunews.com/view/20260420103020440",
-      "pub_date": "2026-04-20T13:48:00+09:00",
+      "title": "[속보] 진주 화물연대 집회서 차량 충돌 사고⋯50대 조합원 사망",
+      "link": "http://www.inews24.com/view/1961691",
+      "pub_date": "2026-04-20T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -247,8 +328,26 @@
       "is_scoop": false
     },
     {
-      "title": "중단 예고 서부국민체육센터 프로그램 정상 운영 전망",
-      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263045",
+      "title": "[속보] 진주 물류센터 집회 차사고 3명 사상…화물연대 \"조합원 총집결...",
+      "link": "https://www.ajunews.com/view/20260420103020440",
+      "pub_date": "2026-04-20T13:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "pub_date": "2026-04-20T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“경질하라” vs “이게 기밀?”",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604200011",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -265,17 +364,8 @@
       "is_scoop": true
     },
     {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
-      "pub_date": "2026-04-20T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“경질하라” vs “이게 기밀?”",
-      "link": "https://www.bigtanews.co.kr/article/view/big202604200011",
+      "title": "중단 예고 서부국민체육센터 프로그램 정상 운영 전망",
+      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263045",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1708,96 +1798,6 @@
       "title": "[속보] 中 ‘기준금리 역할’ LPR 11개월째 동결…1년물 3.0%·5년물 3.5%",
       "link": "https://biz.heraldcorp.com/article/10720886?ref=naver",
       "pub_date": "2026-04-20T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "빅토르 오르반의 16년 체제의 종식, 새로운 마자르의 시대가 시작",
-      "link": "http://www.breaknews.com/1201460",
-      "pub_date": "2026-04-20T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
-      "pub_date": "2026-04-20T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.nocutnews.co.kr/news/6504825?utm_source=naver&utm_medium=article&utm_campaign=20260420103114",
-      "pub_date": "2026-04-20T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
-      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260420500465",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ajunews.com/view/20260420101502404",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604200125",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 도박 수사 무마 의혹' 경찰청 압수수색",
-      "link": "https://news.tf.co.kr/read/life/2314914.htm",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, '통일교 수사무마 의혹' 경찰청 압수수색 중",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02771606645418088",
-      "pub_date": "2026-04-20T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, ‘통일교 해외도박 수사무마 의혹’ 경찰청 등 압수수...",
-      "link": "https://www.khan.co.kr/article/202604201029001",
-      "pub_date": "2026-04-20T10:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
