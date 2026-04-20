@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21 04:25:25",
-  "total": 194,
+  "updated": "2026-04-21 04:30:32",
+  "total": 192,
   "breaking": 99,
   "items": [
     {
@@ -1726,24 +1726,6 @@
       "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260420143651073?input=1195m",
       "pub_date": "2026-04-20T18:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"쓰나미, 도망가라! 지금 바로!\"…일본 혼슈 동쪽 해역 강진...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525377&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T18:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“모멸감 줬던 KT 토탈영업TF…해체 후 수습 나섰지만 ‘사과’는 없었...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298448&inflow=N",
-      "pub_date": "2026-04-20T18:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
