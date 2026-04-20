@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 13:30:33",
+  "updated": "2026-04-20 13:35:28",
   "total": 200,
-  "breaking": 119,
+  "breaking": 117,
   "items": [
+    {
+      "title": "윤이나, '커리어 하이' 경신…LPGA투어 LA챔피언십 4위",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065586762069121",
+      "pub_date": "2026-04-20T13:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 물류센터 3명 사상 사고…화물연대 \"조합원 총집결\" 대응",
+      "link": "https://www.yna.co.kr/view/AKR20260420087700052?input=1195m",
+      "pub_date": "2026-04-20T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "추신수 ‘코앞까지 성큼’ 오타니… 51G 출루, 亞신기록까지 ‘-1’",
+      "link": "https://www.sportsseoul.com/news/read/1604033?ref=naver",
+      "pub_date": "2026-04-20T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "임종룡 우리금융 회장 \"생산적·포용 금융 골든타임 잡는다\"",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118844",
+      "pub_date": "2026-04-20T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 비아트론, 117억 규모 디스플레이 장비 공급계약 체결 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568944",
+      "pub_date": "2026-04-20T13:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "쿠팡CLS·HR그룹, ‘하루온’ 런칭…물류 현장 디지털 전환과 근무 문화...",
+      "link": "https://www.hinews.co.kr/view.php?ud=2026042013273074039aeda69934_48",
+      "pub_date": "2026-04-20T13:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 정동영 통일장관 \"정책설명을 정보유출로 몰아 대단히 유감\"",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045683",
@@ -167,19 +221,19 @@
     },
     {
       "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090171.html",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189174",
       "pub_date": "2026-04-20T13:07:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189174",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090171.html",
       "pub_date": "2026-04-20T13:07:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
-      "pub_date": "2026-04-20T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 신은수, 장근석 만난다…'협반' 캐스팅 확정",
-      "link": "https://www.xportsnews.com/article/2139072",
-      "pub_date": "2026-04-20T10:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 드림시큐리티 주가 상한가 직행…최근 흐름은?",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568888",
-      "pub_date": "2026-04-20T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "G마켓, 20일 하루 아모레퍼시픽 ‘올인’ 프로모션…인기 상품 최대 55%...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85761",
-      "pub_date": "2026-04-20T09:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홍준표 “국민의힘, 지선 참패하고 나면 이익집단의 ‘쌩얼’ 보...",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420504&PRO_CODE=99",
-      "pub_date": "2026-04-20T09:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홍준표 “보수정당, 지선 참패하면 난동부리는 이익집단의 맨얼...",
-      "link": "https://www.kyeonggi.com/article/20260420580044",
-      "pub_date": "2026-04-20T09:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
