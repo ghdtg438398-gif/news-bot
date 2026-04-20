@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 05:20:29",
-  "total": 176,
-  "breaking": 104,
+  "updated": "2026-04-21 05:25:28",
+  "total": 177,
+  "breaking": 105,
   "items": [
+    {
+      "title": "[속보] 다시 막힌 호르무즈, 美증시 하락 마감…WTI 7%↑",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210100&t=NN",
+      "pub_date": "2026-04-21T05:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]유가 급등에 뉴욕증시 하락…미·이란 평화협상 불확실성 확대",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01679366645418416",
@@ -58,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,6 +121,15 @@
       "is_scoop": false
     },
     {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[우보세]교부금 울타리",
       "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
       "pub_date": "2026-04-21T05:00:00+09:00",
@@ -123,15 +141,6 @@
     {
       "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6143035",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
