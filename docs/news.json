@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 03:20:28",
+  "updated": "2026-04-21 03:25:28",
   "total": 200,
-  "breaking": 103,
+  "breaking": 102,
   "items": [
+    {
+      "title": "미 핀테크 기업 \" 2억 9천만 달러 가상화폐 해킹, 북한 라자루스 소행 추...",
+      "link": "https://www.voakorea.com/a/u-s-fintech-firm-layerzero-says-recent-290-million-cryptocurrency-hack-likely-carried-out-by-north-korea-s-lazarus-group-042026/8139591.html",
+      "pub_date": "2026-04-21T03:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "돌아온 늑구 \"심려끼쳐 죄송... '국민늑대'로 오월드 마스코트 될 것\"",
       "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444956",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T18:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     }
