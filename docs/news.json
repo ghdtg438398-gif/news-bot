@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 05:10:33",
+  "updated": "2026-04-21 05:15:27",
   "total": 180,
   "breaking": 104,
   "items": [
+    {
+      "title": "[속보]유가 급등에 뉴욕증시 하락…미·이란 평화협상 불확실성 확대",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01679366645418416",
+      "pub_date": "2026-04-21T05:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "역대 최대 '50조 감축'…1순위는 교육교부금",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01666246645418416",
@@ -49,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,21 +121,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6143035",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[우보세]교부금 울타리",
       "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6143035",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1612,15 +1621,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰청, \"화물연대 집회 사망 유감…전담수사팀 구성해 엄정 수...",
-      "link": "https://www.hankyung.com/article/2026042039877",
-      "pub_date": "2026-04-20T19:12:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
