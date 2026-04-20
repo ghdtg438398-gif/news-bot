@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 17:40:33",
+  "updated": "2026-04-20 17:45:37",
   "total": 200,
-  "breaking": 140,
+  "breaking": 138,
   "items": [
+    {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "https://www.yna.co.kr/view/AKR20260420147100073?input=1195m",
+      "pub_date": "2026-04-20T17:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 현대차 “美, 이중관세는 안돼”…공식 요청한 근거는",
+      "link": "https://www.mk.co.kr/article/12022008",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]내일 올봄 최악 황사 닥친다…아침 기온 2∼11도까지 떨어져",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050160600000",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日 혼슈 앞바다 7.4 강진…\"즉시 대피\" 쓰나미 경보",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200267&t=NN",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 “모디 총리, 중동 안정·평화 공감…한반도 평화 지지...",
+      "link": "https://www.joongang.co.kr/article/25421728",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
+      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
+      "pub_date": "2026-04-20T17:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" <NHK>",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090293.html",
+      "pub_date": "2026-04-20T17:38:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "日혼슈 동쪽 해역서 '규모 7.4' 지진 발생…쓰나미 경보 발령",
       "link": "https://www.slist.kr/news/articleView.html?idxno=733285",
@@ -13,9 +76,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
-      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
-      "pub_date": "2026-04-20T17:38:00+09:00",
+      "title": "'도망가라' 日 규모7.4지진, 쓰나미…원전도 비상",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305485?division=NAVER",
+      "pub_date": "2026-04-20T17:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-인도 정상, 에너지·나프타 등 원자재 수급 협력 지속키로",
+      "link": "https://www.hankookilbo.com/news/article/A2026042011290000580?did=NA",
+      "pub_date": "2026-04-20T17:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -31,26 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한-인도 정상, 에너지·나프타 등 원자재 수급 협력 지속키로",
-      "link": "https://www.hankookilbo.com/news/article/A2026042011290000580?did=NA",
-      "pub_date": "2026-04-20T17:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'도망가라' 日 규모7.4지진, 쓰나미…원전도 비상",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305485?division=NAVER",
-      "pub_date": "2026-04-20T17:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-인도, AI·디지털 협력 확대 합의\"",
-      "link": "https://www.etoday.co.kr/news/view/2577385",
+      "title": "[속보] 李대통령 \"한-인도 교역액 2030년까지 500억 달러 확대\"",
+      "link": "https://www.etoday.co.kr/news/view/2577384",
       "pub_date": "2026-04-20T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-인도 교역액 2030년까지 500억 달러 확대\"",
-      "link": "https://www.etoday.co.kr/news/view/2577384",
+      "title": "[속보] 李대통령 \"한-인도, AI·디지털 협력 확대 합의\"",
+      "link": "https://www.etoday.co.kr/news/view/2577385",
       "pub_date": "2026-04-20T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,15 +148,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 일본 동북부 진도 7.4 지진... 쓰나미 경보",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729003",
-      "pub_date": "2026-04-20T17:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "日 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보 발령",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420173442y8v",
       "pub_date": "2026-04-20T17:35:00+09:00",
@@ -112,8 +157,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 모디 총리와 공동언론 발표 “중동 평화회복…세계 경...",
-      "link": "https://biz.heraldcorp.com/article/10721428?ref=naver",
+      "title": "[속보] 일본 동북부 진도 7.4 지진... 쓰나미 경보",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729003",
+      "pub_date": "2026-04-20T17:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 대통령 “한-인도, 에너지·원자재 수급 협력 지속”",
+      "link": "https://www.etoday.co.kr/news/view/2577383",
       "pub_date": "2026-04-20T17:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李 대통령 “한-인도, 에너지·원자재 수급 협력 지속”",
-      "link": "https://www.etoday.co.kr/news/view/2577383",
+      "title": "[속보] 李대통령, 모디 총리와 공동언론 발표 “중동 평화회복…세계 경...",
+      "link": "https://biz.heraldcorp.com/article/10721428?ref=naver",
       "pub_date": "2026-04-20T17:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,15 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] \"트럼프 철학 지지, 기독교 가치관 입각 국가 운영\"…특검, 계엄...",
-      "link": "https://news.jtbc.co.kr/article/NB12295020?influxDiv=NAVER",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "수도권 고급주택 턴 '날다람쥐' 절도범 검거",
       "link": "https://www.ppss.kr/news/articleView.html?idxno=293569",
       "pub_date": "2026-04-20T17:30:00+09:00",
@@ -227,6 +272,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] \"트럼프 철학 지지, 기독교 가치관 입각 국가 운영\"…특검, 계엄...",
+      "link": "https://news.jtbc.co.kr/article/NB12295020?influxDiv=NAVER",
+      "pub_date": "2026-04-20T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "대구시, 취약계층 학대예방 지원체계 긴급 점검…전 단계 대응 강화",
@@ -337,8 +391,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"지주택 '희망고문' 끊는다\"…토지확보 80% 완화·공사비 검증 의무화",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78198",
+      "title": "지역주택조합 사업인가 토지 확보 요건 95%→80%로 완화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963041&call_from=naver_news",
       "pub_date": "2026-04-20T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +400,8 @@
       "is_scoop": false
     },
     {
-      "title": "지역주택조합 사업인가 토지 확보 요건 95%→80%로 완화",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963041&call_from=naver_news",
+      "title": "\"지주택 '희망고문' 끊는다\"…토지확보 80% 완화·공사비 검증 의무화",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78198",
       "pub_date": "2026-04-20T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -895,6 +949,15 @@
       "is_scoop": false
     },
     {
+      "title": "일본 혼슈 동쪽 해역 규모 7.4 지진 발생…쓰나미 경보 발령",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525310&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-20T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "호주 '싱글세' 연 2000만원…1인 가구 재정 부담 가중 확연",
       "link": "https://www.asiatoday.co.kr/view.php?key=20260420010006067",
       "pub_date": "2026-04-20T17:04:00+09:00",
@@ -919,15 +982,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525310&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1003,15 +1057,6 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] ① 신안군 조경·미술관 사업, '쪼개기 계약·가짜 기증' 의혹 확...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59083",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "에이블리, 첫 뷰티 PB '바이블리' 론칭…1020 취향 정조준",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=513006",
       "pub_date": "2026-04-20T17:00:00+09:00",
@@ -1019,6 +1064,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] ① 신안군 조경·미술관 사업, '쪼개기 계약·가짜 기증' 의혹 확...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59083",
+      "pub_date": "2026-04-20T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "與 \"영입인재 1호 전태진, 울산 남구갑 전략공천\"",
@@ -1084,8 +1138,8 @@
       "is_scoop": true
     },
     {
-      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
+      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1093,8 +1147,8 @@
       "is_scoop": false
     },
     {
-      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
+      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1746,60 +1800,6 @@
       "pub_date": "2026-04-20T16:10:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與, 울산 남갑에 전태진 공천…재보궐 ‘1호 공천’",
-      "link": "https://www.sedaily.com/article/20034716?ref=naver",
-      "pub_date": "2026-04-20T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104247",
-      "pub_date": "2026-04-20T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 \"6·3 보궐선거 울산 남갑 후보에 전태진 예정\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000287.html",
-      "pub_date": "2026-04-20T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]與 \"재보궐 1호 공천, 김상욱 울산남갑에 전태진\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016073238654",
-      "pub_date": "2026-04-20T16:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 \"울산 남갑 보궐선거 후보에 전태진 변호사 전략공천\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026042015540000680?did=NA",
-      "pub_date": "2026-04-20T16:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]與, 울산 남갑에 전태진 변호사 전략공천",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04018006645418088&returntp=election",
-      "pub_date": "2026-04-20T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
