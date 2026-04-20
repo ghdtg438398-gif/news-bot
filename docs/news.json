@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 09:25:30",
+  "updated": "2026-04-20 09:30:38",
   "total": 200,
-  "breaking": 133,
+  "breaking": 137,
   "items": [
+    {
+      "title": "[속보]미국 프로축구 LAFC 0-3 새너제이(후반 13분 라이언 포르티우스 자...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597723",
+      "pub_date": "2026-04-20T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '안갯속 중동전쟁' 불확실성↑…코스피 '혼조'·WTI '6%↑'",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200077&t=NN",
+      "pub_date": "2026-04-20T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[DP's 모닝픽] 이미지 AI '덕트 테이프' 수준은… \"곧바로 실무 투입 가...",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58989",
+      "pub_date": "2026-04-20T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”〈이란 반관영매체〉",
+      "link": "https://www.etnews.com/20260420000046",
+      "pub_date": "2026-04-20T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, PGA RBC 헤리티지 단독 3위 기록",
+      "link": "https://mdtoday.co.kr/news/view/1065572545699104",
+      "pub_date": "2026-04-20T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "코스피, 중동 긴장 재격화에도 상승…6200선 출발",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=88706",
+      "pub_date": "2026-04-20T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국 프로축구 LAFC 0-2 새너제이(후반 11분 티모 베르너)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597469",
+      "pub_date": "2026-04-20T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]미국 프로축구 LAFC 0-1 새너제이(후반 8분 우세니 부다)",
       "link": "https://www.newsis.com/view/NISX20260420_0003597468",
@@ -13,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
-      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
+      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
+      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
+      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,15 +103,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"- 이란 관영매체 보도",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702026",
-      "pub_date": "2026-04-20T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 0.36% 오른 6,213.92 개장",
       "link": "https://n.news.naver.com/mnews/article/422/0000856778?sid=101",
       "pub_date": "2026-04-20T09:16:00+09:00",
@@ -63,6 +117,15 @@
       "pub_date": "2026-04-20T09:16:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"- 이란 관영매체 보도",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702026",
+      "pub_date": "2026-04-20T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -112,24 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834009",
-      "pub_date": "2026-04-20T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031095",
-      "pub_date": "2026-04-20T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
       "pub_date": "2026-04-20T09:12:00+09:00",
@@ -144,6 +189,24 @@
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031095",
+      "pub_date": "2026-04-20T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834009",
+      "pub_date": "2026-04-20T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -193,15 +256,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 원·달러 환율, 4원 내린 1479.5원 출발",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/EKLSFWECIRAEXNYW656EALQ4V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-20T09:08:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[HMM50년 돌아보기-19] 글로벌 얼라이언스와 제휴",
       "link": "http://www.thebigdata.co.kr/view.php?ud=202604200853151963570d99e4c8_23",
       "pub_date": "2026-04-20T09:08:00+09:00",
@@ -229,18 +283,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 반관영매체 “이란군 美군함에 드론으로 보복 타격”",
-      "link": "https://www.kyeonggi.com/article/20260420580034",
-      "pub_date": "2026-04-20T09:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] 원·달러 환율, 4원 내린 1479.5원 출발",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/EKLSFWECIRAEXNYW656EALQ4V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 오리엔탈정공 VI 발동, 장초반부터 주가 도약…20%↑",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568865",
-      "pub_date": "2026-04-20T09:06:00+09:00",
+      "title": "[속보] 이란 반관영매체 “이란군 美군함에 드론으로 보복 타격”",
+      "link": "https://www.kyeonggi.com/article/20260420580034",
+      "pub_date": "2026-04-20T09:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -254,6 +308,24 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[속보] 오리엔탈정공 VI 발동, 장초반부터 주가 도약…20%↑",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568865",
+      "pub_date": "2026-04-20T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "물오른 김시우, RBC 헤리티지 단독 3위 마무리… 시즌 3번째 톱5",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931353",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]원·달러 환율, 4.0원 내린 1479.5원 출발",
@@ -272,15 +344,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "물오른 김시우, RBC 헤리티지 단독 3위 마무리… 시즌 3번째 톱5",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931353",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
@@ -1735,69 +1798,6 @@
       "title": "54홀 선두일 때 승률 좋은 김세영, LPGA 14번째 우승 기대 [LA 챔피언십]",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019885",
       "pub_date": "2026-04-20T06:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 \"협상장 향했다‥협의 안 되면 파괴\"",
-      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6816452_37012.html",
-      "pub_date": "2026-04-20T06:04:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)통일교 윤영호 부부의 부동산 형성 의혹",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298298&inflow=N",
-      "pub_date": "2026-04-20T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "(단독)'통일교 횡령' 윤영호 아내, 특검 조사서 혐의 인정",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298299&inflow=N",
-      "pub_date": "2026-04-20T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 어쿠스틱콜라보 김승재·故모수진, ‘정산금 미지급’ 전 소속사...",
-      "link": "https://www.kukinews.com/article/view/kuk202604190048",
-      "pub_date": "2026-04-20T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "“너무 위험해서 출시 보류”… 겹겹의 보안 뚫는 AI 등장에 비상",
-      "link": "https://www.segye.com/newsView/20260419508716?OutUrl=naver",
-      "pub_date": "2026-04-20T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘일상 속 해결사 된 AI’... 서울 자치구, 시민 삶 바꾼다",
-      "link": "https://www.chosun.com/special/special_section/2026/04/20/CX2NY2MWVNCIHMPQSJHCMRQMWQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-20T06:01:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[미리보는 증시재료] 중동 긴장 속 SK하이닉스 실적…코스피 향방 가른...",
-      "link": "https://www.newspim.com/news/view/20260417001020",
-      "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
