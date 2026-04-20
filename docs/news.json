@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 04:00:39",
+  "updated": "2026-04-21 04:05:26",
   "total": 200,
-  "breaking": 102,
+  "breaking": 101,
   "items": [
+    {
+      "title": "[출근길 포인트] 홍해 뚫은 한국 유조선…호르무즈 봉쇄 속 우회로 확보...",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302016",
+      "pub_date": "2026-04-21T04:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] Betty Yee 전 CA회계감사관, CA주지사 선거 중도 하차",
       "link": "https://www.radiokorea.com/news/article.php?uid=493623",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T18:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS, JTBC '2026 북중미 월드컵' 공동중계",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599024",
-      "pub_date": "2026-04-20T18:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     }
