@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 12:00:40",
+  "updated": "2026-04-20 12:05:29",
   "total": 200,
-  "breaking": 121,
+  "breaking": 117,
   "items": [
+    {
+      "title": "추경호 “시민은 편리하게, 기사님은 안전하게”…안심 택시 도시 공약...",
+      "link": "http://www.breaknews.com/1201507",
+      "pub_date": "2026-04-20T12:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공무원 성과 '깜깜이' 사라진다…평가 결과 공개 확대",
+      "link": "https://www.nocutnews.co.kr/news/6504892?utm_source=naver&utm_medium=article&utm_campaign=20260420120019",
+      "pub_date": "2026-04-20T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "노동부, 감독 지방 위임 앞두고 지자체와 밀착감독 협업 시동",
+      "link": "https://www.nocutnews.co.kr/news/6504849?utm_source=naver&utm_medium=article&utm_campaign=20260420120017",
+      "pub_date": "2026-04-20T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“아쉬움 남긴 한 타”…‘K-듀오’ 김세영·임진희, LA챔피언십 연장 ...",
+      "link": "https://www.sportsseoul.com/news/read/1604009?ref=naver",
+      "pub_date": "2026-04-20T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "온코닉테라퓨틱스, AACR 2026서 SCLC 신약 '네수파립' 비임상 성과 첫 공...",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657063",
+      "pub_date": "2026-04-20T12:00:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]장동혁 “방미 중 접한 미국 인사들, 한국 대북정책에 우려 표해...",
       "link": "https://www.kwnews.co.kr/page/view/2026042050046900000",
@@ -148,17 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 “방미 논란 예상했지만 이재명 정권 외교 참사 때문에 미...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524948",
-      "pub_date": "2026-04-20T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
+      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -181,6 +217,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 “방미 논란 예상했지만 이재명 정권 외교 참사 때문에 미...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524948",
+      "pub_date": "2026-04-20T11:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -337,8 +382,8 @@
       "is_scoop": false
     },
     {
-      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
-      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
+      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
+      "link": "https://www.ajunews.com/view/20260420111147523",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +391,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
-      "link": "https://www.ajunews.com/view/20260420111147523",
+      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
+      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1756,51 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오리엔탈정공 VI 발동, 장초반부터 주가 도약…20%↑",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568865",
-      "pub_date": "2026-04-20T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "물오른 김시우, RBC 헤리티지 단독 3위 마무리… 시즌 3번째 톱5",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931353",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]원·달러 환율, 4.0원 내린 1479.5원 출발",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597647",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 22.00p(0.36%) 오른 6213.92(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2577120",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042009034433452",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
