@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 17:50:36",
+  "updated": "2026-04-20 17:55:31",
   "total": 200,
-  "breaking": 136,
+  "breaking": 135,
   "items": [
+    {
+      "title": "[현장] \"한국은 글로벌 벤치마크 시장\"…아우디, '더 뉴 A6'로 반등 승부...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80215",
+      "pub_date": "2026-04-20T17:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"장난삼아 올렸다\" 지난 대선 李대통령 협박글 게시한 남성 기소",
+      "link": "https://www.kyeonggi.com/article/20260420580460",
+      "pub_date": "2026-04-20T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'세계랭킹 26위' 김시우, RBC 헤리티지 3위로 최고 순위 재점프",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039803",
+      "pub_date": "2026-04-20T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "https://biz.heraldcorp.com/article/10721450?ref=naver",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
+      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 與 “윤석열 정권이 특별감찰관 임명 외면… 감시 체계 스스로 ...",
       "link": "https://www.segye.com/newsView/20260420517079?OutUrl=naver",
@@ -49,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"옥상으로 유인해 폭행\"…여중생 뺨 때리고 영상 촬영한 10대 女...",
-      "link": "https://www.imaeil.com/page/view/2026042017350463450",
+      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ의 쓰나미 예상",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
+      "title": "[속보] \"옥상으로 유인해 폭행\"…여중생 뺨 때리고 영상 촬영한 10대 女...",
+      "link": "https://www.imaeil.com/page/view/2026042017350463450",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
+      "title": "정청래 “이광재·송영길 공천 검토”...울산 남갑에 ‘인재영입 1호’...",
+      "link": "https://www.mediapen.com/news/view/1094549",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "정청래 “이광재·송영길 공천 검토”...울산 남갑에 ‘인재영입 1호’...",
-      "link": "https://www.mediapen.com/news/view/1094549",
+      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -108,6 +162,15 @@
       "pub_date": "2026-04-20T17:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090295.html",
+      "pub_date": "2026-04-20T17:45:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -157,18 +220,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日 혼슈 앞바다 7.4 강진…\"즉시 대피\" 쓰나미 경보",
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200267&t=NN",
       "pub_date": "2026-04-20T17:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
-      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
-      "pub_date": "2026-04-20T17:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -184,11 +238,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
+      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
+      "pub_date": "2026-04-20T17:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" <NHK>",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090293.html",
       "pub_date": "2026-04-20T17:38:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-인도 정상, 에너지·나프타 등 원자재 수급 협력 지속기로",
+      "link": "https://www.hankookilbo.com/news/article/A2026042011290000580?did=NA",
+      "pub_date": "2026-04-20T17:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,36 +274,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한-인도 정상, 에너지·나프타 등 원자재 수급 협력 지속키로",
-      "link": "https://www.hankookilbo.com/news/article/A2026042011290000580?did=NA",
-      "pub_date": "2026-04-20T17:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]日 혼슈 동쪽서 7.4 강진…쓰나미 경보 발령",
       "link": "https://www.munhwa.com/article/11583635?ref=naver",
       "pub_date": "2026-04-20T17:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
-      "link": "https://www.etoday.co.kr/news/view/2577423",
-      "pub_date": "2026-04-20T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-인도, AI·디지털 협력 확대 합의\"",
-      "link": "https://www.etoday.co.kr/news/view/2577385",
-      "pub_date": "2026-04-20T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -253,6 +298,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
+      "link": "https://www.etoday.co.kr/news/view/2577423",
+      "pub_date": "2026-04-20T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-인도, AI·디지털 협력 확대 합의\"",
+      "link": "https://www.etoday.co.kr/news/view/2577385",
+      "pub_date": "2026-04-20T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1738,69 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 “‘선당후사’ 이광재, 핫플레이스로 공천 염두”",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/20/FOM2VXEO6ZHEDFLDAFJ6T53ZSY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-20T16:18:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 울산 남갑 국회의원 보궐선거에 전태진 공천",
-      "link": "https://news.jtbc.co.kr/article/NB12294991?influxDiv=NAVER",
-      "pub_date": "2026-04-20T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"이광재·송영길 재보궐선거 전략공천 염두\"",
-      "link": "https://www.news1.kr/politics/assembly/6142682",
-      "pub_date": "2026-04-20T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"이광재·송영길, 재보궐 공천 염두 두고 있다...선당후사...",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=566877&class=32&grp=",
-      "pub_date": "2026-04-20T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "시흥시, 2차 복지 사각지대 발굴 추진",
-      "link": "http://www.breaknews.com/1201645",
-      "pub_date": "2026-04-20T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경남도, 복지 사각지대 갇힌 ‘경제 허리’ 4050 세대 지원책 마련",
-      "link": "http://www.breaknews.com/1201632",
-      "pub_date": "2026-04-20T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
-      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
-      "pub_date": "2026-04-20T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
