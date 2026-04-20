@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 12:10:27",
+  "updated": "2026-04-20 12:15:28",
   "total": 200,
-  "breaking": 117,
+  "breaking": 115,
   "items": [
+    {
+      "title": "[단독] 이찬진 원장, 8대 지주 이사회 의장 간담회 '연기'…\"지배구조 개...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042011165945978",
+      "pub_date": "2026-04-20T12:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "김세영, LPGA투어 LA챔피언십서 아쉬운 연장패배",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540369&ref=A",
+      "pub_date": "2026-04-20T12:13:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "이란 화물선 발포·나포‥\"합의 안 되면 초토화\"",
       "link": "https://imnews.imbc.com/replay/2026/nw1200/article/6816543_36967.html",
@@ -103,15 +121,6 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴공 아카이브]강은호 전 방위사업청장·전북대 첨단방위산업학과 교수...",
-      "link": "http://www.ddanzi.com/879301743",
-      "pub_date": "2026-04-20T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "굿네이버스·경기도교육청 맞손…경인교대 참여 ‘위기학생 지원’ 확대",
       "link": "http://www.joynews24.com/view/1961659",
       "pub_date": "2026-04-20T11:46:00+09:00",
@@ -123,6 +132,15 @@
     {
       "title": "퍼주기 공약의 악성 진화[뉴스와 시각]",
       "link": "https://www.munhwa.com/article/11583497?ref=naver",
+      "pub_date": "2026-04-20T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴공 아카이브]강은호 전 방위사업청장·전북대 첨단방위산업학과 교수...",
+      "link": "http://www.ddanzi.com/879301743",
       "pub_date": "2026-04-20T11:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -337,8 +355,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
+      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
       "pub_date": "2026-04-20T11:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,8 +364,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
+      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
       "pub_date": "2026-04-20T11:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 원·달러 환율, 4원 내린 1479.5원 출발",
-      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/EKLSFWECIRAEXNYW656EALQ4V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-20T09:08:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 반관영매체 “이란군 美군함에 드론으로 보복 타격”",
-      "link": "https://www.kyeonggi.com/article/20260420580034",
-      "pub_date": "2026-04-20T09:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
