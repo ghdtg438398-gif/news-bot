@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 07:50:30",
+  "updated": "2026-04-21 07:55:25",
   "total": 164,
   "breaking": 109,
   "items": [
+    {
+      "title": "2.5t 화물차 막던 조합원 사망…경찰, 진상조사 착수",
+      "link": "https://www.segye.com/newsView/20260421502394?OutUrl=naver",
+      "pub_date": "2026-04-21T07:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.etnews.com/20260421000008",
@@ -1468,15 +1477,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "박종원 민주당 담양군수 후보 \"예산 1조 원 시대·AI 농업 중심지로 도약...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200076",
-      "pub_date": "2026-04-20T21:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
