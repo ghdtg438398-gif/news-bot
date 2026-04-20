@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-21 05:30:31",
-  "total": 176,
+  "updated": "2026-04-21 05:35:27",
+  "total": 174,
   "breaking": 104,
   "items": [
     {
-      "title": "[속보] 다시 막힌 호르무즈, 美증시 하락 마감…WTI 7%↑",
+      "title": "윤이나, LPGA 개인 최고인 단독 4위…세계랭킹 15계단 도약",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019908",
+      "pub_date": "2026-04-21T05:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 다시 막힌 호르무즈, 美증시 하락 마감…나스닥 0.26%↓",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210100&t=NN",
       "pub_date": "2026-04-21T05:19:00+09:00",
       "source_id": "yna",
@@ -1559,33 +1568,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "화물연대 집회 중 물류차 막아서다 사고…노조원 1명 사망",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189287",
-      "pub_date": "2026-04-20T19:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 동쪽 해역서 규모 7.4 강진…다카이치 총리 \"대피해달라\"",
-      "link": "https://www.hankyung.com/article/2026042040001",
-      "pub_date": "2026-04-20T19:31:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, '진주 화물연대 사망사고' 진상조사·전담수사팀 구성",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04890486645418088",
-      "pub_date": "2026-04-20T19:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
