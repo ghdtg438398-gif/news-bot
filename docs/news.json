@@ -1,12 +1,93 @@
 {
-  "updated": "2026-04-20 22:45:31",
+  "updated": "2026-04-20 22:50:38",
   "total": 200,
-  "breaking": 101,
+  "breaking": 104,
   "items": [
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "http://www.fnnews.com/news/202604202235094339",
-      "pub_date": "2026-04-20T22:40:00+09:00",
+      "title": "[속보] 트럼프 “밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착...",
+      "link": "https://www.mk.co.kr/article/12022290",
+      "pub_date": "2026-04-20T22:48:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란, 미국과 2차 협상 참석 ‘긍정적’ 검토 중”<로이터>",
+      "link": "https://www.dt.co.kr/article/12058498?ref=naver",
+      "pub_date": "2026-04-20T22:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 송치영 소공연 회장 “유기준, 선거 뒤 기소돼 봐야 소용없어…...",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302689",
+      "pub_date": "2026-04-20T22:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]“쿠웨이트, 호르무즈 봉쇄로 원유수출 ‘불가항력’ 선언”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525102",
+      "pub_date": "2026-04-20T22:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "https://www.kyeonggi.com/article/20260420580652",
+      "pub_date": "2026-04-20T22:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 등 미국 협상단, 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.newspim.com/news/view/20260420001290",
+      "pub_date": "2026-04-20T22:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
+      "pub_date": "2026-04-20T22:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
+      "pub_date": "2026-04-20T22:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “쿠웨이트, 호르무즈 봉쇄로 원유수출 ‘불가항력’ 선언”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/20/20260420500266?wlog_tag3=naver",
+      "pub_date": "2026-04-20T22:45:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"밴스 부통령 이끈 美대표단, 몇시간내 이슬라마바드 도착\"",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599160",
+      "pub_date": "2026-04-20T22:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -22,6 +103,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "http://www.fnnews.com/news/202604202235094339",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] \"이란, 美와 2차 협상 참석 '긍정적' 검토 중\"<로이터>",
       "link": "https://news.jtbc.co.kr/article/NB12295065?influxDiv=NAVER",
       "pub_date": "2026-04-20T22:39:00+09:00",
@@ -31,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.news1.kr/world/usa-canada/6143007",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.news1.kr/world/usa-canada/6143007",
+      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,21 +175,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
-      "pub_date": "2026-04-20T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "종전인가, 확전인가…2차 협상 앞두고 美 협상단은 파키스탄으로 [뉴스...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525100",
       "pub_date": "2026-04-20T22:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
+      "pub_date": "2026-04-20T22:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1708,96 +1798,6 @@
       "title": "'세계랭킹 26위' 김시우, RBC 헤리티지 3위로 최고 순위 재점프",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039803",
       "pub_date": "2026-04-20T17:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"장난삼아 올렸다\" 지난 대선 李대통령 협박글 게시한 남성 기소",
-      "link": "https://www.kyeonggi.com/article/20260420580460",
-      "pub_date": "2026-04-20T17:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
-      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://biz.heraldcorp.com/article/10721450?ref=naver",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 “윤석열 정권이 특별감찰관 임명 외면… 감시 체계 스스로 ...",
-      "link": "https://www.segye.com/newsView/20260420517079?OutUrl=naver",
-      "pub_date": "2026-04-20T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'5월 결혼' 28기 영호, ♥28기 옥순 딸에 '아빠' 소리 들었다 \"뭉클 울컥...",
-      "link": "https://www.xportsnews.com/article/2139268",
-      "pub_date": "2026-04-20T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 재보궐 공천 ‘인물난’…올드보이 카드 꺼내들까 [6·3 재보궐...",
-      "link": "https://www.kukinews.com/article/view/kuk202604200186",
-      "pub_date": "2026-04-20T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" (NHK)",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604200208",
-      "pub_date": "2026-04-20T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정청래 “이광재·송영길 공천 검토”...울산 남갑에 ‘인재영입 1호’...",
-      "link": "https://www.mediapen.com/news/view/1094549",
-      "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
