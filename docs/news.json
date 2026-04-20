@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 20:55:26",
+  "updated": "2026-04-20 20:57:47",
   "total": 200,
-  "breaking": 97,
+  "breaking": 96,
   "items": [
+    {
+      "title": "대심도 인근 땅꺼짐..\"공사범위 밖 추가 공동 3곳\"",
+      "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=284638",
+      "pub_date": "2026-04-20T20:56:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "(R)[여론조사①]대전시장 여론조사..허태정 46.3% 이장우 22.9%",
       "link": "https://www.tjb.co.kr/news05/bodo/view/id/97363",
@@ -13,8 +22,8 @@
       "is_scoop": false
     },
     {
-      "title": "청소년, 흡연보다 마약 경험 더 많다",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
+      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
       "pub_date": "2026-04-20T20:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 파업 중 참변 … 노사 갈등 일촉즉발",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902947",
+      "title": "청소년, 흡연보다 마약 경험 더 많다",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=902946",
       "pub_date": "2026-04-20T20:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"北 구성 핵시설 이미 알려져…정동영 기밀 누설 주장...",
-      "link": "https://www.imaeil.com/page/view/2026042020381524068",
+      "title": "[속보] 평택 최원용·고양 민경선 본선행",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513254",
       "pub_date": "2026-04-20T20:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 평택 최원용·고양 민경선 본선행",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513254",
+      "title": "[속보] 李대통령 \"北 구성 핵시설 이미 알려져…정동영 기밀 누설 주장...",
+      "link": "https://www.imaeil.com/page/view/2026042020381524068",
       "pub_date": "2026-04-20T20:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.news1.kr/politics/president/6142985",
+      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
+      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.news1.kr/politics/president/6142985",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,8 +238,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 동쪽 해안서 쓰나미 관측\" < NHK>",
-      "link": "https://www.yna.co.kr/view/AKR20260420143400009?input=1195m",
-      "pub_date": "2026-04-20T17:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
