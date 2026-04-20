@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 07:55:25",
-  "total": 164,
-  "breaking": 109,
+  "updated": "2026-04-21 08:00:38",
+  "total": 166,
+  "breaking": 111,
   "items": [
+    {
+      "title": "[속보] 비트코인 3% 상승, 7만6000달러 회복",
+      "link": "https://www.news1.kr/world/usa-canada/6143091",
+      "pub_date": "2026-04-21T07:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日 다카이치 총리, 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190043.html",
+      "pub_date": "2026-04-21T07:51:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "2.5t 화물차 막던 조합원 사망…경찰, 진상조사 착수",
       "link": "https://www.segye.com/newsView/20260421502394?OutUrl=naver",
@@ -22,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
+      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.etnews.com/20260421000007",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,20 +229,20 @@
       "is_scoop": false
     },
     {
-      "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
-      "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
-      "pub_date": "2026-04-21T07:02:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
       "pub_date": "2026-04-21T07:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
+      "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
