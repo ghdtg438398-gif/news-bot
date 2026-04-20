@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 21:30:36",
+  "updated": "2026-04-20 21:35:27",
   "total": 200,
-  "breaking": 102,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[속보] 충주 금가면 인근 서부 순환대로 멧돼지 출몰",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561882",
+      "pub_date": "2026-04-20T21:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "계속되는 ‘손의 침묵’… 안방서 1-4 굴욕패",
+      "link": "https://www.segye.com/newsView/20260420515909?OutUrl=naver",
+      "pub_date": "2026-04-20T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'나솔' 28기 영호♥옥순, 진짜 가족 됐다…\"딸도 아빠라 불러\" 뭉클 ('솔...",
+      "link": "https://www.tenasia.co.kr/article/2026042040284",
+      "pub_date": "2026-04-20T21:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김용범 “인도 모디 총리실 한국전담 데스크 신설”",
+      "link": "https://biz.heraldcorp.com/article/10721520?ref=naver",
+      "pub_date": "2026-04-20T21:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]\"이재명 암살단 모집…총·석궁 준비돼\" 위협글 SNS 게시 30대男, ...",
       "link": "https://www.imaeil.com/page/view/2026042021273992326",
@@ -31,15 +67,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.mk.co.kr/article/12022240",
-      "pub_date": "2026-04-20T21:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가…21일 공식 취임",
       "link": "https://www.seoul.co.kr/news/economy/2026/04/20/20260420500258?wlog_tag3=naver",
       "pub_date": "2026-04-20T21:23:00+09:00",
@@ -49,8 +76,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260420.99099005821",
+      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.mk.co.kr/article/12022240",
+      "pub_date": "2026-04-20T21:23:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"정동영 구성 핵시설 언급에 기밀누설 주장은 잘못\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042021190302191",
       "pub_date": "2026-04-20T21:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"정동영 구성 핵시설 언급에 기밀누설 주장은 잘못\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042021190302191",
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260420.99099005821",
       "pub_date": "2026-04-20T21:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,15 +130,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042021112331924",
-      "pub_date": "2026-04-20T21:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "https://biz.heraldcorp.com/article/10721517?ref=naver",
       "pub_date": "2026-04-20T21:13:00+09:00",
@@ -112,9 +139,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.fnnews.com/news/202604202109186746",
-      "pub_date": "2026-04-20T21:12:00+09:00",
+      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042021112331924",
+      "pub_date": "2026-04-20T21:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -131,8 +158,8 @@
     },
     {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://view.asiae.co.kr/article/2026042021113381882",
-      "pub_date": "2026-04-20T21:11:00+09:00",
+      "link": "http://www.fnnews.com/news/202604202109186746",
+      "pub_date": "2026-04-20T21:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -149,10 +176,10 @@
     },
     {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
-      "pub_date": "2026-04-20T21:10:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "link": "https://view.asiae.co.kr/article/2026042021113381882",
+      "pub_date": "2026-04-20T21:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -162,6 +189,15 @@
       "pub_date": "2026-04-20T21:10:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
+      "pub_date": "2026-04-20T21:10:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1762,42 +1798,6 @@
       "title": "[속보]이 대통령 \"한-인도 정상 공동성명 채택…후속 조치 신속 이행\"",
       "link": "https://www.newsis.com/view/NISX20260420_0003598855",
       "pub_date": "2026-04-20T17:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日 동쪽 해역서 규모 7.4 지진…\"최고 3m 쓰나미 경보\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042017263002594",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"트럼프 철학 지지, 기독교 가치관 입각 국가 운영\"…특검, 계엄...",
-      "link": "https://news.jtbc.co.kr/article/NB12295020?influxDiv=NAVER",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "수도권 고급주택 턴 '날다람쥐' 절도범 검거",
-      "link": "https://www.ppss.kr/news/articleView.html?idxno=293569",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시, 취약계층 학대예방 지원체계 긴급 점검…전 단계 대응 강화",
-      "link": "http://www.breaknews.com/1201658",
-      "pub_date": "2026-04-20T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
