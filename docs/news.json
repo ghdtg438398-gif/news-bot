@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 07:35:25",
-  "total": 166,
-  "breaking": 107,
+  "updated": "2026-04-21 07:40:30",
+  "total": 164,
+  "breaking": 105,
   "items": [
+    {
+      "title": "귀국한 장동혁… 조선일보 \"화제 된 건 김민수와 웃으며 찍은 관광객 사...",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333900",
+      "pub_date": "2026-04-21T07:39:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배 보류 전망",
       "link": "https://www.munhwa.com/article/11583710?ref=naver",
@@ -139,20 +148,20 @@
       "is_scoop": false
     },
     {
-      "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
-      "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
-      "pub_date": "2026-04-21T07:02:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
       "pub_date": "2026-04-21T07:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
+      "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1468,33 +1477,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가…내일자 발령",
-      "link": "http://www.inews24.com/view/1961911",
-      "pub_date": "2026-04-20T21:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[세상을 보며] 부쩍 늘어난 중동에 대한 문해력 - 이상규(산청거창함양...",
-      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1539859",
-      "pub_date": "2026-04-20T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이천시 민주당 공직선거 후보 경선, '성수석 확정'",
-      "link": "https://www.kmaeil.com/news/articleView.html?idxno=637713",
-      "pub_date": "2026-04-20T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
