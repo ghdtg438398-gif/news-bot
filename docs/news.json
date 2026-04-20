@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 16:25:33",
+  "updated": "2026-04-20 16:29:45",
   "total": 200,
-  "breaking": 119,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 정청래 \"송영길 하남갑 공천, 염두에 두고 있다\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838352",
+      "pub_date": "2026-04-20T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 양산 군지산서 산불 발생…\"입산 금지\"",
+      "link": "https://www.ajunews.com/view/20260420162150978",
+      "pub_date": "2026-04-20T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 “이광재·송영길 재보궐선거 전략공천 염두”",
+      "link": "https://www.joongang.co.kr/article/25421698",
+      "pub_date": "2026-04-20T16:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주, 울산 남갑 국회의원 보궐선거에 전태진 변호사 공천 예정",
+      "link": "https://view.asiae.co.kr/article/2026042016262934184",
+      "pub_date": "2026-04-20T16:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
+      "link": "https://www.mk.co.kr/article/12021904",
+      "pub_date": "2026-04-20T16:25:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'둔감해진 중동전쟁' 코스피 6200선 회복…SK하닉 3%↑ [시황종합]",
+      "link": "https://www.news1.kr/finance/market-exr/6142664",
+      "pub_date": "2026-04-20T16:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 정청래 \"송영길 하납갑 공천? 염두에 두고 있어 … 이광재도 전...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000296.html",
@@ -67,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 \"송영길 공천, 염두에 두고 있다\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2315169.htm",
+      "title": "[속보]정청래 “재보궐 1호 공천에 울산 남갑 전태진…이광재·송영길도...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525000",
       "pub_date": "2026-04-20T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정청래 “재보궐 1호 공천에 울산 남갑 전태진…이광재·송영길도...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525000",
+      "title": "[속보] 정청래 \"송영길 공천, 염두에 두고 있다\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2315169.htm",
       "pub_date": "2026-04-20T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정청래 “송영길, 하남갑 공천? 염두에 두고 있어”",
+      "title": "[속보] 정청래 “‘선당후사’ 이광재, 핫플레이스로 공천 염두”",
       "link": "https://www.chosun.com/politics/assembly/2026/04/20/FOM2VXEO6ZHEDFLDAFJ6T53ZSY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-20T16:18:00+09:00",
       "source_id": "chosun",
@@ -130,15 +184,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 \"이광재·송영길 재보궐선거 전략공천 염두\"",
-      "link": "https://www.news1.kr/politics/assembly/6142682",
-      "pub_date": "2026-04-20T16:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 민주당, 울산 남갑 국회의원 보궐선거에 전태진 공천",
       "link": "https://news.jtbc.co.kr/article/NB12294991?influxDiv=NAVER",
       "pub_date": "2026-04-20T16:17:00+09:00",
@@ -148,17 +193,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정청래 \"송영길, 하남갑 공천? 염두에 두고 있어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016143728244",
-      "pub_date": "2026-04-20T16:16:00+09:00",
+      "title": "[속보] 정청래 \"이광재·송영길 재보궐선거 전략공천 염두\"",
+      "link": "https://www.news1.kr/politics/assembly/6142682",
+      "pub_date": "2026-04-20T16:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 양산 군지산 산불 발생…입산 통제, 인근 주민 주의 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864142",
+      "title": "[속보]정청래 \"송영길, 하남갑 공천? 염두에 두고 있어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042016143728244",
       "pub_date": "2026-04-20T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -190,6 +235,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 양산 군지산 산불 발생…입산 통제, 인근 주민 주의 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864142",
+      "pub_date": "2026-04-20T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -445,6 +499,15 @@
       "is_scoop": true
     },
     {
+      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험...",
       "link": "https://newstapa.org/article/NWYLD",
       "pub_date": "2026-04-20T16:00:00+09:00",
@@ -465,15 +528,6 @@
     {
       "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
       "link": "https://www.newspim.com/news/view/20260420000935",
-      "pub_date": "2026-04-20T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
-      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
       "pub_date": "2026-04-20T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -751,8 +805,8 @@
       "is_scoop": false
     },
     {
-      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
-      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
+      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
+      "link": "https://www.sidae.com/article/2026042015294536419",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -760,8 +814,8 @@
       "is_scoop": false
     },
     {
-      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
-      "link": "https://www.sidae.com/article/2026042015294536419",
+      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
+      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[현대카드의 고민①] 애플페이 짊어지고 '외로운 독주'",
-      "link": "http://www.newswatch.kr/news/articleView.html?idxno=79213",
-      "pub_date": "2026-04-20T14:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]'이혼' 최동석, 박지윤 불륜 상대 소송 항소심 7월 스타트",
-      "link": "https://www.starnewskorea.com/star/2026/04/20/2026042013544293637",
-      "pub_date": "2026-04-20T14:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "이란 화물선 발포·나포‥\"합의 안 되면 초토화\"",
-      "link": "https://imnews.imbc.com/replay/2026/nw1400/article/6816577_36974.html",
-      "pub_date": "2026-04-20T14:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "전기차 스마트 충전기 교체 지원 부작용…요금 인상·리베이트 의혹 등",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446893",
-      "pub_date": "2026-04-20T14:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]진주 물류센터 집회 현장서 화물차, 집회 참가자 추돌…1명 사망...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
-      "pub_date": "2026-04-20T14:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "우리금융, 생산적·포용금융 속도전…\"지원 골든타임 놓치지 않겠다\"",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728957",
-      "pub_date": "2026-04-20T13:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
