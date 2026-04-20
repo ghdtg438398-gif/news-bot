@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 19:25:30",
+  "updated": "2026-04-20 19:30:33",
   "total": 200,
   "breaking": 111,
   "items": [
+    {
+      "title": "[속보] 경찰청 \"화물연대 집회 사망 유감…전담수사팀 구성, 엄정 수사...",
+      "link": "https://www.imaeil.com/page/view/2026042019250163649",
+      "pub_date": "2026-04-20T19:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "현대건설 '압구정 DH 타운' 한 발 더, 5.6조 규모 3구역 우선협상자 선정...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436122",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T17:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.hankyung.com/article/2026042036837",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
