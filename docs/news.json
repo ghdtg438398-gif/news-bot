@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 04:15:30",
-  "total": 200,
-  "breaking": 101,
+  "updated": "2026-04-21 04:20:32",
+  "total": 198,
+  "breaking": 99,
   "items": [
     {
       "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
@@ -1783,24 +1783,6 @@
       "source_id": "kmib",
       "source_name": "국민일보",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS ‘2026 북중미 월드컵 중계’ 전현무도 함께 한다!",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540563&ref=A",
-      "pub_date": "2026-04-20T18:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
-      "pub_date": "2026-04-20T18:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
