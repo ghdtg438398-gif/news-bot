@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 03:10:28",
+  "updated": "2026-04-21 03:15:31",
   "total": 200,
   "breaking": 103,
   "items": [
+    {
+      "title": "돌아온 늑구 \"심려끼쳐 죄송... '국민늑대'로 오월드 마스코트 될 것\"",
+      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444956",
+      "pub_date": "2026-04-21T03:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 \"조건 충족 없이는 미국과 협상 없어...다시 처벌할 준비도...",
       "link": "https://www.pennmike.com/news/articleView.html?idxno=119089",
@@ -1792,15 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "성장보다 물가…신현송 한은 총재 해법은?",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
