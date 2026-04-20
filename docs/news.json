@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 05:50:28",
+  "updated": "2026-04-21 05:55:27",
   "total": 168,
-  "breaking": 105,
+  "breaking": 104,
   "items": [
     {
       "title": "\"나 미국 사람이야\" 체류연장 없이 버틴 교포 벌금 500만 원",
@@ -112,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -158,6 +158,15 @@
     },
     {
       "title": "'노란봉투법' 이후 첫 노동자 사망…CU 사고, 李정부 노정 시험대",
+      "link": "https://www.nocutnews.co.kr/news/6505349?utm_source=naver&utm_medium=article&utm_campaign=20260421055125",
+      "pub_date": "2026-04-21T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'노란봉투법' 이후 첫 노동자 사망…CU 사고, 李정부 노정 시험대",
       "link": "https://www.nocutnews.co.kr/news/6505349?utm_source=naver&utm_medium=article&utm_campaign=20260421050030",
       "pub_date": "2026-04-21T05:01:00+09:00",
       "source_id": "yna",
@@ -175,15 +184,6 @@
       "is_scoop": false
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[우보세]교부금 울타리",
       "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
       "pub_date": "2026-04-21T05:00:00+09:00",
@@ -195,6 +195,15 @@
     {
       "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6143035",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1504,15 +1513,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 ‘규모 7.5’ 강진…긴급 대피",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525059",
-      "pub_date": "2026-04-20T19:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
