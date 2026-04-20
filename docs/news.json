@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 08:35:26",
-  "total": 159,
-  "breaking": 95,
+  "updated": "2026-04-21 08:40:28",
+  "total": 156,
+  "breaking": 89,
   "items": [
+    {
+      "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189363",
+      "pub_date": "2026-04-21T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"하이브리드전 의심\"…英서 유대인 공동체 공격 이어져",
+      "link": "https://view.asiae.co.kr/article/2026042108372655202",
+      "pub_date": "2026-04-21T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '사용기한 만료 수액' 3살짜리에 투여…책임은 막내 간호사 탓으...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189362",
+      "pub_date": "2026-04-21T08:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]애플, '팀 쿡' 시대 끝난다...대대적 세대교체",
       "link": "https://magazine.hankyung.com/business/article/202604214678b",
@@ -148,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.etnews.com/20260421000007",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
+      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1375,60 +1402,6 @@
       "title": "[속보] \"밴스 부통령 이끈 美대표단, 몇시간내 이슬라마바드 도착\"",
       "link": "https://www.newsis.com/view/NISX20260420_0003599160",
       "pub_date": "2026-04-20T22:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "http://www.fnnews.com/news/202604202235094339",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.hankyung.com/article/2026042041957",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란, 美와 2차 협상 참석 '긍정적' 검토 중\"<로이터>",
-      "link": "https://news.jtbc.co.kr/article/NB12295065?influxDiv=NAVER",
-      "pub_date": "2026-04-20T22:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
-      "pub_date": "2026-04-20T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.news1.kr/world/usa-canada/6143007",
-      "pub_date": "2026-04-20T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"쿠웨이트, 호르무즈 봉쇄로…원유수출 불가항력\"",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420223530eeC",
-      "pub_date": "2026-04-20T22:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
