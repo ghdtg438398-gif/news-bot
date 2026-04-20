@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21 05:15:27",
-  "total": 180,
+  "updated": "2026-04-21 05:20:29",
+  "total": 176,
   "breaking": 104,
   "items": [
     {
@@ -31,7 +31,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중동 긴장에 미증시 일제 하락… 나스닥 0.26%↓",
+      "title": "[속보] 중동 재긴장 미증시 일제 하락… 나스닥 0.26%↓",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029708960&code=61131111&cp=nv",
       "pub_date": "2026-04-21T05:06:00+09:00",
       "source_id": "kmib",
@@ -112,15 +112,6 @@
       "is_scoop": false
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[우보세]교부금 울타리",
       "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
       "pub_date": "2026-04-21T05:00:00+09:00",
@@ -132,6 +123,15 @@
     {
       "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6143035",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1585,42 +1585,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "현대건설 '압구정 DH 타운' 한 발 더, 5.6조 3구역 수주 우선협상자로 뽑...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436122",
-      "pub_date": "2026-04-20T19:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[폴리Shorts][단독] \"핵사이다, 민주당의 입법천사\" 서영교, 원내대표 출...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729017",
-      "pub_date": "2026-04-20T19:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 서울 진보교육감 시민참여단 대납 의심자 868명 확인",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226592&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-20T19:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[뉴스분석]民 전남 경선 과열…오염된 정치 풍토 고착화 우려",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908043",
-      "pub_date": "2026-04-20T19:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
