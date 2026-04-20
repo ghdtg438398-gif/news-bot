@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 15:20:33",
+  "updated": "2026-04-20 15:25:26",
   "total": 200,
-  "breaking": 119,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[정치SPOT] 이 대통령 4.19 기념사와 민주주의 입증",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103322",
+      "pub_date": "2026-04-20T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "최동석이 제기한 박지윤 지인 상대 상간 소송 7월 재개…\"억측 잠시 거...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039611",
+      "pub_date": "2026-04-20T15:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "진주 화물연대 집회 현장 ‘비극’… 화물차 추돌로 조합원 1명 사망",
+      "link": "https://www.asiatime.co.kr/article/20260420500321",
+      "pub_date": "2026-04-20T15:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “유학생 등 외국인도 ‘고유가 피해지원금’ 달라”…난민단체...",
+      "link": "https://www.dt.co.kr/article/12058400?ref=naver",
+      "pub_date": "2026-04-20T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "돌아온 늑구, 캐릭터로 나온다? 오월드 시설 개편도 검토",
       "link": "https://www.nocutnews.co.kr/news/6505088?utm_source=naver&utm_medium=article&utm_campaign=20260420031718",
@@ -67,7 +103,7 @@
       "is_scoop": false
     },
     {
-      "title": "압구정 5구역 '도촬' 이어 3구역 '돌발 참여'…DL이앤씨로 향하는 조합원...",
+      "title": "압구정 5구역 '도촬' 이어 3구역 '입찰 방해'…DL이앤씨로 향하는 조합원...",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
@@ -193,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
-      "link": "https://www.news1.kr/photos/7865353",
-      "pub_date": "2026-04-20T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
       "link": "https://www.news1.kr/photos/7865350",
       "pub_date": "2026-04-20T14:52:00+09:00",
@@ -220,18 +247,18 @@
       "is_scoop": false
     },
     {
-      "title": "구호 외치는 '한강버스 OUT! 서울시민 긴급행동'",
-      "link": "https://www.news1.kr/photos/7865345",
-      "pub_date": "2026-04-20T14:51:00+09:00",
+      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
+      "link": "https://www.news1.kr/photos/7865353",
+      "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
-      "link": "https://biz.heraldcorp.com/article/10721205?ref=naver",
-      "pub_date": "2026-04-20T14:50:00+09:00",
+      "title": "구호 외치는 '한강버스 OUT! 서울시민 긴급행동'",
+      "link": "https://www.news1.kr/photos/7865345",
+      "pub_date": "2026-04-20T14:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -244,6 +271,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
+      "link": "https://biz.heraldcorp.com/article/10721205?ref=naver",
+      "pub_date": "2026-04-20T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -391,26 +427,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
-      "pub_date": "2026-04-20T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 위기 장기화…충남도, 8192억 규모 종합대책 추진 “민생 안정 총...",
       "link": "http://www.sisanews24.co.kr/18545",
-      "pub_date": "2026-04-20T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
       "pub_date": "2026-04-20T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -427,11 +445,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
+      "pub_date": "2026-04-20T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702066",
+      "pub_date": "2026-04-20T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -450,6 +477,15 @@
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "온코닉테라퓨틱스, AACR 2026서 SCLC 신약 '네수파립' 비임상 성과 첫 공...",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657063",
-      "pub_date": "2026-04-20T12:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]장동혁 “방미 중 접한 미국 인사들, 한국 대북정책에 우려 표해...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050046900000",
-      "pub_date": "2026-04-20T11:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 “상황에 따라 필요한 거취, 제가 결정”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03040566645418088",
-      "pub_date": "2026-04-20T11:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]조국 “평택을, 다자구도로 아슬아슬 3표차 승리”",
-      "link": "https://www.munhwa.com/article/11583505?ref=naver",
-      "pub_date": "2026-04-20T11:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
