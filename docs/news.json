@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-21 06:30:32",
-  "total": 179,
-  "breaking": 121,
+  "updated": "2026-04-21 06:35:27",
+  "total": 180,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보]전재수 40%·박형준 34% 첫 오차범위 접전-한국리서치",
+      "link": "https://www.munhwa.com/article/11583690?ref=naver",
+      "pub_date": "2026-04-21T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
+      "pub_date": "2026-04-21T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
+      "pub_date": "2026-04-21T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란 협상대표 \"위협 동반한 협상 받아들이지 않을 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260421063304UnO",
+      "pub_date": "2026-04-21T06:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 애플 \"팀쿡, 9월 CEO 물러나…후임은 존 터너스\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210174&t=NN",
@@ -76,8 +112,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
+      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T06:08:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 소폭 하락 마감…나스닥 0.26%↓",
+      "link": "https://www.etoday.co.kr/news/view/2577460",
       "pub_date": "2026-04-21T06:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,20 +139,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 소폭 하락 마감…나스닥 0.26%↓",
-      "link": "https://www.etoday.co.kr/news/view/2577460",
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
       "pub_date": "2026-04-21T06:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]애플 새 CEO에 존 터너스 수석 부사장…팀 쿡 현 CEO 후임",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709167&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -130,20 +166,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]애플 15년만에 CEO 교체...“팀 쿡 후임에 존 터너스”",
-      "link": "https://www.sedaily.com/article/20034906?ref=naver",
-      "pub_date": "2026-04-21T06:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 애플 “팀 쿡 CEO, 9월 사임…후임자는 존 터너스”",
       "link": "https://www.seoul.co.kr/news/international/2026/04/21/20260421500008?wlog_tag3=naver",
       "pub_date": "2026-04-21T06:05:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]애플 15년만에 CEO 교체...“팀 쿡 후임에 존 터너스”",
+      "link": "https://www.sedaily.com/article/20034906?ref=naver",
+      "pub_date": "2026-04-21T06:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -220,20 +256,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
-      "link": "https://www.hankyung.com/article/202604214319i",
-      "pub_date": "2026-04-21T05:56:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…새 CEO에 존 터너스",
       "link": "https://www.joongang.co.kr/article/25421887",
       "pub_date": "2026-04-21T05:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
+      "link": "https://www.hankyung.com/article/202604214319i",
+      "pub_date": "2026-04-21T05:56:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1582,33 +1618,6 @@
       "title": "[속보]이 대통령 \"구성 핵시설 이미 알려져…정동영 기밀 누설 주장 터...",
       "link": "https://www.newsis.com/view/NISX20260420_0003599094",
       "pub_date": "2026-04-20T20:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.hankyung.com/article/2026042040757",
-      "pub_date": "2026-04-20T20:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.news1.kr/politics/president/6142985",
-      "pub_date": "2026-04-20T20:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
-      "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
