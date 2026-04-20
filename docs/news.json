@@ -1,8 +1,98 @@
 {
-  "updated": "2026-04-21 05:00:37",
-  "total": 174,
-  "breaking": 97,
+  "updated": "2026-04-21 05:05:29",
+  "total": 181,
+  "breaking": 102,
   "items": [
+    {
+      "title": "'통한의 연장 준우승' 김세영, 세계랭킹 9위↑…임진희 32위로 상승 [LPG...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019907",
+      "pub_date": "2026-04-21T05:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "pub_date": "2026-04-21T05:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "pub_date": "2026-04-21T05:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보][뉴욕증시] 이란 전쟁 불확실성 속에 일제히 하락…애플, 1% 상승",
+      "link": "http://www.fnnews.com/news/202604210500172960",
+      "pub_date": "2026-04-21T05:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미-이란 긴장 재고조, 미증시 일제 하락...나스닥 0.26%↓",
+      "link": "https://www.news1.kr/world/usa-canada/6143034",
+      "pub_date": "2026-04-21T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "논란만 키운 장동혁…국힘서도 \"李 SNS 때리러 미국까지 갔나\"",
+      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421050029",
+      "pub_date": "2026-04-21T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'노란봉투법' 이후 첫 노동자 사망…CU 사고, 李정부 노정 시험대",
+      "link": "https://www.nocutnews.co.kr/news/6505349?utm_source=naver&utm_medium=article&utm_campaign=20260421050030",
+      "pub_date": "2026-04-21T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6143035",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[우보세]교부금 울타리",
+      "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
       "link": "https://www.news1.kr/world/usa-canada/6143031",
@@ -1541,33 +1631,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[단독] 민주, 23일 전략공관위 회의 후 전략공천 발표…이광재·송영길...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525467&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-20T19:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
-      "link": "http://www.fnnews.com/news/202604201849060665",
-      "pub_date": "2026-04-20T19:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"쓰나미! 도망가!\" 규모 7.5 강진...일본 총리 '긴급 기자회...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604201902454896",
-      "pub_date": "2026-04-20T19:02:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
