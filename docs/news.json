@@ -1,14 +1,77 @@
 {
-  "updated": "2026-04-20 13:10:29",
+  "updated": "2026-04-20 13:15:32",
   "total": 200,
-  "breaking": 119,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
+      "link": "https://www.mk.co.kr/article/12021662",
+      "pub_date": "2026-04-20T13:14:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042013075806189",
+      "pub_date": "2026-04-20T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대본부 진주 물류센터 투쟁 중 1명 사망・2명 부상… 2.5t ...",
+      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509086",
+      "pub_date": "2026-04-20T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
+      "link": "https://www.imaeil.com/page/view/2026042013121328792",
+      "pub_date": "2026-04-20T13:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "호르무즈 긴장 속 한·인도 공조...李대통령 \"에너지·안보 협력 확대\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513069",
+      "pub_date": "2026-04-20T13:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "대구시장·기초단체장 공천 ‘그나물에 그밥’",
+      "link": "https://www.naeil.com/news/read/585963?ref=naver",
+      "pub_date": "2026-04-20T13:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 진주 화물연대 집회서 차 사고…조합원 1명 사망",
       "link": "https://www.hankyung.com/article/2026042027587",
       "pub_date": "2026-04-20T13:07:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090171.html",
+      "pub_date": "2026-04-20T13:07:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -31,7 +94,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정동영 “공개자료 사용, 정보 유출로 모는 건 유감”…미국 정...",
+      "title": "[속보]정동영 “공개자료 인용을 ‘정보 유출’로 모는 것 유감”···미...",
       "link": "https://www.khan.co.kr/article/202604201304001",
       "pub_date": "2026-04-20T13:04:00+09:00",
       "source_id": "yna",
@@ -139,20 +202,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…곧 정상회담",
-      "link": "https://www.hankyung.com/article/2026042027387",
-      "pub_date": "2026-04-20T12:44:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
       "link": "https://www.viva100.com/article/20260420500694",
       "pub_date": "2026-04-20T12:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…곧 정상회담",
+      "link": "https://www.hankyung.com/article/2026042027387",
+      "pub_date": "2026-04-20T12:44:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,21 +265,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…오후 모디 총리와 ...",
-      "link": "https://www.news1.kr/politics/president/6142261",
-      "pub_date": "2026-04-20T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "돌아온 장동혁 \"美 공화당 핵심들과 핫라인 구축\"…누굴 만난 지는 \"비공...",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370127",
       "pub_date": "2026-04-20T12:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…오후 모디 총리와 ...",
+      "link": "https://www.news1.kr/politics/president/6142261",
+      "pub_date": "2026-04-20T12:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1735,69 +1798,6 @@
       "title": "'카스트로프 선발' 묀헨글라트바흐, 이재성 빠진 마인츠와 1-1",
       "link": "https://www.newspim.com/news/view/20260420000243",
       "pub_date": "2026-04-20T09:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 거침없는 李 지지율, 65.5% 최고치 경신… “원유 대량 확보 등 ...",
-      "link": "https://www.seoul.co.kr/news/politics/2026/04/20/20260420500029?wlog_tag3=naver",
-      "pub_date": "2026-04-20T09:41:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령 지지도 취임 후 최고 65.5%…민주 50.5%·국힘 31.4%",
-      "link": "https://economist.co.kr/article/view/ecn202604200009",
-      "pub_date": "2026-04-20T09:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 국정수행 긍정 65.5%…취임 후 최고-리얼미터",
-      "link": "https://www.munhwa.com/article/11583431?ref=naver",
-      "pub_date": "2026-04-20T09:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "㈜감성주택, '2026 서울건축박람회' 참가···예비 건축주 대상 맞춤 상...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49067",
-      "pub_date": "2026-04-20T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란軍 \"미 군함에 드론으로 보복 타격\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119026",
-      "pub_date": "2026-04-20T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "美 특사단, 협상장 향했다‥\"협의 안 되면 파괴\"",
-      "link": "https://imnews.imbc.com/replay/2026/nw930/article/6816508_36996.html",
-      "pub_date": "2026-04-20T09:31:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이스타항공, 인천-옌타이 노선 “하루 왕복 2회”로 증편",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85753",
-      "pub_date": "2026-04-20T09:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
