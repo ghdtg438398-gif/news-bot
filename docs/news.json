@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 09:20:29",
+  "updated": "2026-04-20 09:25:30",
   "total": 200,
-  "breaking": 130,
+  "breaking": 133,
   "items": [
+    {
+      "title": "[속보]미국 프로축구 LAFC 0-1 새너제이(후반 8분 우세니 부다)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597468",
+      "pub_date": "2026-04-20T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
+      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
+      "pub_date": "2026-04-20T09:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
+      "pub_date": "2026-04-20T09:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, PGA 투어 RBC 헤리티지 단독 3위…시즌 세 번째 톱5 달성",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=319518",
+      "pub_date": "2026-04-20T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"- 이란 관영매체 보도",
       "link": "https://www.hidomin.com/news/articleView.html?idxno=702026",
@@ -76,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
+      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834009",
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834009",
+      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -229,24 +265,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042009034433452",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.94p(0.25%) 내린 1167.10(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2577121",
-      "pub_date": "2026-04-20T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 22.00p(0.36%) 오른 6213.92(개장)",
       "link": "https://www.etoday.co.kr/news/view/2577120",
       "pub_date": "2026-04-20T09:04:00+09:00",
@@ -263,6 +281,24 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042009034433452",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 2.94p(0.25%) 내린 1167.10(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2577121",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 코스피, 22.00p(0.36%) 오른 6213.92 출발",
@@ -1761,42 +1797,6 @@
     {
       "title": "[미리보는 증시재료] 중동 긴장 속 SK하이닉스 실적…코스피 향방 가른...",
       "link": "https://www.newspim.com/news/view/20260417001020",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[6·3 지선 판세] 인천, 토박이 '3선 친명' 박찬대 vs 행정가 '3선 친박'...",
-      "link": "https://www.newspim.com/news/view/20260417000567",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]김영훈 노동부 장관 \"협력사 거쳐 원청 대기업 이직하는 길 열겠...",
-      "link": "https://www.news1.kr/economy/employment-labor/6141209",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[출근길 브리핑-4월 20일] 오늘 韓-인도 정상회담 열려·李 \"4·19 정신으...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838248",
-      "pub_date": "2026-04-20T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[PSK칼럼] 제약산업 산책 - ﻿한미 FTA",
-      "link": "https://www.medipana.com/news/articleView.html?idxno=409624",
       "pub_date": "2026-04-20T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
