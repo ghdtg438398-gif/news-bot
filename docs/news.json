@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 18:55:30",
+  "updated": "2026-04-20 19:00:41",
   "total": 200,
   "breaking": 115,
   "items": [
+    {
+      "title": "日혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 신칸센 운행 중단",
+      "link": "https://www.nocutnews.co.kr/news/6505315?utm_source=naver&utm_medium=article&utm_campaign=20260420065518",
+      "pub_date": "2026-04-20T18:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "日 혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 긴급 대피",
       "link": "https://www.goodnews1.com/news/articleView.html?idxno=459002",
@@ -103,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
-      "link": "https://www.newstree.kr/newsView/ntr202604200019",
+      "title": "남구, 분포도서관 문화재단 위탁 보류",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
       "pub_date": "2026-04-20T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "남구, 분포도서관 문화재단 위탁 보류",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
+      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
+      "link": "https://www.newstree.kr/newsView/ntr202604200019",
       "pub_date": "2026-04-20T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +247,8 @@
       "is_scoop": false
     },
     {
-      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
+      "title": "성장보다 물가…신현송 한은 총재 해법은?",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "성장보다 물가…신현송 한은 총재 해법은?",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
+      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1793,15 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
-      "pub_date": "2026-04-20T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
