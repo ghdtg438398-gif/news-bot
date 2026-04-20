@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 10:50:30",
+  "updated": "2026-04-20 10:55:27",
   "total": 200,
   "breaking": 136,
   "items": [
+    {
+      "title": "호르무즈 해협, 원유 넘어 반도체·석유화학까지 멈춘다…'공정 중단형...",
+      "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=41770",
+      "pub_date": "2026-04-20T10:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강원남부산지·무주·금산·공주 '한파주의보'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260420105234CaD",
+      "pub_date": "2026-04-20T10:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "스페인 총리 \"EU에 21일 이스라엘과 관계 단절 공식 제안할 것\"",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597804",
+      "pub_date": "2026-04-20T10:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524944",
@@ -112,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
-      "pub_date": "2026-04-20T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 특검, ‘통일교 수사 무마 의혹’ 관련 경찰청 압수수색",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029704796&code=61121111&cp=nv",
       "pub_date": "2026-04-20T10:34:00+09:00",
@@ -130,9 +148,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]강은희 대구시교육감 3선 도전 선언",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597889",
-      "pub_date": "2026-04-20T10:33:00+09:00",
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
+      "pub_date": "2026-04-20T10:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -148,9 +166,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
-      "pub_date": "2026-04-20T10:32:00+09:00",
+      "title": "[속보]강은희 대구시교육감 3선 도전 선언",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597889",
+      "pub_date": "2026-04-20T10:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -159,6 +177,15 @@
     {
       "title": "[속보]종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.nocutnews.co.kr/news/6504825?utm_source=naver&utm_medium=article&utm_campaign=20260420103114",
+      "pub_date": "2026-04-20T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]강원 충남 등 일부 내일 한파특보…2005년 이래 가장 늦어",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524942",
       "pub_date": "2026-04-20T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,11 +202,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
-      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
+      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
+      "link": "https://www.viva100.com/article/20260420500465",
       "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
+      "link": "https://www.ajunews.com/view/20260420101502404",
+      "pub_date": "2026-04-20T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -202,20 +238,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
-      "link": "https://www.viva100.com/article/20260420500465",
+      "title": "[속보] 충청·전북·강원에 사상 첫 4월 하순 한파특보...내일 아침 기온...",
+      "link": "https://www.ytn.co.kr/_ln/0108_202604201030124421",
       "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ajunews.com/view/20260420101502404",
-      "pub_date": "2026-04-20T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1775,33 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가, 호르무즈 긴장에 급등 … WTI 7%↑",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000025.html",
-      "pub_date": "2026-04-20T08:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북, 단거리 탄도미사일 발사…청와대 \"유엔 안보리 결의 위반\"",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189094",
-      "pub_date": "2026-04-20T08:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"16언더파 268타\" 김시우, RBC 헤리티지 단독 3위 질주",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039089",
-      "pub_date": "2026-04-20T08:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
