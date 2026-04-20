@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 23:35:29",
+  "updated": "2026-04-20 23:40:31",
   "total": 200,
-  "breaking": 104,
+  "breaking": 105,
   "items": [
+    {
+      "title": "[속보] 이미 도착! '초대형 연쇄 이동' 전북 떠난 거스 포옛, 마침내 행...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553154262",
+      "pub_date": "2026-04-20T23:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[자정 뉴스브리핑] 레이어제로, KelpDAO 관련 약 2억9천만달러 보안 사고...",
       "link": "https://www.tokenpost.kr/news/briefing/351511",
@@ -1792,15 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 해역 규모 7.4 강진…최대 3ｍ 쓰나미 경보 발령",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045762",
-      "pub_date": "2026-04-20T18:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
