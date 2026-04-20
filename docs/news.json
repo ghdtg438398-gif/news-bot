@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 15:35:34",
+  "updated": "2026-04-20 15:40:39",
   "total": 200,
-  "breaking": 123,
+  "breaking": 122,
   "items": [
+    {
+      "title": "[단독] ‘클러치 박’의 ‘도로공사 리턴’ 초읽기…박정아, 페퍼저축은...",
+      "link": "https://www.segye.com/newsView/20260420513204?OutUrl=naver",
+      "pub_date": "2026-04-20T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
+      "pub_date": "2026-04-20T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
+      "pub_date": "2026-04-20T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 4.81p(0.41%) 오른 1174.85(장마감)",
+      "link": "https://www.etoday.co.kr/news/view/2577341",
+      "pub_date": "2026-04-20T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피 27.17p(0.44%) 오른 6219.09(장마감)",
       "link": "https://www.etoday.co.kr/news/view/2577340",
@@ -22,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
-      "link": "https://www.sidae.com/article/2026042015183820823",
+      "title": "[속보]코스피, 0.44% 오른 6219.09 마감…코스닥은 1174.85",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03854006645418088",
       "pub_date": "2026-04-20T15:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +67,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 0.44% 오른 6219.09 마감…코스닥은 1174.85",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03854006645418088",
+      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
+      "link": "https://www.sidae.com/article/2026042015183820823",
       "pub_date": "2026-04-20T15:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
+      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
+      "link": "https://www.ajunews.com/view/20260420152838868",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
-      "link": "https://www.ajunews.com/view/20260420152838868",
+      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
-      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
+      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
+      "link": "https://www.sidae.com/article/2026042015294536419",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
-      "link": "https://www.sidae.com/article/2026042015294536419",
+      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
+      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,15 +310,6 @@
       "is_scoop": false
     },
     {
-      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
-      "pub_date": "2026-04-20T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
       "link": "https://www.xportsnews.com/article/2139148",
       "pub_date": "2026-04-20T15:10:00+09:00",
@@ -292,12 +319,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 측 \"미국의 긍정 신호 있으면 대표단 파견\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420150610apL",
-      "pub_date": "2026-04-20T15:06:00+09:00",
+      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
+      "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -316,6 +343,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 측 \"미국의 긍정 신호 있으면 대표단 파견\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420150610apL",
+      "pub_date": "2026-04-20T15:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -409,15 +445,6 @@
       "is_scoop": false
     },
     {
-      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
-      "link": "https://www.news1.kr/photos/7865353",
-      "pub_date": "2026-04-20T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "한강버스 운영사업 업무협약 동의안 부결을 촉구한다",
       "link": "https://www.news1.kr/photos/7865350",
       "pub_date": "2026-04-20T14:52:00+09:00",
@@ -429,6 +456,15 @@
     {
       "title": "위장 대중교통 한강버스, 운영사업 업무협약 동의안 부결 촉구 기자회견",
       "link": "https://www.news1.kr/photos/7865347",
+      "pub_date": "2026-04-20T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'한강버스 업무협약 변경 동의안 부결하라'",
+      "link": "https://www.news1.kr/photos/7865353",
       "pub_date": "2026-04-20T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T12:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420124438ESq",
-      "pub_date": "2026-04-20T12:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 2.5t 탑차가 화물연대 노조원들 들이받아… 1명 사망·2명 부상",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/20/20260420500093?wlog_tag3=naver",
-      "pub_date": "2026-04-20T12:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
-      "link": "https://www.viva100.com/article/20260420500694",
-      "pub_date": "2026-04-20T12:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…곧 정상회담",
-      "link": "https://www.hankyung.com/article/2026042027387",
-      "pub_date": "2026-04-20T12:44:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
