@@ -1,8 +1,152 @@
 {
-  "updated": "2026-04-20 14:25:34",
+  "updated": "2026-04-20 14:30:39",
   "total": 200,
-  "breaking": 114,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305429?division=NAVER",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270268",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'영원한 건 절대 없어'…DK·HLE, T1·젠지 격파하며 정규 시즌 연패 끊...",
+      "link": "https://www.xportsnews.com/article/2139110",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]진주 화물연대 집회서 차 사고, 심정지 조합원 사망",
+      "link": "https://www.munhwa.com/article/11583576?ref=naver",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
+      "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.etoday.co.kr/news/view/2577293",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한국은행 총재 후보자 인사청문보고서 채택",
+      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817332",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[성기노의 뉴스 피처링] 장동혁 아리송한 방미...\"안보 이슈 빌드업인가...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126644",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
+      "link": "http://www.breaknews.com/1201542",
+      "pub_date": "2026-04-20T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.seoul.co.kr/news/politics/congress/2026/04/20/20260420500136?wlog_tag3=naver",
+      "pub_date": "2026-04-20T14:25:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.mk.co.kr/article/12021737",
+      "pub_date": "2026-04-20T14:25:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "멜론, NCT WISH 컴백 관련 온오프라인 이벤트 진행",
+      "link": "https://news.jtbc.co.kr/article/NB12294963?influxDiv=NAVER",
+      "pub_date": "2026-04-20T14:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 재경위, 닷새만에 신현송 한은총재 후보자 청문보고서 채택",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446978",
@@ -13,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042014232250699",
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.ajunews.com/view/20260420140136692",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +175,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
-      "link": "https://www.ajunews.com/view/20260420140136692",
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042014232250699",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,15 +220,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://view.asiae.co.kr/article/2026042014210736993",
-      "pub_date": "2026-04-20T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420142027sB7",
       "pub_date": "2026-04-20T14:21:00+09:00",
@@ -96,6 +231,15 @@
     {
       "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
       "link": "https://www.news1.kr/politics/assembly/6142411",
+      "pub_date": "2026-04-20T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://view.asiae.co.kr/article/2026042014210736993",
       "pub_date": "2026-04-20T14:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,6 +292,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] 신세경, 조인성 이어 김남길과 호흡…드라마 '악몽' 특별 출연",
+      "link": "https://www.news1.kr/entertain/broadcast-tv/6142389",
+      "pub_date": "2026-04-20T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 국회, 신현송 한은 총재 후보자 인사청문보고서 채택",
       "link": "https://www.newspim.com/news/view/20260420000758",
       "pub_date": "2026-04-20T14:17:00+09:00",
@@ -166,9 +319,9 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 신세경, 조인성 이어 김남길과 호흡…드라마 '악몽' 특별 출연",
-      "link": "https://www.news1.kr/entertain/broadcast-tv/6142389",
-      "pub_date": "2026-04-20T14:17:00+09:00",
+      "title": "[단독] 미래에셋증권 홍콩법인, 中CIS 기업 '지픽셀' IPO 투자",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111436",
+      "pub_date": "2026-04-20T14:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -193,29 +346,11 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 미래에셋증권 홍콩법인, 中CIS 기업 '지픽셀' IPO 투자",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111436",
-      "pub_date": "2026-04-20T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
       "link": "https://www.mk.co.kr/article/12021719",
       "pub_date": "2026-04-20T14:15:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598407",
-      "pub_date": "2026-04-20T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -226,6 +361,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598407",
+      "pub_date": "2026-04-20T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1654,150 +1798,6 @@
       "title": "[속보] 충남 공주·금산 등에 사상 첫 4월 하순 한파특보… 황사도 유입",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270202",
       "pub_date": "2026-04-20T11:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "톱5 중 한국인만 4명인데 우승 놓쳤다… 김세영-임진희, 연장전 끝 준우...",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931368",
-      "pub_date": "2026-04-20T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "캐시닥 용돈퀴즈 정답 4월 20일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604200021",
-      "pub_date": "2026-04-20T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 자율주행 로봇 ‘뉴비’ 주역 軍 입대…회사도 변신 나선다",
-      "link": "https://www.mk.co.kr/article/12021569",
-      "pub_date": "2026-04-20T11:01:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "유입 위험 높아지는 해외 병해충…맞춤형 검역 강화 추진",
-      "link": "https://www.nocutnews.co.kr/news/6504857?utm_source=naver&utm_medium=article&utm_campaign=20260420110016",
-      "pub_date": "2026-04-20T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 나경원 “정동영 즉각 해임해야... 북한 기밀 생중계로 유출”",
-      "link": "https://www.kyeonggi.com/article/20260420580042",
-      "pub_date": "2026-04-20T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "BAT 사천공장, AI 스마트 지게차 도입해 현장 안전 강화",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85778",
-      "pub_date": "2026-04-20T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 제주서 중국 향하던 크루즈서 20대 중국인 바다로 추락…해경 수...",
-      "link": "https://www.dt.co.kr/article/12058320?ref=naver",
-      "pub_date": "2026-04-20T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[LPGA] 다잡은 통산 14승 놓친 김세영...맹추격 임진희도 통산 2승 불발",
-      "link": "https://www.newspim.com/news/view/20260420000449",
-      "pub_date": "2026-04-20T10:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 공주 식품업체 화재 발생…주민에 창문 폐쇄·차량 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864103",
-      "pub_date": "2026-04-20T10:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '통일교 원정도박 수사 무마' 의혹 강원경찰청·춘천경찰서 압수...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045668",
-      "pub_date": "2026-04-20T10:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 제주 해상서 중국인 크루즈 승객 추락… “경비함정 동원해 수색...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500069?wlog_tag3=naver",
-      "pub_date": "2026-04-20T10:56:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 해협, 원유 넘어 반도체·석유화학까지 멈춘다…'공정 중단형...",
-      "link": "http://www.financialreview.co.kr/news/articleView.html?idxno=41770",
-      "pub_date": "2026-04-20T10:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강원남부산지·무주·금산·공주 '한파주의보'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420105234CaD",
-      "pub_date": "2026-04-20T10:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "스페인 총리 \"EU에 21일 이스라엘과 관계 단절 공식 제안할 것\"",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597804",
-      "pub_date": "2026-04-20T10:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검 ‘통일교 해외 원정도박’ 관련 강원경찰청·춘천경찰서...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050034400000",
-      "pub_date": "2026-04-20T10:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524944",
-      "pub_date": "2026-04-20T10:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
