@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 21:35:27",
+  "updated": "2026-04-20 21:40:28",
   "total": 200,
-  "breaking": 103,
+  "breaking": 101,
   "items": [
+    {
+      "title": "[속보]이천시 민주당 공직선거 후보 경선, '성수석 확정'",
+      "link": "https://www.kmaeil.com/news/articleView.html?idxno=637713",
+      "pub_date": "2026-04-20T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[세상을 보며] 부쩍 늘어난 중동에 대한 문해력 - 이상규(산청거창함양...",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1539859",
+      "pub_date": "2026-04-20T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC, KBS와 북중미 월드컵 공동중계 합의...종편·지상파 시청 가능",
+      "link": "https://news.jtbc.co.kr/article/NB12295058?influxDiv=NAVER",
+      "pub_date": "2026-04-20T21:35:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 충주 금가면 인근 서부 순환대로 멧돼지 출몰",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561882",
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-20T17:32:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 “‘한-인도 정상 공동성명’을 채택”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04349286645418088",
-      "pub_date": "2026-04-20T17:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090292.html",
-      "pub_date": "2026-04-20T17:32:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 \"한-인도 정상 공동성명 채택…후속 조치 신속 이행\"",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598855",
-      "pub_date": "2026-04-20T17:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
