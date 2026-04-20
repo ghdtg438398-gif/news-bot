@@ -1,8 +1,89 @@
 {
-  "updated": "2026-04-20 11:25:24",
+  "updated": "2026-04-20 11:30:36",
   "total": 200,
-  "breaking": 130,
+  "breaking": 128,
   "items": [
+    {
+      "title": "[속보] 장동혁 \"방미, 논란 충분히 예상했지만 李정부 외교 참사 때문\"",
+      "link": "https://www.dailian.co.kr/news/view/1635483/?sc=Naver",
+      "pub_date": "2026-04-20T11:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"TSMC, 1.4나노 2028년 양산…2029년 '1나노 이하' 시험생산\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305364?division=NAVER",
+      "pub_date": "2026-04-20T11:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁 \"美, 한국에 '필요한 역할' 해주길 바란다는 비공개 요청...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03001206645418088",
+      "pub_date": "2026-04-20T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[방산 이슈 진단 (150)] 방산 수출과 연계한 ‘대응구매’ 제도 도입, 제...",
+      "link": "https://www.news2day.co.kr/article/20260420500119",
+      "pub_date": "2026-04-20T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁 \"방미 결정, 이재명 정권 외교 참사 때문\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294943?influxDiv=NAVER",
+      "pub_date": "2026-04-20T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 \"미국, 李 대통령 이스라엘 발언 진위 물어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011252699062",
+      "pub_date": "2026-04-20T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "양산 농수산물유통센터 위탁사 기업회생 신청…정치권 '우려'",
+      "link": "https://www.nocutnews.co.kr/news/6504906?utm_source=naver&utm_medium=article&utm_campaign=20260420112514",
+      "pub_date": "2026-04-20T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 \"美, 韓이 동맹 역할 해주길 바라...비공개 요청도 있었다...",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011235641773",
+      "pub_date": "2026-04-20T11:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[MLS] '손흥민 풀타임' LAFC, 홈에서 새너제이에 1-4 대패",
+      "link": "https://www.newspim.com/news/view/20260420000526",
+      "pub_date": "2026-04-20T11:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "경제통계 고도화로 中企 맞춤형 정책 발굴 나선다",
       "link": "http://www.kbiznews.co.kr/news/articleView.html?idxno=113959",
@@ -25,6 +106,24 @@
       "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
       "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
       "pub_date": "2026-04-20T11:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
+      "pub_date": "2026-04-20T11:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, '계열사 부당 지원' 혐의 대방건설 구교운 회장·구찬우 대...",
+      "link": "https://view.asiae.co.kr/article/2026042011220655192",
+      "pub_date": "2026-04-20T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -58,7 +157,7 @@
       "is_scoop": false
     },
     {
-      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 63선...",
+      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
       "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
@@ -355,15 +454,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정원오 캠프 상임선대위원장에 이인영·서영교",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010414493032",
-      "pub_date": "2026-04-20T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"트럼프는커녕 차관보 만난게 성과?\"…돌아온 장동혁이 직면한 역풍",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370100",
       "pub_date": "2026-04-20T10:44:00+09:00",
@@ -373,9 +463,27 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]정원오 캠프 상임선대위원장에 이인영·서영교",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010414493032",
+      "pub_date": "2026-04-20T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420505&PRO_CODE=99",
       "pub_date": "2026-04-20T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "대전시, 긴급차량 접근 정보 실시간 안내",
+      "link": "https://www.nocutnews.co.kr/news/6504820?utm_source=naver&utm_medium=article&utm_campaign=20260420103514",
+      "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -393,15 +501,6 @@
     {
       "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
-      "pub_date": "2026-04-20T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "대전시, 긴급차량 접근 정보 실시간 안내",
-      "link": "https://www.nocutnews.co.kr/news/6504820?utm_source=naver&utm_medium=article&utm_campaign=20260420103514",
       "pub_date": "2026-04-20T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1699,105 +1798,6 @@
       "title": "[속보]이재명 대통령 지지도 65.5%…취임 후 최고치",
       "link": "https://www.kwnews.co.kr/page/view/2026042050005300000",
       "pub_date": "2026-04-20T08:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美 공격에 드론 발사...미군 함정 공격\"",
-      "link": "https://www.dailian.co.kr/news/view/1635335/?sc=Naver",
-      "pub_date": "2026-04-20T08:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미 군함에 드론으로 보복 타격\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604200852489318",
-      "pub_date": "2026-04-20T08:52:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 타스님 통신 “미군 함정 향해 드론 공격”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524918",
-      "pub_date": "2026-04-20T08:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미국 군함에 드론으로 보복 타격\"<이란 반관영매체>",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189124",
-      "pub_date": "2026-04-20T08:52:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”<이란 반관영매체>",
-      "link": "https://www.mk.co.kr/article/12021377",
-      "pub_date": "2026-04-20T08:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 “美 공격에 드론 발사해 미군 함정 공격”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02230406645418088",
-      "pub_date": "2026-04-20T08:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
-      "link": "https://www.imaeil.com/page/view/2026042008480463932",
-      "pub_date": "2026-04-20T08:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"<이란 반관영매체>",
-      "link": "https://www.ajunews.com/view/20260420074051106",
-      "pub_date": "2026-04-20T08:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 반관영매체 \"이란군, 美군함에 드론으로 보복 타격\"",
-      "link": "https://www.hankyung.com/article/2026042017927",
-      "pub_date": "2026-04-20T08:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경북에서 잇따라 산불…익산서는 주택 불로 50대 숨져",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189112",
-      "pub_date": "2026-04-20T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란군 \"美군함 드론으로 보복 타격\"",
-      "link": "https://view.asiae.co.kr/article/2026042008461773274",
-      "pub_date": "2026-04-20T08:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
