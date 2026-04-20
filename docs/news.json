@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 15:55:26",
+  "updated": "2026-04-20 16:00:36",
   "total": 200,
-  "breaking": 117,
+  "breaking": 115,
   "items": [
+    {
+      "title": "가방서 약 꺼내 먹은 뒤 '호흡곤란'…20대 피의자, 경찰 대기실서 사망",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217711",
+      "pub_date": "2026-04-20T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '특수협박 혐의' 20대 여성 피의자, 경찰조사 대기중 호흡곤란으...",
+      "link": "https://www.imaeil.com/page/view/2026042014523224619",
+      "pub_date": "2026-04-20T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "美·이란 긴장 고조에 달러·원 다시 1470원대로(종합)",
+      "link": "https://www.news1.kr/finance/market-exr/6142621",
+      "pub_date": "2026-04-20T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘창원시 통합돌봄 증원 조례안’ 처리될까",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1539775",
+      "pub_date": "2026-04-20T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] ‘연인 흉기 협박’ 20대女, 경찰서서 호흡곤란 증상 보이다… ...",
       "link": "https://www.seoul.co.kr/news/society/2026/04/20/20260420500184?wlog_tag3=naver",
@@ -166,8 +202,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
+      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
       "pub_date": "2026-04-20T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 4.81포인트(0.41%) 오른 1174.85 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834125",
+      "title": "[속보] 코스피, 27.17포인트(0.44%) 오른 6219.09 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834124",
       "pub_date": "2026-04-20T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,33 +283,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
-      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
-      "pub_date": "2026-04-20T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
       "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
       "pub_date": "2026-04-20T15:32:00+09:00",
@@ -294,6 +303,33 @@
     {
       "title": "이재영 증평군수 예비후보, ‘장애인이 행복한 증평’ 5대 공약 발표",
       "link": "http://www.breaknews.com/1201592",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 “정책설명을 정보유출로 몰아 대단히 유감”",
-      "link": "https://www.mk.co.kr/article/12021662",
-      "pub_date": "2026-04-20T13:14:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042013075806189",
-      "pub_date": "2026-04-20T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://www.imaeil.com/page/view/2026042013121328792",
-      "pub_date": "2026-04-20T13:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호르무즈 긴장 속 한·인도 공조...李대통령 \"에너지·안보 협력 확대\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513069",
-      "pub_date": "2026-04-20T13:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
