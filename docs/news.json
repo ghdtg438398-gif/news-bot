@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 23:20:31",
+  "updated": "2026-04-20 23:25:31",
   "total": 200,
-  "breaking": 104,
+  "breaking": 105,
   "items": [
+    {
+      "title": "야산 타고 고급주택만…3년 만에 꼬리 잡힌 복면 절도범",
+      "link": "http://www.yonhapnewstv.co.kr/MYH202604202322130hG",
+      "pub_date": "2026-04-20T23:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 쿠웨이트. 호르무즈 봉쇄에 '원유 선적 불가항력' 선언",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000364.html",
+      "pub_date": "2026-04-20T23:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "화물연대 집회서 조합원 3명 사상… 경찰 1명도 부상",
       "link": "https://www.segye.com/newsView/20260420515720?OutUrl=naver",
@@ -193,20 +211,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "http://www.fnnews.com/news/202604202235094339",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
       "link": "https://www.hankyung.com/article/2026042041957",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "http://www.fnnews.com/news/202604202235094339",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1783,24 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
-      "pub_date": "2026-04-20T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 동쪽서 규모 7.4 강진…쓰나미 경보 발령",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540546&ref=A",
-      "pub_date": "2026-04-20T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
