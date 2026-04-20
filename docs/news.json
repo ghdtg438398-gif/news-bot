@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 17:15:37",
+  "updated": "2026-04-20 17:20:37",
   "total": 200,
-  "breaking": 125,
+  "breaking": 131,
   "items": [
+    {
+      "title": "조합원 4명 사상자 발생…CU 진주 물류 차량 기사 체포",
+      "link": "https://www.nocutnews.co.kr/news/6505223?utm_source=naver&utm_medium=article&utm_campaign=20260420051617",
+      "pub_date": "2026-04-20T17:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 韓-인도, 'CEPA 개선협상 재개 공동선언' 등 MOU·협력 문건 15건...",
+      "link": "https://www.hankyung.com/article/2026042037047",
+      "pub_date": "2026-04-20T17:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]황사 위기경보 '관심'…수도권·강원·충청·광주·전북·대구·경...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598932",
+      "pub_date": "2026-04-20T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 일본 동북부 진도 7.4 지진... 일부 지역 쓰나미 경보",
+      "link": "https://www.hankookilbo.com/news/article/A2026042017120005767?did=NA",
+      "pub_date": "2026-04-20T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"日 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
+      "link": "https://www.imaeil.com/page/view/2026042017130898030",
+      "pub_date": "2026-04-20T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한-인도 CEPA 개선 협상 재개하기로…장관급 산업협력위 신설",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598741",
+      "pub_date": "2026-04-20T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 韓-인도, 'CEPA 개선협상 재개 공동선언' 등 MOU·협력 문건 15건...",
+      "link": "https://www.news1.kr/politics/president/6142611",
+      "pub_date": "2026-04-20T17:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 테헤란 “미국과 추가 협상 계획 없어”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029707041&code=61131111&cp=nv",
+      "pub_date": "2026-04-20T17:14:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
       "link": "https://www.sedaily.com/article/20034751?ref=naver",
@@ -13,9 +85,27 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031231",
+      "pub_date": "2026-04-20T17:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보",
       "link": "https://www.pressian.com/pages/articles/2026042017115844520?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T17:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561700",
+      "pub_date": "2026-04-20T17:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -49,15 +139,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561700",
-      "pub_date": "2026-04-20T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'박지윤과 이혼' 최동석, 상간 소송 불복→오는 7월 2심 재개",
       "link": "https://www.mhnse.com/news/articleView.html?idxno=531213",
       "pub_date": "2026-04-20T17:12:00+09:00",
@@ -77,7 +158,7 @@
     },
     {
       "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305481?division=NAVER",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838366",
       "pub_date": "2026-04-20T17:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,7 +166,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]日 홋카이도·도호쿠 지역에 진도 5강 지진…태평양 연안 중부에...",
+      "title": "[속보]日 산리쿠 해역 규모 7.4 강진…최대 3m 쓰나미 예상",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525011",
       "pub_date": "2026-04-20T17:10:00+09:00",
       "source_id": "yna",
@@ -95,8 +176,17 @@
     },
     {
       "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838366",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305481?division=NAVER",
       "pub_date": "2026-04-20T17:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"일본 혼슈 동쪽 해역 규모 7.4 지진…쓰나미 경보\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294998?influxDiv=NAVER",
+      "pub_date": "2026-04-20T17:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -112,11 +202,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"일본 혼슈 동쪽 해역 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294998?influxDiv=NAVER",
+      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090284.html",
       "pub_date": "2026-04-20T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -148,6 +238,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] '재창이형' → '실장님' 바꾼 속기사 특정...대장동 수사 검사들...",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226494&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-20T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] “일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보”",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029706997&code=61131111&cp=nv",
       "pub_date": "2026-04-20T17:06:00+09:00",
@@ -175,15 +274,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] '재창이형' → '실장님' 바꾼 속기사 특정...대장동 수사 검사들...",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226494&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-20T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042017045401945",
       "pub_date": "2026-04-20T17:05:00+09:00",
@@ -199,6 +289,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "호주 '싱글세' 연 2000만원…1인 가구 재정 부담 가중 확연",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20260420010006067",
+      "pub_date": "2026-04-20T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 진주물류센터 집회서 화물차가 노조원 덮쳐... 1명 사망·2명 중경상",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834163",
+      "pub_date": "2026-04-20T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -226,24 +334,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호주 '싱글세' 연 2000만원…1인 가구 재정 부담 가중 확연",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260420010006067",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 진주물류센터 집회서 화물차가 노조원 덮쳐... 1명 사망·2명 중경상",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834163",
-      "pub_date": "2026-04-20T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -310,15 +400,6 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] ① 신안군 조경·미술관 사업, '쪼개기 계약·가짜 기증' 의혹 확...",
-      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59083",
-      "pub_date": "2026-04-20T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "에이블리, 첫 뷰티 PB '바이블리' 론칭…1020 취향 정조준",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=513006",
       "pub_date": "2026-04-20T17:00:00+09:00",
@@ -326,6 +407,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] ① 신안군 조경·미술관 사업, '쪼개기 계약·가짜 기증' 의혹 확...",
+      "link": "https://www.newswhoplus.com/news/articleView.html?idxno=59083",
+      "pub_date": "2026-04-20T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "與 \"영입인재 1호 전태진, 울산 남구갑 전략공천\"",
@@ -391,8 +481,8 @@
       "is_scoop": true
     },
     {
-      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
+      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -400,8 +490,8 @@
       "is_scoop": false
     },
     {
-      "title": "與 재보선 전략공천 본격화…정청래 \"이광재 검토·송영길 염두\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838357",
+      "title": "BGF리테일 교섭 촉구 집회서 화물연대 조합원 사상자 발생",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300618",
       "pub_date": "2026-04-20T16:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -679,20 +769,20 @@
       "is_scoop": false
     },
     {
-      "title": "\"말 맞추자\" 폭행 피해자를 가해자로 몰아…일당 징역형",
-      "link": "https://www.nocutnews.co.kr/news/6505163?utm_source=naver&utm_medium=article&utm_campaign=20260420043217",
-      "pub_date": "2026-04-20T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "검찰, ‘가족 계열사 부당지원’ 대방건설 회장에 징역형 구형",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540479&ref=A",
       "pub_date": "2026-04-20T16:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"말 맞추자\" 폭행 피해자를 가해자로 몰아…일당 징역형",
+      "link": "https://www.nocutnews.co.kr/news/6505163?utm_source=naver&utm_medium=article&utm_campaign=20260420043217",
+      "pub_date": "2026-04-20T16:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1711,96 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS 이사 5명, '박장범 사장 임명취소' 안건 제출",
-      "link": "https://www.pressian.com/pages/articles/2026042015151062047?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-20T15:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한국행 유조선, 호르무즈 통과...내달 8일 입항",
-      "link": "https://magazine.hankyung.com/business/article/202604203250b",
-      "pub_date": "2026-04-20T15:15:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합] \"소름 돋을만큼 좋아\"…코르티스 첫 컴백, 'BTS 동생'의 패기+자...",
-      "link": "http://www.joynews24.com/view/1961747",
-      "pub_date": "2026-04-20T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
-      "link": "https://www.xportsnews.com/article/2139148",
-      "pub_date": "2026-04-20T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
-      "pub_date": "2026-04-20T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "상간 소송·재산 분할·폭로전…스타 부부 파경 그 후, 남은 법적 쟁점...",
-      "link": "https://www.ajunews.com/view/20260420150120804",
-      "pub_date": "2026-04-20T15:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "진주 화물연대 집회서 화물차에 부딪혀 조합원 1명 사망",
-      "link": "https://www.nocutnews.co.kr/news/6505077?utm_source=naver&utm_medium=article&utm_campaign=20260420030516",
-      "pub_date": "2026-04-20T15:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 측 \"미국의 긍정 신호 있으면 대표단 파견\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420150610apL",
-      "pub_date": "2026-04-20T15:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전운 감도는 진주 화물연대 집회 현장…노조원 사망에 전국서 총집결",
-      "link": "https://www.segye.com/newsView/20260420512088?OutUrl=naver",
-      "pub_date": "2026-04-20T15:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'GX국제주간' 김성환 장관 \"'전기 국가' 전환 생존 핵심\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298431&inflow=N",
-      "pub_date": "2026-04-20T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
