@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-21 08:50:27",
-  "total": 149,
-  "breaking": 84,
+  "updated": "2026-04-21 08:55:25",
+  "total": 148,
+  "breaking": 82,
   "items": [
+    {
+      "title": "[속보] 전장연 집회에 종로 일대 도로 통제",
+      "link": "https://www.etoday.co.kr/news/view/2577519",
+      "pub_date": "2026-04-21T08:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "쇼핑엔티, 뷰티 라인업 확대…봄·여름 시즌 성수기 공략",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298520&inflow=N",
+      "pub_date": "2026-04-21T08:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[LPGA] 시즌 첫 메이저 셰브론 23일 개막...김효주 등 한국 18명 출전",
+      "link": "https://www.newspim.com/news/view/20260421000162",
+      "pub_date": "2026-04-21T08:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]양양군 서면 논화리 산불···초속 6.9ｍ 바람 속 진화 중",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150003700000",
+      "pub_date": "2026-04-21T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“이재명정권 안보·재정 포퓰리즘”, 국민의힘 “깨끗·유능한 지방정...",
       "link": "http://www.breaknews.com/1201827",
@@ -22,15 +58,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배는 보류할 듯",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525118",
-      "pub_date": "2026-04-21T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189364",
       "pub_date": "2026-04-21T08:40:00+09:00",
@@ -38,6 +65,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배는 보류할 듯",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525118",
+      "pub_date": "2026-04-21T08:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "\"하이브리드전 의심\"…英서 유대인 공동체 공격 이어져",
@@ -1297,51 +1333,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]S&P500·나스닥 하락…이란 리스크 재부각에도 낙폭 제한",
-      "link": "https://news.mtn.co.kr/news-detail/2026042022515423507",
-      "pub_date": "2026-04-20T22:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"인천교통공사에 폭발물 설치\" 허위 신고...직원 긴급 대피 소동",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561950",
-      "pub_date": "2026-04-20T22:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"이제는 한계\"…플라스틱 대란에 산업계 곳곳 타격",
-      "link": "http://www.yonhapnewstv.co.kr/MYH2026042022523813I",
-      "pub_date": "2026-04-20T22:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
-      "pub_date": "2026-04-20T22:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
-      "link": "https://www.munhwa.com/article/11583671?ref=naver",
-      "pub_date": "2026-04-20T22:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
