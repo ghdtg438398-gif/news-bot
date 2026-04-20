@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 23:05:27",
+  "updated": "2026-04-20 23:10:28",
   "total": 200,
   "breaking": 105,
   "items": [
@@ -49,8 +49,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
-      "link": "https://www.munhwa.com/article/11583671?ref=naver",
+      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
       "pub_date": "2026-04-20T22:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +58,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
+      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
+      "link": "https://www.munhwa.com/article/11583671?ref=naver",
       "pub_date": "2026-04-20T22:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
+      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
       "pub_date": "2026-04-20T22:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[Biz & Law] CU 물류센터 집회서 사망 사고…경찰 수사 착수",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095212",
+      "title": "CU 화물노동자 사망 ‘일파만파’… 정치권·노동계 “참사 주범은 BGF리...",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302772",
       "pub_date": "2026-04-20T22:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.news1.kr/world/usa-canada/6143007",
+      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
+      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -202,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓",
-      "link": "https://www.mt.co.kr/world/2026/04/20/2026042022364749253",
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.news1.kr/world/usa-canada/6143007",
       "pub_date": "2026-04-20T22:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,21 +247,21 @@
       "is_scoop": false
     },
     {
-      "title": "종전인가, 확전인가…2차 협상 앞두고 美 협상단은 파키스탄으로 [뉴스...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525100",
-      "pub_date": "2026-04-20T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]쿠웨이트, 원유 선적 불가항력 선언…“호르무즈 봉쇄 탓”",
       "link": "https://www.donga.com/news/Inter/article/all/20260420/133778077/1",
       "pub_date": "2026-04-20T22:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "종전인가, 확전인가…2차 협상 앞두고 美 협상단은 파키스탄으로 [뉴스...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525100",
+      "pub_date": "2026-04-20T22:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
