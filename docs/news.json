@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 05:35:27",
-  "total": 174,
+  "updated": "2026-04-21 05:40:30",
+  "total": 170,
   "breaking": 104,
   "items": [
+    {
+      "title": "[속보]애플, 새 CEO에 존 터너스 지명",
+      "link": "http://www.fnnews.com/news/202604210536467253",
+      "pub_date": "2026-04-21T05:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "윤이나, LPGA 개인 최고인 단독 4위…세계랭킹 15계단 도약",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019908",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
+      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042105031646663",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
+      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
       "pub_date": "2026-04-21T05:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,6 +139,15 @@
       "is_scoop": false
     },
     {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
+      "pub_date": "2026-04-21T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[우보세]교부금 울타리",
       "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
       "pub_date": "2026-04-21T05:00:00+09:00",
@@ -141,15 +159,6 @@
     {
       "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6143035",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1523,51 +1532,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189306",
-      "pub_date": "2026-04-20T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]“1억 먹튀 필라테스 다시 열었다”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525052",
-      "pub_date": "2026-04-20T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189310",
-      "pub_date": "2026-04-20T19:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰청 “진주 화물연대 조합원 사망 사고 전담 수사팀 구성”",
-      "link": "https://www.khan.co.kr/article/202604201937001",
-      "pub_date": "2026-04-20T19:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '사용기한 만료 수액' 3살짜리에 투여…책임은 막내 간호사 탓으...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189281",
-      "pub_date": "2026-04-20T19:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
