@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 22:55:28",
+  "updated": "2026-04-20 23:00:41",
   "total": 200,
   "breaking": 105,
   "items": [
+    {
+      "title": "화물연대 집회 중 차량 사고…조합원 1명 사망·2명 부상, 경찰도 다쳐",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115391",
+      "pub_date": "2026-04-20T22:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]S&P500·나스닥 하락…이란 리스크 재부각에도 낙폭 제한",
       "link": "https://news.mtn.co.kr/news-detail/2026042022515423507",
@@ -85,8 +94,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]“쿠웨이트, 호르무즈 봉쇄로 원유수출 ‘불가항력’ 선언”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525102",
+      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "https://www.kyeonggi.com/article/20260420580652",
       "pub_date": "2026-04-20T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "https://www.kyeonggi.com/article/20260420580652",
+      "title": "[속보]“쿠웨이트, 호르무즈 봉쇄로 원유수출 ‘불가항력’ 선언”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525102",
       "pub_date": "2026-04-20T22:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
-      "link": "http://www.fnnews.com/news/202604202235094339",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
       "link": "https://www.hankyung.com/article/2026042041957",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
+      "link": "http://www.fnnews.com/news/202604202235094339",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[영상] 진주 화물연대 집회서 사망사고…대치 격화하며 경찰도 부상",
-      "link": "https://www.yna.co.kr/view/AKR20260420148600704?input=1195m",
-      "pub_date": "2026-04-20T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
