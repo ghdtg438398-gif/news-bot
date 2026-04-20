@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-21 04:30:32",
-  "total": 192,
-  "breaking": 99,
+  "updated": "2026-04-21 04:35:26",
+  "total": 184,
+  "breaking": 98,
   "items": [
     {
       "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
@@ -1654,78 +1654,6 @@
       "title": "日혼슈 동쪽서 규모 7.4 지진…쓰나미 경보 발령",
       "link": "https://biz.heraldcorp.com/article/10721478?ref=naver",
       "pub_date": "2026-04-20T18:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] JTBC, KBS과 합의 마쳤다…북중미 월드컵 공동중계",
-      "link": "https://www.mhnse.com/news/articleView.html?idxno=531316",
-      "pub_date": "2026-04-20T18:34:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "홍명보호 월드컵 여정, KBS서도 본다… JTBC-KBS, 공동중계 합의",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931407",
-      "pub_date": "2026-04-20T18:34:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민희진, 악플러 손배서 일부 승소…1인당 30만원씩",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599022",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026년 북중미 월드컵, KBS에서도 본다",
-      "link": "https://www.munhwa.com/article/11583642?ref=naver",
-      "pub_date": "2026-04-20T18:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽 바다에서 '규모 7.4' 지진..'쓰나미 경보까지",
-      "link": "https://www.newstree.kr/newsView/ntr202604200019",
-      "pub_date": "2026-04-20T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "남구, 분포도서관 문화재단 위탁 보류",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042018274643396",
-      "pub_date": "2026-04-20T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 북중미 월드컵 중계, 지상파 KBS에서도 볼 수 있다",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039819",
-      "pub_date": "2026-04-20T18:32:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보 발령(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260420143651073?input=1195m",
-      "pub_date": "2026-04-20T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
