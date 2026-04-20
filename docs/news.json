@@ -1,8 +1,125 @@
 {
-  "updated": "2026-04-20 14:20:34",
+  "updated": "2026-04-20 14:25:34",
   "total": 200,
-  "breaking": 115,
+  "breaking": 114,
   "items": [
+    {
+      "title": "[속보] 재경위, 닷새만에 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446978",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042014232250699",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문 보고서 채택",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838332",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "https://www.ajunews.com/view/20260420140136692",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "우리금융, 생산적·포용금융 속도 높인다…첨단투자·서민지원 병행",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201004",
+      "pub_date": "2026-04-20T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.hankyung.com/article/2026042029887",
+      "pub_date": "2026-04-20T14:23:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://view.asiae.co.kr/article/2026042014210736993",
+      "pub_date": "2026-04-20T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 청문보고서 채택",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260420142027sB7",
+      "pub_date": "2026-04-20T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://www.news1.kr/politics/assembly/6142411",
+      "pub_date": "2026-04-20T14:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.viva100.com/article/20260420500873",
+      "pub_date": "2026-04-20T14:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/20/2026042000229.html",
+      "pub_date": "2026-04-20T14:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
       "link": "https://news.jtbc.co.kr/article/NB12294962?influxDiv=NAVER",
@@ -14,7 +131,25 @@
     },
     {
       "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.yna.co.kr/view/AKR20260420100500001?input=1195m",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090205.html",
+      "pub_date": "2026-04-20T14:18:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604201418117849",
+      "pub_date": "2026-04-20T14:18:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국회, 신현송 한은 총재 후보자 인사청문보고서 채택",
+      "link": "https://www.newspim.com/news/view/20260420000758",
       "pub_date": "2026-04-20T14:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.newspim.com/news/view/20260420000758",
+      "title": "[속보] 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.yna.co.kr/view/AKR20260420100500001?input=1195m",
       "pub_date": "2026-04-20T14:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,8 +175,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042014151632536",
+      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133773547/1",
       "pub_date": "2026-04-20T14:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -49,8 +184,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]진주 화물연대 집회서 노조원-탑차 충돌 1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773547/1",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 후보 '인사청문 경과보고서' 채...",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042014151632536",
       "pub_date": "2026-04-20T14:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -112,7 +247,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 진주 물류센터 집회서 물류차-노조원 충돌...1명 사망·2명 부상",
+      "title": "[속보] 진주 CU물류센터 집회 현장 ‘참변’… 조합원 1명 숨지고 경찰...",
       "link": "https://www.kyeonggi.com/article/20260420580243",
       "pub_date": "2026-04-20T14:06:00+09:00",
       "source_id": "yna",
@@ -148,21 +283,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]진주 물류센터 집회 현장서 화물차, 집회 참가자 추돌…1명 사망...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
-      "pub_date": "2026-04-20T14:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "전기차 스마트 충전기 교체 지원 부작용…요금 인상·리베이트 의혹 등",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446893",
       "pub_date": "2026-04-20T14:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]진주 물류센터 집회 현장서 화물차, 집회 참가자 추돌…1명 사망...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
+      "pub_date": "2026-04-20T14:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -184,6 +319,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
+      "link": "https://www.hankyung.com/article/2026042029007",
+      "pub_date": "2026-04-20T13:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진",
       "link": "https://biz.heraldcorp.com/article/10721127?ref=naver",
       "pub_date": "2026-04-20T13:57:00+09:00",
@@ -193,12 +337,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진…피해 확인중",
-      "link": "https://www.hankyung.com/article/2026042029007",
-      "pub_date": "2026-04-20T13:57:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
+      "title": "\"버릇없는 후배 없다\"… 강민호의 원태인 감싸기가 모순적인 이유[초점...",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931376",
+      "pub_date": "2026-04-20T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -226,15 +370,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"버릇없는 후배 없다\"… 강민호의 원태인 감싸기가 모순적인 이유[초점...",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931376",
-      "pub_date": "2026-04-20T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1663,141 +1798,6 @@
       "title": "[속보]종합특검, ‘통일교 수사 무마 의혹’ 경찰청 등 압수수색",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524944",
       "pub_date": "2026-04-20T10:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "16번 홀까지 단독 선두였는데…김세영, 연장 접전 끝 준우승",
-      "link": "https://www.nocutnews.co.kr/news/6504855?utm_source=naver&utm_medium=article&utm_campaign=20260420104614",
-      "pub_date": "2026-04-20T10:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5012865",
-      "pub_date": "2026-04-20T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"트럼프는커녕 차관보 만난게 성과?\"…돌아온 장동혁이 직면한 역풍",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370100",
-      "pub_date": "2026-04-20T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]정원오 캠프 상임선대위원장에 이인영·서영교",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010414493032",
-      "pub_date": "2026-04-20T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420505&PRO_CODE=99",
-      "pub_date": "2026-04-20T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "대전시, 긴급차량 접근 정보 실시간 안내",
-      "link": "https://www.nocutnews.co.kr/news/6504820?utm_source=naver&utm_medium=article&utm_campaign=20260420103514",
-      "pub_date": "2026-04-20T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 해외 원정도박 사건 무마 의혹' 경찰 전방위 압수...",
-      "link": "https://www.pressian.com/pages/articles/2026042010345981311?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-20T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1249616",
-      "pub_date": "2026-04-20T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604201035548820",
-      "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 도박 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.sidae.com/article/2026042010340880509",
-      "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042010342549214",
-      "pub_date": "2026-04-20T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838295",
-      "pub_date": "2026-04-20T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, ‘통일교 수사 무마 의혹’ 관련 경찰청 압수수색",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029704796&code=61121111&cp=nv",
-      "pub_date": "2026-04-20T10:34:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강은희 대구시교육감 3선 도전 선언",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597889",
-      "pub_date": "2026-04-20T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 中 ‘기준금리 역할’ LPR 11개월째 동결…1년물 3.0%·5년물 3.5%",
-      "link": "https://biz.heraldcorp.com/article/10720886?ref=naver",
-      "pub_date": "2026-04-20T10:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
