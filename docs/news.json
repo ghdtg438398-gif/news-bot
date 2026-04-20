@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 18:05:37",
+  "updated": "2026-04-20 18:10:36",
   "total": 200,
-  "breaking": 134,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보] JTBC·KBS 2026 북중미 월드컵 공동중계 합의",
+      "link": "https://www.news1.kr/life-culture/press/6142906",
+      "pub_date": "2026-04-20T18:07:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 혼슈 해역 규모 7.4 강진…최대 3ｍ 쓰나미 경보 발령",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045762",
+      "pub_date": "2026-04-20T18:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"인도와 에너지 자원·나프타 수급 협력…중동평화 중...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045763",
+      "pub_date": "2026-04-20T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이철규 의원, 동해 하평건널목 통행 재개 결론 도출⋯안전 요원 배치",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050163700000",
+      "pub_date": "2026-04-20T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김정기 대구시장 권한대행, \"장애인·비장애인 동등한 일상 누리게 하겠...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561720",
+      "pub_date": "2026-04-20T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본 혼슈 동쪽서 규모 7.4 강진…쓰나미 경보 발령",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540546&ref=A",
+      "pub_date": "2026-04-20T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260420.99099005745",
@@ -19,6 +73,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'특급대회 3위' 김시우, 세계 26위로 도약…개인 역대 최고",
+      "link": "https://www.newspim.com/news/view/20260420001176",
+      "pub_date": "2026-04-20T18:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -59,7 +122,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -68,7 +131,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
-      "pub_date": "2026-04-20T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] ‘강진 발생’ 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "https://www.viva100.com/article/20260420501292",
       "pub_date": "2026-04-20T17:46:00+09:00",
@@ -202,6 +256,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
+      "pub_date": "2026-04-20T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "부람준 후보, \"더불어민주당 오라동 무공천 선언하라\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561708",
       "pub_date": "2026-04-20T17:46:00+09:00",
@@ -221,6 +284,15 @@
     },
     {
       "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "https://www.hankyung.com/article/2026042038717",
+      "pub_date": "2026-04-20T17:45:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090295.html",
       "pub_date": "2026-04-20T17:45:00+09:00",
       "source_id": "chosun",
@@ -234,15 +306,6 @@
       "pub_date": "2026-04-20T17:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "https://www.hankyung.com/article/2026042038717",
-      "pub_date": "2026-04-20T17:45:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -868,15 +931,6 @@
       "is_scoop": true
     },
     {
-      "title": "지예은♥바타 열애, '런닝맨' 러브라인 깨지고…양세찬 '걸그룹 킬러설...",
-      "link": "https://www.xportsnews.com/article/2139221",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)안전공업 '불법 증축', 면허도 없는 인테리어 업체가 시공했다",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298417&inflow=N",
       "pub_date": "2026-04-20T17:20:00+09:00",
@@ -884,6 +938,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "지예은♥바타 열애, '런닝맨' 러브라인 깨지고…양세찬 '걸그룹 킬러설...",
+      "link": "https://www.xportsnews.com/article/2139221",
+      "pub_date": "2026-04-20T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 일본 혼슈 동쪽 해역 규모 7.4 지진…국내 영향 없어",
@@ -1735,69 +1798,6 @@
       "title": "[속보] 정청래 “이광재·송영길 재보궐선거 전략공천 염두”",
       "link": "https://www.joongang.co.kr/article/25421698",
       "pub_date": "2026-04-20T16:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주, 울산 남갑 국회의원 보궐선거에 전태진 변호사 공천 예정",
-      "link": "https://view.asiae.co.kr/article/2026042016262934184",
-      "pub_date": "2026-04-20T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'둔감해진 중동전쟁' 코스피 6200선 회복…SK하닉 3%↑ [시황종합]",
-      "link": "https://www.news1.kr/finance/market-exr/6142664",
-      "pub_date": "2026-04-20T16:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與, 울산 남갑 국회의원 보궐선거에 전태진 공천",
-      "link": "https://www.mk.co.kr/article/12021904",
-      "pub_date": "2026-04-20T16:25:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "가람코퍼레이션, 외식·프랜차이즈 동반성장 우수기업 선정···회장상...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49112",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"송영길 하납갑 공천? 염두에 두고 있어 … 이광재도 전...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000296.html",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 지아이이노베이션, 전립선암 병용요법 임상 1b/2상 FDA 승인 공시",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569008",
-      "pub_date": "2026-04-20T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 보이스피싱 돈 전달한 경찰...검찰 ‘징역 5년’ 구형",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420509&PRO_CODE=99",
-      "pub_date": "2026-04-20T16:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
