@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-20 09:35:26",
+  "updated": "2026-04-20 09:40:25",
   "total": 200,
   "breaking": 136,
   "items": [
@@ -121,8 +121,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
+      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
+      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +130,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홍준표 “국민의힘, 지선 패하면 이익집단의 ‘쌩얼’ 보이게 될...",
-      "link": "https://www.segye.com/newsView/20260420503884?OutUrl=naver",
+      "title": "[속보] 李대통령 지지도 취임 후 최고 65.5%...민주 50.5%·국힘 31.4%",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200011",
       "pub_date": "2026-04-20T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -157,20 +157,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 0.36% 오른 6,213.92 개장",
-      "link": "https://n.news.naver.com/mnews/article/422/0000856778?sid=101",
-      "pub_date": "2026-04-20T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란軍 “미 군함에 드론으로 보복 타격”",
       "link": "https://www.mk.co.kr/article/12021395",
       "pub_date": "2026-04-20T09:16:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 0.36% 오른 6,213.92 개장",
+      "link": "https://n.news.naver.com/mnews/article/422/0000856778?sid=101",
+      "pub_date": "2026-04-20T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -220,15 +220,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
-      "pub_date": "2026-04-20T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031095",
       "pub_date": "2026-04-20T09:12:00+09:00",
@@ -252,6 +243,15 @@
       "pub_date": "2026-04-20T09:12:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란군, 드론으로 美함정 타격…이란 상선 공격에 반격\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420502&PRO_CODE=99",
+      "pub_date": "2026-04-20T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
