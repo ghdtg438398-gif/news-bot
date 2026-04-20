@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 20:35:28",
+  "updated": "2026-04-20 20:40:30",
   "total": 200,
-  "breaking": 96,
+  "breaking": 95,
   "items": [
+    {
+      "title": "[속보]유명배우, 자택 욕실서 샤워 도중 사망…향년 57세",
+      "link": "https://www.mydaily.co.kr/page/view/2026042020383281148",
+      "pub_date": "2026-04-20T20:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령 \"구성 핵시설 이미 알려져…정동영 기밀 누설 주장 터...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599094",
+      "pub_date": "2026-04-20T20:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
       "link": "https://www.hankyung.com/article/2026042040757",
@@ -13,8 +31,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
-      "link": "https://www.news1.kr/politics/president/6142985",
+      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
+      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,8 +40,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고양 민경선 민주당 시장 후보 확정",
-      "link": "https://www.dailysportshankook.co.kr/news/articleView.html?idxno=427644",
+      "title": "[속보]李대통령 \"'구성 핵시설' 이미 알려져…정동영 기밀 누설 주장은...",
+      "link": "https://www.news1.kr/politics/president/6142985",
       "pub_date": "2026-04-20T20:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -47,6 +65,15 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] \"예비 소방 호스 없이\"‥폭발 직전 CCTV엔",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816688_37004.html",
+      "pub_date": "2026-04-20T20:28:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "아오모리현 앞바다에서 또 강진‥쓰나미 경보 발령·17만 명 대피",
@@ -121,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
       "pub_date": "2026-04-20T20:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,20 +193,20 @@
       "is_scoop": false
     },
     {
-      "title": "울산 2천억 규모 2차 추경…고유가·고물가 대응",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540742&ref=A",
-      "pub_date": "2026-04-20T19:50:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "CU 파업집회서 대체 차량 막다 조합원 사망",
       "link": "https://www.kyeongin.com/article/1762197",
       "pub_date": "2026-04-20T19:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "울산 2천억 규모 2차 추경…고유가·고물가 대응",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540742&ref=A",
+      "pub_date": "2026-04-20T19:50:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "pub_date": "2026-04-20T17:16:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]황사 위기경보 '관심'…수도권·강원·충청·광주·전북·대구·경...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598932",
-      "pub_date": "2026-04-20T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 동북부 진도 7.4 지진... 일부 지역 쓰나미 경보",
-      "link": "https://www.hankookilbo.com/news/article/A2026042017120005767?did=NA",
-      "pub_date": "2026-04-20T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"日 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.imaeil.com/page/view/2026042017130898030",
-      "pub_date": "2026-04-20T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
