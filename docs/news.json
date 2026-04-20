@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 09:05:34",
+  "updated": "2026-04-20 09:10:32",
   "total": 200,
-  "breaking": 130,
+  "breaking": 127,
   "items": [
+    {
+      "title": "[속보] 원·달러 환율, 4원 내린 1479.5원 출발",
+      "link": "https://biz.chosun.com/policy/policy_sub/2026/04/20/EKLSFWECIRAEXNYW656EALQ4V4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "패닉, 20년 만의 단독 콘서트 'PANIC IS COMING' 성황리 종료",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532312",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[HMM50년 돌아보기-19] 글로벌 얼라이언스와 제휴",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604200853151963570d99e4c8_23",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미-이란, 휴전 종료 이틀 앞두고 ‘무력 충돌’",
+      "link": "https://www.asiatime.co.kr/article/20260420500033",
+      "pub_date": "2026-04-20T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 반관영매체 “이란군 美군함에 드론으로 보복 타격”",
+      "link": "https://www.kyeonggi.com/article/20260420580034",
+      "pub_date": "2026-04-20T09:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오리엔탈정공 VI 발동, 장초반부터 주가 도약…20%↑",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568865",
+      "pub_date": "2026-04-20T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구자은 LS 회장 모친 유한선 여사 별세",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298367&inflow=N",
+      "pub_date": "2026-04-20T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 22.00p(0.36%) 오른 6213.92(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2577120",
+      "pub_date": "2026-04-20T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 美·이란 긴장 고조에도 상승 출발",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042009034433452",
@@ -22,8 +94,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 22.00p(0.36%) 오른 6213.92(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2577120",
+      "title": "[속보]원·달러 환율, 4.0원 내린 1479.5원 출발",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597647",
       "pub_date": "2026-04-20T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -40,6 +112,15 @@
       "is_scoop": true
     },
     {
+      "title": "[속보] 코스피, 22.00p(0.36%) 오른 6213.92 출발",
+      "link": "http://www.fnnews.com/news/202604200853362268",
+      "pub_date": "2026-04-20T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]코스피, 0.36% 오른 6213.92 출발…코스닥은 1167.10",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02325526645418088",
       "pub_date": "2026-04-20T09:03:00+09:00",
@@ -49,9 +130,27 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 22.00p(0.36%) 오른 6213.92 출발",
-      "link": "http://www.fnnews.com/news/202604200853362268",
-      "pub_date": "2026-04-20T09:03:00+09:00",
+      "title": "[속보] 코스피, 6213.92…0.36% 올라 6200선 재돌파",
+      "link": "https://www.sidae.com/article/2026042008484917711",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”",
+      "link": "https://biz.heraldcorp.com/article/10720685?ref=naver",
+      "pub_date": "2026-04-20T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 0.36% 오른 6213.92 출발…코스닥 0.25%↓",
+      "link": "https://news.mtn.co.kr/news-detail/2026042008575740895",
+      "pub_date": "2026-04-20T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -78,33 +177,6 @@
     {
       "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
       "link": "https://www.ajunews.com/view/20260420085853231",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6213.92…0.36% 올라 6200선 재돌파",
-      "link": "https://www.sidae.com/article/2026042008484917711",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.3% 오른 6213.92 출발…코스닥 0.2%↓",
-      "link": "https://news.mtn.co.kr/news-detail/2026042008575740895",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”",
-      "link": "https://biz.heraldcorp.com/article/10720685?ref=naver",
       "pub_date": "2026-04-20T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000044.html",
+      "title": "[속보]미국 프로축구 LAFC 0-0 새너제이(전반 종료)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597467",
       "pub_date": "2026-04-20T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미국 프로축구 LAFC 0-0 새너제이(전반 종료)",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597467",
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\"",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000044.html",
       "pub_date": "2026-04-20T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,7 +238,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 美해군, 항공모함 접근 이란군 공격 드론 격추 <로이터>",
+      "title": "[속보] 이란군 \"美군함에 드론으로 보복 타격\" <이란 반관영매체>",
       "link": "https://www.etoday.co.kr/news/view/2577111",
       "pub_date": "2026-04-20T08:56:00+09:00",
       "source_id": "yna",
@@ -202,15 +274,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란군 \"美 공격에 드론 발사...미군 함정 공격\"",
-      "link": "https://www.dailian.co.kr/news/view/1635335/?sc=Naver",
-      "pub_date": "2026-04-20T08:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "포항서 2층 단독주택 전소…화목보일러 취급 부주의",
       "link": "https://www.nocutnews.co.kr/news/6504717?utm_source=naver&utm_medium=article&utm_campaign=20260420085313",
       "pub_date": "2026-04-20T08:53:00+09:00",
@@ -218,6 +281,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란군 \"美 공격에 드론 발사...미군 함정 공격\"",
+      "link": "https://www.dailian.co.kr/news/view/1635335/?sc=Naver",
+      "pub_date": "2026-04-20T08:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 이란군 \"미 군함에 드론으로 보복 타격\"",
@@ -508,8 +580,8 @@
       "is_scoop": false
     },
     {
-      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
-      "link": "http://www.breaknews.com/1201414",
+      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
+      "link": "http://www.breaknews.com/1201428",
       "pub_date": "2026-04-20T08:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -517,8 +589,8 @@
       "is_scoop": false
     },
     {
-      "title": "전남도, 동절기 취약계층 3만 7천 가구 ‘맞춤형 온기’ 전달",
-      "link": "http://www.breaknews.com/1201428",
+      "title": "추경호, “대구의 자부심, 민생과 역사로 다시 세우겠다”",
+      "link": "http://www.breaknews.com/1201414",
       "pub_date": "2026-04-20T08:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1730,78 +1802,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 트럼프 “美 해상봉쇄 뚫으려던 이란 선적 배 차단·장악”",
-      "link": "https://www.joongang.co.kr/article/25421490",
-      "pub_date": "2026-04-20T04:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"美 해상 봉쇄 뚫으려던 이란 화물선 저지·장악\"",
-      "link": "https://www.news1.kr/world/usa-canada/6141581",
-      "pub_date": "2026-04-20T04:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美, 호르무즈 해협 봉쇄 돌파 이란 화물선 나포”",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597376",
-      "pub_date": "2026-04-20T04:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미 해상봉쇄 뚫으려던 이란 선적 배 차단·장악\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816444_36925.html",
-      "pub_date": "2026-04-20T04:49:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “美 해상 봉쇄 뚫으려던 이란 화물선 요격해 나포”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/20/7XBVDVOYJZGJRAKUQXLQ6KGHSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-20T04:49:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'김세영·윤이나 우승 경쟁' LA 챔피언십 3R 성적은?…이미향·황유민·...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019883",
-      "pub_date": "2026-04-20T04:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"해상 봉쇄 뚫으려던 이란 국적 화물선 나포\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604200445232403",
-      "pub_date": "2026-04-20T04:45:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “美, 봉쇄 뚫으려던 이란 화물선 나포...내부 조사 중”",
-      "link": "https://www.sedaily.com/article/20034374?ref=naver",
-      "pub_date": "2026-04-20T04:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
