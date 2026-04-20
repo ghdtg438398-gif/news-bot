@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-20 15:15:30",
+  "updated": "2026-04-20 15:20:33",
   "total": 200,
-  "breaking": 118,
+  "breaking": 119,
   "items": [
+    {
+      "title": "돌아온 늑구, 캐릭터로 나온다? 오월드 시설 개편도 검토",
+      "link": "https://www.nocutnews.co.kr/news/6505088?utm_source=naver&utm_medium=article&utm_campaign=20260420031718",
+      "pub_date": "2026-04-20T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이준석 “감찰 받는 쪽이 감찰관 골라… 고양이에게 생선가게 맡...",
+      "link": "https://www.segye.com/newsView/20260420512441?OutUrl=naver",
+      "pub_date": "2026-04-20T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KBS 이사 5명, '박장범 사장 임명취소' 안건 제출",
+      "link": "https://www.pressian.com/pages/articles/2026042015151062047?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-20T15:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 집회서 대체 화물차 막던 조합원 1명 사망, 2명 부상",
+      "link": "http://www.seouleconews.com/news/articleView.html?idxno=90739",
+      "pub_date": "2026-04-20T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한국행 유조선, 호르무즈 통과...내달 8일 입항",
+      "link": "https://magazine.hankyung.com/business/article/202604203250b",
+      "pub_date": "2026-04-20T15:15:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[종합] \"소름 돋을만큼 좋아\"…코르티스 첫 컴백, 'BTS 동생'의 패기+자...",
       "link": "http://www.joynews24.com/view/1961747",
@@ -184,21 +229,21 @@
       "is_scoop": false
     },
     {
-      "title": "[무비053] 다큐멘터리 불모지에서 싹트는 씨앗들, 풀어야 할 과제들",
-      "link": "https://www.newsmin.co.kr/news/131522/",
-      "pub_date": "2026-04-20T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국회 재경위, 신현송 한은 총재 후보자 청문보고서 채택",
       "link": "https://biz.heraldcorp.com/article/10721205?ref=naver",
       "pub_date": "2026-04-20T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[무비053] 다큐멘터리 불모지에서 싹트는 씨앗들, 풀어야 할 과제들",
+      "link": "https://www.newsmin.co.kr/news/131522/",
+      "pub_date": "2026-04-20T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -265,8 +310,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
-      "link": "https://economist.co.kr/article/view/ecn202604200063",
+      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
+      "link": "https://www.sedaily.com/article/20034640?ref=naver",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://www.sedaily.com/article/20034640?ref=naver",
+      "title": "[속보] 국회 재경위, 신현송 한은 총재 인사청문보고서 채택",
+      "link": "https://economist.co.kr/article/view/ecn202604200063",
       "pub_date": "2026-04-20T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -364,6 +409,15 @@
       "is_scoop": false
     },
     {
+      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
+      "pub_date": "2026-04-20T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "중동전쟁 피해기업에 5500억 원 공급…긴급자금·수출지원 확대",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963032&call_from=naver_news",
       "pub_date": "2026-04-20T14:30:00+09:00",
@@ -373,12 +427,12 @@
       "is_scoop": false
     },
     {
-      "title": "임종룡 \"중동전쟁 피해 금융 지원 '골든타임' 놓치지 말아야\"",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513103",
-      "pub_date": "2026-04-20T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
+      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
+      "pub_date": "2026-04-20T14:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -396,15 +450,6 @@
       "pub_date": "2026-04-20T14:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] KBS 이사들 '박장범 사장 임명취소' 의결 안건 제출",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333885",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -436,6 +481,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
+      "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
+      "pub_date": "2026-04-20T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
       "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
       "pub_date": "2026-04-20T14:28:00+09:00",
@@ -452,15 +506,6 @@
       "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
-      "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
@@ -544,8 +589,8 @@
       "is_scoop": false
     },
     {
-      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
+      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
+      "link": "https://www.asiatime.co.kr/article/20260420500252",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -553,8 +598,8 @@
       "is_scoop": false
     },
     {
-      "title": "공직사회 ‘성과 가로채기’ 옛말… 근무평정 결과 통보 의무화",
-      "link": "https://www.asiatime.co.kr/article/20260420500252",
+      "title": "[세계家] 도널드 트럼프 미국 대통령 ③ ㅣ '최후통첩' vs 이란 '보복 경...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568966",
       "pub_date": "2026-04-20T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "pub_date": "2026-04-20T11:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '빠른 결단' 대구FC, 김병수 감독 경질···최성용 수석코치 감...",
-      "link": "https://dgmbc.com/NewsArticle/836086",
-      "pub_date": "2026-04-20T11:47:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴공 아카이브]강은호 전 방위사업청장·전북대 첨단방위산업학과 교수...",
-      "link": "http://www.ddanzi.com/879301743",
-      "pub_date": "2026-04-20T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "퍼주기 공약의 악성 진화[뉴스와 시각]",
-      "link": "https://www.munhwa.com/article/11583497?ref=naver",
-      "pub_date": "2026-04-20T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "굿네이버스·경기도교육청 맞손…경인교대 참여 ‘위기학생 지원’ 확대",
-      "link": "http://www.joynews24.com/view/1961659",
-      "pub_date": "2026-04-20T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전북 주유소 평균 경유 가격 리터당 2,000원 근접",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64070",
-      "pub_date": "2026-04-20T11:46:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
