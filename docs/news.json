@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 01:20:28",
+  "updated": "2026-04-21 01:25:33",
   "total": 200,
   "breaking": 102,
   "items": [
+    {
+      "title": "[금융 HOT 뉴스] 우리금융, \"생산적·포용금융 속도 높인다\"",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134357",
+      "pub_date": "2026-04-21T01:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스클레임 사설] 언제까지 미국의 '속국'으로 남을 건가",
       "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061342",
@@ -1791,15 +1800,6 @@
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "JTBC, KBS와 ‘2026 FIFA 북중미 월드컵’ 공동중계 합의［공식］",
-      "link": "http://www.breaknews.com/1201746",
-      "pub_date": "2026-04-20T18:14:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
