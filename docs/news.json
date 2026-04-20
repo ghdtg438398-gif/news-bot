@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-21 07:15:31",
+  "updated": "2026-04-21 07:20:28",
   "total": 169,
   "breaking": 111,
   "items": [
+    {
+      "title": "[속보]日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210006",
+      "pub_date": "2026-04-21T07:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란 선박 최소 26척, 미 봉쇄선 통과\"<영국 매체>",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604210717221Io",
+      "pub_date": "2026-04-21T07:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 … 총리 취임...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260421.99099005831",
+      "pub_date": "2026-04-21T07:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 일본 다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
       "link": "https://www.dailian.co.kr/news/view/1635779/?sc=Naver",
@@ -112,7 +139,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "title": "[속보] 다카이치, 야스쿠니 신사에 공물 봉납…참배는 보류 전망",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042106524971910",
       "pub_date": "2026-04-21T06:54:00+09:00",
       "source_id": "yna",
@@ -121,7 +148,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日다카이치, 야스쿠니 신사에 공물 봉납",
+      "title": "[속보] 日다카이치, 야스쿠니 신사에 공물 봉납… 참배는 안 할 듯",
       "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500012?wlog_tag3=naver",
       "pub_date": "2026-04-21T06:53:00+09:00",
       "source_id": "seoul",
@@ -238,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
+      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +274,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
+      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1494,33 +1521,6 @@
       "pub_date": "2026-04-20T21:23:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260420.99099005821",
-      "pub_date": "2026-04-20T21:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"정동영 구성 핵시설 언급에 기밀누설 주장은 잘못\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042021190302191",
-      "pub_date": "2026-04-20T21:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.ajunews.com/view/20260420211201221",
-      "pub_date": "2026-04-20T21:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
