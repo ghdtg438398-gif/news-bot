@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 00:40:29",
+  "updated": "2026-04-21 00:45:46",
   "total": 200,
-  "breaking": 104,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[뉴스클레임 사설] 언제까지 미국의 '속국'으로 남을 건가",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061342",
+      "pub_date": "2026-04-21T00:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "아수라장 된 진주 CU 물류센터 집회 비극",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103330",
+      "pub_date": "2026-04-21T00:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“공청회 없이 선거구 쪼갰다”⋯원주 우산동 부글부글",
       "link": "https://www.kwnews.co.kr/page/view/2026042050084700000",
@@ -1783,24 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"韓-인도, 핵심광물·원전·청정에너지 협력 강화\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305509?division=NAVER",
-      "pub_date": "2026-04-20T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민희진, 악플러 상대로 일부 승소…“각 30만원 배상”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540556&ref=A",
-      "pub_date": "2026-04-20T18:11:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
