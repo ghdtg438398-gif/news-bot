@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 08:10:30",
-  "total": 166,
-  "breaking": 108,
+  "updated": "2026-04-21 08:15:26",
+  "total": 165,
+  "breaking": 106,
   "items": [
+    {
+      "title": "‘51G 출루’ 오타니, 추신수와 어깨 나란히 하나…ML기록도 가시권",
+      "link": "https://www.sportsseoul.com/news/read/1604163?ref=naver",
+      "pub_date": "2026-04-21T08:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "신장식 \"유의동, 조국 평택 몰라? 본인은 3선하며 뭐했나?\"[한판승부]",
       "link": "https://www.nocutnews.co.kr/news/6505338?utm_source=naver&utm_medium=article&utm_campaign=20260421080025",
@@ -67,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.etnews.com/20260421000007",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
+      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
       "pub_date": "2026-04-21T07:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1476,24 +1485,6 @@
       "pub_date": "2026-04-20T22:16:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓\"",
-      "link": "https://www.hankyung.com/article/2026042041087",
-      "pub_date": "2026-04-20T22:12:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"쿠웨이트, 원유 선적 불가항력 선언…호르무즈 봉쇄 탓\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420221202mpn",
-      "pub_date": "2026-04-20T22:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
