@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 23:55:28",
+  "updated": "2026-04-21 00:00:57",
   "total": 200,
-  "breaking": 105,
+  "breaking": 104,
   "items": [
+    {
+      "title": "[단독인터뷰] 손배찬 후보 \"실사구시로 자족도시 완성\"",
+      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061336",
+      "pub_date": "2026-04-21T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 이미 도착! '초대형 연쇄 이동' 전북 떠난 거스 포옛, 마침내 행...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553154262",
@@ -1792,15 +1801,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] JTBC·KBS, 북중미 월드컵 공동중계 합의",
-      "link": "https://www.news1.kr/life-culture/press/6142906",
-      "pub_date": "2026-04-20T18:07:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
