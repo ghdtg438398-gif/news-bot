@@ -1,8 +1,35 @@
 {
-  "updated": "2026-04-20 14:00:44",
+  "updated": "2026-04-20 14:05:27",
   "total": 200,
-  "breaking": 121,
+  "breaking": 119,
   "items": [
+    {
+      "title": "[속보]진주 물류센터 집회 현장서 화물차, 경찰 바리케이드 돌진…1명 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050075300000",
+      "pub_date": "2026-04-20T14:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전기차 스마트 충전기 교체 지원 부작용…요금 인상·리베이트 의혹 등",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=446893",
+      "pub_date": "2026-04-20T14:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "우리금융, 생산적·포용금융 속도전…\"지원 골든타임 놓치지 않겠다\"",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728957",
+      "pub_date": "2026-04-20T13:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 금강철강·부국철강·하이스틸 'VI 발동'…철강주 오후 급등세에...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568954",
@@ -72,6 +99,15 @@
       "pub_date": "2026-04-20T13:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대, 진주 집회서 차로 경찰 바리케이드 돌진",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090182.html",
+      "pub_date": "2026-04-20T13:55:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -166,13 +202,13 @@
       "is_scoop": false
     },
     {
-      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
+      "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "“경질하라” vs “이게 기밀?”",
@@ -184,13 +220,13 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)SK, 1300억대 세금 소송…지주 밸류에이션 변수",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298406&inflow=N",
+      "title": "통한의 17번 홀… 통하지 않은 빨간 바지 마법",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834088",
       "pub_date": "2026-04-20T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "청주시, 문화관광해설사와 함께 '열린여행 해설주간' 운영",
@@ -1762,42 +1798,6 @@
       "title": "[속보] 종합특검, '통일교 수사무마' 경찰청 압수수색",
       "link": "http://www.fnnews.com/news/202604201027434848",
       "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 수사 무마 의혹' 경찰청 등 압수수색",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270168",
-      "pub_date": "2026-04-20T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, '통일교 수사무마 의혹' 경찰청·강원경찰청·춘천경찰...",
-      "link": "https://www.mt.co.kr/society/2026/04/20/2026042010251856902",
-      "pub_date": "2026-04-20T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 경찰청 압수수색...'통일교 원정도박 수사 무마' 의혹...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042010240004541?did=NA",
-      "pub_date": "2026-04-20T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
-      "link": "https://news.jtbc.co.kr/article/NB12294935?influxDiv=NAVER",
-      "pub_date": "2026-04-20T10:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
