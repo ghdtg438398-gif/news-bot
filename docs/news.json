@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-21 07:00:41",
-  "total": 180,
-  "breaking": 125,
+  "updated": "2026-04-21 07:05:26",
+  "total": 178,
+  "breaking": 120,
   "items": [
+    {
+      "title": "[속보]日다카이치 총리, 야스쿠니 신사에 공물 봉납",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599237",
+      "pub_date": "2026-04-21T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
+      "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]국감 불참 음주난동 판사들 고발했지만…불기소 왜?",
+      "link": "https://www.nocutnews.co.kr/news/6505312?utm_source=naver&utm_medium=article&utm_campaign=20260421070024",
+      "pub_date": "2026-04-21T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]\"14살 소녀 성관계 폭로할까봐…\" 유명 가수, 잔혹살해 혐의 기소",
       "link": "https://www.mydaily.co.kr/page/view/2026042106553538328",
@@ -1564,60 +1600,6 @@
       "title": "[속보]李대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "https://www.imaeil.com/page/view/2026042021044913601",
       "pub_date": "2026-04-20T21:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.etoday.co.kr/news/view/2577446",
-      "pub_date": "2026-04-20T21:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가…내일자 발령",
-      "link": "https://www.joongang.co.kr/article/25421753",
-      "pub_date": "2026-04-20T21:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604202103242864",
-      "pub_date": "2026-04-20T21:03:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.sedaily.com/article/20034867?ref=naver",
-      "pub_date": "2026-04-20T21:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가",
-      "link": "https://www.hankyung.com/article/2026042040967",
-      "pub_date": "2026-04-20T21:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.newspim.com/news/view/20260420001269",
-      "pub_date": "2026-04-20T21:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
