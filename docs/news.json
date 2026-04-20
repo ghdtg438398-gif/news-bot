@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 20:00:37",
+  "updated": "2026-04-20 20:05:27",
   "total": 200,
-  "breaking": 105,
+  "breaking": 102,
   "items": [
+    {
+      "title": "[속보]日, 북부 해안지역에 '초대형 지진 발생 위험 증가' 주의보 발령",
+      "link": "https://www.newsis.com/view/NISX20260420_0003599082",
+      "pub_date": "2026-04-20T20:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
+      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
+      "pub_date": "2026-04-20T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
+      "pub_date": "2026-04-20T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, 진주 화물연대 조합원 사망사고 전담수사팀 구성",
+      "link": "https://www.newspim.com/news/view/20260420001255",
+      "pub_date": "2026-04-20T19:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "일본 ‘규모 7.5’ 강진…긴급 대피",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525059",
@@ -49,15 +85,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] '김건희 고모-신천지' 부동산 거래…윤 대통령실 개입 정황 녹취",
-      "link": "https://news.jtbc.co.kr/article/NB12295010?influxDiv=NAVER",
-      "pub_date": "2026-04-20T19:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "'계엄 실패' 위기 앞에서 찾은 \"트럼프\"…윤어게인 일맥상통",
       "link": "https://news.jtbc.co.kr/article/NB12295011?influxDiv=NAVER",
       "pub_date": "2026-04-20T19:45:00+09:00",
@@ -65,6 +92,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] '김건희 고모-신천지' 부동산 거래…윤 대통령실 개입 정황 녹취",
+      "link": "https://news.jtbc.co.kr/article/NB12295010?influxDiv=NAVER",
+      "pub_date": "2026-04-20T19:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
@@ -1762,42 +1798,6 @@
       "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
       "link": "https://biz.sbs.co.kr/article_hub/20000305481?division=NAVER",
       "pub_date": "2026-04-20T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838366",
-      "pub_date": "2026-04-20T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日 산리쿠 해역 규모 7.4 강진…최대 3m 쓰나미 예상",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525011",
-      "pub_date": "2026-04-20T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"일본 혼슈 동쪽 해역 규모 7.4 지진…쓰나미 경보\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294998?influxDiv=NAVER",
-      "pub_date": "2026-04-20T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 혼슈 동쪽 해역서 규모 7.4 지진 발생…쓰나미 경보",
-      "link": "https://view.asiae.co.kr/article/2026042017090638445",
-      "pub_date": "2026-04-20T17:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
