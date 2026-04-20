@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 18:35:27",
+  "updated": "2026-04-20 18:40:31",
   "total": 200,
-  "breaking": 118,
+  "breaking": 117,
   "items": [
+    {
+      "title": "日혼슈 동쪽서 규모 7.4 지진…쓰나미 경보 발령",
+      "link": "https://biz.heraldcorp.com/article/10721478?ref=naver",
+      "pub_date": "2026-04-20T18:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] JTBC, KBS과 합의 마쳤다…북중미 월드컵 공동중계",
       "link": "https://www.mhnse.com/news/articleView.html?idxno=531316",
@@ -175,21 +184,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "성장보다 물가…신현송 한은 총재 해법은?",
       "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] JTBC·KBS, 2026 북중미 월드컵 공동중계 합의",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042018045929230",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -301,21 +310,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 \"인도와 에너지 자원·나프타 수급 협력…중동평화 중...",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045763",
-      "pub_date": "2026-04-20T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김정기 대구시장 권한대행, \"장애인·비장애인 동등한 일상 누리게 하겠...",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561720",
       "pub_date": "2026-04-20T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"인도와 에너지 자원·나프타 수급 협력…중동평화 중...",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045763",
+      "pub_date": "2026-04-20T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -392,7 +401,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -401,7 +410,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -445,20 +454,20 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
       "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
       "pub_date": "2026-04-20T17:50:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
     {
       "title": "[속보]20대女, 경찰조사 대기 중 호흡곤란…숨져, 부검 의뢰",
       "link": "https://www.munhwa.com/article/11583633?ref=naver",
-      "pub_date": "2026-04-20T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 외무부 \"美와 2차 회담 지금으로서는 계획 없어\"",
-      "link": "https://www.ajunews.com/view/20260420162540987",
       "pub_date": "2026-04-20T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
