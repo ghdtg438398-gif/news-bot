@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-20 16:55:33",
+  "updated": "2026-04-20 17:00:41",
   "total": 200,
   "breaking": 118,
   "items": [
+    {
+      "title": "[속보] 이란 \"현재로선 미국과 2차 협상 계획 없어\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294996?influxDiv=NAVER",
+      "pub_date": "2026-04-20T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘, 경기지사 4인 경선 확정…5월 2일 후보 발표 ‘원샷 승부’",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04221366645418088",
+      "pub_date": "2026-04-20T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "부처 컴백부터 냥집사 나한까지…미소 번지는 불교 '얼굴'",
+      "link": "https://www.ajunews.com/view/20260420142300735",
+      "pub_date": "2026-04-20T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "조승환 의원, 또 피소되나?",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300606",
+      "pub_date": "2026-04-20T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "지주택 토지 확보 95→80% 완화…“정상 사업 속도 높이고, 부실 조합은...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540495&ref=A",
+      "pub_date": "2026-04-20T16:55:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 경기지사 4인 '원샷 경선'으로...5월 2일 최종 후보 확정",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366057",
+      "pub_date": "2026-04-20T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 양자 대결 '김부겸 49.2%&추경호 35.1%' '김부겸 51.5%&이진숙 33....",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000306.html",
+      "pub_date": "2026-04-20T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 예보, 하나저축은행 3년 연속 적자에 검사 착수…'턴어라운드' 발...",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=513188",
@@ -65,6 +128,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 이란 외무부 \"현재로선 미국과 2차 협상 계획 없다\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090277.html",
+      "pub_date": "2026-04-20T16:51:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "임종룡 회장 \"생산적·포용금융 속도감 있게 추진\"",
@@ -193,20 +265,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토 중…송영길도 염두\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090268.html",
-      "pub_date": "2026-04-20T16:40:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토중…송영길도 염두\"",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042016394548343",
       "pub_date": "2026-04-20T16:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래 \"'선당후사' 이광재 전략공천 검토 중…송영길도 염두\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090268.html",
+      "pub_date": "2026-04-20T16:40:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -274,20 +346,20 @@
       "is_scoop": false
     },
     {
-      "title": "\"말 맞추자\" 폭행 피해자를 가해자로 몰아…일당 징역형",
-      "link": "https://www.nocutnews.co.kr/news/6505163?utm_source=naver&utm_medium=article&utm_campaign=20260420043217",
-      "pub_date": "2026-04-20T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "검찰, ‘가족 계열사 부당지원’ 대방건설 회장에 징역형 구형",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540479&ref=A",
       "pub_date": "2026-04-20T16:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"말 맞추자\" 폭행 피해자를 가해자로 몰아…일당 징역형",
+      "link": "https://www.nocutnews.co.kr/news/6505163?utm_source=naver&utm_medium=article&utm_campaign=20260420043217",
+      "pub_date": "2026-04-20T16:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -517,8 +589,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
-      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
+      "title": "경남도, 복지 사각지대 갇힌 ‘경제 허리’ 4050 세대 지원책 마련",
+      "link": "http://www.breaknews.com/1201632",
       "pub_date": "2026-04-20T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -526,8 +598,8 @@
       "is_scoop": false
     },
     {
-      "title": "경남도, 복지 사각지대 갇힌 ‘경제 허리’ 4050 세대 지원책 마련",
-      "link": "http://www.breaknews.com/1201632",
+      "title": "중동사태로 생활고 겪는 도민…8조 원 규모 추경안 편성",
+      "link": "https://www.nocutnews.co.kr/news/6505156?utm_source=naver&utm_medium=article&utm_campaign=20260420041516",
       "pub_date": "2026-04-20T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1729,78 +1801,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'영원한 건 절대 없어'…DK·HLE, T1·젠지 격파하며 정규 시즌 연패 끊...",
-      "link": "https://www.xportsnews.com/article/2139110",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국회 재경위, 신현송 한은총재 후보자 인사청문보고서 채택",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305429?division=NAVER",
-      "pub_date": "2026-04-20T14:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]진주 화물연대 집회서 차 사고, 심정지 조합원 사망",
-      "link": "https://www.munhwa.com/article/11583576?ref=naver",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]온갖 비위 제주 경찰관 결국 '파면'…경찰청 \"특별감찰\"",
-      "link": "https://www.nocutnews.co.kr/news/6505019?utm_source=naver&utm_medium=article&utm_campaign=20260420022716",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 재경위, 신현송 한은 총재 후보자 인사청문보고서 채택",
-      "link": "https://www.dailian.co.kr/news/view/1635567/?sc=Naver",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 집회 사망사고 이어 차량 돌진…경찰 부상·2명 체포",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029705980&code=61121211&cp=nv",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]화물연대, 진주서 탑차 이동 막아서다 사고…1명 사망",
-      "link": "https://www.donga.com/news/Society/article/all/20260420/133773561/2",
-      "pub_date": "2026-04-20T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시, 25일 코오롱 야외음악당서 ‘파워풀 K-트로트 페스티벌’ 개최",
-      "link": "http://www.breaknews.com/1201542",
-      "pub_date": "2026-04-20T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
