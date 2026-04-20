@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 07:05:26",
-  "total": 178,
-  "breaking": 120,
+  "updated": "2026-04-21 07:10:32",
+  "total": 175,
+  "breaking": 117,
   "items": [
+    {
+      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
+      "link": "https://www.imaeil.com/page/view/2026042107072507527",
+      "pub_date": "2026-04-21T07:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 다카이치 총리, 야스쿠니 신사에 공물 봉납",
+      "link": "https://www.sidae.com/article/2026042107055555260",
+      "pub_date": "2026-04-21T07:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]日다카이치 총리, 야스쿠니 신사에 공물 봉납",
       "link": "https://www.newsis.com/view/NISX20260421_0003599237",
@@ -13,20 +31,20 @@
       "is_scoop": false
     },
     {
-      "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
-      "pub_date": "2026-04-21T07:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "JTBC·KBS 북중미 월드컵 공동 중계…“최종 제안 금액 수용”",
       "link": "https://biz.heraldcorp.com/article/10721600?ref=naver",
       "pub_date": "2026-04-21T07:02:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[Who is ?] 김재겸 롯데홈쇼핑 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=434323",
+      "pub_date": "2026-04-21T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -202,8 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
+      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,8 +229,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 아세아제지, 산업재해조사표에 '인적 요인'만 명시",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233898",
+      "title": "[단독]'아형' 예고편 빠졌지만..김신영, 3주 연속 출격→고정 합류 청신...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042016072727320",
       "pub_date": "2026-04-21T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1555,51 +1573,6 @@
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "https://view.asiae.co.kr/article/2026042021113381882",
       "pub_date": "2026-04-20T21:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.hankyung.com/article/2026042041037",
-      "pub_date": "2026-04-20T21:10:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
-      "pub_date": "2026-04-20T21:10:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.yna.co.kr/view/AKR20260420160900001?input=1195m",
-      "pub_date": "2026-04-20T21:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420160800001?input=1195m",
-      "pub_date": "2026-04-20T21:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.imaeil.com/page/view/2026042021044913601",
-      "pub_date": "2026-04-20T21:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
