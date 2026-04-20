@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 17:55:31",
+  "updated": "2026-04-20 18:00:42",
   "total": 200,
   "breaking": 135,
   "items": [
+    {
+      "title": "[가보니] 불황엔 달린다…'카페런'부터 러닝 편의점까지 일상이 된 러닝",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838351",
+      "pub_date": "2026-04-20T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"인도와 에너지·나프타 협력...중동평화 중요성 공감\"",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604200052",
+      "pub_date": "2026-04-20T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "pub_date": "2026-04-20T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "pub_date": "2026-04-20T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[현장] \"한국은 글로벌 벤치마크 시장\"…아우디, '더 뉴 A6'로 반등 승부...",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80215",
@@ -40,20 +76,20 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
       "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
       "pub_date": "2026-04-20T17:50:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -103,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
-      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
+      "title": "[속보] \"옥상으로 유인해 폭행\"…여중생 뺨 때리고 영상 촬영한 10대 女...",
+      "link": "https://www.imaeil.com/page/view/2026042017350463450",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +157,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"옥상으로 유인해 폭행\"…여중생 뺨 때리고 영상 촬영한 10대 女...",
-      "link": "https://www.imaeil.com/page/view/2026042017350463450",
+      "title": "[속보]日혼슈 동쪽 해역서 규모 7.4 지진…최고 3ｍ 쓰나미 예상",
+      "link": "https://www.kwnews.co.kr/page/view/2026042050150200000",
       "pub_date": "2026-04-20T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -211,6 +247,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200267&t=NN",
+      "pub_date": "2026-04-20T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 李대통령 “모디 총리, 중동 안정·평화 공감…한반도 평화 지지...",
       "link": "https://www.joongang.co.kr/article/25421728",
       "pub_date": "2026-04-20T17:41:00+09:00",
@@ -220,9 +265,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '강진 발생' 日도호쿠서 신칸센 운행 중단…쓰나미 70㎝ 관측",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200267&t=NN",
-      "pub_date": "2026-04-20T17:41:00+09:00",
+      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
+      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
+      "pub_date": "2026-04-20T17:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -235,15 +280,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"일본 혼슈 동쪽 해역서 규모 7.4 지진…쓰나미 관측\"",
-      "link": "https://www.nocutnews.co.kr/news/6505238?utm_source=naver&utm_medium=article&utm_campaign=20260420053717",
-      "pub_date": "2026-04-20T17:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -796,15 +832,6 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)안전공업 '불법 증축', 면허도 없는 인테리어 업체가 시공했다",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298417&inflow=N",
-      "pub_date": "2026-04-20T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "지예은♥바타 열애, '런닝맨' 러브라인 깨지고…양세찬 '걸그룹 킬러설...",
       "link": "https://www.xportsnews.com/article/2139221",
       "pub_date": "2026-04-20T17:20:00+09:00",
@@ -812,6 +839,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)안전공업 '불법 증축', 면허도 없는 인테리어 업체가 시공했다",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298417&inflow=N",
+      "pub_date": "2026-04-20T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 일본 혼슈 동쪽 해역 규모 7.4 지진…국내 영향 없어",
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T16:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"송영길 공천, 염두에 두고 있다\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2315169.htm",
-      "pub_date": "2026-04-20T16:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"부도덕 행동 NO\"…최동석, '박지윤 지인' 상대로 상간 소송 7월 재개",
-      "link": "https://www.xportsnews.com/article/2139227",
-      "pub_date": "2026-04-20T16:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 정청래 \"송영길 하남갑 공천, 염두에 두고 있다\"",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604201619323696",
-      "pub_date": "2026-04-20T16:19:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래 \"이광재·송영길 재보궐선거 전략공천 염두\"",
-      "link": "https://www.hankyung.com/article/2026042035007",
-      "pub_date": "2026-04-20T16:19:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
