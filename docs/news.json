@@ -1,8 +1,44 @@
 {
-  "updated": "2026-04-20 21:20:31",
+  "updated": "2026-04-20 21:25:29",
   "total": 200,
   "breaking": 102,
   "items": [
+    {
+      "title": "[속보] 이 대통령, 신현송 한은 총재 임명안 재가",
+      "link": "https://www.mk.co.kr/article/12022240",
+      "pub_date": "2026-04-20T21:23:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가…21일 공식 취임",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/20/20260420500258?wlog_tag3=naver",
+      "pub_date": "2026-04-20T21:23:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"정동영 구성 핵시설 언급에 기밀누설 주장은 잘못\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042021190302191",
+      "pub_date": "2026-04-20T21:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260420.99099005821",
+      "pub_date": "2026-04-20T21:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 모디 총리 \"인도 총리실 주도 '韓전담데스크' 만들어 경제협력\"",
       "link": "https://www.ajunews.com/view/20260420211201221",
@@ -49,15 +85,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "http://www.fnnews.com/news/202604202109186746",
-      "pub_date": "2026-04-20T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260420211120Fkq",
       "pub_date": "2026-04-20T21:12:00+09:00",
@@ -68,8 +95,8 @@
     },
     {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://view.asiae.co.kr/article/2026042021113381882",
-      "pub_date": "2026-04-20T21:11:00+09:00",
+      "link": "http://www.fnnews.com/news/202604202109186746",
+      "pub_date": "2026-04-20T21:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -86,10 +113,10 @@
     },
     {
       "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
-      "pub_date": "2026-04-20T21:10:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "link": "https://view.asiae.co.kr/article/2026042021113381882",
+      "pub_date": "2026-04-20T21:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -99,6 +126,15 @@
       "pub_date": "2026-04-20T21:10:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090384.html",
+      "pub_date": "2026-04-20T21:10:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -139,20 +175,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604202103242864",
-      "pub_date": "2026-04-20T21:03:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 신현송 한은 총재 임명안 재가…내일자 발령",
       "link": "https://www.joongang.co.kr/article/25421753",
       "pub_date": "2026-04-20T21:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 신현송 한국은행 총재 임명안 재가",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604202103242864",
+      "pub_date": "2026-04-20T21:03:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1764,42 +1800,6 @@
       "pub_date": "2026-04-20T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] NHK \"일본 동쪽 해안서 쓰나미 관측\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305483?division=NAVER",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"CEPA 개선…한-인도 교역 2030년 500억 달러 확대\"",
-      "link": "https://www.hankyung.com/article/2026042038237",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"모디 총리, 중동 안정·평화 공감…한반도 평화 지지...",
-      "link": "https://www.news1.kr/politics/president/6142681",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-인도, 핵심광물·원전·청정에너지 등 전략 분야 협...",
-      "link": "https://www.hankyung.com/article/2026042038247",
-      "pub_date": "2026-04-20T17:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
