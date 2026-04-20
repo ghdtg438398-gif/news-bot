@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 16:00:36",
+  "updated": "2026-04-20 16:05:30",
   "total": 200,
-  "breaking": 115,
+  "breaking": 112,
   "items": [
+    {
+      "title": "원청교섭 집회서 '사측 차량'에 참변…화물연대 \"CU, 정부가 죽였다\"",
+      "link": "https://www.nocutnews.co.kr/news/6505129?utm_source=naver&utm_medium=article&utm_campaign=20260420040316",
+      "pub_date": "2026-04-20T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“톱5만 벌써 3번째” 김시우, RBC 헤리티지 단독 3위…‘톱5’ 행진 속...",
+      "link": "https://www.sportsseoul.com/news/read/1604078?ref=naver",
+      "pub_date": "2026-04-20T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "지주택 사업승인 토지소유권 확보기준 95%→80%…알박기 막는다",
+      "link": "https://www.yna.co.kr/view/AKR20260420111700003?input=1195m",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'가족계열사 부당지원' 대방건설 구교운 회장에 징역3년 구형",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78195",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "지역주택조합, 토지 소유 80% 넘으면 사업 인가 받는다…정보 공개 확대",
+      "link": "https://www.newspim.com/news/view/20260420000935",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[항암비용의 진실]② 나라마다 다른 ‘키트루다' 가격...한국 건강보험...",
+      "link": "https://newstapa.org/article/NWYLD",
+      "pub_date": "2026-04-20T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "가방서 약 꺼내 먹은 뒤 '호흡곤란'…20대 피의자, 경찰 대기실서 사망",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=217711",
@@ -157,20 +211,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
-      "pub_date": "2026-04-20T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 중동 갈등 확대에도 증시 상승...코스피 0.44% 올라",
       "link": "https://www.ytn.co.kr/_ln/0102_202604201540309232",
       "pub_date": "2026-04-20T15:40:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율 6.3원 내린 1477.2원 마감",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598674",
+      "pub_date": "2026-04-20T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -283,8 +337,8 @@
       "is_scoop": false
     },
     {
-      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
-      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
+      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
+      "link": "https://www.sidae.com/article/2026042015294536419",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -292,8 +346,8 @@
       "is_scoop": false
     },
     {
-      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
-      "link": "https://www.sidae.com/article/2026042015294536419",
+      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
+      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
       "pub_date": "2026-04-20T15:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -454,21 +508,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이준석 “감찰 받는 쪽이 감찰관 골라… 고양이에게 생선가게 맡...",
-      "link": "https://www.segye.com/newsView/20260420512441?OutUrl=naver",
-      "pub_date": "2026-04-20T15:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "화물연대 집회서 대체 화물차 막던 조합원 1명 사망, 2명 부상",
       "link": "http://www.seouleconews.com/news/articleView.html?idxno=90739",
       "pub_date": "2026-04-20T15:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이준석 “감찰 받는 쪽이 감찰관 골라… 고양이에게 생선가게 맡...",
+      "link": "https://www.segye.com/newsView/20260420512441?OutUrl=naver",
+      "pub_date": "2026-04-20T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -499,8 +553,8 @@
       "is_scoop": false
     },
     {
-      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
+      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
+      "link": "https://www.xportsnews.com/article/2139148",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -508,8 +562,8 @@
       "is_scoop": false
     },
     {
-      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
-      "link": "https://www.xportsnews.com/article/2139148",
+      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1744,60 +1798,6 @@
       "title": "[속보] 화물연대 집회 현장서 화물차가 조합원 덮쳐 1명 사망, 2명 부상",
       "link": "https://www.pressian.com/pages/articles/2026042013211305779?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-20T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "3년여간 수도권 고급빌라 돌며 5억 턴 ‘복면 절도범’ 검거",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540408&ref=A",
-      "pub_date": "2026-04-20T13:21:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 진주 화물연대 집회서 차 사고…50대 심정지 조합원 사망",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031144",
-      "pub_date": "2026-04-20T13:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스특보] 휴전 종료 앞두고 긴장고조...협상 안갯속",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260420131655CWb",
-      "pub_date": "2026-04-20T13:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국내 양자컴퓨팅 어디까지왔나··엔비디아·아이온큐·SDT 3자 밸류체인...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513070",
-      "pub_date": "2026-04-20T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이준석 \"특별감찰관은 李대통령 마지막 브레이크...특별경호관 뽑...",
-      "link": "https://www.kyeonggi.com/article/20260420580094",
-      "pub_date": "2026-04-20T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대본부 진주 물류센터 투쟁 중 1명 사망・2명 부상… 2.5t ...",
-      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509086",
-      "pub_date": "2026-04-20T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
