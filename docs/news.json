@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 10:15:29",
+  "updated": "2026-04-20 10:20:30",
   "total": 200,
-  "breaking": 130,
+  "breaking": 129,
   "items": [
+    {
+      "title": "[속보]트럼프 “이란, 합의 안 하면 나라 전체 날아갈 것”…또 초강경...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000524937",
+      "pub_date": "2026-04-20T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김어준, '허위·음해'와의 전쟁 선포···10억 들여 민·형사 조치 나선...",
+      "link": "https://www.globale.co.kr/news/articleView.html?idxno=37740",
+      "pub_date": "2026-04-20T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국 “3표 차로 이길 수 있다고 본다… 제가 더 잘할 수 있다”",
+      "link": "https://www.segye.com/newsView/20260420505540?OutUrl=naver",
+      "pub_date": "2026-04-20T10:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)감사원, 인천항만공사 '북인천복합단지' 매각 들여다봤다",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298376&inflow=N",
+      "pub_date": "2026-04-20T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "환경부, 유해화학물질 취급 사업장 400곳 집중 안전점검",
+      "link": "https://idsn.co.kr/news/view/1065575754500307",
+      "pub_date": "2026-04-20T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 中 '기준금리 역할' LPR 11개월째 동결…1년물 3.0%·5년물 3.5%",
+      "link": "https://www.ajunews.com/view/20260420084810205",
+      "pub_date": "2026-04-20T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김시우, RBC 헤리티지 3위 선전… 상금 20억원 획득",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365763",
@@ -22,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
+      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597880",
       "pub_date": "2026-04-20T10:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -31,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '통일교 원정도박 수사 무마' 경찰청 등 압수수색",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597880",
+      "title": "[속보] 中, 사실상 기준금리 LPR 동결, 11개월째…1년물 3.0%·5년물 3.5%",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305332?division=NAVER",
       "pub_date": "2026-04-20T10:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -103,12 +157,12 @@
       "is_scoop": true
     },
     {
-      "title": "[인포맥스 POLL] 1분기 GDP 전기비 0.9%↑…전년비 2.7%↑",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410465",
+      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
       "pub_date": "2026-04-20T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -121,12 +175,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
+      "title": "[인포맥스 POLL] 1분기 GDP 전기비 0.9%↑…전년비 2.7%↑",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410465",
       "pub_date": "2026-04-20T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1746,60 +1800,6 @@
       "pub_date": "2026-04-20T07:07:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[이번주 한국은행 및 금융위·금감원 일정]",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410405",
-      "pub_date": "2026-04-20T07:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반...곧 보복할 것\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200007",
-      "pub_date": "2026-04-20T07:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, 우승 경쟁한 RBC 헤리티지 단독 3위로 마쳐 [PGA]",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019887",
-      "pub_date": "2026-04-20T07:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란 선박 공격은 휴전합의 위반…곧 보복\"",
-      "link": "http://www.fnnews.com/news/202604200703161758",
-      "pub_date": "2026-04-20T07:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "https://www.sedaily.com/article/20034380?ref=naver",
-      "pub_date": "2026-04-20T07:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305284?division=NAVER",
-      "pub_date": "2026-04-20T07:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
