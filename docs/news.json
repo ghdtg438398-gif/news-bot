@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-20 18:25:31",
+  "updated": "2026-04-20 18:30:31",
   "total": 200,
   "breaking": 123,
   "items": [
+    {
+      "title": "“모멸감 줬던 KT 토탈영업TF…해체 후 수습 나섰지만 ‘사과’는 없었...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298448&inflow=N",
+      "pub_date": "2026-04-20T18:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김세영, LPGA 연장 접전 끝 준우승",
       "link": "https://www.namdonews.com/news/articleView.html?idxno=908031",
@@ -85,15 +94,6 @@
       "is_scoop": false
     },
     {
-      "title": "성장보다 물가…신현송 한은 총재 해법은?",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
       "pub_date": "2026-04-20T18:16:00+09:00",
@@ -109,6 +109,15 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "성장보다 물가…신현송 한은 총재 해법은?",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
+      "pub_date": "2026-04-20T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -311,7 +320,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -320,7 +329,7 @@
     },
     {
       "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
       "pub_date": "2026-04-20T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -355,20 +364,20 @@
       "is_scoop": false
     },
     {
-      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
-      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
-      "pub_date": "2026-04-20T17:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
       "link": "http://www.gndomin.com/news/articleView.html?idxno=472921",
       "pub_date": "2026-04-20T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[리포트] '공소시효 놓친' 통일교 첩보.. 특검, 전방위 압색",
+      "link": "https://chmbc.co.kr/article/IqtUaAyzESA_z6Aq6ETNr",
+      "pub_date": "2026-04-20T17:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1792,15 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정청래 \"재보궐 전략공천 1호 울산 남갑 전태진…이광재·송영길도 염두...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410560",
-      "pub_date": "2026-04-20T16:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
