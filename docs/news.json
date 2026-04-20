@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 04:10:30",
+  "updated": "2026-04-21 04:15:30",
   "total": 200,
   "breaking": 101,
   "items": [
+    {
+      "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6143031",
+      "pub_date": "2026-04-21T04:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[출근길 포인트] 홍해 뚫은 한국 유조선…호르무즈 봉쇄 속 우회로 확보...",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302016",
@@ -1789,15 +1798,6 @@
       "title": "[속보] '7.4 강진' 日도호쿠 신칸센 운행 중단 … 70㎝ 쓰나미 관측",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/20/2026042000331.html",
       "pub_date": "2026-04-20T18:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 중국·몽골 덮친 올봄 ‘최악 황사’ 21일 닥친다…대부분 지역...",
-      "link": "https://www.dt.co.kr/article/12058474?ref=naver",
-      "pub_date": "2026-04-20T18:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
