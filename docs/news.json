@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-21 04:55:27",
-  "total": 177,
+  "updated": "2026-04-21 05:00:37",
+  "total": 174,
   "breaking": 97,
   "items": [
     {
@@ -1567,33 +1567,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "현대건설, 압구정3구역 재건축 우선협상대상자로 선정",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410580",
-      "pub_date": "2026-04-20T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 이와테현 동쪽 해역서 규모 7.5 강진 발생",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604201857417623",
-      "pub_date": "2026-04-20T18:57:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日혼슈 동쪽 해역 규모 7.5 강진…쓰나미 경보에 신칸센 운행 중단",
-      "link": "https://www.nocutnews.co.kr/news/6505315?utm_source=naver&utm_medium=article&utm_campaign=20260420065518",
-      "pub_date": "2026-04-20T18:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
