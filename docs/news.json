@@ -1,8 +1,143 @@
 {
-  "updated": "2026-04-20 15:30:37",
+  "updated": "2026-04-20 15:35:34",
   "total": 200,
-  "breaking": 120,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 코스피 27.17p(0.44%) 오른 6219.09(장마감)",
+      "link": "https://www.etoday.co.kr/news/view/2577340",
+      "pub_date": "2026-04-20T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"가상 세계에서 긴급대피 훈련한다\" 항공산업 재편하는 디지털 트윈 플...",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=737776",
+      "pub_date": "2026-04-20T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6219.09…기관 매수세에 0.44% 소폭 상승 마감",
+      "link": "https://www.sidae.com/article/2026042015183820823",
+      "pub_date": "2026-04-20T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.44% 오른 6219.09 마감…코스닥은 1174.85",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03854006645418088",
+      "pub_date": "2026-04-20T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 1174.85 종료…4.81포인트(0.41%) 상승",
+      "link": "https://www.sidae.com/article/2026042015184162862",
+      "pub_date": "2026-04-20T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나동연, 국민의힘 양산시장 후보 확정",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547767",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 인도 모디 총리와 정상회담 시작…조선·방산·공급망...",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598488",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 27.17p(0.44%) 오른 6219.09 마감",
+      "link": "https://www.ajunews.com/view/20260420152838868",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "충북도, 교통문화지수 꼴찌 탈출 시동",
+      "link": "http://www.dynews.co.kr/news/articleView.html?idxno=847429",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "불가리아 총선서 친러 라데프 진영 과반 가시권…EU 단일대오 변수",
+      "link": "https://www.segye.com/newsView/20260420512814?OutUrl=naver",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민희진, 악플러 상대 손해배상 소송 승소…120만원 받는다",
+      "link": "https://www.sidae.com/article/2026042015294536419",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이재영 증평군수 예비후보, ‘장애인이 행복한 증평’ 5대 공약 발표",
+      "link": "http://www.breaknews.com/1201592",
+      "pub_date": "2026-04-20T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.44% 오른 6219.09 마감",
+      "link": "https://www.newsis.com/view/NISX20260420_0003598642",
+      "pub_date": "2026-04-20T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한국정보통신 상한가, 나이스정보통신 급등…VI 발동되기도",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568991",
+      "pub_date": "2026-04-20T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가정폭력 피해자 '공공임대주택 우선 입주' 대상 기준 완화",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963024&call_from=naver_news",
+      "pub_date": "2026-04-20T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, 모디 총리와 정상회담 시작…'공급망·경제협력' 논의",
       "link": "https://www.hankyung.com/article/2026042031307",
@@ -139,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
-      "link": "https://www.xportsnews.com/article/2139148",
+      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "압구정 5구역 '도촬' 이어 3구역까지 '입찰 방해'…DL이앤씨로 향하는 조...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80202",
+      "title": "'하루에 4명 말소' 롯데 엔트리 대숙청, 정말 최선의 수였을까…분위기...",
+      "link": "https://www.xportsnews.com/article/2139148",
       "pub_date": "2026-04-20T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -346,21 +481,21 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 25t 화물차가 신입사원 33명 탄 버스 들이받아… 26명 부상",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500144?wlog_tag3=naver",
-      "pub_date": "2026-04-20T14:43:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "석유화학 '불가항력' 선언 확산...\"공장 가동률 줄이며 최대한 버티기\"",
       "link": "https://www.newspim.com/news/view/20260420000822",
       "pub_date": "2026-04-20T14:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 25t 화물차가 신입사원 33명 탄 버스 들이받아… 26명 부상",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/20/20260420500144?wlog_tag3=naver",
+      "pub_date": "2026-04-20T14:43:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1666,141 +1801,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "https://www.hankyung.com/article/2026042027367",
-      "pub_date": "2026-04-20T12:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090167.html",
-      "pub_date": "2026-04-20T12:42:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정동영 \"정책설명을 정보유출로 몰아 대단히 유감\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420083000504?input=1195m",
-      "pub_date": "2026-04-20T12:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이 대통령 “호르무즈해협 선박 안전 통과하도록 인도와 긴밀히 협력”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540387&ref=A",
-      "pub_date": "2026-04-20T12:40:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돌아온 장동혁 \"美 공화당 핵심들과 핫라인 구축\"…누굴 만난 지는 \"비공...",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370127",
-      "pub_date": "2026-04-20T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '인도 국빈방문' 李대통령 공식환영식 시작…오후 모디 총리와 ...",
-      "link": "https://www.news1.kr/politics/president/6142261",
-      "pub_date": "2026-04-20T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 대통령, 印 국빈방문 공식환영식 시작…곧 정상회담",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042012373036545",
-      "pub_date": "2026-04-20T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 인도 국빈방문 공식환영식 시작…곧 모디 총리와 정상...",
-      "link": "https://www.newsis.com/view/NISX20260420_0003598229",
-      "pub_date": "2026-04-20T12:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "검찰, 대방건설 구교운·구찬우 부자 징역 3년 구형…'알짜 택지' 전매 ...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513065",
-      "pub_date": "2026-04-20T12:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈] 중기부, 정책자금 5500억 긴급 투입… '중동전쟁 피해' 전용 트랙...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=728899",
-      "pub_date": "2026-04-20T12:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프, 이란선박 발포·나포로 최대압박...'협상-확전' 기로",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604201223430459",
-      "pub_date": "2026-04-20T12:23:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]\"분수 넘쳐\"..장항준 '왕사남' 대박 후 절친 윤종신과 첫 동반 예...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/20/2026042011150080674",
-      "pub_date": "2026-04-20T12:22:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "이재명 대통령, 인도의 '자립 인도'지지 : TOI 인터뷰",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701079",
-      "pub_date": "2026-04-20T12:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 이찬진 원장, 8대 지주 이사회 의장 간담회 '연기'…\"지배구조 개...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042011165945978",
-      "pub_date": "2026-04-20T12:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "김세영, LPGA투어 LA챔피언십서 아쉬운 연장패배",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540369&ref=A",
-      "pub_date": "2026-04-20T12:13:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
