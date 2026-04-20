@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-21 05:45:27",
-  "total": 169,
+  "updated": "2026-04-21 05:50:28",
+  "total": 168,
   "breaking": 105,
   "items": [
+    {
+      "title": "\"나 미국 사람이야\" 체류연장 없이 버틴 교포 벌금 500만 원",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525725&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T05:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "허위진술·증거조작으로 피해자를 가해자로 내몬 일당 실형",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525723&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T05:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 애플 \"새 CEO에 존 터너스\"",
       "link": "https://www.newspim.com/news/view/20260421000016",
@@ -131,7 +149,7 @@
     },
     {
       "title": "논란만 키운 장동혁…국힘서도 \"李 SNS 때리러 미국까지 갔나\"",
-      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421050029",
+      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421054623",
       "pub_date": "2026-04-21T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,8 +166,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6143035",
+      "title": "논란만 키운 장동혁…국힘서도 \"李 SNS 때리러 미국까지 갔나\"",
+      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421050029",
+      "pub_date": "2026-04-21T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -166,8 +193,8 @@
       "is_scoop": false
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
+      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6143035",
       "pub_date": "2026-04-21T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1486,42 +1513,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 파업집회서 대체 차량 막다 조합원 사망",
-      "link": "https://www.kyeongin.com/article/1762197",
-      "pub_date": "2026-04-20T19:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "울산 2천억 규모 2차 추경…고유가·고물가 대응",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8540742&ref=A",
-      "pub_date": "2026-04-20T19:50:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 20일 '뉴스 9' 예고",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/20/2026042090304.html",
-      "pub_date": "2026-04-20T19:49:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "납 초과 검출 DN오토모티브, 4620만원 과태료",
-      "link": "https://www.iusm.co.kr/news/articleView.html?idxno=1061946",
-      "pub_date": "2026-04-20T19:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
