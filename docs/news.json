@@ -1,8 +1,71 @@
 {
-  "updated": "2026-04-21 06:00:41",
-  "total": 168,
-  "breaking": 107,
+  "updated": "2026-04-21 06:05:31",
+  "total": 173,
+  "breaking": 109,
   "items": [
+    {
+      "title": "'병역비리' 송민호, 오늘(21일) 첫 공판..무슨 말할까[스타이슈]",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042015000150755",
+      "pub_date": "2026-04-21T06:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 \"팀 쿡 CEO서 물러나기로…후임자는 존 터너스\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295071?influxDiv=NAVER",
+      "pub_date": "2026-04-21T06:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "잠잠하던 보험사 M&A 꿈틀...한투지주에 쏠린 시선",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359851",
+      "pub_date": "2026-04-21T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"배은망덕한 X\" 악플 대가, 30만원...민희진, 손배소 일부 승소",
+      "link": "https://www.mt.co.kr/society/2026/04/21/2026042105254730869",
+      "pub_date": "2026-04-21T06:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박상용 검사 \"정치권 몸담지 않을 것…국힘과 어떤 접촉도 없었어\" 등 [...",
+      "link": "https://www.dailian.co.kr/news/view/1635763/?sc=Naver",
+      "pub_date": "2026-04-21T06:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
+      "link": "https://www.dt.co.kr/article/12058516?ref=naver",
+      "pub_date": "2026-04-21T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“세상은 여자들이 바꾸잖아요”···자우림 김윤아 단독 인터뷰[록과...",
+      "link": "https://www.khan.co.kr/article/202604210600071",
+      "pub_date": "2026-04-21T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260421055617QK5",
@@ -27,6 +90,15 @@
       "pub_date": "2026-04-21T05:56:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421009600009?input=1195m",
+      "pub_date": "2026-04-21T05:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1486,33 +1558,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日, 북부 해안지역에 '초대형 지진 발생 위험 증가' 주의보 발령",
-      "link": "https://www.newsis.com/view/NISX20260420_0003599082",
-      "pub_date": "2026-04-20T20:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, 화물연대 조합원 사망 사건 '전담수사팀' 구성",
-      "link": "https://www.nocutnews.co.kr/news/6505328?utm_source=naver&utm_medium=article&utm_campaign=20260420080119",
-      "pub_date": "2026-04-20T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 물류센터 화물연대 집회서 물류차 돌진...1명 사망·2명 부상",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298512&inflow=N",
-      "pub_date": "2026-04-20T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
