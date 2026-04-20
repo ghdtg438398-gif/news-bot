@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-20 22:50:38",
+  "updated": "2026-04-20 22:55:28",
   "total": 200,
-  "breaking": 104,
+  "breaking": 105,
   "items": [
+    {
+      "title": "[속보]S&P500·나스닥 하락…이란 리스크 재부각에도 낙폭 제한",
+      "link": "https://news.mtn.co.kr/news-detail/2026042022515423507",
+      "pub_date": "2026-04-20T22:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"인천교통공사에 폭발물 설치\" 허위 신고...직원 긴급 대피 소동",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561950",
+      "pub_date": "2026-04-20T22:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"이제는 한계\"…플라스틱 대란에 산업계 곳곳 타격",
+      "link": "http://www.yonhapnewstv.co.kr/MYH2026042022523813I",
+      "pub_date": "2026-04-20T22:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미군, 호르무즈서 “드론으로 기뢰 제거중…수일내 완료”",
+      "link": "https://www.munhwa.com/article/11583671?ref=naver",
+      "pub_date": "2026-04-20T22:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 쿠웨이트, 호르무즈 봉쇄 여파 ‘불가항력’ 선언",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005824",
+      "pub_date": "2026-04-20T22:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오피셜] '2000억 월드컵 중계권' 결론 나왔다…KBS 중계 확정+전현무 깜...",
+      "link": "https://www.xportsnews.com/article/2139317",
+      "pub_date": "2026-04-20T22:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착...",
       "link": "https://www.mk.co.kr/article/12022290",
@@ -94,20 +148,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
-      "link": "https://www.hankyung.com/article/2026042041957",
-      "pub_date": "2026-04-20T22:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 쿠웨이트, 호르무즈 해협 봉쇄에 원유 수출 '불가항력' 선언",
       "link": "http://www.fnnews.com/news/202604202235094339",
       "pub_date": "2026-04-20T22:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"밴스 부통령 포함 美대표단 수 시간 내 파키스탄 도착\"",
+      "link": "https://www.hankyung.com/article/2026042041957",
+      "pub_date": "2026-04-20T22:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1744,60 +1798,6 @@
       "title": "[영상] 진주 화물연대 집회서 사망사고…대치 격화하며 경찰도 부상",
       "link": "https://www.yna.co.kr/view/AKR20260420148600704?input=1195m",
       "pub_date": "2026-04-20T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[가보니] 불황엔 달린다…'카페런'부터 러닝 편의점까지 일상이 된 러닝",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838351",
-      "pub_date": "2026-04-20T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745371",
-      "pub_date": "2026-04-20T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전남 진도군, 유가 급등 대응 공중목욕장 운영비 긴급 지원",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745374",
-      "pub_date": "2026-04-20T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"인도와 에너지·나프타 협력...중동평화 중요성 공감\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604200052",
-      "pub_date": "2026-04-20T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장] \"한국은 글로벌 벤치마크 시장\"…아우디, '더 뉴 A6'로 반등 승부...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80215",
-      "pub_date": "2026-04-20T17:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'세계랭킹 26위' 김시우, RBC 헤리티지 3위로 최고 순위 재점프",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16039803",
-      "pub_date": "2026-04-20T17:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
