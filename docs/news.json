@@ -1,8 +1,80 @@
 {
-  "updated": "2026-04-20 10:00:37",
+  "updated": "2026-04-20 10:05:30",
   "total": 200,
-  "breaking": 136,
+  "breaking": 131,
   "items": [
+    {
+      "title": "[속보]이란군 “드론으로, 美군함 타격…상선 나포 대응 차원” 이란매...",
+      "link": "https://www.munhwa.com/article/11583444?ref=naver",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 종합특검, 경찰 전방위 압수수색…‘통일교 도박 수사 무마 의혹...",
+      "link": "https://www.mk.co.kr/article/12021493",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]중국, 사실상 기준금리 대출우대금리 11개월째 동결",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02679766645418088",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[인포맥스 POLL] 1분기 GDP 전기비 0.9%↑…전년비 2.7%↑",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410465",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[시선집중] HMM해상노조 “호르무즈 재봉쇄에 총격까지...선원들 충격 상...",
+      "link": "https://n.news.naver.com/mnews/article/214/0001493900?sid=100",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 20일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604200022",
+      "pub_date": "2026-04-20T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 신은수, 장근석 만난다…'협반' 캐스팅 확정",
+      "link": "https://www.xportsnews.com/article/2139072",
+      "pub_date": "2026-04-20T10:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 드림시큐리티 주가 상한가 직행…최근 흐름은?",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=568888",
+      "pub_date": "2026-04-20T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 홍준표 “국민의힘, 지선 참패하고 나면 이익집단의 ‘쌩얼’ 보...",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260420504&PRO_CODE=99",
@@ -85,15 +157,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란군, 美군함 드론으로 타격…상산 나포 보복\" 이란 반관영매...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305317?division=NAVER",
-      "pub_date": "2026-04-20T09:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이재명 대통령 지지율 65.5%…취임 후 최고치 경신 [리얼미터]",
       "link": "https://www.kyeonggi.com/article/20260420580036",
       "pub_date": "2026-04-20T09:45:00+09:00",
@@ -103,9 +166,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]미국 프로축구 LAFC 1-3 새너제이(후반 29분 리드 로버츠 자책골)",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597724",
-      "pub_date": "2026-04-20T09:43:00+09:00",
+      "title": "[속보] \"이란군, 美군함 드론으로 타격…상산 나포 보복\" 이란 반관영매...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305317?division=NAVER",
+      "pub_date": "2026-04-20T09:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -114,6 +177,15 @@
     {
       "title": "[속보] 李대통령 지지도 취임 후 최고치…민주 50.5%·국힘 31.4%",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270119",
+      "pub_date": "2026-04-20T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국 프로축구 LAFC 1-3 새너제이(후반 29분 리드 로버츠 자책골)",
+      "link": "https://www.newsis.com/view/NISX20260420_0003597724",
       "pub_date": "2026-04-20T09:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,6 +265,15 @@
       "is_scoop": false
     },
     {
+      "title": "[DP's 모닝픽] 이미지 AI '덕트 테이프' 수준은… \"곧바로 실무 투입 가...",
+      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58989",
+      "pub_date": "2026-04-20T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '안갯속 중동전쟁' 불확실성↑…코스피 '혼조'·WTI '6%↑'",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604200077&t=NN",
       "pub_date": "2026-04-20T09:28:00+09:00",
@@ -211,13 +292,13 @@
       "is_scoop": false
     },
     {
-      "title": "[DP's 모닝픽] 이미지 AI '덕트 테이프' 수준은… \"곧바로 실무 투입 가...",
-      "link": "https://www.ilovepc.co.kr/news/articleView.html?idxno=58989",
-      "pub_date": "2026-04-20T09:28:00+09:00",
+      "title": "김시우, PGA RBC 헤리티지 단독 3위 기록",
+      "link": "https://mdtoday.co.kr/news/view/1065572545699104",
+      "pub_date": "2026-04-20T09:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[속보] 이란군 “美군함에 드론으로 보복 타격”〈이란 반관영매체〉",
@@ -227,15 +308,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "김시우, PGA RBC 헤리티지 단독 3위 기록",
-      "link": "https://mdtoday.co.kr/news/view/1065572545699104",
-      "pub_date": "2026-04-20T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보]미국 프로축구 LAFC 0-2 새너제이(후반 11분 티모 베르너)",
@@ -1726,78 +1798,6 @@
       "title": "[속보] 김혜성, 타율 3할 복귀! 2루타→안타로 시즌 두 번째 멀티히트 완...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553150885",
       "pub_date": "2026-04-20T06:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "https://www.mk.co.kr/article/12021330",
-      "pub_date": "2026-04-20T06:58:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미, 이란 상선 발포는 휴전 위반‥보복할 것\"",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6816479_36925.html",
-      "pub_date": "2026-04-20T06:57:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260420.99099005413",
-      "pub_date": "2026-04-20T06:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “美, 이란상선 발포는 휴전합의 위반…곧 보복할 것”",
-      "link": "https://www.joongang.co.kr/article/25421552",
-      "pub_date": "2026-04-20T06:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.hankyung.com/article/2026042014897",
-      "pub_date": "2026-04-20T06:55:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"미 이란상선 발포는 휴전합의 위반…곧 보복할 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260420065407U5w",
-      "pub_date": "2026-04-20T06:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 \"美, 이란상선에 발포해 휴전합의 위반…곧 보복할 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260420008900009?input=1195m",
-      "pub_date": "2026-04-20T06:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]북한, '화성-11라' 미사일 탄두 위력시험…김정은 참관",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042006501989730",
-      "pub_date": "2026-04-20T06:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
