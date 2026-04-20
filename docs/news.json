@@ -1,8 +1,26 @@
 {
-  "updated": "2026-04-20 11:40:28",
+  "updated": "2026-04-20 11:45:29",
   "total": 200,
-  "breaking": 124,
+  "breaking": 123,
   "items": [
+    {
+      "title": "[속보] 장동혁 \"미국, 李대통령의 이스라엘 비판 발언 진위 물어\"",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370122",
+      "pub_date": "2026-04-20T11:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "말레이시아 수상가옥 빈민촌에 큰불...집 1,000여 채 전소 [글로벌이야기...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237155",
+      "pub_date": "2026-04-20T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "뇌종양수술 미루며 대한상의 헌신…박일준 前부회장의 ‘안타까운 퇴장...",
       "link": "https://biz.heraldcorp.com/article/10721019?ref=naver",
@@ -58,8 +76,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
-      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
+      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,8 +85,8 @@
       "is_scoop": false
     },
     {
-      "title": "손흥민, 풀타임 출전에도 공격포인트 불발…LAFC 홈에서 1-4 완패",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733186",
+      "title": "김세영, LPGA 투어 LA 챔피언십서 통한의 연장패…아쉬운 뒷심",
+      "link": "https://www.geconomy.co.kr/news/article.html?no=319534",
       "pub_date": "2026-04-20T11:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,8 +103,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"TSMC, 1.4나노 2028년 양산…2029년 '1나노 이하' 시험생산\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305364?division=NAVER",
+      "title": "[속보] 장동혁 \"방미, 논란 충분히 예상했지만 李정부 외교 참사 때문\"",
+      "link": "https://www.dailian.co.kr/news/view/1635483/?sc=Naver",
       "pub_date": "2026-04-20T11:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,8 +112,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁 \"방미, 논란 충분히 예상했지만 李정부 외교 참사 때문\"",
-      "link": "https://www.dailian.co.kr/news/view/1635483/?sc=Naver",
+      "title": "[속보] \"TSMC, 1.4나노 2028년 양산…2029년 '1나노 이하' 시험생산\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305364?division=NAVER",
       "pub_date": "2026-04-20T11:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +139,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 \"미국, 李 대통령 이스라엘 발언 진위 물어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011252699062",
+      "title": "[속보] 장동혁 \"방미 결정, 이재명 정권 외교 참사 때문\"",
+      "link": "https://news.jtbc.co.kr/article/NB12294943?influxDiv=NAVER",
       "pub_date": "2026-04-20T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -130,8 +148,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장동혁 \"방미 결정, 이재명 정권 외교 참사 때문\"",
-      "link": "https://news.jtbc.co.kr/article/NB12294943?influxDiv=NAVER",
+      "title": "[속보]장동혁 \"미국, 李 대통령 이스라엘 발언 진위 물어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042011252699062",
       "pub_date": "2026-04-20T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
+      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
       "pub_date": "2026-04-20T11:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +211,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]장동혁 \"방미 통해 한미동맹 지탱할 신뢰 토대 만들어\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010541949428",
+      "title": "[속보]장동혁 \"방미, 논란 있을 것 알았지만 李정부 외교 참사 때문\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/20/2026042010533838095",
       "pub_date": "2026-04-20T11:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
-      "link": "https://www.ajunews.com/view/20260420111147523",
+      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
+      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "송도시민총연합회･올댓송도･송도국제도시맘, \"주민 95% 분구 요구 6･...",
-      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435673",
+      "title": "김세영·임진희, LPGA 투어 LA챔피언십 연장 끝 준우승…우승은 그린",
+      "link": "https://www.ajunews.com/view/20260420111147523",
       "pub_date": "2026-04-20T11:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -373,15 +391,6 @@
       "is_scoop": false
     },
     {
-      "title": "톱5 중 한국인만 4명인데 우승 놓쳤다… 김세영-임진희, 연장전 끝 준우...",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931368",
-      "pub_date": "2026-04-20T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "캐시닥 용돈퀴즈 정답 4월 20일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604200021",
       "pub_date": "2026-04-20T11:02:00+09:00",
@@ -389,6 +398,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "톱5 중 한국인만 4명인데 우승 놓쳤다… 김세영-임진희, 연장전 끝 준우...",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931368",
+      "pub_date": "2026-04-20T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독] 자율주행 로봇 ‘뉴비’ 주역 軍 입대…회사도 변신 나선다",
@@ -1780,24 +1798,6 @@
       "title": "[속보] 코스닥, 1167.10 출발…2.94포인트(0.25%) 하락",
       "link": "https://www.sidae.com/article/2026042008531499883",
       "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 22.00포인트(0.36%) 오른 6213.92 출발",
-      "link": "https://www.ajunews.com/view/20260420085853231",
-      "pub_date": "2026-04-20T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美·이란 긴장감 속 코스피, 0.36% 오른 6213.92 출발",
-      "link": "https://www.newsis.com/view/NISX20260420_0003597627",
-      "pub_date": "2026-04-20T09:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
