@@ -1,8 +1,17 @@
 {
-  "updated": "2026-04-21 02:25:25",
+  "updated": "2026-04-21 02:30:36",
   "total": 200,
-  "breaking": 102,
+  "breaking": 103,
   "items": [
+    {
+      "title": "[속보] 이란 \"조건 충족 없이는 미국과 협상 없어...다시 처벌할 준비도...",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119089",
+      "pub_date": "2026-04-21T02:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[금융 HOT 뉴스] 우리금융, \"생산적·포용금융 속도 높인다\"",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=134357",
@@ -1788,15 +1797,6 @@
     {
       "title": "성장보다 물가…신현송 한은 총재 해법은?",
       "link": "https://biz.sbs.co.kr/article_hub/20000305498?division=NAVER",
-      "pub_date": "2026-04-20T18:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "일본 혼슈 앞바다 규모 7.4 강진…쓰나미 경보 발령",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031247",
       "pub_date": "2026-04-20T18:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
