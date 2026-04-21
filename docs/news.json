@@ -1,7 +1,124 @@
 {
-  "updated": "2026-04-21 13:40:30",
+  "updated": "2026-04-21 13:45:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 2%대 급등에 또 사상 최고치…6369.44 돌파",
+      "link": "https://www.ajunews.com/view/20260421134231955",
+      "pub_date": "2026-04-21T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"2인 1조 팀전 개막\" 취리히 클래식, 김주형 단독 출격",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040776",
+      "pub_date": "2026-04-21T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "2026 최악의 살인기업에 'HJ 중공업' 선정",
+      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509100",
+      "pub_date": "2026-04-21T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, CU 규탄 긴급 기자회견",
+      "link": "https://www.news1.kr/photos/7867340",
+      "pub_date": "2026-04-21T13:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 조합원 사상사고 관련 긴급 기자회견 연 민주노총",
+      "link": "https://www.news1.kr/photos/7867336",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, CU 규탄 기자회견",
+      "link": "https://www.news1.kr/photos/7867339",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 규탄발언하는 양경수 민주노총 위원장",
+      "link": "https://www.news1.kr/photos/7867334",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "발언하는 양경수 민주노총 위원장",
+      "link": "https://www.news1.kr/photos/7867333",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국, 평택시 주소 이전 \"가족과 함께 전입신고…평택 삶 일시적...",
+      "link": "https://www.pressian.com/pages/articles/2026042113374654048?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' 관련 긴급 기자회견",
+      "link": "https://www.news1.kr/photos/7867331",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
+      "link": "https://www.news1.kr/photos/7867328",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
+      "link": "https://www.news1.kr/photos/7867324",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' BGF리테일 규탄 기자회견",
+      "link": "https://www.news1.kr/photos/7867325",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]“반도체만 182억불” 4월 수출 ‘사상 최고치’",
       "link": "https://magazine.hankyung.com/business/article/202604215829b",
@@ -48,8 +165,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
-      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042113311212045",
+      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
+      "link": "https://www.kyeonggi.com/article/20260421580130",
       "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
-      "link": "https://www.kyeonggi.com/article/20260421580130",
+      "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
+      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042113311212045",
       "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,15 +345,6 @@
       "is_scoop": false
     },
     {
-      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
-      "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
       "link": "https://www.newspim.com/news/view/20260421000838",
       "pub_date": "2026-04-21T13:15:00+09:00",
@@ -246,8 +354,17 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업 선정 인증서",
-      "link": "https://www.newspim.com/news/view/20260421000828",
+      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
+      "link": "https://www.newspim.com/news/view/20260421000831",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 공개 합니다!",
+      "link": "https://www.newspim.com/news/view/20260421000830",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업 공개 합니다!",
-      "link": "https://www.newspim.com/news/view/20260421000830",
+      "title": "2026 최악의 살인기업 선정 인증서",
+      "link": "https://www.newspim.com/news/view/20260421000828",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1684,123 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "송민호 \"어리석었다, 재복무 원해\"…혐의 인정 후 고개 숙였다 [엑's 현...",
-      "link": "https://www.xportsnews.com/article/2139435",
-      "pub_date": "2026-04-21T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"재복무 기회달라\"…'부실 복무' 위너 송민호 징역 1년6개월 구형",
-      "link": "https://www.sidae.com/article/2026042110340962291",
-      "pub_date": "2026-04-21T10:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "충남도, 재난 취약시설 1천154곳 대상 ‘안전 대진단’ 돌입...",
-      "link": "http://www.breaknews.com/1201856",
-      "pub_date": "2026-04-21T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "징역 1년 6개월 구형 받은 송민호",
-      "link": "https://www.news1.kr/photos/7866920",
-      "pub_date": "2026-04-21T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "숏커버가 더 강하게 만든 채권시장…외국인의 시선은",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410704",
-      "pub_date": "2026-04-21T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "송민호 '부실 복무 의혹' 징역 1년 6개월 구형",
-      "link": "https://www.news1.kr/photos/7866911",
-      "pub_date": "2026-04-21T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김용 “김남국 또 전략공천은 특혜”…안산갑 ‘신경전’ 격화",
-      "link": "https://www.kyeonggi.com/article/20260421580088",
-      "pub_date": "2026-04-21T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신현송 “국민께 심려 끼쳐 송구…총재 임무 수행으로 평가받겠다...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525145",
-      "pub_date": "2026-04-21T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장]'실형 구형' 송민호 \"공황장애 치료 중…재복무 기회 주길\" 선처 ...",
-      "link": "https://news.jtbc.co.kr/article/NB12295115?influxDiv=NAVER",
-      "pub_date": "2026-04-21T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'부실 복무 의혹' 송민호, 징역 1년 6개월 구형",
-      "link": "https://www.news1.kr/photos/7866903",
-      "pub_date": "2026-04-21T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'나솔' 28기 영호♥옥순, 이미 혼인신고 마쳤다 …옥순 \"딸 아빠 호칭, ...",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931441",
-      "pub_date": "2026-04-21T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "AI·6G·보이스까지 총출동…이통 3사, 월드IT쇼 2026서 '기술 패권 경쟁...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80232",
-      "pub_date": "2026-04-21T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "아르코, '문화예술 생태계 진단' 현장 업무보고... 8회 릴레이 개최",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=422758",
-      "pub_date": "2026-04-21T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
