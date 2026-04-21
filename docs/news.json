@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 19:30:34",
+  "updated": "2026-04-21 19:35:24",
   "total": 200,
   "items": [
     {
@@ -93,15 +93,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
       "pub_date": "2026-04-21T19:02:00+09:00",
@@ -111,8 +102,17 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
-      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
+      "pub_date": "2026-04-21T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
+      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +120,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
-      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
+      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
+      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
