@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 04:25:28",
-  "total": 169,
+  "updated": "2026-04-22 04:30:36",
+  "total": 165,
   "items": [
     {
       "title": "코로나 구호자금 빼돌려 암호화폐 투자…존 고티 손자에 징역형",
@@ -1484,42 +1484,6 @@
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[미디어 비평] 조선일보는 왜 대통령의 SNS를 싫어하나",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=445014",
-      "pub_date": "2026-04-21T18:30:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[브리프] 코웨이 한컴인스페이스 유진 롯데이노베이트 카카오메이커스...",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352774",
-      "pub_date": "2026-04-21T18:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동 전쟁이 언론에 던진 과제",
-      "link": "http://www.journalist.or.kr/news/article.html?no=60757",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
