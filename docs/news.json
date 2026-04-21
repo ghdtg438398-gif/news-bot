@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 22:10:30",
+  "updated": "2026-04-21 22:15:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"이란과 훌륭한 합의할 것…휴전 연장 원치 않는다\"",
+      "link": "https://magazine.hankyung.com/business/article/202604217139b",
+      "pub_date": "2026-04-21T22:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 ‘엄정 감찰’ 지시했지만…대검, ‘집단 퇴정’ 검사...",
+      "link": "https://www.dt.co.kr/article/12058760?ref=naver",
+      "pub_date": "2026-04-21T22:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[프로축구] K리그1 선두 서울, 부천 3-0 격파... 인천은 11년 만에 전주...",
+      "link": "https://www.newspim.com/news/view/20260421001386",
+      "pub_date": "2026-04-21T22:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]트럼프 \"이란과 훌륭한 합의할 것…휴전 연장 원치 않아\"",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06268086645418416",
@@ -66,15 +93,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
-      "link": "https://www.joongang.co.kr/article/25422111",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
       "link": "https://www.hankyung.com/article/2026042171217",
       "pub_date": "2026-04-21T21:52:00+09:00",
@@ -93,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
+      "link": "https://www.joongang.co.kr/article/25422111",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542045&ref=A",
       "pub_date": "2026-04-21T21:50:00+09:00",
@@ -102,20 +129,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 \"훌륭한 합의하게 될 것...",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190342.html",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
       "pub_date": "2026-04-21T21:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 \"훌륭한 합의하게 될 것...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190342.html",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -138,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.fnnews.com/news/202604212144238242",
+      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.fnnews.com/news/202604212144238242",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.viva100.com/article/20260421501187",
+      "title": "[속보]트럼프 “훌륭한 합의하게 될 것...휴전 연장 원치 않아”",
+      "link": "https://www.sedaily.com/article/20035400?ref=naver",
       "pub_date": "2026-04-21T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “훌륭한 합의하게 될 것...휴전 연장 원치 않아”",
-      "link": "https://www.sedaily.com/article/20035400?ref=naver",
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.viva100.com/article/20260421501187",
       "pub_date": "2026-04-21T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "다급해진 CU…대체물류 통해 간편식 긴급 수송",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298607&inflow=N",
       "pub_date": "2026-04-21T16:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“마약사범 아버지가 기업 회장”…‘재력 확인해 뇌물 요구’ 관세청 ...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541653&ref=A",
-      "pub_date": "2026-04-21T16:36:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
-      "link": "http://www.fnnews.com/news/202604211633215250",
-      "pub_date": "2026-04-21T16:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…특검 “반...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150130800000",
-      "pub_date": "2026-04-21T16:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
