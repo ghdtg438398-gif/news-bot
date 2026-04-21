@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 06:35:30",
-  "total": 193,
+  "updated": "2026-04-22 06:40:27",
+  "total": 194,
   "items": [
+    {
+      "title": "[속보] 이란 국영TV \"트럼프 휴전 연장 인정 안 해…국익 따라 행동할 것...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422063737Xh9",
+      "pub_date": "2026-04-22T06:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
+      "pub_date": "2026-04-22T06:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
+      "pub_date": "2026-04-22T06:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독 - 중대재해 발생현황 전수 분석] 4년간 2천436명 죽었는데 실형은...",
       "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233929",
@@ -156,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
+      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +192,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
+      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1720,24 +1747,6 @@
       "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 파키스탄 “미·이란 모두 2차 휴전회담 개최 시사”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713352&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T20:36:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"반론은 1번 뿐, 백의종군 자세로\" 공공위탁기관의 이상한 근로...",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816994_37004.html",
-      "pub_date": "2026-04-21T20:36:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
