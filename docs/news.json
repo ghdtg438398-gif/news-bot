@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 08:15:33",
-  "total": 197,
+  "updated": "2026-04-22 08:20:37",
+  "total": 200,
   "items": [
+    {
+      "title": "[속보] 진주 화물연대 사망사고 운전자 영장…‘살인 혐의’ 적용",
+      "link": "https://www.etoday.co.kr/news/view/2577884",
+      "pub_date": "2026-04-22T08:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
+      "link": "https://www.mk.co.kr/article/12023631",
+      "pub_date": "2026-04-22T08:17:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사상’ 트럭 운전자 영장…살인 혐의 적용",
+      "link": "https://www.dt.co.kr/article/12058785?ref=naver",
+      "pub_date": "2026-04-22T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의",
+      "link": "https://www.sedaily.com/article/20035451?ref=naver",
+      "pub_date": "2026-04-22T08:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305854?division=NAVER",
+      "pub_date": "2026-04-22T08:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]장동혁 ‘잘못함’ 64.1%…방미 ‘부적절’ 63.3%-한길리서치",
       "link": "https://www.munhwa.com/article/11584026?ref=naver",
@@ -21,6 +66,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 영장 신청",
+      "link": "https://www.hankyung.com/article/2026042275797",
+      "pub_date": "2026-04-22T08:14:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 구속영장 신청",
+      "link": "https://www.news1.kr/local/busan-gyeongnam/6144508",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "서산 성연면 금속공장 화재...1명 중상",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563080",
       "pub_date": "2026-04-22T08:12:00+09:00",
@@ -32,15 +95,6 @@
     {
       "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
       "link": "https://www.yna.co.kr/view/AKR20260422026000052?input=1195m",
-      "pub_date": "2026-04-22T08:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 구속영장 신청",
-      "link": "https://www.news1.kr/local/busan-gyeongnam/6144508",
       "pub_date": "2026-04-22T08:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,20 +120,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, '조합원 3명 사상' 트럭 운전자 살인 혐의 구속영장 신청",
-      "link": "https://news.jtbc.co.kr/article/NB12295268?influxDiv=NAVER",
-      "pub_date": "2026-04-22T08:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"휴전 연장\"발표에…이란 \"인정 안해\"",
       "link": "https://magazine.hankyung.com/business/article/202604227529b",
       "pub_date": "2026-04-22T08:11:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, '조합원 3명 사상' 트럭 운전자 살인 혐의 구속영장 신청",
+      "link": "https://news.jtbc.co.kr/article/NB12295268?influxDiv=NAVER",
+      "pub_date": "2026-04-22T08:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -165,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
+      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577864",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2577864",
+      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1746,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"밴스 파키스탄으로 출국\"...초읽기 들어간 '2차 담판'",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604212231426851",
-      "pub_date": "2026-04-21T22:31:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "핵·우주 과학자들 줄줄이 사라졌다…무슨 일? 美 의회 조사 착수 [핫이...",
-      "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260421601020&wlog_tag3=naver",
-      "pub_date": "2026-04-21T22:31:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "선두 서울, 부천 완파…인천은 11년 만의 전주성 승리",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527197&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T22:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
