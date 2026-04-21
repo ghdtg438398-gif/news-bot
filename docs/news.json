@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 10:40:30",
+  "updated": "2026-04-21 10:45:27",
   "total": 200,
   "items": [
+    {
+      "title": "송민호 \"어리석었다, 재복무 원해\"…혐의 인정 후 고개 숙였다 [엑's 현...",
+      "link": "https://www.xportsnews.com/article/2139435",
+      "pub_date": "2026-04-21T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"재복무 기회달라\"…'부실 복무' 위너 송민호 징역 1년6개월 구형",
+      "link": "https://www.sidae.com/article/2026042110340962291",
+      "pub_date": "2026-04-21T10:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "충남도, 재난 취약시설 1천154곳 대상 ‘안전 대진단’ 돌입...",
+      "link": "http://www.breaknews.com/1201856",
+      "pub_date": "2026-04-21T10:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "징역 1년 6개월 구형 받은 송민호",
+      "link": "https://www.news1.kr/photos/7866920",
+      "pub_date": "2026-04-21T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "숏커버가 더 강하게 만든 채권시장…외국인의 시선은",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410704",
+      "pub_date": "2026-04-21T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 김용 “김남국 또 전략공천은 특혜”…안산갑 ‘신경전’ 격화",
       "link": "https://www.kyeonggi.com/article/20260421580088",
@@ -9,6 +54,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]신현송 “국민께 심려 끼쳐 송구…총재 임무 수행으로 평가받겠다...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525145",
+      "pub_date": "2026-04-21T10:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "송민호 '부실 복무 의혹' 징역 1년 6개월 구형",
+      "link": "https://www.news1.kr/photos/7866911",
+      "pub_date": "2026-04-21T10:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-21T09:00:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 4월 수출 504억 달러, 전년比 49.4%↑… 반도체 182.5% 증가",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599355",
-      "pub_date": "2026-04-21T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]4월 중순 수출 504억 달러로 '역대 최대'…반도체 182.5%↑",
-      "link": "https://www.mt.co.kr/economy/2026/04/21/2026042108304343905",
-      "pub_date": "2026-04-21T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[N2단독] 민주당 광주 서구 가선거구 예비후보 이기성 선거사무소에 현...",
-      "link": "https://www.news2day.co.kr/article/20260421500029",
-      "pub_date": "2026-04-21T08:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "전남도, 조선산업 도약 위한 3대 핵심축 확보",
-      "link": "https://www.nocutnews.co.kr/news/6505408?utm_source=naver&utm_medium=article&utm_campaign=20260421085525",
-      "pub_date": "2026-04-21T08:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김영훈 장관, 진주 CU 물류센터 노조원 사망에 “불행한 사태 재발 막아...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042108455655632",
-      "pub_date": "2026-04-21T08:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "쇼핑엔티, 뷰티 라인업 확대…봄·여름 시즌 성수기 공략",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298520&inflow=N",
-      "pub_date": "2026-04-21T08:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전장연 집회에 종로 일대 도로 통제",
-      "link": "https://www.etoday.co.kr/news/view/2577519",
-      "pub_date": "2026-04-21T08:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
