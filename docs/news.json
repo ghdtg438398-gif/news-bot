@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 04:35:25",
-  "total": 161,
+  "updated": "2026-04-22 04:40:28",
+  "total": 156,
   "items": [
     {
       "title": "'챔피언 4인방' 김민솔·김민선7·임진영·고지원, 이번주 충주에서 시즌...",
@@ -1405,51 +1405,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "하동 주택 화재로 70대 여성 사망...'방화 용의자' 사위도 숨져",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562801",
-      "pub_date": "2026-04-21T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
-      "link": "http://www.fnnews.com/news/202604211839084411",
-      "pub_date": "2026-04-21T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"내란특검법 위헌\" 尹 헌법소원, 정식 판단 받는다…전원재판부...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042118343240580",
-      "pub_date": "2026-04-21T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 효성家 형제 법정대면 연기… 조현준 “전쟁에 경영상황 급변”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=1776760812&code=11131900&cp=nv",
-      "pub_date": "2026-04-21T18:38:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] \"WYD 향한 신앙의 출정\"…명동대성당서 '본당 도약 미사' 봉헌",
-      "link": "https://www.ajunews.com/view/20260421182114762",
-      "pub_date": "2026-04-21T18:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
