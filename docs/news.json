@@ -1,8 +1,97 @@
 {
-  "updated": "2026-04-21 10:20:48",
+  "updated": "2026-04-21 10:25:32",
   "total": 200,
-  "breaking": 125,
   "items": [
+    {
+      "title": "고양시 일산서구보건소 AI스피커 대여",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260421010006384",
+      "pub_date": "2026-04-21T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, ‘부실 복무 의혹’ 송민호 징역 1년 6개월 구형",
+      "link": "https://www.mk.co.kr/article/12022583",
+      "pub_date": "2026-04-21T10:23:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]오타니 미쳤다! 52G 연속 출루 성공→'亞 최다' 추신수와 어깨 나...",
+      "link": "https://www.sportschosun.com/baseball/2026-04-21/202604210100138790009022",
+      "pub_date": "2026-04-21T10:22:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 관세 환급 1660억 달러 시동… 미 역사상 최대 규모 반환 절차 개...",
+      "link": "https://www.g-enews.com/view.php?ud=2026042110151021212bd56fbc3c_1",
+      "pub_date": "2026-04-21T10:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525141",
+      "pub_date": "2026-04-21T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 송민호, '병역법 위반' 첫 공판 출석…\"반성하고 있다\" 사과",
+      "link": "https://www.xportsnews.com/article/2139399",
+      "pub_date": "2026-04-21T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"日국민, 헌법 자위대 명기에 찬성 59%·반대 31%\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421064200073?input=1195m",
+      "pub_date": "2026-04-21T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무' 송민호에 징역 1년 6개월 구형…송민호 “깊...",
+      "link": "https://www.joongang.co.kr/article/25421918",
+      "pub_date": "2026-04-21T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무' 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ajunews.com/view/20260421095759577",
+      "pub_date": "2026-04-21T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혜성, 벤치에서 쉬고 있어! 플래툰 기용 적중? 대신 나온 로하스...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553155229",
+      "pub_date": "2026-04-21T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"당신 집에 열기구가 착륙했어요\"…영화 '업'이 현실에?[이런일이]",
       "link": "https://www.nocutnews.co.kr/news/6505500?utm_source=naver&utm_medium=article&utm_campaign=20260421101827",
@@ -130,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "'무단결근 혐의' 위너 송민호, 첫 재판 출석 \"깊이 반성\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562204",
+      "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
       "pub_date": "2026-04-21T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
+      "title": "'무단결근 혐의' 위너 송민호, 첫 재판 출석 \"깊이 반성\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562204",
       "pub_date": "2026-04-21T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -175,15 +264,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
       "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
       "pub_date": "2026-04-21T10:04:00+09:00",
@@ -191,6 +271,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
@@ -283,6 +372,15 @@
       "is_scoop": false
     },
     {
+      "title": "민주노총, 서광석 지부장 죽음 내몬 이재명 정부 규탄",
+      "link": "https://www.nocutnews.co.kr/news/6505464?utm_source=naver&utm_medium=article&utm_campaign=20260421094425",
+      "pub_date": "2026-04-21T09:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 6330 돌파…역대 최고치 경신",
       "link": "https://www.etnews.com/20260421000077",
       "pub_date": "2026-04-21T09:45:00+09:00",
@@ -292,9 +390,9 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총, 서광석 지부장 죽음 내몬 이재명 정부 규탄",
-      "link": "https://www.nocutnews.co.kr/news/6505464?utm_source=naver&utm_medium=article&utm_campaign=20260421094425",
-      "pub_date": "2026-04-21T09:45:00+09:00",
+      "title": "'부실복무' 송민호, 21일 병역법 위반 혐의 첫 재판",
+      "link": "https://news.jtbc.co.kr/article/NB12295106?influxDiv=NAVER",
+      "pub_date": "2026-04-21T09:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -310,9 +408,9 @@
       "is_scoop": false
     },
     {
-      "title": "'부실복무' 송민호, 21일 병역법 위반 혐의 첫 재판",
-      "link": "https://news.jtbc.co.kr/article/NB12295106?influxDiv=NAVER",
-      "pub_date": "2026-04-21T09:42:00+09:00",
+      "title": "홈플러스 익스프레스 매각 입찰 오늘 마감…인수자 누가 될까?",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455444",
+      "pub_date": "2026-04-21T09:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -334,15 +432,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "홈플러스 익스프레스 매각 입찰 오늘 마감…인수자 누가 될까?",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455444",
-      "pub_date": "2026-04-21T09:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -374,7 +463,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866689",
+      "link": "https://www.news1.kr/photos/7866688",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -383,7 +472,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866688",
+      "link": "https://www.news1.kr/photos/7866689",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1711,96 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 다카이치 총리, 야스쿠니 신사에 공물 봉납",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045909",
-      "pub_date": "2026-04-21T07:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 21일 굿모닝 MBN 이 시각 주요뉴스",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189351",
-      "pub_date": "2026-04-21T07:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "귀국한 장동혁… 조선일보 \"화제 된 건 김민수와 웃으며 찍은 관광객 사...",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333900",
-      "pub_date": "2026-04-21T07:39:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배 보류 전망",
-      "link": "https://www.munhwa.com/article/11583710?ref=naver",
-      "pub_date": "2026-04-21T07:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "노영희 \"尹 변호사 윤갑근 결선 충격, 윤어게인 먹히다니\"[한판승부]",
-      "link": "https://www.nocutnews.co.kr/news/6505335?utm_source=naver&utm_medium=article&utm_campaign=20260421073024",
-      "pub_date": "2026-04-21T07:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.ajunews.com/view/20260421072858299",
-      "pub_date": "2026-04-21T07:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "SK브로드밴드, 전 직원 AI 교육…“퍼포머 400명 육성”",
-      "link": "https://www.sedaily.com/article/20034922?ref=naver",
-      "pub_date": "2026-04-21T07:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[손병관의 뉴스프레소] 정부 \"미국의 정보 공유 제한에 상응조치 검토\"",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226736&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-21T07:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'부실 근무 혐의' 송민호, 오늘 첫 재판 진행…법정 출석 예정",
-      "link": "https://www.sidae.com/article/2026042107190093906",
-      "pub_date": "2026-04-21T07:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.hankyung.com/article/2026042144417",
-      "pub_date": "2026-04-21T07:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
