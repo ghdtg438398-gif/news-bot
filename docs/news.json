@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 05:45:30",
-  "total": 183,
+  "updated": "2026-04-22 05:50:28",
+  "total": 184,
   "items": [
+    {
+      "title": "[속보] \"이란이 제안 낼 때까지 휴전 연장\"…美증시 이틀째 하락",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220142&t=NN",
+      "pub_date": "2026-04-22T05:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “이란 정부 심각한 분열…파키스탄이 공격 보류 요청”",
       "link": "https://biz.heraldcorp.com/article/10722572?ref=naver",
@@ -30,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
+      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,13 +201,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 이란 휴전 연장",
-      "link": "http://www.fnnews.com/news/202604220519015987",
+      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
+      "link": "https://www.news1.kr/realestate/general/6144187",
       "pub_date": "2026-04-22T05:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
@@ -210,13 +219,13 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
-      "link": "https://www.news1.kr/realestate/general/6144187",
+      "title": "[속보]트럼프, 이란 휴전 연장",
+      "link": "http://www.fnnews.com/news/202604220519015987",
       "pub_date": "2026-04-22T05:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 트럼프 “이란이 통일된 협상안 내놓을 때까지 휴전연장”",
@@ -435,8 +444,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
-      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
+      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
+      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -453,8 +462,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
-      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
+      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
