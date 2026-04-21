@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 14:50:27",
+  "updated": "2026-04-21 14:55:30",
   "total": 200,
   "items": [
+    {
+      "title": "LG유플러스, 월드IT쇼 첫 단독 전시…'사람 중심 보이스 AI' 강조",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201088",
+      "pub_date": "2026-04-21T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(단독)에어로케이항공도 객실·운항승무원 무급휴직 실시",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298560&inflow=N",
+      "pub_date": "2026-04-21T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 與 한병도, 원내대표직 사퇴 \"연임 도전\"",
+      "link": "https://www.ajunews.com/view/20260421144859174",
+      "pub_date": "2026-04-21T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
+      "pub_date": "2026-04-21T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
+      "pub_date": "2026-04-21T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총 \"'진주 물류센터 사망' CU·경찰·정부 책임…총력 투쟁\"",
+      "link": "https://www.nocutnews.co.kr/news/6505725?utm_source=naver&utm_medium=article&utm_campaign=20260421024928",
+      "pub_date": "2026-04-21T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "민주노총 \"진주 물류센터 화물 노동자 사망은 CU·정부 책임\"",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04136086645418416",
@@ -12,11 +66,11 @@
       "is_scoop": false
     },
     {
-      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
+      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
       "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -30,11 +84,11 @@
       "is_scoop": false
     },
     {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
+      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -75,7 +129,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 李대통령 좌표찍자…경제3단체 1분기 보도자료 절반으로 급감",
+      "title": "[단독] 대통령 '좌표' 찍자…경제3단체 보도자료 절반으로 급감",
       "link": "https://www.hankyung.com/article/202604215938i",
       "pub_date": "2026-04-21T14:37:00+09:00",
       "source_id": "hankyung",
@@ -273,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
+      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
+      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +336,8 @@
       "is_scoop": false
     },
     {
-      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
-      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
+      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -327,8 +381,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
+      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
+      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -489,15 +543,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
-      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
-      "pub_date": "2026-04-21T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "이스타항공, 부산-알마티 취항 기념 프로모션 진행",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85862",
       "pub_date": "2026-04-21T14:08:00+09:00",
@@ -505,6 +550,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[오늘의 게임·IT 소식] 비댁스-위메이드, 스테이블코인 결제 표준 모델...",
@@ -1743,60 +1797,6 @@
       "title": "[속보] 천안 독립기념관IC 인근 사고…고속도로 진입 통제에 우회 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864201",
       "pub_date": "2026-04-21T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "온코닉테라퓨틱스 네수파립, AACR 2026에서 비임상 연구 결과 발표",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111503",
-      "pub_date": "2026-04-21T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"일 국민, 헌법 자위대 명기에 찬성 59%·반대 31%\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526338&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김은혜 \"李대통령 장특공 발언 바로잡아야…장기 실거주자 위한...",
-      "link": "https://www.kyeonggi.com/article/20260421580117",
-      "pub_date": "2026-04-21T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "JTBC·KBS, 북중미 월드컵 공동 중계 합의... MBC·SBS에도 최종 제안",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237235",
-      "pub_date": "2026-04-21T11:24:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, ‘부정거래 의혹’ 방시혁 하이브 의장에 구속 영장 신청",
-      "link": "https://www.mk.co.kr/article/12022697",
-      "pub_date": "2026-04-21T11:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 하이브 방시혁 의장 구속영장 신청…사기적 부정거래 혐의",
-      "link": "https://www.munhwa.com/article/11583807?ref=naver",
-      "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
