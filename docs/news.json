@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 20:30:36",
+  "updated": "2026-04-21 20:35:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
+      "link": "http://www.fnnews.com/news/202604212004375552",
+      "pub_date": "2026-04-21T20:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
+      "link": "https://www.hankyung.com/article/2026042170707",
+      "pub_date": "2026-04-21T20:33:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
+      "pub_date": "2026-04-21T20:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "pub_date": "2026-04-21T20:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령, 베트남 하노이 도착…내일 정상회담",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600794",
+      "pub_date": "2026-04-21T20:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
       "link": "https://www.news1.kr/politics/president/6144010",
@@ -1752,51 +1797,6 @@
       "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
       "link": "https://www.tokenpost.kr/news/briefing/351721",
       "pub_date": "2026-04-21T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"필히 재입대 시켜야\"",
-      "link": "https://www.bigtanews.co.kr/article/view/big202604210014",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
-      "link": "http://www.breaknews.com/1201975",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
-      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "클유아 \"우리 강점은 팀워크\"…1년 함께한 멤버들에 전한 고마움 [엑's ...",
-      "link": "https://www.xportsnews.com/article/2139361",
-      "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
