@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 08:20:37",
+  "updated": "2026-04-22 08:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
+      "link": "https://biz.heraldcorp.com/article/10722636?ref=naver",
+      "pub_date": "2026-04-22T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] \"하던 업무 빼고 다시 지원하라\"…데이원컴퍼니 인사 절차 논란",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300755",
+      "pub_date": "2026-04-22T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031440",
+      "pub_date": "2026-04-22T08:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서울시, 북한산 소나무재선충병 긴급방제…'청정 전환' 8년 만에 재발",
+      "link": "https://www.nocutnews.co.kr/news/6506037?utm_source=naver&utm_medium=article&utm_campaign=20260422081937",
+      "pub_date": "2026-04-22T08:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 진주 화물연대 사망사고 운전자 영장…‘살인 혐의’ 적용",
       "link": "https://www.etoday.co.kr/news/view/2577884",
@@ -57,7 +93,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “협상 종결시까지 휴전 연장” 전격 선언…이란 “휴전 ...",
+      "title": "[속보]트럼프 “협상 종결시까지 휴전 연장” 전격 선언…이란 “인정 ...",
       "link": "https://www.kwnews.co.kr/page/view/2026042250003000000",
       "pub_date": "2026-04-22T08:14:00+09:00",
       "source_id": "yna",
@@ -1761,42 +1797,6 @@
       "title": "[속보] 민주당 대전 동구청장 황인호·서구청장 전문학 후보 확정",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270628",
       "pub_date": "2026-04-21T22:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 시흥·군포·용인 등 광역의원 단수 공천",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723564",
-      "pub_date": "2026-04-21T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"끝까지 압박\"…서울, 부천 3-0 제압하고 선두 굳히기",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041264",
-      "pub_date": "2026-04-21T22:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "12~2월 英 실업률 4.9%·0.3%P↓\"예상 밖 하락\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600857",
-      "pub_date": "2026-04-21T22:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 미·이란 2차 협상 기대에 상승 출발",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600854",
-      "pub_date": "2026-04-21T22:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
