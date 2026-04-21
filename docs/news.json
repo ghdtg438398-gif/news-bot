@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 11:30:35",
+  "updated": "2026-04-21 11:35:25",
   "total": 200,
   "items": [
+    {
+      "title": "이 시각 주요 뉴스",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305657?division=NAVER",
+      "pub_date": "2026-04-21T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 퀄컴 CEO, 삼성 파운드리 경영진과 회동 …SK와는 메모리 협력",
+      "link": "https://www.hankyung.com/article/202604215511i",
+      "pub_date": "2026-04-21T11:33:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[#부동산 나들이] GS '인도 재생에너지 공략'·'미리내집' 441세대 모집·...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838441",
+      "pub_date": "2026-04-21T11:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[6·3 재보선] 인천 연수갑, 송영길 변수 속 고남석·박남춘 민주당 경선...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729050",
+      "pub_date": "2026-04-21T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "DAY6, 싱가포르서 터트린 10년의 저력…월드투어 'The DECADE' 순항",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613253",
+      "pub_date": "2026-04-21T11:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
@@ -183,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.nocutnews.co.kr/news/6505584?utm_source=naver&utm_medium=article&utm_campaign=20260421111526",
+      "title": "[속보] 경찰, '사기적 부정거래' 방시혁 구속영장 신청",
+      "link": "https://www.ajunews.com/view/20260421102042633",
       "pub_date": "2026-04-21T11:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, '사기적 부정거래' 방시혁 구속영장 신청",
-      "link": "https://www.ajunews.com/view/20260421102042633",
+      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
+      "link": "https://www.nocutnews.co.kr/news/6505584?utm_source=naver&utm_medium=article&utm_campaign=20260421111526",
       "pub_date": "2026-04-21T11:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,6 +291,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
+      "pub_date": "2026-04-21T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260421.99099005914",
       "pub_date": "2026-04-21T11:11:00+09:00",
@@ -260,15 +314,6 @@
       "pub_date": "2026-04-21T11:11:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
-      "pub_date": "2026-04-21T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -813,8 +858,8 @@
       "is_scoop": false
     },
     {
-      "title": "LG U+, 국내 최대 ICT 전시회 '월드IT쇼'서 첫 단독 전시",
-      "link": "https://www.nocutnews.co.kr/news/6505538?utm_source=naver&utm_medium=article&utm_campaign=20260421104426",
+      "title": "[단독] ‘이성윤 황제 조사 의혹’ 김진욱 전 공수처장 불기소 정당…법...",
+      "link": "https://biz.heraldcorp.com/article/10721826?ref=naver",
       "pub_date": "2026-04-21T10:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -822,8 +867,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] ‘이성윤 황제 조사 의혹’ 김진욱 전 공수처장 불기소 정당…법...",
-      "link": "https://biz.heraldcorp.com/article/10721826?ref=naver",
+      "title": "LG U+, 국내 최대 ICT 전시회 '월드IT쇼'서 첫 단독 전시",
+      "link": "https://www.nocutnews.co.kr/news/6505538?utm_source=naver&utm_medium=article&utm_campaign=20260421104426",
       "pub_date": "2026-04-21T10:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1754,51 +1799,6 @@
       "pub_date": "2026-04-21T09:23:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 6350 돌파 ‘사상 최고치’...외인·기관 쌍끌이 매...",
-      "link": "https://www.mk.co.kr/article/12022476",
-      "pub_date": "2026-04-21T09:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 6355.39 ‘사상 최고치’…SK하이닉스 120만원 돌파",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645418416",
-      "pub_date": "2026-04-21T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "신안우이 다음은 '안마도'…KB·산은 등 4.9조 초대형 프로젝트 추진",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410662",
-      "pub_date": "2026-04-21T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 전고점 돌파… 장중 6350 넘어",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709820&code=61141211&cp=nv",
-      "pub_date": "2026-04-21T09:22:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 최고점 돌파…6348.23",
-      "link": "https://www.ekn.kr/web/view.php?key=20260421027098694",
-      "pub_date": "2026-04-21T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
