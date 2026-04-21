@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 18:10:31",
+  "updated": "2026-04-21 18:15:29",
   "total": 200,
   "items": [
+    {
+      "title": "롯데홈쇼핑 ‘영스타일’ 7년…‘영스 패밀리’ 기반 누적 주문액 9000억...",
+      "link": "https://www.news2day.co.kr/article/20260421500221",
+      "pub_date": "2026-04-21T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[산업 HOT 뉴스] 파라다이스시티서 열린 '딥 퍼플' 내한…\"세대 아우른 ...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134488",
+      "pub_date": "2026-04-21T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 하동 주택 화재 70대여성 사망…방화 용의자 사위도 숨진 채 발견",
+      "link": "http://www.inews24.com/view/1962245",
+      "pub_date": "2026-04-21T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 교장실서 교사에 흉기 휘둘러 '살인미수' 고3, 구속 송치",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421511&PRO_CODE=99",
+      "pub_date": "2026-04-21T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“재밌니? 내 눈 똑바로 봐라”, “날강도”⋯‘강도상해’피해...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150167700000",
+      "pub_date": "2026-04-21T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "해운 할증료 5배 폭등... '6개월 시차' 두고 하반기 물가 때린다",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=339596",
+      "pub_date": "2026-04-21T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "DL이앤씨, 목동6단지 재건축 시공사 2차 입찰도 단독 응찰",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410818",
@@ -138,15 +192,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]납치범 복장하고 10살 의붓딸 양손과 머리 부위 투명 테이프로 감...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150141900000",
-      "pub_date": "2026-04-21T17:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'검증 끝' 서울 진보교육감 단일화 추진위, \"22·23일 투표, 후보들 동의...",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227003&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
       "pub_date": "2026-04-21T17:41:00+09:00",
@@ -156,18 +201,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
-      "link": "https://www.kyeonggi.com/article/20260421580468",
-      "pub_date": "2026-04-21T17:39:00+09:00",
+      "title": "[속보]납치범 복장하고 10살 의붓딸 양손과 머리 부위 투명 테이프로 감...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150141900000",
+      "pub_date": "2026-04-21T17:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
-      "pub_date": "2026-04-21T17:36:00+09:00",
+      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
+      "link": "https://www.kyeonggi.com/article/20260421580468",
+      "pub_date": "2026-04-21T17:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -183,6 +228,15 @@
       "is_scoop": false
     },
     {
+      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]이란 “현재 파키스탄으로 떠난 협상 대표단 없어”…美와 휴전 ...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525232",
       "pub_date": "2026-04-21T17:34:00+09:00",
@@ -192,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,60 +1797,6 @@
       "title": "CU, 화물연대 파업 2주 넘었다…물류 차질 장기화",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447296",
       "pub_date": "2026-04-21T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"'평화국가' 이제 끝?\"…'살상무기 수출' 80년 만에 빗장 풀...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526575&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "고양 식품가공 공장서 화재…건물 3개동 불타고 3명 자력 대피",
-      "link": "https://www.wikitree.co.kr/articles/1132680",
-      "pub_date": "2026-04-21T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한병도, 연임 위해 원내대표직 사퇴",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64109",
-      "pub_date": "2026-04-21T15:09:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "사회복무요원 송민호, 102일 무단결근 혐의로 징역 1년 6개월 구형",
-      "link": "https://mdtoday.co.kr/news/view/1065592480034922",
-      "pub_date": "2026-04-21T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "법원 떠나는 송민호",
-      "link": "https://www.news1.kr/photos/7867741",
-      "pub_date": "2026-04-21T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "22년 숙원 푼 포스코…장인화, 인도 10조 합작투자 ‘승부수’",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298566&inflow=N",
-      "pub_date": "2026-04-21T15:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
