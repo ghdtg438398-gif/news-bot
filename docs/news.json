@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 19:35:24",
+  "updated": "2026-04-21 19:40:33",
   "total": 200,
   "items": [
     {
@@ -93,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
+      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,21 +129,21 @@
       "is_scoop": true
     },
     {
-      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
-      "pub_date": "2026-04-21T18:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
       "pub_date": "2026-04-21T18:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
