@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 04:40:28",
-  "total": 156,
+  "updated": "2026-04-22 04:45:27",
+  "total": 153,
   "items": [
     {
       "title": "'챔피언 4인방' 김민솔·김민선7·임진영·고지원, 이번주 충주에서 시즌...",
@@ -1378,33 +1378,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 44년 만의 신기록 완성! 박성한, 첫 타석 초구 통타해 김용희 넘...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553157643",
-      "pub_date": "2026-04-21T18:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
-      "link": "https://www.dailian.co.kr/news/view/1636218/?sc=Naver",
-      "pub_date": "2026-04-21T18:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 믿었던 사회주택…보증금 못 받은 청년들 '발동동'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH202604211841467BY",
-      "pub_date": "2026-04-21T18:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
