@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 12:55:26",
+  "updated": "2026-04-21 13:00:39",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 미군과 일본 자위대, 중국 겨냥 대만해협 등서 실사격·미사일 훈...",
+      "link": "https://www.dt.co.kr/article/12058618?ref=naver",
+      "pub_date": "2026-04-21T12:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '부실 복무' 송민호 징역 1년 6개월 구형…\"재복무 기회달라\"",
+      "link": "https://www.nocutnews.co.kr/news/6505650?utm_source=naver&utm_medium=article&utm_campaign=20260421125427",
+      "pub_date": "2026-04-21T12:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경찰, 방시혁 하이브 의장 구속영장 신청⋯사기적 부정거래 혐의",
       "link": "http://www.inews24.com/view/1962082",
@@ -183,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
+      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
+      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
       "pub_date": "2026-04-21T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 휠체어 충돌 경찰, 갈비뼈 부상… 전장연 ‘버스 저지 시위’에...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500048?wlog_tag3=naver",
-      "pub_date": "2026-04-21T10:08:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민희진, 악플러 상대 손배소 일부 승소…1인당 30만원 배상",
-      "link": "https://www.dailian.co.kr/news/view/1635879/?sc=Naver",
-      "pub_date": "2026-04-21T10:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
