@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 15:05:27",
+  "updated": "2026-04-21 15:10:29",
   "total": 200,
   "items": [
+    {
+      "title": "사회복무요원 송민호, 102일 무단결근 혐의로 징역 1년 6개월 구형",
+      "link": "https://mdtoday.co.kr/news/view/1065592480034922",
+      "pub_date": "2026-04-21T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원 떠나는 송민호",
+      "link": "https://www.news1.kr/photos/7867741",
+      "pub_date": "2026-04-21T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "22년 숙원 푼 포스코…장인화, 인도 10조 합작투자 ‘승부수’",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298566&inflow=N",
+      "pub_date": "2026-04-21T15:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 첫 6380선 돌파...6400선 근접",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305731?division=NAVER",
+      "pub_date": "2026-04-21T15:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "이즈나(izna) 방지민, 데뷔 첫 단독 화보 공개..‘글로벌 젠지 추구미’...",
       "link": "http://www.breaknews.com/1201946",
@@ -39,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
+      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
-      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
+      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,7 +102,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김건희 여사, '쥴리 의혹' 재판 불출석… 과태료 300만원",
+      "title": "[속보] 김건희, '쥴리 의혹' 재판 불출석… 과태료 300만원",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421505&PRO_CODE=99",
       "pub_date": "2026-04-21T14:56:00+09:00",
       "source_id": "yna",
@@ -138,6 +174,15 @@
       "is_scoop": false
     },
     {
+      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
+      "pub_date": "2026-04-21T14:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
@@ -152,15 +197,6 @@
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -282,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중부내륙고속도로 성주 인근 화물차 화재 사고",
-      "link": "https://www.etoday.co.kr/news/view/2577714",
+      "title": "[속보] 한병도, 연임 위해 與 원내대표직 사퇴",
+      "link": "https://www.segye.com/newsView/20260421511303?OutUrl=naver",
       "pub_date": "2026-04-21T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한병도, 연임 위해 與 원내대표직 사퇴",
-      "link": "https://www.segye.com/newsView/20260421511303?OutUrl=naver",
+      "title": "[속보] 중부내륙고속도로 성주 인근 화물차 화재 사고",
+      "link": "https://www.etoday.co.kr/news/view/2577714",
       "pub_date": "2026-04-21T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -354,21 +390,21 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
-      "link": "https://www.nocutnews.co.kr/news/6505706?utm_source=naver&utm_medium=article&utm_campaign=20260421022529",
-      "pub_date": "2026-04-21T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, '화물연대 조합원 사상' 관련 긴급 기자회견",
       "link": "https://www.nocutnews.co.kr/news/6505707?utm_source=naver&utm_medium=article&utm_campaign=20260421022528",
       "pub_date": "2026-04-21T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
+      "link": "https://www.nocutnews.co.kr/news/6505706?utm_source=naver&utm_medium=article&utm_campaign=20260421022529",
+      "pub_date": "2026-04-21T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -408,15 +444,6 @@
       "is_scoop": false
     },
     {
-      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
-      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총 \"'물류센터 사상 사고' CU·정부 책임…총력 투쟁\"",
       "link": "https://www.nocutnews.co.kr/news/6505709?utm_source=naver&utm_medium=article&utm_campaign=20260421022328",
       "pub_date": "2026-04-21T14:24:00+09:00",
@@ -426,9 +453,9 @@
       "is_scoop": false
     },
     {
-      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
-      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
-      "pub_date": "2026-04-21T14:23:00+09:00",
+      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
+      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
+      "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -444,11 +471,29 @@
       "is_scoop": false
     },
     {
+      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
+      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
+      "pub_date": "2026-04-21T14:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[항공 뉴스브리핑] 티웨이항공, 사이판 태풍 피해 체객 승객 지원",
       "link": "https://www.asiatime.co.kr/article/20260421500286",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 조합원 사상 관련 'CU 규탄' 구호 외치는 민주노총",
+      "link": "https://www.nocutnews.co.kr/news/6505710?utm_source=naver&utm_medium=article&utm_campaign=20260421022128",
+      "pub_date": "2026-04-21T14:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -464,15 +509,6 @@
     {
       "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
-      "pub_date": "2026-04-21T14:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 조합원 사상 관련 'CU 규탄' 구호 외치는 민주노총",
-      "link": "https://www.nocutnews.co.kr/news/6505710?utm_source=naver&utm_medium=article&utm_campaign=20260421022128",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -534,15 +570,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]與 한병도, 원내대표 연임 도전 공식화…\"앞으로 해야 할 일 더 많...",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600125",
-      "pub_date": "2026-04-21T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한병도, 원내대표직 사임으로 '연임 도전' 공식화",
       "link": "http://www.inews24.com/view/1962117",
       "pub_date": "2026-04-21T14:14:00+09:00",
@@ -558,6 +585,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 한병도, 원내대표 연임 도전 공식화…\"앞으로 해야 할 일 더 많...",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600125",
+      "pub_date": "2026-04-21T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1765,42 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "검찰, ‘102일 무단결근’ 혐의 송민호 징역 1년6개월 구형",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095226",
-      "pub_date": "2026-04-21T11:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청…'2000억 부정거래 혐...",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=566940&class=32&grp=",
-      "pub_date": "2026-04-21T11:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이 시각 주요 뉴스",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305657?division=NAVER",
-      "pub_date": "2026-04-21T11:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 퀄컴 CEO 방한, 삼성·SK 경영진과 잇따라 회동",
-      "link": "https://www.hankyung.com/article/202604215511i",
-      "pub_date": "2026-04-21T11:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
