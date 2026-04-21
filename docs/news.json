@@ -1,8 +1,116 @@
 {
-  "updated": "2026-04-21 09:20:38",
+  "updated": "2026-04-21 09:25:33",
   "total": 200,
   "breaking": 136,
   "items": [
+    {
+      "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118928",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "LG유플러스, '월드IT쇼' 첫 단독 부스…보이스 AI 선보여",
+      "link": "https://www.news2day.co.kr/article/20260421500057",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁  게임', 짜고 치...",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119094",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 6355.39 ‘사상 최고치’…SK하이닉스 120만원 돌파",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645418416",
+      "pub_date": "2026-04-21T09:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최대치 돌파...21만전자·120만닉스 '강세'",
+      "link": "https://www.hankyung.com/article/202604214889i",
+      "pub_date": "2026-04-21T09:23:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 전고점 돌파… 장중 6350 넘어",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709820&code=61141211&cp=nv",
+      "pub_date": "2026-04-21T09:22:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최고점 돌파…6348.23",
+      "link": "https://www.ekn.kr/web/view.php?key=20260421027098694",
+      "pub_date": "2026-04-21T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "신안우이 다음은 '안마도'…KB·산은 등 4.9조 초대형 프로젝트 추진",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410662",
+      "pub_date": "2026-04-21T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美 증시 약세에도…코스피, 6300 뛰어넘어 출발",
+      "link": "https://www.nocutnews.co.kr/news/6505437?utm_source=naver&utm_medium=article&utm_campaign=20260421092025",
+      "pub_date": "2026-04-21T09:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 중동 전쟁 전 전고점 돌파···6346.76",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2421158",
+      "pub_date": "2026-04-21T09:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 '역대 최고치' 경신…6350선 돌파",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838402",
+      "pub_date": "2026-04-21T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6300선 회복 출발…'120만 닉스' 신고가",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045924",
+      "pub_date": "2026-04-21T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 장중 이란 전쟁전 전고점 돌파…6,348.23",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189380",
@@ -13,11 +121,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
+      "title": "[속보] 코스피 2% 상승...장중 사상 최고치 경신",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604210918104538",
       "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -49,6 +157,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "김상욱은 단일화 없이 울산에서 승리할까",
       "link": "https://www.news2day.co.kr/article/20260421500021",
       "pub_date": "2026-04-21T09:18:00+09:00",
@@ -64,6 +181,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6350.94 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -94,17 +220,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6348.23 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 이란 전쟁 전 전고점 돌파… 6355.16",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270383",
+      "title": "[속보] 코스피 6300 재돌파…SK하이닉스 신고가",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300654",
       "pub_date": "2026-04-21T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,8 +238,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6300 재돌파…SK하이닉스 신고가",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300654",
+      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 이란 전쟁 전 전고점 돌파… 6355.16",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270383",
       "pub_date": "2026-04-21T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -145,15 +271,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
-      "pub_date": "2026-04-21T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -652,8 +769,8 @@
       "is_scoop": false
     },
     {
-      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
-      "link": "https://www.news1.kr/industry/general-industry/6142727",
+      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -661,8 +778,8 @@
       "is_scoop": false
     },
     {
-      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
+      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
+      "link": "https://www.news1.kr/industry/general-industry/6142727",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1681,123 +1798,6 @@
       "title": "[속보] 팀쿡, 애플 CEO서 15년만에 물러나…후임은 존 터너스",
       "link": "https://www.dt.co.kr/article/12058516?ref=naver",
       "pub_date": "2026-04-21T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260421055617QK5",
-      "pub_date": "2026-04-21T05:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…새 CEO에 존 터너스",
-      "link": "https://www.joongang.co.kr/article/25421887",
-      "pub_date": "2026-04-21T05:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 15년 이끈 팀 쿡 물러난다…후임자는 존 터너스",
-      "link": "https://www.hankyung.com/article/202604214319i",
-      "pub_date": "2026-04-21T05:56:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421009600009?input=1195m",
-      "pub_date": "2026-04-21T05:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"나 미국 사람이야\" 체류연장 없이 버틴 교포 벌금 500만 원",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525725&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T05:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "허위진술·증거조작으로 피해자를 가해자로 내몬 일당 실형",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525723&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T05:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 \"새 CEO에 존 터너스\"",
-      "link": "https://www.newspim.com/news/view/20260421000016",
-      "pub_date": "2026-04-21T05:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]애플, 새 CEO에 존 터너스 지명",
-      "link": "http://www.fnnews.com/news/202604210536467253",
-      "pub_date": "2026-04-21T05:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "윤이나, LPGA 개인 최고인 단독 4위…세계랭킹 15계단 도약",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019908",
-      "pub_date": "2026-04-21T05:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 다시 막힌 호르무즈, 美증시 소폭 하락…나스닥 0.26%↓",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210100&t=NN",
-      "pub_date": "2026-04-21T05:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]유가 급등에 뉴욕증시 하락…미·이란 평화협상 불확실성 확대",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01679366645418416",
-      "pub_date": "2026-04-21T05:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "역대 최대 '50조 감축'…1순위는 교육교부금",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01666246645418416",
-      "pub_date": "2026-04-21T05:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 이란 전쟁 불확실성에 일제히 하락…다우지수 0.01% ↓",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305530?division=NAVER",
-      "pub_date": "2026-04-21T05:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
