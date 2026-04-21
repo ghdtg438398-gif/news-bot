@@ -1,11 +1,38 @@
 {
-  "updated": "2026-04-22 07:25:25",
+  "updated": "2026-04-22 07:30:33",
   "total": 200,
   "items": [
     {
       "title": "[속보] 대구 팔공산서 산불…헬기 6대 투입해 진화 중",
+      "link": "https://www.ajunews.com/view/20260422072524888",
+      "pub_date": "2026-04-22T07:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대구 팔공산 산불 발생… 헬기 6대 투입 진화",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563034",
+      "pub_date": "2026-04-22T07:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대구 팔공산서 산불…헬기 6대 투입해 진화 중",
       "link": "https://www.imaeil.com/page/view/2026042207180539244",
       "pub_date": "2026-04-22T07:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]종전협상 무산되나…이란 “트럼프 휴전연장 선언 의미 없다”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787154/1",
+      "pub_date": "2026-04-22T07:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR2026042121403686C",
-      "pub_date": "2026-04-21T21:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "https://view.asiae.co.kr/article/2026042121411448755",
-      "pub_date": "2026-04-21T21:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 휴전 만료 전날 \"훌륭한 합의할 것‥휴전 연장 원치 않아...",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6817014_36925.html",
-      "pub_date": "2026-04-21T21:40:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
