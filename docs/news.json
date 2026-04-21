@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 20:00:41",
+  "updated": "2026-04-21 20:05:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 영월 영흥리 산불 발생…주민 대피 대비 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864271",
+      "pub_date": "2026-04-21T20:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'방화 의심' 하동 주택 불, 70대 장모 숨지고 용의자 사위도 숨져",
       "link": "https://www.mt.co.kr/society/2026/04/21/2026042119330118628",
@@ -27,6 +36,15 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홈플러스 붙잡는 ‘닭고기 하림’…유통업 시너지 노린다",
+      "link": "https://www.mk.co.kr/article/12023311",
+      "pub_date": "2026-04-21T19:45:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6388.47로 마감…사상 최고치 돌파",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045987",
-      "pub_date": "2026-04-21T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.7% 급등 6380선 마감…사상 최고치 돌파",
-      "link": "https://www.mk.co.kr/article/12022959",
-      "pub_date": "2026-04-21T15:52:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
