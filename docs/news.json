@@ -1,13 +1,22 @@
 {
-  "updated": "2026-04-21 21:55:32",
+  "updated": "2026-04-21 22:00:39",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.hankyung.com/article/2026042171217",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지없어”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786436/2",
+      "pub_date": "2026-04-21T21:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할것… 휴전연장 원치않아\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270627",
+      "pub_date": "2026-04-21T21:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -21,12 +30,30 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.hankyung.com/article/2026042171217",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
       "link": "https://www.joongang.co.kr/article/25422111",
       "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542045&ref=A",
+      "pub_date": "2026-04-21T21:50:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -66,20 +93,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -237,15 +264,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
-      "link": "http://www.fnnews.com/news/202604212123060447",
-      "pub_date": "2026-04-21T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541978&ref=A",
       "pub_date": "2026-04-21T21:27:00+09:00",
@@ -253,6 +271,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
+      "link": "http://www.fnnews.com/news/202604212123060447",
+      "pub_date": "2026-04-21T21:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "창원시의회 “통합돌봄 증원 조례안 상정”",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 불법 정치자금' 항소심에서도 권성동에 징역 4년 ...",
-      "link": "https://www.pressian.com/pages/articles/2026042116301963414?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-21T16:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[긴급/심층분석] 美 승리 임박, 종전의 역사와 전후 국내외 변화 전망",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382795",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
