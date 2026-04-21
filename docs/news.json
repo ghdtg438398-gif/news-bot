@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 07:40:29",
+  "updated": "2026-04-22 07:45:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생 \"불 피해 주의\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563042",
+      "pub_date": "2026-04-22T07:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
+      "pub_date": "2026-04-22T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577864",
+      "pub_date": "2026-04-22T07:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "4월 22일 굿모닝 MBN 이 시각 주요뉴스",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189583",
@@ -120,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
+      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[자투리 뉴스] 봄맞이 할인·지원 경쟁 확대…소비 접점 강화",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095241",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
