@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 03:55:34",
-  "total": 184,
+  "updated": "2026-04-22 04:00:39",
+  "total": 182,
   "items": [
     {
       "title": "'우승 없이 상금·대상·평균타수 1위' 전예성, 시즌 첫승 재도전 [KLPGA ...",
@@ -1639,24 +1639,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "성일종 \"주한미군사령관, 정동영 발언 안규백에 항의\" 국방부 \"사실 아...",
-      "link": "https://www.joongang.co.kr/article/25422083",
-      "pub_date": "2026-04-21T18:00:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하동 주택 화재로 70대 사망…방화 용의자 사위도 숨진 채 발견",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042117580848157",
-      "pub_date": "2026-04-21T17:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
