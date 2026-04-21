@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 04:20:29",
+  "updated": "2026-04-22 04:25:28",
   "total": 169,
   "items": [
+    {
+      "title": "코로나 구호자금 빼돌려 암호화폐 투자…존 고티 손자에 징역형",
+      "link": "https://www.tokenpost.kr/news/cryptocurrency/351866",
+      "pub_date": "2026-04-22T04:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 밴스 부통령 미국에 있어…국제유가 3% 급등",
       "link": "https://www.news1.kr/world/usa-canada/6144439",
@@ -1512,15 +1521,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "생후 19개월 딸 방치 숨지게 한 친모…첫째 딸도 학대 혐의",
-      "link": "https://www.newspim.com/news/view/20260421001330",
-      "pub_date": "2026-04-21T18:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
