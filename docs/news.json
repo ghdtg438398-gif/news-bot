@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 07:00:36",
+  "updated": "2026-04-22 07:05:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 이란 “국익 따라 행동...미국 휴전발표 인정 안 해” <이란 국영...",
+      "link": "https://economist.co.kr/article/view/ecn202604220003",
+      "pub_date": "2026-04-22T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전 발표 인정 안 해…국익 따라 행동할 것\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295263?influxDiv=NAVER",
+      "pub_date": "2026-04-22T07:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[Who Is ?] 김재철 동원그룹 명예회장",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436001",
+      "pub_date": "2026-04-22T07:02:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
+      "link": "https://www.ajunews.com/view/20260422070038875",
+      "pub_date": "2026-04-22T07:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전 연장 발표 인정 안 해…국익에 따라 행동할 것...",
+      "link": "https://www.dailian.co.kr/news/view/1636264/?sc=Naver",
+      "pub_date": "2026-04-22T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 국회일정](22일·수)",
+      "link": "https://www.yna.co.kr/view/AKR20260421166700001?input=1195m",
+      "pub_date": "2026-04-22T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전연장 발표 인정 안해…국익 따라 행동\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290014.html",
+      "pub_date": "2026-04-22T06:58:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”<이란 국영...",
       "link": "https://www.sedaily.com/article/20035432?ref=naver",
@@ -66,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
-      "link": "https://www.joongang.co.kr/article/25422234",
+      "title": "[속보] 이란 “미국 휴전 연장 발표 인정 안해…국익 따라 행동할 것”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
       "pub_date": "2026-04-22T06:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,11 +138,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전 연장 발표 인정 안해…국익 따라 행동할 것”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
+      "link": "https://www.joongang.co.kr/article/25422234",
       "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -201,15 +264,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]트럼프 \"이란 통일된 협상안, 논의 종결때까지 휴전\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006206",
-      "pub_date": "2026-04-22T06:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542241&ref=A",
       "pub_date": "2026-04-22T06:18:00+09:00",
@@ -217,6 +271,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]트럼프 \"이란 통일된 협상안, 논의 종결때까지 휴전\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006206",
+      "pub_date": "2026-04-22T06:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 국제유가 상승…WTI 2.57%↑",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "창원시의회 “통합돌봄 증원 조례안 상정”",
-      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1539959",
-      "pub_date": "2026-04-21T21:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[국회 상임위 리포트②] 한국가스공사 해외 자원개발…로키산맥 뚫은 1...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729139",
-      "pub_date": "2026-04-21T21:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[미리보는 이데일리 신문]부동산PF '대마불사' 시대 끝났다",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06015526645418416",
-      "pub_date": "2026-04-21T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 “전북지사 추가 공모에 양정무 전 당협위원장 신청”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541962&ref=A",
-      "pub_date": "2026-04-21T21:07:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "춘천소방서, 비화재 저감 대비 현장점검·안전컨설팅",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150143800000",
-      "pub_date": "2026-04-21T21:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“미국·이란 모두 22일 아침 이슬라마바드 도착…2차 회담 열릴 ...",
-      "link": "https://www.munhwa.com/article/11583966?ref=naver",
-      "pub_date": "2026-04-21T21:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 21일 '뉴스 9' 헤드라인",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190269.html",
-      "pub_date": "2026-04-21T21:03:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
