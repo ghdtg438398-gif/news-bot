@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 18:50:30",
+  "updated": "2026-04-21 18:55:25",
   "total": 200,
   "items": [
+    {
+      "title": "조합원 사망사고 규탄 집회…운전자 구속영장 검토",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260421185253Xnh",
+      "pub_date": "2026-04-21T18:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홈플러스 익스프레스 우선협상대상자에 하림 선정...NS홈쇼핑 인...",
+      "link": "https://www.newspim.com/news/view/20260421001339",
+      "pub_date": "2026-04-21T18:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, ‘지혜복 교사 복직 농성’ 고진수 세종호텔지부장 구속송치",
+      "link": "https://www.khan.co.kr/article/202604211848011",
+      "pub_date": "2026-04-21T18:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
       "link": "https://www.etoday.co.kr/news/view/2577835",
@@ -93,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SSG 박성한, 개막 이후 연속 경기 안타 신기록 달성",
-      "link": "http://www.osen.co.kr/article/G1112786094",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
       "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
       "pub_date": "2026-04-21T18:33:00+09:00",
@@ -111,9 +129,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
-      "link": "https://www.imaeil.com/page/view/2026042118294446845",
-      "pub_date": "2026-04-21T18:31:00+09:00",
+      "title": "[속보] SSG 박성한, 개막 이후 연속 경기 안타 신기록 달성",
+      "link": "http://www.osen.co.kr/article/G1112786094",
+      "pub_date": "2026-04-21T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -122,6 +140,15 @@
     {
       "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
       "link": "https://www.newsis.com/view/NISX20260421_0003600721",
+      "pub_date": "2026-04-21T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
+      "link": "https://www.imaeil.com/page/view/2026042118294446845",
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,21 +174,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 전쟁이 언론에 던진 과제",
       "link": "http://www.journalist.or.kr/news/article.html?no=60757",
       "pub_date": "2026-04-21T18:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
+      "pub_date": "2026-04-21T18:26:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -174,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
-      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
+      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
+      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
+      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 교장실서 교사에 흉기 휘둘러 '살인미수' 고3, 구속 송치",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421511&PRO_CODE=99",
+      "title": "[속보] 하동 주택 화재 70대여성 사망…방화 용의자 사위도 숨진 채 발견",
+      "link": "http://www.inews24.com/view/1962245",
       "pub_date": "2026-04-21T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하동 주택 화재 70대여성 사망…방화 용의자 사위도 숨진 채 발견",
-      "link": "http://www.inews24.com/view/1962245",
+      "title": "[속보] 교장실서 교사에 흉기 휘둘러 '살인미수' 고3, 구속 송치",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421511&PRO_CODE=99",
       "pub_date": "2026-04-21T18:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1769,33 +1796,6 @@
     {
       "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
       "link": "http://www.breaknews.com/1201921",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
-      "link": "http://www.breaknews.com/1201938",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
-      "link": "http://www.breaknews.com/1201943",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.joongang.co.kr/article/25422017",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
