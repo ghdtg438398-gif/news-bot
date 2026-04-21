@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-21 14:30:43",
+  "updated": "2026-04-21 14:35:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 한병도, 與 원내대표직 사퇴…연임 도전 공식화",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838484",
+      "pub_date": "2026-04-21T14:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 원청교섭 집회 사망사고로 긴장 고조, 화물연대·민주노총 BGF 규탄",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436163",
+      "pub_date": "2026-04-21T14:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "춘천소방서, 병원 비화재경보 저감 위한 관서장 현장점검ㆍ컨설팅",
+      "link": "http://fpn119.co.kr/250003",
+      "pub_date": "2026-04-21T14:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기획]나프타 쇼크…석화 넘어 산업 전반 충격파",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366205",
+      "pub_date": "2026-04-21T14:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "흥국생명, 3년간 프로배구 타이틀 스폰서… 회장사 준비 착착",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834333",
+      "pub_date": "2026-04-21T14:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 중부내륙고속도로 성주 인근 화물차 화재 사고",
+      "link": "https://www.etoday.co.kr/news/view/2577714",
+      "pub_date": "2026-04-21T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한병도, 연임 위해 與 원내대표직 사퇴",
+      "link": "https://www.segye.com/newsView/20260421511303?OutUrl=naver",
+      "pub_date": "2026-04-21T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "긴급 대피 훈련",
+      "link": "https://www.news1.kr/photos/7867574",
+      "pub_date": "2026-04-21T14:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '연임 도전' 한병도, 與 원내대표직 사퇴",
       "link": "https://www.imaeil.com/page/view/2026042114270670923",
@@ -48,21 +120,21 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
-      "link": "https://www.nocutnews.co.kr/news/6505706?utm_source=naver&utm_medium=article&utm_campaign=20260421022529",
-      "pub_date": "2026-04-21T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, '화물연대 조합원 사상' 관련 긴급 기자회견",
       "link": "https://www.nocutnews.co.kr/news/6505707?utm_source=naver&utm_medium=article&utm_campaign=20260421022528",
       "pub_date": "2026-04-21T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
+      "link": "https://www.nocutnews.co.kr/news/6505706?utm_source=naver&utm_medium=article&utm_campaign=20260421022529",
+      "pub_date": "2026-04-21T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -309,21 +381,12 @@
       "is_scoop": false
     },
     {
-      "title": "신현송 “금리만 보지 않는다”…한은, '금융안정' 새 판",
-      "link": "http://www.metroseoul.co.kr/article/20260421500227",
-      "pub_date": "2026-04-21T14:08:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민노총, ‘물류센터 참변’에 “직접 만나 대화하자는게 죽어야...",
-      "link": "https://www.dt.co.kr/article/12058639?ref=naver",
+      "title": "[오늘의 게임·IT 소식] 비댁스-위메이드, 스테이블코인 결제 표준 모델...",
+      "link": "https://dealsite.co.kr/articles/160507",
       "pub_date": "2026-04-21T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -345,12 +408,21 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 게임·IT 소식] 비댁스-위메이드, 스테이블코인 결제 표준 모델...",
-      "link": "https://dealsite.co.kr/articles/160507",
+      "title": "신현송 “금리만 보지 않는다”…한은, '금융안정' 새 판",
+      "link": "http://www.metroseoul.co.kr/article/20260421500227",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민노총, ‘물류센터 참변’에 “직접 만나 대화하자는게 죽어야...",
+      "link": "https://www.dt.co.kr/article/12058639?ref=naver",
       "pub_date": "2026-04-21T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -426,21 +498,21 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 조국, 평택시 전입신고…\"우직하게 일하겠다\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042113485210199",
-      "pub_date": "2026-04-21T13:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'고유가 피해지원금'이 궁금해?!…문답으로 알려드릴게요",
       "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963023&call_from=naver_news",
       "pub_date": "2026-04-21T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조국, 평택시 전입신고…\"우직하게 일하겠다\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042113485210199",
+      "pub_date": "2026-04-21T13:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -462,20 +534,20 @@
       "is_scoop": false
     },
     {
-      "title": "정청래가 꺼내든 '이광재 카드'가 평택을·하남갑 흔든다, 국회의원 재...",
-      "link": "https://www.huffingtonpost.kr/article/256751",
-      "pub_date": "2026-04-21T13:50:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[정치家] 배경훈 부총리 겸 과학기술정보통신부 장관 ㅣ 전력·보안·인...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569190",
       "pub_date": "2026-04-21T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정청래가 꺼내든 '이광재 카드'가 평택을·하남갑 흔든다, 국회의원 재...",
+      "link": "https://www.huffingtonpost.kr/article/256751",
+      "pub_date": "2026-04-21T13:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -543,15 +615,6 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업에 'HJ 중공업' 선정",
-      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509100",
-      "pub_date": "2026-04-21T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"2인 1조 팀전 개막\" 취리히 클래식, 김주형 단독 출격",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040776",
       "pub_date": "2026-04-21T13:44:00+09:00",
@@ -559,6 +622,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "2026 최악의 살인기업에 'HJ 중공업' 선정",
+      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509100",
+      "pub_date": "2026-04-21T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'조합원 사상' 화물연대, BGF·경찰 규탄 회견…경찰과 한때 대치",
@@ -687,15 +759,6 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
-      "pub_date": "2026-04-21T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "이스타항공, 부산-알마티 취항 앞두고 특가 프로모션 진행",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=513425",
       "pub_date": "2026-04-21T13:36:00+09:00",
@@ -703,6 +766,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
+      "pub_date": "2026-04-21T13:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]국방부 \"브런슨 사령관, 안규백 장관에 '정동영 기밀유출' 항의한...",
@@ -1728,78 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청…1900억 부당이득 의혹",
-      "link": "https://www.donga.com/news/Society/article/all/20260421/133780350/2",
-      "pub_date": "2026-04-21T11:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "월드IT쇼 앞둔 통신 3사, '풀스택 AI' 경쟁…인프라부터 서비스까지 전...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118959",
-      "pub_date": "2026-04-21T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "檢, '부실 복무' 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ajunews.com/view/20260421104825689",
-      "pub_date": "2026-04-21T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, '사기적 부정거래' 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://economist.co.kr/article/view/ecn202604210023",
-      "pub_date": "2026-04-21T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260421.99099005914",
-      "pub_date": "2026-04-21T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
-      "pub_date": "2026-04-21T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '사기적 부정거래' 방시혁 구속영장 신청",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604211111463214",
-      "pub_date": "2026-04-21T11:11:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "매뉴얼은 있는데 병상은 없다… 고위험 산모 '떠돌이 진료' 현실",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=301865",
-      "pub_date": "2026-04-21T11:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
