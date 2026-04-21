@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 06:05:27",
+  "updated": "2026-04-22 06:10:31",
   "total": 190,
   "items": [
+    {
+      "title": "[속보] 트럼프 “통일안 내라” 휴전 연장…이란 “종전 협상 불참”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/22/20260422500004?wlog_tag3=naver",
+      "pub_date": "2026-04-22T06:08:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "AI로 취약점 발견 늘자 NIST '선별 관리' 선언… 의미와 대책은 [보안 아...",
+      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160704",
+      "pub_date": "2026-04-22T06:06:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 스타벅스 주변으로 몰려드는 저가 커피의 '인접 출점' 전략",
       "link": "https://www.hankyung.com/article/2026042166991",
@@ -129,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
+      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,11 +183,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
-      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
+      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
       "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,18 +201,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
+      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
+      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
       "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
-      "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -203,6 +212,15 @@
     {
       "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
+      "pub_date": "2026-04-22T05:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
       "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,15 +291,6 @@
       "is_scoop": false
     },
     {
-      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
       "link": "https://www.news1.kr/realestate/general/6144187",
       "pub_date": "2026-04-22T05:20:00+09:00",
@@ -289,6 +298,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
@@ -1691,24 +1709,6 @@
       "pub_date": "2026-04-21T20:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "방미심위 방송심의 1호 KBS 박장범의 '조그마한 파우치'",
-      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316781",
-      "pub_date": "2026-04-21T20:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스하이킥] 신장식 \"조국, 다른 지역 선택했다면 비난 더 받았을 것.....",
-      "link": "https://n.news.naver.com/mnews/article/214/0001494304?sid=100",
-      "pub_date": "2026-04-21T20:06:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     }
