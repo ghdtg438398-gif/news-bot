@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 02:00:42",
+  "updated": "2026-04-22 02:05:29",
   "total": 200,
   "items": [
+    {
+      "title": "'조규성 동료' 19세 MF, 새벽에 흉기에 찔려 생명 위기…긴급 이송→인...",
+      "link": "https://www.xportsnews.com/article/2139724",
+      "pub_date": "2026-04-22T02:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 밴스 미 부통령, 2차 협상 위해 아직 출국 안 해\" <로이터>",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260422011814gzT",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 2심도 징역 4년 구형",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421510&PRO_CODE=99",
-      "pub_date": "2026-04-21T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
