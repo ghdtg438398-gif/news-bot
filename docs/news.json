@@ -1,19 +1,82 @@
 {
-  "updated": "2026-04-22 08:45:30",
+  "updated": "2026-04-22 08:50:33",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 경찰, 화물연대 집회서 1명 사망케한 운전자 '살인혐의' 구속영...",
-      "link": "https://www.pressian.com/pages/articles/2026042208412566478?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T08:42:00+09:00",
+      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
+      "pub_date": "2026-04-22T08:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
+      "pub_date": "2026-04-22T08:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적용",
+      "link": "https://www.donga.com/news/Society/article/all/20260422/133787457/1",
+      "pub_date": "2026-04-22T08:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
-      "link": "https://www.wikitree.co.kr/articles/1132777",
+      "title": "[속보] 李대통령 국정지지율 59.9% [쿠키뉴스]",
+      "link": "https://www.segye.com/newsView/20260422503141?OutUrl=naver",
+      "pub_date": "2026-04-22T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 육군 부사관이 10대 여성 성매매 시도…기강 해이 도마",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189593",
+      "pub_date": "2026-04-22T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104271",
+      "pub_date": "2026-04-22T08:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대 조합원 차로 친 40대 영장...살인 혐의 적용",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220019",
+      "pub_date": "2026-04-22T08:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 살인 혐의 적용",
+      "link": "https://biz.heraldcorp.com/article/10722658?ref=naver",
+      "pub_date": "2026-04-22T08:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 화물연대 집회서 1명 사망케한 운전자 '살인혐의' 구속영...",
+      "link": "https://www.pressian.com/pages/articles/2026042208412566478?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-22T08:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -27,6 +90,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
+      "link": "https://www.wikitree.co.kr/articles/1132777",
+      "pub_date": "2026-04-22T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -84,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
-      "link": "https://www.khan.co.kr/article/202604220832001",
+      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
+      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
+      "link": "https://www.khan.co.kr/article/202604220832001",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]경찰, 화물연대 사고 운전자 ‘살인 혐의’로 구속영장 신청",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525323",
+      "title": "[속보] 이러다 한화로 돌아오나…'볼볼볼볼' 3⅓이닝 2실점 강판, 와이스...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812030",
       "pub_date": "2026-04-22T08:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이러다 한화로 돌아오나…'볼볼볼볼' 3⅓이닝 2실점 강판, 와이스...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812030",
+      "title": "[속보]경찰, 화물연대 사고 운전자 ‘살인 혐의’로 구속영장 신청",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525323",
       "pub_date": "2026-04-22T08:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,20 +255,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] '화물연대 조합원 사상' 운전자 영장…살인 혐의 적용",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290050.html",
-      "pub_date": "2026-04-22T08:20:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031440",
       "pub_date": "2026-04-22T08:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 운전자 영장…살인 혐의 적용",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290050.html",
+      "pub_date": "2026-04-22T08:20:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1725,78 +1797,6 @@
       "title": "\"농협법 개정, 자율성 침해·농업인 위기 초래\"",
       "link": "https://www.kado.net/news/articleView.html?idxno=2046125",
       "pub_date": "2026-04-22T00:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "원주 아카데미극장 철거 반대 시민단체 최종 무죄",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150018700000",
-      "pub_date": "2026-04-22T00:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[선택 2026 강원] '선거구 확대' 춘천 후보 추가 모집 막판 변수",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046082",
-      "pub_date": "2026-04-22T00:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "교사에 ‘기저귀 싸대기’ 날린 학부모…법원서 “제게도 아이가 있어요...",
-      "link": "https://www.sedaily.com/article/20035177?ref=naver",
-      "pub_date": "2026-04-22T00:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美 3월 소매판매, 휘발유 가격 급등에 1년 만에 최대폭 증가",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=660179",
-      "pub_date": "2026-04-22T00:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "원주 통합 미곡종합처리장 착공 8월로 연기",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046050",
-      "pub_date": "2026-04-22T00:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[김능구·장성철의 직언직썰 4월②] \"국힘 변화 어려워…한동훈·이준석...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729019",
-      "pub_date": "2026-04-22T00:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…휴전 연장은 원치 않아”",
-      "link": "https://www.munhwa.com/article/11583983?ref=naver",
-      "pub_date": "2026-04-22T00:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
-      "pub_date": "2026-04-22T00:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
