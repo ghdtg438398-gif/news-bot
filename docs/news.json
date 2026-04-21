@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 12:30:32",
+  "updated": "2026-04-21 12:35:27",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 교사 피습 배경엔 '반복된 민원'…\"피해교사 제도적 개입 필요\"",
+      "link": "http://news.ebs.co.kr/ebsnews/allView/60716360/N",
+      "pub_date": "2026-04-21T12:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 김건희, ‘쥴리 의혹’ 재판 불출석… 과태료 300만원 부과",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500114?wlog_tag3=naver",
+      "pub_date": "2026-04-21T12:33:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“전기차 100만 대 시대” 열렸다… 4월 만에 연간 목표 10만 대 조기 달...",
+      "link": "https://www.daily365.news/2026/04/21/%ec%a0%84%ea%b8%b0%ec%b0%a8-100%eb%a7%8c-%eb%8c%80-%ec%8b%9c%eb%8c%80-%ec%97%b4%eb%a0%b8%eb%8b%a4-4%ec%9b%94-%eb%a7%8c%ec%97%90-%ec%97%b0%ea%b0%84-%eb%aa%a9%ed%91%9c-10/",
+      "pub_date": "2026-04-21T12:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, 가수 송민호에 징역 1년 6개월 구형",
+      "link": "https://magazine.hankyung.com/business/article/202604215734b",
+      "pub_date": "2026-04-21T12:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"움직임 없으면 즉시 대응\"…강화군, 독거노인 안전망 가동",
       "link": "http://www.newstnt.com/news/articleView.html?idxno=607576",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"미 부통령, 이란 협상 위해 화요일 파키스탄 방문 예정\"",
-      "link": "https://www.ajunews.com/view/20260421073222301",
-      "pub_date": "2026-04-21T09:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "주사기 350만대 '긴급 수급'…정부, 환율 급등에 '치료재료 수가' 인상",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217761",
-      "pub_date": "2026-04-21T09:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"미 부통령, 이란 협상 위해 화요일 파키스탄 방문 예정\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260421095319NFt",
-      "pub_date": "2026-04-21T09:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '부실 복무' 송민호, 첫 재판 출석…\"깊이 반성하고 있다\" 사과",
-      "link": "https://www.mydaily.co.kr/page/view/2026042109292944385",
-      "pub_date": "2026-04-21T09:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
