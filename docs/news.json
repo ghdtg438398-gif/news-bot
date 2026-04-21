@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 23:55:29",
+  "updated": "2026-04-22 00:00:38",
   "total": 200,
   "items": [
+    {
+      "title": "'김민혁 끝내기 포' KT, KIA 꺾고 선두 도약... LG는 단독 2위",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06632166645418416",
+      "pub_date": "2026-04-21T23:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]'요요' 김신영 '나혼산' 이어 '아형' 재재출연..고정 청신호 켰다...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042123263895784",
+      "pub_date": "2026-04-21T23:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "美 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 예상 밖 호조",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542168&ref=A",
+      "pub_date": "2026-04-21T23:56:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "4월 21일 모닝뉴스 헤드라인",
       "link": "https://www.radiokorea.com/news/article.php?uid=493642",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, 세계랭킹 26위로 상승…개인 최고 순위 타이",
-      "link": "https://www.ajunews.com/view/20260421170032580",
-      "pub_date": "2026-04-21T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "사실상 휴전 하루 연장...미-이란 2차 회담 임박?",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604211702542051",
-      "pub_date": "2026-04-21T17:02:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 불붙은 숯으로 조카 고문해 숨지게한 80대 무속인…무기→7년 '감...",
-      "link": "https://www.imaeil.com/page/view/2026042116224823289",
-      "pub_date": "2026-04-21T17:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
