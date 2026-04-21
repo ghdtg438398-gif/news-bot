@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 23:50:38",
+  "updated": "2026-04-21 23:55:29",
   "total": 200,
   "items": [
+    {
+      "title": "4월 21일 모닝뉴스 헤드라인",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493642",
+      "pub_date": "2026-04-21T23:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]뉴욕증시 일제히 상승…트럼프 \"이란과 큰 합의할 것\"",
       "link": "https://news.mtn.co.kr/news-detail/2026042123464150864",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, CU 본사 앞 규탄...\"원청 책임 인정하라\"",
-      "link": "https://www.ppss.kr/news/articleView.html?idxno=293710",
-      "pub_date": "2026-04-21T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
