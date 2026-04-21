@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 23:30:35",
+  "updated": "2026-04-21 23:35:29",
   "total": 200,
   "items": [
+    {
+      "title": "[자정 뉴스브리핑] SEC 위원장 '집행을 통한 규제 종료' 外",
+      "link": "https://www.tokenpost.kr/news/briefing/351812",
+      "pub_date": "2026-04-21T23:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보제한 영향은?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542158&ref=A",
+      "pub_date": "2026-04-21T23:24:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[단독] 호르무즈 막히자 말라카 겨눴다…이란 '다음 단계' 신호",
       "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=58287",
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-21T16:57:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총 \"CU 노동자 죽음, 원청·정부 책임\"…총력투쟁 예고",
-      "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1321321",
-      "pub_date": "2026-04-21T16:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…“반성 안...",
-      "link": "https://biz.heraldcorp.com/article/10722382?ref=naver",
-      "pub_date": "2026-04-21T16:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
