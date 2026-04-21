@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 22:15:40",
+  "updated": "2026-04-21 22:20:29",
   "total": 200,
   "items": [
     {
@@ -84,27 +84,18 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] SK에너지 사고 보고서 입수…“총체적 관리 부실”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542089&ref=A",
+      "pub_date": "2026-04-21T21:58:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할 것… 휴전연장 원치않아...",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270627",
       "pub_date": "2026-04-21T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.hankyung.com/article/2026042171217",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
-      "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -120,6 +111,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.hankyung.com/article/2026042171217",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542045&ref=A",
       "pub_date": "2026-04-21T21:50:00+09:00",
@@ -129,20 +138,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 \"훌륭한 합의하게 될 것...",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190342.html",
       "pub_date": "2026-04-21T21:48:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -174,20 +183,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
       "link": "http://www.fnnews.com/news/202604212144238242",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -219,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “훌륭한 합의하게 될 것...휴전 연장 원치 않아”",
-      "link": "https://www.sedaily.com/article/20035400?ref=naver",
-      "pub_date": "2026-04-21T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
       "link": "https://www.viva100.com/article/20260421501187",
       "pub_date": "2026-04-21T21:42:00+09:00",
@@ -243,6 +243,15 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “훌륭한 합의하게 될 것...휴전 연장 원치 않아”",
+      "link": "https://www.sedaily.com/article/20035400?ref=naver",
+      "pub_date": "2026-04-21T21:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "다급해진 CU…대체물류 통해 간편식 긴급 수송",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298607&inflow=N",
-      "pub_date": "2026-04-21T16:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
