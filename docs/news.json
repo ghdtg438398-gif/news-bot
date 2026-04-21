@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 08:25:27",
+  "updated": "2026-04-22 08:30:40",
   "total": 200,
   "items": [
+    {
+      "title": "'KIA 상대 2이닝 퍼펙트' 이게 국대 투수의 힘인가…\"지금 좋은 것 같아...",
+      "link": "https://www.xportsnews.com/article/2139880",
+      "pub_date": "2026-04-22T08:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장...살인 혐의",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563093",
+      "pub_date": "2026-04-22T08:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, ‘화물연대 사상 사고’ 운전자 살인 혐의로 구속영장 신...",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/04/22/HP4NKBDPPNGWNOYZBVVOO5MTOQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-22T08:27:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]경찰, 화물연대 사고 운전자 ‘살인 혐의’로 구속영장 신청",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525323",
+      "pub_date": "2026-04-22T08:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이러다 한화로 돌아오나…'볼볼볼볼' 3⅓이닝 2실점 강판, 와이스...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812030",
+      "pub_date": "2026-04-22T08:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042208213763478",
+      "pub_date": "2026-04-22T08:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
       "link": "https://biz.heraldcorp.com/article/10722636?ref=naver",
@@ -19,6 +73,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 운전자 영장…살인 혐의 적용",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290050.html",
+      "pub_date": "2026-04-22T08:20:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]송도에 주차된 차량서 여성 백골 시신 발견…“타살 혐의점 없어...",
-      "link": "https://www.munhwa.com/article/11583977?ref=naver",
-      "pub_date": "2026-04-21T23:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 호조",
-      "link": "https://www.sedaily.com/article/20035410?ref=naver",
-      "pub_date": "2026-04-21T23:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 호조",
-      "link": "https://www.yna.co.kr/view/AKR20260421178100072?input=1195m",
-      "pub_date": "2026-04-21T22:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "날씨 더워지는데 아이스컵 품귀…골목 카페도 '비상'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260421225323Cmr",
-      "pub_date": "2026-04-21T22:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[투나잇이슈] 미·이란 2차회담 성사될까…파키스탄 '철통보안'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260421225141xUr",
-      "pub_date": "2026-04-21T22:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"훌륭한 합의할 것\"...\"휴전 연장 원치 않아\"",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210075",
-      "pub_date": "2026-04-21T22:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 대전 동구청장 황인호·서구청장 전문학 후보 확정",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270628",
-      "pub_date": "2026-04-21T22:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
