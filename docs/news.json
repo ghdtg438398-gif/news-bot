@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 00:20:37",
+  "updated": "2026-04-22 00:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "에이브, 해킹 여파로 26% 폭락...디파이 생태계 붕괴 도미노 경고",
+      "link": "http://coinreaders.com/232010",
+      "pub_date": "2026-04-22T00:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]파키스탄 \"오전 8시50분(한국시간) 휴전 종료…이란 답변 아직\"",
       "link": "https://www.newsis.com/view/NISX20260421_0003600880",
@@ -30,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"농협법 개정, 자율성 침해·농업인 위기 초래\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046125",
+      "title": "“겨울이 약한 양구 관광…청춘·체류형 축제로 돌파해야”",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150077900000",
       "pub_date": "2026-04-22T00:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "“겨울이 약한 양구 관광…청춘·체류형 축제로 돌파해야”",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150077900000",
+      "title": "\"농협법 개정, 자율성 침해·농업인 위기 초래\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046125",
       "pub_date": "2026-04-22T00:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "원주 통합 미곡종합처리장 착공 8월로 연기",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046050",
+      "title": "美 3월 소매판매, 휘발유 가격 급등에 1년 만에 최대폭 증가",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=660179",
       "pub_date": "2026-04-22T00:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "美 3월 소매판매, 휘발유 가격 급등에 1년 만에 최대폭 증가",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=660179",
+      "title": "원주 통합 미곡종합처리장 착공 8월로 연기",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046050",
       "pub_date": "2026-04-22T00:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "연못 대신 수영장에 풍덩… 태극낭자 18人 '호수의 여인' 노린다",
-      "link": "https://www.ajunews.com/view/20260421091338470",
+      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
       "pub_date": "2026-04-22T00:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
+      "title": "연못 대신 수영장에 풍덩… 태극낭자 18人 '호수의 여인' 노린다",
+      "link": "https://www.ajunews.com/view/20260421091338470",
       "pub_date": "2026-04-22T00:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "제약바이오, 치료제 적응증 확대·새 연구 발표 불구 시장 반응 '미지근...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298642&inflow=N",
-      "pub_date": "2026-04-21T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
