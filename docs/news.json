@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 00:10:32",
+  "updated": "2026-04-22 00:15:30",
   "total": 200,
   "items": [
+    {
+      "title": "KIA 상대 짜릿한 승리→선두 등극 KT '한꺼번에'…이강철 감독 \"모든 선...",
+      "link": "https://www.xportsnews.com/article/2139865",
+      "pub_date": "2026-04-22T00:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "불법 PG 피해 확산일로 \"재발 방지책 마련 시급\"",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046145",
+      "pub_date": "2026-04-22T00:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"농협법 개정, 자율성 침해·농업인 위기 초래\"",
       "link": "https://www.kado.net/news/articleView.html?idxno=2046125",
@@ -48,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "美 3월 소매판매, 휘발유 가격 급등에 1년 만에 최대폭 증가",
-      "link": "https://www.bloter.net/news/articleView.html?idxno=660179",
+      "title": "원주 통합 미곡종합처리장 착공 8월로 연기",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046050",
       "pub_date": "2026-04-22T00:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "원주 통합 미곡종합처리장 착공 8월로 연기",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046050",
+      "title": "美 3월 소매판매, 휘발유 가격 급등에 1년 만에 최대폭 증가",
+      "link": "https://www.bloter.net/news/articleView.html?idxno=660179",
       "pub_date": "2026-04-22T00:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보]'항공사 동료 기장 살해범' 김동환, 국민참여재판 신청했다",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604210050",
       "pub_date": "2026-04-21T17:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "부산세관, 신선대부두 등에서 수입 화물 검사 현장 긴급 점검",
-      "link": "https://www.nocutnews.co.kr/news/6505896?utm_source=naver&utm_medium=article&utm_campaign=20260421051629",
-      "pub_date": "2026-04-21T17:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 항공사 기장 살해범 김동환, 국민참여재판 신청",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260421.99099006113",
-      "pub_date": "2026-04-21T17:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
