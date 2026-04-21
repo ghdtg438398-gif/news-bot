@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 04:55:26",
-  "total": 149,
+  "updated": "2026-04-22 05:00:43",
+  "total": 147,
   "items": [
+    {
+      "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44673",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'챔피언 4인방' 김민솔·김민선7·임진영·고지원, 이번주 충주에서 시즌...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019918",
@@ -1315,33 +1324,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
-      "pub_date": "2026-04-21T18:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
-      "pub_date": "2026-04-21T18:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종전협상 기대? 이란 “국내 항공 내일 재개”…개전 52일만",
-      "link": "https://www.dt.co.kr/article/12058749?ref=naver",
-      "pub_date": "2026-04-21T18:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
