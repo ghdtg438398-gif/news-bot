@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 01:10:30",
+  "updated": "2026-04-22 01:15:32",
   "total": 200,
   "items": [
     {
@@ -10,6 +10,15 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "프로야구 LG, 한화 꺾고 단독 2위…KT는 KIA 누르고 단독 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527251&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T01:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[6·3 지방선거 동향] 담양군수 선거전… 박종원 '예산 1조' 공약, 정철...",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-21T17:26:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'조합원 사상사고' 규탄대회…사고 운전자 구속영장 검토",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260421172543gvH",
-      "pub_date": "2026-04-21T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
