@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 13:10:30",
+  "updated": "2026-04-21 13:15:29",
   "total": 200,
   "items": [
+    {
+      "title": "법원서 판결문 주민번호·주소 유출 “사과”",
+      "link": "https://www.naeil.com/news/read/586147?ref=naver",
+      "pub_date": "2026-04-21T13:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "민주당 광역단체장 후보 현역 의원들 29일 일괄 사퇴…'미니 총선' 판 커...",
       "link": "https://www.cnbnews.com/news/article.html?no=790260",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"실망 시켜 죄송\" 송민호, 병역법 위반 혐의 인정",
-      "link": "https://news.jtbc.co.kr/article/NB12295111?influxDiv=NAVER",
-      "pub_date": "2026-04-21T10:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
