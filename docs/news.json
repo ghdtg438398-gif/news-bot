@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-21 10:30:34",
+  "updated": "2026-04-21 10:35:31",
   "total": 200,
   "items": [
+    {
+      "title": "대만처럼 반도체가 쏘아 올릴까…韓 1분기 '깜짝' GDP 가능성은",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410700",
+      "pub_date": "2026-04-21T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[잇슈 연예 브리핑] 실물 보고 입이 떡!…'송중기♥' 케이티 실물 어떻...",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521788",
+      "pub_date": "2026-04-21T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 “부산 글로벌법 여러 한계… 전면 재설계해야”",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042110285533551",
+      "pub_date": "2026-04-21T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '102일 부실 복무' 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.xportsnews.com/article/2139427",
+      "pub_date": "2026-04-21T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525144",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무' 논란 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702213",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "변압기 때문에 히트펌프 신청 불가 없앤다",
+      "link": "http://www.samdailbo.com/news/articleView.html?idxno=263102",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '와 대박' 오타니, 韓 최고 타자 따라잡았다! 52G 연속 출루→추...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553153220",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무 의혹' 송민호에 징역 1년6개월 구형",
+      "link": "https://www.sidae.com/article/2026042110284642468",
+      "pub_date": "2026-04-21T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "검찰, '부실 복무' 송민호에 징역 1년 6개월 구형",
+      "link": "https://news.jtbc.co.kr/article/NB12295113?influxDiv=NAVER",
+      "pub_date": "2026-04-21T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"日국민, 헌법 자위대 명기에 찬성 59% 반대 31%\"",
       "link": "https://biz.sbs.co.kr/article_hub/20000305630?division=NAVER",
@@ -54,6 +144,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190090.html",
+      "pub_date": "2026-04-21T10:26:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -147,7 +246,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 검찰, '부실 복무' 송민호에 징역 1년 6개월 구형…송민호 “깊...",
+      "title": "[속보] 검찰, ‘부실 복무’ 송민호에 징역 1년 6개월 구형…송민호 “...",
       "link": "https://www.joongang.co.kr/article/25421918",
       "pub_date": "2026-04-21T10:20:00+09:00",
       "source_id": "yna",
@@ -219,15 +318,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주 \"한병도 원내대표 오늘 사퇴…천준호 대행 체제\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2315364.htm",
-      "pub_date": "2026-04-21T10:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "고속도로 비우고 2만 명 배치…파키스탄, 이란 설득 총력",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541352&ref=A",
       "pub_date": "2026-04-21T10:15:00+09:00",
@@ -237,9 +327,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'부실 복무 의혹' 송민호, 첫 재판 출석…\"깊이 반성, 성실히 재판...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811737",
-      "pub_date": "2026-04-21T10:14:00+09:00",
+      "title": "[속보] 민주 \"한병도 원내대표 오늘 사퇴…천준호 대행 체제\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2315364.htm",
+      "pub_date": "2026-04-21T10:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -255,9 +345,27 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]'부실 복무 의혹' 송민호, 첫 재판 출석…\"깊이 반성, 성실히 재판...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811737",
+      "pub_date": "2026-04-21T10:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "\"실망 시켜 죄송\" 송민호, 병역법 위반 혐의 인정",
       "link": "https://news.jtbc.co.kr/article/NB12295111?influxDiv=NAVER",
       "pub_date": "2026-04-21T10:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "SOOP,  BFX와 전략적 파트너십 체결… e스포츠 콘텐츠 협력 강화",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111497",
+      "pub_date": "2026-04-21T10:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -273,9 +381,9 @@
       "is_scoop": false
     },
     {
-      "title": "SOOP,  BFX와 전략적 파트너십 체결… e스포츠 콘텐츠 협력 강화",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111497",
-      "pub_date": "2026-04-21T10:12:00+09:00",
+      "title": "강원 양양 서면서 산불… 초속 6.9ｍ 바람 속 진화 중",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202604211009297435b3279dfb36_12",
+      "pub_date": "2026-04-21T10:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -287,24 +395,6 @@
       "pub_date": "2026-04-21T10:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "강원 양양 서면서 산불… 초속 6.9ｍ 바람 속 진화 중",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202604211009297435b3279dfb36_12",
-      "pub_date": "2026-04-21T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 휠체어 충돌 경찰, 갈비뼈 부상… 전장연 ‘버스 저지 시위’에...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500048?wlog_tag3=naver",
-      "pub_date": "2026-04-21T10:08:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -327,6 +417,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 휠체어 충돌 경찰, 갈비뼈 부상… 전장연 ‘버스 저지 시위’에...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500048?wlog_tag3=naver",
+      "pub_date": "2026-04-21T10:08:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "민희진, 악플러 상대 손배소 일부 승소…1인당 30만원 배상",
       "link": "https://www.dailian.co.kr/news/view/1635879/?sc=Naver",
       "pub_date": "2026-04-21T10:06:00+09:00",
@@ -339,15 +438,6 @@
       "title": "[속보]'병역비리' 송민호, 102일 부실 복무 인정..책임자는 부인",
       "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106164677733",
       "pub_date": "2026-04-21T10:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日정부, 살상 능력 무기 수출 제한 규정 폐지",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599647",
-      "pub_date": "2026-04-21T10:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -370,6 +460,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]日정부, 살상 능력 무기 수출 제한 규정 폐지",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599647",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
@@ -1698,105 +1797,6 @@
       "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189363",
       "pub_date": "2026-04-21T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"하이브리드전 의심\"…英서 유대인 공동체 공격 이어져",
-      "link": "https://view.asiae.co.kr/article/2026042108372655202",
-      "pub_date": "2026-04-21T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '사용기한 만료 수액' 3살짜리에 투여…책임은 막내 간호사 탓으...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189362",
-      "pub_date": "2026-04-21T08:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]애플, '팀 쿡' 시대 끝난다...대대적 세대교체",
-      "link": "https://magazine.hankyung.com/business/article/202604214678b",
-      "pub_date": "2026-04-21T08:34:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 중동 협상 불확실성에도 삼전·SK하닉 프리장 1~2% 강세",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/21/2026042100035.html",
-      "pub_date": "2026-04-21T08:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정부, 항공사 공항시설 사용료 납부 한시 유예",
-      "link": "https://www.nocutnews.co.kr/news/6505398?utm_source=naver&utm_medium=article&utm_campaign=20260421082825",
-      "pub_date": "2026-04-21T08:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"용산에서 전화가..\" 김건희 고모 공장 거래 '수상한 흐름'",
-      "link": "https://news.jtbc.co.kr/article/NB12295080?influxDiv=NAVER",
-      "pub_date": "2026-04-21T08:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'혐의 인정' 송민호, '102일 무단이탈' 부실 복무 첫 재판",
-      "link": "https://www.xportsnews.com/article/2139366",
-      "pub_date": "2026-04-21T08:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "NEXZ(넥스지), 27일 싱글 2집 'Mmchk'로 컴백…퍼포먼스 챌린지 선공개",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569128",
-      "pub_date": "2026-04-21T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'102일 결근' 부실복무 의혹 송민호, 오늘(21일) 첫 재판",
-      "link": "http://www.joynews24.com/view/1961931",
-      "pub_date": "2026-04-21T08:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[안귀옥 변호사의 법정에 선 남편 리포트] 11화 혼자 해결하려는 남편,...",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382731",
-      "pub_date": "2026-04-21T08:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘51G 출루’ 오타니, 추신수와 어깨 나란히 하나…ML기록도 가시권",
-      "link": "https://www.sportsseoul.com/news/read/1604163?ref=naver",
-      "pub_date": "2026-04-21T08:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
