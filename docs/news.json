@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 19:55:30",
+  "updated": "2026-04-21 20:00:41",
   "total": 200,
   "items": [
+    {
+      "title": "'방화 의심' 하동 주택 불, 70대 장모 숨지고 용의자 사위도 숨져",
+      "link": "https://www.mt.co.kr/society/2026/04/21/2026042119330118628",
+      "pub_date": "2026-04-21T19:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 앵커, 웃음 멈추고 지진 속보…진도 8.0 경고",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525278",
+      "pub_date": "2026-04-21T19:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김영환 지사·이범석 시장 컷오프 입체적 보도 '눈길'",
       "link": "http://www.cctimes.kr/news/articleView.html?idxno=903160",
@@ -19,6 +37,15 @@
       "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] SK에너지 사고 보고서 입수…“총체적 관리 부실”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541888&ref=A",
+      "pub_date": "2026-04-21T19:41:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독] 육군 부사관이 10대 여성 성매매 시도…기강 해이 도마",
@@ -165,7 +192,7 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
+      "title": "[단독] 성평등부, ‘적극적 고용개선조치’ 여성정책연구원으로 이관 검...",
       "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-21T15:52:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "오타니, 52경기 연속 출루 대기록 달성",
-      "link": "https://mdtoday.co.kr/news/view/1065595215487463",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
-      "link": "https://magazine.hankyung.com/business/article/202604216299b",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
