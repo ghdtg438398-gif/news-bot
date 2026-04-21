@@ -1,10 +1,100 @@
 {
-  "updated": "2026-04-22 05:15:29",
-  "total": 158,
+  "updated": "2026-04-22 05:20:41",
+  "total": 166,
   "items": [
     {
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422051646Ma4",
+      "pub_date": "2026-04-22T05:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란 제안 받고 논의 끝날때까지 휴전 연장\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003600903",
+      "pub_date": "2026-04-22T05:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422008700071?input=1195m",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.sedaily.com/article/20035422?ref=naver",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과의 휴전 연장\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604220516050523",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422008300071?input=1195m",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604220515521se",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.joongang.co.kr/article/25422219",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422008600071?input=1195m",
+      "pub_date": "2026-04-22T05:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305817?division=NAVER",
+      "pub_date": "2026-04-22T05:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란과 휴전 재연장…파키스탄 중재 요청 수용”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/22/PDSBHYYDK5D7XKNO2PD74R5ODE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T05:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 타스님통신 \"이란, 22일 미국과의 회담 불참 통보\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604220513450C9",
       "pub_date": "2026-04-22T05:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,11 +102,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란 전쟁, 휴전 재연장할 것”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/22/PDSBHYYDK5D7XKNO2PD74R5ODE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422008300071?input=1195m",
       "pub_date": "2026-04-22T05:14:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -30,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]뉴욕증시, 미·이란 협상 교착에 이틀째 하락…유가 반등·금리 상...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645418744",
+      "title": "[속보] 미·이란 2차 종전 협상 불확실성에 뉴욕증시 이틀째 하락",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305816?division=NAVER",
       "pub_date": "2026-04-22T05:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미·이란 2차 종전 협상 불확실성에 뉴욕증시 이틀째 하락",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305816?division=NAVER",
+      "title": "[속보]뉴욕증시, 미·이란 협상 교착에 이틀째 하락…유가 반등·금리 상...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645418744",
       "pub_date": "2026-04-22T05:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 미·이란 종전 협상 불투명 이틀째 하락 마감",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627099",
+      "title": "[속보]JD 밴스 파키스탄행 취소…3대 지수 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042205042676997",
       "pub_date": "2026-04-22T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]JD 밴스 파키스탄행 취소…3대 지수 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042205042676997",
+      "title": "[속보] 뉴욕증시, 미·이란 종전 협상 불투명 이틀째 하락 마감",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627099",
       "pub_date": "2026-04-22T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,13 +192,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미-이란 협상 결렬, 미증시 일제 하락…S&P500 0.63%↓",
-      "link": "https://www.news1.kr/world/usa-canada/6144442",
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
@@ -138,13 +228,31 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
-      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
+      "title": "[속보] 미-이란 협상 결렬, 미증시 일제 하락…S&P500 0.63%↓",
+      "link": "https://www.news1.kr/world/usa-canada/6144442",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정]국회(4월22일 수요일)",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600847",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 국회일정] (22일, 수)",
+      "link": "https://www.news1.kr/politics/assembly/6144350",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
@@ -180,24 +288,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정]국회(4월22일 수요일)",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600847",
-      "pub_date": "2026-04-22T05:00:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 국회일정] (22일, 수)",
-      "link": "https://www.news1.kr/politics/assembly/6144350",
-      "pub_date": "2026-04-22T05:00:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1401,24 +1491,6 @@
       "title": "[속보] “내란특검법 위헌” 尹 헌법소원, 정식 판단 받는다…전원재판...",
       "link": "https://www.dt.co.kr/article/12058753?ref=naver",
       "pub_date": "2026-04-21T19:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[항공 & Now] 티웨이항공, 사이판 태풍 체객 수송 지원 등",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706161",
-      "pub_date": "2026-04-21T19:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "밀양시, '민생 경제' 중심 375억원 규모 긴급 추경안 편성",
-      "link": "https://www.nocutnews.co.kr/news/6505982?utm_source=naver&utm_medium=article&utm_campaign=20260421071830",
-      "pub_date": "2026-04-21T19:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
