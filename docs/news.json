@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 12:10:28",
+  "updated": "2026-04-21 12:15:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 방시혁 영장 신청한 경찰 “자본시장 교란 엄정 대처”",
+      "link": "https://biz.heraldcorp.com/article/10722092?ref=naver",
+      "pub_date": "2026-04-21T12:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]'사당귀', 전현무와 북중미 월드컵 간다..KBS 중계권 타결 속 밀착...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/21/2026042111224186783",
+      "pub_date": "2026-04-21T12:10:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189428",
@@ -48,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
+      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
+      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
+      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
+      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,20 +219,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://magazine.hankyung.com/business/article/202604215636b",
-      "pub_date": "2026-04-21T11:39:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]한강버스 ‘흑자 날 때까지’ 세금 지원, 서울시의회서 제동···...",
       "link": "https://www.khan.co.kr/article/202604211139001",
       "pub_date": "2026-04-21T11:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
+      "link": "https://magazine.hankyung.com/business/article/202604215636b",
+      "pub_date": "2026-04-21T11:39:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -282,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
+      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
+      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
-      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
+      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6300선 회복 출발…'120만 닉스' 신고가",
-      "link": "https://www.segye.com/newsView/20260421504830?OutUrl=naver",
-      "pub_date": "2026-04-21T09:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, 서광석 지부장 죽음 내몬 이재명 정부 규탄",
-      "link": "https://www.nocutnews.co.kr/news/6505464?utm_source=naver&utm_medium=article&utm_campaign=20260421094425",
-      "pub_date": "2026-04-21T09:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
