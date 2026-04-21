@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 08:05:24",
-  "total": 189,
+  "updated": "2026-04-22 08:10:30",
+  "total": 190,
   "items": [
+    {
+      "title": "[속보] 경찰, '조합원 3명 사상' 물류 차량 운전자 구속영장 신청",
+      "link": "https://www.ytn.co.kr/_ln/0115_202604220807329543",
+      "pub_date": "2026-04-22T08:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 또다시 교착상태 … 삼전, 프리장서 0.2% 하락 '눈치싸움'",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200034.html",
+      "pub_date": "2026-04-22T08:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
       "link": "https://www.etnews.com/20260422000008",
@@ -201,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
+      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1692,15 +1710,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[프로축구] K리그1 선두 서울, 부천 3-0 격파... 인천은 11년 만에 전주...",
-      "link": "https://www.newspim.com/news/view/20260421001386",
-      "pub_date": "2026-04-21T22:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
