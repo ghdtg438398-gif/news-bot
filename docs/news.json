@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-21 17:35:29",
+  "updated": "2026-04-21 17:40:30",
   "total": 200,
   "items": [
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
+      "link": "https://www.kyeonggi.com/article/20260421580468",
+      "pub_date": "2026-04-21T17:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
+      "link": "https://www.newspim.com/news/view/20260421001304",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “현재 파키스탄으로 떠난 협상 대표단 없어”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525232",
+      "pub_date": "2026-04-21T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "민주당 정청래의 '이광재 활용법', 6·3 국회의원 재보선 수도권 판도 뒤...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436198",
+      "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
       "pub_date": "2026-04-21T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
-      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
+      "title": "민주당 정청래의 '이광재 활용법', 6·3 국회의원 재보선 수도권 판도 뒤...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436198",
       "pub_date": "2026-04-21T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 한병도, 원내대표직 사퇴 “연임 도전”",
-      "link": "https://biz.heraldcorp.com/article/10722215?ref=naver",
-      "pub_date": "2026-04-21T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'102일 무단이탈' 송민호, '재복무 의지'에도 싸늘한 여론 [엑's 이슈]",
-      "link": "https://www.xportsnews.com/article/2139480",
-      "pub_date": "2026-04-21T14:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한병도, 원내대표직 사퇴…연임 도전",
-      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=438404",
-      "pub_date": "2026-04-21T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
