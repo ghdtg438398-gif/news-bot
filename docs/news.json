@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 07:45:27",
-  "total": 200,
+  "updated": "2026-04-22 07:50:30",
+  "total": 197,
   "items": [
+    {
+      "title": "트럼프 지지율 37% 최저…유가 급등에 한국전쟁 긴급법 DPA 발동",
+      "link": "https://www.sedaily.com/article/20035444?ref=naver",
+      "pub_date": "2026-04-22T07:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "HD현대-안두릴 무인함정 시제함 건조 착수…10월 시험 운항 목표",
+      "link": "https://www.sedaily.com/article/20035441?ref=naver",
+      "pub_date": "2026-04-22T07:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "전쟁 충격 딛고 전고점 뚫은 코스피…“진짜 랠리는 지금부터”",
+      "link": "https://www.sedaily.com/article/20035439?ref=naver",
+      "pub_date": "2026-04-22T07:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경기 남양주 진접읍 공장 화재 발생 \"불 피해 주의\"",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563042",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
+      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577864",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2577864",
+      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,60 +1770,6 @@
       "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
       "link": "https://www.joongang.co.kr/article/25422111",
       "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542045&ref=A",
-      "pub_date": "2026-04-21T21:50:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 \"훌륭한 합의하게 될 것...",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190342.html",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"3골 완성 선두 질주\" FC서울, 부천 제압하며 승점 22점",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041233",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://biz.heraldcorp.com/article/10722531?ref=naver",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.fnnews.com/news/202604212144238242",
-      "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
