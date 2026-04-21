@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 03:50:29",
-  "total": 186,
+  "updated": "2026-04-22 03:55:34",
+  "total": 184,
   "items": [
     {
       "title": "'우승 없이 상금·대상·평균타수 1위' 전예성, 시즌 첫승 재도전 [KLPGA ...",
@@ -1655,24 +1655,6 @@
       "pub_date": "2026-04-21T17:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "호기심을 충족시켜 줄 과학 유튜브 채널 5",
-      "link": "https://www.esquirekorea.co.kr/article/1901229",
-      "pub_date": "2026-04-21T17:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래, ‘돈봉투 의혹’ 임실군수 결선 개표보류·조사 지시",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64119",
-      "pub_date": "2026-04-21T17:51:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
