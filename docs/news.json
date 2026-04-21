@@ -1,8 +1,197 @@
 {
-  "updated": "2026-04-21 09:15:44",
+  "updated": "2026-04-21 09:20:38",
   "total": 200,
-  "breaking": 128,
+  "breaking": 136,
   "items": [
+    {
+      "title": "[속보] 코스피, 장중 이란 전쟁전 전고점 돌파…6,348.23",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189380",
+      "pub_date": "2026-04-21T09:19:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강원 양양서 산불 발생…안전재난문자 발송",
+      "link": "https://www.etoday.co.kr/news/view/2577558",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주성엔지니어링 VI 발동, 주가 15% 도약…10만원선 뚫었다",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569146",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 6355선 터치…전고점 돌파",
+      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817760",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김상욱은 단일화 없이 울산에서 승리할까",
+      "link": "https://www.news2day.co.kr/article/20260421500021",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "집회현장 화물 노동자 사망사고에 민주노총 \"정부, 사태 해결에 나서야...",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247812",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6300선 돌파…장중 중동전쟁 전고점 넘겨",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042109161886736",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 역사상 최고가…장중 6350선 돌파",
+      "link": "https://www.hankyung.com/article/202604214806i",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6350선 돌파…사상 최고치 경신",
+      "link": "https://www.newspim.com/news/view/20260421000232",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6348.23 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 이란 전쟁 전 전고점 돌파… 6355.16",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270383",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 사상최고가 경신… ‘6350선 돌파’",
+      "link": "https://www.mk.co.kr/article/12022471",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6300 재돌파…SK하이닉스 신고가",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300654",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 전고점 돌파",
+      "link": "https://www.sedaily.com/article/20034978?ref=naver",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 협상 기대에 상승…6,300선 회복",
+      "link": "http://www.yonhapnewstv.co.kr/MYH202604210915149G8",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6350선 돌파…사상 최고치 경신",
+      "link": "https://www.dailian.co.kr/news/view/1635826/?sc=Naver",
+      "pub_date": "2026-04-21T09:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 2.19% 급등 6355 돌파···사상 최고가 경신",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627021",
+      "pub_date": "2026-04-21T09:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 개장 직후 6300선 직행…사상 최고치",
+      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500028?wlog_tag3=naver",
+      "pub_date": "2026-04-21T09:15:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 '사상 최고치' 경신…6350선 돌파",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210259&t=NN",
+      "pub_date": "2026-04-21T09:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 36거래일 만 사상 최고치 경신…6355.39 돌파",
       "link": "https://www.ajunews.com/view/20260421090738460",
@@ -10,6 +199,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "금융시장, 실물경제와 괴리…“코로나 사태 당시 상황과 유사” 지적도",
+      "link": "https://www.munhwa.com/article/11583734?ref=naver",
+      "pub_date": "2026-04-21T09:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -28,15 +226,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "금융시장, 실물경제와 괴리…“코로나 사태 당시 상황과 유사” 지적도",
-      "link": "https://www.munhwa.com/article/11583734?ref=naver",
-      "pub_date": "2026-04-21T09:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -72,6 +261,15 @@
       "pub_date": "2026-04-21T09:14:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 사상 최고치 돌파‥6,352 돌파",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6816802_36932.html",
+      "pub_date": "2026-04-21T09:13:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -328,8 +526,8 @@
       "is_scoop": false
     },
     {
-      "title": "창원시, 배후도시 주거지역 지구단위계획 4차 재정비 착수",
-      "link": "https://www.nocutnews.co.kr/news/6505420?utm_source=naver&utm_medium=article&utm_campaign=20260421090326",
+      "title": "'KLPGA 우승 김민선, 세계랭킹 87위로 껑충...윤이나 15계단 뛰어",
+      "link": "https://www.newspim.com/news/view/20260421000206",
       "pub_date": "2026-04-21T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -337,8 +535,8 @@
       "is_scoop": false
     },
     {
-      "title": "'KLPGA 우승 김민선, 세계랭킹 87위로 껑충...윤이나 15계단 뛰어",
-      "link": "https://www.newspim.com/news/view/20260421000206",
+      "title": "창원시, 배후도시 주거지역 지구단위계획 4차 재정비 착수",
+      "link": "https://www.nocutnews.co.kr/news/6505420?utm_source=naver&utm_medium=article&utm_campaign=20260421090326",
       "pub_date": "2026-04-21T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -445,8 +643,8 @@
       "is_scoop": false
     },
     {
-      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
+      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -463,8 +661,8 @@
       "is_scoop": false
     },
     {
-      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
+      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1603,204 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 중동 재긴장 미증시 일제 하락… 나스닥 0.26%↓",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029708960&code=61131111&cp=nv",
-      "pub_date": "2026-04-21T05:06:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 이란 전쟁 불확실성에 일제히 하락 마감",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627002",
-      "pub_date": "2026-04-21T05:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'통한의 연장 준우승' 김세영, 세계랭킹 9위↑…임진희 32위로 상승 [LPG...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019907",
-      "pub_date": "2026-04-21T05:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]2차 회담 개최 여부 주목하며 뉴욕증시 일제히 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042105031646663",
-      "pub_date": "2026-04-21T05:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 이란전 불확실성 속 하락…다우지수 0.01%↓",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599200",
-      "pub_date": "2026-04-21T05:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보][뉴욕증시] 이란 전쟁 불확실성 속에 일제히 하락…애플, 1% 상승",
-      "link": "http://www.fnnews.com/news/202604210500172960",
-      "pub_date": "2026-04-21T05:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미-이란 긴장 재고조, 미증시 일제 하락...나스닥 0.26%↓",
-      "link": "https://www.news1.kr/world/usa-canada/6143034",
-      "pub_date": "2026-04-21T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "논란만 키운 장동혁…국힘서도 \"李 SNS 때리러 미국까지 갔나\"",
-      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421054623",
-      "pub_date": "2026-04-21T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'노란봉투법' 이후 첫 노동자 사망…CU 사고, 李정부 노정 시험대",
-      "link": "https://www.nocutnews.co.kr/news/6505349?utm_source=naver&utm_medium=article&utm_campaign=20260421055125",
-      "pub_date": "2026-04-21T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'노란봉투법' 이후 첫 노동자 사망…CU 사고, 李정부 노정 시험대",
-      "link": "https://www.nocutnews.co.kr/news/6505349?utm_source=naver&utm_medium=article&utm_campaign=20260421050030",
-      "pub_date": "2026-04-21T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "논란만 키운 장동혁…국힘서도 \"李 SNS 때리러 미국까지 갔나\"",
-      "link": "https://www.nocutnews.co.kr/news/6505346?utm_source=naver&utm_medium=article&utm_campaign=20260421050029",
-      "pub_date": "2026-04-21T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[우보세]교부금 울타리",
-      "link": "https://www.mt.co.kr/opinion/2026/04/21/2026041915550666112",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 한마디에 환각제주 콤퍼스 패스웨이 42% 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6143035",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[기상속보]오늘날씨 출근길 아침기온 쌀쌀 황사에 미세먼지 '매우나쁨'...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44573",
-      "pub_date": "2026-04-21T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미-이란 긴장 재고조, 국제유가 일제 급등…WTI 6.32%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6143031",
-      "pub_date": "2026-04-21T04:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[출근길 포인트] 홍해 뚫은 한국 유조선…호르무즈 봉쇄 속 우회로 확보...",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302016",
-      "pub_date": "2026-04-21T04:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] Betty Yee 전 CA회계감사관, CA주지사 선거 중도 하차",
-      "link": "https://www.radiokorea.com/news/article.php?uid=493623",
-      "pub_date": "2026-04-21T03:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미 핀테크 기업 \" 2억 9천만 달러 가상화폐 해킹, 북한 라자루스 소행 추...",
-      "link": "https://www.voakorea.com/a/u-s-fintech-firm-layerzero-says-recent-290-million-cryptocurrency-hack-likely-carried-out-by-north-korea-s-lazarus-group-042026/8139591.html",
-      "pub_date": "2026-04-21T03:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돌아온 늑구 \"심려끼쳐 죄송... '국민늑대'로 오월드 마스코트 될 것\"",
-      "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=444956",
-      "pub_date": "2026-04-21T03:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"조건 충족 없이는 미국과 협상 없어...다시 처벌할 준비도...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119089",
-      "pub_date": "2026-04-21T02:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[금융 HOT 뉴스] 우리금융, \"생산적·포용금융 속도 높인다\"",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134357",
-      "pub_date": "2026-04-21T01:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스클레임 사설] 언제까지 미국의 '속국'으로 남을 건가",
-      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061342",
-      "pub_date": "2026-04-21T00:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
