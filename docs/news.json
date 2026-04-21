@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 01:15:32",
+  "updated": "2026-04-22 01:20:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 밴스 부통령, 회담 위해 이란으로 떠나지 않아",
+      "link": "http://www.fnnews.com/news/202604220112267398",
+      "pub_date": "2026-04-22T01:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]“오전 8시(한국시간) 휴전 종료, 이란 답변 아직”…벤스 출국도...",
       "link": "https://www.munhwa.com/article/11583986?ref=naver",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-21T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[매일경제TV] 이슈따라 요동치는 美 증시 흐름 포착",
-      "link": "https://www.mk.co.kr/article/12023094",
-      "pub_date": "2026-04-21T17:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": false
     }
