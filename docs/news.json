@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 12:05:27",
+  "updated": "2026-04-21 12:10:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189428",
+      "pub_date": "2026-04-21T12:09:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '최악의 살인기업' HJ중공업…시민 선정 최악은 SPC",
+      "link": "https://www.news1.kr/society/incident-accident/6143700",
+      "pub_date": "2026-04-21T12:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스나우] 또 휴전기한 연장한 트럼프...'의도적 혼란'?",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604211203239838",
+      "pub_date": "2026-04-21T12:03:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "산업부·노동부, 청년 훈련 위한 'K-뉴딜 아카데미' 사업 참여 기업 모집",
       "link": "https://www.ajunews.com/view/20260421093737520",
@@ -354,8 +381,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
+      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
+      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "민주노총, 서광석 지부장 죽음 내몬 이재명 정부 규탄",
       "link": "https://www.nocutnews.co.kr/news/6505464?utm_source=naver&utm_medium=article&utm_campaign=20260421094425",
       "pub_date": "2026-04-21T09:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6330 돌파…역대 최고치 경신",
-      "link": "https://www.etnews.com/20260421000077",
-      "pub_date": "2026-04-21T09:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'부실복무' 송민호, 21일 병역법 위반 혐의 첫 재판",
-      "link": "https://news.jtbc.co.kr/article/NB12295106?influxDiv=NAVER",
-      "pub_date": "2026-04-21T09:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "상반기 채용문 다시 열렸다…대기업·중견기업 '동시 채용 러시'",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217757",
-      "pub_date": "2026-04-21T09:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
