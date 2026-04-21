@@ -1,22 +1,76 @@
 {
-  "updated": "2026-04-21 21:45:37",
+  "updated": "2026-04-21 21:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "\"3골 완성 선두 질주\" FC서울, 부천 제압하며 승점 22점",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041233",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://biz.heraldcorp.com/article/10722531?ref=naver",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.fnnews.com/news/202604212144238242",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[자투리 뉴스] 봄맞이 할인·지원 경쟁 확대…소비 접점 강화",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095241",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 훌륭한 합의 이룰 것…휴전 연장 원치 않아\"",
+      "link": "https://www.news1.kr/world/usa-canada/6144408",
+      "pub_date": "2026-04-21T21:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 “훌륭한 합의하게 될 것...",
       "link": "https://biz.chosun.com/international/international_general/2026/04/21/NHIVSCS62RFIVKAH4CVS7VG27A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-21T21:43:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.sedaily.com/article/20035400?ref=naver",
-      "pub_date": "2026-04-21T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -30,21 +84,21 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.sedaily.com/article/20035400?ref=naver",
+      "pub_date": "2026-04-21T21:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "유료강의에 시설 무단이용..부산의료원 \"몰랐다\"",
       "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=284662",
       "pub_date": "2026-04-21T21:42:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "https://view.asiae.co.kr/article/2026042121411448755",
-      "pub_date": "2026-04-21T21:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -63,6 +117,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "https://view.asiae.co.kr/article/2026042121411448755",
+      "pub_date": "2026-04-21T21:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 항소심에서도 징역 4년 구형",
-      "link": "https://dgmbc.com/NewsArticle/836390",
-      "pub_date": "2026-04-21T16:29:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 원 수수' 권성동 의원 2심에서 징역 4년 구형",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219720",
-      "pub_date": "2026-04-21T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김건희특검 ‘통일교 1억 수수’ 권성동 2심도 징역 4년 구형",
-      "link": "https://www.dt.co.kr/article/12058699?ref=naver",
-      "pub_date": "2026-04-21T16:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]특검, '통일교 1억원 수수' 권성동 2심도 징역 4년 구형",
-      "link": "https://news.jtbc.co.kr/article/NB12295180?influxDiv=NAVER",
-      "pub_date": "2026-04-21T16:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "LG유플러스 월드IT쇼 참가…보이스 AI로 통신 역할 확장 시동",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095234",
-      "pub_date": "2026-04-21T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 경찰서에서 숨진 20대 현행범 사인 '청산염 중독'",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226903&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-21T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6816928_36918.html",
-      "pub_date": "2026-04-21T16:26:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
