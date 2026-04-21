@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 16:05:30",
+  "updated": "2026-04-21 16:10:27",
   "total": 200,
   "items": [
+    {
+      "title": "울산시, 통합돌봄 관련 위기가구 발굴·연계 강화 2일차 교육 실시",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562603",
+      "pub_date": "2026-04-21T16:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[종합] '기리고', 심장 쫄리는 공포+살벌 연기⋯넷플릭스판 '여고괴담' ...",
+      "link": "http://www.joynews24.com/view/1962178",
+      "pub_date": "2026-04-21T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日, 살상 무기 수출 허용…'전쟁 가능 국가' 전환 논란 확산",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250226",
+      "pub_date": "2026-04-21T16:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
+      "link": "https://www.xportsnews.com/article/2139599",
+      "pub_date": "2026-04-21T16:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "클유아, 글로벌 도약 꿈꾼다 \"브라질 겨냥·日홍백가합전 목표\" [인터뷰...",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042018343113460",
+      "pub_date": "2026-04-21T16:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
       "link": "https://www.tokenpost.kr/news/briefing/351721",
@@ -120,7 +165,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 2.7% 급등 6,388.47에 마감…사상 최고치 돌파",
+      "title": "[속보]코스피, 사상 최고치 돌파… 2.7% 급등한 6,388.47로 장 마감",
       "link": "https://www.kwnews.co.kr/page/view/2026042150120500000",
       "pub_date": "2026-04-21T15:57:00+09:00",
       "source_id": "yna",
@@ -255,11 +300,11 @@
       "is_scoop": false
     },
     {
-      "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
+      "title": "이란 \"위협의 그림자서 협상 못해\"...CNN \"수요일 회담 개최\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604211542450922",
       "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -273,11 +318,11 @@
       "is_scoop": false
     },
     {
-      "title": "이란 \"위협의 그림자서 협상 못해\"...CNN \"수요일 회담 개최\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604211542450922",
+      "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
       "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -372,21 +417,21 @@
       "is_scoop": false
     },
     {
-      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
-      "link": "http://www.breaknews.com/1201921",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
       "link": "http://www.breaknews.com/1201938",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
+      "link": "http://www.breaknews.com/1201921",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1752,51 +1797,6 @@
       "title": "[정치家] 정성호 법무부장관 ③ㅣ '서민경제·안전' 등 민생 대응 강화...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569217",
       "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 21일 고척 키움-NC전, 버하겐의 투구 수 제한을 노릴 키움",
-      "link": "https://www.newspim.com/news/view/20260421000752",
-      "pub_date": "2026-04-21T13:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "검찰, '복무 이탈' 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513476",
-      "pub_date": "2026-04-21T13:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[강원소방]춘천, 비화재경보 저감 관서장 현장점검 및 화재안전컨설팅",
-      "link": "https://www.sportsseoul.com/news/read/1604293?ref=naver",
-      "pub_date": "2026-04-21T13:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄 기자회견",
-      "link": "https://www.news1.kr/photos/7867301",
-      "pub_date": "2026-04-21T13:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'102일 무단결근' 송민호 \"재복무하겠다\"…법원 앞 해외팬들은 탄식[노...",
-      "link": "https://www.nocutnews.co.kr/news/6505662?utm_source=naver&utm_medium=article&utm_campaign=20260421012327",
-      "pub_date": "2026-04-21T13:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
