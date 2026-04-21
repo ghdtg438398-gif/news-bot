@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 23:20:29",
+  "updated": "2026-04-21 23:25:29",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 호르무즈 막히자 말라카 겨눴다…이란 '다음 단계' 신호",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=58287",
+      "pub_date": "2026-04-21T23:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "미국 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562933",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[퇴근길이슈] 지수 친오빠 무관·방시혁 구속영장·송민호 재복무 기회",
-      "link": "http://www.joynews24.com/view/1962203",
-      "pub_date": "2026-04-21T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
