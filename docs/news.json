@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 07:10:29",
+  "updated": "2026-04-22 07:15:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 대구 팔공산 산불 발생...산림당국 진화 중",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
+      "pub_date": "2026-04-22T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "pub_date": "2026-04-22T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전연장 발표 인정 안해… 기습 공격 위한 시간 벌기...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042207075061266",
+      "pub_date": "2026-04-22T07:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 “국익 따라 행동...미국 휴전발표 인정 안 해” <이란 국영...",
       "link": "https://economist.co.kr/article/view/ecn202604220003",
@@ -12,7 +39,7 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘의 주요일정·22일] 정도원 홍성원 '장남회사 부당지원' 삼표 경영...",
+      "title": "[오늘의 주요일정·22일] '장남회사 부당지원' 삼표 경영진 공판",
       "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=242121",
       "pub_date": "2026-04-22T07:04:00+09:00",
       "source_id": "yna",
@@ -120,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안해…국익 따라 행동”",
-      "link": "https://biz.heraldcorp.com/article/10722591?ref=naver",
+      "title": "[속보] 이란 \"미국 휴전 발표 인정 안 해…국익 따라 행동\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
       "pub_date": "2026-04-22T06:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 \"미국 휴전 발표 인정 안 해…국익 따라 행동\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
+      "title": "[속보] 이란 “미국 휴전발표 인정 안해…국익 따라 행동”",
+      "link": "https://biz.heraldcorp.com/article/10722591?ref=naver",
       "pub_date": "2026-04-22T06:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,20 +174,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
-      "link": "https://www.joongang.co.kr/article/25422234",
-      "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\" [이란 국영방...",
       "link": "https://www.hankyung.com/article/2026042273607",
       "pub_date": "2026-04-22T06:47:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
+      "link": "https://www.joongang.co.kr/article/25422234",
+      "pub_date": "2026-04-22T06:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
+      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
+      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,6 +264,15 @@
       "is_scoop": true
     },
     {
+      "title": "[단독]'반대 시위' 12년 만에..전현무 첫 월드컵 중계, '사당귀'도 함께...",
+      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/22/2026042201410287705",
+      "pub_date": "2026-04-22T06:22:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 트럼프 \"휴전 연장\" 선언…이란 \"추가 협상 없다\"",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290007.html",
       "pub_date": "2026-04-22T06:22:00+09:00",
@@ -246,9 +282,9 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]'반대 시위' 12년 만에..전현무 첫 월드컵 중계, '사당귀'도 함께...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/22/2026042201410287705",
-      "pub_date": "2026-04-22T06:22:00+09:00",
+      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보제한 영향은?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542242&ref=A",
+      "pub_date": "2026-04-22T06:20:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
@@ -262,15 +298,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보제한 영향은?",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542242&ref=A",
-      "pub_date": "2026-04-22T06:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
@@ -1774,33 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "농협 강호동 \"정부와 쌀 수급안정에 총력…농가 소득 증대 최우선\"",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048058",
-      "pub_date": "2026-04-21T21:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보 제한 영향은?",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541979&ref=A",
-      "pub_date": "2026-04-21T21:29:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541978&ref=A",
-      "pub_date": "2026-04-21T21:27:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
