@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 07:05:29",
+  "updated": "2026-04-22 07:10:29",
   "total": 200,
   "items": [
     {
@@ -9,6 +9,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정·22일] 정도원 홍성원 '장남회사 부당지원' 삼표 경영...",
+      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=242121",
+      "pub_date": "2026-04-22T07:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
+      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
+      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
-      "link": "http://www.fnnews.com/news/202604212123060447",
-      "pub_date": "2026-04-21T21:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
