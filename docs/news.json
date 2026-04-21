@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 00:00:38",
+  "updated": "2026-04-22 00:05:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…휴전 연장은 원치 않아”",
+      "link": "https://www.munhwa.com/article/11583983?ref=naver",
+      "pub_date": "2026-04-22T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "연못 대신 수영장에 풍덩… 태극낭자 18人 '호수의 여인' 노린다",
+      "link": "https://www.ajunews.com/view/20260421091338470",
+      "pub_date": "2026-04-22T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
+      "pub_date": "2026-04-22T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 22일 운세 (띠별)",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569274",
+      "pub_date": "2026-04-22T00:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'김민혁 끝내기 포' KT, KIA 꺾고 선두 도약... LG는 단독 2위",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06632166645418416",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "강원특별자치도건축사회, ‘해체공사감리자 우선지정’ 반대 입장 표명",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150122500000",
-      "pub_date": "2026-04-21T17:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억원 수수' 권성동 의원 2심도 징역 4년 구형",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395347",
-      "pub_date": "2026-04-21T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[데일리픽] '빨라도 6개월' MLCC 품귀…이더리움 왜 이러나",
-      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658872",
-      "pub_date": "2026-04-21T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"중학생 때 나만 더 혼냈다\"…교사 흉기로 찌른 고교생, 구속 송치",
-      "link": "https://www.mt.co.kr/society/2026/04/21/2026042116522628792",
-      "pub_date": "2026-04-21T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
