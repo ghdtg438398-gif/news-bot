@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 21:00:36",
+  "updated": "2026-04-21 21:05:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]“미국·이란 모두 22일 아침 이슬라마바드 도착…2차 회담 열릴 ...",
+      "link": "https://www.munhwa.com/article/11583966?ref=naver",
+      "pub_date": "2026-04-21T21:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "(R)[TJB 여론조사②]충남지사 박수현 42.2% 김태흠 29.5%",
       "link": "https://www.tjb.co.kr/news05/bodo/view/id/97404",
@@ -66,20 +75,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
-      "link": "http://www.fnnews.com/news/202604212004375552",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
       "link": "https://www.hankyung.com/article/2026042170707",
       "pub_date": "2026-04-21T20:33:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
+      "link": "http://www.fnnews.com/news/202604212004375552",
+      "pub_date": "2026-04-21T20:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1787,15 +1796,6 @@
     {
       "title": "[자막뉴스] 복면 쓴 채 10살 딸 결박해놓고 \"장난이었다\" '황당 변명'…...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526661&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이용우 \"CU 물류센터 참변, 책임 명명백백히 밝혀야\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298598&inflow=N",
       "pub_date": "2026-04-21T16:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
