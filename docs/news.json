@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 05:00:43",
-  "total": 147,
+  "updated": "2026-04-22 05:05:33",
+  "total": 154,
   "items": [
+    {
+      "title": "[N2 포커스] 네이버, 사업·투자 '투트랙'으로 14억 거대 인도시장 공략",
+      "link": "https://www.news2day.co.kr/article/20260421500207",
+      "pub_date": "2026-04-22T05:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보][뉴욕증시] 종전 협상 차질 속 이틀째 하락…공포지수, 20 재돌파",
+      "link": "http://www.fnnews.com/news/202604220501475796",
+      "pub_date": "2026-04-22T05:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미-이란 협상 결렬, 미증시 일제 하락…S&P500 0.63%↓",
+      "link": "https://www.news1.kr/world/usa-canada/6144442",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
+      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
+      "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
+      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
       "link": "https://www.public25.com/news/articleView.html?idxno=44673",
@@ -9,6 +72,51 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[금융포커스]\"전환기, 중앙은행 역할 다시 물어야\" 신현송의 첫 메시지",
+      "link": "https://www.sidae.com/article/2026042110360622574",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미국 나비타스 반도체 16% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6144441",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[우보세] 분열의 데자뷔, 각자도생의 정치",
+      "link": "https://www.mt.co.kr/opinion/2026/04/22/2026042011421620162",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정]국회(4월22일 수요일)",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600847",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 국회일정] (22일, 수)",
+      "link": "https://www.news1.kr/politics/assembly/6144350",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1275,51 +1383,6 @@
       "title": "[단독]선박명 페인트로 지웠다…식별기 끄고 탈출 시도",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525255",
       "pub_date": "2026-04-21T19:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "경찰서 대기실서 사망 20대 피의자 텀블러서 ‘독극물’ 검출",
-      "link": "https://www.kyeonggi.com/article/20260421580549",
-      "pub_date": "2026-04-21T19:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
-      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 성평등부, ‘적극적 고용개선조치’ 여성정책연구원으로 이관 검...",
-      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
-      "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
