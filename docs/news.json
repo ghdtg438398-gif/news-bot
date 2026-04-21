@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 10:50:29",
+  "updated": "2026-04-21 10:55:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 경기 김포시 통진읍 공장 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577641",
+      "pub_date": "2026-04-21T10:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 \"한병도, 오늘 원내대표 사퇴 예정… 내달 6일 선거 예정\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270464",
+      "pub_date": "2026-04-21T10:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김포 통진읍 공장 화재 발생…주민 대피 안내, 차량 우회 권고",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864195",
+      "pub_date": "2026-04-21T10:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 송민호, 102일 '부실 복무' 인정…\"재복무 시켜주면 성실히 마칠...",
+      "link": "https://www.mhnse.com/news/articleView.html?idxno=531398",
+      "pub_date": "2026-04-21T10:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 다주택 양도세 중과, 5월 9일 신청까지 유예 확정",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604211049027154",
+      "pub_date": "2026-04-21T10:49:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'병역법 위반' 송민호 \"재복무 기회 달라\"…조울증·공황장애 고백도",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03440726645418416",
@@ -102,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김용 “김남국 또 전략공천은 특혜”…안산갑 ‘신경전’ 격화",
-      "link": "https://www.kyeonggi.com/article/20260421580088",
+      "title": "[속보]신현송 “국민께 심려 끼쳐 송구…총재 임무 수행으로 평가받겠다...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525145",
       "pub_date": "2026-04-21T10:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신현송 “국민께 심려 끼쳐 송구…총재 임무 수행으로 평가받겠다...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525145",
+      "title": "[속보] 김용 “김남국 또 전략공천은 특혜”…안산갑 ‘신경전’ 격화",
+      "link": "https://www.kyeonggi.com/article/20260421580088",
       "pub_date": "2026-04-21T10:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525144",
+      "title": "[속보] '와 대박' 오타니, 韓 최고 타자 따라잡았다! 52G 연속 출루→추...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553153220",
       "pub_date": "2026-04-21T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '와 대박' 오타니, 韓 최고 타자 따라잡았다! 52G 연속 출루→추...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553153220",
+      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525144",
       "pub_date": "2026-04-21T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -345,15 +390,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421066100002?input=1195m",
-      "pub_date": "2026-04-21T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "온코닉테라퓨틱스, '네수파립' 췌장암 치료 가능성 제시",
       "link": "https://www.kpinews.kr/newsView/1065576060362691",
       "pub_date": "2026-04-21T10:24:00+09:00",
@@ -372,20 +408,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421066100002?input=1195m",
+      "pub_date": "2026-04-21T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 검찰, ‘부실 복무 의혹’ 송민호 징역 1년 6개월 구형",
       "link": "https://www.mk.co.kr/article/12022583",
       "pub_date": "2026-04-21T10:23:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]오타니 미쳤다! 52G 연속 출루 성공→'亞 최다' 추신수와 어깨 나...",
-      "link": "https://www.sportschosun.com/baseball/2026-04-21/202604210100138790009022",
-      "pub_date": "2026-04-21T10:22:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -396,6 +432,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]오타니 미쳤다! 52G 연속 출루 성공→'亞 최다' 추신수와 어깨 나...",
+      "link": "https://www.sportschosun.com/baseball/2026-04-21/202604210100138790009022",
+      "pub_date": "2026-04-21T10:22:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1752,51 +1797,6 @@
       "title": "[속보] 코스닥 11.38p(0.97%) 오른 1186.23(개장)",
       "link": "https://www.etoday.co.kr/news/view/2577538",
       "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]원·달러 환율, 4.8원 내린 1472.4원 출발",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599438",
-      "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]4월 1~20일 수출 504달러…전년대비 49.4% 증가",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02899526645418416",
-      "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“숨은 단독을 찾아라”…랑펀미디어, AI 취재 지원 시스템 '누키' 출시",
-      "link": "https://www.etnews.com/20260420000436",
-      "pub_date": "2026-04-21T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 중동사태에도 1~20일 수출액·반도체 수출 동기 역대 최대",
-      "link": "https://www.news1.kr/local/daejeon-chungnam/6143183",
-      "pub_date": "2026-04-21T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 신고가 경신…119만6000원 돌파",
-      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042109005734778",
-      "pub_date": "2026-04-21T09:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
