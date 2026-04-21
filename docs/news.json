@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 18:20:27",
+  "updated": "2026-04-21 18:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "생후 19개월 딸 방치 숨지게 한 친모…첫째 딸도 학대 혐의",
+      "link": "https://www.newspim.com/news/view/20260421001330",
+      "pub_date": "2026-04-21T18:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
+      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
+      "pub_date": "2026-04-21T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
+      "pub_date": "2026-04-21T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 대통령 '엄정 감찰' 지시 수원지검 검사 퇴정, 대검 감찰위서 부...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526878&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T18:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "\"쌀값 안정에 총력\"…농협, 정부와 손잡고 농가 소득 지킨다",
       "link": "http://www.newsdream.kr/news/articleView.html?idxno=111536",
@@ -93,7 +129,7 @@
       "is_scoop": true
     },
     {
-      "title": "이란 국영TV \"이란 대표단, 아직 이슬라마바드 도착 안해\"…2차 협상 '먹...",
+      "title": "이란 국영TV \"이란 대표단·, 아직 이슬라마바드 도착 안해\"",
       "link": "https://www.ajunews.com/view/20260421173316618",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
@@ -102,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
-      "link": "http://www.fnnews.com/news/202604211525270741",
+      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
+      "link": "http://www.fnnews.com/news/202604211534245010",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +147,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
-      "link": "http://www.fnnews.com/news/202604211534245010",
+      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
+      "link": "http://www.fnnews.com/news/202604211525270741",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]원·달러 환율, 8.7원 내린 1468.5원 마감",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600337",
-      "pub_date": "2026-04-21T15:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600332",
-      "pub_date": "2026-04-21T15:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "토큰 증권도 내년 도입...디지털 금융 혁신 확산",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1365442",
-      "pub_date": "2026-04-21T15:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"BTS 월드투어 시기 악재\" 외신도 방시혁 영장 신청 주목",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04421446645418416",
-      "pub_date": "2026-04-21T15:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
