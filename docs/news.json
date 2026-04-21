@@ -1,21 +1,111 @@
 {
-  "updated": "2026-04-21 09:05:37",
-  "total": 177,
-  "breaking": 101,
+  "updated": "2026-04-21 09:10:01",
+  "total": 192,
+  "breaking": 113,
   "items": [
     {
-      "title": "[속보] 코스피, 중동전쟁 이후 첫 6300선 돌파...1.5% 강세",
-      "link": "http://www.metroseoul.co.kr/article/20260421500029",
-      "pub_date": "2026-04-21T09:04:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "title": "[속보] 코스피, 83.45포인트(1.34%) 오른 6302.54 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834251",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 양양 서면 산불 발생…입산 통제 속 주민·등산객 안전 주의",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864158",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 4월 1∼20일 수출 504억 달러, 49.4%↑…일평균 49.4%↑",
-      "link": "https://www.viva100.com/article/20260421500166",
-      "pub_date": "2026-04-21T09:04:00+09:00",
+      "link": "https://www.mk.co.kr/article/12022457",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 6330선 돌파… 사상 최고치 경신",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=717869",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6302.54(▲83.45p, 1.34%), 원·달러 환율 1472.4(▼4.8원) ...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189378",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥, 11.38포인트(0.97%) 오른 1186.23 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834253",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 이란 전쟁 이후 첫 6300선 돌파",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/21/2026042100052.html",
+      "pub_date": "2026-04-21T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 개장 직후 6300 돌파… 전쟁 직전 최고치 넘어서",
+      "link": "https://www.hankookilbo.com/news/article/A2026042108590002288?did=NA",
+      "pub_date": "2026-04-21T09:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 83.45p(1.34%) 오른 6302.54 출발",
+      "link": "https://magazine.hankyung.com/business/article/202604214836b",
+      "pub_date": "2026-04-21T09:06:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6300선 재탈환…1.34% 상승 출발",
+      "link": "https://news.jtbc.co.kr/article/NB12295100?influxDiv=NAVER",
+      "pub_date": "2026-04-21T09:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율, 4.8원 내린 1472.4원 출발",
+      "link": "http://www.fnnews.com/news/202604210904328610",
+      "pub_date": "2026-04-21T09:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 120만 원 돌파…사상 최고가 경신",
+      "link": "https://www.news1.kr/finance/general-stock/6143263",
+      "pub_date": "2026-04-21T09:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -31,12 +121,48 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 4월 1∼20일 수출 504억 달러, 49.4%↑…일평균 49.4%↑",
+      "link": "https://www.viva100.com/article/20260421500166",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스닥 1186.23…0.97% 상승 출발",
+      "link": "https://www.sidae.com/article/2026042108592750165",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 중동전쟁 이후 첫 6300선 돌파...1.5% 강세",
+      "link": "http://www.metroseoul.co.kr/article/20260421500029",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 원·달러 환율,4.8원 내린 1472.4원 개장",
       "link": "https://biz.chosun.com/policy/policy_sub/2026/04/21/7YM3QZXCVBE5HBXHIKHNAELSTA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-21T09:04:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'KLPGA 우승 김민선, 세계랭킹 87위로 껑충...윤이나 15계단 뛰어",
+      "link": "https://www.newspim.com/news/view/20260421000206",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -49,8 +175,26 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 4월 1∼20일 수출 504억 달러, 49.4%↑…일평균 49.4%↑",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305582?division=NAVER",
+      "title": "'장난삼아' 복면 쓰고 의붓딸 손 묶은 외국인 아빠 집유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525918&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "복지부, 치료재료 수가 2% 인상…중동전쟁발 기업 비용 부담 완화",
+      "link": "https://www.newspim.com/news/view/20260421000165",
+      "pub_date": "2026-04-21T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6302.54…1.34% 상승 출발",
+      "link": "https://www.sidae.com/article/2026042108583657432",
       "pub_date": "2026-04-21T09:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -58,8 +202,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6302.54…1.34% 상승 출발",
-      "link": "https://www.sidae.com/article/2026042108583657432",
+      "title": "[속보] 4월 1∼20일 수출 504억 달러, 49.4%↑…일평균 49.4%↑",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305582?division=NAVER",
       "pub_date": "2026-04-21T09:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -82,6 +226,42 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
+      "pub_date": "2026-04-21T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
+      "link": "https://www.news1.kr/industry/general-industry/6142727",
+      "pub_date": "2026-04-21T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
+      "link": "https://www.news2day.co.kr/article/20260421500052",
+      "pub_date": "2026-04-21T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
+      "pub_date": "2026-04-21T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -121,40 +301,13 @@
       "is_scoop": false
     },
     {
-      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
-      "pub_date": "2026-04-21T09:02:00+09:00",
+      "title": "“숨은 단독을 찾아라”…랑펀미디어, AI 취재 지원 시스템 '누키' 출시",
+      "link": "https://www.etnews.com/20260420000436",
+      "pub_date": "2026-04-21T09:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
-      "link": "https://www.news2day.co.kr/article/20260421500052",
-      "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
-      "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
-      "link": "https://www.news1.kr/industry/general-industry/6142727",
-      "pub_date": "2026-04-21T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[속보] 중동사태에도 1~20일 수출액·반도체 수출 동기 역대 최대",
@@ -202,9 +355,18 @@
       "is_scoop": false
     },
     {
-      "title": "“숨은 단독을 찾아라”…랑펀미디어, AI 취재 지원 시스템 '누키' 출시",
-      "link": "https://www.etnews.com/20260420000436",
-      "pub_date": "2026-04-21T09:01:00+09:00",
+      "title": "[단독] 국세청, 서울유니온약품 계열사도 특별세무조사…'불법 리베이트...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28058",
+      "pub_date": "2026-04-21T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]LA다운타운서 강도, 방화까지 당한 80대 한인 남성 결국 숨져",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493630",
+      "pub_date": "2026-04-21T09:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -236,24 +398,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 국세청, 서울유니온약품 계열사도 특별세무조사…'불법 리베이트...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28058",
-      "pub_date": "2026-04-21T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]LA다운타운서 강도, 방화까지 당한 한인 남성 결국 숨져",
-      "link": "https://www.radiokorea.com/news/article.php?uid=493630",
-      "pub_date": "2026-04-21T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[N2단독] 민주당 광주 서구 가선거구 예비후보 이기성 선거사무소에 현...",
@@ -1586,15 +1730,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 대구 군위군 산불 발생 \"주민 주의\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3561957",
-      "pub_date": "2026-04-20T23:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
