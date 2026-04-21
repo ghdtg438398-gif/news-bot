@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 16:15:30",
+  "updated": "2026-04-21 16:20:28",
   "total": 200,
   "items": [
+    {
+      "title": "계룡서 교사에 흉기 휘두른 고등학생, 구속 송치…교사는 입원중",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=733584",
+      "pub_date": "2026-04-21T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
       "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
@@ -255,20 +264,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
-      "link": "https://magazine.hankyung.com/business/article/202604216299b",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
       "pub_date": "2026-04-21T15:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
+      "link": "https://magazine.hankyung.com/business/article/202604216299b",
+      "pub_date": "2026-04-21T15:50:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -336,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피 6388.47에 장 마감…종가 기준 사상 최고치",
-      "link": "https://www.nocutnews.co.kr/news/6505796?utm_source=naver&utm_medium=article&utm_campaign=20260421034230",
+      "title": "[속보] 코스피 사상 최고치 경신…이란전 악재 넘었다",
+      "link": "https://www.pressian.com/pages/articles/2026042115423039778?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-21T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -345,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 사상 최고치 경신…이란전 악재 넘었다",
-      "link": "https://www.pressian.com/pages/articles/2026042115423039778?utm_source=naver&utm_medium=search",
+      "title": "[속보]코스피 6388.47에 장 마감…종가 기준 사상 최고치",
+      "link": "https://www.nocutnews.co.kr/news/6505796?utm_source=naver&utm_medium=article&utm_campaign=20260421034230",
       "pub_date": "2026-04-21T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,6 +399,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
+      "pub_date": "2026-04-21T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]'사상 첫 6,400선 보인다' 코스피 2.72%↑...6,388.47 마감",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604210042",
       "pub_date": "2026-04-21T15:40:00+09:00",
@@ -401,15 +419,6 @@
     {
       "title": "[속보] 코스닥, 4.18포인트(0.36%) 오른 1179.03 마감",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834362",
-      "pub_date": "2026-04-21T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
       "pub_date": "2026-04-21T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -471,21 +480,21 @@
       "is_scoop": false
     },
     {
-      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
-      "link": "http://www.breaknews.com/1201921",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
       "link": "http://www.breaknews.com/1201938",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
+      "link": "http://www.breaknews.com/1201921",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
-      "pub_date": "2026-04-21T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
