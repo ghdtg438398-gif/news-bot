@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 14:55:30",
+  "updated": "2026-04-21 15:00:42",
   "total": 200,
   "items": [
+    {
+      "title": "의료 AX는 국가적 과제…병원과 정부, 동시에 응답해야",
+      "link": "https://www.mk.co.kr/article/12022890",
+      "pub_date": "2026-04-21T14:58:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희 여사, '쥴리 의혹' 재판 불출석… 과태료 300만원",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421505&PRO_CODE=99",
+      "pub_date": "2026-04-21T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "LG유플러스, 월드IT쇼 첫 단독 전시…'사람 중심 보이스 AI' 강조",
       "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201088",
@@ -30,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
+      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +57,8 @@
       "is_scoop": false
     },
     {
-      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
+      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,15 +84,6 @@
       "is_scoop": false
     },
     {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
       "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
       "pub_date": "2026-04-21T14:42:00+09:00",
@@ -89,6 +98,15 @@
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
+      "pub_date": "2026-04-21T14:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -174,7 +192,7 @@
       "is_scoop": false
     },
     {
-      "title": "CU 원청교섭 집회 사망사고로 긴장 고조, 화물연대·민주노총 BGF 규탄",
+      "title": "CU 운영 BGF리테일 원청교섭 집회 사망사고로 긴장 고조, 화물연대·민주...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436163",
       "pub_date": "2026-04-21T14:34:00+09:00",
       "source_id": "yna",
@@ -282,21 +300,21 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총, '화물연대 조합원 사상' 관련 긴급 기자회견",
-      "link": "https://www.nocutnews.co.kr/news/6505707?utm_source=naver&utm_medium=article&utm_campaign=20260421022528",
-      "pub_date": "2026-04-21T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
       "link": "https://www.nocutnews.co.kr/news/6505706?utm_source=naver&utm_medium=article&utm_campaign=20260421022529",
       "pub_date": "2026-04-21T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상' 관련 긴급 기자회견",
+      "link": "https://www.nocutnews.co.kr/news/6505707?utm_source=naver&utm_medium=article&utm_campaign=20260421022528",
+      "pub_date": "2026-04-21T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -327,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
-      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
+      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
+      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
+      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -381,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
+      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
+      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,8 +480,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한병도, 원내대표직 사임으로 '연임 도전' 공식화",
-      "link": "http://www.inews24.com/view/1962117",
+      "title": "[속보]與 한병도, 원내대표 연임 도전 공식화…\"앞으로 해야 할 일 더 많...",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600125",
       "pub_date": "2026-04-21T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -471,8 +489,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]與 한병도, 원내대표 연임 도전 공식화…\"앞으로 해야 할 일 더 많...",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600125",
+      "title": "[속보] 한병도, 원내대표직 사임으로 '연임 도전' 공식화",
+      "link": "http://www.inews24.com/view/1962117",
       "pub_date": "2026-04-21T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -543,15 +561,6 @@
       "is_scoop": false
     },
     {
-      "title": "이스타항공, 부산-알마티 취항 기념 프로모션 진행",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85862",
-      "pub_date": "2026-04-21T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
       "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
       "pub_date": "2026-04-21T14:08:00+09:00",
@@ -559,6 +568,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "이스타항공, 부산-알마티 취항 기념 프로모션 진행",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85862",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[오늘의 게임·IT 소식] 비댁스-위메이드, 스테이블코인 결제 표준 모델...",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장 구속영장 신청...‘2천억대 부당이득...",
-      "link": "https://www.kyeonggi.com/article/20260421580124",
-      "pub_date": "2026-04-21T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 천안 독립기념관IC 인근 사고…고속도로 진입 통제에 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864201",
-      "pub_date": "2026-04-21T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
