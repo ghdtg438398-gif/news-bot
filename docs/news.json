@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 20:10:29",
+  "updated": "2026-04-21 20:15:32",
   "total": 200,
   "items": [
+    {
+      "title": "방미심위, '파우치 해명' KBS에 '관계자징계' 예고?",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333933",
+      "pub_date": "2026-04-21T20:14:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 막히자 인천항도 비상…중고차 수출 지원책 가동",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521880",
+      "pub_date": "2026-04-21T20:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "방미심위 방송심의 1호 KBS 박장범의 '조그마한 파우치'",
       "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316781",
@@ -1783,24 +1801,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "한병도, 현직 원대 첫 연임 도전…힘 받는 '추대론'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298594&inflow=N",
-      "pub_date": "2026-04-21T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "아이브 가을, ‘2026 책 읽는 대한민국’ 캠페인 파트너 발탁..의미 있는...",
-      "link": "http://www.breaknews.com/1201973",
-      "pub_date": "2026-04-21T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
