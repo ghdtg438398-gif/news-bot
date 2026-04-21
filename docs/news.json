@@ -1,9 +1,36 @@
 {
-  "updated": "2026-04-22 05:55:28",
-  "total": 184,
+  "updated": "2026-04-22 06:00:40",
+  "total": 185,
   "items": [
     {
-      "title": "[속보] 트럼프 “이란 정부 심각한 분열…파키스탄 요청에 휴전 연장”",
+      "title": "[속보] 트럼프 \"이란 지도부-협상단 통일 협상안 낼 때까지 휴전 연장\"",
+      "link": "https://www.pressian.com/pages/articles/2026042205574953861?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T05:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “휴전 연장” 선언…이란 “추가 협상 없다”",
+      "link": "https://www.munhwa.com/article/11583991?ref=naver",
+      "pub_date": "2026-04-22T05:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH202604220555242WQ",
+      "pub_date": "2026-04-22T05:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “휴전 연장”…이란 분열에 협상 또 멈췄다",
       "link": "https://www.segye.com/newsView/20260422501714?OutUrl=naver",
       "pub_date": "2026-04-22T05:51:00+09:00",
       "source_id": "yna",
@@ -57,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
+      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
-      "link": "https://www.sidae.com/article/2026042205301456205",
+      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
+      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
       "pub_date": "2026-04-22T05:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
-      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
+      "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
+      "link": "https://www.sidae.com/article/2026042205301456205",
       "pub_date": "2026-04-22T05:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
       "link": "https://www.news1.kr/realestate/general/6144187",
       "pub_date": "2026-04-22T05:20:00+09:00",
@@ -217,6 +235,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
@@ -462,15 +489,6 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
-      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
-      "pub_date": "2026-04-22T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
       "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
@@ -482,6 +500,15 @@
     {
       "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
       "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
+      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1637,24 +1664,6 @@
       "pub_date": "2026-04-21T20:06:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 영월 영흥리 산불 발생…주민 대피 대비 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864271",
-      "pub_date": "2026-04-21T20:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "불 탄 주택 마당서 숨진 70대 장모…방화 용의자 사위도 숨진 채 발견",
-      "link": "https://www.mt.co.kr/society/2026/04/21/2026042119330118628",
-      "pub_date": "2026-04-21T19:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
