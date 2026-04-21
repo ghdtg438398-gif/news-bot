@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>미국 주식 뉴스</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #1a1a1a; }
+  .header { background: #fff; border-bottom: 1px solid #e5e5e5; padding: 14px 20px; position: sticky; top: 0; z-index: 10; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px; }
+  .header-left { display: flex; align-items: center; gap: 10px; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; background: #2563eb; animation: pulse 1.5s infinite; }
+  @keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.3} }
+  .title { font-size: 16px; font-weight: 600; }
+  .nav-link { font-size: 12px; color: #2563eb; text-decoration: none; padding: 4px 10px; border: 1px solid #dbeafe; border-radius: 20px; }
+  .nav-link:hover { background: #eff6ff; }
+  .updated { font-size: 12px; color: #888; }
+  .stats { display: flex; gap: 16px; align-items: center; }
+  .stat { text-align: center; }
+  .stat-val { font-size: 18px; font-weight: 600; line-height: 1; }
+  .stat-label { font-size: 10px; color: #888; margin-top: 2px; }
+  .filters { background: #fff; padding: 10px 20px; border-bottom: 1px solid #e5e5e5; display: flex; gap: 6px; flex-wrap: wrap; }
+  .badge { font-size: 12px; padding: 4px 10px; border-radius: 20px; border: 1px solid #ddd; cursor: pointer; color: #555; background: #fff; transition: all 0.15s; user-select: none; }
+  .badge:hover { border-color: #aaa; }
+  .badge.active { background: #1a1a1a; color: #fff; border-color: #1a1a1a; }
+  .container { max-width: 900px; margin: 0 auto; padding: 16px; }
+  .news-list { display: flex; flex-direction: column; gap: 8px; }
+  .news-item { background: #fff; border: 1px solid #e5e5e5; border-radius: 10px; padding: 12px 16px; text-decoration: none; color: inherit; transition: border-color 0.15s, box-shadow 0.15s; display: block; }
+  .news-item:hover { border-color: #bbb; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+  .news-top { display: flex; gap: 10px; align-items: flex-start; margin-bottom: 6px; }
+  .source-tag { font-size: 10px; font-weight: 600; padding: 2px 7px; border-radius: 4px; white-space: nowrap; flex-shrink: 0; margin-top: 2px; }
+  .src-bloomberg { background: #000; color: #fff; }
+  .src-reuters { background: #ff6200; color: #fff; }
+  .src-cnbc { background: #005594; color: #fff; }
+  .src-cnn { background: #c00; color: #fff; }
+  .src-seeking_alpha { background: #1c3553; color: #fff; }
+  .src-marketwatch { background: #006f52; color: #fff; }
+  .src-wsj { background: #004276; color: #fff; }
+  .src-other { background: #555; color: #fff; }
+  .news-title-en { font-size: 13px; font-weight: 500; line-height: 1.45; color: #1a1a1a; }
+  .news-title-ko { font-size: 12px; line-height: 1.45; color: #555; margin-top: 3px; font-style: italic; }
+  .news-footer { display: flex; align-items: center; gap: 8px; margin-top: 4px; }
+  .news-time { font-size: 11px; color: #999; }
+  .news-summary { font-size: 12px; color: #666; line-height: 1.5; margin-top: 6px; border-top: 1px solid #f0f0f0; padding-top: 6px; }
+  .ticker-tag { font-size: 10px; font-weight: 600; color: #2563eb; background: #eff6ff; padding: 1px 5px; border-radius: 3px; }
+  .refresh-btn { font-size: 12px; padding: 5px 12px; border-radius: 6px; border: 1px solid #ddd; cursor: pointer; background: #fff; color: #333; }
+  .refresh-btn:hover { background: #f5f5f5; }
+  .countdown { font-size: 12px; color: #888; }
+  .empty { text-align: center; padding: 4rem; color: #999; font-size: 14px; }
+  .loading { text-align: center; padding: 3rem; color: #999; font-size: 13px; }
+  .spinner { display: inline-block; width: 20px; height: 20px; border: 2px solid #ddd; border-top-color: #2563eb; border-radius: 50%; animation: spin 0.8s linear infinite; margin-bottom: 8px; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .translate-btn { font-size: 10px; color: #2563eb; cursor: pointer; border: none; background: none; padding: 0; text-decoration: underline; }
+  @media (max-width: 600px) {
+    .header { padding: 10px 14px; }
+    .container { padding: 10px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <div class="header-left">
+    <div class="dot"></div>
+    <span class="title">🇺🇸 미국 주식 뉴스</span>
+    <span class="updated" id="updated-time"></span>
+  </div>
+  <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+    <a href="index.html" class="nav-link">🇰🇷 속보 대시보드</a>
+    <div class="stats">
+      <div class="stat"><div class="stat-val" id="s-total">—</div><div class="stat-label">총 기사</div></div>
+    </div>
+    <span class="countdown" id="countdown"></span>
+    <button class="refresh-btn" onclick="loadNews()">↻</button>
+  </div>
+</div>
+
+<div class="filters">
+  <span class="badge active" data-src="all">전체</span>
+  <span class="badge" data-src="bloomberg">Bloomberg</span>
+  <span class="badge" data-src="reuters">Reuters</span>
+  <span class="badge" data-src="cnbc">CNBC</span>
+  <span class="badge" data-src="cnn">CNN</span>
+  <span class="badge" data-src="seeking_alpha">Seeking Alpha</span>
+  <span class="badge" data-src="marketwatch">MarketWatch</span>
+  <span class="badge" data-src="wsj">WSJ</span>
+  <span class="badge" data-src="other">기타</span>
+</div>
+
+<div class="container">
+  <div class="news-list" id="news-list">
+    <div class="loading"><div class="spinner"></div><br>뉴스 불러오는 중...</div>
+  </div>
+</div>
+
+<script>
+const FINNHUB_KEY = 'd7jcsv1r01qp3g1sn7ogd7jcsv1r01qp3g1sn7p0';
+
+let allItems = [];
+let activeFilter = 'all';
+let countdown = 300;
+let cdTimer;
+
+const SOURCE_MAP = {
+  'Bloomberg': 'bloomberg',
+  'Reuters': 'reuters',
+  'CNBC': 'cnbc',
+  'CNN': 'cnn',
+  'CNN Business': 'cnn',
+  'Seeking Alpha': 'seeking_alpha',
+  'MarketWatch': 'marketwatch',
+  'The Wall Street Journal': 'wsj',
+  'WSJ': 'wsj',
+};
+
+function detectSource(src) {
+  if (!src) return 'other';
+  for (const [k, v] of Object.entries(SOURCE_MAP)) {
+    if (src.toLowerCase().includes(k.toLowerCase())) return v;
+  }
+  return 'other';
+}
+
+function sourceLabel(src) {
+  const labels = {
+    bloomberg: 'Bloomberg', reuters: 'Reuters', cnbc: 'CNBC',
+    cnn: 'CNN', seeking_alpha: 'Seeking Alpha', marketwatch: 'MarketWatch',
+    wsj: 'WSJ', other: '기타'
+  };
+  return labels[src] || src;
+}
+
+function timeAgo(ts) {
+  const d = Math.floor((Date.now() - ts * 1000) / 60000);
+  if (d < 1) return '방금 전';
+  if (d < 60) return d + '분 전';
+  const h = Math.floor(d / 60);
+  if (h < 24) return h + '시간 전';
+  return Math.floor(h / 24) + '일 전';
+}
+
+async function translateText(text) {
+  try {
+    const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=ko&dt=t&q=${encodeURIComponent(text)}`;
+    const res = await fetch(url);
+    const data = await res.json();
+    return data[0].map(i => i[0]).join('');
+  } catch(e) {
+    return null;
+  }
+}
+
+function render() {
+  const list = document.getElementById('news-list');
+  let items = allItems;
+  if (activeFilter !== 'all') items = items.filter(i => i.source === activeFilter);
+
+  document.getElementById('s-total').textContent = allItems.length;
+
+  if (!items.length) {
+    list.innerHTML = '<div class="empty">표시할 뉴스가 없습니다</div>';
+    return;
+  }
+
+  list.innerHTML = items.map((item, idx) => `
+    <a class="news-item" href="${item.url}" target="_blank" rel="noopener">
+      <div class="news-top">
+        <span class="source-tag src-${item.source}">${sourceLabel(item.source)}</span>
+        <div style="flex:1;min-width:0">
+          <div class="news-title-en">${item.headline}</div>
+          ${item.translated ? `<div class="news-title-ko">▶ ${item.translated}</div>` : `<div style="margin-top:3px"><button class="translate-btn" onclick="event.preventDefault();doTranslate(${idx}, this)">한국어 번역 보기</button></div>`}
+        </div>
+      </div>
+      <div class="news-footer">
+        ${item.related ? item.related.split(',').slice(0,3).map(t=>`<span class="ticker-tag">$${t.trim()}</span>`).join('') : ''}
+        <span class="news-time">${timeAgo(item.datetime)}</span>
+        <span style="font-size:11px;color:#bbb">${item.sourceName||''}</span>
+      </div>
+      ${item.summary ? `<div class="news-summary">${item.summary.slice(0,120)}${item.summary.length>120?'...':''}</div>` : ''}
+    </a>`).join('');
+}
+
+async function doTranslate(idx, btn) {
+  btn.textContent = '번역 중...';
+  btn.disabled = true;
+  const translated = await translateText(allItems[idx].headline);
+  if (translated) {
+    allItems[idx].translated = translated;
+    render();
+  } else {
+    btn.textContent = '번역 실패';
+  }
+}
+
+async function loadNews() {
+  document.getElementById('news-list').innerHTML = '<div class="loading"><div class="spinner"></div><br>뉴스 불러오는 중...</div>';
+
+  try {
+    const cutoff = Math.floor(Date.now()/1000) - 3600;
+    const res = await fetch(`https://finnhub.io/api/v1/news?category=general&minId=0&token=${FINNHUB_KEY}`);
+    const data = await res.json();
+
+    allItems = data
+      .filter(i => i.datetime > cutoff)
+      .map(i => ({
+        ...i,
+        source: detectSource(i.source),
+        sourceName: i.source,
+        translated: null,
+      }))
+      .sort((a, b) => b.datetime - a.datetime)
+      .slice(0, 100);
+
+    // 상위 10개 자동 번역
+    const top10 = allItems.slice(0, 10);
+    await Promise.all(top10.map(async (item, idx) => {
+      const t = await translateText(item.headline);
+      if (t) allItems[idx].translated = t;
+    }));
+
+    const now = new Date();
+    document.getElementById('updated-time').textContent =
+      `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')} 업데이트`;
+
+    render();
+    resetCountdown();
+  } catch(e) {
+    document.getElementById('news-list').innerHTML = '<div class="empty">뉴스를 불러올 수 없습니다.<br>잠시 후 다시 시도해주세요.</div>';
+  }
+}
+
+function resetCountdown() {
+  clearInterval(cdTimer);
+  countdown = 300;
+  cdTimer = setInterval(() => {
+    countdown--;
+    const m = Math.floor(countdown/60), s = countdown%60;
+    document.getElementById('countdown').textContent = `${m}:${String(s).padStart(2,'0')} 후 갱신`;
+    if (countdown <= 0) loadNews();
+  }, 1000);
+}
+
+document.querySelectorAll('.badge').forEach(b => {
+  b.addEventListener('click', () => {
+    document.querySelectorAll('.badge').forEach(x => x.classList.remove('active'));
+    b.classList.add('active');
+    activeFilter = b.dataset.src;
+    render();
+  });
+});
+
+loadNews();
+</script>
+</body>
+</html>
