@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 01:20:33",
+  "updated": "2026-04-22 01:25:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 밴스 미 부통령, 2차 협상 위해 아직 출국 안 해\" <로이터>",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422011814gzT",
+      "pub_date": "2026-04-22T01:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 밴스 부통령, 회담 위해 이란으로 떠나지 않아",
       "link": "http://www.fnnews.com/news/202604220112267398",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "검찰, 소녀상 모욕에 항의한 활동가에 벌금 70만원 구형",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298620&inflow=N",
-      "pub_date": "2026-04-21T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
