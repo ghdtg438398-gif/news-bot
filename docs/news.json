@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 15:00:42",
+  "updated": "2026-04-21 15:05:27",
   "total": 200,
   "items": [
+    {
+      "title": "이즈나(izna) 방지민, 데뷔 첫 단독 화보 공개..‘글로벌 젠지 추구미’...",
+      "link": "http://www.breaknews.com/1201946",
+      "pub_date": "2026-04-21T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "트와이스 사나, 청량한 여신미모[뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211502311310",
+      "pub_date": "2026-04-21T15:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "다주택자 매물 효과에 선행지표 '토허 신청'은 서울 집값 하락까지 예고",
+      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316974",
+      "pub_date": "2026-04-21T15:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "수원시, 육아기·초등 돌봄 위한 공적 울타리 강화",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838464",
+      "pub_date": "2026-04-21T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
+      "pub_date": "2026-04-21T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
+      "pub_date": "2026-04-21T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "의료 AX는 국가적 과제…병원과 정부, 동시에 응답해야",
       "link": "https://www.mk.co.kr/article/12022890",
@@ -84,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
+      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
+      "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,15 +489,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 네이버, 'AI 탭' 먼저 띄우고 에이전트 붙인다…검색 패러다임 A...",
-      "link": "https://www.ajunews.com/view/20260421135946003",
-      "pub_date": "2026-04-21T14:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "사회복지시설 113명 대피…양양 산불, 일사불란 대응으로 초동 진화",
       "link": "https://www.nocutnews.co.kr/news/6505702?utm_source=naver&utm_medium=article&utm_campaign=20260421021728",
       "pub_date": "2026-04-21T14:18:00+09:00",
@@ -451,6 +496,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 네이버, 'AI 탭' 먼저 띄우고 에이전트 붙인다…검색 패러다임 A...",
+      "link": "https://www.ajunews.com/view/20260421135946003",
+      "pub_date": "2026-04-21T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 한병도 원내대표직 사퇴…연임 도전",
@@ -498,8 +552,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오토 뉴스브리핑] 기아, 장애인의 날 맞아 ‘PV5 WAV’ 연계 프로그램 ...",
-      "link": "https://www.asiatime.co.kr/article/20260421500271",
+      "title": "車보험, 평균 보험료 68만원…고유가에 '보장 넓히고 보험료 줄이고'",
+      "link": "https://news.mtn.co.kr/news-detail/2026042113545390255",
       "pub_date": "2026-04-21T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +561,8 @@
       "is_scoop": false
     },
     {
-      "title": "車보험, 평균 보험료 68만원…고유가에 '보장 넓히고 보험료 줄이고'",
-      "link": "https://news.mtn.co.kr/news-detail/2026042113545390255",
+      "title": "[오토 뉴스브리핑] 기아, 장애인의 날 맞아 ‘PV5 WAV’ 연계 프로그램 ...",
+      "link": "https://www.asiatime.co.kr/article/20260421500271",
       "pub_date": "2026-04-21T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[#부동산 나들이] GS '인도 재생에너지 공략'·'미리내집' 441세대 모집·...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838441",
-      "pub_date": "2026-04-21T11:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[6·3 재보선] 인천 연수갑, 송영길 변수 속 고남석·박남춘 민주당 경선...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729050",
-      "pub_date": "2026-04-21T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "DAY6, 싱가포르서 터트린 10년의 저력…월드투어 'The DECADE' 순항",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613253",
-      "pub_date": "2026-04-21T11:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
-      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
-      "pub_date": "2026-04-21T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미국 중국의 해군 역량 대응에 한국과 협력 중요성 부각, \"조선업 역량 ...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436157",
-      "pub_date": "2026-04-21T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
-      "pub_date": "2026-04-21T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
