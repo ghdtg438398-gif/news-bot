@@ -1,11 +1,38 @@
 {
-  "updated": "2026-04-22 07:15:30",
+  "updated": "2026-04-22 07:20:35",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 대구 팔공산 산불 발생...산림당국 진화 중",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
-      "pub_date": "2026-04-22T07:12:00+09:00",
+      "title": "[속보] 대구 팔공산서 산불…헬기 6대 투입해 진화 중",
+      "link": "https://www.imaeil.com/page/view/2026042207180539244",
+      "pub_date": "2026-04-22T07:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 휴전 연장, 지수 선물 일제 랠리…나스닥 0.50%↑",
+      "link": "https://www.hankyung.com/article/2026042274157",
+      "pub_date": "2026-04-22T07:18:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대구 팔공산 산불 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577854",
+      "pub_date": "2026-04-22T07:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 휴전 연장, 지수 선물 일제 랠리…나스닥 0.50%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6144470",
+      "pub_date": "2026-04-22T07:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -14,6 +41,15 @@
     {
       "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "pub_date": "2026-04-22T07:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
+      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
+      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란과 훌륭한 합의하게 될 것\"",
-      "link": "https://view.asiae.co.kr/article/2026042121394238436",
-      "pub_date": "2026-04-21T21:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527182&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T21:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421174700071?input=1195m",
-      "pub_date": "2026-04-21T21:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스공감] 안갯속 종전협상...트럼프는 왜 날짜를 바꿨나",
-      "link": "https://news.cpbc.co.kr/article/1172354?division=NAVER",
-      "pub_date": "2026-04-21T21:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
