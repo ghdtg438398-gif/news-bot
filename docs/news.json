@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 10:25:32",
+  "updated": "2026-04-21 10:26:48",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421066100002?input=1195m",
+      "pub_date": "2026-04-21T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "온코닉테라퓨틱스, '네수파립' 췌장암 치료 가능성 제시",
+      "link": "https://www.kpinews.kr/newsView/1065576060362691",
+      "pub_date": "2026-04-21T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "고양시 일산서구보건소 AI스피커 대여",
       "link": "https://www.joongdo.co.kr/web/view.php?key=20260421010006384",
@@ -147,6 +165,15 @@
       "is_scoop": false
     },
     {
+      "title": "고속도로 비우고 2만 명 배치…파키스탄, 이란 설득 총력",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541352&ref=A",
+      "pub_date": "2026-04-21T10:15:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]'부실 복무 의혹' 송민호, 첫 재판 출석…\"깊이 반성, 성실히 재판...",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811737",
       "pub_date": "2026-04-21T10:14:00+09:00",
@@ -264,15 +291,6 @@
       "is_scoop": false
     },
     {
-      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
-      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
       "pub_date": "2026-04-21T10:04:00+09:00",
@@ -280,6 +298,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
+      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
@@ -463,7 +490,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866688",
+      "link": "https://www.news1.kr/photos/7866689",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -472,7 +499,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866689",
+      "link": "https://www.news1.kr/photos/7866688",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 휴전 만료 앞두고 “이란 새 지도부 현명하다면 번영의 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150001600000",
-      "pub_date": "2026-04-21T07:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 “팀쿡, 9월 CEO에서 물러나…이사회 의장으로”",
-      "link": "https://www.etnews.com/20260421000007",
-      "pub_date": "2026-04-21T07:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 집회 중 3명 사상…전담수사팀 꾸려 진상 조사",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189338",
-      "pub_date": "2026-04-21T07:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
