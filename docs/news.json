@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 23:45:34",
+  "updated": "2026-04-21 23:50:38",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]뉴욕증시 일제히 상승…트럼프 \"이란과 큰 합의할 것\"",
+      "link": "https://news.mtn.co.kr/news-detail/2026042123464150864",
+      "pub_date": "2026-04-21T23:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[오늘의 KBO] 디펜딩챔피언 LG, 한화 잡고 단독 2위 올라",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1366504",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6388…전쟁 파고에도 역대 최고치 또 갈아치워",
-      "link": "https://www.hani.co.kr/arti/economy/finance/1255207.html",
-      "pub_date": "2026-04-21T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
