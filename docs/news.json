@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-21 10:26:48",
+  "updated": "2026-04-21 10:30:34",
   "total": 200,
   "items": [
+    {
+      "title": "\"日국민, 헌법 자위대 명기에 찬성 59% 반대 31%\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305630?division=NAVER",
+      "pub_date": "2026-04-21T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'부실복무' 송민호 징역 1년 6개월 구형..\"공황장애 핑계 NO, 재복무 원한...",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042110101843426",
+      "pub_date": "2026-04-21T10:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, '부실 복무' 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811755",
+      "pub_date": "2026-04-21T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 사상 첫 6360선 돌파...6400선 넘을까",
+      "link": "http://www.fnnews.com/news/202604211026375962",
+      "pub_date": "2026-04-21T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"북중미 월드컵, KBS에서도 본다\"…JTBC와 공동중계 합의",
+      "link": "https://www.nocutnews.co.kr/news/6505514?utm_source=naver&utm_medium=article&utm_campaign=20260421102626",
+      "pub_date": "2026-04-21T10:27:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"일본인 10명 중 6명, 헌법 자위대 명기 찬성\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604211026472g3",
+      "pub_date": "2026-04-21T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신현송 “인사청문 과정서 국민께 심려 끼쳐 송구”",
+      "link": "https://www.joongang.co.kr/article/25421920",
+      "pub_date": "2026-04-21T10:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
       "link": "https://www.yna.co.kr/view/AKR20260421066100002?input=1195m",
@@ -57,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525141",
-      "pub_date": "2026-04-21T10:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 송민호, '병역법 위반' 첫 공판 출석…\"반성하고 있다\" 사과",
       "link": "https://www.xportsnews.com/article/2139399",
       "pub_date": "2026-04-21T10:21:00+09:00",
@@ -81,6 +135,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525141",
+      "pub_date": "2026-04-21T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -246,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
+      "title": "'무단결근 혐의' 위너 송민호, 첫 재판 출석 \"깊이 반성\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562204",
       "pub_date": "2026-04-21T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "'무단결근 혐의' 위너 송민호, 첫 재판 출석 \"깊이 반성\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562204",
+      "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
       "pub_date": "2026-04-21T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,15 +354,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
       "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
       "pub_date": "2026-04-21T10:04:00+09:00",
@@ -307,6 +361,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
@@ -490,7 +553,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866689",
+      "link": "https://www.news1.kr/photos/7866688",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -499,7 +562,7 @@
     },
     {
       "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
-      "link": "https://www.news1.kr/photos/7866688",
+      "link": "https://www.news1.kr/photos/7866689",
       "pub_date": "2026-04-21T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신장식 \"유의동, 조국 평택 몰라? 본인은 3선하며 뭐했나?\"[한판승부]",
-      "link": "https://www.nocutnews.co.kr/news/6505338?utm_source=naver&utm_medium=article&utm_campaign=20260421080025",
-      "pub_date": "2026-04-21T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "성남시, 단독·다가구주택 1093곳 '상세주소' 부여…'안전·편의' 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513326",
-      "pub_date": "2026-04-21T08:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[전국 주요 신문 톱뉴스](21일 조간)",
-      "link": "https://www.yna.co.kr/view/AKR20260421017700011?input=1195m",
-      "pub_date": "2026-04-21T08:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 비트코인 3% 상승, 7만6000달러 회복",
-      "link": "https://www.news1.kr/world/usa-canada/6143091",
-      "pub_date": "2026-04-21T07:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 다카이치 총리, 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190043.html",
-      "pub_date": "2026-04-21T07:51:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "2.5t 화물차 막던 조합원 사망…경찰, 진상조사 착수",
-      "link": "https://www.segye.com/newsView/20260421502394?OutUrl=naver",
-      "pub_date": "2026-04-21T07:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.etnews.com/20260421000008",
-      "pub_date": "2026-04-21T07:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
