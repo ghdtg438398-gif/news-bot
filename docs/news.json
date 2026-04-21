@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 13:50:31",
+  "updated": "2026-04-21 13:55:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 조국, 평택시 전입신고…\"우직하게 일하겠다\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042113485210199",
+      "pub_date": "2026-04-21T13:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 중재국에 파키스탄 협상단 파견 통보\" <WSJ>",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260421135220mZR",
+      "pub_date": "2026-04-21T13:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "공수처, 법왜곡죄 고발건 33건 접수…\"현 인력으로 수사 가능\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03936006645418416",
+      "pub_date": "2026-04-21T13:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고양 일산서구 화재 발생…연기 확산에 주민 대피·차량 우회 안...",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864231",
+      "pub_date": "2026-04-21T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[정치家] 배경훈 부총리 겸 과학기술정보통신부 장관 ㅣ 전력·보안·인...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569190",
+      "pub_date": "2026-04-21T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정청래가 꺼내든 '이광재 카드'가 평택을·하남갑 흔든다, 국회의원 재...",
+      "link": "https://www.huffingtonpost.kr/article/256751",
+      "pub_date": "2026-04-21T13:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]평택 전입신고한 조국 “이곳에 뿌리 내리겠다”",
       "link": "https://www.munhwa.com/article/11583893?ref=naver",
@@ -66,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업에 'HJ 중공업' 선정",
-      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509100",
-      "pub_date": "2026-04-21T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"2인 1조 팀전 개막\" 취리히 클래식, 김주형 단독 출격",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040776",
       "pub_date": "2026-04-21T13:44:00+09:00",
@@ -82,6 +127,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "2026 최악의 살인기업에 'HJ 중공업' 선정",
+      "link": "http://worknworld.kctu.org/news/articleView.html?idxno=509100",
+      "pub_date": "2026-04-21T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'조합원 사상' 화물연대, BGF·경찰 규탄 회견…경찰과 한때 대치",
@@ -120,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 양경수 민주노총 위원장",
-      "link": "https://www.news1.kr/photos/7867333",
+      "title": "CU 규탄발언하는 양경수 민주노총 위원장",
+      "link": "https://www.news1.kr/photos/7867334",
       "pub_date": "2026-04-21T13:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 규탄발언하는 양경수 민주노총 위원장",
-      "link": "https://www.news1.kr/photos/7867334",
+      "title": "발언하는 양경수 민주노총 위원장",
+      "link": "https://www.news1.kr/photos/7867333",
       "pub_date": "2026-04-21T13:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,15 +210,6 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
-      "link": "https://www.news1.kr/photos/7867324",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
       "link": "https://www.news1.kr/photos/7867328",
       "pub_date": "2026-04-21T13:39:00+09:00",
@@ -176,6 +221,15 @@
     {
       "title": "민주노총, '화물연대 조합원 사상 사고' BGF리테일 규탄 기자회견",
       "link": "https://www.news1.kr/photos/7867325",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
+      "link": "https://www.news1.kr/photos/7867324",
       "pub_date": "2026-04-21T13:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +282,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
-      "link": "https://www.kyeonggi.com/article/20260421580130",
+      "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
+      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042113311212045",
       "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
-      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042113311212045",
+      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
+      "link": "https://www.kyeonggi.com/article/20260421580130",
       "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,15 +417,6 @@
       "is_scoop": false
     },
     {
-      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
-      "pub_date": "2026-04-21T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "로켓으로 날려 버리는 '2026 최악의 살인기업 '",
       "link": "https://www.newspim.com/news/view/20260421000843",
       "pub_date": "2026-04-21T13:16:00+09:00",
@@ -381,8 +426,17 @@
       "is_scoop": false
     },
     {
-      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000827",
+      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
+      "pub_date": "2026-04-21T13:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000838",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,7 +453,7 @@
       "is_scoop": false
     },
     {
-      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김범석 coupa...",
       "link": "https://www.newspim.com/news/view/20260421000834",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
@@ -426,17 +480,8 @@
       "is_scoop": false
     },
     {
-      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000838",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "허영인 SPC 회장 '2026 최악의 살인기업' 특별상 수상",
-      "link": "https://www.newspim.com/news/view/20260421000835",
+      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000827",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -446,6 +491,15 @@
     {
       "title": "2026 최악의 살인기업 공개 합니다!",
       "link": "https://www.newspim.com/news/view/20260421000830",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "허영인 SPC 회장 '2026 최악의 살인기업' 특별상 수상",
+      "link": "https://www.newspim.com/news/view/20260421000835",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,60 +1797,6 @@
       "title": "[속보] 송언석 “‘장특공’ 폐지, 재산강탈…李대통령 아파트 양도세 ...",
       "link": "https://www.dt.co.kr/article/12058585?ref=naver",
       "pub_date": "2026-04-21T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 다주택 양도세 중과, 5월 9일 신청까지 유예 확정",
-      "link": "https://www.segye.com/newsView/20260421506809?OutUrl=naver",
-      "pub_date": "2026-04-21T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘102일 무단결근’ 송민호 “재복무하겠다” 선처 호소… 징역...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500076?wlog_tag3=naver",
-      "pub_date": "2026-04-21T10:55:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경기 김포시 통진읍 공장 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2577641",
-      "pub_date": "2026-04-21T10:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김포 통진읍 공장 화재 발생…주민 대피 안내, 차량 우회 권고",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864195",
-      "pub_date": "2026-04-21T10:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 \"한병도, 오늘 원내대표 사퇴 예정… 내달 6일 선거 예정\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270464",
-      "pub_date": "2026-04-21T10:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 송민호, 102일 '부실 복무' 인정…\"재복무 시켜주면 성실히 마칠...",
-      "link": "https://www.mhnse.com/news/articleView.html?idxno=531398",
-      "pub_date": "2026-04-21T10:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
