@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 19:45:29",
+  "updated": "2026-04-21 19:50:30",
   "total": 200,
   "items": [
     {
@@ -10,6 +10,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "SK에너지 사고 보고서 입수…“기본 안전 조치 부실”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541866&ref=A",
+      "pub_date": "2026-04-21T19:35:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "\"CU와 정부는 노동자 죽음 책임져라\".. 민주노총, BGF리테일 본사 앞 강...",
@@ -120,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
-      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
       "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
       "pub_date": "2026-04-21T19:02:00+09:00",
@@ -138,13 +138,13 @@
       "is_scoop": true
     },
     {
-      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
-      "pub_date": "2026-04-21T18:58:00+09:00",
+      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
+      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
+      "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
@@ -153,6 +153,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 ‘사상 최고치’ 6380선 돌파…1.3조 외인 귀환 이어 반도...",
-      "link": "https://www.mk.co.kr/article/12022954",
-      "pub_date": "2026-04-21T15:45:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
