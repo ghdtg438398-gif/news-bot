@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 11:35:25",
+  "updated": "2026-04-21 11:40:29",
   "total": 200,
   "items": [
+    {
+      "title": "검찰, ‘102일 무단결근’ 혐의 송민호 징역 1년6개월 구형",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095226",
+      "pub_date": "2026-04-21T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청…'2000억 부정거래 혐...",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=566940&class=32&grp=",
+      "pub_date": "2026-04-21T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "이 시각 주요 뉴스",
       "link": "https://biz.sbs.co.kr/article_hub/20000305657?division=NAVER",
@@ -12,7 +30,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 퀄컴 CEO, 삼성 파운드리 경영진과 회동 …SK와는 메모리 협력",
+      "title": "[단독] 퀄컴 CEO 방한, 삼성·SK 경영진과 잇따라 회동",
       "link": "https://www.hankyung.com/article/202604215511i",
       "pub_date": "2026-04-21T11:33:00+09:00",
       "source_id": "hankyung",
@@ -48,15 +66,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
-      "pub_date": "2026-04-21T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
       "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
       "pub_date": "2026-04-21T11:28:00+09:00",
@@ -68,6 +77,15 @@
     {
       "title": "미국 중국의 해군 역량 대응에 한국과 협력 중요성 부각, \"조선업 역량 ...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436157",
+      "pub_date": "2026-04-21T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,20 +201,20 @@
       "is_scoop": false
     },
     {
-      "title": "ITZY, 호주 시드니·멜버른 콘서트 성료…세 번째 월드투어 해외 일정 포...",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613251",
-      "pub_date": "2026-04-21T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "檢, '부실 복무' 송민호에 징역 1년 6개월 구형…\"재복무 기회 달라\" [영...",
       "link": "https://www.hankyung.com/article/2026042155387",
       "pub_date": "2026-04-21T11:20:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "ITZY, 호주 시드니·멜버른 콘서트 성료…세 번째 월드투어 해외 일정 포...",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613251",
+      "pub_date": "2026-04-21T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -291,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
+      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260421.99099005914",
       "pub_date": "2026-04-21T11:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -300,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260421.99099005914",
+      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
       "pub_date": "2026-04-21T11:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -327,21 +345,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁 의장에 구속영장 신청",
-      "link": "https://www.tenasia.co.kr/article/2026042155074",
-      "pub_date": "2026-04-21T11:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "매뉴얼은 있는데 병상은 없다… 고위험 산모 '떠돌이 진료' 현실",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=301865",
       "pub_date": "2026-04-21T11:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 하이브 방시혁 의장에 구속영장 신청",
+      "link": "https://www.tenasia.co.kr/article/2026042155074",
+      "pub_date": "2026-04-21T11:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -714,21 +732,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁 구속영장 신청…사기적 부정거래 혐의",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526252&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T10:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'생후 19개월 딸 영양결핍 사망' 친모, 첫째 딸 학대 혐의도",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526244&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-21T10:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 하이브 방시혁 구속영장 신청…사기적 부정거래 혐의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526252&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T10:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1783,24 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 대우건설 VI 발동, 주가 17% 도약…공시 살펴보니",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569147",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 최고치 돌파…21만전자·120만닉스 '강세'",
-      "link": "https://www.hankyung.com/article/202604214889i",
-      "pub_date": "2026-04-21T09:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
