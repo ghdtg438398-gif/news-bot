@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 22:45:30",
+  "updated": "2026-04-21 22:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 민주당 대전 동구청장 황인호·서구청장 전문학 후보 확정",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270628",
+      "pub_date": "2026-04-21T22:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 민주당, 시흥·군포·용인 등 광역의원 단수 공천",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723564",
@@ -1787,15 +1796,6 @@
     {
       "title": "민주당 정청래의 '이광재 활용법', 6·3 국회의원 재보선 수도권 판도 뒤...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436198",
-      "pub_date": "2026-04-21T16:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
-      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
       "pub_date": "2026-04-21T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
