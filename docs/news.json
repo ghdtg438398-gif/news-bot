@@ -1,8 +1,53 @@
 {
-  "updated": "2026-04-21 10:06:17",
+  "updated": "2026-04-21 10:10:29",
   "total": 200,
-  "breaking": 132,
+  "breaking": 130,
   "items": [
+    {
+      "title": "[속보] 휠체어 충돌 경찰, 갈비뼈 부상… 전장연 ‘버스 저지 시위’에...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500048?wlog_tag3=naver",
+      "pub_date": "2026-04-21T10:08:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'무단결근 혐의' 위너 송민호, 첫 재판 출석 \"깊이 반성\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562204",
+      "pub_date": "2026-04-21T10:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민희진, 악플러 상대 손배소 일부 승소…1인당 30만원 배상",
+      "link": "https://www.dailian.co.kr/news/view/1635879/?sc=Naver",
+      "pub_date": "2026-04-21T10:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'병역비리' 송민호, 102일 부실 복무 인정..책임자는 부인",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106164677733",
+      "pub_date": "2026-04-21T10:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]日정부, 살상 능력 무기 수출 제한 규정 폐지",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599647",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
       "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
@@ -229,8 +274,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 파인텍 주가 상한가 직행…최근 흐름보니",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569149",
+      "title": "[속보] 코스피, 장중 6350 돌파…역대 최고치 경신",
+      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=610541",
       "pub_date": "2026-04-21T09:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -238,8 +283,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장중 6350 돌파…역대 최고치 경신",
-      "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=610541",
+      "title": "[속보] 파인텍 주가 상한가 직행…최근 흐름보니",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569149",
       "pub_date": "2026-04-21T09:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -319,15 +364,6 @@
       "is_scoop": false
     },
     {
-      "title": "LG유플러스, '월드IT쇼' 첫 단독 부스…보이스 AI 선보여",
-      "link": "https://www.news2day.co.kr/article/20260421500057",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=118928",
       "pub_date": "2026-04-21T09:24:00+09:00",
@@ -335,6 +371,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "LG유플러스, '월드IT쇼' 첫 단독 부스…보이스 AI 선보여",
+      "link": "https://www.news2day.co.kr/article/20260421500057",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 대우건설 VI 발동, 주가 17% 도약…공시 살펴보니",
@@ -1753,51 +1798,6 @@
       "title": "[속보] 日다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 봉납",
       "link": "https://biz.heraldcorp.com/article/10721596?ref=naver",
       "pub_date": "2026-04-21T06:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 봉납",
-      "link": "https://www.sedaily.com/article/20034912?ref=naver",
-      "pub_date": "2026-04-21T06:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 다카이치, 야스쿠니 신사에 공물 봉납…참배는 보류 전망",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042106524971910",
-      "pub_date": "2026-04-21T06:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치, 야스쿠니 신사에 공물 봉납… 참배는 안 할 듯",
-      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500012?wlog_tag3=naver",
-      "pub_date": "2026-04-21T06:53:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://view.asiae.co.kr/article/2026042106524956396",
-      "pub_date": "2026-04-21T06:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치, 야스쿠니 신사에 공물 봉납…직접 참배는 보류",
-      "link": "https://www.kyeonggi.com/article/20260421580003",
-      "pub_date": "2026-04-21T06:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
