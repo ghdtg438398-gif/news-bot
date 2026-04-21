@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 21:35:26",
+  "updated": "2026-04-21 21:40:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421174700071?input=1195m",
+      "pub_date": "2026-04-21T21:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스공감] 안갯속 종전협상...트럼프는 왜 날짜를 바꿨나",
       "link": "https://news.cpbc.co.kr/article/1172354?division=NAVER",
@@ -21,6 +30,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보 제한 영향은?",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541979&ref=A",
+      "pub_date": "2026-04-21T21:29:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
       "link": "http://www.fnnews.com/news/202604212123060447",
       "pub_date": "2026-04-21T21:27:00+09:00",
@@ -28,6 +46,15 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541978&ref=A",
+      "pub_date": "2026-04-21T21:27:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "창원시의회 “통합돌봄 증원 조례안 상정”",
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-21T16:21:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]민주 광주시당, 후보 비위 투서 ‘뭉개기’ 의혹",
-      "link": "https://www.kukinews.com/article/view/kuk202604210043",
-      "pub_date": "2026-04-21T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.yna.co.kr/view/AKR20260421139600004?input=1195m",
-      "pub_date": "2026-04-21T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]특검, '통일교 1억원 수수' 권성동 항소심 징역 4년 구형",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04674006645418416",
-      "pub_date": "2026-04-21T16:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
