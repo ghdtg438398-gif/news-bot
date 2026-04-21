@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 08:35:28",
+  "updated": "2026-04-22 08:40:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적용",
+      "link": "https://www.donga.com/news/Society/article/all/20260422/133787416/1",
+      "pub_date": "2026-04-22T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘살인 혐의’ 적용된 화물연대 사망사고 운전자, 구속영장 신청",
+      "link": "https://www.wikitree.co.kr/articles/1132779",
+      "pub_date": "2026-04-22T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
+      "link": "https://economist.co.kr/article/view/ecn202604220004",
+      "pub_date": "2026-04-22T08:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]화물연대 조합원 사상 비조합원 운전자, 살인 혐의로 구속영장",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260422.99099006216",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]화물연대 사망사고 운전자 영장…‘살인 혐의’ 적용",
-      "link": "https://www.khan.co.kr/article/202604220832001",
+      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
+      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
+      "link": "https://www.khan.co.kr/article/202604220832001",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,20 +174,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 조합원 사상’ 트럭 운전자 영장…살인 혐의 적용",
-      "link": "https://www.dt.co.kr/article/12058785?ref=naver",
-      "pub_date": "2026-04-22T08:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
       "link": "https://www.mk.co.kr/article/12023631",
       "pub_date": "2026-04-22T08:17:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대 조합원 차로 친 40대 비조합원 영장…“정차없이 그대...",
+      "link": "https://www.dt.co.kr/article/12058785?ref=naver",
+      "pub_date": "2026-04-22T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,15 +237,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 구속영장 신청",
-      "link": "https://www.news1.kr/local/busan-gyeongnam/6144508",
-      "pub_date": "2026-04-22T08:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "주정차 단속 피하려고 번호판에 비닐봉지 씌운 60대 벌금형",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527493&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T08:12:00+09:00",
@@ -234,6 +252,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 구속영장 신청",
+      "link": "https://www.news1.kr/local/busan-gyeongnam/6144508",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "4월 21일 모닝뉴스 헤드라인",
-      "link": "https://www.radiokorea.com/news/article.php?uid=493642",
-      "pub_date": "2026-04-21T23:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]뉴욕증시 일제히 상승…트럼프 \"이란과 큰 합의할 것\"",
-      "link": "https://news.mtn.co.kr/news-detail/2026042123464150864",
-      "pub_date": "2026-04-21T23:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 KBO] 디펜딩챔피언 LG, 한화 잡고 단독 2위 올라",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366504",
-      "pub_date": "2026-04-21T23:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
