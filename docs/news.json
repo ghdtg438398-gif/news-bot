@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 21:10:30",
+  "updated": "2026-04-21 21:15:26",
   "total": 200,
   "items": [
+    {
+      "title": "[미리보는 이데일리 신문]부동산PF '대마불사' 시대 끝났다",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06015526645418416",
+      "pub_date": "2026-04-21T21:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘 “전북지사 추가 공모에 양정무 전 당협위원장 신청”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541962&ref=A",
+      "pub_date": "2026-04-21T21:07:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "춘천소방서, 비화재 저감 대비 현장점검·안전컨설팅",
       "link": "https://www.kwnews.co.kr/page/view/2026042150143800000",
@@ -93,20 +111,20 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
-      "link": "http://www.fnnews.com/news/202604212004375552",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
       "link": "https://www.hankyung.com/article/2026042170707",
       "pub_date": "2026-04-21T20:33:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
+      "link": "http://www.fnnews.com/news/202604212004375552",
+      "pub_date": "2026-04-21T20:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1779,24 +1797,6 @@
       "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
       "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
       "pub_date": "2026-04-21T16:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
-      "pub_date": "2026-04-21T16:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]경찰, '채용 알선' 혐의 서울시청노조위원장 송치",
-      "link": "https://www.nocutnews.co.kr/news/6505815?utm_source=naver&utm_medium=article&utm_campaign=20260421041128",
-      "pub_date": "2026-04-21T16:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
