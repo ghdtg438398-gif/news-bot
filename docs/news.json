@@ -1,9 +1,45 @@
 {
-  "updated": "2026-04-21 18:00:41",
+  "updated": "2026-04-21 18:05:27",
   "total": 200,
   "items": [
     {
-      "title": "[속보] '하동 주택 화재 70대 사망' 방화 용의자 사위도 숨진 채 발견",
+      "title": "이란 국영TV \"이란 대표단, 아직 이슬라마바드 도착 안해\"…2차 협상 '먹...",
+      "link": "https://www.ajunews.com/view/20260421173316618",
+      "pub_date": "2026-04-21T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
+      "link": "http://www.fnnews.com/news/202604211534245010",
+      "pub_date": "2026-04-21T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
+      "link": "http://www.fnnews.com/news/202604211525270741",
+      "pub_date": "2026-04-21T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "성일종 \"주한미군사령관, 정동영 발언 안규백에 항의\" 국방부 \"사실 아...",
+      "link": "https://www.joongang.co.kr/article/25422083",
+      "pub_date": "2026-04-21T18:00:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 하동 주택 화재로 70대 사망…방화 용의자 사위도 숨진 채 발견",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042117580848157",
       "pub_date": "2026-04-21T17:59:00+09:00",
       "source_id": "yna",
@@ -120,21 +156,21 @@
       "is_scoop": false
     },
     {
-      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
-      "pub_date": "2026-04-21T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
       "link": "https://www.newspim.com/news/view/20260421001304",
       "pub_date": "2026-04-21T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -147,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,7 +255,7 @@
       "is_scoop": false
     },
     {
-      "title": "‘CU 집회’ 참석 조합원 “트럭, 사람들 보고도 안 멈추고 10여m 그냥 달...",
+      "title": "‘CU 집회’ 참석자 “트럭, 사람들 보고도 10여m 그냥 달려”",
       "link": "https://www.hani.co.kr/arti/area/yeongnam/1255213.html",
       "pub_date": "2026-04-21T17:24:00+09:00",
       "source_id": "yna",
@@ -243,6 +279,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'항공사 동료 기장 살해범' 김동환, 국민참여재판 신청했다",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210050",
+      "pub_date": "2026-04-21T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -300,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
-      "link": "https://www.newspim.com/news/view/20260421001228",
+      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
+      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
-      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
+      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
+      "link": "https://www.newspim.com/news/view/20260421001228",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이즈나(izna) 방지민, 데뷔 첫 단독 화보 공개..‘글로벌 젠지 추구미’...",
-      "link": "http://www.breaknews.com/1201946",
-      "pub_date": "2026-04-21T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "트와이스 사나, 청량한 여신미모[뉴스엔TV]",
-      "link": "https://www.newsen.com/news_view.php?uid=202604211502311310",
-      "pub_date": "2026-04-21T15:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "다주택자 매물 효과에 선행지표 '토허 신청'은 서울 집값 하락까지 예고",
-      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316974",
-      "pub_date": "2026-04-21T15:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "수원시, 육아기·초등 돌봄 위한 공적 울타리 강화",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838464",
-      "pub_date": "2026-04-21T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
-      "pub_date": "2026-04-21T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
