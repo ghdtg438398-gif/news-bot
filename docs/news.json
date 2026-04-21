@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 07:55:28",
-  "total": 195,
+  "updated": "2026-04-22 08:00:41",
+  "total": 192,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.etnews.com/20260422000008",
+      "pub_date": "2026-04-22T07:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”〈이란 국영...",
+      "link": "https://www.etnews.com/20260422000007",
+      "pub_date": "2026-04-22T07:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독]박세영, 결혼·출산 후 4년 만에 컴백…MBC '가족관계증명서' 출연",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811919",
@@ -183,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
+      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1710,51 +1728,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 훌륭한 합의 기대…휴전 연장 원치 않아\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600842",
-      "pub_date": "2026-04-21T22:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰 조사 대기 중 사망 20대 여성…국과수 \"독극물 중독사 추정\"",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745501",
-      "pub_date": "2026-04-21T22:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할것…휴전 연장 원치 않아”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786436/2",
-      "pub_date": "2026-04-21T21:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] SK에너지 사고 보고서 입수…“총체적 관리 부실”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542089&ref=A",
-      "pub_date": "2026-04-21T21:58:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할 것… 휴전연장 원치않아...",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270627",
-      "pub_date": "2026-04-21T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
