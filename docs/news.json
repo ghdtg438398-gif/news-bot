@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 03:35:32",
-  "total": 198,
+  "updated": "2026-04-22 03:40:28",
+  "total": 195,
   "items": [
     {
       "title": "3월 美 소매판매 전월비 1.7% 증가…2월에 이어 '소비 견조'",
@@ -1755,33 +1755,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
-      "link": "https://www.kyeonggi.com/article/20260421580468",
-      "pub_date": "2026-04-21T17:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
-      "pub_date": "2026-04-21T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
-      "link": "https://www.newspim.com/news/view/20260421001304",
-      "pub_date": "2026-04-21T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
