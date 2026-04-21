@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 23:15:34",
+  "updated": "2026-04-21 23:20:29",
   "total": 200,
   "items": [
+    {
+      "title": "미국 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562933",
+      "pub_date": "2026-04-21T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]송도에 주차된 차량서 여성 백골 시신 발견…“타살 혐의점 없어...",
       "link": "https://www.munhwa.com/article/11583977?ref=naver",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령, 인도 순방 마치고 베트남으로 출국",
-      "link": "https://biz.heraldcorp.com/article/10722375?ref=naver",
-      "pub_date": "2026-04-21T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
