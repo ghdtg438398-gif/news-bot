@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 04:10:34",
-  "total": 180,
+  "updated": "2026-04-22 04:15:32",
+  "total": 173,
   "items": [
     {
       "title": "[속보] 밴스 부통령 미국에 있어…국제유가 3% 급등",
@@ -1557,69 +1557,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
-      "link": "https://www.mk.co.kr/article/12023249",
-      "pub_date": "2026-04-21T18:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동전쟁 충격…실용적 색채 띄운 신현송 출범",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305789?division=NAVER",
-      "pub_date": "2026-04-21T18:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "롯데홈쇼핑 ‘영스타일’ 7년…‘영스 패밀리’ 기반 누적 주문액 9000억...",
-      "link": "https://www.news2day.co.kr/article/20260421500221",
-      "pub_date": "2026-04-21T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[산업 HOT 뉴스] 파라다이스시티서 열린 '딥 퍼플' 내한…\"세대 아우른 ...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134488",
-      "pub_date": "2026-04-21T18:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 교장실서 교사에 흉기 휘둘러 '살인미수' 고3, 구속 송치",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421511&PRO_CODE=99",
-      "pub_date": "2026-04-21T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하동 주택 화재 70대여성 사망…방화 용의자 사위도 숨진 채 발견",
-      "link": "http://www.inews24.com/view/1962245",
-      "pub_date": "2026-04-21T18:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“재밌니? 내 눈 똑바로 봐라”, “날강도”⋯‘강도상해’피해...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150167700000",
-      "pub_date": "2026-04-21T18:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
