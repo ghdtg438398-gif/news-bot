@@ -1,9 +1,45 @@
 {
-  "updated": "2026-04-21 22:00:39",
+  "updated": "2026-04-21 22:05:27",
   "total": 200,
   "items": [
     {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지없어”",
+      "title": "[속보] 與 대전 서구청장 후보 전문학, 동구청장 후보 황인호",
+      "link": "https://www.joongdo.co.kr/web/view.php?key=20260421010006609",
+      "pub_date": "2026-04-21T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘진주 화물연대 집회 사망사고’…민노총 “사태 왜곡” vs 노동부 “별...",
+      "link": "https://www.segye.com/newsView/20260421515254?OutUrl=naver",
+      "pub_date": "2026-04-21T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란과 훌륭한 합의 기대…휴전 연장 원치 않아\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600842",
+      "pub_date": "2026-04-21T22:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰 조사 대기 중 사망 20대 여성…국과수 \"독극물 중독사 추정\"",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745501",
+      "pub_date": "2026-04-21T22:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 휴전만료 전날 “훌륭한 합의할것…이란은 선택 여지없어...",
       "link": "https://www.donga.com/news/Inter/article/all/20260421/133786436/2",
       "pub_date": "2026-04-21T21:59:00+09:00",
       "source_id": "yna",
@@ -12,18 +48,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할것… 휴전연장 원치않아\"",
+      "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할 것… 휴전연장 원치않아...",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270627",
       "pub_date": "2026-04-21T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
-      "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -35,6 +62,15 @@
       "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -237,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴스공감] 안갯속 종전협상...트럼프는 왜 날짜를 바꿨나",
-      "link": "https://news.cpbc.co.kr/article/1172354?division=NAVER",
+      "title": "농협 강호동 \"정부와 쌀 수급안정에 총력…농가 소득 증대 최우선\"",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048058",
       "pub_date": "2026-04-21T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "농협 강호동 \"정부와 쌀 수급안정에 총력…농가 소득 증대 최우선\"",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048058",
+      "title": "[뉴스공감] 안갯속 종전협상...트럼프는 왜 날짜를 바꿨나",
+      "link": "https://news.cpbc.co.kr/article/1172354?division=NAVER",
       "pub_date": "2026-04-21T21:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
       "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
       "pub_date": "2026-04-21T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
-      "pub_date": "2026-04-21T16:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[조이人] 클로즈 유어 아이즈 \"활동 연장 원하냐 묻는다면, 우리 대답은...",
-      "link": "http://www.joynews24.com/view/1960224",
-      "pub_date": "2026-04-21T16:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김건희특검, ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.mk.co.kr/article/12023023",
-      "pub_date": "2026-04-21T16:32:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 인도 국빈 방문 마친 李대통령, 베트남으로 출발",
-      "link": "https://view.asiae.co.kr/article/2026042112501624673",
-      "pub_date": "2026-04-21T16:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
