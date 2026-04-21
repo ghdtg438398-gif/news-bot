@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 21:25:29",
+  "updated": "2026-04-21 21:30:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
+      "link": "http://www.fnnews.com/news/202604212123060447",
+      "pub_date": "2026-04-21T21:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "창원시의회 “통합돌봄 증원 조례안 상정”",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1539959",
+      "pub_date": "2026-04-21T21:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[국회 상임위 리포트②] 한국가스공사 해외 자원개발…로키산맥 뚫은 1...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729139",
@@ -138,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
+      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.newspim.com/news/view/20260421001183",
-      "pub_date": "2026-04-21T16:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억 수수' 권성동 2심서 징역 4년 구형",
-      "link": "https://www.news1.kr/society/general-society/6144085",
-      "pub_date": "2026-04-21T16:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
