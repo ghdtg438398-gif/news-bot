@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 18:45:34",
+  "updated": "2026-04-21 18:50:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
+      "link": "https://www.etoday.co.kr/news/view/2577835",
+      "pub_date": "2026-04-21T18:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 44년 만의 신기록 완성! 박성한, 첫 타석 초구 통타해 김용희 넘...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553157643",
+      "pub_date": "2026-04-21T18:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
       "link": "https://www.dailian.co.kr/news/view/1636218/?sc=Naver",
@@ -21,8 +39,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] \"내란특검법 위헌\" 尹 헌법소원, 정식 판단 받는다…전원재판부...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042118343240580",
+      "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
+      "link": "http://www.fnnews.com/news/202604211839084411",
       "pub_date": "2026-04-21T18:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
-      "link": "http://www.fnnews.com/news/202604211839084411",
+      "title": "[속보] \"내란특검법 위헌\" 尹 헌법소원, 정식 판단 받는다…전원재판부...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042118343240580",
       "pub_date": "2026-04-21T18:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,15 +93,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
-      "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] SSG 박성한, 개막 이후 연속 경기 안타 신기록 달성",
       "link": "http://www.osen.co.kr/article/G1112786094",
       "pub_date": "2026-04-21T18:33:00+09:00",
@@ -93,9 +102,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600721",
-      "pub_date": "2026-04-21T18:31:00+09:00",
+      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
+      "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
+      "pub_date": "2026-04-21T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -104,6 +113,15 @@
     {
       "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
       "link": "https://www.imaeil.com/page/view/2026042118294446845",
+      "pub_date": "2026-04-21T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600721",
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,21 +147,21 @@
       "is_scoop": false
     },
     {
-      "title": "중동 전쟁이 언론에 던진 과제",
-      "link": "http://www.journalist.or.kr/news/article.html?no=60757",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
       "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
       "pub_date": "2026-04-21T18:26:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁이 언론에 던진 과제",
+      "link": "http://www.journalist.or.kr/news/article.html?no=60757",
+      "pub_date": "2026-04-21T18:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -156,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
+      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
+      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
-      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
+      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "롯데홈쇼핑 ‘영스타일’ 7년…‘영스 패밀리’ 기반 누적 주문액 9000억...",
-      "link": "https://www.news2day.co.kr/article/20260421500221",
+      "title": "[산업 HOT 뉴스] 파라다이스시티서 열린 '딥 퍼플' 내한…\"세대 아우른 ...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134488",
       "pub_date": "2026-04-21T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[산업 HOT 뉴스] 파라다이스시티서 열린 '딥 퍼플' 내한…\"세대 아우른 ...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134488",
+      "title": "롯데홈쇼핑 ‘영스타일’ 7년…‘영스 패밀리’ 기반 누적 주문액 9000억...",
+      "link": "https://www.news2day.co.kr/article/20260421500221",
       "pub_date": "2026-04-21T18:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
-      "link": "http://www.fnnews.com/news/202604211525270741",
+      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
+      "link": "http://www.fnnews.com/news/202604211534245010",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,8 +309,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
-      "link": "http://www.fnnews.com/news/202604211534245010",
+      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
+      "link": "http://www.fnnews.com/news/202604211525270741",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
       "link": "https://www.joongang.co.kr/article/25422017",
       "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6388.47(▲169.38p, 2.72%), 원·달러 환율 1468.5(▼8.7원)...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189466",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]검찰, '특사경 권한 남용' 거액 뇌물 수수 관세청 수사팀장 구속...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04470646645418416",
-      "pub_date": "2026-04-21T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
