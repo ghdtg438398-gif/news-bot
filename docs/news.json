@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 15:15:30",
+  "updated": "2026-04-21 15:20:30",
   "total": 200,
   "items": [
+    {
+      "title": "일 하네다 공항 관제 시스템 오류… 항공기 80여 편 결항",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526704&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "CU, 화물연대 파업 2주 넘었다…물류 차질 장기화",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447296",
@@ -66,7 +75,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사상 첫 6380선 돌파...6400선 근접",
+      "title": "[속보] 코스피, 사상 첫 6380선 돌파…6400선 근접",
       "link": "https://biz.sbs.co.kr/article_hub/20000305731?division=NAVER",
       "pub_date": "2026-04-21T15:05:00+09:00",
       "source_id": "yna",
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
+      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
+      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,7 +210,7 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총 \"진주 물류센터 화물 노동자 사망은 CU·정부 책임\"",
+      "title": "물류차 막다 사망…민노총 \"교섭요구, 죽어야 할 이유인가\"",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04136086645418416",
       "pub_date": "2026-04-21T14:43:00+09:00",
       "source_id": "yna",
@@ -210,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
+      "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "공수처, 법왜곡죄 고발사건 33건 접수…\"현 인력으로 수사 가능\"",
-      "link": "http://www.lawissue.co.kr/view.php?ud=202604211440255823b3279dfb36_12",
+      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,7 +282,7 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 대통령 '좌표' 찍자…경제3단체 보도자료 절반으로 급감",
+      "title": "[단독] 李 가짜뉴스 질타 후…경제3단체 보도자료 절반으로 급감",
       "link": "https://www.hankyung.com/article/202604215938i",
       "pub_date": "2026-04-21T14:37:00+09:00",
       "source_id": "hankyung",
@@ -390,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중부내륙고속도로 성주 구간 차량 화재 발생…양평 방향 정체 우...",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864235",
+      "title": "[속보] 김건희, '줄리 의혹' 재판 증인 불출석으로 300만 원 과태료 부과",
+      "link": "https://www.pressian.com/pages/articles/2026042114274635379?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-21T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김건희, '줄리 의혹' 재판 증인 불출석으로 300만 원 과태료 부과",
-      "link": "https://www.pressian.com/pages/articles/2026042114274635379?utm_source=naver&utm_medium=search",
+      "title": "[속보] 중부내륙고속도로 성주 구간 차량 화재 발생…양평 방향 정체 우...",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864235",
       "pub_date": "2026-04-21T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -498,21 +507,21 @@
       "is_scoop": false
     },
     {
-      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
-      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
-      "pub_date": "2026-04-21T14:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한병도 민주당 원내대표 사퇴…'연임 도전' 공식화",
       "link": "https://www.dailian.co.kr/news/view/1636011/?sc=Naver",
       "pub_date": "2026-04-21T14:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
+      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
+      "pub_date": "2026-04-21T14:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "외국인 발길 지역으로 돌린다, 지방공항 키워 관광 분산",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613255",
-      "pub_date": "2026-04-21T11:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
