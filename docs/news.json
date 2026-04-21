@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 19:50:30",
+  "updated": "2026-04-21 19:55:30",
   "total": 200,
   "items": [
+    {
+      "title": "김영환 지사·이범석 시장 컷오프 입체적 보도 '눈길'",
+      "link": "http://www.cctimes.kr/news/articleView.html?idxno=903160",
+      "pub_date": "2026-04-21T19:54:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 하림그룹, 홈플러스 익스프레스 품는다…회생안 인가 청신호",
+      "link": "https://www.mk.co.kr/article/12023308",
+      "pub_date": "2026-04-21T19:41:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 육군 부사관이 10대 여성 성매매 시도…기강 해이 도마",
       "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189533",
@@ -14,6 +32,15 @@
     {
       "title": "SK에너지 사고 보고서 입수…“기본 안전 조치 부실”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541866&ref=A",
+      "pub_date": "2026-04-21T19:35:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중국, 8월 휴머노이드 로봇 체육대회 개최…축구·역도·투호 등 32개 종...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541863&ref=A",
       "pub_date": "2026-04-21T19:35:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'구성 핵시설' 발언 파장…한미 정보공유 균열 논란 확산",
-      "link": "https://www.newspim.com/news/view/20260421001110",
-      "pub_date": "2026-04-21T15:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.7% 급등 6380선 마감…사상 최고치 돌파",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189471",
-      "pub_date": "2026-04-21T15:47:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[데일리 산업 단신] LIG D&A, 미국 최대 규모 해양 방산 전시회 참가 外",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/21/2026042100271.html",
-      "pub_date": "2026-04-21T15:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
