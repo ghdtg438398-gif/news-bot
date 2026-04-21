@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 17:50:29",
+  "updated": "2026-04-21 17:55:27",
   "total": 200,
   "items": [
+    {
+      "title": "호기심을 충족시켜 줄 과학 유튜브 채널 5",
+      "link": "https://www.esquirekorea.co.kr/article/1901229",
+      "pub_date": "2026-04-21T17:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정청래, ‘돈봉투 의혹’ 임실군수 결선 개표보류·조사 지시",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64119",
+      "pub_date": "2026-04-21T17:51:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "석유공사, 중동 위기 속 비축유 공급망 점검",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103358",
+      "pub_date": "2026-04-21T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] ‘강도 상해’ 나나, 피고인에 “재밌니?…내 눈 똑바로 봐라”",
       "link": "https://www.dt.co.kr/article/12058730?ref=naver",
@@ -9,6 +36,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "아이브 가을, '책 읽는 대한민국' 캠페인 파트너 발탁…'가을의 온도' 소...",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613289",
+      "pub_date": "2026-04-21T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -237,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "오송역 인근 농지 1만㎡ '쪼개기 투기'…검찰, 집요한 추적 끝에 32명 적...",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411841",
-      "pub_date": "2026-04-21T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 노루벌 정원·웹툰 클러스터 중투심 통과…대전 핵심사업 본궤도",
       "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2228937",
       "pub_date": "2026-04-21T17:10:00+09:00",
@@ -255,12 +282,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'통일교 결탁' 권성동 항소심도 징역 4년 구형…특검 \"1억 받고도...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210049",
-      "pub_date": "2026-04-21T17:08:00+09:00",
+      "title": "오송역 인근 농지 1만㎡ '쪼개기 투기'…검찰, 집요한 추적 끝에 32명 적...",
+      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2411841",
+      "pub_date": "2026-04-21T17:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -288,6 +315,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'통일교 결탁' 권성동 항소심도 징역 4년 구형…특검 \"1억 받고도...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210049",
+      "pub_date": "2026-04-21T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -354,21 +390,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6388…전쟁 파고에도 역대 최고치 또 갈아치워",
-      "link": "https://www.hani.co.kr/arti/economy/finance/1255207.html",
-      "pub_date": "2026-04-21T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, CU 본사 앞 규탄...\"원청 책임 인정하라\"",
       "link": "https://www.ppss.kr/news/articleView.html?idxno=293710",
       "pub_date": "2026-04-21T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6388…전쟁 파고에도 역대 최고치 또 갈아치워",
+      "link": "https://www.hani.co.kr/arti/economy/finance/1255207.html",
+      "pub_date": "2026-04-21T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1765,42 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "의료 AX는 국가적 과제…병원과 정부, 동시에 응답해야",
-      "link": "https://www.mk.co.kr/article/12022890",
-      "pub_date": "2026-04-21T14:58:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김건희, '쥴리 의혹' 재판 불출석… 과태료 300만원",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421505&PRO_CODE=99",
-      "pub_date": "2026-04-21T14:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "LG유플러스, 월드IT쇼 첫 단독 전시…'사람 중심 보이스 AI' 강조",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201088",
-      "pub_date": "2026-04-21T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "(단독)에어로케이항공도 객실·운항승무원 무급휴직 실시",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298560&inflow=N",
-      "pub_date": "2026-04-21T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
