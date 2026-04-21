@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 20:35:33",
+  "updated": "2026-04-21 20:40:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 파키스탄 “미·이란 모두 2차 휴전회담 개최 시사”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713352&code=61131111&cp=nv",
+      "pub_date": "2026-04-21T20:36:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
       "link": "http://www.fnnews.com/news/202604212004375552",
@@ -21,8 +30,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
+      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1787,15 +1796,6 @@
     {
       "title": "농협 RPC 전국협의회 총회 개최…쌀 수급 안정·농협법 개정 대응 논의",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80261",
-      "pub_date": "2026-04-21T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
-      "link": "https://www.tokenpost.kr/news/briefing/351721",
       "pub_date": "2026-04-21T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
