@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-21 16:00:42",
+  "updated": "2026-04-21 16:05:30",
   "total": 200,
   "items": [
+    {
+      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
+      "link": "https://www.tokenpost.kr/news/briefing/351721",
+      "pub_date": "2026-04-21T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "농협 RPC 전국협의회 총회 개최…쌀 수급 안정·농협법 개정 대응 논의",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80261",
+      "pub_date": "2026-04-21T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"필히 재입대 시켜야\"",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604210014",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "클유아 \"우리 강점은 팀워크\"…1년 함께한 멤버들에 전한 고마움 [엑's ...",
+      "link": "https://www.xportsnews.com/article/2139361",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "클유아 “이해인과 소통하며 아이디어 반영, 첫 콘서트 꿈만 같아”[EN:...",
+      "link": "https://www.newsen.com/news_view.php?uid=202604071540302510",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
+      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
+      "link": "http://www.breaknews.com/1201975",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
       "link": "https://www.segye.com/newsView/20260421513894?OutUrl=naver",
@@ -30,15 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "아이브 가을, ‘2026 책 읽는 대한민국’ 캠페인 파트너 발탁..의미 있는...",
-      "link": "http://www.breaknews.com/1201973",
-      "pub_date": "2026-04-21T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "한병도, 현직 원대 첫 연임 도전…힘 받는 '추대론'",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298594&inflow=N",
       "pub_date": "2026-04-21T15:58:00+09:00",
@@ -48,7 +111,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
+      "title": "아이브 가을, ‘2026 책 읽는 대한민국’ 캠페인 파트너 발탁..의미 있는...",
+      "link": "http://www.breaknews.com/1201973",
+      "pub_date": "2026-04-21T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 2.7% 급등 6,388.47에 마감…사상 최고치 돌파",
       "link": "https://www.kwnews.co.kr/page/view/2026042150120500000",
       "pub_date": "2026-04-21T15:57:00+09:00",
       "source_id": "yna",
@@ -84,20 +156,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
       "link": "https://magazine.hankyung.com/business/article/202604216299b",
       "pub_date": "2026-04-21T15:50:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
+      "pub_date": "2026-04-21T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -147,20 +219,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6380선 마감·2.7% 급등…사상 최고치 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500166?wlog_tag3=naver",
-      "pub_date": "2026-04-21T15:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526793&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-21T15:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6380선 마감·2.7% 급등…사상 최고치 돌파",
+      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500166?wlog_tag3=naver",
+      "pub_date": "2026-04-21T15:44:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,15 +255,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
       "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
       "pub_date": "2026-04-21T15:42:00+09:00",
@@ -201,18 +264,27 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 30대 여성 ‘숯불 고문’, 숨지게 한 무당…‘무기’서 징역 7년...",
-      "link": "https://www.dt.co.kr/article/12058682?ref=naver",
-      "pub_date": "2026-04-21T15:41:00+09:00",
+      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
+      "pub_date": "2026-04-21T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
-      "pub_date": "2026-04-21T15:40:00+09:00",
+      "title": "이란 \"위협의 그림자서 협상 못해\"...CNN \"수요일 회담 개최\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604211542450922",
+      "pub_date": "2026-04-21T15:42:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 30대 여성 ‘숯불 고문’, 숨지게 한 무당…‘무기’서 징역 7년...",
+      "link": "https://www.dt.co.kr/article/12058682?ref=naver",
+      "pub_date": "2026-04-21T15:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -237,12 +309,12 @@
       "is_scoop": false
     },
     {
-      "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
-      "pub_date": "2026-04-21T15:38:00+09:00",
+      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
+      "pub_date": "2026-04-21T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -253,6 +325,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
+      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
+      "pub_date": "2026-04-21T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
@@ -1716,87 +1797,6 @@
       "title": "'102일 무단결근' 송민호 \"재복무하겠다\"…법원 앞 해외팬들은 탄식[노...",
       "link": "https://www.nocutnews.co.kr/news/6505662?utm_source=naver&utm_medium=article&utm_campaign=20260421012327",
       "pub_date": "2026-04-21T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "검찰, ‘병역법 위반’ 송민호에 징역 1년 6개월 구형..“재복무 기회 ...",
-      "link": "http://www.breaknews.com/1201893",
-      "pub_date": "2026-04-21T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "티웨이항공, 사이판 태풍 체객 지원…보항편 투입해 300여명 수송",
-      "link": "https://www.news2day.co.kr/article/20260421500131",
-      "pub_date": "2026-04-21T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 2차전지, 매수세 '풀충전'…삼성SDI '신고가' 초강세",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210339&t=NN",
-      "pub_date": "2026-04-21T13:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "충남도, 61일간 재난 취약시설 1141곳 전방위 점검…“잠재된 위험 미리...",
-      "link": "http://www.sisanews24.co.kr/18555",
-      "pub_date": "2026-04-21T13:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 국민 59%, 헌법에 자위대 명시 찬성… 반대 31%",
-      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500118?wlog_tag3=naver",
-      "pub_date": "2026-04-21T13:19:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "로켓으로 날려 버리는 '2026 최악의 살인기업 '",
-      "link": "https://www.newspim.com/news/view/20260421000843",
-      "pub_date": "2026-04-21T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
-      "pub_date": "2026-04-21T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 최악의 살인기업 선정 인증서",
-      "link": "https://www.newspim.com/news/view/20260421000828",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
-      "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
