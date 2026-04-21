@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-21 15:55:30",
+  "updated": "2026-04-21 16:00:42",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
+      "link": "https://www.segye.com/newsView/20260421513894?OutUrl=naver",
+      "pub_date": "2026-04-21T15:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 구윤철·신현송 23일 첫 회동… 역대 최단기 공식 만남",
+      "link": "https://www.sedaily.com/article/20035215?ref=naver",
+      "pub_date": "2026-04-21T15:58:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 악귀 쫓는다며 조카 사망케한 무속인, 무기에서 징역 7년으로 대...",
+      "link": "https://www.kyeonggi.com/article/20260421580316",
+      "pub_date": "2026-04-21T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "아이브 가을, ‘2026 책 읽는 대한민국’ 캠페인 파트너 발탁..의미 있는...",
+      "link": "http://www.breaknews.com/1201973",
+      "pub_date": "2026-04-21T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한병도, 현직 원대 첫 연임 도전…힘 받는 '추대론'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298594&inflow=N",
+      "pub_date": "2026-04-21T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150120500000",
+      "pub_date": "2026-04-21T15:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구미시의회, 제295회 임시회 폐회…20건 안건 처리",
+      "link": "http://www.breaknews.com/1201971",
+      "pub_date": "2026-04-21T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피 6388.47로 마감…사상 최고치 돌파",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045987",
@@ -21,20 +84,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
-      "link": "https://magazine.hankyung.com/business/article/202604216299b",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
       "pub_date": "2026-04-21T15:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
+      "link": "https://magazine.hankyung.com/business/article/202604216299b",
+      "pub_date": "2026-04-21T15:50:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -84,20 +147,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526793&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T15:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 6380선 마감·2.7% 급등…사상 최고치 돌파",
       "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500166?wlog_tag3=naver",
       "pub_date": "2026-04-21T15:44:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526793&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T15:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -120,15 +183,6 @@
       "is_scoop": false
     },
     {
-      "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
       "pub_date": "2026-04-21T15:42:00+09:00",
@@ -138,9 +192,27 @@
       "is_scoop": false
     },
     {
+      "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
+      "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
+      "pub_date": "2026-04-21T15:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 30대 여성 ‘숯불 고문’, 숨지게 한 무당…‘무기’서 징역 7년...",
       "link": "https://www.dt.co.kr/article/12058682?ref=naver",
       "pub_date": "2026-04-21T15:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
+      "pub_date": "2026-04-21T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -165,15 +237,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
-      "pub_date": "2026-04-21T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
       "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
       "pub_date": "2026-04-21T15:38:00+09:00",
@@ -181,6 +244,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
+      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421035828",
+      "pub_date": "2026-04-21T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
@@ -197,24 +269,6 @@
       "pub_date": "2026-04-21T15:37:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.joongang.co.kr/article/25422017",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6388.47(▲169.38p, 2.72%), 원·달러 환율 1468.5(▼8.7원)...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189466",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -237,6 +291,15 @@
       "is_scoop": false
     },
     {
+      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
+      "link": "http://www.breaknews.com/1201921",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
       "link": "http://www.breaknews.com/1201938",
       "pub_date": "2026-04-21T15:36:00+09:00",
@@ -246,11 +309,20 @@
       "is_scoop": false
     },
     {
-      "title": "안성시, 고유가 피해 지원금 관련 180억 원 긴급 추경안 편성",
-      "link": "http://www.breaknews.com/1201921",
+      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
+      "link": "https://www.joongang.co.kr/article/25422017",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6388.47(▲169.38p, 2.72%), 원·달러 환율 1468.5(▼8.7원)...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189466",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1724,78 +1796,6 @@
     {
       "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
       "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000838",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "시민이 뽑은 '2026 살인기업' 특별상 SPC - 쿠팡",
-      "link": "https://www.newspim.com/news/view/20260421000834",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "SPC '2026 최악의 살인기업' 특별상 수상",
-      "link": "https://www.newspim.com/news/view/20260421000835",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공개된 '2026 최악의 살인기업'",
-      "link": "https://www.newspim.com/news/view/20260421000829",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 최악의 살인기업 선정식",
-      "link": "https://www.newspim.com/news/view/20260421000833",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 최악의 살인기업 공개 합니다!",
-      "link": "https://www.newspim.com/news/view/20260421000830",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
-      "link": "https://www.newspim.com/news/view/20260421000836",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000827",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
