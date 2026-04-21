@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 19:15:32",
+  "updated": "2026-04-21 19:20:33",
   "total": 200,
   "items": [
+    {
+      "title": "밀양시, '민생 경제' 중심 375억원 규모 긴급 추경안 편성",
+      "link": "https://www.nocutnews.co.kr/news/6505982?utm_source=naver&utm_medium=article&utm_campaign=20260421071830",
+      "pub_date": "2026-04-21T19:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]하림, 홈플러스 익스프레스 매각 우선협상대상자 선정",
+      "link": "https://biz.heraldcorp.com/article/10722486?ref=naver",
+      "pub_date": "2026-04-21T19:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스락 특별기획] 중견 제약사 세대교체 본격화... '경영 시험대' 오른...",
       "link": "http://www.newslock.co.kr/news/articleView.html?idxno=128999",
@@ -48,7 +66,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS홈쇼핑 본입찰...",
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
       "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
@@ -174,8 +192,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] \"내란특검법 위헌\" 尹 헌법소원, 정식 판단 받는다…전원재판부...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042118343240580",
+      "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
+      "link": "http://www.fnnews.com/news/202604211839084411",
       "pub_date": "2026-04-21T18:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
-      "link": "http://www.fnnews.com/news/202604211839084411",
+      "title": "[속보] \"내란특검법 위헌\" 尹 헌법소원, 정식 판단 받는다…전원재판부...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042118343240580",
       "pub_date": "2026-04-21T18:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '1회초 첫 타자 초구 공략' SSG 박성한, 개막 이후 연속 경기 안...",
-      "link": "http://www.osen.co.kr/article/G1112786094",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
       "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
       "pub_date": "2026-04-21T18:33:00+09:00",
@@ -246,9 +255,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
-      "link": "https://www.imaeil.com/page/view/2026042118294446845",
-      "pub_date": "2026-04-21T18:31:00+09:00",
+      "title": "[속보] '1회초 첫 타자 초구 공략' SSG 박성한, 개막 이후 연속 경기 안...",
+      "link": "http://www.osen.co.kr/article/G1112786094",
+      "pub_date": "2026-04-21T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -257,6 +266,15 @@
     {
       "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
       "link": "https://www.newsis.com/view/NISX20260421_0003600721",
+      "pub_date": "2026-04-21T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
+      "link": "https://www.imaeil.com/page/view/2026042118294446845",
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이란 \"위협의 그림자서 협상 못해\"...CNN \"수요일 회담 개최\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604211542450922",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
-      "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
