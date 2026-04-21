@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 17:45:31",
+  "updated": "2026-04-21 17:50:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] ‘강도 상해’ 나나, 피고인에 “재밌니?…내 눈 똑바로 봐라”",
+      "link": "https://www.dt.co.kr/article/12058730?ref=naver",
+      "pub_date": "2026-04-21T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "수리비 부담에 차보험 가입 변화…'고보장·할인특약' 중심 재편",
+      "link": "https://www.asiatime.co.kr/article/20260421500414",
+      "pub_date": "2026-04-21T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"집에서 흉기 챙겨\"…중학교 시절 앙금으로 고등학교 교사에게 ...",
+      "link": "https://www.imaeil.com/page/view/2026042117353373468",
+      "pub_date": "2026-04-21T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 하동 주택 화재로 70대 여성 사망…용의자 사위 숨진 채 발견",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/21/20260421500216?wlog_tag3=naver",
@@ -48,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
-      "link": "https://www.newspim.com/news/view/20260421001304",
-      "pub_date": "2026-04-21T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
       "pub_date": "2026-04-21T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
+      "link": "https://www.newspim.com/news/view/20260421001304",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -75,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
-      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
+      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
+      "link": "https://www.newspim.com/news/view/20260421001228",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
-      "link": "https://www.newspim.com/news/view/20260421001228",
+      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
+      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,21 +399,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령, 인도 순방 마치고 베트남으로 출국",
-      "link": "https://biz.heraldcorp.com/article/10722375?ref=naver",
-      "pub_date": "2026-04-21T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[퇴근길이슈] 지수 친오빠 무관·방시혁 구속영장·송민호 재복무 기회",
       "link": "http://www.joynews24.com/view/1962203",
       "pub_date": "2026-04-21T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령, 인도 순방 마치고 베트남으로 출국",
+      "link": "https://biz.heraldcorp.com/article/10722375?ref=naver",
+      "pub_date": "2026-04-21T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1774,33 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
-      "pub_date": "2026-04-21T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
-      "pub_date": "2026-04-21T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총 \"'진주 물류센터 사망' CU·경찰·정부 책임…총력 투쟁\"",
-      "link": "https://www.nocutnews.co.kr/news/6505725?utm_source=naver&utm_medium=article&utm_campaign=20260421024928",
-      "pub_date": "2026-04-21T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
