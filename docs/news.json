@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 21:30:34",
+  "updated": "2026-04-21 21:35:26",
   "total": 200,
   "items": [
+    {
+      "title": "[뉴스공감] 안갯속 종전협상...트럼프는 왜 날짜를 바꿨나",
+      "link": "https://news.cpbc.co.kr/article/1172354?division=NAVER",
+      "pub_date": "2026-04-21T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "농협 강호동 \"정부와 쌀 수급안정에 총력…농가 소득 증대 최우선\"",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048058",
+      "pub_date": "2026-04-21T21:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]\"미국·이란 22일 아침 이슬라마바드 도착…2차 회담 열릴 것\"",
       "link": "http://www.fnnews.com/news/202604212123060447",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '통일교 1억원 수수' 권성동 징역 4년 구형",
-      "link": "http://www.fnnews.com/news/202604211518162383",
-      "pub_date": "2026-04-21T16:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "계룡서 교사에 흉기 휘두른 고등학생, 구속 송치…교사는 입원중",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733584",
-      "pub_date": "2026-04-21T16:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
