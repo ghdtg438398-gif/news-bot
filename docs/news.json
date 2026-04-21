@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-21 14:05:27",
+  "updated": "2026-04-21 14:10:31",
   "total": 200,
   "items": [
+    {
+      "title": "신현송 “금리만 보지 않는다”…한은, '금융안정' 새 판",
+      "link": "http://www.metroseoul.co.kr/article/20260421500227",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민노총, ‘물류센터 참변’에 “직접 만나 대화하자는게 죽어야...",
+      "link": "https://www.dt.co.kr/article/12058639?ref=naver",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이스타항공, 부산-알마티 취항 기념 프로모션 진행",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85862",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[오늘의 게임·IT 소식] 비댁스-위메이드, 스테이블코인 결제 표준 모델...",
+      "link": "https://dealsite.co.kr/articles/160507",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 오후 장 중 한달 만에 1460원대 진입",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04011446645418416",
+      "pub_date": "2026-04-21T14:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 중재국에 파키스탄 협상단 파견 통보\" <WSJ>",
+      "link": "https://www.ajunews.com/view/20260421111757794",
+      "pub_date": "2026-04-21T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "공수처, 법왜곡죄 고발 사건 33건 접수…\"현 인력으로 수사 가능\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526537&plink=ORI&cooper=NAVER",
@@ -39,7 +102,7 @@
       "is_scoop": false
     },
     {
-      "title": "'화장실 막힘' 포드함 300일간 집 못갔다…심리상담 '이 동물' 투입",
+      "title": "불나고, 화장실 막히고...\"가족 임종도 못 봐\" 미 항모, 300일간 집 못갔...",
       "link": "https://www.mt.co.kr/world/2026/04/21/2026042111364198150",
       "pub_date": "2026-04-21T13:57:00+09:00",
       "source_id": "yna",
@@ -237,21 +300,21 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총, CU 규탄 기자회견",
-      "link": "https://www.news1.kr/photos/7867339",
-      "pub_date": "2026-04-21T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "화물연대 조합원 사상사고 관련 긴급 기자회견 연 민주노총",
       "link": "https://www.news1.kr/photos/7867336",
       "pub_date": "2026-04-21T13:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, CU 규탄 기자회견",
+      "link": "https://www.news1.kr/photos/7867339",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -507,6 +570,33 @@
       "is_scoop": false
     },
     {
+      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
+      "link": "https://www.newspim.com/news/view/20260421000831",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000838",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시민이 뽑은 '2026 살인기업' 특별상 SPC - 쿠팡",
+      "link": "https://www.newspim.com/news/view/20260421000834",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "SPC '2026 최악의 살인기업' 특별상 수상",
       "link": "https://www.newspim.com/news/view/20260421000835",
       "pub_date": "2026-04-21T13:15:00+09:00",
@@ -552,35 +642,8 @@
       "is_scoop": false
     },
     {
-      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
-      "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000838",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
       "link": "https://www.newspim.com/news/view/20260421000827",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김범석 coupa...",
-      "link": "https://www.newspim.com/news/view/20260421000834",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1738,69 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://biz.heraldcorp.com/article/10721905?ref=naver",
-      "pub_date": "2026-04-21T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://www.dkilbo.com/news/articleView.html?idxno=541830",
-      "pub_date": "2026-04-21T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰 ‘부정거래 의혹’ 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525152",
-      "pub_date": "2026-04-21T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "http://www.fnnews.com/news/202604211100503798",
-      "pub_date": "2026-04-21T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=400953",
-      "pub_date": "2026-04-21T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, `사기적 부정거래` 방시혁 구속영장 신청",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03496486645418416",
-      "pub_date": "2026-04-21T11:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "SOOP, BFX와 e스포츠 콘텐츠 경쟁력 강화 위한 파트너십 체결…\"단독 개...",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048036",
-      "pub_date": "2026-04-21T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
