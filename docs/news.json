@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 07:30:33",
+  "updated": "2026-04-22 07:35:26",
   "total": 200,
   "items": [
+    {
+      "title": "김포 전자기기 제조공장서 불...소방관 등 2명 부상",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563033",
+      "pub_date": "2026-04-22T07:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “트럼프의 휴전 연장 인정 안 해…국익 따라 행동”",
+      "link": "https://www.munhwa.com/article/11584017?ref=naver",
+      "pub_date": "2026-04-22T07:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김혜성 선발 복귀! 유격수-7번 타자 출전…'절친 더비' 성사됐다...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812027",
+      "pub_date": "2026-04-22T07:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "NH투자증권, 지배구조 개편 '갈림길'…하마평 무성",
+      "link": "https://www.sisaon.co.kr/news/articleView.html?idxno=200456",
+      "pub_date": "2026-04-22T07:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경쟁사 사고 반사이익 끝...LG유플러스 '신뢰 리스크' 시험대",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658854",
+      "pub_date": "2026-04-22T07:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 대구 팔공산서 산불…헬기 6대 투입해 진화 중",
       "link": "https://www.ajunews.com/view/20260422072524888",
@@ -165,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”<이란 국영...",
-      "link": "https://www.sedaily.com/article/20035432?ref=naver",
-      "pub_date": "2026-04-22T06:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "베이징모터쇼 24일 개막…현대차·폭스바겐·BYD, 中 주도권 경쟁",
       "link": "https://www.slist.kr/news/articleView.html?idxno=733638",
       "pub_date": "2026-04-22T06:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”<이란 국영...",
+      "link": "https://www.sedaily.com/article/20035432?ref=naver",
+      "pub_date": "2026-04-22T06:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 “훌륭한 합의하게 될 것...",
-      "link": "https://biz.chosun.com/international/international_general/2026/04/21/NHIVSCS62RFIVKAH4CVS7VG27A/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-21T21:43:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.viva100.com/article/20260421501187",
-      "pub_date": "2026-04-21T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "유료강의에 시설 무단이용..부산의료원 \"몰랐다\"",
-      "link": "https://busanmbc.co.kr/01_new/new01_view.asp?idx=284662",
-      "pub_date": "2026-04-21T21:42:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “훌륭한 합의하게 될 것...휴전 연장 원치 않아”",
-      "link": "https://www.sedaily.com/article/20035400?ref=naver",
-      "pub_date": "2026-04-21T21:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"돈 주면 사건 종료\"…'억대 뇌물' 관세청 수사팀장 구속기소",
-      "link": "https://www.nocutnews.co.kr/news/6506002?utm_source=naver&utm_medium=article&utm_campaign=20260421094031",
-      "pub_date": "2026-04-21T21:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
