@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-21 09:35:32",
+  "updated": "2026-04-21 09:40:10",
   "total": 200,
-  "breaking": 139,
+  "breaking": 138,
   "items": [
     {
-      "title": "[속보] 코스피, 장중 '사상 최고치' 경신…6,355.39",
+      "title": "[속보] 코스피 6340선 돌파…장중 이란 전쟁전 전고점",
+      "link": "https://www.mk.co.kr/article/12022489",
+      "pub_date": "2026-04-21T09:36:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
+      "link": "https://www.news1.kr/photos/7866688",
+      "pub_date": "2026-04-21T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "홈플러스, 이지웨어 브랜드 ‘이지플러스’ 첫 선",
+      "link": "https://www.news1.kr/photos/7866689",
+      "pub_date": "2026-04-21T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 ‘사상 최고치’ 경신…6,355.39",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541287&ref=A",
       "pub_date": "2026-04-21T09:33:00+09:00",
       "source_id": "kbs",
@@ -103,15 +130,6 @@
       "is_scoop": false
     },
     {
-      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁 게임', 짜고 치...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119094",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "LG유플러스, '월드IT쇼' 첫 단독 부스…보이스 AI 선보여",
       "link": "https://www.news2day.co.kr/article/20260421500057",
       "pub_date": "2026-04-21T09:24:00+09:00",
@@ -119,6 +137,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁 게임', 짜고 치...",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119094",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
@@ -157,20 +184,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사상 최고점 돌파…6348.23",
-      "link": "https://www.ekn.kr/web/view.php?key=20260421027098694",
-      "pub_date": "2026-04-21T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 전고점 돌파… 장중 6350 넘어",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709820&code=61141211&cp=nv",
       "pub_date": "2026-04-21T09:22:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최고점 돌파…6348.23",
+      "link": "https://www.ekn.kr/web/view.php?key=20260421027098694",
+      "pub_date": "2026-04-21T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -229,15 +256,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김상욱은 단일화 없이 울산에서 승리할까",
       "link": "https://www.news2day.co.kr/article/20260421500021",
       "pub_date": "2026-04-21T09:18:00+09:00",
@@ -253,6 +271,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -868,8 +895,8 @@
       "is_scoop": false
     },
     {
-      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
+      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
+      "link": "https://www.news2day.co.kr/article/20260421500052",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -877,8 +904,8 @@
       "is_scoop": false
     },
     {
-      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
-      "link": "https://www.news2day.co.kr/article/20260421500052",
+      "title": "[HMM50년 돌아보기-20] 최대‧최고속 컨테이너선 선제 투자",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604210753037274570d99e4c8_23",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1774,33 +1801,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애플 \"팀쿡, 9월 CEO에서 물러나…이사회 의장으로\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042106072301559",
-      "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 소폭 하락 마감…나스닥 0.26%↓",
-      "link": "https://www.etoday.co.kr/news/view/2577460",
-      "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"7만 6,000달러 돌파 시 8만 5,000달러 직행\" 비트코인 운명 가를 휴전 협...",
-      "link": "http://coinreaders.com/231817",
-      "pub_date": "2026-04-21T06:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
