@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 16:50:30",
+  "updated": "2026-04-21 16:55:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 이 대통령, 인도 순방 마치고 베트남으로 출국",
+      "link": "https://biz.heraldcorp.com/article/10722375?ref=naver",
+      "pub_date": "2026-04-21T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[퇴근길이슈] 지수 친오빠 무관·방시혁 구속영장·송민호 재복무 기회",
+      "link": "http://www.joynews24.com/view/1962203",
+      "pub_date": "2026-04-21T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 인천 연수 공영주차장서 시체 발견…경찰 수사",
+      "link": "https://www.kyeonggi.com/article/20260421580435",
+      "pub_date": "2026-04-21T16:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]동거녀 살해한 뒤 3년 6개월 동안 시신 은닉한 30대, 항소심도 징...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150106100000",
+      "pub_date": "2026-04-21T16:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 제2 전성기 맞은 초코파이...해외 단일 국가 연매출 2천억 과자 ...",
       "link": "https://www.mk.co.kr/article/12023040",
@@ -129,15 +165,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…특검 “반...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150130800000",
-      "pub_date": "2026-04-21T16:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
       "link": "http://www.fnnews.com/news/202604211633215250",
       "pub_date": "2026-04-21T16:35:00+09:00",
@@ -147,9 +174,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
-      "pub_date": "2026-04-21T16:33:00+09:00",
+      "title": "[속보]‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…특검 “반...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150130800000",
+      "pub_date": "2026-04-21T16:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -158,6 +185,15 @@
     {
       "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
+      "pub_date": "2026-04-21T16:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
       "pub_date": "2026-04-21T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
+      "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
+      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,15 +345,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013610",
-      "pub_date": "2026-04-21T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "LG유플러스 월드IT쇼 참가…보이스 AI로 통신 역할 확장 시동",
       "link": "https://www.seoultimes.news/news/article.html?no=2000095234",
       "pub_date": "2026-04-21T16:26:00+09:00",
@@ -334,6 +361,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013610",
+      "pub_date": "2026-04-21T16:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보]특검, ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형",
@@ -480,8 +516,8 @@
       "is_scoop": false
     },
     {
-      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
+      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
       "pub_date": "2026-04-21T16:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -489,8 +525,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
+      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
       "pub_date": "2026-04-21T16:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -606,15 +642,6 @@
       "is_scoop": false
     },
     {
-      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
-      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
       "link": "http://www.breaknews.com/1201975",
       "pub_date": "2026-04-21T16:00:00+09:00",
@@ -626,6 +653,15 @@
     {
       "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
+      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "사회복지시설 113명 대피…양양 산불, 일사불란 대응으로 초동 진화",
-      "link": "https://www.nocutnews.co.kr/news/6505702?utm_source=naver&utm_medium=article&utm_campaign=20260421021728",
-      "pub_date": "2026-04-21T14:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 네이버, 'AI 탭' 먼저 띄우고 에이전트 붙인다…검색 패러다임 A...",
-      "link": "https://www.ajunews.com/view/20260421135946003",
-      "pub_date": "2026-04-21T14:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 한병도 원내대표직 사퇴…연임 도전",
-      "link": "https://www.kyeonggi.com/article/20260421580211",
-      "pub_date": "2026-04-21T14:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "더 촘촘해진 ‘위치정보’…이동통신 3사 정확도 개선",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541576&ref=A",
-      "pub_date": "2026-04-21T14:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
