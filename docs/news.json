@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 06:00:40",
-  "total": 185,
+  "updated": "2026-04-22 06:05:27",
+  "total": 190,
   "items": [
+    {
+      "title": "[단독] 스타벅스 주변으로 몰려드는 저가 커피의 '인접 출점' 전략",
+      "link": "https://www.hankyung.com/article/2026042166991",
+      "pub_date": "2026-04-22T06:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[SW광장] AI가 '순수 조롱'의 수단으로...삐뚤어진 관심",
+      "link": "https://www.sportsworldi.com/newsView/20260421518788",
+      "pub_date": "2026-04-22T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
+      "pub_date": "2026-04-22T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
+      "pub_date": "2026-04-22T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 중동발 고유가에 생산자물가 7개월 연속 상승세",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604220600313440",
+      "pub_date": "2026-04-22T06:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란 지도부-협상단 통일 협상안 낼 때까지 휴전 연장\"",
       "link": "https://www.pressian.com/pages/articles/2026042205574953861?utm_source=naver&utm_medium=search",
@@ -147,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
       "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
       "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
-      "link": "https://www.news1.kr/realestate/general/6144187",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T05:20:00+09:00",
@@ -244,6 +280,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
+      "link": "https://www.news1.kr/realestate/general/6144187",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
