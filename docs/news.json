@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 02:05:29",
+  "updated": "2026-04-22 02:10:34",
   "total": 200,
   "items": [
+    {
+      "title": "4월 22일 재물운 및 금전운 운세 (띠별)",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569275",
+      "pub_date": "2026-04-22T02:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'조규성 동료' 19세 MF, 새벽에 흉기에 찔려 생명 위기…긴급 이송→인...",
       "link": "https://www.xportsnews.com/article/2139724",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 삼성전자, 파업 참여 제한 '협정근로자' 143개 파트 2031명 명시",
-      "link": "http://www.inews24.com/view/1962219",
-      "pub_date": "2026-04-21T17:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
