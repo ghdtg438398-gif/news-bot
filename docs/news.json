@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 07:50:30",
-  "total": 197,
+  "updated": "2026-04-22 07:55:28",
+  "total": 195,
   "items": [
+    {
+      "title": "[단독]박세영, 결혼·출산 후 4년 만에 컴백…MBC '가족관계증명서' 출연",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811919",
+      "pub_date": "2026-04-22T07:50:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "트럼프 지지율 37% 최저…유가 급등에 한국전쟁 긴급법 DPA 발동",
       "link": "https://www.sedaily.com/article/20035444?ref=naver",
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
+      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 대구 팔공산 산불 발생...동구청 “입산 금지”",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422028199383",
+      "title": "[속보] 대구 팔공산 산불 발생…동구 일대 입산 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864276",
       "pub_date": "2026-04-22T07:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,33 +1752,6 @@
       "title": "[속보] 트럼프, 휴전만료 전날 \"훌륭한 합의할 것… 휴전연장 원치않아...",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270627",
       "pub_date": "2026-04-21T21:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.hankyung.com/article/2026042171217",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
-      "link": "https://www.joongang.co.kr/article/25422111",
-      "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
