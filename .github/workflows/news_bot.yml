@@ -37,7 +37,7 @@ jobs:
           NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
         run: python news_bot.py
 
-     - name: news.json 커밋 & 푸시
+      - name: news.json 커밋 & 푸시
         run: |
           git config user.name "news-bot"
           git config user.email "bot@github.com"
