@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 01:05:27",
+  "updated": "2026-04-22 01:10:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]“오전 8시(한국시간) 휴전 종료, 이란 답변 아직”…벤스 출국도...",
+      "link": "https://www.munhwa.com/article/11583986?ref=naver",
+      "pub_date": "2026-04-22T01:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[6·3 지방선거 동향] 담양군수 선거전… 박종원 '예산 1조' 공약, 정철...",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=422949",
+      "pub_date": "2026-04-22T01:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]\"밴스, 파키스탄 출국 불투명…백악관 회의 참석 예정\"-CNN",
       "link": "https://www.newsis.com/view/NISX20260422_0003600886",
@@ -1779,24 +1797,6 @@
       "title": "'조합원 사상사고' 규탄대회…사고 운전자 구속영장 검토",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260421172543gvH",
       "pub_date": "2026-04-21T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 국영 TV \"파키스탄으로 떠난 이란 대표단 없어\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604211725083895",
-      "pub_date": "2026-04-21T17:25:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘CU 집회’ 참석자 “트럭, 사람들 보고도 10여m 그냥 달려”",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255213.html",
-      "pub_date": "2026-04-21T17:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
