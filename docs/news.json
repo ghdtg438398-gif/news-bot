@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 20:05:28",
+  "updated": "2026-04-21 20:10:29",
   "total": 200,
   "items": [
+    {
+      "title": "방미심위 방송심의 1호 KBS 박장범의 '조그마한 파우치'",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316781",
+      "pub_date": "2026-04-21T20:08:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스하이킥] 신장식 \"조국, 다른 지역 선택했다면 비난 더 받았을 것.....",
+      "link": "https://n.news.naver.com/mnews/article/214/0001494304?sid=100",
+      "pub_date": "2026-04-21T20:06:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 영월 영흥리 산불 발생…주민 대피 대비 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864271",
@@ -87,6 +105,15 @@
       "title": "중국, 8월 휴머노이드 로봇 체육대회 개최…축구·역도·투호 등 32개 종...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541863&ref=A",
       "pub_date": "2026-04-21T19:35:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541853&ref=A",
+      "pub_date": "2026-04-21T19:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
@@ -1770,33 +1797,6 @@
       "title": "아이브 가을, ‘2026 책 읽는 대한민국’ 캠페인 파트너 발탁..의미 있는...",
       "link": "http://www.breaknews.com/1201973",
       "pub_date": "2026-04-21T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 악귀 쫓는다며 조카 사망케한 무속인, 무기에서 징역 7년으로 대...",
-      "link": "https://www.kyeonggi.com/article/20260421580316",
-      "pub_date": "2026-04-21T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 전쟁공포 딛고 사상 최고치 돌파… 2.7% 급등한 6,388.47로...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150120500000",
-      "pub_date": "2026-04-21T15:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "구미시의회, 제295회 임시회 폐회…20건 안건 처리",
-      "link": "http://www.breaknews.com/1201971",
-      "pub_date": "2026-04-21T15:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
