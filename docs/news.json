@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 04:00:39",
-  "total": 182,
+  "updated": "2026-04-22 04:05:28",
+  "total": 180,
   "items": [
+    {
+      "title": "'핵'과 '해협'에 갇힌 보도…트럼프 거짓 프레임 받아쓴 한국 언론",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333936",
+      "pub_date": "2026-04-22T04:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'우승 없이 상금·대상·평균타수 1위' 전예성, 시즌 첫승 재도전 [KLPGA ...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019917",
@@ -1608,33 +1617,6 @@
       "title": "DL이앤씨, 목동6단지 재건축 시공사 2차 입찰도 단독 응찰",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410818",
       "pub_date": "2026-04-21T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "이란 국영TV \"이란 대표단·, 아직 이슬라마바드 도착 안해\"",
-      "link": "https://www.ajunews.com/view/20260421173316618",
-      "pub_date": "2026-04-21T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
-      "link": "http://www.fnnews.com/news/202604211534245010",
-      "pub_date": "2026-04-21T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
-      "link": "http://www.fnnews.com/news/202604211525270741",
-      "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
