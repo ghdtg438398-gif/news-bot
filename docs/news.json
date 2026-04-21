@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 05:50:28",
+  "updated": "2026-04-22 05:55:28",
   "total": 184,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란 정부 심각한 분열…파키스탄 요청에 휴전 연장”",
+      "link": "https://www.segye.com/newsView/20260422501714?OutUrl=naver",
+      "pub_date": "2026-04-22T05:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란과 휴전 재연장...파키스탄 요청 수용”",
+      "link": "https://www.kyeonggi.com/article/20260422580001",
+      "pub_date": "2026-04-22T05:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] \"이란이 제안 낼 때까지 휴전 연장\"…美증시 이틀째 하락",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220142&t=NN",
@@ -21,7 +39,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장” 전격 발표",
+      "title": "[속보]이란 “협상 불참” 통보에…트럼프 “그들은 분열, 휴전 연장”",
       "link": "https://www.donga.com/news/Inter/article/all/20260422/133787072/1",
       "pub_date": "2026-04-22T05:39:00+09:00",
       "source_id": "yna",
@@ -183,6 +201,24 @@
       "is_scoop": false
     },
     {
+      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
+      "link": "https://www.news1.kr/realestate/general/6144187",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
       "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
       "pub_date": "2026-04-22T05:20:00+09:00",
@@ -198,24 +234,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
-      "link": "https://www.news1.kr/realestate/general/6144187",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -444,8 +462,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
-      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
+      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,8 +480,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
-      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
+      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
+      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1637,24 +1655,6 @@
       "pub_date": "2026-04-21T19:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 앵커, 웃음 멈추고 지진 속보…진도 8.0 경고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525278",
-      "pub_date": "2026-04-21T19:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김영환 지사·이범석 시장 컷오프 입체적 보도 '눈길'",
-      "link": "http://www.cctimes.kr/news/articleView.html?idxno=903160",
-      "pub_date": "2026-04-21T19:54:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
     }
