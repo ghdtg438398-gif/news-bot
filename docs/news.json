@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-21 13:15:29",
+  "updated": "2026-04-21 13:20:29",
   "total": 200,
   "items": [
+    {
+      "title": "日 국민 59%, 헌법에 자위대 명시 찬성… 반대 31%",
+      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500118?wlog_tag3=naver",
+      "pub_date": "2026-04-21T13:19:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
+      "pub_date": "2026-04-21T13:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000827",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
+      "link": "https://www.newspim.com/news/view/20260421000831",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 공개 합니다!",
+      "link": "https://www.newspim.com/news/view/20260421000830",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공개된 '2026 최악의 살인기업'",
+      "link": "https://www.newspim.com/news/view/20260421000829",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 선정 인증서",
+      "link": "https://www.newspim.com/news/view/20260421000828",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "위험의 외주화 원청의 책임이다!",
+      "link": "https://www.newspim.com/news/view/20260421000826",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "사람죽여 빵만드는 살인기업 SPC 처벌하라!",
+      "link": "https://www.newspim.com/news/view/20260421000822",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "양경수 민주노총 위원장이 발언하는 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000820",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호 외치는 '2026 최악의 살인기업 선정식' 참석자들",
+      "link": "https://www.newspim.com/news/view/20260421000819",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "세종문화회관 앞에서 개최된 2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000821",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "과로노동 강요 악덕기업 쿠팡 OUT",
+      "link": "https://www.newspim.com/news/view/20260421000823",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1년에 8명 사망 사람잡는 살인기업 HJ중공업 규탄한다!",
+      "link": "https://www.newspim.com/news/view/20260421000825",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "법원서 판결문 주민번호·주소 유출 “사과”",
       "link": "https://www.naeil.com/news/read/586147?ref=naver",
@@ -66,7 +192,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미군과 일본 자위대, 중국 겨냥 대만해협 등서 실사격·미사일 훈...",
+      "title": "[속보] 미군·일본 자위대, 중국 겨냥 대만해협 등서 실사격 훈련…中,...",
       "link": "https://www.dt.co.kr/article/12058618?ref=naver",
       "pub_date": "2026-04-21T12:58:00+09:00",
       "source_id": "yna",
@@ -1674,132 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 송민호, '병역법 위반' 첫 공판 출석…\"반성하고 있다\" 사과",
-      "link": "https://www.xportsnews.com/article/2139399",
-      "pub_date": "2026-04-21T10:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525141",
-      "pub_date": "2026-04-21T10:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, ‘부실 복무’ 송민호에 징역 1년 6개월 구형…송민호 “...",
-      "link": "https://www.joongang.co.kr/article/25421918",
-      "pub_date": "2026-04-21T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '부실 복무' 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ajunews.com/view/20260421095759577",
-      "pub_date": "2026-04-21T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"당신 집에 열기구가 착륙했어요\"…영화 '업'이 현실에?[이런일이]",
-      "link": "https://www.nocutnews.co.kr/news/6505500?utm_source=naver&utm_medium=article&utm_campaign=20260421101827",
-      "pub_date": "2026-04-21T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혜성, 벤치에서 쉬고 있어! 플래툰 기용 적중? 대신 나온 로하스...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553155229",
-      "pub_date": "2026-04-21T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'부실복무 인정' 송민호 \"기회 된다면 재복무 하겠다\"[스타현장]",
-      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106165133431",
-      "pub_date": "2026-04-21T10:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “장난삼아” 복면 쓰고 10살 의붓딸 손 묶은 외국인 아빠 ‘집...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500055?wlog_tag3=naver",
-      "pub_date": "2026-04-21T10:17:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "SKT 'A.X K1' vs KT '믿음' vs LGU+ '익시오'…통신 3사, WIS 2026서 AI 역량...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838419",
-      "pub_date": "2026-04-21T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '부실 복무' 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.news1.kr/society/court-prosecution/6143461",
-      "pub_date": "2026-04-21T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고속도로 비우고 2만 명 배치…파키스탄, 이란 설득 총력",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541352&ref=A",
-      "pub_date": "2026-04-21T10:15:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주 \"한병도 원내대표 오늘 사퇴…천준호 대행 체제\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2315364.htm",
-      "pub_date": "2026-04-21T10:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "폴리뉴스 모닝브리핑 4월 21일 화요일",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729040",
-      "pub_date": "2026-04-21T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'부실 복무 의혹' 송민호, 첫 재판 출석…\"깊이 반성, 성실히 재판...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811737",
-      "pub_date": "2026-04-21T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
