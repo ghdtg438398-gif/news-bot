@@ -1,15 +1,51 @@
 {
-  "updated": "2026-04-21 13:35:30",
+  "updated": "2026-04-21 13:40:30",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
-      "link": "https://www.kyeonggi.com/article/20260421580130",
-      "pub_date": "2026-04-21T13:32:00+09:00",
+      "title": "[속보]“반도체만 182억불” 4월 수출 ‘사상 최고치’",
+      "link": "https://magazine.hankyung.com/business/article/202604215829b",
+      "pub_date": "2026-04-21T13:38:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "자동차보험, 보험료 2.3% 내렸는데 보장은 확대… '고보장·저비용' 재편",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201075",
+      "pub_date": "2026-04-21T13:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국방부 \"브런슨 사령관, 안규백 장관에 '정동영 기밀유출' 항의한...",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600040",
+      "pub_date": "2026-04-21T13:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "이스타항공, 부산-알마티 취항 앞두고 특가 프로모션 진행",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513425",
+      "pub_date": "2026-04-21T13:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
+      "pub_date": "2026-04-21T13:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
@@ -21,12 +57,12 @@
       "is_scoop": false
     },
     {
-      "title": "'독점의 벽 무너졌다'…JTBC-KBS '북중미 월드컵 중계권' 극적 타결",
-      "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=315722",
+      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
+      "link": "https://www.kyeonggi.com/article/20260421580130",
       "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -35,6 +71,15 @@
       "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'독점의 벽 무너졌다'…JTBC-KBS '북중미 월드컵 중계권' 극적 타결",
+      "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=315722",
+      "pub_date": "2026-04-21T13:32:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -138,15 +183,6 @@
       "is_scoop": false
     },
     {
-      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
-      "pub_date": "2026-04-21T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "로켓으로 날려 버리는 '2026 최악의 살인기업 '",
       "link": "https://www.newspim.com/news/view/20260421000843",
       "pub_date": "2026-04-21T13:16:00+09:00",
@@ -156,8 +192,17 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업 선정 인증서",
-      "link": "https://www.newspim.com/news/view/20260421000828",
+      "title": "오타니, 추신수 기록 따라잡았다…52경기 연속 출루",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513473",
+      "pub_date": "2026-04-21T13:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
+      "link": "https://www.newspim.com/news/view/20260421000834",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,44 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
-      "link": "https://www.newspim.com/news/view/20260421000836",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "허영인 SPC 회장 '2026 최악의 살인기업' 특별상 수상",
-      "link": "https://www.newspim.com/news/view/20260421000835",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공개된 '2026 최악의 살인기업'",
-      "link": "https://www.newspim.com/news/view/20260421000829",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장",
-      "link": "https://www.newspim.com/news/view/20260421000833",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 최악의 살인기업 공개 합니다!",
-      "link": "https://www.newspim.com/news/view/20260421000830",
+      "title": "'2026 최악의 살인기업 선정식' 퍼포먼스 준비",
+      "link": "https://www.newspim.com/news/view/20260421000840",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
-      "link": "https://www.newspim.com/news/view/20260421000834",
+      "title": "2026 최악의 살인기업 선정 인증서",
+      "link": "https://www.newspim.com/news/view/20260421000828",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +255,44 @@
       "is_scoop": false
     },
     {
-      "title": "'2026 최악의 살인기업 선정식' 퍼포먼스 준비",
-      "link": "https://www.newspim.com/news/view/20260421000840",
+      "title": "허영인 SPC 회장 '2026 최악의 살인기업' 특별상 수상",
+      "link": "https://www.newspim.com/news/view/20260421000835",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공개된 '2026 최악의 살인기업'",
+      "link": "https://www.newspim.com/news/view/20260421000829",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
+      "link": "https://www.newspim.com/news/view/20260421000836",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 공개 합니다!",
+      "link": "https://www.newspim.com/news/view/20260421000830",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장",
+      "link": "https://www.newspim.com/news/view/20260421000833",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "다카이치 총리 개헌 추진 탄력…일본 국민 60% \"헌법에 자위대 명시 찬...",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031304",
-      "pub_date": "2026-04-21T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대만처럼 반도체가 쏘아 올릴까…韓 1분기 '깜짝' GDP 가능성은",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410700",
-      "pub_date": "2026-04-21T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[잇슈 연예 브리핑] 실물 보고 입이 떡!…'송중기♥' 케이티 실물 어떻...",
-      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1521788",
-      "pub_date": "2026-04-21T10:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 “부산 글로벌법 여러 한계… 전면 재설계해야”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042110285533551",
-      "pub_date": "2026-04-21T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '102일 부실 복무' 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.xportsnews.com/article/2139427",
-      "pub_date": "2026-04-21T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
