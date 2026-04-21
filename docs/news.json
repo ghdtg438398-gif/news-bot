@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 14:35:27",
+  "updated": "2026-04-21 14:40:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 한병도, 원내대표직 사퇴…연임 도전",
+      "link": "http://www.jeonmin.co.kr/news/articleView.html?idxno=438404",
+      "pub_date": "2026-04-21T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[유통 Pick] 외부 협력 통한 사업 확장 가속",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201082",
+      "pub_date": "2026-04-21T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]李대통령 좌표찍자…경제3단체 1분기 보도자료 절반으로 급감",
+      "link": "https://www.hankyung.com/article/202604215938i",
+      "pub_date": "2026-04-21T14:37:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 김지석, '연애의 재발견' 주연 캐스팅…김소연 만난다",
+      "link": "https://www.news1.kr/entertain/broadcast-tv/6143868",
+      "pub_date": "2026-04-21T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 민주당, 수원·화성·동두천 광역의원 단수 공천",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723460",
+      "pub_date": "2026-04-21T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총 \"'화물연대 조합원 사상' CU·정부 책임…총력 투쟁\"[노컷네컷...",
+      "link": "https://www.nocutnews.co.kr/news/6505721?utm_source=naver&utm_medium=article&utm_campaign=20260421023528",
+      "pub_date": "2026-04-21T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 한병도, 與 원내대표직 사퇴…연임 도전 공식화",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838484",
@@ -192,21 +246,21 @@
       "is_scoop": false
     },
     {
-      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
-      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
-      "pub_date": "2026-04-21T14:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한병도 민주당 원내대표 사퇴…'연임 도전' 공식화",
       "link": "https://www.dailian.co.kr/news/view/1636011/?sc=Naver",
       "pub_date": "2026-04-21T14:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
+      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
+      "pub_date": "2026-04-21T14:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -219,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
+      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[POP!신제품] 오리온, 유용욱 셰프 협업 '바베큐 한정판' 4종 출시 外",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118909",
+      "title": "[POP!유통가] 놀유니버스, '리나 슈퍼히어로' 체험전 MD+티켓 패키지 단...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118921",
       "pub_date": "2026-04-21T14:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -354,6 +408,15 @@
       "is_scoop": false
     },
     {
+      "title": "선거 앞두고 금품 살포…전주농협 이사 3명 법정 구속",
+      "link": "https://www.nocutnews.co.kr/news/6505688?utm_source=naver&utm_medium=article&utm_campaign=20260421020927",
+      "pub_date": "2026-04-21T14:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]한병도, 연임 위해 원내대표 사퇴…\"한번 시작한 일 마무리해야\"",
       "link": "https://view.asiae.co.kr/article/2026042114100561645",
       "pub_date": "2026-04-21T14:10:00+09:00",
@@ -369,15 +432,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "선거 앞두고 금품 살포…전주농협 이사 3명 법정 구속",
-      "link": "https://www.nocutnews.co.kr/news/6505688?utm_source=naver&utm_medium=article&utm_campaign=20260421020927",
-      "pub_date": "2026-04-21T14:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1746,60 +1800,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경남소방-KBS창원총국, 안전문화 확산·재난예방 협력",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599816",
-      "pub_date": "2026-04-21T11:19:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '부정거래 의혹' 방시혁 하이브 의장 구속영장 신청...1900...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210022",
-      "pub_date": "2026-04-21T11:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '부정거래 혐의' 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://www.xportsnews.com/article/2139454",
-      "pub_date": "2026-04-21T11:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "쇼핑엔티, ‘봄을 바른다’ 뷰티 라인업 확대…봄·여름 시즌 성수기 공...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85851",
-      "pub_date": "2026-04-21T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '사기적 부정거래' 방시혁 구속영장 신청",
-      "link": "https://www.ajunews.com/view/20260421102042633",
-      "pub_date": "2026-04-21T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.nocutnews.co.kr/news/6505584?utm_source=naver&utm_medium=article&utm_campaign=20260421111526",
-      "pub_date": "2026-04-21T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
