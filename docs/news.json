@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 12:40:25",
+  "updated": "2026-04-21 12:45:27",
   "total": 200,
   "items": [
+    {
+      "title": "[NC영상] 트와이스 사나, 원스는 늘 사나 없이 사나 마나",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613252",
+      "pub_date": "2026-04-21T12:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김보라 안성시장, 고유가 대응 추경 투입…청년정책 구조 재편 병행",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28079",
+      "pub_date": "2026-04-21T12:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "내 폰, 긴급구조 위치 잘 잡을까…아이폰 정확도 떨어져",
+      "link": "https://www.nocutnews.co.kr/news/6505644?utm_source=naver&utm_medium=article&utm_campaign=20260421124027",
+      "pub_date": "2026-04-21T12:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 교사 피습 배경엔 '반복된 민원'…\"피해교사 제도적 개입 필요\"",
       "link": "http://news.ebs.co.kr/ebsnews/allView/60716360/N",
@@ -35,6 +62,15 @@
       "pub_date": "2026-04-21T12:30:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대, 경남경찰청 진입 시도…대치중",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190137.html",
+      "pub_date": "2026-04-21T12:29:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -165,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
+      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
+      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,15 +255,6 @@
       "is_scoop": false
     },
     {
-      "title": "“AI가 암 치료 설계까지 하루에”…LG·밴더빌트 ‘에이전틱 AI’ 공개",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095227",
-      "pub_date": "2026-04-21T11:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
       "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
       "pub_date": "2026-04-21T11:49:00+09:00",
@@ -235,6 +262,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "“AI가 암 치료 설계까지 하루에”…LG·밴더빌트 ‘에이전틱 AI’ 공개",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095227",
+      "pub_date": "2026-04-21T11:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 서울시의회, 한강버스 셔틀·승조원 세금 지원 제동…업무협약 ...",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
-      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日정부, 살상 능력 무기 수출 제한 규정 폐지",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599647",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513335",
-      "pub_date": "2026-04-21T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
