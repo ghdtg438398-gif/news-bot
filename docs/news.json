@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-21 15:30:30",
+  "updated": "2026-04-21 15:35:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 2.72% 오른 6388.47로 마감…사상 최고치",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/04/21/FEGW6CNWQBGYVJXXPPZR4GO4X4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-21T15:34:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 169.38p(2.72%) 오른 6388.47 마감",
+      "link": "https://www.ajunews.com/view/20260421153011285",
+      "pub_date": "2026-04-21T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감...사상 최고치 경신",
+      "link": "http://www.metroseoul.co.kr/article/20260421500301",
+      "pub_date": "2026-04-21T15:34:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"경쟁 대신 선별\"…정비사업 수주전, 단독입찰 확산 속 '핵심지 격돌'",
+      "link": "https://www.ajunews.com/view/20260421142211081",
+      "pub_date": "2026-04-21T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]코스피, 2.72% 오른 6388.47 마감…사상 최고치 경신",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04464086645418416",
+      "pub_date": "2026-04-21T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최고가 마감…2.72% 오른 6388.47",
+      "link": "https://www.hankyung.com/article/2026042162456",
+      "pub_date": "2026-04-21T15:33:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6388.47…2.72% 상승 마감",
+      "link": "https://www.sidae.com/article/2026042115311493601",
+      "pub_date": "2026-04-21T15:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 4.18p(0.36%) 오른 1179.03(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2577753",
+      "pub_date": "2026-04-21T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 169.38p(2.72%) 오른 6388.47(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2577754",
+      "pub_date": "2026-04-21T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최고치 경신…6,388.47로 마감",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541621&ref=A",
+      "pub_date": "2026-04-21T15:32:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 8.7원 내린 1468.5원 마감",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600337",
+      "pub_date": "2026-04-21T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600332",
+      "pub_date": "2026-04-21T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "토큰 증권도 내년 도입...디지털 금융 혁신 확산",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1365442",
@@ -156,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
+      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
-      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
+      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,6 +363,15 @@
       "is_scoop": false
     },
     {
+      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
+      "pub_date": "2026-04-21T14:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
@@ -269,15 +386,6 @@
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1693,114 +1801,6 @@
       "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "산업부·노동부, 청년 훈련 위한 'K-뉴딜 아카데미' 사업 참여 기업 모집",
-      "link": "https://www.ajunews.com/view/20260421093737520",
-      "pub_date": "2026-04-21T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "차값 오르자 보장은 키우고 보험료는 낮췄다…자동차보험 ‘합리적 가입...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03752326645418416",
-      "pub_date": "2026-04-21T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
-      "pub_date": "2026-04-21T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
-      "pub_date": "2026-04-21T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "구자열 예비후보 \"0~18세 '원주 1억 아이키움'…원주를 반값생활비 도시...",
-      "link": "https://www.newspim.com/news/view/20260421000436",
-      "pub_date": "2026-04-21T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
-      "pub_date": "2026-04-21T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
-      "pub_date": "2026-04-21T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]사회복무 근무지서 100일 넘게 무단 결근 송민호 징역 1년 6개월 ...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150044600000",
-      "pub_date": "2026-04-21T11:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한반도에서 전쟁 벌어질 때... 이 '자격증' 갖고 있으면 여성도 동원",
-      "link": "https://www.wikitree.co.kr/articles/1132631",
-      "pub_date": "2026-04-21T11:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "공수처, '통일교 편파수사 의혹' 본격 수사…\"특검 관계자 출석 조사가...",
-      "link": "https://www.newspim.com/news/view/20260421000675",
-      "pub_date": "2026-04-21T11:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, 진주 CU 물류센터 화물연대 조합원 차로 친 40대 구속영장 검토",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=733506",
-      "pub_date": "2026-04-21T11:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
-      "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
-      "pub_date": "2026-04-21T11:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
