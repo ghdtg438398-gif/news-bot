@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-21 16:20:28",
+  "updated": "2026-04-21 16:25:39",
   "total": 200,
   "items": [
+    {
+      "title": "차세대 비만약, '주사·경구제' 투트랙...다중 수용체·편의성'으로 패러...",
+      "link": "https://www.mediapen.com/news/view/1094747",
+      "pub_date": "2026-04-21T16:24:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희특검, ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.viva100.com/article/20260421501003",
+      "pub_date": "2026-04-21T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '통일교 1억' 권성동 2심서 징역 4년 구형",
+      "link": "https://news.tf.co.kr/read/life/2315628.htm",
+      "pub_date": "2026-04-21T16:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, ‘통일교 1억원 수수’ 권성동 항소심 징역 4년 구형",
+      "link": "https://www.joongang.co.kr/article/25422042",
+      "pub_date": "2026-04-21T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042116212177633",
+      "pub_date": "2026-04-21T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, '통일교 1억 수수' 권성동 2심도 징역 4년 구형",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600481",
+      "pub_date": "2026-04-21T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.yna.co.kr/view/AKR20260421139600004?input=1195m",
+      "pub_date": "2026-04-21T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]민주 광주시당, 후보 비위 투서 ‘뭉개기’ 의혹",
+      "link": "https://www.kukinews.com/article/view/kuk202604210043",
+      "pub_date": "2026-04-21T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 특검, '통일교 1억원 수수' 권성동 징역 4년 구형",
+      "link": "http://www.fnnews.com/news/202604211518162383",
+      "pub_date": "2026-04-21T16:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, '통일교 1억원 수수' 권성동 항소심 징역 4년 구형",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04674006645418416",
+      "pub_date": "2026-04-21T16:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.newspim.com/news/view/20260421001183",
+      "pub_date": "2026-04-21T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '통일교 1억 수수' 권성동 2심서 징역 4년 구형",
+      "link": "https://www.news1.kr/society/general-society/6144085",
+      "pub_date": "2026-04-21T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "계룡서 교사에 흉기 휘두른 고등학생, 구속 송치…교사는 입원중",
       "link": "https://www.slist.kr/news/articleView.html?idxno=733584",
@@ -93,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "클유아, 글로벌 도약 꿈꾼다 \"브라질 겨냥·日홍백가합전 목표\" [인터뷰...",
-      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042018343113460",
+      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
+      "link": "https://www.xportsnews.com/article/2139599",
       "pub_date": "2026-04-21T16:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
-      "link": "https://www.xportsnews.com/article/2139599",
+      "title": "클유아, 글로벌 도약 꿈꾼다 \"브라질 겨냥·日홍백가합전 목표\" [인터뷰...",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042018343113460",
       "pub_date": "2026-04-21T16:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
-      "link": "http://www.breaknews.com/1201975",
+      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
+      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
+      "link": "http://www.breaknews.com/1201975",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,7 +336,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 사상 최고치 돌파… 2.7% 급등한 6,388.47로 장 마감",
+      "title": "[속보]코스피, 전쟁공포 딛고 사상 최고치 돌파… 2.7% 급등한 6,388.47로...",
       "link": "https://www.kwnews.co.kr/page/view/2026042150120500000",
       "pub_date": "2026-04-21T15:57:00+09:00",
       "source_id": "yna",
@@ -264,20 +372,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
-      "pub_date": "2026-04-21T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]\"나는 얼마 받을까\"...'고유가 지원금' 27일부터 지급",
       "link": "https://magazine.hankyung.com/business/article/202604216299b",
       "pub_date": "2026-04-21T15:50:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.72% 오른 6388.47 마감…사상 최고치 마감",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421508&PRO_CODE=99",
+      "pub_date": "2026-04-21T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -427,7 +535,7 @@
     },
     {
       "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
-      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421035828",
+      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421042229",
       "pub_date": "2026-04-21T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -442,6 +550,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
+      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421035828",
+      "pub_date": "2026-04-21T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
@@ -462,8 +579,8 @@
       "is_scoop": false
     },
     {
-      "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
-      "link": "http://www.breaknews.com/1201943",
+      "title": "성남시, 위기가구 상세주소 부여 추진",
+      "link": "http://www.breaknews.com/1201934",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -471,8 +588,8 @@
       "is_scoop": false
     },
     {
-      "title": "성남시, 위기가구 상세주소 부여 추진",
-      "link": "http://www.breaknews.com/1201934",
+      "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
+      "link": "http://www.breaknews.com/1201943",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1683,123 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, CU 규탄 긴급 기자회견",
-      "link": "https://www.news1.kr/photos/7867340",
-      "pub_date": "2026-04-21T13:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, CU 규탄 기자회견",
-      "link": "https://www.news1.kr/photos/7867339",
-      "pub_date": "2026-04-21T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 조합원 사상사고 관련 긴급 기자회견 연 민주노총",
-      "link": "https://www.news1.kr/photos/7867336",
-      "pub_date": "2026-04-21T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "발언하는 양경수 민주노총 위원장",
-      "link": "https://www.news1.kr/photos/7867333",
-      "pub_date": "2026-04-21T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 규탄발언하는 양경수 민주노총 위원장",
-      "link": "https://www.news1.kr/photos/7867334",
-      "pub_date": "2026-04-21T13:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
-      "link": "https://www.news1.kr/photos/7867324",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
-      "link": "https://www.news1.kr/photos/7867328",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조국, 평택시 주소 이전 \"가족과 함께 전입신고…평택 삶 일시적...",
-      "link": "https://www.pressian.com/pages/articles/2026042113374654048?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, '화물연대 조합원 사상 사고' BGF리테일 규탄 기자회견",
-      "link": "https://www.news1.kr/photos/7867325",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, '화물연대 조합원 사상 사고' 관련 긴급 기자회견",
-      "link": "https://www.news1.kr/photos/7867331",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“반도체만 182억불” 4월 수출 ‘사상 최고치’",
-      "link": "https://magazine.hankyung.com/business/article/202604215829b",
-      "pub_date": "2026-04-21T13:38:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "자동차보험, 보험료 2.3% 내렸는데 보장은 확대… '고보장·저비용' 재편",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201075",
-      "pub_date": "2026-04-21T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이스타항공, 부산-알마티 취항 앞두고 특가 프로모션 진행",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513425",
-      "pub_date": "2026-04-21T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
