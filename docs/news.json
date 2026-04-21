@@ -1,7 +1,106 @@
 {
-  "updated": "2026-04-21 11:20:34",
+  "updated": "2026-04-21 11:25:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 김은혜 \"李대통령 장특공 발언 바로잡아야…장기 실거주자 위한...",
+      "link": "https://www.kyeonggi.com/article/20260421580117",
+      "pub_date": "2026-04-21T11:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC·KBS, 북중미 월드컵 공동 중계 합의... MBC·SBS에도 최종 제안",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237235",
+      "pub_date": "2026-04-21T11:24:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, ‘부정거래 의혹’ 방시혁 하이브 의장에 구속 영장 신청",
+      "link": "https://www.mk.co.kr/article/12022697",
+      "pub_date": "2026-04-21T11:23:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]경찰, 하이브 방시혁 의장 구속영장 신청…사기적 부정거래 혐의",
+      "link": "https://www.munhwa.com/article/11583807?ref=naver",
+      "pub_date": "2026-04-21T11:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
+      "pub_date": "2026-04-21T11:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
+      "pub_date": "2026-04-21T11:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "월드컵 앞둔 멕시코 왜 이러나, 이번엔 대표 관광 유적지서 총격 참사",
+      "link": "https://view.asiae.co.kr/article/2026042111201743794",
+      "pub_date": "2026-04-21T11:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 방시혁 구속영장 신청…1900억 부당이득 혐의",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1255154.html",
+      "pub_date": "2026-04-21T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "ITZY, 호주 시드니·멜버른 콘서트 성료…세 번째 월드투어 해외 일정 포...",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613251",
+      "pub_date": "2026-04-21T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '부실 복무' 송민호에 징역 1년 6개월 구형…\"재복무 기회 달라\" [영...",
+      "link": "https://www.hankyung.com/article/2026042155387",
+      "pub_date": "2026-04-21T11:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경남소방-KBS창원총국, 안전문화 확산·재난예방 협력",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599816",
+      "pub_date": "2026-04-21T11:19:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경찰 '부정거래 의혹' 방시혁 하이브 의장 구속영장 신청",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604210022",
@@ -93,20 +192,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
-      "pub_date": "2026-04-21T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 경찰, '사기적 부정거래' 방시혁 구속영장 신청",
       "link": "https://www.ytn.co.kr/_ln/0103_202604211111463214",
       "pub_date": "2026-04-21T11:11:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국조특위 '증인 불출석' 유병호·김숙동·조우형 동행명령 의결",
+      "link": "https://www.newsis.com/view/NISX20260421_0003599781",
+      "pub_date": "2026-04-21T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -498,8 +597,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, ‘사기적 부정거래’ 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541434&ref=A",
+      "title": "[속보] 경찰, 하이브 방시혁 구속영장 신청…사기적 부정거래 혐의",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526252&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-21T10:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +606,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁 구속영장 신청…사기적 부정거래 혐의",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526252&plink=ORI&cooper=NAVER",
+      "title": "[속보] 경찰, ‘사기적 부정거래’ 방시혁 하이브 의장에 구속영장 신청",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541434&ref=A",
       "pub_date": "2026-04-21T10:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -651,8 +750,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] ‘이성윤 황제 조사 의혹’ 김진욱 전 공수처장 불기소 정당…법...",
-      "link": "https://biz.heraldcorp.com/article/10721826?ref=naver",
+      "title": "LG U+, 국내 최대 ICT 전시회 '월드IT쇼'서 첫 단독 전시",
+      "link": "https://www.nocutnews.co.kr/news/6505538?utm_source=naver&utm_medium=article&utm_campaign=20260421104426",
       "pub_date": "2026-04-21T10:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -660,8 +759,8 @@
       "is_scoop": true
     },
     {
-      "title": "LG U+, 국내 최대 ICT 전시회 '월드IT쇼'서 첫 단독 전시",
-      "link": "https://www.nocutnews.co.kr/news/6505538?utm_source=naver&utm_medium=article&utm_campaign=20260421104426",
+      "title": "[단독] ‘이성윤 황제 조사 의혹’ 김진욱 전 공수처장 불기소 정당…법...",
+      "link": "https://biz.heraldcorp.com/article/10721826?ref=naver",
       "pub_date": "2026-04-21T10:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1701,105 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강원 양양서 산불 발생…안전재난문자 발송",
-      "link": "https://www.etoday.co.kr/news/view/2577558",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 2% 상승...장중 사상 최고치 경신",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604210918104538",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주성엔지니어링 VI 발동, 주가 15% 도약…10만원선 뚫었다",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569146",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6355선 터치…전고점 돌파",
-      "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817760",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6300선 돌파…장중 중동전쟁 전고점 넘겨",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042109161886736",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 역사상 최고가…장중 6350선 돌파",
-      "link": "https://www.hankyung.com/article/202604214806i",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6350.94 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6350선 돌파…사상 최고치 경신",
-      "link": "https://www.newspim.com/news/view/20260421000232",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
-      "pub_date": "2026-04-21T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6300 재돌파…SK하이닉스 신고가",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300654",
-      "pub_date": "2026-04-21T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
