@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-21 10:35:31",
+  "updated": "2026-04-21 10:40:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 김용 “김남국 또 전략공천은 특혜”…안산갑 ‘신경전’ 격화",
+      "link": "https://www.kyeonggi.com/article/20260421580088",
+      "pub_date": "2026-04-21T10:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[현장]'실형 구형' 송민호 \"공황장애 치료 중…재복무 기회 주길\" 선처 ...",
+      "link": "https://news.jtbc.co.kr/article/NB12295115?influxDiv=NAVER",
+      "pub_date": "2026-04-21T10:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'부실 복무 의혹' 송민호, 징역 1년 6개월 구형",
+      "link": "https://www.news1.kr/photos/7866903",
+      "pub_date": "2026-04-21T10:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "아르코, '문화예술 생태계 진단' 현장 업무보고... 8회 릴레이 개최",
+      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=422758",
+      "pub_date": "2026-04-21T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'나솔' 28기 영호♥옥순, 이미 혼인신고 마쳤다 …옥순 \"딸 아빠 호칭, ...",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931441",
+      "pub_date": "2026-04-21T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "AI·6G·보이스까지 총출동…이통 3사, 월드IT쇼 2026서 '기술 패권 경쟁...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80232",
+      "pub_date": "2026-04-21T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "다카이치 총리 개헌 추진 탄력…일본 국민 60% \"헌법에 자위대 명시 찬...",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031304",
+      "pub_date": "2026-04-21T10:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "대만처럼 반도체가 쏘아 올릴까…韓 1분기 '깜짝' GDP 가능성은",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410700",
@@ -39,24 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525144",
-      "pub_date": "2026-04-21T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '부실 복무' 논란 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702213",
-      "pub_date": "2026-04-21T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "변압기 때문에 히트펌프 신청 불가 없앤다",
       "link": "http://www.samdailbo.com/news/articleView.html?idxno=263102",
       "pub_date": "2026-04-21T10:30:00+09:00",
@@ -66,8 +111,26 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]검찰, ‘부실 복무’ 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525144",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '와 대박' 오타니, 韓 최고 타자 따라잡았다! 52G 연속 출루→추...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553153220",
+      "pub_date": "2026-04-21T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무' 논란 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702213",
       "pub_date": "2026-04-21T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,12 +165,12 @@
       "is_scoop": false
     },
     {
-      "title": "'부실복무' 송민호 징역 1년 6개월 구형..\"공황장애 핑계 NO, 재복무 원한...",
+      "title": "[속보]'부실복무' 송민호 징역 1년 6개월 구형..\"공황장애 핑계 NO, 재복...",
       "link": "https://www.starnewskorea.com/music/2026/04/21/2026042110101843426",
       "pub_date": "2026-04-21T10:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -264,6 +327,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"당신 집에 열기구가 착륙했어요\"…영화 '업'이 현실에?[이런일이]",
+      "link": "https://www.nocutnews.co.kr/news/6505500?utm_source=naver&utm_medium=article&utm_campaign=20260421101827",
+      "pub_date": "2026-04-21T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 혜성, 벤치에서 쉬고 있어! 플래툰 기용 적중? 대신 나온 로하스...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553155229",
       "pub_date": "2026-04-21T10:19:00+09:00",
@@ -273,12 +345,12 @@
       "is_scoop": false
     },
     {
-      "title": "\"당신 집에 열기구가 착륙했어요\"…영화 '업'이 현실에?[이런일이]",
-      "link": "https://www.nocutnews.co.kr/news/6505500?utm_source=naver&utm_medium=article&utm_campaign=20260421101827",
-      "pub_date": "2026-04-21T10:19:00+09:00",
+      "title": "[속보]'부실복무 인정' 송민호 \"기회 된다면 재복무 하겠다\"[스타현장]",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106165133431",
+      "pub_date": "2026-04-21T10:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -291,9 +363,9 @@
       "is_scoop": false
     },
     {
-      "title": "'부실복무 인정' 송민호 \"기회 된다면 재복무 하겠다\"[스타현장]",
-      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106165133431",
-      "pub_date": "2026-04-21T10:17:00+09:00",
+      "title": "SKT 'A.X K1' vs KT '믿음' vs LGU+ '익시오'…통신 3사, WIS 2026서 AI 역량...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838419",
+      "pub_date": "2026-04-21T10:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -306,15 +378,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "SKT 'A.X K1' vs KT '믿음' vs LGU+ '익시오'…통신 3사, WIS 2026서 AI 역량...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838419",
-      "pub_date": "2026-04-21T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -444,15 +507,6 @@
       "is_scoop": false
     },
     {
-      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
-      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
       "pub_date": "2026-04-21T10:04:00+09:00",
@@ -460,6 +514,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
+      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]日정부, 살상 능력 무기 수출 제한 규정 폐지",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[LPGA] 시즌 첫 메이저 셰브론 23일 개막...김효주 등 한국 18명 출전",
-      "link": "https://www.newspim.com/news/view/20260421000162",
-      "pub_date": "2026-04-21T08:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]양양군 서면 논화리 산불···초속 6.9ｍ 바람 속 진화 중",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150003700000",
-      "pub_date": "2026-04-21T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“이재명정권 안보·재정 포퓰리즘”, 국민의힘 “깨끗·유능한 지방정...",
-      "link": "http://www.breaknews.com/1201827",
-      "pub_date": "2026-04-21T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "웃음 멈추고 '속보 모드'…일본 강진 뒤 '대지진 공포' 확산 [소셜픽]",
-      "link": "https://news.jtbc.co.kr/article/NB12295087?influxDiv=NAVER",
-      "pub_date": "2026-04-21T08:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 전국 무인점포 30여 곳 턴 10대 2인조…법원 \"소년범 교화\" 구속...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189364",
-      "pub_date": "2026-04-21T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]다카이치, 야스쿠니 신사에 공물 봉납…참배는 보류할 듯",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525118",
-      "pub_date": "2026-04-21T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "덧신 신고 물 뿌리고…3년 반 동안 경찰 따돌린 '복면 절도범'",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189363",
-      "pub_date": "2026-04-21T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
