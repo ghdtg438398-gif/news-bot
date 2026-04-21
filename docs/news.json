@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 20:45:30",
+  "updated": "2026-04-21 20:50:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]주택 방화로 70대女 사망…용의자 ‘사위’ 숨진 채 발견",
+      "link": "https://www.munhwa.com/article/11583965?ref=naver",
+      "pub_date": "2026-04-21T20:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
+      "link": "https://www.newspim.com/news/view/20260421001370",
+      "pub_date": "2026-04-21T20:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李대통령, 베트남 하노이 도착…3박4일 순방일정 돌입",
       "link": "https://biz.heraldcorp.com/article/10722504?ref=naver",
@@ -30,13 +48,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
-      "link": "http://www.fnnews.com/news/202604212004375552",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "title": "[단독] \"반론은 1번 뿐, 백의종군 자세로\" 공공위탁기관의 이상한 근로...",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816994_37004.html",
+      "pub_date": "2026-04-21T20:36:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
@@ -48,9 +66,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
-      "pub_date": "2026-04-21T20:31:00+09:00",
+      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
+      "link": "http://www.fnnews.com/news/202604212004375552",
+      "pub_date": "2026-04-21T20:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -59,6 +77,15 @@
     {
       "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
       "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "pub_date": "2026-04-21T20:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,7 +174,7 @@
       "is_scoop": false
     },
     {
-      "title": "'방화 의심' 하동 주택 불, 70대 장모 숨지고 용의자 사위도 숨져",
+      "title": "불 탄 주택 마당서 숨진 70대 장모…방화 용의자 사위도 숨진 채 발견",
       "link": "https://www.mt.co.kr/society/2026/04/21/2026042119330118628",
       "pub_date": "2026-04-21T19:58:00+09:00",
       "source_id": "yna",
@@ -1770,33 +1797,6 @@
       "title": "울산시, 통합돌봄 관련 위기가구 발굴·연계 강화 2일차 교육 실시",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562603",
       "pub_date": "2026-04-21T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합] '기리고', 심장 쫄리는 공포+살벌 연기⋯넷플릭스판 '여고괴담' ...",
-      "link": "http://www.joynews24.com/view/1962178",
-      "pub_date": "2026-04-21T16:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日, 살상 무기 수출 허용…'전쟁 가능 국가' 전환 논란 확산",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250226",
-      "pub_date": "2026-04-21T16:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
-      "link": "https://www.xportsnews.com/article/2139599",
-      "pub_date": "2026-04-21T16:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
