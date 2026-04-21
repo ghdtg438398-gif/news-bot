@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 05:25:33",
-  "total": 174,
+  "updated": "2026-04-22 05:30:42",
+  "total": 180,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
+      "pub_date": "2026-04-22T05:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
+      "pub_date": "2026-04-22T05:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란 공격 보류…파키스탄 요청에 휴전 연장",
+      "link": "https://www.hani.co.kr/arti/international/america/1255293.html",
+      "pub_date": "2026-04-22T05:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422052313PxG",
+      "pub_date": "2026-04-22T05:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란 제안 받고 논의 끝날때까지 휴전 연장”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714586&code=61131111&cp=nv",
+      "pub_date": "2026-04-22T05:24:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.news1.kr/world/usa-canada/6144448",
+      "pub_date": "2026-04-22T05:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220116&t=NN",
@@ -21,6 +75,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프 \"이란과 휴전 연장\"",
+      "link": "https://www.newspim.com/news/view/20260422000017",
+      "pub_date": "2026-04-22T05:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
       "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
       "pub_date": "2026-04-22T05:20:00+09:00",
@@ -30,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “이란 공격 보류·휴전 연장…이란 정부 심각히 분열”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01699046645418744",
+      "title": "[속보]트럼프, 이란 휴전 연장",
+      "link": "http://www.fnnews.com/news/202604220519015987",
       "pub_date": "2026-04-22T05:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프, 이란 휴전 연장",
-      "link": "http://www.fnnews.com/news/202604220519015987",
+      "title": "[속보]트럼프 “이란 공격 보류·휴전 연장…이란 정부 심각히 분열”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01699046645418744",
       "pub_date": "2026-04-22T05:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,15 +147,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 제안 받고 논의 끝날때까지 휴전 연장\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003600903",
-      "pub_date": "2026-04-22T05:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260422051646Ma4",
       "pub_date": "2026-04-22T05:17:00+09:00",
@@ -102,9 +156,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422008700071?input=1195m",
-      "pub_date": "2026-04-22T05:16:00+09:00",
+      "title": "[속보]트럼프 \"이란 제안 받고 논의 끝날때까지 휴전 연장\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003600903",
+      "pub_date": "2026-04-22T05:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -120,11 +174,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란과의 휴전 연장\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604220516050523",
+      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422008700071?input=1195m",
       "pub_date": "2026-04-22T05:16:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란 정부 내분…통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.joongang.co.kr/article/25422219",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -138,11 +201,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://www.joongang.co.kr/article/25422219",
+      "title": "[속보] 트럼프 \"이란과의 휴전 연장\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604220516050523",
       "pub_date": "2026-04-22T05:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -273,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
-      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
-      "pub_date": "2026-04-22T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
       "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
@@ -302,6 +356,15 @@
     {
       "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
       "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1556,15 +1619,6 @@
       "pub_date": "2026-04-21T19:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"CU와 정부는 노동자 죽음 책임져라\".. 민주노총, BGF리테일 본사 앞 강...",
-      "link": "http://www.tongilnews.com/news/articleView.html?idxno=216308",
-      "pub_date": "2026-04-21T19:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
