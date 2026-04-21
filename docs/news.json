@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 11:40:29",
+  "updated": "2026-04-21 11:45:28",
   "total": 200,
   "items": [
+    {
+      "title": "외국인 발길 지역으로 돌린다, 지방공항 키워 관광 분산",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613255",
+      "pub_date": "2026-04-21T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "노정현 \"단일화 시급\"…국힘 분열 변수 속 연제 '구도 전쟁'",
+      "link": "https://www.nocutnews.co.kr/news/6505630?utm_source=naver&utm_medium=article&utm_campaign=20260421114027",
+      "pub_date": "2026-04-21T11:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 방시혁 구속영장 신청…사기적 부정거래 혐의",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2045938",
+      "pub_date": "2026-04-21T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
+      "link": "https://magazine.hankyung.com/business/article/202604215636b",
+      "pub_date": "2026-04-21T11:39:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]서울시의회, 한강버스 셔틀·승조원 세금 지원 제동···업무협약...",
+      "link": "https://www.khan.co.kr/article/202604211139001",
+      "pub_date": "2026-04-21T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "검찰, ‘102일 무단결근’ 혐의 송민호 징역 1년6개월 구형",
       "link": "https://www.seoultimes.news/news/article.html?no=2000095226",
@@ -66,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
-      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
+      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
+      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
+      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
+      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
+      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,20 +246,20 @@
       "is_scoop": false
     },
     {
-      "title": "檢, '부실 복무' 송민호에 징역 1년 6개월 구형…\"재복무 기회 달라\" [영...",
-      "link": "https://www.hankyung.com/article/2026042155387",
-      "pub_date": "2026-04-21T11:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "ITZY, 호주 시드니·멜버른 콘서트 성료…세 번째 월드투어 해외 일정 포...",
       "link": "https://www.nc.press/news/articleView.html?idxno=613251",
       "pub_date": "2026-04-21T11:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '부실 복무' 송민호에 징역 1년 6개월 구형…\"재복무 기회 달라\" [영...",
+      "link": "https://www.hankyung.com/article/2026042155387",
+      "pub_date": "2026-04-21T11:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -336,21 +381,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '52G 연속 출루’ 오타니, 추신수 따라잡았다! 亞 신기록까지 1경...",
-      "link": "http://www.osen.co.kr/article/G1112785805",
-      "pub_date": "2026-04-21T11:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "매뉴얼은 있는데 병상은 없다… 고위험 산모 '떠돌이 진료' 현실",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=301865",
       "pub_date": "2026-04-21T11:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '52G 연속 출루’ 오타니, 추신수 따라잡았다! 亞 신기록까지 1경...",
+      "link": "http://www.osen.co.kr/article/G1112785805",
+      "pub_date": "2026-04-21T11:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1756,51 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 이란 전쟁 전 전고점 돌파…6,348.23",
-      "link": "https://www.pressian.com/pages/articles/2026042109260571976?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-21T09:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘필수약’ 아니어도 수급 불안정 땐 정부 개입…“개정안 입법 예고”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541281&ref=A",
-      "pub_date": "2026-04-21T09:26:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118928",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁 게임', 짜고 치...",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119094",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "LG유플러스, '월드IT쇼' 첫 단독 부스…보이스 AI 선보여",
-      "link": "https://www.news2day.co.kr/article/20260421500057",
-      "pub_date": "2026-04-21T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
