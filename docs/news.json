@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 17:25:27",
+  "updated": "2026-04-21 17:30:33",
   "total": 200,
   "items": [
+    {
+      "title": "[매일경제TV] 이슈따라 요동치는 美 증시 흐름 포착",
+      "link": "https://www.mk.co.kr/article/12023094",
+      "pub_date": "2026-04-21T17:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'조합원 사상사고' 규탄대회…사고 운전자 구속영장 검토",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260421172543gvH",
+      "pub_date": "2026-04-21T17:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 국영 TV \"파키스탄으로 떠난 이란 대표단 없어\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604211725083895",
+      "pub_date": "2026-04-21T17:25:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "“앞에 서있는 사람들을 보고도 트럭이 그냥 달렸다”",
       "link": "https://www.hani.co.kr/arti/area/yeongnam/1255213.html",
@@ -390,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…특검 “반...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150130800000",
+      "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
+      "link": "http://www.fnnews.com/news/202604211633215250",
       "pub_date": "2026-04-21T16:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
-      "link": "http://www.fnnews.com/news/202604211633215250",
+      "title": "[속보]‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형…특검 “반...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150130800000",
       "pub_date": "2026-04-21T16:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -426,21 +453,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김건희특검, ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.mk.co.kr/article/12023023",
-      "pub_date": "2026-04-21T16:32:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[조이人] 클로즈 유어 아이즈 \"활동 연장 원하냐 묻는다면, 우리 대답은...",
       "link": "http://www.joynews24.com/view/1960224",
       "pub_date": "2026-04-21T16:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희특검, ‘통일교 1억 수수’ 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.mk.co.kr/article/12023023",
+      "pub_date": "2026-04-21T16:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1770,33 +1797,6 @@
       "title": "민주노총 \"'화물연대 조합원 사상' CU·정부 책임…총력 투쟁\"[노컷네컷...",
       "link": "https://www.nocutnews.co.kr/news/6505721?utm_source=naver&utm_medium=article&utm_campaign=20260421023528",
       "pub_date": "2026-04-21T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한병도, 與 원내대표직 사퇴…연임 도전 공식화",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838484",
-      "pub_date": "2026-04-21T14:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 운영 BGF리테일 원청교섭 집회 사망사고로 긴장 고조, 화물연대·민주...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436163",
-      "pub_date": "2026-04-21T14:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "춘천소방서, 병원 비화재경보 저감 위한 관서장 현장점검ㆍ컨설팅",
-      "link": "http://fpn119.co.kr/250003",
-      "pub_date": "2026-04-21T14:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
