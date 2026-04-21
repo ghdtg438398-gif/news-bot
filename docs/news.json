@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 12:20:29",
+  "updated": "2026-04-21 12:25:29",
   "total": 200,
   "items": [
+    {
+      "title": "'韓 축구 최악의 감독' 클린스만, 이번엔 가족에 닥친 악재…美 국대 GK...",
+      "link": "https://www.xportsnews.com/article/2139419",
+      "pub_date": "2026-04-21T12:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "송민호 \"재복무 기회 달라\"…혐의 인정 속 징역 1년6개월 구형 (엑's 현장...",
+      "link": "https://www.xportsnews.com/article/2139446",
+      "pub_date": "2026-04-21T12:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 방시혁 영장 신청한 경찰 “자본시장 교란 엄정 대처”",
       "link": "https://biz.heraldcorp.com/article/10722092?ref=naver",
@@ -147,15 +165,6 @@
       "is_scoop": false
     },
     {
-      "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
-      "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
-      "pub_date": "2026-04-21T11:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "“AI가 암 치료 설계까지 하루에”…LG·밴더빌트 ‘에이전틱 AI’ 공개",
       "link": "https://www.seoultimes.news/news/article.html?no=2000095227",
       "pub_date": "2026-04-21T11:49:00+09:00",
@@ -163,6 +172,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
+      "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
+      "pub_date": "2026-04-21T11:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 서울시의회, 한강버스 셔틀·승조원 세금 지원 제동…업무협약 ...",
@@ -300,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
+      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
+      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -318,8 +336,8 @@
       "is_scoop": false
     },
     {
-      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
-      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
+      "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6355.39 장중 최고가 경신",
-      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309936",
-      "pub_date": "2026-04-21T09:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피 6350선 돌파…장중 사상 최고가 경신",
-      "link": "https://economist.co.kr/article/view/ecn202604210003",
-      "pub_date": "2026-04-21T09:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
