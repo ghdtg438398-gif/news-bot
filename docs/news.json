@@ -1,15 +1,42 @@
 {
-  "updated": "2026-04-21 09:25:33",
+  "updated": "2026-04-21 09:30:35",
   "total": 200,
-  "breaking": 136,
+  "breaking": 139,
   "items": [
     {
-      "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118928",
+      "title": "[속보] 코스피, 장중 중동 전쟁전 전고점 돌파…6348.23",
+      "link": "https://news.tf.co.kr/read/economy/2315318.htm",
+      "pub_date": "2026-04-21T09:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 이란 전쟁 전 전고점 돌파…6,348.23",
+      "link": "https://www.pressian.com/pages/articles/2026042109260571976?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-21T09:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘필수약’ 아니어도 수급 불안정 땐 정부 개입…“개정안 입법 예고”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541281&ref=A",
+      "pub_date": "2026-04-21T09:26:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대우건설 VI 발동, 주가 17% 도약…공시 살펴보니",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569147",
       "pub_date": "2026-04-21T09:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -22,7 +49,16 @@
       "is_scoop": true
     },
     {
-      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁  게임', 짜고 치...",
+      "title": "광동제약, 비타500 '마음을 전해요' 캠페인 전개...45종 메시지 적용",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118928",
+      "pub_date": "2026-04-21T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[양준서의 정조준] 대통령과 민주당의 '특별감찰관 핑퐁 게임', 짜고 치...",
       "link": "https://www.pennmike.com/news/articleView.html?idxno=119094",
       "pub_date": "2026-04-21T09:24:00+09:00",
       "source_id": "yna",
@@ -31,11 +67,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 6355.39 ‘사상 최고치’…SK하이닉스 120만원 돌파",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645418416",
+      "title": "[속보] 코스피 장중 6350 돌파 ‘사상 최고치’...외인·기관 쌍끌이 매...",
+      "link": "https://www.mk.co.kr/article/12022476",
       "pub_date": "2026-04-21T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -49,11 +85,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 전고점 돌파… 장중 6350 넘어",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709820&code=61141211&cp=nv",
-      "pub_date": "2026-04-21T09:22:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "title": "[속보]코스피, 6355.39 ‘사상 최고치’…SK하이닉스 120만원 돌파",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02988086645418416",
+      "pub_date": "2026-04-21T09:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -67,21 +103,21 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피 전고점 돌파… 장중 6350 넘어",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029709820&code=61141211&cp=nv",
+      "pub_date": "2026-04-21T09:22:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "신안우이 다음은 '안마도'…KB·산은 등 4.9조 초대형 프로젝트 추진",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410662",
       "pub_date": "2026-04-21T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]美 증시 약세에도…코스피, 6300 뛰어넘어 출발",
-      "link": "https://www.nocutnews.co.kr/news/6505437?utm_source=naver&utm_medium=article&utm_campaign=20260421092025",
-      "pub_date": "2026-04-21T09:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -94,9 +130,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 '역대 최고치' 경신…6350선 돌파",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838402",
-      "pub_date": "2026-04-21T09:20:00+09:00",
+      "title": "[속보]美 증시 약세에도…코스피, 6300 뛰어넘어 출발",
+      "link": "https://www.nocutnews.co.kr/news/6505437?utm_source=naver&utm_medium=article&utm_campaign=20260421092025",
+      "pub_date": "2026-04-21T09:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -105,6 +141,15 @@
     {
       "title": "[속보] 코스피, 6300선 회복 출발…'120만 닉스' 신고가",
       "link": "https://www.kado.net/news/articleView.html?idxno=2045924",
+      "pub_date": "2026-04-21T09:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 '역대 최고치' 경신…6350선 돌파",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838402",
       "pub_date": "2026-04-21T09:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -121,11 +166,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 2% 상승...장중 사상 최고치 경신",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604210918104538",
+      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
       "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -135,6 +180,15 @@
       "pub_date": "2026-04-21T09:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 2% 상승...장중 사상 최고치 경신",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604210918104538",
+      "pub_date": "2026-04-21T09:18:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -150,15 +204,6 @@
     {
       "title": "[속보] 코스피, 장중 6355선 터치…전고점 돌파",
       "link": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005817760",
-      "pub_date": "2026-04-21T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6355.39… 이란 전쟁전 전고점 돌파",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395145",
       "pub_date": "2026-04-21T09:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -184,15 +229,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6350.94 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
-      "pub_date": "2026-04-21T09:17:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 6300선 돌파…장중 중동전쟁 전고점 넘겨",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042109161886736",
       "pub_date": "2026-04-21T09:17:00+09:00",
@@ -211,12 +247,30 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피 6350.94 장중 역대 최고치… 이란 전쟁 전 전고점 돌파",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/21/20260421500031?wlog_tag3=naver",
+      "pub_date": "2026-04-21T09:17:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 6350선 돌파…사상 최고치 경신",
       "link": "https://www.newspim.com/news/view/20260421000232",
       "pub_date": "2026-04-21T09:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
+      "pub_date": "2026-04-21T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -235,15 +289,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김시우, 세계 랭킹 26위로… 개인 최고 순위 보인다",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366177",
-      "pub_date": "2026-04-21T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -499,8 +544,8 @@
       "is_scoop": false
     },
     {
-      "title": "[기원상컬럼] 팀 쿡 15년의 성과와 한계 그리고 한국 기업이 읽어야 할...",
-      "link": "https://www.ajunews.com/view/20260421090443453",
+      "title": "'이 선수의 국적은 대한민국입니다' 손흥민, 또또 프리미어리그 레전드...",
+      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553154782",
       "pub_date": "2026-04-21T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -508,8 +553,8 @@
       "is_scoop": false
     },
     {
-      "title": "'이 선수의 국적은 대한민국입니다' 손흥민, 또또 프리미어리그 레전드...",
-      "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553154782",
+      "title": "[기원상컬럼] 팀 쿡 15년의 성과와 한계 그리고 한국 기업이 읽어야 할...",
+      "link": "https://www.ajunews.com/view/20260421090443453",
       "pub_date": "2026-04-21T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -634,8 +679,8 @@
       "is_scoop": false
     },
     {
-      "title": "'장난삼아' 복면 쓰고 의붓딸 손 묶은 외국인 아빠 집유",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525918&plink=ORI&cooper=NAVER",
+      "title": "창원시, 배후도시 주거지역 지구단위계획 4차 재정비 착수",
+      "link": "https://www.nocutnews.co.kr/news/6505420?utm_source=naver&utm_medium=article&utm_campaign=20260421090326",
       "pub_date": "2026-04-21T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -652,8 +697,8 @@
       "is_scoop": false
     },
     {
-      "title": "창원시, 배후도시 주거지역 지구단위계획 4차 재정비 착수",
-      "link": "https://www.nocutnews.co.kr/news/6505420?utm_source=naver&utm_medium=article&utm_campaign=20260421090326",
+      "title": "'장난삼아' 복면 쓰고 의붓딸 손 묶은 외국인 아빠 집유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008525918&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-21T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -751,8 +796,8 @@
       "is_scoop": false
     },
     {
-      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
-      "link": "https://www.news2day.co.kr/article/20260421500052",
+      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -760,8 +805,8 @@
       "is_scoop": false
     },
     {
-      "title": "TV홈쇼핑, 송출수수료·규제 등 이중 부담에 역성장...정책변화 절실",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604201125077632a79b9f00ab_23",
+      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
+      "link": "https://www.news1.kr/industry/general-industry/6142727",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -778,8 +823,8 @@
       "is_scoop": false
     },
     {
-      "title": "종이지도 아닌 내비 켠 헬릭스…동물 종양 치료, 골든타임 바꾼다",
-      "link": "https://www.news1.kr/industry/general-industry/6142727",
+      "title": "우울증 관해율 62% 찍은 와이브레인 ‘전자약’, 급여화 기반 수익 창출...",
+      "link": "https://www.news2day.co.kr/article/20260421500052",
       "pub_date": "2026-04-21T09:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -877,8 +922,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]LA다운타운서 강도, 방화까지 당한 80대 한인 남성 결국 숨져",
-      "link": "https://www.radiokorea.com/news/article.php?uid=493630",
+      "title": "[단독] 국세청, 서울유니온약품 계열사도 특별세무조사…'불법 리베이트...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28058",
       "pub_date": "2026-04-21T09:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -886,8 +931,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 국세청, 서울유니온약품 계열사도 특별세무조사…'불법 리베이트...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28058",
+      "title": "[단독]LA다운타운서 강도, 방화까지 당한 80대 한인 남성 결국 숨져",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493630",
       "pub_date": "2026-04-21T09:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1753,51 +1798,6 @@
       "title": "[속보] 애플 \"팀 쿡 CEO서 물러나기로…후임자는 존 터너스\"",
       "link": "https://news.jtbc.co.kr/article/NB12295071?influxDiv=NAVER",
       "pub_date": "2026-04-21T06:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "잠잠하던 보험사 M&A 꿈틀...한투지주에 쏠린 시선",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1359851",
-      "pub_date": "2026-04-21T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"배은망덕한 X\" 악플 대가, 30만원...민희진, 손배소 일부 승소",
-      "link": "https://www.mt.co.kr/society/2026/04/21/2026042105254730869",
-      "pub_date": "2026-04-21T06:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "박상용 검사 \"정치권 몸담지 않을 것…국힘과 어떤 접촉도 없었어\" 등 [...",
-      "link": "https://www.dailian.co.kr/news/view/1635763/?sc=Naver",
-      "pub_date": "2026-04-21T06:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“세상은 여자들이 바꾸잖아요”···자우림 김윤아 단독 인터뷰[록과...",
-      "link": "https://www.khan.co.kr/article/202604210600071",
-      "pub_date": "2026-04-21T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 팀쿡, 애플 CEO서 15년만에 물러나…후임은 존 터너스",
-      "link": "https://www.dt.co.kr/article/12058516?ref=naver",
-      "pub_date": "2026-04-21T06:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
