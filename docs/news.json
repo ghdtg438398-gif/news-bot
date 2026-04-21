@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 16:40:32",
+  "updated": "2026-04-21 16:45:30",
   "total": 200,
   "items": [
+    {
+      "title": "중동 전쟁 두 달째 유가 2천원 육박…서민들 고통 여전",
+      "link": "https://www.nocutnews.co.kr/news/6505855?utm_source=naver&utm_medium=article&utm_campaign=20260421044329",
+      "pub_date": "2026-04-21T16:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
+      "link": "https://www.ajunews.com/view/20260421163826518",
+      "pub_date": "2026-04-21T16:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]특검, ‘통일교 1억 수수’ 권성동 2심도 징역 4년 구형",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500193?wlog_tag3=naver",
@@ -39,21 +57,21 @@
       "is_scoop": false
     },
     {
-      "title": "다급해진 CU 대체물류 통해 간편식 긴급 수송",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298607&inflow=N",
-      "pub_date": "2026-04-21T16:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“마약사범 아버지가 기업 회장”…‘재력 확인해 뇌물 요구’ 관세청 ...",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541653&ref=A",
       "pub_date": "2026-04-21T16:36:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "다급해진 CU 대체물류 통해 간편식 긴급 수송",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298607&inflow=N",
+      "pub_date": "2026-04-21T16:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -165,6 +183,15 @@
       "is_scoop": false
     },
     {
+      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
+      "pub_date": "2026-04-21T16:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
       "pub_date": "2026-04-21T16:30:00+09:00",
@@ -176,15 +203,6 @@
     {
       "title": "[논평] 李 정권은 북한을 선제타격할 수 있는가",
       "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382764",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +525,8 @@
       "is_scoop": false
     },
     {
-      "title": "농협 RPC 전국협의회 총회 개최…쌀 수급 안정·농협법 개정 대응 논의",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80261",
+      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
+      "link": "https://www.tokenpost.kr/news/briefing/351721",
       "pub_date": "2026-04-21T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,8 +534,8 @@
       "is_scoop": false
     },
     {
-      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
-      "link": "https://www.tokenpost.kr/news/briefing/351721",
+      "title": "농협 RPC 전국협의회 총회 개최…쌀 수급 안정·농협법 개정 대응 논의",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80261",
       "pub_date": "2026-04-21T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -534,6 +552,15 @@
       "is_scoop": false
     },
     {
+      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
+      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
+      "pub_date": "2026-04-21T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "클유아 \"우리 강점은 팀워크\"…1년 함께한 멤버들에 전한 고마움 [엑's ...",
       "link": "https://www.xportsnews.com/article/2139361",
       "pub_date": "2026-04-21T16:00:00+09:00",
@@ -545,15 +572,6 @@
     {
       "title": "클유아 “이해인과 소통하며 아이디어 반영, 첫 콘서트 꿈만 같아”[EN:...",
       "link": "https://www.newsen.com/news_view.php?uid=202604071540302510",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "컴백 클유아 “우리를 증명할 앨범, 전곡 작사+안무 참여 자신감↑”[E...",
-      "link": "https://www.newsen.com/news_view.php?uid=202604071439022510",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6370선 돌파",
-      "link": "https://news.tf.co.kr/read/economy/2315535.htm",
-      "pub_date": "2026-04-21T14:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "선거 앞두고 금품 살포…전주농협 이사 3명 법정 구속",
-      "link": "https://www.nocutnews.co.kr/news/6505688?utm_source=naver&utm_medium=article&utm_campaign=20260421020927",
-      "pub_date": "2026-04-21T14:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
