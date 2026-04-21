@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 23:05:31",
+  "updated": "2026-04-21 23:10:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]송도에 주차된 차량서 여성 백골 시신 발견…“타살 혐의점 없어...",
+      "link": "https://www.munhwa.com/article/11583977?ref=naver",
+      "pub_date": "2026-04-21T23:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "미 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 호조",
+      "link": "https://www.sedaily.com/article/20035410?ref=naver",
+      "pub_date": "2026-04-21T23:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "미 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 호조",
       "link": "https://www.yna.co.kr/view/AKR20260421178100072?input=1195m",
@@ -1779,24 +1797,6 @@
       "title": "[속보] 이 대통령, 인도 순방 마치고 베트남으로 출국",
       "link": "https://biz.heraldcorp.com/article/10722375?ref=naver",
       "pub_date": "2026-04-21T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 인천 연수 공영주차장서 시신 발견…경찰 수사",
-      "link": "https://www.kyeonggi.com/article/20260421580435",
-      "pub_date": "2026-04-21T16:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]동거녀 살해한 뒤 3년 6개월 동안 시신 은닉한 30대, 항소심도 징...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150106100000",
-      "pub_date": "2026-04-21T16:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
