@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 19:25:26",
+  "updated": "2026-04-21 19:30:34",
   "total": 200,
   "items": [
+    {
+      "title": "\"CU와 정부는 노동자 죽음 책임져라\".. 민주노총, BGF리테일 본사 앞 강...",
+      "link": "http://www.tongilnews.com/news/articleView.html?idxno=216308",
+      "pub_date": "2026-04-21T19:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “내란특검법 위헌” 尹 헌법소원, 정식 판단 받는다…전원재판...",
       "link": "https://www.dt.co.kr/article/12058753?ref=naver",
@@ -84,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
+      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-21T15:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6380선 마감·2.7% 급등…사상 최고치 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500166?wlog_tag3=naver",
-      "pub_date": "2026-04-21T15:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
