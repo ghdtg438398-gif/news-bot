@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 06:15:29",
+  "updated": "2026-04-22 06:20:30",
   "total": 191,
   "items": [
+    {
+      "title": "[속보]트럼프 \"이란 통일된 협상안 내고 논의 종결때까지 휴전\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006206",
+      "pub_date": "2026-04-22T06:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국제유가 상승…WTI 2.57%↑",
       "link": "https://www.etoday.co.kr/news/view/2577847",
@@ -66,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
+      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +84,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
+      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,7 +147,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란이 제안 낼 때까지 휴전 연장\"…美증시 이틀째 하락",
+      "title": "[속보] 미·이란 2차 협상 차질에 美증시 하락 마감",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220142&t=NN",
       "pub_date": "2026-04-22T05:47:00+09:00",
       "source_id": "yna",
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
+      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
       "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,6 +219,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
+      "pub_date": "2026-04-22T05:32:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
       "link": "https://www.sidae.com/article/2026042205301456205",
       "pub_date": "2026-04-22T05:32:00+09:00",
@@ -228,17 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
-      "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
       "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
       "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1711,15 +1720,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 미슐랭 식당서 10명이 29만 원? 이복현 전 금감원장의 수상한 업...",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6816988_37004.html",
-      "pub_date": "2026-04-21T20:17:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
