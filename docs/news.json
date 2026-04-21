@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 19:40:33",
+  "updated": "2026-04-21 19:45:29",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 육군 부사관이 10대 여성 성매매 시도…기강 해이 도마",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189533",
+      "pub_date": "2026-04-21T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "\"CU와 정부는 노동자 죽음 책임져라\".. 민주노총, BGF리테일 본사 앞 강...",
       "link": "http://www.tongilnews.com/news/articleView.html?idxno=216308",
@@ -111,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
-      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
       "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
       "pub_date": "2026-04-21T19:02:00+09:00",
@@ -129,13 +129,13 @@
       "is_scoop": true
     },
     {
-      "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
-      "pub_date": "2026-04-21T18:58:00+09:00",
+      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
+      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
+      "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
@@ -144,6 +144,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-21T15:45:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526793&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-21T15:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
