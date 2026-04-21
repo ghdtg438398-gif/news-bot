@@ -1,13 +1,67 @@
 {
-  "updated": "2026-04-21 13:20:29",
+  "updated": "2026-04-21 13:25:25",
   "total": 200,
   "items": [
+    {
+      "title": "'102일 무단결근' 송민호 \"재복무하겠다\"…법원 앞 해외팬들은 탄식[노...",
+      "link": "https://www.nocutnews.co.kr/news/6505662?utm_source=naver&utm_medium=article&utm_campaign=20260421012327",
+      "pub_date": "2026-04-21T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "검찰, ‘병역법 위반’ 송민호에 징역 1년 6개월 구형..“재복무 기회 ...",
+      "link": "http://www.breaknews.com/1201893",
+      "pub_date": "2026-04-21T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "티웨이항공, 사이판 태풍 체객 지원…보항편 투입해 300여명 수송",
+      "link": "https://www.news2day.co.kr/article/20260421500131",
+      "pub_date": "2026-04-21T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1조 담는 외인, 코스피 2%↑…삼성전기 13%·SDI 17% '초강세'",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210339&t=NN",
+      "pub_date": "2026-04-21T13:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "충남도, 61일간 재난 취약시설 1141곳 전방위 점검…“잠재된 위험 미리...",
+      "link": "http://www.sisanews24.co.kr/18555",
+      "pub_date": "2026-04-21T13:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "日 국민 59%, 헌법에 자위대 명시 찬성… 반대 31%",
       "link": "https://www.seoul.co.kr/news/international/japan/2026/04/21/20260421500118?wlog_tag3=naver",
       "pub_date": "2026-04-21T13:19:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "로켓으로 날려 버리는 '2026 최악의 살인기업 '",
+      "link": "https://www.newspim.com/news/view/20260421000843",
+      "pub_date": "2026-04-21T13:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -21,26 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000827",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
-      "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "2026 최악의 살인기업 공개 합니다!",
-      "link": "https://www.newspim.com/news/view/20260421000830",
+      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
+      "link": "https://www.newspim.com/news/view/20260421000836",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,6 +93,33 @@
       "is_scoop": false
     },
     {
+      "title": "허영인 SPC 회장 '2026 최악의 살인기업' 특별상 수상",
+      "link": "https://www.newspim.com/news/view/20260421000835",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장",
+      "link": "https://www.newspim.com/news/view/20260421000833",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 공개 합니다!",
+      "link": "https://www.newspim.com/news/view/20260421000830",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "2026 최악의 살인기업 선정 인증서",
       "link": "https://www.newspim.com/news/view/20260421000828",
       "pub_date": "2026-04-21T13:15:00+09:00",
@@ -66,8 +129,53 @@
       "is_scoop": false
     },
     {
-      "title": "위험의 외주화 원청의 책임이다!",
-      "link": "https://www.newspim.com/news/view/20260421000826",
+      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
+      "link": "https://www.newspim.com/news/view/20260421000831",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000827",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000838",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
+      "link": "https://www.newspim.com/news/view/20260421000834",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'2026 최악의 살인기업 선정식' 퍼포먼스 준비",
+      "link": "https://www.newspim.com/news/view/20260421000840",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1년에 8명 사망 사람잡는 살인기업 HJ중공업 규탄한다!",
+      "link": "https://www.newspim.com/news/view/20260421000825",
       "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "사람죽여 빵만드는 살인기업 SPC 처벌하라!",
-      "link": "https://www.newspim.com/news/view/20260421000822",
+      "title": "세종문화회관 앞에서 개최된 2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000821",
       "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,15 +210,6 @@
       "is_scoop": false
     },
     {
-      "title": "세종문화회관 앞에서 개최된 2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000821",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "과로노동 강요 악덕기업 쿠팡 OUT",
       "link": "https://www.newspim.com/news/view/20260421000823",
       "pub_date": "2026-04-21T13:14:00+09:00",
@@ -120,8 +219,17 @@
       "is_scoop": false
     },
     {
-      "title": "1년에 8명 사망 사람잡는 살인기업 HJ중공업 규탄한다!",
-      "link": "https://www.newspim.com/news/view/20260421000825",
+      "title": "위험의 외주화 원청의 책임이다!",
+      "link": "https://www.newspim.com/news/view/20260421000826",
+      "pub_date": "2026-04-21T13:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "사람죽여 빵만드는 살인기업 SPC 처벌하라!",
+      "link": "https://www.newspim.com/news/view/20260421000822",
       "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1689,114 +1797,6 @@
       "title": "\"일본인 10명 중 6명, 헌법 자위대 명기 찬성\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR202604211026472g3",
       "pub_date": "2026-04-21T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"북중미 월드컵, KBS에서도 본다\"…JTBC와 공동중계 합의",
-      "link": "https://www.nocutnews.co.kr/news/6505514?utm_source=naver&utm_medium=article&utm_campaign=20260421102626",
-      "pub_date": "2026-04-21T10:27:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]검찰, '부실 복무' 위너 송민호에 징역 1년 6개월 구형",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811755",
-      "pub_date": "2026-04-21T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 사상 첫 6360선 돌파...6400선 넘을까",
-      "link": "http://www.fnnews.com/news/202604211026375962",
-      "pub_date": "2026-04-21T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190090.html",
-      "pub_date": "2026-04-21T10:26:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신현송 “인사청문 과정서 국민께 심려 끼쳐 송구”",
-      "link": "https://www.joongang.co.kr/article/25421920",
-      "pub_date": "2026-04-21T10:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고양시 일산서구보건소 AI스피커 대여",
-      "link": "https://www.joongdo.co.kr/web/view.php?key=20260421010006384",
-      "pub_date": "2026-04-21T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "온코닉테라퓨틱스, '네수파립' 췌장암 치료 가능성 제시",
-      "link": "https://www.kpinews.kr/newsView/1065576060362691",
-      "pub_date": "2026-04-21T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신현송 \"인사청문 과정서 국민께 심려 끼쳐 송구\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421066100002?input=1195m",
-      "pub_date": "2026-04-21T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, ‘부실 복무 의혹’ 송민호 징역 1년 6개월 구형",
-      "link": "https://www.mk.co.kr/article/12022583",
-      "pub_date": "2026-04-21T10:23:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 관세 환급 1660억 달러 시동… 미 역사상 최대 규모 반환 절차 개...",
-      "link": "https://www.g-enews.com/view.php?ud=2026042110151021212bd56fbc3c_1",
-      "pub_date": "2026-04-21T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]오타니 미쳤다! 52G 연속 출루 성공→'亞 최다' 추신수와 어깨 나...",
-      "link": "https://www.sportschosun.com/baseball/2026-04-21/202604210100138790009022",
-      "pub_date": "2026-04-21T10:22:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"日국민, 헌법 자위대 명기에 찬성 59%·반대 31%\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421064200073?input=1195m",
-      "pub_date": "2026-04-21T10:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
