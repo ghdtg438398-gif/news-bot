@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 15:20:30",
+  "updated": "2026-04-21 15:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]코스피, 사상 첫 6400선 돌파",
+      "link": "http://www.fnnews.com/news/202604211521378100",
+      "pub_date": "2026-04-21T15:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "조국혁신당 \"익산시의원 선거구 획정안은 개악\"",
+      "link": "https://www.nocutnews.co.kr/news/6505771?utm_source=naver&utm_medium=article&utm_campaign=20260421032028",
+      "pub_date": "2026-04-21T15:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "일 하네다 공항 관제 시스템 오류… 항공기 80여 편 결항",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526704&plink=ORI&cooper=NAVER",
@@ -210,7 +228,7 @@
       "is_scoop": false
     },
     {
-      "title": "물류차 막다 사망…민노총 \"교섭요구, 죽어야 할 이유인가\"",
+      "title": "물류차 막다 사망…민노총 \"교섭요구했다고 죽어야 하나\"",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04136086645418416",
       "pub_date": "2026-04-21T14:43:00+09:00",
       "source_id": "yna",
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-21T11:46:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이통3사, 월드IT쇼서 AI 경쟁 본격화…풀스택·AX 격돌",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549967",
-      "pub_date": "2026-04-21T11:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장…1900억 원 부당이득 혐의",
-      "link": "http://www.atstar1.com/news/articleView.html?idxno=6034572",
-      "pub_date": "2026-04-21T11:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
