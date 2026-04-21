@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-22 05:10:37",
+  "updated": "2026-04-22 05:15:29",
   "total": 158,
   "items": [
     {
-      "title": "[속보] 미·이란 2차 종전 협상 불확실성에 뉴욕증시 이틀째 하락",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305816?division=NAVER",
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "https://www.yna.co.kr/view/AKR20260422008300071?input=1195m",
+      "pub_date": "2026-04-22T05:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란 전쟁, 휴전 재연장할 것”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/22/PDSBHYYDK5D7XKNO2PD74R5ODE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T05:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미-이란 협상 결렬, 미증시 일제 하락… 나스닥 0.59%↓",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714557&code=61131111&cp=nv",
+      "pub_date": "2026-04-22T05:13:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]뉴욕증시, 미·이란 협상 교착에 이틀째 하락…유가 반등·금리 상...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645418744",
       "pub_date": "2026-04-22T05:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]뉴욕증시, 미·이란 협상 교착에 이틀째 하락…유가 반등·금리 상...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645418744",
+      "title": "[속보] 미·이란 2차 종전 협상 불확실성에 뉴욕증시 이틀째 하락",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305816?division=NAVER",
       "pub_date": "2026-04-22T05:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]JD 밴스 파키스탄행 취소…3대 지수 하락 마감",
-      "link": "https://view.asiae.co.kr/article/2026042205042676997",
+      "title": "[속보] 뉴욕증시, 미·이란 종전 협상 불투명 이틀째 하락 마감",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627099",
       "pub_date": "2026-04-22T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 미·이란 종전 협상 불투명 이틀째 하락 마감",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627099",
+      "title": "[속보]JD 밴스 파키스탄행 취소…3대 지수 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042205042676997",
       "pub_date": "2026-04-22T05:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +120,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
-      "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
+      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +129,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
-      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
+      "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,17 +147,8 @@
       "is_scoop": true
     },
     {
-      "title": "[금융포커스]\"전환기, 중앙은행 역할 다시 물어야\" 신현송의 첫 메시지",
-      "link": "https://www.sidae.com/article/2026042110360622574",
-      "pub_date": "2026-04-22T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미국 나비타스 반도체 16% 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6144441",
+      "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44673",
       "pub_date": "2026-04-22T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +165,17 @@
       "is_scoop": false
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44673",
+      "title": "[금융포커스]\"전환기, 중앙은행 역할 다시 물어야\" 신현송의 첫 메시지",
+      "link": "https://www.sidae.com/article/2026042110360622574",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미국 나비타스 반도체 16% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6144441",
       "pub_date": "2026-04-22T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1392,33 +1419,6 @@
       "title": "밀양시, '민생 경제' 중심 375억원 규모 긴급 추경안 편성",
       "link": "https://www.nocutnews.co.kr/news/6505982?utm_source=naver&utm_medium=article&utm_campaign=20260421071830",
       "pub_date": "2026-04-21T19:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]하림, 홈플러스 익스프레스 매각 우선협상대상자 선정",
-      "link": "https://biz.heraldcorp.com/article/10722486?ref=naver",
-      "pub_date": "2026-04-21T19:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스락 특별기획] 중견 제약사 세대교체 본격화... '경영 시험대' 오른...",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=128999",
-      "pub_date": "2026-04-21T19:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] NS쇼핑, 오프라인 확장... 홈플러스 익스프레스 매각 우선협상대...",
-      "link": "https://www.greened.kr/news/articleView.html?idxno=339613",
-      "pub_date": "2026-04-21T19:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
