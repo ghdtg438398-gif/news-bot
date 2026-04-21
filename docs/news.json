@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 06:40:27",
-  "total": 194,
+  "updated": "2026-04-22 06:45:27",
+  "total": 192,
   "items": [
     {
       "title": "[속보] 이란 국영TV \"트럼프 휴전 연장 인정 안 해…국익 따라 행동할 것...",
@@ -1727,24 +1727,6 @@
       "pub_date": "2026-04-21T20:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령, 베트남 하노이 도착…3박4일 순방일정 돌입",
-      "link": "https://biz.heraldcorp.com/article/10722504?ref=naver",
-      "pub_date": "2026-04-21T20:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이재명 대통령, 하노이 도착…내일 한-베트남 정상회담",
-      "link": "https://www.mk.co.kr/article/12023359",
-      "pub_date": "2026-04-21T20:42:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
