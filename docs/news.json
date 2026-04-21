@@ -1,10 +1,73 @@
 {
-  "updated": "2026-04-21 14:15:30",
+  "updated": "2026-04-21 14:20:29",
   "total": 200,
   "items": [
     {
+      "title": "[속보]코스피, 사상 최고치 경신 계속…6370도 넘어",
+      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042114132972119",
+      "pub_date": "2026-04-21T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 네이버, 'AI 탭' 먼저 띄우고 에이전트 붙인다…검색 패러다임 A...",
+      "link": "https://www.ajunews.com/view/20260421135946003",
+      "pub_date": "2026-04-21T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "사회복지시설 113명 대피…양양 산불, 일사불란 대응으로 초동 진화",
+      "link": "https://www.nocutnews.co.kr/news/6505702?utm_source=naver&utm_medium=article&utm_campaign=20260421021728",
+      "pub_date": "2026-04-21T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한병도, 원내대표직 사퇴…연임 도전",
+      "link": "https://www.kyeonggi.com/article/20260421580211",
+      "pub_date": "2026-04-21T14:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "더 촘촘해진 ‘위치정보’…이동통신 3사 정확도 개선",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541576&ref=A",
+      "pub_date": "2026-04-21T14:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한병도 \"與 원내대표 사퇴…李정부에 더 기여하는 길 찾겠다\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/21/2026042114131428122",
+      "pub_date": "2026-04-21T14:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 한병도, 원내대표직 사임으로 '연임 도전' 공식화",
       "link": "http://www.inews24.com/view/1962117",
+      "pub_date": "2026-04-21T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 한병도, 원내대표 연임 도전 공식화…\"앞으로 해야 할 일 더 많...",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600125",
       "pub_date": "2026-04-21T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한병도, 연임 위해 원내대표 사퇴…\"한번 시작한 일 마무리해야\"",
-      "link": "https://view.asiae.co.kr/article/2026042114100561645",
+      "title": "[속보] 한병도, 원내대표직 사퇴..연임 도전한다",
+      "link": "http://www.fnnews.com/news/202604211118117969",
       "pub_date": "2026-04-21T14:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한병도, 원내대표직 사퇴..연임 도전한다",
-      "link": "http://www.fnnews.com/news/202604211118117969",
+      "title": "[속보]한병도, 연임 위해 원내대표 사퇴…\"한번 시작한 일 마무리해야\"",
+      "link": "https://view.asiae.co.kr/article/2026042114100561645",
       "pub_date": "2026-04-21T14:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,15 +165,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
-      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
-      "pub_date": "2026-04-21T14:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "이스타항공, 부산-알마티 취항 기념 프로모션 진행",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85862",
       "pub_date": "2026-04-21T14:08:00+09:00",
@@ -118,6 +172,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 국민의힘 손범규 남동갑 당협위원장, 공직선거법 위반 의혹",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318012",
+      "pub_date": "2026-04-21T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]원·달러 환율, 오후 장 중 한달 만에 1460원대 진입",
@@ -174,7 +237,7 @@
       "is_scoop": false
     },
     {
-      "title": "불나고, 화장실 막히고...\"가족 임종도 못 봐\" 미 항모, 300일간 집 못갔...",
+      "title": "불나고 화장실 막히고...\"가족 임종도 못봐\" 미 항모 300일간 집 못갔다",
       "link": "https://www.mt.co.kr/world/2026/04/21/2026042111364198150",
       "pub_date": "2026-04-21T13:57:00+09:00",
       "source_id": "yna",
@@ -237,20 +300,20 @@
       "is_scoop": false
     },
     {
-      "title": "정청래가 꺼내든 '이광재 카드'가 평택을·하남갑 흔든다, 국회의원 재...",
-      "link": "https://www.huffingtonpost.kr/article/256751",
-      "pub_date": "2026-04-21T13:50:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[정치家] 배경훈 부총리 겸 과학기술정보통신부 장관 ㅣ 전력·보안·인...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569190",
       "pub_date": "2026-04-21T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정청래가 꺼내든 '이광재 카드'가 평택을·하남갑 흔든다, 국회의원 재...",
+      "link": "https://www.huffingtonpost.kr/article/256751",
+      "pub_date": "2026-04-21T13:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -354,8 +417,17 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 양경수 민주노총 위원장",
-      "link": "https://www.news1.kr/photos/7867333",
+      "title": "화물연대 조합원 사상사고 관련 긴급 기자회견 연 민주노총",
+      "link": "https://www.news1.kr/photos/7867336",
+      "pub_date": "2026-04-21T13:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, CU 규탄 기자회견",
+      "link": "https://www.news1.kr/photos/7867339",
       "pub_date": "2026-04-21T13:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,18 +444,27 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 조합원 사상사고 관련 긴급 기자회견 연 민주노총",
-      "link": "https://www.news1.kr/photos/7867336",
+      "title": "발언하는 양경수 민주노총 위원장",
+      "link": "https://www.news1.kr/photos/7867333",
       "pub_date": "2026-04-21T13:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "민주노총, CU 규탄 기자회견",
-      "link": "https://www.news1.kr/photos/7867339",
-      "pub_date": "2026-04-21T13:40:00+09:00",
+      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
+      "link": "https://www.news1.kr/photos/7867324",
+      "pub_date": "2026-04-21T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
+      "link": "https://www.news1.kr/photos/7867328",
+      "pub_date": "2026-04-21T13:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -408,30 +489,12 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 사상사고 관련 'CU 규탄' 구호 외치는 민주노총",
-      "link": "https://www.news1.kr/photos/7867324",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "민주노총, '화물연대 조합원 사상 사고' 관련 긴급 기자회견",
       "link": "https://www.news1.kr/photos/7867331",
       "pub_date": "2026-04-21T13:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄",
-      "link": "https://www.news1.kr/photos/7867328",
-      "pub_date": "2026-04-21T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -453,13 +516,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국방부 \"브런슨 사령관, 안규백 장관에 '정동영 기밀유출' 항의한...",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600040",
+      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
       "pub_date": "2026-04-21T13:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "이스타항공, 부산-알마티 취항 앞두고 특가 프로모션 진행",
@@ -471,18 +534,9 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴스락 단독] 한국도로공사, 사장 공모 불발... 6월 지방선거 정치권 입...",
-      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=129033",
+      "title": "[속보]국방부 \"브런슨 사령관, 안규백 장관에 '정동영 기밀유출' 항의한...",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600040",
       "pub_date": "2026-04-21T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
-      "link": "https://www.kyeonggi.com/article/20260421580130",
-      "pub_date": "2026-04-21T13:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -504,6 +558,15 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
+      "link": "https://www.kyeonggi.com/article/20260421580130",
+      "pub_date": "2026-04-21T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1734,69 +1797,6 @@
       "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
       "link": "https://www.dailian.co.kr/news/view/1635966/?sc=Naver",
       "pub_date": "2026-04-21T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://www.hankyung.com/article/202604215494i",
-      "pub_date": "2026-04-21T11:04:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.khan.co.kr/article/202604211104011",
-      "pub_date": "2026-04-21T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장 구속영장 신청‥사기적 부정거래 혐의",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6816836_36918.html",
-      "pub_date": "2026-04-21T11:03:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "https://weekly.khan.co.kr/article/202604211103001",
-      "pub_date": "2026-04-21T11:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장 신청",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260421110310Gyo",
-      "pub_date": "2026-04-21T11:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 구속영장 신청…“자본시장법 위반 혐의”",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500082?wlog_tag3=naver",
-      "pub_date": "2026-04-21T11:03:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, '사기적 부정거래' 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://www.mt.co.kr/society/2026/04/21/2026042111011193712",
-      "pub_date": "2026-04-21T11:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
