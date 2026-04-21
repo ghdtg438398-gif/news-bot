@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 04:30:36",
-  "total": 165,
+  "updated": "2026-04-22 04:35:25",
+  "total": 161,
   "items": [
+    {
+      "title": "'챔피언 4인방' 김민솔·김민선7·임진영·고지원, 이번주 충주에서 시즌...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019918",
+      "pub_date": "2026-04-22T04:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "코로나 구호자금 빼돌려 암호화폐 투자…존 고티 손자에 징역형",
       "link": "https://www.tokenpost.kr/news/cryptocurrency/351866",
@@ -1437,51 +1446,6 @@
       "title": "[속보] \"WYD 향한 신앙의 출정\"…명동대성당서 '본당 도약 미사' 봉헌",
       "link": "https://www.ajunews.com/view/20260421182114762",
       "pub_date": "2026-04-21T18:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰 조사 앞두고 숨진 20대 소지품서 ‘독극물’ 검출",
-      "link": "http://www.jndn.com/article.php?aid=1776763873431297101",
-      "pub_date": "2026-04-21T18:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
-      "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '1회초 첫 타자 초구 공략' SSG 박성한, 개막 이후 연속 경기 안...",
-      "link": "http://www.osen.co.kr/article/G1112786094",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600721",
-      "pub_date": "2026-04-21T18:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
-      "link": "https://www.imaeil.com/page/view/2026042118294446845",
-      "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
