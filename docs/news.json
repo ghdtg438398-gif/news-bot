@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-21 16:10:27",
+  "updated": "2026-04-21 16:15:30",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
+      "pub_date": "2026-04-21T16:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
+      "pub_date": "2026-04-21T16:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]경찰, '채용 알선' 혐의 서울시청노조위원장 송치",
+      "link": "https://www.nocutnews.co.kr/news/6505815?utm_source=naver&utm_medium=article&utm_campaign=20260421041128",
+      "pub_date": "2026-04-21T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "건설업 사고사망 45% 급감…정부 \"안전강화 효과\" vs 업계 \"불황 영향\"",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137111",
+      "pub_date": "2026-04-21T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] 복면 쓴 채 10살 딸 결박해놓고 \"장난이었다\" '황당 변명'…...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526661&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이용우 \"CU 물류센터 참변, 책임 명명백백히 밝혀야\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298598&inflow=N",
+      "pub_date": "2026-04-21T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "울산시, 통합돌봄 관련 위기가구 발굴·연계 강화 2일차 교육 실시",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562603",
@@ -30,15 +84,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
-      "link": "https://www.xportsnews.com/article/2139599",
-      "pub_date": "2026-04-21T16:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "클유아, 글로벌 도약 꿈꾼다 \"브라질 겨냥·日홍백가합전 목표\" [인터뷰...",
       "link": "https://www.starnewskorea.com/music/2026/04/21/2026042018343113460",
       "pub_date": "2026-04-21T16:05:00+09:00",
@@ -48,9 +93,9 @@
       "is_scoop": false
     },
     {
-      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
-      "link": "https://www.tokenpost.kr/news/briefing/351721",
-      "pub_date": "2026-04-21T16:04:00+09:00",
+      "title": "\"이미 부부\" 28기 옥순♥영호, '5월 31일' 결혼식 날짜 나왔다…청첩장...",
+      "link": "https://www.xportsnews.com/article/2139599",
+      "pub_date": "2026-04-21T16:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -59,6 +104,15 @@
     {
       "title": "농협 RPC 전국협의회 총회 개최…쌀 수급 안정·농협법 개정 대응 논의",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80261",
+      "pub_date": "2026-04-21T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[저녁 뉴스브리핑] 폴 앳킨스 SEC 위원장 '가상자산 규제, 집행 중심 기...",
+      "link": "https://www.tokenpost.kr/news/briefing/351721",
       "pub_date": "2026-04-21T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
+      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
+      "link": "http://www.breaknews.com/1201975",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "경북도, ‘저출생과 전쟁’ 120대 과제 점검…출산지표 2년 연속 반등",
-      "link": "http://www.breaknews.com/1201975",
+      "title": "車보험, 보장은 키우고 보험료는 낮춰… '가성비 가입' 늘었다",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447306",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,7 +309,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.7% 급등 6380선 마감…사상 최고치 돌파",
+      "title": "[속보] 코스피 ‘사상 최고치’ 6380선 돌파…1.3조 외인 귀환 이어 반도...",
       "link": "https://www.mk.co.kr/article/12022954",
       "pub_date": "2026-04-21T15:45:00+09:00",
       "source_id": "mk",
@@ -309,21 +363,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
       "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
       "pub_date": "2026-04-21T15:42:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
+      "pub_date": "2026-04-21T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -399,15 +453,6 @@
       "is_scoop": false
     },
     {
-      "title": "성남시, 위기가구 상세주소 부여 추진",
-      "link": "http://www.breaknews.com/1201934",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
       "link": "http://www.breaknews.com/1201943",
       "pub_date": "2026-04-21T15:36:00+09:00",
@@ -417,8 +462,8 @@
       "is_scoop": false
     },
     {
-      "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
-      "link": "http://www.breaknews.com/1201938",
+      "title": "성남시, 위기가구 상세주소 부여 추진",
+      "link": "http://www.breaknews.com/1201934",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -432,6 +477,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "수원특례시, 아동 돌봄 및 육아 지원 정책",
+      "link": "http://www.breaknews.com/1201938",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1747,60 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]국방부 \"브런슨 사령관, 안규백 장관에 '정동영 기밀유출' 항의한...",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600040",
-      "pub_date": "2026-04-21T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 21일 대구 삼성-SSG전, 최원태 SSG전 강세 살릴까. SSG 박성한...",
-      "link": "https://www.newspim.com/news/view/20260421000855",
-      "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'독점의 벽 무너졌다'…JTBC-KBS '북중미 월드컵 중계권' 극적 타결",
-      "link": "https://www.stnsports.co.kr/news/articleView.html?idxno=315722",
-      "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 나경원 \"국정원, 민주당 진영 죄 덮어주는 숙주 전락\"",
-      "link": "https://www.kyeonggi.com/article/20260421580130",
-      "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 장 중 6360선도 돌파…사상 최고치 또 경신",
-      "link": "https://www.mt.co.kr/stock/2026/04/21/2026042113311212045",
-      "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[정치家] 정성호 법무부장관 ③ㅣ '서민경제·안전' 등 민생 대응 강화...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569217",
-      "pub_date": "2026-04-21T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
