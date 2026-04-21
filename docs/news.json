@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 21:20:29",
+  "updated": "2026-04-21 21:25:29",
   "total": 200,
   "items": [
+    {
+      "title": "[국회 상임위 리포트②] 한국가스공사 해외 자원개발…로키산맥 뚫은 1...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729139",
+      "pub_date": "2026-04-21T21:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[미리보는 이데일리 신문]부동산PF '대마불사' 시대 끝났다",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06015526645418416",
@@ -129,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
+      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
-      "pub_date": "2026-04-21T16:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
