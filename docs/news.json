@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 05:30:42",
-  "total": 180,
+  "updated": "2026-04-22 05:35:28",
+  "total": 181,
   "items": [
+    {
+      "title": "미·이란 '이슬라마바드 담판' 좌초… 호르무즈 봉쇄에 유가 배럴당 98달...",
+      "link": "https://www.g-enews.com/view.php?ud=2026042205225540572bd56fbc3c_1",
+      "pub_date": "2026-04-22T05:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
+      "link": "https://www.sidae.com/article/2026042205301456205",
+      "pub_date": "2026-04-22T05:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
+      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
+      "pub_date": "2026-04-22T05:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
+      "pub_date": "2026-04-22T05:32:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
       "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
@@ -21,18 +57,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란 공격 보류…파키스탄 요청에 휴전 연장",
+      "title": "[속보] 트럼프, “파키스탄 요청에 따라 휴전 연장”",
       "link": "https://www.hani.co.kr/arti/international/america/1255293.html",
       "pub_date": "2026-04-22T05:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422052313PxG",
-      "pub_date": "2026-04-22T05:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -48,7 +75,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422052313PxG",
+      "pub_date": "2026-04-22T05:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 가져올 때까지 휴전 연장\"",
       "link": "https://www.news1.kr/world/usa-canada/6144448",
       "pub_date": "2026-04-22T05:23:00+09:00",
       "source_id": "yna",
@@ -66,15 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787069/1",
-      "pub_date": "2026-04-22T05:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"이란과 휴전 연장\"",
       "link": "https://www.newspim.com/news/view/20260422000017",
       "pub_date": "2026-04-22T05:21:00+09:00",
@@ -84,9 +111,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
-      "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
-      "pub_date": "2026-04-22T05:20:00+09:00",
+      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787069/1",
+      "pub_date": "2026-04-22T05:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -104,6 +131,15 @@
     {
       "title": "[속보]트럼프 “이란 공격 보류·휴전 연장…이란 정부 심각히 분열”",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01699046645418744",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
+      "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
       "pub_date": "2026-04-22T05:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,11 +165,11 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "title": "[속보] 트럼프 “이란이 통일된 협상안 내놓을 때까지 휴전연장”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542227&ref=A",
       "pub_date": "2026-04-22T05:19:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -165,6 +201,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 트럼프 “이란 정부 내분…통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.joongang.co.kr/article/25422219",
+      "pub_date": "2026-04-22T05:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
       "link": "https://www.sedaily.com/article/20035422?ref=naver",
       "pub_date": "2026-04-22T05:16:00+09:00",
@@ -176,15 +221,6 @@
     {
       "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
       "link": "https://www.yna.co.kr/view/AKR20260422008700071?input=1195m",
-      "pub_date": "2026-04-22T05:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란 정부 내분…통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://www.joongang.co.kr/article/25422219",
       "pub_date": "2026-04-22T05:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,6 +372,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
+      "pub_date": "2026-04-22T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
       "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
@@ -356,15 +401,6 @@
     {
       "title": "[단독]토스뱅크, 애플페이 출시날까지 잡고도 돌연 '보류'",
       "link": "https://www.nocutnews.co.kr/news/6506003?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
-      "pub_date": "2026-04-22T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
-      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1594,33 +1630,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "SK에너지 사고 보고서 입수…“기본 안전 조치 부실”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541866&ref=A",
-      "pub_date": "2026-04-21T19:35:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중국, 8월 휴머노이드 로봇 체육대회 개최…축구·역도·투호 등 32개 종...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541863&ref=A",
-      "pub_date": "2026-04-21T19:35:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541853&ref=A",
-      "pub_date": "2026-04-21T19:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
