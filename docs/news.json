@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 22:55:28",
+  "updated": "2026-04-21 23:00:42",
   "total": 200,
   "items": [
+    {
+      "title": "미 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 호조",
+      "link": "https://www.yna.co.kr/view/AKR20260421178100072?input=1195m",
+      "pub_date": "2026-04-21T22:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "날씨 더워지는데 아이스컵 품귀…골목 카페도 '비상'",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260421225323Cmr",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 제2 전성기 맞은 초코파이...해외 단일 국가 연매출 2천억 과자 ...",
-      "link": "https://www.mk.co.kr/article/12023040",
-      "pub_date": "2026-04-21T16:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
