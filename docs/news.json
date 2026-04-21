@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 23:40:31",
+  "updated": "2026-04-21 23:45:34",
   "total": 200,
   "items": [
+    {
+      "title": "[오늘의 KBO] 디펜딩챔피언 LG, 한화 잡고 단독 2위 올라",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366504",
+      "pub_date": "2026-04-21T23:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[자정 뉴스브리핑] SEC 위원장 '집행을 통한 규제 종료' 外",
       "link": "https://www.tokenpost.kr/news/briefing/351812",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-21T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정청래, ‘돈봉투 의혹’ 임실군수 결선 개표보류·조사 지시",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541667&ref=A",
-      "pub_date": "2026-04-21T16:57:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     }
