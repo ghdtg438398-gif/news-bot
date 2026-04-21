@@ -1,10 +1,19 @@
 {
-  "updated": "2026-04-22 06:50:28",
-  "total": 195,
+  "updated": "2026-04-22 06:55:26",
+  "total": 196,
   "items": [
     {
-      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”<이란 국영...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006211",
+      "pub_date": "2026-04-22T06:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전발표 인정 안해…국익 따라 행동”",
+      "link": "https://biz.heraldcorp.com/article/10722591?ref=naver",
       "pub_date": "2026-04-22T06:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,11 +21,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이란 “미국 휴전 발표 인정 안 해…국익 따라 행동” (이란 국영...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
-      "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
+      "pub_date": "2026-04-22T06:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -26,6 +35,15 @@
       "pub_date": "2026-04-22T06:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 국영방송 “이란, 미국 휴전 발표 인정 안 해…국익 따라 ...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
+      "pub_date": "2026-04-22T06:47:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -57,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
+      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
+      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
+      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
       "pub_date": "2026-04-22T06:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
+      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +255,8 @@
       "is_scoop": true
     },
     {
-      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
+      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
       "pub_date": "2026-04-22T06:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1745,15 +1763,6 @@
       "pub_date": "2026-04-21T21:03:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(R)[TJB 여론조사②]충남지사 박수현 42.2% 김태흠 29.5%",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97404",
-      "pub_date": "2026-04-21T20:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
