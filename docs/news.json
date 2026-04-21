@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 20:50:33",
+  "updated": "2026-04-21 20:55:25",
   "total": 200,
   "items": [
+    {
+      "title": "(R)[TJB 여론조사②]충남지사 박수현 42.2% 김태흠 29.5%",
+      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97404",
+      "pub_date": "2026-04-21T20:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]주택 방화로 70대女 사망…용의자 ‘사위’ 숨진 채 발견",
       "link": "https://www.munhwa.com/article/11583965?ref=naver",
@@ -57,15 +66,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
-      "link": "https://www.hankyung.com/article/2026042170707",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
       "link": "http://www.fnnews.com/news/202604212004375552",
       "pub_date": "2026-04-21T20:33:00+09:00",
@@ -75,8 +75,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
+      "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
+      "link": "https://www.hankyung.com/article/2026042170707",
+      "pub_date": "2026-04-21T20:33:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
+      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
+      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
       "pub_date": "2026-04-21T20:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1788,15 +1797,6 @@
       "title": "이용우 \"CU 물류센터 참변, 책임 명명백백히 밝혀야\"",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298598&inflow=N",
       "pub_date": "2026-04-21T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "울산시, 통합돌봄 관련 위기가구 발굴·연계 강화 2일차 교육 실시",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562603",
-      "pub_date": "2026-04-21T16:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
