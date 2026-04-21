@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 17:00:37",
+  "updated": "2026-04-21 17:05:25",
   "total": 200,
   "items": [
+    {
+      "title": "김시우, 세계랭킹 26위로 상승…개인 최고 순위 타이",
+      "link": "https://www.ajunews.com/view/20260421170032580",
+      "pub_date": "2026-04-21T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 불붙은 숯으로 조카 고문해 숨지게한 80대 무속인…무기→7년 '감...",
+      "link": "https://www.imaeil.com/page/view/2026042116224823289",
+      "pub_date": "2026-04-21T17:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, CU 본사 앞 규탄...\"원청 책임 인정하라\"",
+      "link": "https://www.ppss.kr/news/articleView.html?idxno=293710",
+      "pub_date": "2026-04-21T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 정청래, ‘돈봉투 의혹’ 임실군수 결선 개표보류·조사 지시",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541667&ref=A",
@@ -174,7 +201,7 @@
       "is_scoop": false
     },
     {
-      "title": "다급해진 CU 대체물류 통해 간편식 긴급 수송",
+      "title": "다급해진 CU…대체물류 통해 간편식 긴급 수송",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298607&inflow=N",
       "pub_date": "2026-04-21T16:36:00+09:00",
       "source_id": "yna",
@@ -210,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
+      "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
       "pub_date": "2026-04-21T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
+      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
       "pub_date": "2026-04-21T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '통일교 불법 정치자금' 항소심에서도 권성동에 징역 4년 ...",
-      "link": "https://www.pressian.com/pages/articles/2026042116301963414?utm_source=naver&utm_medium=search",
+      "title": "[속보] 인도 국빈 방문 마친 李대통령, 베트남으로 출발",
+      "link": "https://view.asiae.co.kr/article/2026042112501624673",
       "pub_date": "2026-04-21T16:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 인도 국빈 방문 마친 李대통령, 베트남으로 출발",
-      "link": "https://view.asiae.co.kr/article/2026042112501624673",
+      "title": "[속보] 특검, '통일교 불법 정치자금' 항소심에서도 권성동에 징역 4년 ...",
+      "link": "https://www.pressian.com/pages/articles/2026042116301963414?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-21T16:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -269,6 +296,15 @@
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 김건희특검 '통일교 1억 수수' 권성동 2심도 징역 4년 구형",
+      "link": "https://www.ajunews.com/view/20260421155513395",
+      "pub_date": "2026-04-21T16:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -291,24 +327,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 김건희특검 '통일교 1억 수수' 권성동 2심도 징역 4년 구형",
-      "link": "https://www.ajunews.com/view/20260421155513395",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
       "pub_date": "2026-04-21T16:30:00+09:00",
@@ -320,6 +338,15 @@
     {
       "title": "[논평] 李 정권은 북한을 선제타격할 수 있는가",
       "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382764",
+      "pub_date": "2026-04-21T16:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "놀유니버스, 리나 슈퍼히어로 체험전…MD 결합 패키지 판매",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111516",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
-      "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
-      "pub_date": "2026-04-21T14:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[항공 뉴스브리핑] 티웨이항공, 사이판 태풍 피해 체객 승객 지원",
-      "link": "https://www.asiatime.co.kr/article/20260421500286",
-      "pub_date": "2026-04-21T14:22:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 조합원 사상 관련 'CU 규탄' 구호 외치는 민주노총",
-      "link": "https://www.nocutnews.co.kr/news/6505710?utm_source=naver&utm_medium=article&utm_campaign=20260421022128",
-      "pub_date": "2026-04-21T14:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
