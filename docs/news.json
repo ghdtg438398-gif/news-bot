@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-21 13:25:25",
+  "updated": "2026-04-21 13:30:33",
   "total": 200,
   "items": [
+    {
+      "title": "[강원소방]춘천, 비화재경보 저감 관서장 현장점검 및 화재안전컨설팅",
+      "link": "https://www.sportsseoul.com/news/read/1604293?ref=naver",
+      "pub_date": "2026-04-21T13:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "검찰, '복무 이탈' 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513476",
+      "pub_date": "2026-04-21T13:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총, '화물연대 조합원 사상 사고' CU 규탄 기자회견",
+      "link": "https://www.news1.kr/photos/7867301",
+      "pub_date": "2026-04-21T13:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'102일 무단결근' 송민호 \"재복무하겠다\"…법원 앞 해외팬들은 탄식[노...",
       "link": "https://www.nocutnews.co.kr/news/6505662?utm_source=naver&utm_medium=article&utm_campaign=20260421012327",
@@ -75,8 +102,53 @@
       "is_scoop": false
     },
     {
-      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
-      "link": "https://www.newspim.com/news/view/20260421000836",
+      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
+      "link": "https://www.newspim.com/news/view/20260421000834",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'2026 최악의 살인기업 선정식' 퍼포먼스 준비",
+      "link": "https://www.newspim.com/news/view/20260421000840",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000827",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
+      "link": "https://www.newspim.com/news/view/20260421000838",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
+      "link": "https://www.newspim.com/news/view/20260421000831",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "2026 최악의 살인기업 선정 인증서",
+      "link": "https://www.newspim.com/news/view/20260421000828",
       "pub_date": "2026-04-21T13:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,6 +183,15 @@
       "is_scoop": false
     },
     {
+      "title": "의정부지방법원 '2026 최악의 판결상' 수상",
+      "link": "https://www.newspim.com/news/view/20260421000836",
+      "pub_date": "2026-04-21T13:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "2026 최악의 살인기업 공개 합니다!",
       "link": "https://www.newspim.com/news/view/20260421000830",
       "pub_date": "2026-04-21T13:15:00+09:00",
@@ -120,54 +201,27 @@
       "is_scoop": false
     },
     {
-      "title": "2026 최악의 살인기업 선정 인증서",
-      "link": "https://www.newspim.com/news/view/20260421000828",
-      "pub_date": "2026-04-21T13:15:00+09:00",
+      "title": "사람죽여 빵만드는 살인기업 SPC 처벌하라!",
+      "link": "https://www.newspim.com/news/view/20260421000822",
+      "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "'2026 최악의 살인기업' 증서 받은 송경한 HJ중공업 대표이사",
-      "link": "https://www.newspim.com/news/view/20260421000831",
-      "pub_date": "2026-04-21T13:15:00+09:00",
+      "title": "위험의 외주화 원청의 책임이다!",
+      "link": "https://www.newspim.com/news/view/20260421000826",
+      "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "구호 외치는 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000827",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "퍼포먼스 펼쳐진 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000838",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "시민이 뽑은 '2026 살인기업'특별상 허영인 SPC그릅 회장과 김법석 coupa...",
-      "link": "https://www.newspim.com/news/view/20260421000834",
-      "pub_date": "2026-04-21T13:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'2026 최악의 살인기업 선정식' 퍼포먼스 준비",
-      "link": "https://www.newspim.com/news/view/20260421000840",
-      "pub_date": "2026-04-21T13:15:00+09:00",
+      "title": "과로노동 강요 악덕기업 쿠팡 OUT",
+      "link": "https://www.newspim.com/news/view/20260421000823",
+      "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -203,33 +257,6 @@
     {
       "title": "구호 외치는 '2026 최악의 살인기업 선정식' 참석자들",
       "link": "https://www.newspim.com/news/view/20260421000819",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "과로노동 강요 악덕기업 쿠팡 OUT",
-      "link": "https://www.newspim.com/news/view/20260421000823",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "위험의 외주화 원청의 책임이다!",
-      "link": "https://www.newspim.com/news/view/20260421000826",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "사람죽여 빵만드는 살인기업 SPC 처벌하라!",
-      "link": "https://www.newspim.com/news/view/20260421000822",
       "pub_date": "2026-04-21T13:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "검찰, '부실 복무' 송민호에 징역 1년 6개월 구형",
       "link": "https://news.jtbc.co.kr/article/NB12295113?influxDiv=NAVER",
       "pub_date": "2026-04-21T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '부실 복무 의혹' 송민호에 징역 1년6개월 구형",
-      "link": "https://www.sidae.com/article/2026042110284642468",
-      "pub_date": "2026-04-21T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'부실복무' 송민호 징역 1년 6개월 구형..\"공황장애 핑계 NO, 재복...",
-      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042110101843426",
-      "pub_date": "2026-04-21T10:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"일본인 10명 중 6명, 헌법 자위대 명기 찬성\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604211026472g3",
-      "pub_date": "2026-04-21T10:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
