@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-21 19:20:33",
+  "updated": "2026-04-21 19:25:26",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] “내란특검법 위헌” 尹 헌법소원, 정식 판단 받는다…전원재판...",
+      "link": "https://www.dt.co.kr/article/12058753?ref=naver",
+      "pub_date": "2026-04-21T19:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[항공 & Now] 티웨이항공, 사이판 태풍 체객 수송 지원 등",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706161",
+      "pub_date": "2026-04-21T19:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "밀양시, '민생 경제' 중심 375억원 규모 긴급 추경안 편성",
       "link": "https://www.nocutnews.co.kr/news/6505982?utm_source=naver&utm_medium=article&utm_campaign=20260421071830",
@@ -66,15 +84,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
-      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
-      "pub_date": "2026-04-21T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
       "pub_date": "2026-04-21T19:02:00+09:00",
@@ -84,13 +93,13 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
-      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS쇼핑 본입찰 참...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
       "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
@@ -102,13 +111,13 @@
       "is_scoop": true
     },
     {
-      "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
-      "pub_date": "2026-04-21T18:58:00+09:00",
+      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
+      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
+      "pub_date": "2026-04-21T19:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
@@ -117,6 +126,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -192,6 +210,15 @@
       "is_scoop": true
     },
     {
+      "title": "하동 주택 화재로 70대 여성 사망...'방화 용의자' 사위도 숨져",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562801",
+      "pub_date": "2026-04-21T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
       "link": "http://www.fnnews.com/news/202604211839084411",
       "pub_date": "2026-04-21T18:40:00+09:00",
@@ -207,15 +234,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "하동 주택 화재로 70대 여성 사망...'방화 용의자' 사위도 숨져",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562801",
-      "pub_date": "2026-04-21T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-21T15:44:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 사상 최고치 경신…이란전 악재 넘었다",
-      "link": "https://www.pressian.com/pages/articles/2026042115423039778?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-21T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피 6388.47에 장 마감…종가 기준 사상 최고치",
-      "link": "https://www.nocutnews.co.kr/news/6505796?utm_source=naver&utm_medium=article&utm_campaign=20260421034230",
-      "pub_date": "2026-04-21T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
