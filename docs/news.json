@@ -1,13 +1,58 @@
 {
-  "updated": "2026-04-21 15:45:39",
+  "updated": "2026-04-21 15:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 2.7% 급등 6380선 마감…사상 최고치 돌파",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189471",
+      "pub_date": "2026-04-21T15:47:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'구성 핵시설' 발언 파장…한미 정보공유 균열 논란 확산",
+      "link": "https://www.newspim.com/news/view/20260421001110",
+      "pub_date": "2026-04-21T15:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[데일리 산업 단신] LIG D&A, 미국 최대 규모 해양 방산 전시회 참가 外",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/21/2026042100271.html",
+      "pub_date": "2026-04-21T15:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.7% 급등 6380선 마감…사상 최고치 돌파",
+      "link": "https://www.mk.co.kr/article/12022954",
+      "pub_date": "2026-04-21T15:45:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 6380선 마감·2.7% 급등…사상 최고치 돌파",
       "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/21/20260421500166?wlog_tag3=naver",
       "pub_date": "2026-04-21T15:44:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.7% 급등 6,380선 마감…사상 최고치 돌파",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526793&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T15:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -30,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "경남소방본부-KBS창원방송총국, 도민 안전 체감도 높이기 위한 업무협약...",
       "link": "https://www.newsgn.com/news/articleView.html?idxno=547962",
       "pub_date": "2026-04-21T15:42:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
+      "pub_date": "2026-04-21T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -66,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스닥, 4.18포인트(0.36%) 오른 1179.03 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834362",
+      "pub_date": "2026-04-21T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]'사상 첫 6,400선 보인다' 코스피 2.72%↑...6,388.47 마감",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604210042",
       "pub_date": "2026-04-21T15:40:00+09:00",
@@ -75,12 +129,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 4.18포인트(0.36%) 오른 1179.03 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834362",
-      "pub_date": "2026-04-21T15:40:00+09:00",
+      "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
+      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
+      "pub_date": "2026-04-21T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -93,29 +147,11 @@
       "is_scoop": true
     },
     {
-      "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
-      "pub_date": "2026-04-21T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 한병도, 연임 위해 원내대표직 사퇴",
       "link": "http://www.jmbc.co.kr/news/view_breakingnews/64111",
       "pub_date": "2026-04-21T15:37:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6388.47(▲169.38p, 2.72%), 원·달러 환율 1468.5(▼8.7원)...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189466",
-      "pub_date": "2026-04-21T15:36:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -129,8 +165,17 @@
       "is_scoop": false
     },
     {
-      "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
-      "link": "http://www.breaknews.com/1201943",
+      "title": "[속보] 코스피 6388.47(▲169.38p, 2.72%), 원·달러 환율 1468.5(▼8.7원)...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189466",
+      "pub_date": "2026-04-21T15:36:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "성남시, 위기가구 상세주소 부여 추진",
+      "link": "http://www.breaknews.com/1201934",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "성남시, 위기가구 상세주소 부여 추진",
-      "link": "http://www.breaknews.com/1201934",
+      "title": "전남도, 조선산업 3대 국책사업 선정… ‘첨단·친환경 고도화’ 박차",
+      "link": "http://www.breaknews.com/1201943",
       "pub_date": "2026-04-21T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,20 +219,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]검찰, '특사경 권한 남용' 거액 뇌물 수수 관세청 수사팀장 구속...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04470646645418416",
-      "pub_date": "2026-04-21T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 원·달러 환율, 8.7원 내린 1468.5원 마감",
       "link": "https://biz.chosun.com/policy/policy_sub/2026/04/21/MAAJTYVLJJEB3DD54MWHN27XOE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
       "pub_date": "2026-04-21T15:35:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]검찰, '특사경 권한 남용' 거액 뇌물 수수 관세청 수사팀장 구속...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04470646645418416",
+      "pub_date": "2026-04-21T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -208,6 +253,15 @@
       "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "\"경쟁 대신 선별\"…정비사업 수주전, 단독입찰 확산 속 '핵심지 격돌'",
+      "link": "https://www.ajunews.com/view/20260421142211081",
+      "pub_date": "2026-04-21T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 코스닥 1179.03…0.36% 상승 마감",
@@ -235,15 +289,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "\"경쟁 대신 선별\"…정비사업 수주전, 단독입찰 확산 속 '핵심지 격돌'",
-      "link": "https://www.ajunews.com/view/20260421142211081",
-      "pub_date": "2026-04-21T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보] \"미·이란 22일 2차 회담 개최\"...휴전 만료 직전 '막판 담판'",
@@ -489,8 +534,8 @@
       "is_scoop": false
     },
     {
-      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
-      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
+      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -498,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
+      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
       "title": "위험의 외주화 원청의 책임이다!",
       "link": "https://www.newspim.com/news/view/20260421000826",
       "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "세종문화회관 앞에서 개최된 2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000821",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "양경수 민주노총 위원장이 발언하는 '2026 최악의 살인기업 선정식'",
-      "link": "https://www.newspim.com/news/view/20260421000820",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구호 외치는 '2026 최악의 살인기업 선정식' 참석자들",
-      "link": "https://www.newspim.com/news/view/20260421000819",
-      "pub_date": "2026-04-21T13:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "법원서 판결문 주민번호·주소 유출 “사과”",
-      "link": "https://www.naeil.com/news/read/586147?ref=naver",
-      "pub_date": "2026-04-21T13:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주당 광역단체장 후보 현역 의원들 29일 일괄 사퇴…'미니 총선' 판 커...",
-      "link": "https://www.cnbnews.com/news/article.html?no=790260",
-      "pub_date": "2026-04-21T13:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
