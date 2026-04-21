@@ -1,15 +1,51 @@
 {
-  "updated": "2026-04-21 19:00:39",
+  "updated": "2026-04-21 19:05:29",
   "total": 200,
   "items": [
     {
-      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
-      "pub_date": "2026-04-21T18:58:00+09:00",
+      "title": "조사 앞두고 '꿀꺽'…경찰서 숨진 20대 피의자 텀블러서 '독극물'",
+      "link": "https://www.kyeonggi.com/article/20260421580549",
+      "pub_date": "2026-04-21T19:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834421",
+      "pub_date": "2026-04-21T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 하림, 홈플러스 익스프레스 우선협상대상자로…NS홈쇼핑 본입찰...",
+      "link": "https://news.mtn.co.kr/news-detail/2026042119002667023",
+      "pub_date": "2026-04-21T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] ‘길툭튀’ 전기자전거… 견인 규정 없어 방치",
+      "link": "https://www.segye.com/newsView/20260421515727?OutUrl=naver",
+      "pub_date": "2026-04-21T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독] 성평등부 ‘고용개선’ 업무 이관 검토… 여정연 “인력·예산 준...",
+      "link": "https://www.segye.com/newsView/20260421515719?OutUrl=naver",
+      "pub_date": "2026-04-21T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
@@ -18,6 +54,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -93,6 +138,15 @@
       "is_scoop": true
     },
     {
+      "title": "하동 주택 화재로 70대 여성 사망...'방화 용의자' 사위도 숨져",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562801",
+      "pub_date": "2026-04-21T18:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 홈플러스 익스프레스, 우협에 하림…NS홈쇼핑 전면에 내세워 인...",
       "link": "http://www.fnnews.com/news/202604211839084411",
       "pub_date": "2026-04-21T18:40:00+09:00",
@@ -108,15 +162,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "하동 주택 화재로 70대 여성 사망...'방화 용의자' 사위도 숨져",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562801",
-      "pub_date": "2026-04-21T18:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -147,15 +192,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SSG 박성한, 개막 이후 연속 경기 안타 신기록 달성",
-      "link": "http://www.osen.co.kr/article/G1112786094",
-      "pub_date": "2026-04-21T18:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
       "link": "https://www.mt.co.kr/living/2026/04/21/2026042118320912106",
       "pub_date": "2026-04-21T18:33:00+09:00",
@@ -165,9 +201,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
-      "link": "https://www.imaeil.com/page/view/2026042118294446845",
-      "pub_date": "2026-04-21T18:31:00+09:00",
+      "title": "[속보] '1회초 첫 타자 초구 공략' SSG 박성한, 개막 이후 연속 경기 안...",
+      "link": "http://www.osen.co.kr/article/G1112786094",
+      "pub_date": "2026-04-21T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -176,6 +212,15 @@
     {
       "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
       "link": "https://www.newsis.com/view/NISX20260421_0003600721",
+      "pub_date": "2026-04-21T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
+      "link": "https://www.imaeil.com/page/view/2026042118294446845",
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,21 +246,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 전쟁이 언론에 던진 과제",
       "link": "http://www.journalist.or.kr/news/article.html?no=60757",
       "pub_date": "2026-04-21T18:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
+      "pub_date": "2026-04-21T18:26:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -228,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
-      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
+      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
+      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
+      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,21 +309,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
-      "link": "https://www.mk.co.kr/article/12023249",
-      "pub_date": "2026-04-21T18:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동전쟁 충격…실용적 색채 띄운 신현송 출범",
       "link": "https://biz.sbs.co.kr/article_hub/20000305789?division=NAVER",
       "pub_date": "2026-04-21T18:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
+      "link": "https://www.mk.co.kr/article/12023249",
+      "pub_date": "2026-04-21T18:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1756,51 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 4.18포인트(0.36%) 오른 1179.03 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834362",
-      "pub_date": "2026-04-21T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[취재수첩]'강제 추행 혐의' 재판 중 출마한 시의원..그의 이름은?",
-      "link": "https://www.tjb.co.kr/news05/bodo/view/id/97392",
-      "pub_date": "2026-04-21T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
-      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421042229",
-      "pub_date": "2026-04-21T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
-      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421035828",
-      "pub_date": "2026-04-21T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]법원, BAE173 도하 전속계약 효력정지…\"신뢰관계 깨져\"",
-      "link": "https://www.nocutnews.co.kr/news/6505788?utm_source=naver&utm_medium=article&utm_campaign=20260421033728",
-      "pub_date": "2026-04-21T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
