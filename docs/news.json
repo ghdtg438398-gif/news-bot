@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-21 17:05:25",
+  "updated": "2026-04-21 17:10:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]'통일교 결탁' 권성동 항소심도 징역 4년 구형…특검 \"1억 받고도...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210049",
+      "pub_date": "2026-04-21T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
+      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
+      "pub_date": "2026-04-21T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "그들은 왜 화물차를 막아섰나…넉 달 새 7번 ‘교섭 회피’한 CU",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298621&inflow=N",
+      "pub_date": "2026-04-21T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "강원특별자치도건축사회, ‘해체공사감리자 우선지정’ 반대 입장 표명",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150122500000",
+      "pub_date": "2026-04-21T17:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '통일교 1억원 수수' 권성동 의원 2심도 징역 4년 구형",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395347",
+      "pub_date": "2026-04-21T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[데일리픽] '빨라도 6개월' MLCC 품귀…이더리움 왜 이러나",
+      "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=658872",
+      "pub_date": "2026-04-21T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중학생 때 나만 더 혼냈다\"…교사 흉기로 찌른 고교생, 구속 송치",
+      "link": "https://www.mt.co.kr/society/2026/04/21/2026042116522628792",
+      "pub_date": "2026-04-21T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "김시우, 세계랭킹 26위로 상승…개인 최고 순위 타이",
       "link": "https://www.ajunews.com/view/20260421170032580",
@@ -174,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "기아, 장애인의 날 맞아 ‘PV5 WAV’ 연계 프로그램 진행",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85864",
+      "title": "\"전원생활도 아파트가 대세\"...'가평설악 오드카운티' 주목",
+      "link": "https://www.news2day.co.kr/article/20260421500191",
       "pub_date": "2026-04-21T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"전원생활도 아파트가 대세\"...'가평설악 오드카운티' 주목",
-      "link": "https://www.news2day.co.kr/article/20260421500191",
+      "title": "기아, 장애인의 날 맞아 ‘PV5 WAV’ 연계 프로그램 진행",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85864",
       "pub_date": "2026-04-21T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
+      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
+      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
       "pub_date": "2026-04-21T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
-      "link": "https://www.nocutnews.co.kr/news/6505842?utm_source=naver&utm_medium=article&utm_campaign=20260421043229",
+      "title": "[속보] '숯불 고문' 조카 살해 80대 무속인, 항소심서 살인죄 무죄",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260421509&PRO_CODE=99",
       "pub_date": "2026-04-21T16:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -318,17 +381,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령, 인도 방문 마치고 베트남행…내일 한-베 정상회담",
-      "link": "https://www.news1.kr/politics/president/6143907",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
+      "title": "[논평] 李 정권은 북한을 선제타격할 수 있는가",
+      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382764",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "[논평] 李 정권은 북한을 선제타격할 수 있는가",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382764",
+      "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
       "pub_date": "2026-04-21T16:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -351,6 +405,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령, 인도 방문 마치고 베트남행…내일 한-베 정상회담",
+      "link": "https://www.news1.kr/politics/president/6143907",
+      "pub_date": "2026-04-21T16:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -399,15 +462,6 @@
       "is_scoop": false
     },
     {
-      "title": "LG유플러스 월드IT쇼 참가…보이스 AI로 통신 역할 확장 시동",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095234",
-      "pub_date": "2026-04-21T16:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 경찰서에서 숨진 20대 현행범 사인 '청산염 중독'",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003226903&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
       "pub_date": "2026-04-21T16:26:00+09:00",
@@ -415,6 +469,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "LG유플러스 월드IT쇼 참가…보이스 AI로 통신 역할 확장 시동",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095234",
+      "pub_date": "2026-04-21T16:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 김건희특검, '통일교 1억 수수' 권성동 항소심도 징역 4년 구형",
@@ -570,8 +633,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
+      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
+      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
       "pub_date": "2026-04-21T16:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -579,8 +642,8 @@
       "is_scoop": true
     },
     {
-      "title": "LGU+, 과기정통부 주최 '월드IT쇼'서 단독 전시 나선다",
-      "link": "https://www.apnews.kr/news/articleView.html?idxno=3048049",
+      "title": "[단독] 중동 전쟁 장기화에 '하루 6.4개사' 문 닫아…1분기 '기업 파산'...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28087",
       "pub_date": "2026-04-21T16:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'화물연대 조합원 사상'…민주노총, CU 규탄 긴급 기자회견",
-      "link": "https://www.nocutnews.co.kr/news/6505708?utm_source=naver&utm_medium=article&utm_campaign=20260421022428",
-      "pub_date": "2026-04-21T14:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한병도, 연임 위해 與 원내대표직 사퇴",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04063926645418416",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한병도, 원내대표직 사퇴…연임 도전",
-      "link": "https://www.etoday.co.kr/news/view/2577707",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총 \"'물류센터 사상 사고' CU·정부 책임…총력 투쟁\"",
-      "link": "https://www.nocutnews.co.kr/news/6505709?utm_source=naver&utm_medium=article&utm_campaign=20260421022328",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "오타니 52G 출루, 추신수와 타이…로버츠 “투타겸업에 상대견제까지 극...",
-      "link": "https://www.sportsseoul.com/news/read/1604311?ref=naver",
-      "pub_date": "2026-04-21T14:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한병도 민주당 원내대표 사퇴…'연임 도전' 공식화",
-      "link": "https://www.dailian.co.kr/news/view/1636011/?sc=Naver",
-      "pub_date": "2026-04-21T14:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
