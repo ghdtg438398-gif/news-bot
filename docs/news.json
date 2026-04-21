@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 05:05:33",
-  "total": 154,
+  "updated": "2026-04-22 05:10:37",
+  "total": 158,
   "items": [
+    {
+      "title": "[속보] 미·이란 2차 종전 협상 불확실성에 뉴욕증시 이틀째 하락",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305816?division=NAVER",
+      "pub_date": "2026-04-22T05:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]뉴욕증시, 미·이란 협상 교착에 이틀째 하락…유가 반등·금리 상...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01659686645418744",
+      "pub_date": "2026-04-22T05:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] AP \"미 부통령, 이란 회담 위한 파키스탄행 취소\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422050549P9j",
+      "pub_date": "2026-04-22T05:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 美·이란 협상 불확실성에 일제 하락 마감",
+      "link": "https://www.newsis.com/view/NISX20260422_0003600901",
+      "pub_date": "2026-04-22T05:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]JD 밴스 파키스탄행 취소…3대 지수 하락 마감",
+      "link": "https://view.asiae.co.kr/article/2026042205042676997",
+      "pub_date": "2026-04-22T05:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 미·이란 종전 협상 불투명 이틀째 하락 마감",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627099",
+      "pub_date": "2026-04-22T05:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[N2 포커스] 네이버, 사업·투자 '투트랙'으로 14억 거대 인도시장 공략",
       "link": "https://www.news2day.co.kr/article/20260421500207",
@@ -28,15 +82,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
-      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
-      "pub_date": "2026-04-22T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
@@ -66,13 +111,13 @@
       "is_scoop": true
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44673",
-      "pub_date": "2026-04-22T05:00:00+09:00",
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
+      "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[금융포커스]\"전환기, 중앙은행 역할 다시 물어야\" 신현송의 첫 메시지",
@@ -99,6 +144,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 쌀쌀 곳곳 비 황사에 미세먼지 '나쁨' 서울 ...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44673",
+      "pub_date": "2026-04-22T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1369,24 +1423,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독]미 군함, ‘이란에 돈 주면 공격’ 경고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525256",
-      "pub_date": "2026-04-21T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]선박명 페인트로 지웠다…식별기 끄고 탈출 시도",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525255",
-      "pub_date": "2026-04-21T19:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
