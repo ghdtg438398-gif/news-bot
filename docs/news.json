@@ -1,11 +1,83 @@
 {
-  "updated": "2026-04-22 05:20:41",
-  "total": 166,
+  "updated": "2026-04-22 05:25:33",
+  "total": 174,
   "items": [
     {
-      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422051646Ma4",
-      "pub_date": "2026-04-22T05:17:00+09:00",
+      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220116&t=NN",
+      "pub_date": "2026-04-22T05:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787069/1",
+      "pub_date": "2026-04-22T05:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
+      "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란 공격 보류·휴전 연장…이란 정부 심각히 분열”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01699046645418744",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프, 이란 휴전 연장",
+      "link": "http://www.fnnews.com/news/202604220519015987",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
+      "link": "https://www.news1.kr/realestate/general/6144187",
+      "pub_date": "2026-04-22T05:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542227&ref=A",
+      "pub_date": "2026-04-22T05:19:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 제안 제출하고 논의 마무리될 때까지 휴전 연장...",
+      "link": "https://www.newspim.com/news/view/20260422000016",
+      "pub_date": "2026-04-22T05:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -14,6 +86,15 @@
     {
       "title": "[속보]트럼프 \"이란 제안 받고 논의 끝날때까지 휴전 연장\"",
       "link": "https://www.newsis.com/view/NISX20260422_0003600903",
+      "pub_date": "2026-04-22T05:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422051646Ma4",
       "pub_date": "2026-04-22T05:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1485,15 +1566,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “내란특검법 위헌” 尹 헌법소원, 정식 판단 받는다…전원재판...",
-      "link": "https://www.dt.co.kr/article/12058753?ref=naver",
-      "pub_date": "2026-04-21T19:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
