@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 05:40:31",
-  "total": 184,
+  "updated": "2026-04-22 05:45:30",
+  "total": 183,
   "items": [
+    {
+      "title": "[속보] 트럼프 “이란 정부 심각한 분열…파키스탄이 공격 보류 요청”",
+      "link": "https://biz.heraldcorp.com/article/10722572?ref=naver",
+      "pub_date": "2026-04-22T05:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장” 전격 발표",
+      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787072/1",
+      "pub_date": "2026-04-22T05:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “미군에 ‘봉쇄 지속·준비태세 유지’ 지시”",
       "link": "https://biz.heraldcorp.com/article/10722571?ref=naver",
@@ -33,8 +51,8 @@
       "title": "[속보] “이란, 22일 2차 종전 협상 불참 최종 확정”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542228&ref=A",
       "pub_date": "2026-04-22T05:35:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -408,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
-      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
+      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
+      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -417,8 +435,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
-      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
+      "title": "[단독]故김수미 임금 체납 뮤지컬 '친정엄마' 제작사, 경매 절차 받아",
+      "link": "https://www.nocutnews.co.kr/news/6506001?utm_source=naver&utm_medium=article&utm_campaign=20260422050040",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,8 +453,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]브로커 낀 '1만2천톤 폐기물 암매립'…검찰·환경부 합동수사로 ...",
-      "link": "https://www.nocutnews.co.kr/news/6506022?utm_source=naver&utm_medium=article&utm_campaign=20260422050045",
+      "title": "[단독]\"내가 특보?\"…'K뷰티' 약손명가, 선거철 尹조직 활동했나",
+      "link": "https://www.nocutnews.co.kr/news/6506017?utm_source=naver&utm_medium=article&utm_campaign=20260422050041",
       "pub_date": "2026-04-22T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1630,33 +1648,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 홈플러스 붙잡는 ‘닭고기 하림’…유통업 시너지 노린다",
-      "link": "https://www.mk.co.kr/article/12023311",
-      "pub_date": "2026-04-21T19:45:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하림그룹, 홈플러스 익스프레스 품는다…회생안 인가 청신호",
-      "link": "https://www.mk.co.kr/article/12023308",
-      "pub_date": "2026-04-21T19:41:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] SK에너지 사고 보고서 입수…“총체적 관리 부실”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541888&ref=A",
-      "pub_date": "2026-04-21T19:41:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
