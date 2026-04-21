@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22 04:45:27",
-  "total": 153,
+  "updated": "2026-04-22 04:50:32",
+  "total": 150,
   "items": [
     {
       "title": "'챔피언 4인방' 김민솔·김민선7·임진영·고지원, 이번주 충주에서 시즌...",
@@ -1350,33 +1350,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홈플러스 익스프레스 우선협상대상자에 하림 선정...NS홈쇼핑 인...",
-      "link": "https://www.newspim.com/news/view/20260421001339",
-      "pub_date": "2026-04-21T18:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, ‘지혜복 교사 복직 농성’ 고진수 세종호텔지부장 구속송치",
-      "link": "https://www.khan.co.kr/article/202604211848011",
-      "pub_date": "2026-04-21T18:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 하림그룹, 홈플러스 익스프레스 매각 우선협상대상자로",
-      "link": "https://www.etoday.co.kr/news/view/2577835",
-      "pub_date": "2026-04-21T18:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
