@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-22 08:10:30",
-  "total": 190,
+  "updated": "2026-04-22 08:15:33",
+  "total": 197,
   "items": [
+    {
+      "title": "[속보]장동혁 ‘잘못함’ 64.1%…방미 ‘부적절’ 63.3%-한길리서치",
+      "link": "https://www.munhwa.com/article/11584026?ref=naver",
+      "pub_date": "2026-04-22T08:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “협상 종결시까지 휴전 연장” 전격 선언…이란 “휴전 ...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250003000000",
+      "pub_date": "2026-04-22T08:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서산 성연면 금속공장 화재...1명 중상",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563080",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
+      "link": "https://www.yna.co.kr/view/AKR20260422026000052?input=1195m",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 화물연대 사고 운전자 '살인 혐의'로 구속영장 신청",
+      "link": "https://www.news1.kr/local/busan-gyeongnam/6144508",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "주정차 단속 피하려고 번호판에 비닐봉지 씌운 60대 벌금형",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527493&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "日 도쿄돔 시티 놀이공원 점검 중 참사…20대 여성 기구에 끼여 사망 [K...",
+      "link": "http://www.kdfnews.com/news/articleView.html?idxno=182391",
+      "pub_date": "2026-04-22T08:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, '조합원 3명 사상' 트럭 운전자 살인 혐의 구속영장 신청",
+      "link": "https://news.jtbc.co.kr/article/NB12295268?influxDiv=NAVER",
+      "pub_date": "2026-04-22T08:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"휴전 연장\"발표에…이란 \"인정 안해\"",
+      "link": "https://magazine.hankyung.com/business/article/202604227529b",
+      "pub_date": "2026-04-22T08:11:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경찰, '조합원 3명 사상' 물류 차량 운전자 구속영장 신청",
       "link": "https://www.ytn.co.kr/_ln/0115_202604220807329543",
@@ -84,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2577864",
+      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 남양주 진접 공장 화재…출근 시간대 도로 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864277",
+      "title": "[속보] 경기 남양주 진접읍 공장 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2577864",
       "pub_date": "2026-04-22T07:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1692,24 +1773,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 훌륭한 합의할 것…휴전 연장 원치 않는다\"",
-      "link": "https://magazine.hankyung.com/business/article/202604217139b",
-      "pub_date": "2026-04-21T22:13:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 ‘엄정 감찰’ 지시했지만…대검, ‘집단 퇴정’ 검사...",
-      "link": "https://www.dt.co.kr/article/12058760?ref=naver",
-      "pub_date": "2026-04-21T22:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
