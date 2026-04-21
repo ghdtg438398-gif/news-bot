@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 18:05:27",
+  "updated": "2026-04-21 18:10:31",
   "total": 200,
   "items": [
+    {
+      "title": "DL이앤씨, 목동6단지 재건축 시공사 2차 입찰도 단독 응찰",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410818",
+      "pub_date": "2026-04-21T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "이란 국영TV \"이란 대표단, 아직 이슬라마바드 도착 안해\"…2차 협상 '먹...",
       "link": "https://www.ajunews.com/view/20260421173316618",
@@ -12,8 +21,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
-      "link": "http://www.fnnews.com/news/202604211534245010",
+      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
+      "link": "http://www.fnnews.com/news/202604211525270741",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +30,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 장애인 고용 부담금 환급 '대기업 1호'는 SK하이닉스…재계 줄소...",
-      "link": "http://www.fnnews.com/news/202604211525270741",
+      "title": "[단독] 장애인 부담금 '비용 인정'…환급길 열리자 재계 촉각",
+      "link": "http://www.fnnews.com/news/202604211534245010",
       "pub_date": "2026-04-21T18:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,21 +165,21 @@
       "is_scoop": false
     },
     {
-      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
-      "link": "https://www.newspim.com/news/view/20260421001304",
-      "pub_date": "2026-04-21T17:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
       "pub_date": "2026-04-21T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "檢, '수사 종결 대가로 뇌물수수' 전 관세청 특사경 수사팀장 기소",
+      "link": "https://www.newspim.com/news/view/20260421001304",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 첫 6380선 돌파…6400선 근접",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305731?division=NAVER",
-      "pub_date": "2026-04-21T15:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
