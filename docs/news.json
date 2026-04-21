@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 00:15:30",
+  "updated": "2026-04-22 00:20:37",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]파키스탄 \"오전 8시50분(한국시간) 휴전 종료…이란 답변 아직\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600880",
+      "pub_date": "2026-04-22T00:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "KIA 상대 짜릿한 승리→선두 등극 KT '한꺼번에'…이강철 감독 \"모든 선...",
       "link": "https://www.xportsnews.com/article/2139865",
@@ -102,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
+      "title": "연못 대신 수영장에 풍덩… 태극낭자 18人 '호수의 여인' 노린다",
+      "link": "https://www.ajunews.com/view/20260421091338470",
       "pub_date": "2026-04-22T00:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "연못 대신 수영장에 풍덩… 태극낭자 18人 '호수의 여인' 노린다",
-      "link": "https://www.ajunews.com/view/20260421091338470",
+      "title": "\"개막 19경기 연속 안타\" 박성한, 결승타까지 SSG 승리 견인",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041303",
       "pub_date": "2026-04-22T00:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -150,8 +159,8 @@
       "title": "美 3월 소매판매 전월대비 1.7%↑…기름값 상승에도 예상 밖 호조",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542168&ref=A",
       "pub_date": "2026-04-21T23:56:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'항공사 동료 기장 살해범' 김동환, 국민참여재판 신청했다",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210050",
-      "pub_date": "2026-04-21T17:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
