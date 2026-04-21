@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 12:45:27",
+  "updated": "2026-04-21 12:50:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 경찰, 방시혁 하이브 의장 구속영장 신청⋯사기적 부정거래 혐의",
+      "link": "http://www.inews24.com/view/1962082",
+      "pub_date": "2026-04-21T12:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[NC영상] 트와이스 사나, 원스는 늘 사나 없이 사나 마나",
       "link": "https://www.nc.press/news/articleView.html?idxno=613252",
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
+      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
+      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'병역비리' 송민호, 102일 부실 복무 인정..책임자는 부인",
-      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106164677733",
-      "pub_date": "2026-04-21T10:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
