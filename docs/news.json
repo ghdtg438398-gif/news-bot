@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 22:20:29",
+  "updated": "2026-04-21 22:25:29",
   "total": 200,
   "items": [
+    {
+      "title": "선두 서울, 부천 완파…인천은 11년 만의 전주성 승리",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527197&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T22:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란과 훌륭한 합의할 것…휴전 연장 원치 않는다\"",
       "link": "https://magazine.hankyung.com/business/article/202604217139b",
@@ -102,11 +111,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
-      "link": "https://www.joongang.co.kr/article/25422111",
+      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.hankyung.com/article/2026042171217",
       "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -120,11 +129,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.hankyung.com/article/2026042171217",
+      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
+      "link": "https://www.joongang.co.kr/article/25422111",
       "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -147,21 +156,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
-      "pub_date": "2026-04-21T21:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"3골 완성 선두 질주\" FC서울, 부천 제압하며 승점 22점",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041233",
       "pub_date": "2026-04-21T21:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -183,20 +192,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.fnnews.com/news/202604212144238242",
-      "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.fnnews.com/news/202604212144238242",
+      "pub_date": "2026-04-21T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
       "title": "\"전원생활도 아파트가 대세\"...'가평설악 오드카운티' 주목",
       "link": "https://www.news2day.co.kr/article/20260421500191",
       "pub_date": "2026-04-21T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[POP!게임] 위메이드, '비댁스'와 스테이블코인 결제 표준 모델 구축 MOU...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=118958",
-      "pub_date": "2026-04-21T16:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
