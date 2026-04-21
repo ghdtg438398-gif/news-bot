@@ -1,9 +1,45 @@
 {
-  "updated": "2026-04-21 19:10:28",
+  "updated": "2026-04-21 19:15:32",
   "total": 200,
   "items": [
     {
-      "title": "조사 앞두고 '꿀꺽'…경찰서 숨진 20대 피의자 텀블러서 '독극물'",
+      "title": "[뉴스락 특별기획] 중견 제약사 세대교체 본격화... '경영 시험대' 오른...",
+      "link": "http://www.newslock.co.kr/news/articleView.html?idxno=128999",
+      "pub_date": "2026-04-21T19:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] NS쇼핑, 오프라인 확장... 홈플러스 익스프레스 매각 우선협상대...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=339613",
+      "pub_date": "2026-04-21T19:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]미 군함, ‘이란에 돈 주면 공격’ 경고",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525256",
+      "pub_date": "2026-04-21T19:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]선박명 페인트로 지웠다…식별기 끄고 탈출 시도",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525255",
+      "pub_date": "2026-04-21T19:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "경찰서 대기실서 사망 20대 피의자 텀블러서 ‘독극물’ 검출",
       "link": "https://www.kyeonggi.com/article/20260421580549",
       "pub_date": "2026-04-21T19:03:00+09:00",
       "source_id": "yna",
@@ -48,21 +84,21 @@
       "is_scoop": true
     },
     {
-      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
-      "pub_date": "2026-04-21T18:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "정철원 담양군수 후보, 차량 전복사고 목격…\"긴급 구호 활동에 나섰다...",
       "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745495",
       "pub_date": "2026-04-21T18:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중대재해법-노란봉투법 충돌?… 의도된 무지\"",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247850",
+      "pub_date": "2026-04-21T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -273,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
-      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
+      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
+      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "CU 원청교섭 집회서 화물연대 1명 사망에 민주노총 \"총력 투쟁\"",
-      "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352794",
+      "title": "勞 “여당 되니 노동자성 부정”… 政 “절차 밟아 요구해야”",
+      "link": "https://www.segye.com/newsView/20260421515778?OutUrl=naver",
       "pub_date": "2026-04-21T18:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 2.7% 오른 6388에 마감…“사상 최고치”",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042115402969252",
-      "pub_date": "2026-04-21T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 30대 여성 ‘숯불 고문’, 숨지게 한 무당…‘무기’서 징역 7년...",
-      "link": "https://www.dt.co.kr/article/12058682?ref=naver",
-      "pub_date": "2026-04-21T15:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 169.38포인트(2.72%) 오른 6388.47 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834361",
-      "pub_date": "2026-04-21T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'사상 첫 6,400선 보인다' 코스피 2.72%↑...6,388.47 마감",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210042",
-      "pub_date": "2026-04-21T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
