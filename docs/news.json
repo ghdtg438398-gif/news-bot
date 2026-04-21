@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 21:50:32",
+  "updated": "2026-04-21 21:55:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.hankyung.com/article/2026042171217",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 휴전만료 전날 “훌륭한 합의할것…휴전연장 원치않아”",
+      "link": "https://www.joongang.co.kr/article/25422111",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604210624&t=NN",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 하루 앞두고 \"훌륭한 합의하게 될 것...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/21/2026042190342.html",
+      "pub_date": "2026-04-21T21:48:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "\"3골 완성 선두 질주\" FC서울, 부천 제압하며 승점 22점",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041233",
@@ -30,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.fnnews.com/news/202604212144238242",
+      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.fnnews.com/news/202604212144238242",
       "pub_date": "2026-04-21T21:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -76,7 +121,7 @@
     },
     {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.viva100.com/article/20260421501187",
+      "link": "https://www.sedaily.com/article/20035400?ref=naver",
       "pub_date": "2026-04-21T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -85,7 +130,7 @@
     },
     {
       "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.sedaily.com/article/20035400?ref=naver",
+      "link": "https://www.viva100.com/article/20260421501187",
       "pub_date": "2026-04-21T21:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,21 +147,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR2026042121403686C",
-      "pub_date": "2026-04-21T21:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"돈 주면 사건 종료\"…'억대 뇌물' 관세청 수사팀장 구속기소",
       "link": "https://www.nocutnews.co.kr/news/6506002?utm_source=naver&utm_medium=article&utm_campaign=20260421094031",
       "pub_date": "2026-04-21T21:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 \"훌륭한 합의하게 될 것\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR2026042121403686C",
+      "pub_date": "2026-04-21T21:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "허시영 대구시의원, '현장 중심·민생 우선' 의정활동으로 지역구 현안...",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745473",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[논평] 李 정권은 북한을 선제타격할 수 있는가",
-      "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382764",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김건희특검 '통일교 1억 수수' 권성동 2심도 징역 4년 구형",
-      "link": "https://www.ajunews.com/view/20260421155513395",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령, 인도 국빈 방문 일정 마무리…베트남 하노이향발",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600485",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 인도 방문 마치고 베트남행…내일 한-베 정상회담",
-      "link": "https://www.news1.kr/politics/president/6143907",
-      "pub_date": "2026-04-21T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
