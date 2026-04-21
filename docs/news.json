@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-21 20:25:25",
+  "updated": "2026-04-21 20:30:36",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 李대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
+      "link": "https://www.news1.kr/politics/president/6144010",
+      "pub_date": "2026-04-21T20:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "돈 받고 남의 집에 오물·래커칠…'보복대행' 일당 구속기소(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260421067751004?input=1195m",
@@ -1787,15 +1796,6 @@
     {
       "title": "클유아 \"우리 강점은 팀워크\"…1년 함께한 멤버들에 전한 고마움 [엑's ...",
       "link": "https://www.xportsnews.com/article/2139361",
-      "pub_date": "2026-04-21T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "클유아 “이해인과 소통하며 아이디어 반영, 첫 콘서트 꿈만 같아”[EN:...",
-      "link": "https://www.newsen.com/news_view.php?uid=202604071540302510",
       "pub_date": "2026-04-21T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
