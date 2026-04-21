@@ -1,8 +1,62 @@
 {
-  "updated": "2026-04-21 10:15:28",
+  "updated": "2026-04-21 10:20:48",
   "total": 200,
-  "breaking": 130,
+  "breaking": 125,
   "items": [
+    {
+      "title": "\"당신 집에 열기구가 착륙했어요\"…영화 '업'이 현실에?[이런일이]",
+      "link": "https://www.nocutnews.co.kr/news/6505500?utm_source=naver&utm_medium=article&utm_campaign=20260421101827",
+      "pub_date": "2026-04-21T10:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “장난삼아” 복면 쓰고 10살 의붓딸 손 묶은 외국인 아빠 ‘집...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500055?wlog_tag3=naver",
+      "pub_date": "2026-04-21T10:17:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'부실복무 인정' 송민호 \"기회 된다면 재복무 하겠다\"[스타현장]",
+      "link": "https://www.starnewskorea.com/music/2026/04/21/2026042106165133431",
+      "pub_date": "2026-04-21T10:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 검찰, '부실 복무' 논란 위너 송민호에 징역 1년 6개월 구형",
+      "link": "https://www.news1.kr/society/court-prosecution/6143461",
+      "pub_date": "2026-04-21T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "SKT 'A.X K1' vs KT '믿음' vs LGU+ '익시오'…통신 3사, WIS 2026서 AI 역량...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838419",
+      "pub_date": "2026-04-21T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주 \"한병도 원내대표 오늘 사퇴…천준호 대행 체제\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2315364.htm",
+      "pub_date": "2026-04-21T10:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]'부실 복무 의혹' 송민호, 첫 재판 출석…\"깊이 반성, 성실히 재판...",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811737",
@@ -10,6 +64,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "폴리뉴스 모닝브리핑 4월 21일 화요일",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729040",
+      "pub_date": "2026-04-21T10:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -76,6 +139,15 @@
       "is_scoop": false
     },
     {
+      "title": "'102일 무단 결근' 송민호 \"실망 드려 죄송\"…첫 공판 출석",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03152086645418416",
+      "pub_date": "2026-04-21T10:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "민희진, 악플러 상대 손배소 일부 승소…1인당 30만원 배상",
       "link": "https://www.dailian.co.kr/news/view/1635879/?sc=Naver",
       "pub_date": "2026-04-21T10:06:00+09:00",
@@ -103,15 +175,6 @@
       "is_scoop": false
     },
     {
-      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
-      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
-      "pub_date": "2026-04-21T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 21일",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604210032",
       "pub_date": "2026-04-21T10:04:00+09:00",
@@ -119,6 +182,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'부실 복무 의혹' 송민호, 오늘 첫 재판… '대부분의 혐의 인정'",
+      "link": "https://www.segye.com/newsView/20260421504805?OutUrl=naver",
+      "pub_date": "2026-04-21T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "컬리, 장보기 부담 낮춘 '굿프라이스' 기획전 진행…신선식품·간편식 ...",
@@ -184,8 +256,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피 6350선 돌파…장중 사상 최고가 경신",
-      "link": "https://economist.co.kr/article/view/ecn202604210003",
+      "title": "[속보] 코스피 6355.39 장중 최고가 경신",
+      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309936",
       "pub_date": "2026-04-21T09:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -193,8 +265,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6355.39 장중 최고가 경신",
-      "link": "https://www.thescoop.co.kr/news/articleView.html?idxno=309936",
+      "title": "[속보]코스피 6350선 돌파…장중 사상 최고가 경신",
+      "link": "https://economist.co.kr/article/view/ecn202604210003",
       "pub_date": "2026-04-21T09:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -247,8 +319,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 협상 기대에 사상 최고치 경신",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260421093931oXL",
+      "title": "[속보] 코스피, 이란 전쟁 전 전고점 돌파…6348.23",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031292",
       "pub_date": "2026-04-21T09:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -256,8 +328,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 이란 전쟁 전 전고점 돌파…6348.23",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031292",
+      "title": "[속보] 코스피, 협상 기대에 사상 최고치 경신",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260421093931oXL",
       "pub_date": "2026-04-21T09:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -274,20 +346,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 장중 6350 돌파, 역대 최고치…전쟁 전 불장 다시 시작되...",
-      "link": "https://www.hani.co.kr/arti/economy/finance/1255138.html",
-      "pub_date": "2026-04-21T09:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 6340선 돌파…장중 이란 전쟁전 전고점",
       "link": "https://www.mk.co.kr/article/12022489",
       "pub_date": "2026-04-21T09:36:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 6350 돌파, 역대 최고치…전쟁 전 불장 다시 시작되...",
+      "link": "https://www.hani.co.kr/arti/economy/finance/1255138.html",
+      "pub_date": "2026-04-21T09:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -328,6 +400,15 @@
       "is_scoop": false
     },
     {
+      "title": "캐시닥 용돈퀴즈 정답 4월 21일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604210030",
+      "pub_date": "2026-04-21T09:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] 코스피, 장중 6350 돌파…역대 최고치 경신",
       "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=610541",
       "pub_date": "2026-04-21T09:32:00+09:00",
@@ -344,15 +425,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "캐시닥 용돈퀴즈 정답 4월 21일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604210030",
-      "pub_date": "2026-04-21T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보]코스피 장중 6350선 돌파, 사상 최고치 경신…‘120만 닉스’ 고지...",
@@ -1728,78 +1800,6 @@
       "pub_date": "2026-04-21T07:20:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210006",
-      "pub_date": "2026-04-21T07:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란 선박 최소 26척, 미 봉쇄선 통과\"<영국 매체>",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604210717221Io",
-      "pub_date": "2026-04-21T07:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 다카이치 ‘A급 전범 합사’ 야스쿠니신사에 공물 … 총리 취임...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260421.99099005831",
-      "pub_date": "2026-04-21T07:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 일본 다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.dailian.co.kr/news/view/1635779/?sc=Naver",
-      "pub_date": "2026-04-21T07:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 다카이치, 야스쿠니 공물 봉납...총리 취임후 처음",
-      "link": "https://economist.co.kr/article/view/ecn202604210001",
-      "pub_date": "2026-04-21T07:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日다카이치 'A급 전범 합사' 야스쿠니신사에 공물 봉납",
-      "link": "https://www.imaeil.com/page/view/2026042107072507527",
-      "pub_date": "2026-04-21T07:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 다카이치 총리, 야스쿠니 신사에 공물 봉납",
-      "link": "https://www.sidae.com/article/2026042107055555260",
-      "pub_date": "2026-04-21T07:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]日다카이치 총리, 야스쿠니 신사에 공물 봉납",
-      "link": "https://www.newsis.com/view/NISX20260421_0003599237",
-      "pub_date": "2026-04-21T07:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
