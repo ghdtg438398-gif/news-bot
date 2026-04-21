@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-21 12:15:29",
+  "updated": "2026-04-21 12:20:29",
   "total": 200,
   "items": [
     {
@@ -66,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
+      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
+      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 방시혁 영장 신청 경찰 \"자본시장 교란 엄정 대처\"",
-      "link": "https://www.yna.co.kr/view/AKR20260421093200004?input=1195m",
+      "title": "[속보]신현송 한은 총재 \"신중하고 유연한 통화정책으로 물가·금융 안정...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604210024",
       "pub_date": "2026-04-21T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
+      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "확 바뀐 車보험 가입 전략…보장은 '확대'·보험료는 '절감'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838416",
+      "title": "보험개발원 \"차보험 주행거리 특약, 가입자 평균 13.3만원 환급\"",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302095",
       "pub_date": "2026-04-21T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,15 +147,6 @@
       "is_scoop": false
     },
     {
-      "title": "“AI가 암 치료 설계까지 하루에”…LG·밴더빌트 ‘에이전틱 AI’ 공개",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095227",
-      "pub_date": "2026-04-21T11:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
       "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
       "pub_date": "2026-04-21T11:49:00+09:00",
@@ -163,6 +154,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "“AI가 암 치료 설계까지 하루에”…LG·밴더빌트 ‘에이전틱 AI’ 공개",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095227",
+      "pub_date": "2026-04-21T11:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 서울시의회, 한강버스 셔틀·승조원 세금 지원 제동…업무협약 ...",
@@ -219,20 +219,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한강버스 ‘흑자 날 때까지’ 세금 지원, 서울시의회서 제동···...",
-      "link": "https://www.khan.co.kr/article/202604211139001",
-      "pub_date": "2026-04-21T11:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
       "link": "https://magazine.hankyung.com/business/article/202604215636b",
       "pub_date": "2026-04-21T11:39:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]한강버스 ‘흑자 날 때까지’ 세금 지원, 서울시의회서 제동···...",
+      "link": "https://www.khan.co.kr/article/202604211139001",
+      "pub_date": "2026-04-21T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -300,15 +300,6 @@
       "is_scoop": false
     },
     {
-      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
-      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
-      "pub_date": "2026-04-21T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"호수의 여인\" 계승할 수영장 점프…김효주·전인지 LPGA 메이저 도전",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16040724",
       "pub_date": "2026-04-21T11:28:00+09:00",
@@ -320,6 +311,15 @@
     {
       "title": "미국 중국의 해군 역량 대응에 한국과 협력 중요성 부각, \"조선업 역량 ...",
       "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436157",
+      "pub_date": "2026-04-21T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“돈 내고 볼 뻔” 안방 돌아온 월드컵…5000만 ‘매서운 눈’, 홍명보호...",
+      "link": "https://www.segye.com/newsView/20260421507855?OutUrl=naver",
       "pub_date": "2026-04-21T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
+      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -408,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
+      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
