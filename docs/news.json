@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 06:30:33",
-  "total": 194,
+  "updated": "2026-04-22 06:35:30",
+  "total": 193,
   "items": [
+    {
+      "title": "[단독 - 중대재해 발생현황 전수 분석] 4년간 2천436명 죽었는데 실형은...",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233929",
+      "pub_date": "2026-04-22T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[실제 써보니] 크롬 속 제미나이…검색·여행 '한 번에'",
+      "link": "https://www.yna.co.kr/view/AKR20260421151000017?input=1195m",
+      "pub_date": "2026-04-22T06:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"휴전 연장\" 선언에…이란 \"추가 협상 없다\"",
+      "link": "https://economist.co.kr/article/view/ecn202604220002",
+      "pub_date": "2026-04-22T06:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독]하정우 \"구포초 금시초문, 25일 발표도 어렵다\"…순방 중 CBS에 직...",
       "link": "https://www.nocutnews.co.kr/news/6506025?utm_source=naver&utm_medium=article&utm_campaign=20260422062536",
@@ -48,7 +75,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]트럼프 \"이란 통일된 협상안 내고 논의 종결때까지 휴전\"",
+      "title": "[속보]트럼프 \"이란 통일된 협상안, 논의 종결때까지 휴전\"",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006206",
       "pub_date": "2026-04-22T06:18:00+09:00",
       "source_id": "yna",
@@ -1711,42 +1738,6 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
-      "link": "http://www.fnnews.com/news/202604212004375552",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 대통령 '국빈 방문' 베트남 도착…내일 한-베 정상회담",
-      "link": "https://www.hankyung.com/article/2026042170707",
-      "pub_date": "2026-04-21T20:33:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 베트남 하노이 도착…내일 럼 서기장과 정상회담",
-      "link": "https://www.dailian.co.kr/news/view/1636231/?sc=Naver",
-      "pub_date": "2026-04-21T20:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]파키스탄 \"미·이란 모두 2차 휴전회담 개최 시사\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600810",
-      "pub_date": "2026-04-21T20:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
