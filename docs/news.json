@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 06:45:27",
-  "total": 192,
+  "updated": "2026-04-22 06:50:28",
+  "total": 195,
   "items": [
+    {
+      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
+      "pub_date": "2026-04-22T06:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전 발표 인정 안 해…국익 따라 행동” (이란 국영...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
+      "pub_date": "2026-04-22T06:47:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
+      "link": "https://www.joongang.co.kr/article/25422234",
+      "pub_date": "2026-04-22T06:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\" [이란 국영방...",
+      "link": "https://www.hankyung.com/article/2026042273607",
+      "pub_date": "2026-04-22T06:47:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
+      "link": "https://www.yna.co.kr/view/AKR20260422014500009?input=1195m",
+      "pub_date": "2026-04-22T06:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 이란 국영TV \"트럼프 휴전 연장 인정 안 해…국익 따라 행동할 것...",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260422063737Xh9",
@@ -1710,24 +1755,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]주택 방화로 70대女 사망…용의자 ‘사위’ 숨진 채 발견",
-      "link": "https://www.munhwa.com/article/11583965?ref=naver",
-      "pub_date": "2026-04-21T20:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 베트남 하노이 도착..22일 정상회담 예정",
-      "link": "https://www.newspim.com/news/view/20260421001370",
-      "pub_date": "2026-04-21T20:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
