@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 15:10:29",
+  "updated": "2026-04-21 15:15:30",
   "total": 200,
   "items": [
+    {
+      "title": "CU, 화물연대 파업 2주 넘었다…물류 차질 장기화",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447296",
+      "pub_date": "2026-04-21T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"'평화국가' 이제 끝?\"…'살상무기 수출' 80년 만에 빗장 풀...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526575&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-21T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "고양 식품가공 공장서 화재…건물 3개동 불타고 3명 자력 대피",
+      "link": "https://www.wikitree.co.kr/articles/1132680",
+      "pub_date": "2026-04-21T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한병도, 연임 위해 원내대표직 사퇴",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64109",
+      "pub_date": "2026-04-21T15:09:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "사회복무요원 송민호, 102일 무단결근 혐의로 징역 1년 6개월 구형",
       "link": "https://mdtoday.co.kr/news/view/1065592480034922",
@@ -75,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
-      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
+      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"나의 청소 MBTI는?\" 드리미, 'L50s Pro Ultra' 출시 기념 'L-MBTI' 이벤트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49146",
+      "title": "트와이스 나연, 너무 너무 귀엽나연 [뉴스엔TV]",
+      "link": "https://www.newsen.com/news_view.php?uid=202604211459531310",
       "pub_date": "2026-04-21T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
+      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "가상자산 거래소 1년, 새 코인 절반 '물갈이'…투자자 '상폐 리스크' 상...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410779",
+      "title": "대형 건설사, 정비사업 선별 수주 '수싸움'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298572&inflow=N",
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,15 +210,6 @@
       "is_scoop": false
     },
     {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
       "pub_date": "2026-04-21T14:42:00+09:00",
@@ -197,6 +224,15 @@
       "pub_date": "2026-04-21T14:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
+      "pub_date": "2026-04-21T14:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -318,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한병도, 연임 위해 與 원내대표직 사퇴",
-      "link": "https://www.segye.com/newsView/20260421511303?OutUrl=naver",
+      "title": "[속보] 중부내륙고속도로 성주 인근 화물차 화재 사고",
+      "link": "https://www.etoday.co.kr/news/view/2577714",
       "pub_date": "2026-04-21T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -327,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중부내륙고속도로 성주 인근 화물차 화재 사고",
-      "link": "https://www.etoday.co.kr/news/view/2577714",
+      "title": "[속보] 한병도, 연임 위해 與 원내대표직 사퇴",
+      "link": "https://www.segye.com/newsView/20260421511303?OutUrl=naver",
       "pub_date": "2026-04-21T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,8 +471,8 @@
       "is_scoop": false
     },
     {
-      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
+      "title": "민주노총 \"'물류센터 사상 사고' CU·정부 책임…총력 투쟁\"",
+      "link": "https://www.nocutnews.co.kr/news/6505709?utm_source=naver&utm_medium=article&utm_campaign=20260421022328",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -444,8 +480,8 @@
       "is_scoop": false
     },
     {
-      "title": "민주노총 \"'물류센터 사상 사고' CU·정부 책임…총력 투쟁\"",
-      "link": "https://www.nocutnews.co.kr/news/6505709?utm_source=naver&utm_medium=article&utm_campaign=20260421022328",
+      "title": "[유통 Pick] 나눔·글로벌·체험 동시 강화",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201078",
       "pub_date": "2026-04-21T14:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,21 +498,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 한병도 민주당 원내대표 사퇴…'연임 도전' 공식화",
-      "link": "https://www.dailian.co.kr/news/view/1636011/?sc=Naver",
-      "pub_date": "2026-04-21T14:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "박명수, 방시혁 구속영장 당일 ‘아름다운 구속’ 선곡…“타이밍 절묘...",
       "link": "https://sports.khan.co.kr/article/202604211422013?pt=nv",
       "pub_date": "2026-04-21T14:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한병도 민주당 원내대표 사퇴…'연임 도전' 공식화",
+      "link": "https://www.dailian.co.kr/news/view/1636011/?sc=Naver",
+      "pub_date": "2026-04-21T14:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "노정현 \"단일화 시급\"…국힘 분열 변수 속 연제 '구도 전쟁'",
-      "link": "https://www.nocutnews.co.kr/news/6505630?utm_source=naver&utm_medium=article&utm_campaign=20260421114027",
-      "pub_date": "2026-04-21T11:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 방시혁 구속영장 신청…사기적 부정거래 혐의",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2045938",
-      "pub_date": "2026-04-21T11:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 방시혁 하이브 의장 구속영장 신청",
-      "link": "https://magazine.hankyung.com/business/article/202604215636b",
-      "pub_date": "2026-04-21T11:39:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]한강버스 ‘흑자 날 때까지’ 세금 지원, 서울시의회서 제동···...",
-      "link": "https://www.khan.co.kr/article/202604211139001",
-      "pub_date": "2026-04-21T11:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
