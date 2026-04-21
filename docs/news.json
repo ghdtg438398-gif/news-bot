@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-21 22:35:29",
+  "updated": "2026-04-21 22:40:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 민주당, 시흥·군포·용인 등 광역의원 단수 공천",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723564",
+      "pub_date": "2026-04-21T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"끝까지 압박\"…서울, 부천 3-0 제압하고 선두 굳히기",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041264",
+      "pub_date": "2026-04-21T22:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "12~2월 英 실업률 4.9%·0.3%P↓\"예상 밖 하락\"",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600857",
+      "pub_date": "2026-04-21T22:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 미·이란 2차 협상 기대에 상승 출발",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600854",
+      "pub_date": "2026-04-21T22:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"밴스 파키스탄으로 출국\"...초읽기 들어간 '2차 담판'",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604212231426851",
+      "pub_date": "2026-04-21T22:31:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "핵·우주 과학자들 줄줄이 사라졌다…무슨 일? 美 의회 조사 착수 [핫이...",
       "link": "https://nownews.seoul.co.kr/news/newsView.php?id=20260421601020&wlog_tag3=naver",
@@ -120,20 +165,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
-      "link": "https://www.hankyung.com/article/2026042171217",
-      "pub_date": "2026-04-21T21:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]트럼프 “이란과 훌륭한 합의할 것…그들은 선택의 여지 없어”",
       "link": "https://www.donga.com/news/Inter/article/all/20260421/133786413/1",
       "pub_date": "2026-04-21T21:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프, 이란과 휴전 만료 D-1 \"훌륭한 합의하게 될 것\"",
+      "link": "https://www.hankyung.com/article/2026042171217",
+      "pub_date": "2026-04-21T21:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -192,11 +237,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
+      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
       "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,11 +255,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프, 이란과 휴전 만료 전날 “훌륭한 합의하게 될 것”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029713521&code=61131111&cp=nv",
+      "title": "[속보]美 3월 소매판매 1.7% 증가…1년 만에 최대 증가폭",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06156566645418416",
       "pub_date": "2026-04-21T21:46:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1752,51 +1797,6 @@
       "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
       "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
       "pub_date": "2026-04-21T16:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈 ON] \"22일 2차 회담...휴전 만료 직전 막판 담판\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604211644464674",
-      "pub_date": "2026-04-21T16:44:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동 전쟁 두 달째 유가 2천원 육박…서민들 고통 여전",
-      "link": "https://www.nocutnews.co.kr/news/6505855?utm_source=naver&utm_medium=article&utm_campaign=20260421044329",
-      "pub_date": "2026-04-21T16:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 2박3일 인도 국빈방문 마치고 베트남 향발",
-      "link": "https://www.ajunews.com/view/20260421163826518",
-      "pub_date": "2026-04-21T16:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]특검, ‘통일교 1억 수수’ 권성동 2심도 징역 4년 구형…“반성...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/21/20260421500193?wlog_tag3=naver",
-      "pub_date": "2026-04-21T16:39:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "기아, 장애인의 날 맞아 ‘PV5 WAV’ 연계 프로그램 진행",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85864",
-      "pub_date": "2026-04-21T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
