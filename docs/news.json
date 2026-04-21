@@ -1,20 +1,29 @@
 {
-  "updated": "2026-04-21 18:35:33",
+  "updated": "2026-04-21 18:40:27",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 경찰 조사 앞두고 숨진 20대 소지품서 ‘독극물’ 검출",
-      "link": "http://www.jndn.com/article.php?aid=1776763873431297101",
-      "pub_date": "2026-04-21T18:34:00+09:00",
+      "title": "[단독] 효성家 형제 법정대면 연기… 조현준 “전쟁에 경영상황 급변”",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=1776760812&code=11131900&cp=nv",
+      "pub_date": "2026-04-21T18:38:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] \"WYD 향한 신앙의 출정\"…명동대성당서 '본당 도약 미사' 봉헌",
+      "link": "https://www.ajunews.com/view/20260421182114762",
+      "pub_date": "2026-04-21T18:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] SSG 박성한, KBO 최초 개막전 이후 연속 경기 안타 신기록",
-      "link": "http://www.osen.co.kr/article/G1112786094",
-      "pub_date": "2026-04-21T18:33:00+09:00",
+      "title": "[속보] 경찰 조사 앞두고 숨진 20대 소지품서 ‘독극물’ 검출",
+      "link": "http://www.jndn.com/article.php?aid=1776763873431297101",
+      "pub_date": "2026-04-21T18:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -30,9 +39,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
-      "link": "https://www.imaeil.com/page/view/2026042118294446845",
-      "pub_date": "2026-04-21T18:31:00+09:00",
+      "title": "[속보] SSG 박성한, 개막 이후 연속 경기 안타 신기록 달성",
+      "link": "http://www.osen.co.kr/article/G1112786094",
+      "pub_date": "2026-04-21T18:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -41,6 +50,15 @@
     {
       "title": "[속보]SSG 박성한, KBO 역대 최초 개막 후 19경기 연속 안타",
       "link": "https://www.newsis.com/view/NISX20260421_0003600721",
+      "pub_date": "2026-04-21T18:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주택에서 화재 나 70대 女 사망…방화 용의자인 40대 사위도 비닐...",
+      "link": "https://www.imaeil.com/page/view/2026042118294446845",
       "pub_date": "2026-04-21T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,21 +84,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
-      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
-      "pub_date": "2026-04-21T18:26:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 전쟁이 언론에 던진 과제",
       "link": "http://www.journalist.or.kr/news/article.html?no=60757",
       "pub_date": "2026-04-21T18:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “중학교 때 그 선생” 교사 흉기 습격…고3 ‘살인미수’ 구속...",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/21/20260421500230?wlog_tag3=naver",
+      "pub_date": "2026-04-21T18:26:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -129,21 +147,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹",
-      "link": "https://www.mk.co.kr/article/12023249",
-      "pub_date": "2026-04-21T18:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동전쟁 충격…실용적 색채 띄운 신현송 출범",
       "link": "https://biz.sbs.co.kr/article_hub/20000305789?division=NAVER",
       "pub_date": "2026-04-21T18:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홈플러스 익스프레스, 매각 우선협상대상자에 하림그룹…NS홈쇼...",
+      "link": "https://www.mk.co.kr/article/12023249",
+      "pub_date": "2026-04-21T18:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-21T15:34:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 1179.03…0.36% 상승 마감",
-      "link": "https://www.sidae.com/article/2026042115332789468",
-      "pub_date": "2026-04-21T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피 ‘6388.47 마감’ 사상 최고치 경신···SK하이닉스 사상...",
-      "link": "https://www.khan.co.kr/article/202604211534021",
-      "pub_date": "2026-04-21T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
