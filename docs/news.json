@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-21 11:45:28",
+  "updated": "2026-04-21 11:50:35",
   "total": 200,
   "items": [
+    {
+      "title": "천안 독립기념관 나들목서 트럭 단독 사고…40대 운전자 부상",
+      "link": "https://www.nocutnews.co.kr/news/6505633?utm_source=naver&utm_medium=article&utm_campaign=20260421114827",
+      "pub_date": "2026-04-21T11:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]서울시의회, 한강버스 셔틀·승조원 세금 지원 제동…업무협약 변...",
+      "link": "https://www.mk.co.kr/article/12022733",
+      "pub_date": "2026-04-21T11:46:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이통3사, 월드IT쇼서 AI 경쟁 본격화…풀스택·AX 격돌",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549967",
+      "pub_date": "2026-04-21T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경찰, 방시혁 하이브 의장에 구속영장…1900억 원 부당이득 혐의",
+      "link": "http://www.atstar1.com/news/articleView.html?idxno=6034572",
+      "pub_date": "2026-04-21T11:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "외국인 발길 지역으로 돌린다, 지방공항 키워 관광 분산",
       "link": "https://www.nc.press/news/articleView.html?idxno=613255",
@@ -39,7 +75,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]서울시의회, 한강버스 셔틀·승조원 세금 지원 제동···업무협약...",
+      "title": "[속보]한강버스 ‘흑자 날 때까지’ 세금 지원, 서울시의회서 제동···...",
       "link": "https://www.khan.co.kr/article/202604211139001",
       "pub_date": "2026-04-21T11:39:00+09:00",
       "source_id": "yna",
@@ -210,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
+      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 하이브 방시혁에 사기적 부정거래 혐의로 구속영장 신청",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150036000000",
+      "title": "[속보] 독립기념관IC 인근 교통사고…경부고속도로 진입 통제",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224967",
       "pub_date": "2026-04-21T11:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "[속보] 파인텍 주가 상한가 직행…최근 흐름보니",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569149",
       "pub_date": "2026-04-21T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피 장중 6350선 돌파, 사상 최고치 경신…‘120만 닉스’ 고지...",
-      "link": "https://www.munhwa.com/article/11583759?ref=naver",
-      "pub_date": "2026-04-21T09:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 ‘사상 최고치’ 경신…6,350선 돌파",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8541285&ref=A",
-      "pub_date": "2026-04-21T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'전쟁 이슈 뚫고..' 코스피 장중 사상 최고치 경신…6,350.94",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604210016",
-      "pub_date": "2026-04-21T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 중동 전쟁전 전고점 돌파…6355.39",
-      "link": "https://news.tf.co.kr/read/economy/2315318.htm",
-      "pub_date": "2026-04-21T09:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
