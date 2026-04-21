@@ -1,20 +1,47 @@
 {
-  "updated": "2026-04-21 17:40:30",
+  "updated": "2026-04-21 17:45:31",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
-      "link": "https://www.kyeonggi.com/article/20260421580468",
-      "pub_date": "2026-04-21T17:39:00+09:00",
+      "title": "[속보] 하동 주택 화재로 70대 여성 사망…용의자 사위 숨진 채 발견",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/21/20260421500216?wlog_tag3=naver",
+      "pub_date": "2026-04-21T17:44:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“이란, 파키스탄에 협상단 파견한다”…중재국들에 통보 보도",
+      "link": "https://www.munhwa.com/article/11583951?ref=naver",
+      "pub_date": "2026-04-21T17:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
-      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
-      "pub_date": "2026-04-21T17:36:00+09:00",
+      "title": "[속보]납치범 복장하고 10살 의붓딸 양손과 머리 부위 투명 테이프로 감...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042150141900000",
+      "pub_date": "2026-04-21T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'검증 끝' 서울 진보교육감 단일화 추진위, \"22·23일 투표, 후보들 동의...",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227003&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-21T17:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강득구 “거짓말로 두번이나 권력 훔치려는 정당… 국민 심판해...",
+      "link": "https://www.kyeonggi.com/article/20260421580468",
+      "pub_date": "2026-04-21T17:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -30,7 +57,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란 “현재 파키스탄으로 떠난 협상 대표단 없어”",
+      "title": "전남 강진군, '고유가 직격탄' 90억 긴급 추경…민생 안정 총력",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=745360",
+      "pub_date": "2026-04-21T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “현재 파키스탄으로 떠난 협상 대표단 없어”…美와 휴전 ...",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525232",
       "pub_date": "2026-04-21T17:34:00+09:00",
       "source_id": "yna",
@@ -39,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
+      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
+      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "침묵은 공범이다…팔레스타인을 읽어야 할 시간",
-      "link": "https://h21.hani.co.kr/arti/culture/culture_general/59211.html",
+      "title": "\"비례대표 2명→3명으로\"…세종시법 개정, 23일 본회의 분수령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=224996",
       "pub_date": "2026-04-21T17:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
-      "link": "https://www.newspim.com/news/view/20260421001228",
+      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
+      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "위너 송민호, ‘부실 복무’ 혐의 인정…징역 1년 6개월 구형 [종합]",
-      "link": "https://sports.donga.com/ent/article/all/20260421/133783617/1",
+      "title": "대법원장·중앙지검장·검사까지…공수처 '법왜곡죄' 수사 적법성 논란",
+      "link": "https://www.newspim.com/news/view/20260421001228",
       "pub_date": "2026-04-21T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,8 +435,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
-      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
+      "title": "민주당 정청래의 '이광재 활용법', 6·3 국회의원 재보선 수도권 판도 뒤...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436198",
       "pub_date": "2026-04-21T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -408,8 +444,8 @@
       "is_scoop": false
     },
     {
-      "title": "민주당 정청래의 '이광재 활용법', 6·3 국회의원 재보선 수도권 판도 뒤...",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436198",
+      "title": "\"무심코 세운 자동차, 이웃의 생명을 위협할 수 있습니다.\"",
+      "link": "https://www.newsjeju.net/news/articleView.html?idxno=419931",
       "pub_date": "2026-04-21T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-21T14:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 한병도, 원내대표직 사퇴 \"연임 도전\"",
-      "link": "https://www.ajunews.com/view/20260421144859174",
-      "pub_date": "2026-04-21T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "물류차 막다 사망…민노총 \"교섭요구했다고 죽어야 하나\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04136086645418416",
-      "pub_date": "2026-04-21T14:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "배달의민족, ‘60계치킨·스텔라떡볶이’ 장스푸드와 협약",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85858",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈+] 밀라노 올림픽이 남긴 파장… 북중미 월드컵 중계권 논란의 본...",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834337",
-      "pub_date": "2026-04-21T14:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
