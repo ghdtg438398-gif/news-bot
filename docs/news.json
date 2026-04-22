@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 23:20:32",
+  "updated": "2026-04-22 23:25:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 民, 무안 김산·완도 우홍섭 공천...여수는 김영규·서영학 결선",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220074",
+      "pub_date": "2026-04-22T23:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]뉴욕증시, 트럼프 휴전 연장 발표에 상승 출발…반도체주↑",
       "link": "https://www.newsis.com/view/NISX20260422_0003602604",
@@ -1791,15 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 1.1조원 규모 OLED 투자 추진",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602441",
-      "pub_date": "2026-04-22T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
