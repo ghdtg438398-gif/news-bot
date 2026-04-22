@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 00:09:55",
+  "updated": "2026-04-23 00:13:42",
   "total": 200,
   "items": [
+    {
+      "title": "“이것도 몰라?”…엄마는 “살려달라” 애원하는 아들에 둔기 휘둘렀다...",
+      "link": "https://www.sedaily.com/article/20035767?ref=naver",
+      "pub_date": "2026-04-23T00:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "함종국 전 도의원, 국힘 횡성군수 경선 여론조사 재심 요구",
       "link": "https://www.kado.net/news/articleView.html?idxno=2046342",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-22T18:07:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "검찰 \"적극적 보완수사 덕\"-경찰 \"수사단계 확보 증거\"...또 신경전",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046294",
-      "pub_date": "2026-04-22T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
