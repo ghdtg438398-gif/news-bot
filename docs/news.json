@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 07:55:27",
-  "total": 159,
+  "updated": "2026-04-23 08:00:40",
+  "total": 164,
   "items": [
+    {
+      "title": "지하철 4호선 오이도역 선로 장애... 출근길 열차 운행 30분 지연",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564060",
+      "pub_date": "2026-04-23T07:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조…사상최대 기록",
+      "link": "https://www.hani.co.kr/arti/economy/marketing/1255474.html",
+      "pub_date": "2026-04-23T07:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스, 영업이익률 72%…사상 최고 기록",
+      "link": "https://view.asiae.co.kr/article/2026042307552121788",
+      "pub_date": "2026-04-23T07:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 매출 52.6조·영업익 37.6조…사상 최대",
+      "link": "https://www.sentv.co.kr/article/view/sentv202604230004",
+      "pub_date": "2026-04-23T07:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 영업이익 37.6조원…역대 최대",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838680",
+      "pub_date": "2026-04-23T07:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]SK하이닉스 1분기 영업익 사상최대 37.6조…영업이익률 71.5%",
       "link": "https://www.munhwa.com/article/11584344?ref=naver",
@@ -39,15 +84,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조 … 분기 최대 실적 또 경신",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300016.html",
-      "pub_date": "2026-04-23T07:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] SK하이닉스, 1분기 당기순익 40조3500억원···창사 이래 '사상 ...",
       "link": "https://www.ajunews.com/view/20260423071246419",
       "pub_date": "2026-04-23T07:46:00+09:00",
@@ -66,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 1분기 매출 52.6조·영업익 37.6조… 사상 최대",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395772",
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조 … 분기 최대 실적 또 경신",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300016.html",
       "pub_date": "2026-04-23T07:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -77,6 +113,15 @@
     {
       "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원…창사 이래 최고기록",
       "link": "https://news.jtbc.co.kr/article/NB12295432?influxDiv=NAVER",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 매출 52.6조·영업익 37.6조… 사상 최대",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395772",
       "pub_date": "2026-04-23T07:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조...사상 최대 실적 경신",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230015",
+      "title": "[속보] SK하이닉스 1분기 매출 52.6조·영업익 37.6조…사상 최대",
+      "link": "https://www.sidae.com/article/2026042307440228005",
       "pub_date": "2026-04-23T07:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,9 +165,27 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스 1분기 매출 52.6조·영업익 37.6조…사상 최대",
-      "link": "https://www.sidae.com/article/2026042307440228005",
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조...사상 최대 실적 경신",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230015",
       "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원...전년비 406%↑",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360745",
+      "pub_date": "2026-04-23T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1Q 영업익 37조원…전년比 405%↑",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706308",
+      "pub_date": "2026-04-23T07:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -149,24 +212,6 @@
     {
       "title": "[속보] SK하이닉스 1분기 영업익 37.6조 '역대 최대'",
       "link": "http://www.4th.kr/news/articleView.html?idxno=2110833",
-      "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원...전년비 406%↑",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360745",
-      "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1Q 영업익 37조원…전년比 405%↑",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706308",
       "pub_date": "2026-04-23T07:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
-      "link": "https://www.asiatime.co.kr/article/20260423500040",
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
+      "link": "https://www.asiatime.co.kr/article/20260423500040",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
