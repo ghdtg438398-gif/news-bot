@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 00:35:27",
+  "updated": "2026-04-23 00:40:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 다우 나스닥 등 뉴욕증시 '반등 vs 재급락' 줄다리기 시작…올랐...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569616",
+      "pub_date": "2026-04-23T00:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독]“유가 20% 오른채 1년 지속땐 韓성장률 0.2%P 하락”",
       "link": "https://www.donga.com/news/Economy/article/all/20260422/133794932/2",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "金총리 \"당정 완벽 공조로 민생 개선...추경 신속 집행\"",
-      "link": "https://www.ajunews.com/view/20260422181524222",
-      "pub_date": "2026-04-22T18:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
