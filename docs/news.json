@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 08:45:27",
+  "updated": "2026-04-23 08:50:33",
   "total": 200,
   "items": [
+    {
+      "title": "한국 경제 1분기 1.7% '깜짝 성장'... 반도체 수출·투자 반등에 경제 활...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564134",
+      "pub_date": "2026-04-23T08:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 80대 한인 폭행, 신체 방화로 숨지게한 용의자 기소 '최대 종신형...",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493764",
+      "pub_date": "2026-04-23T08:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈체크] 이란戰 악재 속에도...1분기 GDP 1.7% 깜짝 반등",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=203969",
+      "pub_date": "2026-04-23T08:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[그래픽] 경제성장률 추이",
+      "link": "https://www.news1.kr/photos/7870918",
+      "pub_date": "2026-04-23T08:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "수출·투자 '쌍끌이', 중동 리스크도 비켜갔다…1분기 韓경제 성장률 1....",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=217916",
@@ -21,21 +57,21 @@
       "is_scoop": false
     },
     {
-      "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
-      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
-      "pub_date": "2026-04-23T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]SK하이닉스 1분기 영업익 400% 넘게 폭증, 37.6조 ‘역대 최대’",
       "link": "https://www.kwnews.co.kr/page/view/2026042350005000000",
       "pub_date": "2026-04-23T08:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
+      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
+      "pub_date": "2026-04-23T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -66,7 +102,7 @@
       "is_scoop": false
     },
     {
-      "title": "사망사고 낸 배달기사 母에 \"로비해 줄게\"…수천만원 뜯은 업체 사장",
+      "title": "\"사망사고 무마해 주겠다\" 배달기사 가족에 7500만원 뜯은 대행업체 사...",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042308032752068",
       "pub_date": "2026-04-23T08:37:00+09:00",
       "source_id": "yna",
@@ -120,21 +156,21 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 성장률 1.7%…한은 전망치 2배 웃돌아",
-      "link": "https://www.cstimes.com/news/articleView.html?idxno=703006",
-      "pub_date": "2026-04-23T08:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]美, 이란과 전쟁 중 해군 장관 교체",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525534",
       "pub_date": "2026-04-23T08:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 성장률 1.7%…한은 전망치 2배 웃돌아",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=703006",
+      "pub_date": "2026-04-23T08:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -165,15 +201,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 1분기 영업익 37.6조·매출 52.6조 '어닝 서프라이즈...",
-      "link": "https://www.pressian.com/pages/articles/2026042308294982151?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-23T08:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'반도체의 힘' 한국 경제 1분기 1.7% 급반등… 22분기 만에 최고 성적",
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=78696",
       "pub_date": "2026-04-23T08:30:00+09:00",
@@ -183,11 +210,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] SK하이닉스, 1분기 영업익 37.6조·매출 52.6조 '어닝 서프라이즈...",
+      "link": "https://www.pressian.com/pages/articles/2026042308294982151?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T08:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[아침저널] 김소희 \"이용, 정진석? 윤어게인 프레임 걸리면 그냥 져\", 박...",
       "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4079998",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "윤상현 의원 \"정부, 급락장엔 호들갑 급등장엔 침묵…체감 경기 관리 의...",
+      "link": "https://www.newspim.com/news/view/20260423000129",
+      "pub_date": "2026-04-23T08:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -221,15 +266,6 @@
     {
       "title": "1분기 GDP 1.7% '깜짝 성장'…수출·투자·소비 동반 반등",
       "link": "http://www.4th.kr/news/articleView.html?idxno=2110836",
-      "pub_date": "2026-04-23T08:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "윤상현 의원 \"정부, 급락장엔 호들갑 급등장엔 침묵…체감 경기 관리 의...",
-      "link": "https://www.newspim.com/news/view/20260423000129",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
       "link": "https://www.news1.kr/world/usa-canada/6145887",
       "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
-      "link": "http://www.fnnews.com/news/202604230459228089",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
-      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44792",
-      "pub_date": "2026-04-23T05:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
