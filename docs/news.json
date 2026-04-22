@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 11:55:27",
+  "updated": "2026-04-22 12:00:40",
   "total": 200,
   "items": [
+    {
+      "title": "'부실 복무' 송민호 \"재복무 기회\" 선처 호소…당신의 생각은?[노컷투표...",
+      "link": "https://www.nocutnews.co.kr/news/6506247?utm_source=naver&utm_medium=article&utm_campaign=20260422115839",
+      "pub_date": "2026-04-22T11:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 유격수 첫 실책→3실점 빌미, 완벽하게 만회! 김혜성, 안타→밀...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812088",
+      "pub_date": "2026-04-22T11:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "오월드 원장 '늑구 사태' 책임회피 급급…기관장 자격 있나",
+      "link": "https://www.newspim.com/news/view/20260422000608",
+      "pub_date": "2026-04-22T11:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 위원장 공석·연락 두절까지…사격연맹, 실탄 유출 징계 ‘의도...",
       "link": "https://www.kukinews.com/article/view/kuk202604220059",
@@ -147,20 +174,20 @@
       "is_scoop": true
     },
     {
-      "title": "'방미단' 김대식 \"공화당 핵심 인사들 다 만났다 … 사진 한 장에 실적 ...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200106.html",
-      "pub_date": "2026-04-22T11:34:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
       "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
       "pub_date": "2026-04-22T11:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'방미단' 김대식 \"공화당 핵심 인사들 다 만났다 … 사진 한 장에 실적 ...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200106.html",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -507,15 +534,6 @@
       "is_scoop": false
     },
     {
-      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
       "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
       "pub_date": "2026-04-22T11:04:00+09:00",
@@ -523,6 +541,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 “이재명발 '세금폭탄'… 부동산시장 초토화·민생파탄”",
-      "link": "http://www.breaknews.com/1202113",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 6,400 넘으며 또 최고치 경신‥환율 11원 올라",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6817093_36932.html",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
-      "link": "https://www.sidae.com/article/2026042209085614994",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
