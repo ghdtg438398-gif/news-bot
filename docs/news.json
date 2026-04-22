@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 05:35:47",
-  "total": 156,
+  "updated": "2026-04-23 05:40:32",
+  "total": 150,
   "items": [
+    {
+      "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6817313_36925.html",
+      "pub_date": "2026-04-23T05:37:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 '휴전 연장'…S&P500·나스닥 사상 최고치",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230112&t=NN",
+      "pub_date": "2026-04-23T05:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "미국의 이란전쟁 진짜 비용은?…\"1조 달러 넘을 수도\"",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528836&plink=ORI&cooper=NAVER",
@@ -48,24 +66,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145888",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
       "link": "https://www.newsis.com/view/NISX20260423_0003602638",
       "pub_date": "2026-04-23T05:07:00+09:00",
@@ -81,6 +81,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145888",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -120,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
-      "link": "http://www.fnnews.com/news/202604230459228089",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
       "link": "https://www.news1.kr/world/usa-canada/6145887",
       "pub_date": "2026-04-23T05:01:00+09:00",
@@ -138,13 +147,13 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
+      "link": "http://www.fnnews.com/news/202604230459228089",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
@@ -156,13 +165,13 @@
       "is_scoop": true
     },
     {
-      "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
-      "link": "https://www.public25.com/news/articleView.html?idxno=44792",
-      "pub_date": "2026-04-23T05:00:00+09:00",
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
@@ -171,6 +180,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44792",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1332,78 +1350,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[주식마감] 코스피 사상 최고치 경신 속 테마주 광풍... DS단석·KEC·핑거...",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154388",
-      "pub_date": "2026-04-22T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"이란, 호르무즈 해역에서 세 번째 선박 공격\"",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604221939370717",
-      "pub_date": "2026-04-22T19:39:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2316195.htm",
-      "pub_date": "2026-04-22T19:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042219371528123",
-      "pub_date": "2026-04-22T19:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 강원 전지역 산불재난 국가위기경보 '경계' 상향",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046365",
-      "pub_date": "2026-04-22T19:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 경북 기초단체장 후보 14명 확정...영주 본 경선 송명달·황...",
-      "link": "https://www.newspim.com/news/view/20260422001246",
-      "pub_date": "2026-04-22T19:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이승만 “하나님이 세운 나라” 감사기도...\"십자가 지고\" 건국혁명 12년...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200275.html",
-      "pub_date": "2026-04-22T19:36:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
-      "link": "https://www.kyeonggi.com/article/20260422580580",
-      "pub_date": "2026-04-22T19:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
