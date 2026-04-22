@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 12:05:25",
+  "updated": "2026-04-22 12:10:30",
   "total": 200,
   "items": [
+    {
+      "title": "전쟁 장기화로 중동에 ‘발목’…현대차 현지화 전략 ‘안갯속’",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298710&inflow=N",
+      "pub_date": "2026-04-22T12:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "송영길 전 의원, ‘탈당 결단’ 회상, 당 결정 기다려...“이재명 대통...",
       "link": "http://www.breaknews.com/1202148",
@@ -53,6 +62,15 @@
       "pub_date": "2026-04-22T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542595&ref=A",
+      "pub_date": "2026-04-22T12:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -291,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
+      "title": "[속보] 경기도교육감 진보진영 단일후보에 안민석 선출",
+      "link": "https://www.kyeonggi.com/article/20260422580061",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -300,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기도교육감 진보진영 단일후보에 안민석 선출",
-      "link": "https://www.kyeonggi.com/article/20260422580061",
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
+      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -345,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
+      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +381,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
-      "link": "https://www.joongang.co.kr/article/25422281",
+      "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
+      "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
-      "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
+      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
+      "link": "https://www.joongang.co.kr/article/25422281",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563173",
       "pub_date": "2026-04-22T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 애경케미칼 주가 장초반 상한가 직행…양대지수 하락속",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569418",
-      "pub_date": "2026-04-22T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 개장 직후 사상 첫 6400선 돌파",
-      "link": "https://www.ajunews.com/view/20260422091316105",
-      "pub_date": "2026-04-22T09:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
