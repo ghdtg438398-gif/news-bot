@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 07:10:27",
-  "total": 125,
+  "updated": "2026-04-23 07:15:37",
+  "total": 124,
   "items": [
+    {
+      "title": "선양소주, MZ세대 겨냥 국내 첫 ‘말차 소주’ 출시…",
+      "link": "http://www.breaknews.com/1202439",
+      "pub_date": "2026-04-23T07:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정상신 대전교육감 예비후보, 급식 파업 ‘중재자’ 자처",
+      "link": "http://www.breaknews.com/1202449",
+      "pub_date": "2026-04-23T07:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 英·佛, ​영국 해협 이민자 횡단 차단 위한 3년 협정 체결",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564041",
@@ -48,15 +66,6 @@
       "is_scoop": false
     },
     {
-      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
-      "pub_date": "2026-04-23T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]우즈·아이유, 'AAA=첫 동반 스케줄'이었다..\"주먹 인사에 힘 얻어...",
       "link": "https://www.starnewskorea.com/music/2026/04/23/2026042114243368738",
       "pub_date": "2026-04-23T07:00:00+09:00",
@@ -64,6 +73,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "조승래 \"이원택 의혹, 가장 강도 높게 윤리감찰했지만 특별한 문제 확인...",
@@ -1099,33 +1117,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란군 “호르무즈서 ‘무허가 통항’ 선박 3척 나포”",
-      "link": "https://www.dt.co.kr/article/12059018?ref=naver",
-      "pub_date": "2026-04-22T21:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 韓-베트남, 원전개발·전력인프라 등 협력문건 12건 체결",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260422.99099006574",
-      "pub_date": "2026-04-22T21:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 내일 외통위·국방위 단독 소집…'정동영 발언' 공세 고삐(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422156251001?input=1195m",
-      "pub_date": "2026-04-22T21:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
