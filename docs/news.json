@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 21:00:47",
+  "updated": "2026-04-22 21:05:29",
   "total": 200,
   "items": [
     {
@@ -93,15 +93,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李 \"한-베, 특별한 관계\"…또 럼 \"포괄적 전략 동반자 관계 심화...",
-      "link": "https://www.hankyung.com/article/2026042200097",
-      "pub_date": "2026-04-22T20:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李 대통령 \"한국, 베트남 최대 투자국…베트남 산업발전 기여\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219565444176",
       "pub_date": "2026-04-22T20:40:00+09:00",
@@ -116,6 +107,15 @@
       "pub_date": "2026-04-22T20:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 \"한-베, 특별한 관계\"…또 럼 \"포괄적 전략 동반자 관계 심화...",
+      "link": "https://www.hankyung.com/article/2026042200097",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
