@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 04:10:27",
+  "updated": "2026-04-23 04:15:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 이란 유조선 나포…브렌트 4% 급등, 100달러 돌파",
+      "link": "https://www.news1.kr/world/usa-canada/6145881",
+      "pub_date": "2026-04-23T04:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "배성재의 ‘아성’이냐, 전현무의 ‘찬탈’이냐…피비린내 나는 ‘1900억...",
       "link": "https://www.segye.com/newsView/20260423500725?OutUrl=naver",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장] 김석기 외통위원장, 정동영 장관 '북한 핵시설 발언' 파장 지적....",
-      "link": "https://www.news2day.co.kr/article/20260422500247",
-      "pub_date": "2026-04-22T18:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
