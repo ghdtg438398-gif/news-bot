@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-22 16:50:31",
+  "updated": "2026-04-22 16:55:29",
   "total": 200,
   "items": [
+    {
+      "title": "\"진실은 어디로 갔나\"…오보와 가짜뉴스, 그 반복되는 구조를 묻는다",
+      "link": "https://www.imaeil.com/page/view/2026042114515345184",
+      "pub_date": "2026-04-22T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안호영, 단식 12일째 병원 이송…여야 위문 발길 속 정청래 '침묵'",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838654",
+      "pub_date": "2026-04-22T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“트럼프, 이란 휴전 연장 무기한 아닌 3~5일 고려”",
+      "link": "https://www.mk.co.kr/article/12024187",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
+      "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "'늑구 탈출' 재발 방지…기후부, 내년까지 동물원 '허가제' 도입",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7161087",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘 \"정동영 '구성 핵시설' 발언에 외교적 파장... 외통위 현안질의 열...",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227338&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-22T16:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[핌 포커스] 홀드백 둘러싼 입장 차…\"보호장치\" vs \"스크린 할당제 논의...",
+      "link": "https://www.newspim.com/news/view/20260421000973",
+      "pub_date": "2026-04-22T16:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "野, 정동영 '구성 발언' 논란에 현안질의 요구…與는 거부",
+      "link": "https://www.news1.kr/politics/assembly/6145481",
+      "pub_date": "2026-04-22T16:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[6·3 지방선거] 김관영, 안호영 긴급이송에 \"고독한 몸부림 헛되지 않을...",
       "link": "https://www.ajunews.com/view/20260422154327911",
@@ -9,6 +90,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이란 혁명수비대, 호르무즈서 화물선에 발포…조타실 “심각 손상”",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290251.html",
+      "pub_date": "2026-04-22T16:47:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1709,96 +1799,6 @@
       "pub_date": "2026-04-22T14:51:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형…징역 15...",
-      "link": "https://www.sedaily.com/article/20035718?ref=naver",
-      "pub_date": "2026-04-22T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, ‘언론사 단전·단수’ 이상민 항소심서 징역 15년 구...",
-      "link": "https://www.joongang.co.kr/article/25422332",
-      "pub_date": "2026-04-22T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 23명 사망 ‘아리셀 참사’ 박순관 대표, 항소심서 징역 4년 ‘대...",
-      "link": "https://www.kyeonggi.com/article/20260422580239",
-      "pub_date": "2026-04-22T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '아리셀 참사' 박순관 대표 징역 15년→4년…항소심서 대폭 감형",
-      "link": "https://magazine.hankyung.com/business/article/202604229038b",
-      "pub_date": "2026-04-22T14:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528184&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042214490720973",
-      "pub_date": "2026-04-22T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘도 다녀간 안호영 단식장…\"정청래는 안 와 자괴감\"",
-      "link": "https://www.nocutnews.co.kr/news/6506386?utm_source=naver&utm_medium=article&utm_campaign=20260422024840",
-      "pub_date": "2026-04-22T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]특검, '언론사 단전·단수' 이상민 항소심도 징역 15년 구형",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601833",
-      "pub_date": "2026-04-22T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.yna.co.kr/view/AKR20260422110800004?input=1195m",
-      "pub_date": "2026-04-22T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 2심서 징역 15년 구형",
-      "link": "http://www.fnnews.com/news/202604221348180030",
-      "pub_date": "2026-04-22T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
