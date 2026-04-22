@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 15:45:37",
+  "updated": "2026-04-22 15:50:33",
   "total": 200,
   "items": [
+    {
+      "title": "[인천TV]｜[단독] 주문~아차도 주문연도교·인천혁신모펀드 중투심 조건...",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318062",
+      "pub_date": "2026-04-22T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "일본판 '늑구' 소동?…산책 중 탈출한 늑대개 18시간 만에 포획",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528318&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T15:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광명 농장서 사슴 5마리 탈출…일대 수색",
+      "link": "https://www.kyeonggi.com/article/20260422580301",
+      "pub_date": "2026-04-22T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "회계책임자에 허위 자백 지시 윤석준 전 동구청장 1심서 집행유예",
+      "link": "https://www.nocutnews.co.kr/news/6506475?utm_source=naver&utm_medium=article&utm_campaign=20260422034540",
+      "pub_date": "2026-04-22T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국힘 외통위원 \"CSIS도 정동영 해명 반박...'외교 참사' 장관 해임하라\"",
       "link": "https://www.mediapen.com/news/view/1095000",
@@ -120,24 +156,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
-      "link": "https://www.ajunews.com/view/20260422150010771",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578115",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
       "link": "https://www.mk.co.kr/article/12024059",
       "pub_date": "2026-04-22T15:38:00+09:00",
@@ -158,6 +176,24 @@
     {
       "title": "[속보] 코스피, 6400선 돌파…사상 최고치 경신",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042215370366549",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
+      "link": "https://www.ajunews.com/view/20260422150010771",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578115",
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,7 +228,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6,417 돌파…하루 만에 최고치 또 경신",
+      "title": "[속보] 코스피, 하루 만에 최고치 또 경신…6,417 돌파",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528291&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T15:36:00+09:00",
       "source_id": "yna",
@@ -210,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 2.09포인트(0.18%) 오른 1812.12 마감",
-      "link": "https://www.sidae.com/article/2026042215335864583",
-      "pub_date": "2026-04-22T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 29.46포인트(0.46%) 오른 6417.93 마감",
       "link": "https://www.sidae.com/article/2026042215351467541",
       "pub_date": "2026-04-22T15:35:00+09:00",
@@ -228,9 +255,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260422121700008?input=1195m",
-      "pub_date": "2026-04-22T15:34:00+09:00",
+      "title": "[속보] 코스닥 2.09포인트(0.18%) 오른 1812.12 마감",
+      "link": "https://www.sidae.com/article/2026042215335864583",
+      "pub_date": "2026-04-22T15:35:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -252,6 +279,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260422121700008?input=1195m",
+      "pub_date": "2026-04-22T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -696,8 +732,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
-      "link": "https://www.asiatime.co.kr/article/20260422500275",
+      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -705,8 +741,8 @@
       "is_scoop": false
     },
     {
-      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
+      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
+      "link": "https://www.asiatime.co.kr/article/20260422500275",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1020,8 +1056,8 @@
       "is_scoop": false
     },
     {
-      "title": "엘리베이터도 이제 레고처럼 조립한다",
-      "link": "https://www.bigtanews.co.kr/article/view/big202604220011",
+      "title": "허태정 대전시장 예비후보 1호 공약 '온통대전 2.0' 발표",
+      "link": "https://www.jbnews.com/news/articleView.html?idxno=1502791",
       "pub_date": "2026-04-22T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1029,8 +1065,8 @@
       "is_scoop": false
     },
     {
-      "title": "허태정 대전시장 예비후보 1호 공약 '온통대전 2.0' 발표",
-      "link": "https://www.jbnews.com/news/articleView.html?idxno=1502791",
+      "title": "엘리베이터도 이제 레고처럼 조립한다",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604220011",
       "pub_date": "2026-04-22T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "[속보]국힘 충주시장 후보 이동석·단양군수 후보 김문근·옥천군수 후...",
       "link": "https://www.newsis.com/view/NISX20260422_0003601867",
       "pub_date": "2026-04-22T14:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
-      "link": "http://www.breaknews.com/1202208",
-      "pub_date": "2026-04-22T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
-      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
-      "pub_date": "2026-04-22T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 6410선 돌파…6412.70 터치",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601864",
-      "pub_date": "2026-04-22T14:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 상승 전환…6410 첫 돌파",
-      "link": "https://www.mt.co.kr/stock/2026/04/22/2026042214234086273",
-      "pub_date": "2026-04-22T14:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
