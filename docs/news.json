@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 19:30:51",
+  "updated": "2026-04-22 19:35:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]\"4차 석유 최고가격제, 시장·유가 등 고려해 결정\"",
+      "link": "https://www.nocutnews.co.kr/news/6506666?utm_source=naver&utm_medium=article&utm_campaign=20260422073342",
+      "pub_date": "2026-04-22T19:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "KB證, '지구의 날' 소등 행사 실시 外",
+      "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30591",
+      "pub_date": "2026-04-22T19:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189764",
+      "pub_date": "2026-04-22T19:32:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프, 이란에 \"3~5일 더\"…휴전 연장하며 마지막 협상 압박",
+      "link": "https://www.newspim.com/news/view/20260422001218",
+      "pub_date": "2026-04-22T19:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 \"당정 차원 부동산 세제 개편 구체적 논의 아직 없어\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602505",
+      "pub_date": "2026-04-22T19:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189763",
+      "pub_date": "2026-04-22T19:30:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
       "link": "https://www.mk.co.kr/article/12024434",
@@ -21,7 +75,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 내달 출시\"",
+      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
+      "link": "https://www.mk.co.kr/article/12024433",
+      "pub_date": "2026-04-22T19:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
       "pub_date": "2026-04-22T19:26:00+09:00",
       "source_id": "yna",
@@ -35,15 +98,6 @@
       "pub_date": "2026-04-22T19:26:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.mk.co.kr/article/12024433",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -111,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월중 시행\"",
-      "link": "https://www.news1.kr/politics/assembly/6145786",
+      "title": "[속보]당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218482257679",
       "pub_date": "2026-04-22T19:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218482257679",
+      "title": "[속보] 당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월중 시행\"",
+      "link": "https://www.news1.kr/politics/assembly/6145786",
       "pub_date": "2026-04-22T19:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,6 +210,15 @@
       "is_scoop": false
     },
     {
+      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542975&ref=A",
+      "pub_date": "2026-04-22T19:21:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 당정청 \"4차 석유 최고가격, 유가·국민부담 고려해 결정\"",
       "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014129",
       "pub_date": "2026-04-22T19:20:00+09:00",
@@ -183,6 +246,24 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] “봉사 갔는데 사장실로”…강기윤 후보, 공기업 동원 의혹",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542967&ref=A",
+      "pub_date": "2026-04-22T19:18:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "김성 더불어민주당 장흥군수 후보 \"서민들 삶의 고통 너무 심해\"[와이드...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220051",
+      "pub_date": "2026-04-22T19:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 당정청 \"4차 석유가격제, 시장·국제유가·국민부담 고려해 결정...",
       "link": "https://www.news1.kr/politics/assembly/6145783",
       "pub_date": "2026-04-22T19:18:00+09:00",
@@ -198,24 +279,6 @@
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]“봉사 갔는데 사장실로”…강기윤 후보, 공기업 동원 의혹",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542967&ref=A",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "김성 더불어민주당 장흥군수 후보 \"서민들 삶의 고통 너무 심해\"[와이드...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220051",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -237,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
+      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
+      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -327,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
-      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
+      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
+      "link": "https://www.newspim.com/news/view/20260422001230",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
-      "link": "https://www.newspim.com/news/view/20260422001230",
+      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
+      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1738,69 +1801,6 @@
       "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "\"사석 파동 후 첫 정상구성\" LG배, 中 포함 세계대회 재가동",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041978",
-      "pub_date": "2026-04-22T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "하림, 홈플러스 익스프레스 품나…유통 재진출 '승부수'",
-      "link": "https://www.kpinews.kr/newsView/1065599056140666",
-      "pub_date": "2026-04-22T16:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "북중미 월드컵 중계, JTBC·KBS 체제로 최종 확정",
-      "link": "https://www.m-economynews.com/news/article.html?no=66686",
-      "pub_date": "2026-04-22T16:56:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[중동 전쟁] “이란 혁명수비대, 호르무즈 해협서 화물선 또 공격”",
-      "link": "https://www.dailian.co.kr/news/view/1636642/?sc=Naver",
-      "pub_date": "2026-04-22T16:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "안호영, 단식 12일째 병원 이송…여야 위문 발길 속 정청래 '침묵'",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838654",
-      "pub_date": "2026-04-22T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"진실은 어디로 갔나\"…오보와 가짜뉴스, 그 반복되는 구조를 묻는다",
-      "link": "https://www.imaeil.com/page/view/2026042114515345184",
-      "pub_date": "2026-04-22T16:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
-      "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
-      "pub_date": "2026-04-22T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
