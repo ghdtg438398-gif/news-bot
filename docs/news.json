@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 18:45:33",
+  "updated": "2026-04-22 18:50:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 李대통령, 베트남 국빈방문 공식환영식 참석…곧 정상회담",
+      "link": "https://www.hankyung.com/article/2026042298837",
+      "pub_date": "2026-04-22T18:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
       "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
@@ -129,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
+      "link": "http://www.breaknews.com/1202391",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
-      "link": "http://www.breaknews.com/1202391",
+      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
+      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
-      "link": "https://www.munhwa.com/article/11584244?ref=naver",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
