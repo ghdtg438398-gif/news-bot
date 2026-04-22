@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 00:26:42",
+  "updated": "2026-04-23 00:32:19",
   "total": 200,
   "items": [
+    {
+      "title": "[단독]“유가 20% 오른채 1년 지속땐 韓성장률 0.2%P 하락”",
+      "link": "https://www.donga.com/news/Economy/article/all/20260422/133794932/2",
+      "pub_date": "2026-04-23T00:31:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[정효식의 시시각각] 선거가 실종됐다",
       "link": "https://www.joongang.co.kr/article/25422525",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 제주도의원 민주당 경선 '정민구.송창권.강봉직' 승리",
-      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=591232",
-      "pub_date": "2026-04-22T18:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
