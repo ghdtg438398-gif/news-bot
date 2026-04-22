@@ -1,11 +1,20 @@
 {
-  "updated": "2026-04-22 13:25:26",
+  "updated": "2026-04-22 13:30:33",
   "total": 200,
   "items": [
     {
-      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
-      "pub_date": "2026-04-22T13:22:00+09:00",
+      "title": "동탄서 현관문 오물 투척 ‘보복대행’ 20대 징역 2년",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542670&ref=A",
+      "pub_date": "2026-04-22T13:27:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI프리뷰] 22일 수원 KT-KIA전, 네일 어깨에 달린 KIA의 3연패 탈출",
+      "link": "https://www.newspim.com/news/view/20260422000659",
+      "pub_date": "2026-04-22T13:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -23,6 +32,15 @@
     {
       "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
       "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰청 \"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528046&plink=ORI&cooper=NAVER",
+      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
       "pub_date": "2026-04-22T13:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
+      "title": "경찰청 \"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528046&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 부산 국민의힘 신정철 시의원, 무소속 출마 선언",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225095",
+      "title": "[속보] 드디어 추신수 제쳤다! 오타니 폭풍 질주→53G 연속 출루…다저...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812094",
       "pub_date": "2026-04-22T12:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 드디어 추신수 제쳤다! 오타니 폭풍 질주→53G 연속 출루…다저...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812094",
+      "title": "[속보] 부산 국민의힘 신정철 시의원, 무소속 출마 선언",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225095",
       "pub_date": "2026-04-22T12:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "화물노동자 사망사고에 잇딴 집회..대규모 결의대회",
-      "link": "https://mbcgn.kr/01_new/new01_view.asp?idx=407567",
-      "pub_date": "2026-04-22T09:56:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'부실복무' 송민호, 유죄 확정→'102일만 재복무'…근무지는 변경 가능...",
-      "link": "https://www.mydaily.co.kr/page/view/2026042209222571360",
-      "pub_date": "2026-04-22T09:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
