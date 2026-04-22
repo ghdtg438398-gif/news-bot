@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 11:05:27",
+  "updated": "2026-04-22 11:10:33",
   "total": 200,
   "items": [
+    {
+      "title": "민주노총 광주전남본부 \"자본·이재명 정부기 함께 만든 예고된 살인\"",
+      "link": "https://www.nocutnews.co.kr/news/6506204?utm_source=naver&utm_medium=article&utm_campaign=20260422110838",
+      "pub_date": "2026-04-22T11:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
+      "link": "http://www.inews24.com/view/1962389",
+      "pub_date": "2026-04-22T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당 완주군수 후보에 유희태 현 군수 확정",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
+      "pub_date": "2026-04-22T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당 전북도당 기초단체장 최종 후보 발표(명단)",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225088",
+      "pub_date": "2026-04-22T11:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 정남면 의약품 제조공장서 화재…30대男 화상으로 병원 이...",
+      "link": "https://www.dailian.co.kr/news/view/1636437/?sc=Naver",
+      "pub_date": "2026-04-22T11:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조공장서 불…'대응 1단계' 발령",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422110416PTF",
+      "pub_date": "2026-04-22T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
+      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
@@ -57,7 +120,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 전주 조지훈·군산 김재준·익산 최정호…민주당 단체장 후보 공...",
+      "title": "[속보] 전주 조지훈·군산 김재준·익산 최정호…민주당, 13개 시군 단체...",
       "link": "https://www.jjan.kr/article/20260422500047",
       "pub_date": "2026-04-22T10:58:00+09:00",
       "source_id": "yna",
@@ -75,6 +138,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 마약합수본, 필리핀 '마약왕' 박왕열…향정 혐의 구속기소",
+      "link": "https://www.sidae.com/article/2026042210525677240",
+      "pub_date": "2026-04-22T10:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 합수본, ‘필리핀 마약총책’ 박왕열 구속기소",
       "link": "https://www.mk.co.kr/article/12023816",
       "pub_date": "2026-04-22T10:57:00+09:00",
@@ -86,15 +158,6 @@
     {
       "title": "[속보] 수원지검 마약 합수본, 총책 박왕열 구속기소",
       "link": "https://www.kyeonggi.com/article/20260422580067",
-      "pub_date": "2026-04-22T10:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약합수본, 필리핀 '마약왕' 박왕열…향정 혐의 구속기소",
-      "link": "https://www.sidae.com/article/2026042210525677240",
       "pub_date": "2026-04-22T10:57:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +300,26 @@
       "is_scoop": true
     },
     {
+      "title": "혁명수비대가 막아버린 권력...이란 내부는 이미 쿠데타? [지금이뉴스]",
+      "link": "https://www.ytn.co.kr/_ln/0134_202604221042190893",
+      "pub_date": "2026-04-22T10:42:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 중국산 장악한 국내 전기차 시장…작년 점유율 33.9%로, 3대 중 1대",
       "link": "https://www.dt.co.kr/article/12058816?ref=naver",
+      "pub_date": "2026-04-22T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
+      "link": "https://www.news1.kr/photos/7869163",
       "pub_date": "2026-04-22T10:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -252,15 +333,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869163",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -318,6 +390,15 @@
       "is_scoop": false
     },
     {
+      "title": "김대식 \"장동혁, 美 밴스 만나려다 불발… NSC 넘버 3는 만나\"",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702396",
+      "pub_date": "2026-04-22T10:34:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 마약합수본, 박왕열 '향정 혐의' 기소",
       "link": "https://www.dailian.co.kr/news/view/1636414/?sc=Naver",
       "pub_date": "2026-04-22T10:34:00+09:00",
@@ -333,15 +414,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김대식 \"장동혁, 美 밴스 만나려다 불발… NSC 넘버 3는 만나\"",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702396",
-      "pub_date": "2026-04-22T10:34:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -381,15 +453,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
-      "link": "https://www.ajunews.com/view/20260422101609290",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'소시 저격 의혹' 제시카, 데뷔곡 '다만세' 부르며 눈물…왜? [엑's 이슈...",
       "link": "https://www.xportsnews.com/article/2139899",
       "pub_date": "2026-04-22T10:30:00+09:00",
@@ -408,6 +471,15 @@
       "is_scoop": false
     },
     {
+      "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
+      "pub_date": "2026-04-22T10:30:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
       "pub_date": "2026-04-22T10:30:00+09:00",
@@ -417,12 +489,12 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
+      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
+      "link": "https://www.ajunews.com/view/20260422101609290",
       "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -489,8 +561,8 @@
       "is_scoop": false
     },
     {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
+      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -498,8 +570,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
+      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1728,78 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
-      "link": "https://www.wikitree.co.kr/articles/1132777",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 화물연대 집회서 1명 사망케한 운전자 '살인혐의' 구속영...",
-      "link": "https://www.pressian.com/pages/articles/2026042208412566478?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
-      "link": "https://www.ajunews.com/view/20260422073944896",
-      "pub_date": "2026-04-22T08:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, 화물연대 사망사고 운전자에 ‘살인 혐의’ 적용…구속영장 신청",
-      "link": "https://www.wikitree.co.kr/articles/1132779",
-      "pub_date": "2026-04-22T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적용",
-      "link": "https://www.donga.com/news/Society/article/all/20260422/133787416/1",
-      "pub_date": "2026-04-22T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
-      "link": "https://economist.co.kr/article/view/ecn202604220004",
-      "pub_date": "2026-04-22T08:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스UP] 미·이란 '무기한 휴전' 돌입하나?...'2차 협상' 재개 불투명",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604220834297796",
-      "pub_date": "2026-04-22T08:34:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
