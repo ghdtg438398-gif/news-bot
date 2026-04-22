@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 19:45:31",
+  "updated": "2026-04-22 19:50:28",
   "total": 200,
   "items": [
+    {
+      "title": "'가속페달 오조작' 작업자 2명 사망…70대 운전자 금고형 집행유예",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042219331720890",
+      "pub_date": "2026-04-22T19:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[주식마감] 코스피 사상 최고치 경신 속 테마주 광풍... DS단석·KEC·핑거...",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154388",
@@ -156,15 +165,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.mk.co.kr/article/12024433",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
       "pub_date": "2026-04-22T19:26:00+09:00",
@@ -179,6 +179,15 @@
       "pub_date": "2026-04-22T19:26:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
+      "link": "https://www.mk.co.kr/article/12024433",
+      "pub_date": "2026-04-22T19:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-22T17:08:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 전북지사 후보 양정모…평택시장 차화열 단수 추천",
-      "link": "https://www.news1.kr/politics/assembly/6145623",
-      "pub_date": "2026-04-22T17:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
