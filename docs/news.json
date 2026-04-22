@@ -1,10 +1,64 @@
 {
-  "updated": "2026-04-22 11:35:33",
+  "updated": "2026-04-22 11:40:29",
   "total": 200,
   "items": [
     {
+      "title": "[로컬 인사이드] 뉴스투데이 보도 후 ‘호수를 사막으로...’, 산정호수...",
+      "link": "https://www.news2day.co.kr/article/20260422500037",
+      "pub_date": "2026-04-22T11:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'미토스' 무단 접근 사고…글로벌 IT '마스터 키' 유출 위기",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601542",
+      "pub_date": "2026-04-22T11:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정유라, 수감 중 SNS에 계좌 공개...\"아이들 고아원 간다\" 옥중 편...",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260422503&PRO_CODE=99",
+      "pub_date": "2026-04-22T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"타이틀 스폰서 승부수\" 흥국생명, 회장사 역할 속 전력 재편 가속",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041745",
+      "pub_date": "2026-04-22T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[政街 돋보기] 원외정치인 사무실 허용'…기대·우려 교차",
+      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=884749",
+      "pub_date": "2026-04-22T11:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 진보 진영 경기도교육감 단일 후보에 안민석 예비후보 선출",
       "link": "https://www.kyeongin.com/article/1762305",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "<속보> 진보 경기도교육감 안민석 후보로 단일화 확정",
+      "link": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3020483",
       "pub_date": "2026-04-22T11:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -36,6 +90,15 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…\"본선 승리로 보답\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295294?influxDiv=NAVER",
+      "pub_date": "2026-04-22T11:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -363,15 +426,6 @@
       "is_scoop": false
     },
     {
-      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
       "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
       "pub_date": "2026-04-22T11:04:00+09:00",
@@ -379,6 +433,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
@@ -1734,69 +1797,6 @@
       "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
       "link": "https://www.viva100.com/article/20260422500201",
       "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834536",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 조합원 차로 친 40대 비조합원 영장…살인 혐의 적용",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542397&ref=A",
-      "pub_date": "2026-04-22T09:07:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 첫 6400선 돌파",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838553",
-      "pub_date": "2026-04-22T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029715315&code=61141111&cp=nv",
-      "pub_date": "2026-04-22T09:06:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6400 돌파...연일 사상 최고치",
-      "link": "http://www.metroseoul.co.kr/article/20260422500053",
-      "pub_date": "2026-04-22T09:06:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 개장 직후 6400 돌파…사상 최고치 경신",
-      "link": "https://news.jtbc.co.kr/article/NB12295272?influxDiv=NAVER",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 개장 직후 6400 돌파… 전날 이어 사상 최고치",
-      "link": "https://www.hankookilbo.com/news/article/A2026042208570005039?did=NA",
-      "pub_date": "2026-04-22T09:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
