@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 10:35:31",
+  "updated": "2026-04-22 10:40:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 합수본, '필리핀 마약총책' 박왕열 구속기소",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422103734zO7",
+      "pub_date": "2026-04-22T10:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'타율 0.486·WAR 1위' 박성한, 침묵한 SSG 중심타선 속 고군분투",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041696",
+      "pub_date": "2026-04-22T10:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 수원지검 마약 합수본, '필리핀 마약왕' 박왕열 구속 기소",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042210330015278",
+      "pub_date": "2026-04-22T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경북교육청, 위기 가정 ‘긴급 상담’ 전면 강화",
+      "link": "https://www.news2day.co.kr/article/20260422500071",
+      "pub_date": "2026-04-22T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조공장 화재...대응 1단계 발령",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604221035507482",
+      "pub_date": "2026-04-22T10:35:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약합수본, 박왕열 '향정 혐의' 기소",
+      "link": "https://www.dailian.co.kr/news/view/1636414/?sc=Naver",
+      "pub_date": "2026-04-22T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조 공장서 화재…대응 1단계 발령",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225080",
+      "pub_date": "2026-04-22T10:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김대식 \"장동혁, 美 밴스 만나려다 불발… NSC 넘버 3는 만나\"",
       "link": "https://www.hidomin.com/news/articleView.html?idxno=702396",
@@ -75,6 +138,15 @@
       "is_scoop": false
     },
     {
+      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
+      "link": "https://www.kpinews.kr/newsView/1065575251956002",
+      "pub_date": "2026-04-22T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
       "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
       "pub_date": "2026-04-22T10:30:00+09:00",
@@ -98,15 +170,6 @@
       "pub_date": "2026-04-22T10:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 불…‘대응 1단계’ 발령 진화 중",
-      "link": "https://www.mk.co.kr/article/12023762",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -138,6 +201,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 화성 의약품 제조공장서 불…‘대응 1단계’ 발령 진화 중",
+      "link": "https://www.mk.co.kr/article/12023762",
+      "pub_date": "2026-04-22T10:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 화성 의약품 제조공장서 큰 불…대응 1단계 발령",
       "link": "https://www.hankyung.com/article/2026042282777",
       "pub_date": "2026-04-22T10:24:00+09:00",
@@ -147,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
+      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
+      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,7 +255,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
+      "title": "[속보] 화성 알루미늄 제조공장서 불...대응 1단계",
       "link": "https://www.kyeonggi.com/article/20260422580056",
       "pub_date": "2026-04-22T10:18:00+09:00",
       "source_id": "yna",
@@ -363,13 +435,13 @@
       "is_scoop": false
     },
     {
-      "title": "KDI “석유 최고가격제 없었다면 3월 소비자물가 3.0%...최고가격제, 물...",
-      "link": "https://www.chosun.com/economy/economy_general/2026/04/22/UKBJ4HL6QBFGJKUM673CQNKA74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
       "pub_date": "2026-04-22T10:02:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "에이티즈 민기, 재계약 후 첫 단독 화보",
@@ -381,13 +453,31 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
+      "title": "KDI “석유 최고가격제 없었다면 3월 소비자물가 3.0%...최고가격제, 물...",
+      "link": "https://www.chosun.com/economy/economy_general/2026/04/22/UKBJ4HL6QBFGJKUM673CQNKA74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-22T10:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
@@ -406,24 +496,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "KDI \"1차 석유 최고가격제, 3월 소비자물가 0.4~0.8%p 낮췄다\"",
@@ -1728,78 +1800,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '조합원 3명 사상' 트럭 운전자 살인 혐의 구속영장 신청",
-      "link": "https://news.jtbc.co.kr/article/NB12295268?influxDiv=NAVER",
-      "pub_date": "2026-04-22T08:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '조합원 3명 사상' 물류 차량 운전자 구속영장 신청",
-      "link": "https://www.ytn.co.kr/_ln/0115_202604220807329543",
-      "pub_date": "2026-04-22T08:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 또다시 교착상태 … 삼전, 프리장서 0.2% 하락 '눈치싸움'",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200034.html",
-      "pub_date": "2026-04-22T08:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://www.etnews.com/20260422000008",
-      "pub_date": "2026-04-22T07:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”〈이란 국영...",
-      "link": "https://www.etnews.com/20260422000007",
-      "pub_date": "2026-04-22T07:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]박세영, 결혼·출산 후 4년 만에 컴백…MBC '가족관계증명서' 출연",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=811919",
-      "pub_date": "2026-04-22T07:50:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "트럼프 지지율 37% 최저…유가 급등에 한국전쟁 긴급법 DPA 발동",
-      "link": "https://www.sedaily.com/article/20035444?ref=naver",
-      "pub_date": "2026-04-22T07:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "HD현대-안두릴 무인함정 시제함 건조 착수…10월 시험 운항 목표",
-      "link": "https://www.sedaily.com/article/20035441?ref=naver",
-      "pub_date": "2026-04-22T07:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
