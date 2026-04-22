@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 10:05:31",
+  "updated": "2026-04-22 10:10:31",
   "total": 200,
   "items": [
+    {
+      "title": "[산업 HOT 뉴스] \"광화문 절경 품은 미식 공간\"…'더 플라자 다이닝' 문...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134537",
+      "pub_date": "2026-04-22T10:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약합수본, 마약왕 박왕열 '향정 혐의' 기소",
+      "link": "https://www.news1.kr/local/gyeonggi/6144843",
+      "pub_date": "2026-04-22T10:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한화, SAS 2026서 美 유력 해상·항공업체와 협력 체결 “방산 역량 강화...",
+      "link": "http://www.thebigdata.co.kr/view.php?ud=202604220950155423570d99e4c8_23",
+      "pub_date": "2026-04-22T10:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "최고가격제, 유가 억제 정책 효과 뚜렷…3월 물가 최대 0.8%p 낮춰",
+      "link": "https://www.nocutnews.co.kr/news/6506121?utm_source=naver&utm_medium=article&utm_campaign=20260422100538",
+      "pub_date": "2026-04-22T10:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] CU 원청, 오늘 화물연대와 교섭 시작…참변 발생 이틀만",
+      "link": "https://www.hani.co.kr/arti/society/labor/1255304.html",
+      "pub_date": "2026-04-22T10:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 김진태, 장동혁 만나 \"결자해지 필요\"",
       "link": "https://www.dailian.co.kr/news/view/1636379/?sc=Naver",
@@ -84,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
       "pub_date": "2026-04-22T10:00:00+09:00",
@@ -100,6 +136,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]코스피, 또 사상 최고치 기록한 뒤 등락 거듭 혼조",
@@ -165,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
-      "pub_date": "2026-04-22T09:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'국힘 방미단' 김대식 \"'사진 한 장'에 모든 실적 죽어…김민수에 쓴소...",
       "link": "https://www.newsis.com/view/NISX20260422_0003601261",
       "pub_date": "2026-04-22T09:46:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
+      "pub_date": "2026-04-22T09:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -264,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미래에셋벤처투자 주가 상한가 터치…장초반 약세에서 급등으로...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569425",
+      "title": "[속보] \"이란, 미국에 또 다른 지옥 만들 준비...전쟁 재개 대비 완료\"",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119191",
       "pub_date": "2026-04-22T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란, 미국에 또 다른 지옥 만들 준비...전쟁 재개 대비 완료\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119191",
+      "title": "[속보] 미래에셋벤처투자 주가 상한가 터치…장초반 약세에서 급등으로...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569425",
       "pub_date": "2026-04-22T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,8 +336,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
+      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -300,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
+      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -327,20 +372,20 @@
       "is_scoop": true
     },
     {
-      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
       "pub_date": "2026-04-22T09:30:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -399,21 +444,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
-      "pub_date": "2026-04-22T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[오늘의 국회]2026년 4월 22일",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604220913302540143",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
+      "pub_date": "2026-04-22T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -498,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +552,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
       "title": "[속보] 이란 “미국 휴전발표 인정 안해…국익 따라 행동”",
       "link": "https://biz.heraldcorp.com/article/10722591?ref=naver",
       "pub_date": "2026-04-22T06:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전 발표 인정 안 해…국익 따라 행동\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305833?division=NAVER",
-      "pub_date": "2026-04-22T06:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 “미국 휴전 연장 발표 인정 안해…국익 따라 행동할 것”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542257&ref=A",
-      "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\" [이란 국영방...",
-      "link": "https://www.hankyung.com/article/2026042273607",
-      "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 “미국 휴전발표 인정 안 해…국익 따라 행동”",
-      "link": "https://www.joongang.co.kr/article/25422234",
-      "pub_date": "2026-04-22T06:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
-      "link": "https://www.yna.co.kr/view/AKR20260422014500009?input=1195m",
-      "pub_date": "2026-04-22T06:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
