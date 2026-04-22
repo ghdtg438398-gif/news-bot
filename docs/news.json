@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 20:00:38",
+  "updated": "2026-04-22 20:05:30",
   "total": 200,
   "items": [
+    {
+      "title": "[6·3 지방선거] '친명' 안호영, 단식 12일째 병원 긴급 이송…김용 공천...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729248",
+      "pub_date": "2026-04-22T20:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[공감2026] 박찬대, 인천시장 출마 선언…첫 일정은 '바이오'",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1522006",
+      "pub_date": "2026-04-22T20:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"5부제 참여하면 차보험료 깎아주는 보험 출시된다\"",
+      "link": "http://www.inews24.com/view/1962630",
+      "pub_date": "2026-04-22T19:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "허태정 대전시장 후보, 온통대전 2.0으로 민생 회복 청사진 제시",
       "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250662",
@@ -282,21 +309,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]당정 \"차량 5부제 참여시 보험료 할인하는 특약상품 5월 출시\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602499",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[공기업, 사람을 잇다 2] 한국부동산원, 차가운 '빈집'에 온기를… 집을...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729243",
       "pub_date": "2026-04-22T19:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]당정 \"차량 5부제 참여시 보험료 할인하는 특약상품 5월 출시\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602499",
+      "pub_date": "2026-04-22T19:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -453,8 +480,8 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
+      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,8 +489,8 @@
       "is_scoop": false
     },
     {
-      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
+      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -543,8 +570,8 @@
       "is_scoop": false
     },
     {
-      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
-      "link": "https://www.newspim.com/news/view/20260422001230",
+      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
+      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -552,8 +579,8 @@
       "is_scoop": false
     },
     {
-      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
-      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
+      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
+      "link": "https://www.newspim.com/news/view/20260422001230",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
       "link": "https://www.yna.co.kr/view/AKR20260422142100001?input=1195m",
       "pub_date": "2026-04-22T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.yna.co.kr/view/AKR20260422141500001?input=1195m",
-      "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]서울고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602325",
-      "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042217074422993",
-      "pub_date": "2026-04-22T17:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
