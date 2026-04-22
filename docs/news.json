@@ -1,19 +1,46 @@
 {
-  "updated": "2026-04-22 12:25:28",
+  "updated": "2026-04-22 12:30:34",
   "total": 200,
   "items": [
     {
-      "title": "日 작년 수출 사상 최대⋯3.9% 증가한 113조엔",
-      "link": "https://www.etoday.co.kr/news/view/2578019",
-      "pub_date": "2026-04-22T12:18:00+09:00",
+      "title": "김대식 \"張, 밴스 만나려 백악관 갔으나 불발…NSC 넘버3 만나\"",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370448",
+      "pub_date": "2026-04-22T12:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
-      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
+      "title": "CU화물연대 집회현장서 '경찰 부상' 피의자에 구속영장 신청",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03850726645418744",
+      "pub_date": "2026-04-22T12:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"10년 노예처럼 부려놓고 임금은 '통장 장악'\"…전남 신안 염전주 실형",
+      "link": "https://www.nocutnews.co.kr/news/6506259?utm_source=naver&utm_medium=article&utm_campaign=20260422122439",
+      "pub_date": "2026-04-22T12:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주한미사령관, ‘전작권’ 관련 “한국 더 안전하려면 ‘정치적...",
+      "link": "https://www.dt.co.kr/article/12058847?ref=naver",
+      "pub_date": "2026-04-22T12:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日 작년 수출 사상 최대⋯3.9% 증가한 113조엔",
+      "link": "https://www.etoday.co.kr/news/view/2578019",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -32,6 +59,15 @@
     {
       "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
       "link": "https://www.munhwa.com/article/11584208?ref=naver",
+      "pub_date": "2026-04-22T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
+      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
-      "link": "https://www.asiatime.co.kr/article/20260422500108",
+      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
+      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
+      "link": "https://www.asiatime.co.kr/article/20260422500108",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,21 +246,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"차안에 실종된 언니가\" 겨우 찾았는데…백골상태 시신 발견",
-      "link": "https://www.imaeil.com/page/view/2026042210231959690",
-      "pub_date": "2026-04-22T11:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"가깝고도 새로운 일본\"… 여행업계, 소도시 지방 노선·테마 상품 확대",
       "link": "https://www.onews.tv/news/articleView.html?idxno=279079",
       "pub_date": "2026-04-22T11:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"차안에 실종된 언니가\" 겨우 찾았는데…백골상태 시신 발견",
+      "link": "https://www.imaeil.com/page/view/2026042210231959690",
+      "pub_date": "2026-04-22T11:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -363,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
+      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]화물연대 집회 사망사고 낸 비조합원 기사 구속영장",
-      "link": "https://www.munhwa.com/article/11584056?ref=naver",
-      "pub_date": "2026-04-22T09:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼아알미늄 VI 수차례 발동, 주가 25%↑…급등 흐름",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569419",
-      "pub_date": "2026-04-22T09:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
-      "link": "https://www.sidae.com/article/2026042209214486979",
-      "pub_date": "2026-04-22T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
-      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
-      "pub_date": "2026-04-22T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
