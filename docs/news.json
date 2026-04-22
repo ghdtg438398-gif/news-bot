@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 22:15:30",
+  "updated": "2026-04-22 22:20:29",
   "total": 200,
   "items": [
     {
@@ -138,6 +138,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
       "pub_date": "2026-04-22T21:37:00+09:00",
@@ -158,24 +176,6 @@
     {
       "title": "[속보]李 대통령 \"韓, 베트남 '2045년 선진국' 비전 실현 최적 파트너\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221215187783",
-      "pub_date": "2026-04-22T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
-      "pub_date": "2026-04-22T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,6 +246,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
+      "pub_date": "2026-04-22T21:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]한·베트남 열처리가금육 상호 수출에 합의",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06130326645418744",
       "pub_date": "2026-04-22T21:24:00+09:00",
@@ -255,9 +264,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
-      "pub_date": "2026-04-22T21:24:00+09:00",
+      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
+      "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -275,15 +284,6 @@
     {
       "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
       "link": "https://www.newsis.com/view/NISX20260422_0003602542",
-      "pub_date": "2026-04-22T21:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
