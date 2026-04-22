@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 09:20:28",
+  "updated": "2026-04-22 09:25:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 삼아알미늄 VI 수차례 발동, 주가 25%↑…급등 흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569419",
+      "pub_date": "2026-04-22T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
+      "link": "https://www.sidae.com/article/2026042209214486979",
+      "pub_date": "2026-04-22T09:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
+      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
+      "pub_date": "2026-04-22T09:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
+      "pub_date": "2026-04-22T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
+      "pub_date": "2026-04-22T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 국회]2026년 4월 22일",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604220913302540143",
+      "pub_date": "2026-04-22T09:22:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 첫 '6400선 돌파'...등락 '혼조세'",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220312&t=NN",
+      "pub_date": "2026-04-22T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "(단독)한국거래소 파생본부장에 한구 전 금감원 부원장보 내정",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298676&inflow=N",
@@ -66,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,15 +201,6 @@
       "is_scoop": false
     },
     {
-      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
-      "link": "http://www.breaknews.com/1202110",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
       "link": "https://www.newsis.com/view/NISX20260421_0003600870",
       "pub_date": "2026-04-22T09:10:00+09:00",
@@ -165,6 +219,15 @@
       "is_scoop": false
     },
     {
+      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
+      "link": "http://www.breaknews.com/1202110",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "대한항공 승무원, 구두 대신 ‘운동화’ 신는다…57년 만 ‘파격 결단’",
       "link": "https://www.seoul.co.kr/news/society/2026/04/22/20260422500027?wlog_tag3=naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
@@ -174,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
-      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
+      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
+      "link": "https://www.news1.kr/finance/market-exr/6144669",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
-      "link": "https://www.news1.kr/finance/market-exr/6144669",
+      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
+      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,6 +282,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"외제차 무서워\" 자동차보험 대물 10억 가입자 절반 돌파",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302257",
+      "pub_date": "2026-04-22T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
       "link": "https://www.viva100.com/article/20260422500201",
       "pub_date": "2026-04-22T09:08:00+09:00",
@@ -234,15 +306,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"외제차 무서워\" 자동차보험 대물 10억 가입자 절반 돌파",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302257",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -471,20 +534,20 @@
       "is_scoop": false
     },
     {
-      "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
       "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
       "pub_date": "2026-04-22T09:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -534,8 +597,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
+      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -543,8 +606,8 @@
       "is_scoop": false
     },
     {
-      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
+      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -606,21 +669,21 @@
       "is_scoop": false
     },
     {
-      "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
       "link": "https://www.wikitree.co.kr/articles/1132777",
       "pub_date": "2026-04-22T08:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
+      "pub_date": "2026-04-22T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"미군에 '봉쇄 지속·준비태세 유지' 지시\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422052313PxG",
-      "pub_date": "2026-04-22T05:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란 제안 받고 논의 끝날때까지 휴전 연장”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714586&code=61131111&cp=nv",
-      "pub_date": "2026-04-22T05:24:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 통일된 제안 가져올 때까지 휴전 연장\"",
-      "link": "https://www.news1.kr/world/usa-canada/6144448",
-      "pub_date": "2026-04-22T05:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…통일된 제안 낼 때까지 휴전 연...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220116&t=NN",
-      "pub_date": "2026-04-22T05:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787069/1",
-      "pub_date": "2026-04-22T05:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란과 휴전 연장\"",
-      "link": "https://www.newspim.com/news/view/20260422000017",
-      "pub_date": "2026-04-22T05:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "프로배구 여자부 FA 종료…음주운전 논란 안혜진 계약 실패",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527333&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
