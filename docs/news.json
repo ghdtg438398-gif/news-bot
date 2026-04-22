@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 23:35:27",
+  "updated": "2026-04-22 23:40:31",
   "total": 200,
   "items": [
+    {
+      "title": "[기획] 민주당 재보선 공천 '진통'…김용·단식 논란에 명청 갈등 확산",
+      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359106",
+      "pub_date": "2026-04-22T23:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 民, 무안 김산·완도 우홍섭 공천...여수는 김영규·서영학 결선",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220074",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 신한라이프, 5월 '뇌·심장' 납입면제 깐깐해진다",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=550000",
-      "pub_date": "2026-04-22T18:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
