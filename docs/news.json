@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 05:25:28",
-  "total": 169,
+  "updated": "2026-04-23 05:30:49",
+  "total": 161,
   "items": [
+    {
+      "title": "미국의 이란전쟁 진짜 비용은?…\"1조 달러 넘을 수도\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528836&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T05:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "남자골프 '우리금융 챔피언십' 우승후보 및 서원밸리 강자들…임성재·...",
       "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019927",
@@ -1440,87 +1449,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]與 \"당정 차원 부동산 세제 개편 구체적 논의 아직 없어\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602505",
-      "pub_date": "2026-04-22T19:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189763",
-      "pub_date": "2026-04-22T19:30:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
-      "link": "https://www.mk.co.kr/article/12024434",
-      "pub_date": "2026-04-22T19:28:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월 시행\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219263286146",
-      "pub_date": "2026-04-22T19:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.mk.co.kr/article/12024433",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 \"부동산 세제 개편, 당정 구체적 논의 아직 없어\"",
-      "link": "https://www.hankyung.com/article/2026042299417",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]호르무즈 생존 위기…썩은 채소 배달",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525476",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.imaeil.com/page/view/2026042219252306325",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
