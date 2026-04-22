@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 07:30:33",
-  "total": 110,
+  "updated": "2026-04-23 07:35:29",
+  "total": 115,
   "items": [
+    {
+      "title": "\"타사도 부러워하는 '본부장 임명동의제' 사수!\"",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316772",
+      "pub_date": "2026-04-23T07:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김유정 \"이광재 하남갑, 송영길 연수갑, 김용남 평택을 예상\"[한판승부...",
+      "link": "https://www.nocutnews.co.kr/news/6506715?utm_source=naver&utm_medium=article&utm_campaign=20260423073048",
+      "pub_date": "2026-04-23T07:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[백투더주간한국] 1956년 학림다방에서 1999년 스타벅스까지",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7160275",
+      "pub_date": "2026-04-23T07:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "LA 저소득 주택 확대 걸림돌은 ‘반대’ 아닌 ‘자금 부족’",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493760",
+      "pub_date": "2026-04-23T07:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주한미군사령관, 전작권전환 조건 “2029년 1분기까지 달성 목표...",
+      "link": "https://www.etnews.com/20260423000013",
+      "pub_date": "2026-04-23T07:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[인터뷰] “송중기 ‘빈센조’ 참고했죠”…‘컴백’ 클유아, 지구 멸망...",
       "link": "https://www.mk.co.kr/article/12024285",
@@ -84,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
-      "pub_date": "2026-04-23T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]우즈·아이유, 'AAA=첫 동반 스케줄'이었다..\"주먹 인사에 힘 얻어...",
       "link": "https://www.starnewskorea.com/music/2026/04/23/2026042114243368738",
       "pub_date": "2026-04-23T07:00:00+09:00",
@@ -100,6 +136,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "조승래 \"이원택 의혹, 가장 강도 높게 윤리감찰했지만 특별한 문제 확인...",
