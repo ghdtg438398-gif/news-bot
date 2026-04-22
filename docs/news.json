@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 22:30:35",
+  "updated": "2026-04-22 22:35:31",
   "total": 200,
   "items": [
+    {
+      "title": "[AI상보] '5연패' 롯데, 결국 꼴찌 추락... '정수빈 맹활약' 두산은 4연승...",
+      "link": "https://www.newspim.com/news/view/20260422001302",
+      "pub_date": "2026-04-22T22:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]마침내 결혼하는 신지♥문원..축가는 '26년 특급 우정' 백지영 [종...",
       "link": "https://www.starnewskorea.com/music/2026/04/22/2026042221425658165",
@@ -138,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
+      "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
+      "title": "[속보]李대통령 \"한-베트남, '사돈의 나라'…양국 국민 권익 증진 협력...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221313275090",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
+      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"한-베트남, '사돈의 나라'…양국 국민 권익 증진 협력...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221313275090",
+      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "케이팝킹 주간투표 안성훈 1위 독주 속 박서진 참여 열기 최상위·양준...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042017",
-      "pub_date": "2026-04-22T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
