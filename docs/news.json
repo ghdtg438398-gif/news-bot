@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 05:55:29",
-  "total": 145,
+  "updated": "2026-04-23 06:00:40",
+  "total": 141,
   "items": [
     {
       "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
@@ -66,24 +66,6 @@
       "is_scoop": false
     },
     {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145888",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
       "link": "https://www.newsis.com/view/NISX20260423_0003602638",
       "pub_date": "2026-04-23T05:07:00+09:00",
@@ -95,6 +77,24 @@
     {
       "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
       "link": "https://www.news1.kr/world/usa-canada/6145892",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145888",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
-      "link": "http://www.fnnews.com/news/202604230459228089",
+      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6145887",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6145887",
+      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
+      "link": "http://www.fnnews.com/news/202604230459228089",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1269,42 +1269,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"5부제 참여하면 차보험료 깎아주는 보험 출시된다\"",
-      "link": "http://www.inews24.com/view/1962630",
-      "pub_date": "2026-04-22T19:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "허태정 대전시장 후보, 온통대전 2.0으로 민생 회복 청사진 제시",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250662",
-      "pub_date": "2026-04-22T19:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "옆차 들어오자 알아서 원래 차도로…6월 고속도로 달릴 '무인트럭' 미리...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189738",
-      "pub_date": "2026-04-22T19:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 야스쿠니서 ‘독도는 우리 땅’ 현수막…한국 남성 日경찰에 체...",
-      "link": "https://www.dt.co.kr/article/12059017?ref=naver",
-      "pub_date": "2026-04-22T19:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
