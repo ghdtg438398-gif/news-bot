@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 00:13:42",
+  "updated": "2026-04-23 00:15:36",
   "total": 200,
   "items": [
+    {
+      "title": "연극 '베니스의 상인', 역대급 캐스팅 공개…박근형 전 회차 단독 원캐...",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657217",
+      "pub_date": "2026-04-23T00:14:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "“이것도 몰라?”…엄마는 “살려달라” 애원하는 아들에 둔기 휘둘렀다...",
       "link": "https://www.sedaily.com/article/20035767?ref=naver",
@@ -66,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "\"사슴 발견하면 신고하세요\" 광명시 옥길동 일대 수색 중",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564018",
-      "pub_date": "2026-04-22T23:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]뉴욕증시, 트럼프 휴전 연장 발표에 상승 출발…반도체주↑",
       "link": "https://www.newsis.com/view/NISX20260422_0003602604",
       "pub_date": "2026-04-22T23:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"사슴 발견하면 신고하세요\" 광명시 옥길동 일대 수색 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564018",
+      "pub_date": "2026-04-22T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북중미 월드컵 JTBC·KBS서 본다…MBC·SBS와 협상 불발",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=473230",
-      "pub_date": "2026-04-22T18:07:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
