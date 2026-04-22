@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 17:45:31",
+  "updated": "2026-04-22 17:50:51",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 서울고법, 주호영 '공천 배제 효력정지 가처분' 항고 기각",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333968",
+      "pub_date": "2026-04-22T17:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
+      "pub_date": "2026-04-22T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
+      "pub_date": "2026-04-22T17:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]항고도 기각…주호영 ‘대구시장 컷오프’ 효력정지 가처분 신청...",
+      "link": "https://www.munhwa.com/article/11584283?ref=naver",
+      "pub_date": "2026-04-22T17:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]주호영 '대구시장 컷오프' 효력정지 가처분, 항고심도 기각",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220049",
@@ -156,8 +192,8 @@
       "is_scoop": true
     },
     {
-      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
+      "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
+      "link": "https://www.news2day.co.kr/article/20260422500211",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
-      "link": "https://www.news2day.co.kr/article/20260422500211",
+      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
-      "link": "https://www.hankyung.com/article/2026042296477",
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.hankyung.com/article/2026042296427",
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -246,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.hankyung.com/article/2026042296427",
+      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
+      "link": "https://www.hankyung.com/article/2026042296477",
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -327,15 +363,6 @@
       "is_scoop": false
     },
     {
-      "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]신시아, 새 하이틴 로맨스 '담을 넘지 마시오' 주연",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812154",
       "pub_date": "2026-04-22T17:20:00+09:00",
@@ -343,6 +370,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
@@ -948,15 +984,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
-      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
-      "pub_date": "2026-04-22T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
       "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
       "pub_date": "2026-04-22T16:52:00+09:00",
@@ -964,6 +991,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'늑구 탈출' 재발 방지…기후부, 내년까지 동물원 '허가제' 도입",
@@ -1760,42 +1796,6 @@
     {
       "title": "[속보] 코스닥, 2.09포인트(0.18%) 오른 1181.12 마감",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834650",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 29.46포인트(0.46%) 오른 6417.93 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834649",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250602",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578115",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
-      "link": "https://www.ajunews.com/view/20260422150010771",
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
