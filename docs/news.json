@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 18:15:31",
+  "updated": "2026-04-22 18:20:32",
   "total": 200,
   "items": [
+    {
+      "title": "'장동혁 특보' 김대식 \"한동훈, 소중한 인재…단일화 해야\"",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189721",
+      "pub_date": "2026-04-22T18:15:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 '기각'",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225177",
+      "pub_date": "2026-04-22T18:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "북중미 월드컵 JTBC·KBS서 본다…MBC·SBS와 협상 불발",
       "link": "http://www.gndomin.com/news/articleView.html?idxno=473230",
@@ -64,6 +82,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542871&ref=A",
+      "pub_date": "2026-04-22T18:02:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]LG디스플레이, 1.1조원 규모 OLED 투자 추진",
@@ -129,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
+      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
+      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,21 +183,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]주호영 '대구시장 컷오프' 효력정지 가처분, 항고심도 기각",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220049",
-      "pub_date": "2026-04-22T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "케이팝킹 주간투표 안성훈 1위 독주 속 박서진 참여 열기 최상위·양준...",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042017",
       "pub_date": "2026-04-22T17:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]주호영 '대구시장 컷오프' 효력정지 가처분, 항고심도 기각",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220049",
+      "pub_date": "2026-04-22T17:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -201,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
+      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
+      "link": "https://www.wikitree.co.kr/articles/1132963",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
-      "link": "https://www.wikitree.co.kr/articles/1132963",
+      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,21 +264,21 @@
       "is_scoop": false
     },
     {
-      "title": "[퇴근길머니] 협상 무산에도 또 사상 최고…하이닉스 '어닝 서프라이즈...",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422173227Vrw",
-      "pub_date": "2026-04-22T17:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
       "link": "https://www.newsis.com/view/NISX20260422_0003602379",
       "pub_date": "2026-04-22T17:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[퇴근길머니] 협상 무산에도 또 사상 최고…하이닉스 '어닝 서프라이즈...",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422173227Vrw",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -291,24 +318,6 @@
       "is_scoop": false
     },
     {
-      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
-      "link": "https://www.news2day.co.kr/article/20260422500211",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
       "link": "http://www.breaknews.com/1202313",
       "pub_date": "2026-04-22T17:30:00+09:00",
@@ -327,12 +336,21 @@
       "is_scoop": true
     },
     {
-      "title": "국민의힘 전경원, 야간·긴급 돌봄까지 아우른 ‘빈틈없는 수성’ 돌봄...",
-      "link": "http://www.breaknews.com/1202307",
+      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
+      "link": "https://www.news2day.co.kr/article/20260422500211",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -342,6 +360,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘 전경원, 야간·긴급 돌봄까지 아우른 ‘빈틈없는 수성’ 돌봄...",
+      "link": "http://www.breaknews.com/1202307",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -381,15 +408,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]주호영 ‘컷오프 효력정지 가처분’ 항고심도 기각",
-      "link": "https://www.khan.co.kr/article/202604221724001",
-      "pub_date": "2026-04-22T17:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
       "link": "https://www.hankyung.com/article/2026042296477",
       "pub_date": "2026-04-22T17:24:00+09:00",
@@ -404,6 +422,15 @@
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]주호영 ‘컷오프 효력정지 가처분’ 항고심도 기각",
+      "link": "https://www.khan.co.kr/article/202604221724001",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -426,8 +453,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.sedaily.com/article/20035806?ref=naver",
+      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
       "pub_date": "2026-04-22T17:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,8 +462,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
+      "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.sedaily.com/article/20035806?ref=naver",
       "pub_date": "2026-04-22T17:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "회계책임자에 허위 자백 지시 윤석준 전 동구청장 1심서 집행유예",
-      "link": "https://www.nocutnews.co.kr/news/6506475?utm_source=naver&utm_medium=article&utm_campaign=20260422035841",
-      "pub_date": "2026-04-22T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "회계책임자에 허위 자백 지시 윤석준 전 동구청장 1심서 집행유예",
-      "link": "https://www.nocutnews.co.kr/news/6506475?utm_source=naver&utm_medium=article&utm_campaign=20260422034540",
-      "pub_date": "2026-04-22T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘 외통위원 \"CSIS도 정동영 해명 반박...'외교 참사' 장관 해임하라\"",
-      "link": "https://www.mediapen.com/news/view/1095000",
-      "pub_date": "2026-04-22T15:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
