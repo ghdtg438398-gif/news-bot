@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 01:05:29",
+  "updated": "2026-04-23 01:10:29",
   "total": 200,
   "items": [
+    {
+      "title": "러시아, 카자흐→독일 원유 수송 중단…\"기술적 문제\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528774&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T01:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국힘, 오늘 외통위·국방위 단독 소집…‘대북정보 제한 논란’ 공세",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543354&ref=A",
@@ -1788,15 +1797,6 @@
       "title": "[속보] 민주당 제주도의원 연동갑 경선 '강권종.양영식' 결선 진출",
       "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=591233",
       "pub_date": "2026-04-22T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령, 베트남 국빈방문 공식환영식 참석…곧 정상회담",
-      "link": "https://www.news1.kr/politics/president/6145764",
-      "pub_date": "2026-04-22T18:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
