@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 18:55:27",
+  "updated": "2026-04-22 19:00:41",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]이 대통령-또럼 서기장, 정상회담 시작",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602484",
+      "pub_date": "2026-04-22T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 울진군수 경선, 손병복 후보 최종 승리",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422020319676",
+      "pub_date": "2026-04-22T18:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-베트남 정상회담 시작…'원전·에너지·인프라' 협력 논의",
+      "link": "https://www.news1.kr/politics/president/6145676",
+      "pub_date": "2026-04-22T18:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당 제주도의원 경선 2차 발표",
+      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400227",
+      "pub_date": "2026-04-22T18:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[현장] 김석기 외통위원장, 정동영 장관 '북한 핵시설 발언' 파장 지적....",
       "link": "https://www.news2day.co.kr/article/20260422500247",
@@ -21,8 +57,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란, 호르무즈에서 3번째 선박도 공격",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602477",
+      "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
       "pub_date": "2026-04-22T18:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
+      "title": "[속보]이란, 호르무즈에서 3번째 선박도 공격",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602477",
       "pub_date": "2026-04-22T18:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "'12일 단식' 與안호영, 병원 긴급 이송...송언석 왔는데, 정청래 안왔다",
       "link": "http://www.joseilbo.com/news/news_read.php?uid=567038&class=32&grp=",
       "pub_date": "2026-04-22T15:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성바이오로직스, 1분기 영업익 5808억원…전년比 35%↑",
-      "link": "https://www.dailian.co.kr/news/view/1636591/?sc=Naver",
-      "pub_date": "2026-04-22T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[이슈] 화물연대 집회서 조합원 사망자 발생 일파만파…정부 \"노란봉투...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729218",
-      "pub_date": "2026-04-22T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
-      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
-      "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
