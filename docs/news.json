@@ -1,7 +1,124 @@
 {
-  "updated": "2026-04-23 08:35:25",
+  "updated": "2026-04-23 08:40:31",
   "total": 200,
   "items": [
+    {
+      "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
+      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
+      "pub_date": "2026-04-23T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 실질 국내총생산(GDP) 1.7%↑···중동 악재 뚫고 급반등",
+      "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=686508",
+      "pub_date": "2026-04-23T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 韓경제 1.7% ‘깜짝 성장’… 5년여만 최고치",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500017?wlog_tag3=naver",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 비수기 뚫은 SK하이닉스, 1Q '어닝 서프라이즈'···매출 50조 첫...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422206",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "사망사고 낸 배달기사 母에 \"로비해 줄게\"…수천만원 뜯은 업체 사장",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042308032752068",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "4호선 오이도역, 선로 장애로 열차 지연…현재 정상 운행",
+      "link": "https://www.sidae.com/article/2026042308340336858",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동전쟁 여파를 딛고…한국경제 1분기 1.7% 성장 ‘서프라이즈’",
+      "link": "https://www.mk.co.kr/article/12024849",
+      "pub_date": "2026-04-23T08:36:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 성장률 1.7%...5년6개월 만에 최고",
+      "link": "https://www.womennews.co.kr/news/articleView.html?idxno=276649",
+      "pub_date": "2026-04-23T08:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 韓GDP 1.7% '깜짝 성장'…중동발 악재에도 전망치 2배",
+      "link": "https://www.nocutnews.co.kr/news/6506739?utm_source=naver&utm_medium=article&utm_campaign=20260423083449",
+      "pub_date": "2026-04-23T08:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 한국 GDP 1.7% 급반등…5년 6개월 만에 최고",
+      "link": "https://biz.heraldcorp.com/article/10723600?ref=naver",
+      "pub_date": "2026-04-23T08:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 성장률 1.7%…한은 전망치 2배 웃돌아",
+      "link": "https://www.cstimes.com/news/articleView.html?idxno=703006",
+      "pub_date": "2026-04-23T08:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美, 이란과 전쟁 중 해군 장관 교체",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525534",
+      "pub_date": "2026-04-23T08:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[그래픽] 경제성장률 추이",
+      "link": "https://www.yna.co.kr/view/GYH20260423000300044?input=1363m",
+      "pub_date": "2026-04-23T08:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[황산칼럼] '이재명의 언어'...대한민국의 미래가 보인다",
       "link": "https://www.newstree.kr/newsView/ntr202604220013",
@@ -48,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국경제 1분기 성장률 1.7% 깜짝 성장…GDI 38년 만에 최고",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026042308231938217",
+      "title": "한국경제 1분기 1.7% 성장 '깜짝 반등'…5년6개월 만에 최대",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046426",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -57,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국경제 1분기 1.7% 성장 '깜짝 반등'…5년6개월 만에 최대",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046426",
+      "title": "한국경제 1분기 성장률 1.7% 깜짝 성장…GDI 38년 만에 최고",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026042308231938217",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -93,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미 국방부, 존 펠란 해군장관 \"즉시\" 해임 발표",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602755",
-      "pub_date": "2026-04-23T08:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[어제장 오늘장] SK하이닉스 실적 사상 최고…국내증시 반도체주 방향은...",
       "link": "https://biz.sbs.co.kr/article_hub/20000306116?division=NAVER",
       "pub_date": "2026-04-23T08:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미 국방부, 존 펠란 해군장관 \"즉시\" 해임 발표",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602755",
+      "pub_date": "2026-04-23T08:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -813,8 +930,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
-      "link": "https://www.asiatime.co.kr/article/20260423500040",
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -822,8 +939,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
+      "link": "https://www.asiatime.co.kr/article/20260423500040",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1682,123 +1799,6 @@
       "pub_date": "2026-04-23T05:00:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전일 16% 폭등했던 나비타스 반도체 오늘은 20% 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145889",
-      "pub_date": "2026-04-23T04:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'이게 PL 팀이야?' 선수 이발사가 \"단독 보도\" 팀 뉴스 유출했다...'114년...",
-      "link": "http://www.osen.co.kr/article/G1112787085",
-      "pub_date": "2026-04-23T04:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "\"또 운전하면 구속\"… 무면허 반복한 80대, 결국 징역형 집유",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042223300662649",
-      "pub_date": "2026-04-23T04:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "실용 외교로 안착한 한미관계, 팩트시트 성과 후 느슨해졌다 [뉴스분석...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042214430005684?did=NA",
-      "pub_date": "2026-04-23T04:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 비트코인 4% 이상 급등, 7만9000달러 회복",
-      "link": "https://www.news1.kr/world/usa-canada/6145885",
-      "pub_date": "2026-04-23T04:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 선박 나포…브렌트 4% 급등, 100달러 돌파",
-      "link": "https://www.news1.kr/world/usa-canada/6145881",
-      "pub_date": "2026-04-23T04:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "배성재의 ‘아성’이냐, 전현무의 ‘찬탈’이냐…피비린내 나는 ‘1900억...",
-      "link": "https://www.segye.com/newsView/20260423500725?OutUrl=naver",
-      "pub_date": "2026-04-23T02:42:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'1838억 투입' 월드컵 중계사 드디어 확정…'손흥민 마지막 WC', KBS·JTBC ...",
-      "link": "https://www.xportsnews.com/article/2140269",
-      "pub_date": "2026-04-23T02:28:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주한미군사령관, 전작권 전환 조건 “2029년 1분기까지 달성 목표...",
-      "link": "https://www.chosun.com/international/international_general/2026/04/23/QEM2E47Q2FDXZN6HYCKHI4OAWU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T01:58:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주한미군사령관 “전작권 전환, 2029년 1분기까지 조건 달성”",
-      "link": "https://www.joongang.co.kr/article/25422534",
-      "pub_date": "2026-04-23T01:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주한미군사령관, 전작권전환 조건 \"2029년 1분기까지 달성 목표\"",
-      "link": "https://www.yna.co.kr/view/AKR20260423002200071?input=1195m",
-      "pub_date": "2026-04-23T01:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오피셜] \"3개월 새 두 번째 감독 교체\" 토트넘이랑 다를 게 뭐야? 첼시...",
-      "link": "https://www.mhnse.com/news/articleView.html?idxno=532306",
-      "pub_date": "2026-04-23T01:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“놀라는 女 반응촬영” 대학가 바바리맨 20대 징역",
-      "link": "https://www.munhwa.com/article/11584313?ref=naver",
-      "pub_date": "2026-04-23T01:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
