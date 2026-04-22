@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 06:10:29",
-  "total": 140,
+  "updated": "2026-04-23 06:15:32",
+  "total": 137,
   "items": [
+    {
+      "title": "[속보] 뉴욕증시, 상승 마감…S&P500·나스닥 사상 최고치",
+      "link": "https://www.etoday.co.kr/news/view/2578242",
+      "pub_date": "2026-04-23T06:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[N2 포커스] '30조 대어' 목동 재건축 시공사 선정, 조용한 이유 들어보...",
       "link": "https://www.news2day.co.kr/article/20260422500224",
@@ -1223,42 +1232,6 @@
       "pub_date": "2026-04-22T20:16:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 호텔 식당에서도 10명이 29만 원? 이복현 수상한 업추비 '무더기...",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817265_37004.html",
-      "pub_date": "2026-04-22T20:14:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "화물연대 조합원 차로 친 운전자 '살인 혐의' 구속영장",
-      "link": "https://news.jtbc.co.kr/article/NB12295373?influxDiv=NAVER",
-      "pub_date": "2026-04-22T20:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "보건소 유축기도 동났다‥출생아 증가율 역대 1위",
-      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817264_37004.html",
-      "pub_date": "2026-04-22T20:12:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'수사무마 의혹' 인플루언서 남편 구속…경찰 영장은 기각",
-      "link": "https://www.news1.kr/society/court-prosecution/6145800",
-      "pub_date": "2026-04-22T20:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
