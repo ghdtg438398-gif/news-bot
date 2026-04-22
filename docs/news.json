@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 18:20:32",
+  "updated": "2026-04-22 18:25:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 제주도의원 민주당 경선 '정민구.송창권.강봉직' 승리",
+      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=591232",
+      "pub_date": "2026-04-22T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "金총리 \"당정 완벽 공조로 민생 개선...추경 신속 집행\"",
+      "link": "https://www.ajunews.com/view/20260422181524222",
+      "pub_date": "2026-04-22T18:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'장동혁 특보' 김대식 \"한동훈, 소중한 인재…단일화 해야\"",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189721",
@@ -39,8 +57,8 @@
       "is_scoop": false
     },
     {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
+      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
+      "link": "http://www.breaknews.com/1202391",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
-      "link": "http://www.breaknews.com/1202391",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
+      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
-      "link": "https://www.wikitree.co.kr/articles/1132963",
+      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
+      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
+      "link": "https://www.wikitree.co.kr/articles/1132963",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,21 +282,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602379",
-      "pub_date": "2026-04-22T17:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[퇴근길머니] 협상 무산에도 또 사상 최고…하이닉스 '어닝 서프라이즈...",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422173227Vrw",
       "pub_date": "2026-04-22T17:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602379",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -318,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
-      "link": "http://www.breaknews.com/1202313",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
       "pub_date": "2026-04-22T17:30:00+09:00",
@@ -336,8 +345,8 @@
       "is_scoop": true
     },
     {
-      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
+      "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
+      "link": "http://www.breaknews.com/1202313",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -347,6 +356,15 @@
     {
       "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
       "link": "https://www.news2day.co.kr/article/20260422500211",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "일본판 '늑구' 소동?…산책 중 탈출한 늑대개 18시간 만에 포획",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528318&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T15:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 농장서 사슴 5마리 탈출…일대 수색",
-      "link": "https://www.kyeonggi.com/article/20260422580301",
-      "pub_date": "2026-04-22T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
