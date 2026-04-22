@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 16:30:41",
+  "updated": "2026-04-22 16:35:26",
   "total": 200,
   "items": [
+    {
+      "title": "MTNW투자자문, 투자 상담 앱으로 쉽게 '엑스텐' 출시",
+      "link": "https://www.mt.co.kr/stock/2026/04/22/2026042216220855037",
+      "pub_date": "2026-04-22T16:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 키움 파격! 박준현, 박병호 은퇴경기 선발 투수로 내정→아버지...",
       "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042214542699048",
@@ -345,15 +354,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
       "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
       "pub_date": "2026-04-22T15:53:00+09:00",
@@ -363,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
-      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
+      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -378,6 +378,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
+      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -543,6 +552,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578116",
+      "pub_date": "2026-04-22T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
       "link": "https://www.viva100.com/article/20260422501045",
       "pub_date": "2026-04-22T15:40:00+09:00",
@@ -554,15 +572,6 @@
     {
       "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘23명 사망’ 박순관 아리셀 대표 징역 4년·박중언 징역 7년…...",
-      "link": "https://www.kyeongin.com/article/1762315",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
