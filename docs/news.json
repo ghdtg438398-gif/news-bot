@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-22 15:10:40",
+  "updated": "2026-04-22 15:15:36",
   "total": 200,
   "items": [
+    {
+      "title": "코웨이, 롯데백화점 본점에 '코웨이갤러리 팝업' 오픈",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111576",
+      "pub_date": "2026-04-22T15:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이상민 항소심 언론사단전단수 징역 15년 구형 \"비판언론 봉쇄,...",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333955",
+      "pub_date": "2026-04-22T15:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.donga.com/news/Society/article/all/20260422/133790625/2",
+      "pub_date": "2026-04-22T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
+      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
+      "pub_date": "2026-04-22T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
+      "pub_date": "2026-04-22T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기 광명에서 사슴 5마리 탈출... \"안전 유의\"",
+      "link": "https://www.hankookilbo.com/news/article/A2026042215040005690?did=NA",
+      "pub_date": "2026-04-22T15:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 법무부, '중재의향서' 쿠팡 측과 기한 내 협상 불발",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528229&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T15:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]'23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228837",
+      "pub_date": "2026-04-22T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이천 고담동 주택 화재…연기 확산에 주민 창문 폐쇄 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864335",
+      "pub_date": "2026-04-22T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
       "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
@@ -75,7 +156,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이천 고담동서 화재 발생 …\"연기 발생 중\"",
+      "title": "[속보] 이천 고담동서 화재 발생 …\"연기 발생 중\"",
       "link": "https://www.ajunews.com/view/20260422150414794",
       "pub_date": "2026-04-22T15:06:00+09:00",
       "source_id": "yna",
@@ -102,7 +183,7 @@
       "is_scoop": false
     },
     {
-      "title": "생산자물가도 4년만에 최고 급등세...석유 최고가격제 효과와 한계 사이",
+      "title": "생산자물가도 유가발 급등세...석유 최고가격제 효과와 한계 사이",
       "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316993",
       "pub_date": "2026-04-22T15:04:00+09:00",
       "source_id": "yna",
@@ -174,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
-      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
+      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
+      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
+      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,6 +309,15 @@
       "is_scoop": false
     },
     {
+      "title": "“이란 혁명수비대, 호르무즈 해협서 화물선 공격”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/22/SAME2TFEX5HW3L2P52MWE3IEMM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T14:58:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 센서뷰, 1895만주 유상증자 결정 공시…약 400억원 조달 예정",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569528",
       "pub_date": "2026-04-22T14:58:00+09:00",
@@ -246,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "“이란 혁명수비대, 호르무즈 해협서 화물선 공격”",
-      "link": "https://www.chosun.com/international/international_general/2026/04/22/SAME2TFEX5HW3L2P52MWE3IEMM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-22T14:58:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] '23명 사망' 아리셀 대표 2심 징역 4년 선고",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422145636lR7",
       "pub_date": "2026-04-22T14:57:00+09:00",
@@ -264,7 +345,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘23명 사망 아리셀 화재’ 박순관 대표 항소심서 대폭 감형…징...",
+      "title": "[속보] ‘23명 사망’ 아리셀 대표, 2심서 대폭 감형…징역 4년",
       "link": "https://www.segye.com/newsView/20260422511935?OutUrl=naver",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
@@ -1716,87 +1797,6 @@
       "title": "물가 0.8%P 낮춘 석유 최고가격제…KDI \"진짜 위험은 배분 충격\"",
       "link": "https://www.newspim.com/news/view/20260422000705",
       "pub_date": "2026-04-22T13:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AMWS 2026 프리뷰] 아이벡스, 'Physical AI 풀스택'으로 자율제조 폐쇄루...",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80285",
-      "pub_date": "2026-04-22T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"경찰관 치고 지나갔다\" 가짜뉴스 확산…경찰 \"사실 아냐\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046194",
-      "pub_date": "2026-04-22T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "동탄서 현관문 오물 투척 ‘보복대행’ 20대 징역 2년",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542670&ref=A",
-      "pub_date": "2026-04-22T13:27:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI프리뷰] 22일 수원 KT-KIA전, 네일 어깨에 달린 KIA의 3연패 탈출",
-      "link": "https://www.newspim.com/news/view/20260422000659",
-      "pub_date": "2026-04-22T13:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
-      "pub_date": "2026-04-22T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
-      "pub_date": "2026-04-22T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
-      "pub_date": "2026-04-22T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] DS단석 VI 터졌다…정적 괴리율 10% 찍고 장중 변동성 확대",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569500",
-      "pub_date": "2026-04-22T13:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "금융사 소비자보호 KPI ‘반쪽’…윗선만 바뀌고 현장은 더뎌",
-      "link": "https://www.tfmedia.co.kr/news/article.html?no=203948",
-      "pub_date": "2026-04-22T13:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
