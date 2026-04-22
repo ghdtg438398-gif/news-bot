@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 18:40:34",
+  "updated": "2026-04-22 18:45:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
+      "pub_date": "2026-04-22T18:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란, 호르무즈에서 3번째 선박도 공격",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602477",
+      "pub_date": "2026-04-22T18:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] SSG 박성한, 개막 20경기 연속 안타 터졌다! 허용투수 삼성 후라...",
       "link": "https://www.sportschosun.com/baseball/2026-04-22/202604220100151700009805",
@@ -111,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
-      "link": "http://www.breaknews.com/1202391",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
+      "link": "http://www.breaknews.com/1202391",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
+      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
+      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
       "link": "https://www.munhwa.com/article/11584244?ref=naver",
       "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 작년 수출 1천50조원 '사상 최대'…무역수지는 5년 연속 적자(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422072451009?input=1195m",
-      "pub_date": "2026-04-22T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[월드IT쇼 2026] AI로 현실 움직인다...혁신 기술력 총집결",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103375",
-      "pub_date": "2026-04-22T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
