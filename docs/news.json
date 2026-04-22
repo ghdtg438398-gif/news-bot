@@ -1,9 +1,45 @@
 {
-  "updated": "2026-04-22 20:20:29",
+  "updated": "2026-04-22 20:25:29",
   "total": 200,
   "items": [
     {
-      "title": "[속보]'수사무마 의혹' 인플루언서 남편 구속…경찰 영장은 기각",
+      "title": "[뉴스하이킥]김용태 \"부산 북갑 무공천? 그런 정무 감각 있었으면 한동...",
+      "link": "https://n.news.naver.com/mnews/article/214/0001494554?sid=100",
+      "pub_date": "2026-04-22T20:22:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[정치톡톡] \"장동혁, 백악관 갔는데 트럼프가 회의 소집…어떻게 만나냐...",
+      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417190",
+      "pub_date": "2026-04-22T20:22:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "100t 1억4천만원 폴리에틸렌 2억5천만원까지 올라…실물경제는 이미 고...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422027409550",
+      "pub_date": "2026-04-22T20:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'뇌물·수사무마 의혹' 인플루언서 남편 구속…현직 경찰 기각",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042220170430347",
+      "pub_date": "2026-04-22T20:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '수사무마 의혹' 인플루언서 남편 구속…경찰 영장은 기각",
       "link": "https://www.hankyung.com/article/2026042299887",
       "pub_date": "2026-04-22T20:16:00+09:00",
       "source_id": "hankyung",
@@ -174,20 +210,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://news.tf.co.kr/read/ptoday/2316195.htm",
-      "pub_date": "2026-04-22T19:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] \"이란, 호르무즈 해역에서 세 번째 선박 공격\"",
       "link": "https://www.ytn.co.kr/_ln/0104_202604221939370717",
       "pub_date": "2026-04-22T19:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
+      "link": "https://news.tf.co.kr/read/ptoday/2316195.htm",
+      "pub_date": "2026-04-22T19:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -201,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘 경북 기초단체장 후보 14명 확정...영주 본 경선 송명달·황...",
-      "link": "https://www.newspim.com/news/view/20260422001246",
+      "title": "[속보] 강원 전지역 산불재난 국가위기경보 '경계' 상향",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046365",
       "pub_date": "2026-04-22T19:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 강원 전지역 산불재난 국가위기경보 '경계' 상향",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046365",
+      "title": "[속보] 국힘 경북 기초단체장 후보 14명 확정...영주 본 경선 송명달·황...",
+      "link": "https://www.newspim.com/news/view/20260422001246",
       "pub_date": "2026-04-22T19:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://news.jtbc.co.kr/article/NB12295347?influxDiv=NAVER",
-      "pub_date": "2026-04-22T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 法, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04913446645418744",
-      "pub_date": "2026-04-22T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.viva100.com/article/20260422501237",
-      "pub_date": "2026-04-22T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "張 특보단장 \"韓, 보수의 소중한 인재…북갑, 후보 단일화해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422043951001?input=1195m",
-      "pub_date": "2026-04-22T17:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
