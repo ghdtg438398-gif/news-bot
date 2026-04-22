@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 05:50:31",
-  "total": 147,
+  "updated": "2026-04-23 05:55:29",
+  "total": 145,
   "items": [
     {
       "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
@@ -156,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
-      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +165,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
+      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1305,24 +1305,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "김 총리, ‘새울 3호기 시운전 중 연기’에 “철저한 원인 규명”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543075&ref=A",
-      "pub_date": "2026-04-22T19:52:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"낭트전, 최고의 팀 구성하겠다\" 선언.. PSG 감독, 'UCL 선발 0경기' 이강...",
-      "link": "http://www.osen.co.kr/article/G1112786750",
-      "pub_date": "2026-04-22T19:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
