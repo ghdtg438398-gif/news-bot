@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 11:45:25",
+  "updated": "2026-04-22 11:50:27",
   "total": 200,
   "items": [
+    {
+      "title": "경기 화성 동탄서 현관문 오물 투척 '보복 대행' 20대 징역 2년",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527956&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T11:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기교육감 여권 단일 후보에 안민석 선출",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200120.html",
+      "pub_date": "2026-04-22T11:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "박찬대, 인천시장 출마 공식선언… \"인천 운명가를 골든타임\"",
       "link": "http://www.lawissue.co.kr/view.php?ud=202604221138363165b3279dfb36_12",
@@ -75,7 +93,7 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)화재 홍범도함 '복구 불가' 판정…HD현중 손실, '최소 1조'",
+      "title": "(단독)화재 홍범도함 ‘복구 불가’ 판정…HD현중, ‘최소 1조’ 손실",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298695&inflow=N",
       "pub_date": "2026-04-22T11:34:00+09:00",
       "source_id": "yna",
@@ -84,20 +102,20 @@
       "is_scoop": true
     },
     {
-      "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
-      "pub_date": "2026-04-22T11:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'방미단' 김대식 \"공화당 핵심 인사들 다 만났다 … 사진 한 장에 실적 ...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200106.html",
       "pub_date": "2026-04-22T11:34:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -111,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
+      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
+      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
+      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,6 +210,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
+      "pub_date": "2026-04-22T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
       "link": "https://www.joongang.co.kr/article/25422281",
       "pub_date": "2026-04-22T11:26:00+09:00",
@@ -203,15 +230,6 @@
     {
       "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
       "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,15 +264,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]CU BGF로지스, 화물연대와 본격 교섭에 나서",
-      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320821",
-      "pub_date": "2026-04-22T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 김혜성 뼈아픈 송구 실책→이정후 적시타→야마모토 3실점 '와르...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553159274",
       "pub_date": "2026-04-22T11:20:00+09:00",
@@ -264,11 +273,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
-      "link": "https://www.hankyung.com/article/2026042284857",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "title": "[속보]CU BGF로지스, 화물연대와 본격 교섭에 나서",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320821",
+      "pub_date": "2026-04-22T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -287,6 +296,15 @@
       "pub_date": "2026-04-22T11:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
+      "link": "https://www.hankyung.com/article/2026042284857",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1783,24 +1801,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "\"외제차 무서워\" 자동차보험 대물 10억 가입자 절반 돌파",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302257",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 첫 6400선 돌파",
-      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=78651",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
