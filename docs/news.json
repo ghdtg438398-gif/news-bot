@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-22 15:50:33",
+  "updated": "2026-04-22 15:55:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 삼성바이오로직스, 1분기 영업익 5808억원…전년比 35%↑",
+      "link": "https://www.dailian.co.kr/news/view/1636591/?sc=Naver",
+      "pub_date": "2026-04-22T15:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
+      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
+      "link": "https://www.munhwa.com/article/11584244?ref=naver",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
+      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日 작년 수출 1천50조원 '사상 최대'…무역수지는 5년 연속 적자(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260422072451009?input=1195m",
+      "pub_date": "2026-04-22T15:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[월드IT쇼 2026] AI로 현실 움직인다...혁신 기술력 총집결",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103375",
+      "pub_date": "2026-04-22T15:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417선 돌파…하루 만에 최고치 또 경신",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220193",
+      "pub_date": "2026-04-22T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"상간남 위자료 청구 소송, 형사처벌 피하는 안전한 증거 수집이 관건\"",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49212",
+      "pub_date": "2026-04-22T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "양산시, 농수산물종합유통센터 운영 정상화 총력",
+      "link": "http://www.breaknews.com/1202233",
+      "pub_date": "2026-04-22T15:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼성바이오로직스, 1Q 영업익 5808억원…전년比 35%↑",
+      "link": "https://www.mt.co.kr/thebio/2026/04/22/2026042215043267734",
+      "pub_date": "2026-04-22T15:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417.93포인트로 마감···하루 만에 사상 최고치 또 경...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422031",
+      "pub_date": "2026-04-22T15:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[인천TV]｜[단독] 주문~아차도 주문연도교·인천혁신모펀드 중투심 조건...",
       "link": "https://www.incheontoday.com/news/articleView.html?idxno=318062",
@@ -93,15 +201,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578116",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
       "pub_date": "2026-04-22T15:40:00+09:00",
@@ -113,6 +212,15 @@
     {
       "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
       "link": "https://www.viva100.com/article/20260422501045",
+      "pub_date": "2026-04-22T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,20 +264,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.mk.co.kr/article/12024059",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스닥, 2.09포인트(0.18%) 오른 1181.12 마감",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834650",
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
+      "link": "https://www.mk.co.kr/article/12024059",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
-      "link": "https://www.ajunews.com/view/20260422150010771",
+      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578115",
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578115",
+      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
+      "link": "https://www.ajunews.com/view/20260422150010771",
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,20 +327,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6,417 돌파‥하루 만에 또다시 사상 최고치 경신",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6817196_36932.html",
-      "pub_date": "2026-04-22T15:36:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 하루 만에 최고치 또 경신…6,417 돌파",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528291&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6,417 돌파‥하루 만에 또다시 사상 최고치 경신",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6817196_36932.html",
+      "pub_date": "2026-04-22T15:36:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -723,8 +831,8 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대 인천시장 출마선언, \"고향 미래를 위해 쏟아붓겠다\"",
-      "link": "http://www.incheonin.com/news/articleView.html?idxno=117371",
+      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
+      "link": "https://www.asiatime.co.kr/article/20260422500275",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -741,8 +849,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
-      "link": "https://www.asiatime.co.kr/article/20260422500275",
+      "title": "박찬대 인천시장 출마선언, \"고향 미래를 위해 쏟아붓겠다\"",
+      "link": "http://www.incheonin.com/news/articleView.html?idxno=117371",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1692,114 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰청 \"화물연대 차량, 경찰관 밟은 적 없어\"...가짜뉴스·영상 반박",
-      "link": "https://www.newspim.com/news/view/20260422000830",
-      "pub_date": "2026-04-22T14:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 \"한-베트남 원전·인프라 등 전략분야 협력 확대…공급...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601879",
-      "pub_date": "2026-04-22T14:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '12일 단식' 안호영, 건강 악화로 병원 이송… \"방문않는 당 대표...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042214192216883",
-      "pub_date": "2026-04-22T14:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“불안한데 더 쓴다”…미국 소비, 전쟁보다 강했다… 전월대비 1.7%↑",
-      "link": "https://sateconomy.co.kr/news/view/1065590314887223",
-      "pub_date": "2026-04-22T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
-      "link": "https://www.yna.co.kr/view/AKR20260422102700011?input=1195m",
-      "pub_date": "2026-04-22T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
-      "link": "https://www.hankyung.com/article/2026042289667",
-      "pub_date": "2026-04-22T14:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-베트남 관계 미래지향적·전략적 발전시킬 것\"",
-      "link": "https://www.hankyung.com/article/2026042289647",
-      "pub_date": "2026-04-22T14:29:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[전문] 김대식 \"부산 북갑, 한동훈과 단일화까지 그리는 후보 내야\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295309?influxDiv=NAVER",
-      "pub_date": "2026-04-22T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
-      "link": "https://www.news1.kr/politics/president/6145265",
-      "pub_date": "2026-04-22T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 혁명수비대, 호르무즈 통과하는 화물선 공격…“경고 없었다...",
-      "link": "https://www.munhwa.com/article/11584216?ref=naver",
-      "pub_date": "2026-04-22T14:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"한-베트남 관계 미래지향적·전략적 발전시킬 것\"",
-      "link": "https://www.news1.kr/politics/president/6145262",
-      "pub_date": "2026-04-22T14:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국힘 충주시장 후보 이동석·단양군수 후보 김문근·옥천군수 후...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601867",
-      "pub_date": "2026-04-22T14:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
