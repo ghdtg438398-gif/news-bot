@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-22 14:10:32",
+  "updated": "2026-04-22 14:15:32",
   "total": 200,
   "items": [
     {
-      "title": "'충격' 이정후 '황당+무모' 홈 질주→교체 OUT 왜?... 알고보니 3루 코치...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042211402950302",
+      "title": "[포토] 금산군, 아토피자연치유마을 준공 초읽기",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563536",
+      "pub_date": "2026-04-22T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 빛과전자, VI 발동 속 급락 흐름…코스닥·코스피 하락세에 변동...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569516",
+      "pub_date": "2026-04-22T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"장동혁, 방미 중 밴스 부통령 만나려 했지만 불발...긴급회의 영향\"",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513863",
+      "pub_date": "2026-04-22T14:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘단식 12일차’ 안호영, 건강 악화로 병원 긴급 이송",
+      "link": "https://www.segye.com/newsView/20260422510673?OutUrl=naver",
+      "pub_date": "2026-04-22T14:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[월드컵 맞는 유통가 D-50] ①식품업계, 월드컵 안 떠도 손흥민은 믿는...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85885",
       "pub_date": "2026-04-22T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[월드컵 맞는 유통가 D-50] ①식품업계, 월드컵 안 떠도 손흥민은 믿는...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85885",
+      "title": "'충격' 이정후 '황당+무모' 홈 질주→교체 OUT 왜?... 알고보니 3루 코치...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042211402950302",
       "pub_date": "2026-04-22T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,6 +273,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:46:00+09:00",
@@ -246,9 +291,9 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
-      "pub_date": "2026-04-22T13:46:00+09:00",
+      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
+      "pub_date": "2026-04-22T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -264,13 +309,13 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
-      "pub_date": "2026-04-22T13:45:00+09:00",
+      "title": "[단독]제2경인고속도로 터널 '제연설비 점검' 확인 불가… 안전 공백 논...",
+      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247863",
+      "pub_date": "2026-04-22T13:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "화물연대 조합원 사고 운전자 '살인 혐의' 영장",
@@ -345,6 +390,15 @@
       "is_scoop": false
     },
     {
+      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
       "pub_date": "2026-04-22T13:22:00+09:00",
@@ -356,15 +410,6 @@
     {
       "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
       "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
-      "pub_date": "2026-04-22T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1754,51 +1799,6 @@
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
-      "link": "https://www.sedaily.com/article/20035573?ref=naver",
-      "pub_date": "2026-04-22T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]檢 \"공수처 보완수사 거부\"…감사원 간부 뇌물 12억 불기소",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03486646645418744",
-      "pub_date": "2026-04-22T10:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약범죄 합수본, '마약왕' 박왕열 향정 혐의 기소",
-      "link": "https://www.newspim.com/news/view/20260422000394",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 조광한 “새 술은 새 부대에 담아야···이성배가 적임자”",
-      "link": "https://www.kyeonggi.com/article/20260422580050",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약 합수본, 총책 박왕열 구속 기소...필로폰 4.1kg 추가범행",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604221026361047",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
