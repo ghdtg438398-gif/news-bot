@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 08:10:33",
-  "total": 193,
+  "updated": "2026-04-23 08:15:26",
+  "total": 194,
   "items": [
+    {
+      "title": "1분기 한국경제, 중동발 악재에도 큰폭 성장",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006591",
+      "pub_date": "2026-04-23T08:12:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업익 37조 사상 최대",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046424",
+      "pub_date": "2026-04-23T08:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 수출호조에 1분기 GDP 1.7%…5년6개월만에 최고치(종합)",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602736",
+      "pub_date": "2026-04-23T08:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] SK하이닉스, 사상 최대 실적에도 프리마켓서 소폭 상승세 … 삼전...",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300026.html",
@@ -21,21 +48,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하닉 1분기 영업익 37.6조 사상 최대…“전분기 2배”",
-      "link": "https://www.donga.com/news/Economy/article/all/20260423/133795872/1",
-      "pub_date": "2026-04-23T08:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "전쟁에도 1분기 경제성장률 1.7% '깜짝 반등'…전망치 2배 훌쩍",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031625",
       "pub_date": "2026-04-23T08:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하닉 1분기 영업익 37.6조 사상 최대…“전분기 2배”",
+      "link": "https://www.donga.com/news/Economy/article/all/20260423/133795872/1",
+      "pub_date": "2026-04-23T08:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -75,6 +102,24 @@
       "is_scoop": false
     },
     {
+      "title": "1분기 GDP 1.7% 성장…2020년 3분기 후 최고",
+      "link": "http://www.metroseoul.co.kr/article/20260423500007",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 GDP 성장률 1.7%…전망치 상회",
+      "link": "https://www.ajunews.com/view/20260423075958461",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "반도체 호황에 1분기 1.7% '깜짝 성장' … 5년 6개월 만에 최고",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300019.html",
       "pub_date": "2026-04-23T08:02:00+09:00",
@@ -102,20 +147,38 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 1분기 GDP 성장률 1.7%…전망치 상회",
-      "link": "https://www.ajunews.com/view/20260423075958461",
-      "pub_date": "2026-04-23T08:02:00+09:00",
+      "title": "[속보] 반도체 수출 증가에…한국 경제 올해 1분기 성장률 1.7%",
+      "link": "https://www.mk.co.kr/article/12024829",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "韓 1분기 성장률 1.7%…5년 6개월 만에 최고치",
+      "link": "https://www.sedaily.com/article/20035973?ref=naver",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 실질 GDP 전기比 1.7% ‘성장’…전년대비 3.6%↑",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567074&class=18&grp=",
+      "pub_date": "2026-04-23T08:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 1.7% 성장…2020년 3분기 후 최고",
-      "link": "http://www.metroseoul.co.kr/article/20260423500007",
-      "pub_date": "2026-04-23T08:02:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
+      "title": "KS 신드롬! Korea Semiconductor? 엄지척! 월가 “삼전과 SK닉스에 가장 돈...",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230269&t=NN",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -170,42 +233,6 @@
       "pub_date": "2026-04-23T08:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KS 신드롬! Korea Semiconductor? 엄지척! 월가 “삼전과 SK닉스에 가장 돈...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230269&t=NN",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 1분기 실질 GDP 전기比 1.7% ‘성장’…전년대비 3.6%↑",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567074&class=18&grp=",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한국 경제, 5년 만의 최고 성장…1분기 GDP 성장률 1.7%",
-      "link": "https://www.sedaily.com/article/20035973?ref=naver",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 반도체 수출 증가에…한국 경제 올해 1분기 성장률 1.7%",
-      "link": "https://www.mk.co.kr/article/12024829",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -507,8 +534,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
-      "link": "https://www.asiatime.co.kr/article/20260423500040",
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
+      "link": "https://www.asiatime.co.kr/article/20260423500040",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1716,24 +1743,6 @@
       "title": "[AI상보] '5연패' 롯데, 결국 꼴찌 추락... '정수빈 맹활약' 두산은 4연승...",
       "link": "https://www.newspim.com/news/view/20260422001302",
       "pub_date": "2026-04-22T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]마침내 결혼하는 신지♥문원..축가는 '26년 특급 우정' 백지영 [종...",
-      "link": "https://www.starnewskorea.com/music/2026/04/22/2026042221425658165",
-      "pub_date": "2026-04-22T22:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[자투리 뉴스] 금융·산업, 서비스·사회공헌·마케팅 활동 풍성",
-      "link": "https://www.seoultimes.news/news/article.html?no=2000095272",
-      "pub_date": "2026-04-22T22:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
