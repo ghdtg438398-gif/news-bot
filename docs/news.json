@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 05:15:31",
-  "total": 187,
+  "updated": "2026-04-23 05:20:32",
+  "total": 180,
   "items": [
+    {
+      "title": "남자골프 '우리금융 챔피언십' 우승후보 및 서원밸리 강자들…임성재·...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019927",
+      "pub_date": "2026-04-23T05:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]뉴욕증시, 일제히 상승 마감…나스닥 사상 최고 경신",
+      "link": "https://view.asiae.co.kr/article/2026042305130089437",
+      "pub_date": "2026-04-23T05:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 테슬라 1분기 매출액 '기대 이하', 순익은 예상치 상회",
       "link": "https://www.newspim.com/news/view/20260423000035",
@@ -15,6 +33,24 @@
       "title": "[속보] 휴전 연장에 뉴욕 증시 사흘 만에 사상 최고치 경신",
       "link": "https://biz.sbs.co.kr/article_hub/20000306089?division=NAVER",
       "pub_date": "2026-04-23T05:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145888",
+      "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -39,24 +75,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145888",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "김대식 \"부산 북갑 보선, 당 후보·한동훈 단일화로 승부해야\"",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569558",
       "pub_date": "2026-04-23T05:06:00+09:00",
@@ -66,7 +84,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 휴전 연장에 미증시 랠리… 나스닥 1.64%↑",
+      "title": "[속보] 종전 협상 기대감에 미증시 랠리… 나스닥 1.64%↑",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029720140&code=61131111&cp=nv",
       "pub_date": "2026-04-23T05:05:00+09:00",
       "source_id": "kmib",
@@ -75,7 +93,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 뉴욕증시, 휴전 연장에 사흘 만에 상승 마감…나스닥 최고치",
+      "title": "[속보] 뉴욕증시, 휴전 연장에 사흘 만에 사상 최고치 마감",
       "link": "https://www.seoulfn.com/news/articleView.html?idxno=627190",
       "pub_date": "2026-04-23T05:03:00+09:00",
       "source_id": "yna",
@@ -111,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
       "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
       "pub_date": "2026-04-23T05:01:00+09:00",
@@ -129,13 +138,13 @@
       "is_scoop": true
     },
     {
-      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
-      "pub_date": "2026-04-23T05:00:00+09:00",
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
@@ -144,6 +153,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1599,87 +1617,6 @@
       "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
       "link": "https://www.dailian.co.kr/news/view/1636599/?sc=Naver",
       "pub_date": "2026-04-22T19:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격, 유가·국민부담 고려해 결정\"",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5014129",
-      "pub_date": "2026-04-22T19:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
-      "link": "https://www.viva100.com/article/20260422501312",
-      "pub_date": "2026-04-22T19:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://www.news1.kr/politics/assembly/6145784",
-      "pub_date": "2026-04-22T19:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] “봉사 갔는데 사장실로”…강기윤 후보, 공기업 동원 의혹",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542967&ref=A",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "김성 더불어민주당 장흥군수 후보 \"서민들 삶의 고통 너무 심해\"[와이드...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220051",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유가격제, 시장·국제유가·국민부담 고려해 결정...",
-      "link": "https://www.news1.kr/politics/assembly/6145783",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/22/20260422500304?wlog_tag3=naver",
-      "pub_date": "2026-04-22T19:18:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"장특공, 구체적 논의 없어...망국적 부동산 만능주의 오명...",
-      "link": "https://www.newspim.com/news/view/20260422001244",
-      "pub_date": "2026-04-22T19:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260422.99099006534",
-      "pub_date": "2026-04-22T19:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
