@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 11:10:33",
+  "updated": "2026-04-22 11:15:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 완전히 살아난 이정후! 야마모토 상대 적시타 작렬…김혜성은 시...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812076",
+      "pub_date": "2026-04-22T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[TOP이슈] '부실 복무 의혹' 송민호, 유죄 판결 시 재복무 가능…\"끝까지...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041726",
+      "pub_date": "2026-04-22T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "시지바이오, 환자맞춤형 티타늄 임플란트 美 FDA 허가...국내 기업 최초",
+      "link": "https://www.news2day.co.kr/article/20260422500107",
+      "pub_date": "2026-04-22T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
+      "link": "https://www.kyeonggi.com/article/20260422580079",
+      "pub_date": "2026-04-22T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日작년 수출 사상 최대 1천50조원…무역수지는 5년 연속 적자",
+      "link": "https://www.yna.co.kr/view/AKR20260422072400009?input=1195m",
+      "pub_date": "2026-04-22T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '전주 조지훈' 민주당 전북 9곳 단체장 후보 발표.. 임실은 제외",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64133",
+      "pub_date": "2026-04-22T11:10:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이랜드그룹, 태풍 '실라코' 휩쓴 사이판에 3.5억 긴급 수혈… 민관 협력...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729143",
+      "pub_date": "2026-04-22T11:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "민주노총 광주전남본부 \"자본·이재명 정부기 함께 만든 예고된 살인\"",
       "link": "https://www.nocutnews.co.kr/news/6506204?utm_source=naver&utm_medium=article&utm_campaign=20260422110838",
@@ -21,6 +84,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 전북 기초단체장 민주당 경선 결과 13명 발표...전주 조지훈",
+      "link": "https://www.newspim.com/news/view/20260422000516",
+      "pub_date": "2026-04-22T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]민주당 완주군수 후보에 유희태 현 군수 확정",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
       "pub_date": "2026-04-22T11:08:00+09:00",
@@ -30,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당 전북도당 기초단체장 최종 후보 발표(명단)",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225088",
+      "title": "[속보] 화성 정남면 의약품 제조공장서 화재…30대男 화상으로 병원 이...",
+      "link": "https://www.dailian.co.kr/news/view/1636437/?sc=Naver",
       "pub_date": "2026-04-22T11:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 정남면 의약품 제조공장서 화재…30대男 화상으로 병원 이...",
-      "link": "https://www.dailian.co.kr/news/view/1636437/?sc=Naver",
+      "title": "[속보]민주당 전북도당 기초단체장 최종 후보 발표(명단)",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225088",
       "pub_date": "2026-04-22T11:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
-      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
       "pub_date": "2026-04-22T11:04:00+09:00",
@@ -73,6 +136,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
+      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
@@ -273,21 +345,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 필리핀 '마약왕' 박왕열, 향정 혐의 구속기소",
-      "link": "https://www.hankookilbo.com/news/article/A2026042210360003188?did=NA",
-      "pub_date": "2026-04-22T10:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "박해수 무너졌다…이희준이 쥔 판세 '허수아비' 뒤집혔다",
       "link": "https://www.nc.press/news/articleView.html?idxno=613320",
       "pub_date": "2026-04-22T10:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 필리핀 '마약왕' 박왕열, 향정 혐의 구속기소",
+      "link": "https://www.hankookilbo.com/news/article/A2026042210360003188?did=NA",
+      "pub_date": "2026-04-22T10:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -309,15 +381,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 중국산 장악한 국내 전기차 시장…작년 점유율 33.9%로, 3대 중 1대",
-      "link": "https://www.dt.co.kr/article/12058816?ref=naver",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
       "link": "https://www.news1.kr/photos/7869163",
       "pub_date": "2026-04-22T10:41:00+09:00",
@@ -336,11 +399,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 중국산 장악한 국내 전기차 시장…작년 점유율 33.9%로, 3대 중 1대",
+      "link": "https://www.dt.co.kr/article/12058816?ref=naver",
+      "pub_date": "2026-04-22T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "MBC·SBS 월드컵 중계 이탈? JTBC·KBS, 북중미 월드컵 공동중계 [지금이...",
       "link": "https://www.ytn.co.kr/_ln/0134_202604221040187271",
       "pub_date": "2026-04-22T10:40:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'타율 0.486·WAR 1위' 박성한, 침묵한 SSG 중심타선 속 고군분투",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041696",
+      "pub_date": "2026-04-22T10:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -354,17 +435,8 @@
       "is_scoop": false
     },
     {
-      "title": "'타율 0.486·WAR 1위' 박성한, 침묵한 SSG 중심타선 속 고군분투",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041696",
-      "pub_date": "2026-04-22T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 수원지검 마약 합수본, '필리핀 마약왕' 박왕열 구속 기소",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042210330015278",
+      "title": "경북교육청, 위기 가정 ‘긴급 상담’ 전면 강화",
+      "link": "https://www.news2day.co.kr/article/20260422500071",
       "pub_date": "2026-04-22T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +444,8 @@
       "is_scoop": false
     },
     {
-      "title": "경북교육청, 위기 가정 ‘긴급 상담’ 전면 강화",
-      "link": "https://www.news2day.co.kr/article/20260422500071",
+      "title": "[속보] 수원지검 마약 합수본, '필리핀 마약왕' 박왕열 구속 기소",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042210330015278",
       "pub_date": "2026-04-22T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1725,78 +1797,6 @@
       "title": "[속보]화물연대 조합원 차로 들이받은 40대 비조합원 구속영장…살인 혐...",
       "link": "https://www.kwnews.co.kr/page/view/2026042250003900000",
       "pub_date": "2026-04-22T08:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
-      "pub_date": "2026-04-22T08:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
-      "pub_date": "2026-04-22T08:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적용",
-      "link": "https://www.donga.com/news/Society/article/all/20260422/133787457/1",
-      "pub_date": "2026-04-22T08:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 육군 부사관이 10대 여성 성매매 시도…기강 해이 도마",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189593",
-      "pub_date": "2026-04-22T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 李대통령 국정지지율 59.9% [쿠키뉴스]",
-      "link": "https://www.segye.com/newsView/20260422503141?OutUrl=naver",
-      "pub_date": "2026-04-22T08:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104271",
-      "pub_date": "2026-04-22T08:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 조합원 차로 친 40대 비조합원 영장...살인 혐의 적용",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220019",
-      "pub_date": "2026-04-22T08:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 살인 혐의 적용",
-      "link": "https://biz.heraldcorp.com/article/10722658?ref=naver",
-      "pub_date": "2026-04-22T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
