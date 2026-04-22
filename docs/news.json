@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 06:05:32",
-  "total": 142,
+  "updated": "2026-04-23 06:10:29",
+  "total": 140,
   "items": [
     {
       "title": "[N2 포커스] '30조 대어' 목동 재건축 시공사 선정, 조용한 이유 들어보...",
@@ -1261,24 +1261,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "114년 만의 참사.. 첼시, '6년 계약' 감독 경질하면 역대 2위 '480억' 보상...",
-      "link": "http://www.osen.co.kr/article/G1112786777",
-      "pub_date": "2026-04-22T20:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정동영 '구성 발언' 논란에…국힘, 국방위·외통위 23일 단독 소집",
-      "link": "https://www.news1.kr/politics/assembly/6145799",
-      "pub_date": "2026-04-22T20:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
