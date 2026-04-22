@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 13:45:29",
+  "updated": "2026-04-22 13:50:29",
   "total": 200,
   "items": [
+    {
+      "title": "국민의힘 횡성군수 경선 여론조사 재조사 요구",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046200",
+      "pub_date": "2026-04-22T13:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "JTBC·KBS, 북중미 월드컵 공동 중계...MBC·SBS 지상파 2곳 협상 결렬",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513853",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
+      "pub_date": "2026-04-22T13:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량에 경찰이 깔렸다?\"…경찰청 \"가짜 뉴스\" 반박",
+      "link": "https://www.news1.kr/society/incident-accident/6145171",
+      "pub_date": "2026-04-22T13:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "화물연대 조합원 사고 운전자 '살인 혐의' 영장",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422133827V0z",
@@ -75,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
+      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "29CM, '머들 퍼퓸' 향수 선봬…이구어퍼스트로피 향 라인 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513704",
-      "pub_date": "2026-04-22T13:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 황교익 \"나 임명돼 문광연 모르는 분 없어졌다\" 발언 논란",
       "link": "https://www.news1.kr/life-culture/general-cultural/6145085",
       "pub_date": "2026-04-22T13:00:00+09:00",
@@ -208,6 +253,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "29CM, '머들 퍼퓸' 향수 선봬…이구어퍼스트로피 향 라인 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513704",
+      "pub_date": "2026-04-22T13:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'안정환 해설 못 보나요?'…MBC·SBS, 2026 월드컵 중계 안 한다→JTBC, K...",
@@ -1746,60 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 김진태, 장동혁 만나 \"결자해지 필요\"",
-      "link": "https://www.dailian.co.kr/news/view/1636379/?sc=Naver",
-      "pub_date": "2026-04-22T10:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KDI \"석유 최고가격제, 물가 최대 0.8%p 낮춰…소비 둔화 아직 없다\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410921",
-      "pub_date": "2026-04-22T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
-      "pub_date": "2026-04-22T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "에이티즈 민기, 재계약 후 첫 단독 화보",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4613180",
-      "pub_date": "2026-04-22T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "KDI “석유 최고가격제 없었다면 3월 소비자물가 3.0%...최고가격제, 물...",
-      "link": "https://www.chosun.com/economy/economy_general/2026/04/22/UKBJ4HL6QBFGJKUM673CQNKA74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-22T10:02:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
