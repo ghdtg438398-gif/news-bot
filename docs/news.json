@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 23:05:27",
+  "updated": "2026-04-22 23:10:33",
   "total": 200,
   "items": [
+    {
+      "title": "'웰스 8이닝 무실점' LG, 한화 꺾고 3연승…롯데, 단독 최하위 추락(종합...",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366925",
+      "pub_date": "2026-04-22T23:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "‘10년 노동착취’ 신안 염전주 징역 3년…공범들은 집행유예",
       "link": "https://www.segye.com/newsView/20260422516995?OutUrl=naver",
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-22T17:53:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"테슬라 배당 나오는 날입니다\"…iM증권, 서학개미 위한 ‘AI 리서치’ ...",
-      "link": "https://www.asiatoday.co.kr/view.php?key=20260422010007112",
-      "pub_date": "2026-04-22T17:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
