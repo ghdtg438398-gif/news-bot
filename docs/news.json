@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 09:25:35",
+  "updated": "2026-04-22 09:30:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270634",
+      "pub_date": "2026-04-22T09:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 인천 A구의원, \"유흥·식대·차량 편의 의혹\"… 제보자 \"증거 있...",
+      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435739",
+      "pub_date": "2026-04-22T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]화물연대 집회 사망사고 낸 비조합원 기사 구속영장",
+      "link": "https://www.munhwa.com/article/11584056?ref=naver",
+      "pub_date": "2026-04-22T09:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 삼아알미늄 VI 수차례 발동, 주가 25%↑…급등 흐름",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569419",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
-      "link": "https://www.sidae.com/article/2026042209214486979",
+      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
+      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
       "pub_date": "2026-04-22T09:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
-      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
+      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
+      "link": "https://www.sidae.com/article/2026042209214486979",
       "pub_date": "2026-04-22T09:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +102,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 애경케미칼 주가 장초반 상한가 직행…양대지수 하락속",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569418",
+      "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563173",
       "pub_date": "2026-04-22T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563173",
+      "title": "[속보] 애경케미칼 주가 장초반 상한가 직행…양대지수 하락속",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569418",
       "pub_date": "2026-04-22T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 장중 6400 돌파",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/22/20260422500029?wlog_tag3=naver",
-      "pub_date": "2026-04-22T09:13:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]코스피, 사상 첫 6400선 돌파",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525329",
       "pub_date": "2026-04-22T09:13:00+09:00",
@@ -129,12 +147,12 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
-      "pub_date": "2026-04-22T09:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
+      "title": "[속보] 코스피 장중 6400 돌파",
+      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/22/20260422500029?wlog_tag3=naver",
+      "pub_date": "2026-04-22T09:13:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -147,8 +165,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
-      "link": "https://www.sidae.com/article/2026042209105153909",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
+      "pub_date": "2026-04-22T09:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645418744",
       "pub_date": "2026-04-22T09:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645418744",
+      "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
+      "link": "https://www.sidae.com/article/2026042209105153909",
       "pub_date": "2026-04-22T09:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,6 +228,15 @@
       "is_scoop": false
     },
     {
+      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
+      "link": "http://www.breaknews.com/1202110",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
       "link": "https://www.newsis.com/view/NISX20260421_0003600870",
       "pub_date": "2026-04-22T09:10:00+09:00",
@@ -219,15 +255,6 @@
       "is_scoop": false
     },
     {
-      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
-      "link": "http://www.breaknews.com/1202110",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "대한항공 승무원, 구두 대신 ‘운동화’ 신는다…57년 만 ‘파격 결단’",
       "link": "https://www.seoul.co.kr/news/society/2026/04/22/20260422500027?wlog_tag3=naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
@@ -237,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
-      "link": "https://www.news1.kr/finance/market-exr/6144669",
+      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
+      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
-      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
+      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
+      "link": "https://www.news1.kr/finance/market-exr/6144669",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -262,6 +289,15 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "\"외제차 무서워\" 자동차보험 대물 10억 가입자 절반 돌파",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302257",
+      "pub_date": "2026-04-22T09:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 코스피, 사상 첫 6400선 돌파",
@@ -279,15 +315,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"외제차 무서워\" 자동차보험 대물 10억 가입자 절반 돌파",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302257",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -534,20 +561,20 @@
       "is_scoop": false
     },
     {
-      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
-      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
       "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
       "pub_date": "2026-04-22T09:00:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
+      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -669,21 +696,21 @@
       "is_scoop": false
     },
     {
-      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
-      "link": "https://www.wikitree.co.kr/articles/1132777",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
       "pub_date": "2026-04-22T08:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
+      "link": "https://www.wikitree.co.kr/articles/1132777",
+      "pub_date": "2026-04-22T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -737,6 +764,15 @@
       "pub_date": "2026-04-22T08:34:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "살인 혐의로 변경…화물연대 조합원 차로 친 40대 영장",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527503&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T08:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1761,42 +1797,6 @@
       "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
       "link": "https://www.sidae.com/article/2026042205301456205",
       "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “이란, 2차 협상 불참 확정”… 타스님 통신 보도",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029714611&code=61131411&cp=nv",
-      "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란이 통일된 제안 낼 때까지 휴전 연장\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447429",
-      "pub_date": "2026-04-22T05:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 정부 심각한 분열…파키스탄이 공격 보류 요청\"",
-      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=447430",
-      "pub_date": "2026-04-22T05:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프, “파키스탄 요청에 따라 휴전 연장”",
-      "link": "https://www.hani.co.kr/arti/international/america/1255293.html",
-      "pub_date": "2026-04-22T05:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
