@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 17:00:39",
+  "updated": "2026-04-22 17:05:25",
   "total": 200,
   "items": [
+    {
+      "title": "삼성 평택 ‘노조 vs 주주’ 초유의 맞대결’",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892907",
+      "pub_date": "2026-04-22T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한수원, 중소기업에 해외 수주망 직접 연결···수출구조 재편",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49210",
+      "pub_date": "2026-04-22T17:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“장동혁, 부통령 만나러 백악관 갔는데…” 트럼프 때문 불발?",
+      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255381.html",
+      "pub_date": "2026-04-22T17:02:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"사석 파동 후 첫 정상구성\" LG배, 中 포함 세계대회 재가동",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041978",
+      "pub_date": "2026-04-22T17:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "하림, 홈플러스 익스프레스 품나…유통 재진출 '승부수'",
+      "link": "https://www.kpinews.kr/newsView/1065599056140666",
+      "pub_date": "2026-04-22T16:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "북중미 월드컵 중계, JTBC·KBS 체제로 최종 확정",
       "link": "https://www.m-economynews.com/news/article.html?no=66686",
@@ -381,20 +426,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이번엔 사슴 5마리 탈출...경기 광명서 수색작업 중",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046227",
-      "pub_date": "2026-04-22T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 술 취한 여성 방에 들어가 성폭행… 신체부위 촬영도 하려던 20대...",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500241?wlog_tag3=naver",
       "pub_date": "2026-04-22T16:10:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이번엔 사슴 5마리 탈출...경기 광명서 수색작업 중",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046227",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "엘리베이터도 이제 레고처럼 조립한다",
-      "link": "https://www.bigtanews.co.kr/article/view/big202604220011",
-      "pub_date": "2026-04-22T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전·단수' 이상민 2심 징역 15년 구형",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013997",
-      "pub_date": "2026-04-22T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, ‘언론사 단전·단수’ 이상민 항소심서 징역 15년 구...",
-      "link": "https://www.viva100.com/article/20260422500969",
-      "pub_date": "2026-04-22T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 2심서 대폭 감형... 징역 4년",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219782",
-      "pub_date": "2026-04-22T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6817173_36918.html",
-      "pub_date": "2026-04-22T14:51:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
