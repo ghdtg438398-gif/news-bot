@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 05:20:32",
-  "total": 180,
+  "updated": "2026-04-23 05:25:28",
+  "total": 169,
   "items": [
     {
       "title": "남자골프 '우리금융 챔피언십' 우승후보 및 서원밸리 강자들…임성재·...",
@@ -39,21 +39,21 @@
       "is_scoop": false
     },
     {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6145888",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -129,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
-      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +138,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
+      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +201,8 @@
       "is_scoop": true
     },
     {
-      "title": "실용 외교로 안착한 한미관계, 팩트시트 성과 후 느슨해졌다 [뉴스분석...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042214430005684?did=NA",
+      "title": "\"또 운전하면 구속\"… 무면허 반복한 80대, 결국 징역형 집유",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042223300662649",
       "pub_date": "2026-04-23T04:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"또 운전하면 구속\"… 무면허 반복한 80대, 결국 징역형 집유",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042223300662649",
+      "title": "실용 외교로 안착한 한미관계, 팩트시트 성과 후 느슨해졌다 [뉴스분석...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042214430005684?did=NA",
       "pub_date": "2026-04-23T04:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1518,105 +1518,6 @@
       "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
       "link": "https://www.imaeil.com/page/view/2026042219252306325",
       "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월중 시행\"",
-      "link": "https://www.hankyung.com/article/2026042299407",
-      "pub_date": "2026-04-22T19:25:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[공기업, 사람을 잇다 2] 한국부동산원, 차가운 '빈집'에 온기를… 집을...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729243",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]당정 \"차량 5부제 참여시 보험료 할인하는 특약상품 5월 출시\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602499",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유가격제, 시장·국제유가·국민부담 고려해 결정...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218494017508",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
-      "link": "https://www.dt.co.kr/article/12059009?ref=naver",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218482257679",
-      "pub_date": "2026-04-22T19:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월중 시행\"",
-      "link": "https://www.news1.kr/politics/assembly/6145786",
-      "pub_date": "2026-04-22T19:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 \"부동산 세제 개편, 당정 구체적 논의 아직 없어\"",
-      "link": "https://www.news1.kr/politics/assembly/6145787",
-      "pub_date": "2026-04-22T19:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]당정 \"4차 석유최고가격제, 시장·국제 유가·국민 부담 고려해 결...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602498",
-      "pub_date": "2026-04-22T19:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542975&ref=A",
-      "pub_date": "2026-04-22T19:21:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.dailian.co.kr/news/view/1636599/?sc=Naver",
-      "pub_date": "2026-04-22T19:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
