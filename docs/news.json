@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 05:40:32",
-  "total": 150,
+  "updated": "2026-04-23 05:45:30",
+  "total": 149,
   "items": [
     {
       "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
@@ -66,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602638",
+      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
+      "link": "https://www.news1.kr/world/usa-canada/6145892",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
-      "link": "https://www.news1.kr/world/usa-canada/6145892",
+      "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602638",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6145887",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
       "link": "http://www.fnnews.com/news/202604230459228089",
       "pub_date": "2026-04-23T05:01:00+09:00",
@@ -156,8 +147,17 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
-      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
+      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6145887",
+      "pub_date": "2026-04-23T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +165,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
+      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1341,15 +1341,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'가속페달 오조작' 작업자 2명 사망…70대 운전자 금고형 집행유예",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042219331720890",
-      "pub_date": "2026-04-22T19:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
