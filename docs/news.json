@@ -1,9 +1,18 @@
 {
-  "updated": "2026-04-22 11:40:29",
+  "updated": "2026-04-22 11:45:25",
   "total": 200,
   "items": [
     {
-      "title": "[로컬 인사이드] 뉴스투데이 보도 후 ‘호수를 사막으로...’, 산정호수...",
+      "title": "박찬대, 인천시장 출마 공식선언… \"인천 운명가를 골든타임\"",
+      "link": "http://www.lawissue.co.kr/view.php?ud=202604221138363165b3279dfb36_12",
+      "pub_date": "2026-04-22T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[로컬 인사이드] 뉴스투데이 ‘호수를 사막으로...’ 보도 후, 산정호수...",
       "link": "https://www.news2day.co.kr/article/20260422500037",
       "pub_date": "2026-04-22T11:38:00+09:00",
       "source_id": "yna",
@@ -102,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
+      "pub_date": "2026-04-22T11:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 경기도교육감 진보진영 단일후보에 안민석 선출",
       "link": "https://www.kyeonggi.com/article/20260422580061",
       "pub_date": "2026-04-22T11:32:00+09:00",
@@ -113,15 +131,6 @@
     {
       "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
       "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
-      "pub_date": "2026-04-22T11:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
+      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
+      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
+      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
+      "link": "https://www.joongang.co.kr/article/25422281",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
-      "link": "https://www.joongang.co.kr/article/25422281",
+      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,6 +246,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]CU BGF로지스, 화물연대와 본격 교섭에 나서",
+      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320821",
+      "pub_date": "2026-04-22T11:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 김혜성 뼈아픈 송구 실책→이정후 적시타→야마모토 3실점 '와르...",
       "link": "https://www.sportalkorea.com/news/articleView.html?idxno=2025052909553159274",
       "pub_date": "2026-04-22T11:20:00+09:00",
@@ -246,11 +264,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]CU BGF로지스, 화물연대와 본격 교섭에 나서",
-      "link": "https://www.klnews.co.kr/news/articleView.html?idxno=320821",
-      "pub_date": "2026-04-22T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
+      "link": "https://www.hankyung.com/article/2026042284857",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -269,15 +287,6 @@
       "pub_date": "2026-04-22T11:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
-      "link": "https://www.hankyung.com/article/2026042284857",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -360,6 +369,15 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주노총 광주전남본부 \"자본·이재명 정부가 함께 만든 예고된 살인\"",
+      "link": "https://www.nocutnews.co.kr/news/6506204?utm_source=naver&utm_medium=article&utm_campaign=20260422114038",
+      "pub_date": "2026-04-22T11:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -489,7 +507,7 @@
       "is_scoop": false
     },
     {
-      "title": "[N2심층분석] 전북 임실군수 경선, 민주당은 어디로 가나…재개·감찰 확...",
+      "title": "[N2 심층분석] 전북 임실군수 경선, 민주당은 어디로 가나…재개·감찰...",
       "link": "https://www.news2day.co.kr/article/20260421500246",
       "pub_date": "2026-04-22T10:58:00+09:00",
       "source_id": "yna",
@@ -1778,24 +1796,6 @@
     {
       "title": "[속보] 코스피, 사상 첫 6400선 돌파",
       "link": "https://www.pointe.co.kr/news/articleView.html?idxno=78651",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834534",
-      "pub_date": "2026-04-22T09:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
-      "link": "https://www.viva100.com/article/20260422500201",
       "pub_date": "2026-04-22T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
