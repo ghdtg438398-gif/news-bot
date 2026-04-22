@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 09:35:26",
+  "updated": "2026-04-22 09:40:31",
   "total": 200,
   "items": [
+    {
+      "title": "\"협상 원하지만 신뢰는 바닥\"… 트럼프의 '초조함'이 만든 호르무즈의 ...",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469307",
+      "pub_date": "2026-04-22T09:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 최고치 경신…상승·하락 반복하며 혼조세",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046176",
+      "pub_date": "2026-04-22T09:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 6400 돌파, 장중 최고치 경신…등락거듭 ‘혼조’",
+      "link": "https://biz.heraldcorp.com/article/10722748?ref=naver",
+      "pub_date": "2026-04-22T09:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미래에셋벤처투자 주가 상한가 터치…장초반 약세에서 급등으로...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569425",
+      "pub_date": "2026-04-22T09:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 미국에 또 다른 지옥 만들 준비...전쟁 재개 대비 완료\"",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119191",
+      "pub_date": "2026-04-22T09:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] BGF, 화물연대 간 교섭 성사…'CU 화물노동자 사망' 협상 국면으...",
+      "link": "https://www.pressian.com/pages/articles/2026042209314219422?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
@@ -219,6 +273,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"중동 전쟁이 드러낸 에너지 위기... 저에너지사회로 전환해야\"",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227152&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-22T09:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
       "link": "https://www.sidae.com/article/2026042209105153909",
       "pub_date": "2026-04-22T09:11:00+09:00",
@@ -231,42 +294,6 @@
       "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645418744",
       "pub_date": "2026-04-22T09:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"중동 전쟁이 드러낸 에너지 위기... 저에너지사회로 전환해야\"",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227152&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-22T09:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 6,400 넘으며 또 최고치 경신‥환율 11원 올라",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6817093_36932.html",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
-      "link": "https://www.sidae.com/article/2026042209085614994",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6401.97로 장중 사상 최고치 다시 경신",
-      "link": "https://www.etoday.co.kr/news/view/2577919",
-      "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -297,6 +324,33 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 6,400 넘으며 또 최고치 경신‥환율 11원 올라",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6817093_36932.html",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
+      "link": "https://www.sidae.com/article/2026042209085614994",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6401.97로 장중 사상 최고치 다시 경신",
+      "link": "https://www.etoday.co.kr/news/view/2577919",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -669,8 +723,8 @@
       "is_scoop": false
     },
     {
-      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
+      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -678,8 +732,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
+      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,60 +1797,6 @@
       "title": "[속보] 트럼프 “휴전 연장”…이란 분열에 협상 또 멈췄다",
       "link": "https://www.segye.com/newsView/20260422501714?OutUrl=naver",
       "pub_date": "2026-04-22T05:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란과 휴전 재연장...파키스탄 요청 수용”",
-      "link": "https://www.kyeonggi.com/article/20260422580001",
-      "pub_date": "2026-04-22T05:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미·이란 2차 협상 차질에 美증시 하락 마감",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220142&t=NN",
-      "pub_date": "2026-04-22T05:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란 정부 심각한 분열…파키스탄이 공격 보류 요청”",
-      "link": "https://biz.heraldcorp.com/article/10722572?ref=naver",
-      "pub_date": "2026-04-22T05:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이란 “협상 불참” 통보에…트럼프 “그들은 분열, 휴전 연장”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787072/1",
-      "pub_date": "2026-04-22T05:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “미군에 ‘봉쇄 지속·준비태세 유지’ 지시”",
-      "link": "https://biz.heraldcorp.com/article/10722571?ref=naver",
-      "pub_date": "2026-04-22T05:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
-      "pub_date": "2026-04-22T05:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
