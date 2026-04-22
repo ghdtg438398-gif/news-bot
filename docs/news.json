@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 16:20:29",
+  "updated": "2026-04-22 16:25:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 홍준표 \"대안 없이 장동혁 물러나게 하고 또 보수 망치려 하나\"",
+      "link": "https://www.kyeonggi.com/article/20260422580175",
+      "pub_date": "2026-04-22T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '도축장 벌금 봐주기' 의혹… 일반 업체의 10분의1 수준 과태료 ...",
+      "link": "https://www.imaeil.com/page/view/2026042207374190964",
+      "pub_date": "2026-04-22T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "대전 '늑구 탈출' 재발 방지…내년까지 동물원 90% 이상 '허가제' 도입",
+      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963207&call_from=naver_news",
+      "pub_date": "2026-04-22T16:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안호영 단식 12일째 끝내 이송…여야 방문 속 ‘與 당대표 부재’ 비판",
+      "link": "https://www.kukinews.com/article/view/kuk202604220142",
+      "pub_date": "2026-04-22T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 운동장 놀이 엄금? 민주연구원 \"놀이 허용하고 기관이 민원 대응...",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227309&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-22T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "포천시, '제2회 추경 시의회 본회의 통과'…고유가 지원 반영",
+      "link": "https://www.nocutnews.co.kr/news/6506505?utm_source=naver&utm_medium=article&utm_campaign=20260422042043",
+      "pub_date": "2026-04-22T16:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "BGF리테일 화물연대와 '대치'에서 '협상'으로, 민승배 CU 물류체계 관리...",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436278",
+      "pub_date": "2026-04-22T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 與, 투기 걸러내 장특공 제외 고려",
       "link": "http://www.fnnews.com/news/202604221528278217",
@@ -246,6 +309,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
+      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
       "link": "https://www.newsis.com/view/NISX20260422_0003602097",
       "pub_date": "2026-04-22T15:53:00+09:00",
@@ -255,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
-      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
+      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
+      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -270,15 +342,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
-      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -444,15 +507,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
       "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
@@ -464,6 +518,15 @@
     {
       "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
       "link": "https://www.viva100.com/article/20260422501045",
+      "pub_date": "2026-04-22T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
       "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형...징역 4년",
-      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250571",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013989",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 ‘대폭 감형’…징...",
-      "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500188?wlog_tag3=naver",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 징역 4년...대폭 감형",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513896",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘23명 사망' 아리셀 박순관 대표, 항소심서 징역 4년",
-      "link": "https://www.chosun.com/national/national_general/2026/04/22/LJASNG2DGJC77DHPXNMFMI6N7Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-22T14:43:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 육군, 현대차에 아틀라스 요청...문제는 '비무기화 서약' [배창학...",
-      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220414&t=NNv",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "세븐틴 승관, 배우로 활동 영역 넓힌다…드라마 '수목금'으로 첫 연기 도...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041828",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
