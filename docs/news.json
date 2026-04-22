@@ -1,31 +1,49 @@
 {
-  "updated": "2026-04-23 08:30:38",
+  "updated": "2026-04-23 08:35:25",
   "total": 200,
   "items": [
     {
-      "title": "[아침저널] 김소희 \"이용, 정진석? 윤어게인 프레임 걸리면 그냥 져\", 박...",
-      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4079998",
-      "pub_date": "2026-04-23T08:28:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% '깜짝 성장'…수출·투자·소비 동반 반등",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2110836",
-      "pub_date": "2026-04-23T08:28:00+09:00",
+      "title": "[황산칼럼] '이재명의 언어'...대한민국의 미래가 보인다",
+      "link": "https://www.newstree.kr/newsView/ntr202604220013",
+      "pub_date": "2026-04-23T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 1.7% 성장⋯중동 악재에도 5년 6개월 만에 최고",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189842",
+      "title": "“커피 한 잔 값으로도 충분”…21살 해피빈이 만든 ‘일상의 나눔’ [...",
+      "link": "https://www.donga.com/news/Society/article/all/20260420/133759961/2",
+      "pub_date": "2026-04-23T08:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 영업익 37.6조·매출 52.6조 '어닝 서프라이즈...",
+      "link": "https://www.pressian.com/pages/articles/2026042308294982151?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T08:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'반도체의 힘' 한국 경제 1분기 1.7% 급반등… 22분기 만에 최고 성적",
+      "link": "https://www.pointe.co.kr/news/articleView.html?idxno=78696",
+      "pub_date": "2026-04-23T08:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[아침저널] 김소희 \"이용, 정진석? 윤어게인 프레임 걸리면 그냥 져\", 박...",
+      "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4079998",
       "pub_date": "2026-04-23T08:28:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -48,9 +66,27 @@
       "is_scoop": false
     },
     {
-      "title": "[어제장 오늘장] SK하이닉스 실적 사상 최고…국내증시 반도체주 방향은...",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306116?division=NAVER",
-      "pub_date": "2026-04-23T08:27:00+09:00",
+      "title": "1분기 GDP 1.7% 성장⋯중동 악재에도 5년 6개월 만에 최고",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189842",
+      "pub_date": "2026-04-23T08:28:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% '깜짝 성장'…수출·투자·소비 동반 반등",
+      "link": "http://www.4th.kr/news/articleView.html?idxno=2110836",
+      "pub_date": "2026-04-23T08:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "윤상현 의원 \"정부, 급락장엔 호들갑 급등장엔 침묵…체감 경기 관리 의...",
+      "link": "https://www.newspim.com/news/view/20260423000129",
+      "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -63,6 +99,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[어제장 오늘장] SK하이닉스 실적 사상 최고…국내증시 반도체주 방향은...",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306116?division=NAVER",
+      "pub_date": "2026-04-23T08:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -174,21 +219,21 @@
       "is_scoop": false
     },
     {
-      "title": "\"중동 리스크에도 끄떡없다…1분기 성장률 1.7% 급반등\"",
-      "link": "https://www.kizmom.com/news/articleView.html?idxno=109560",
-      "pub_date": "2026-04-23T08:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 1분기 韓 경제 1.7% ‘깜짝 성장’…5년 6개월만에 최고치",
       "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029720760&code=61141111&cp=nv",
       "pub_date": "2026-04-23T08:17:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중동 리스크에도 끄떡없다…1분기 성장률 1.7% 급반등\"",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=109560",
+      "pub_date": "2026-04-23T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -768,8 +813,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
+      "link": "https://www.asiatime.co.kr/article/20260423500040",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -777,8 +822,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
-      "link": "https://www.asiatime.co.kr/article/20260423500040",
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
       "title": "“놀라는 女 반응촬영” 대학가 바바리맨 20대 징역",
       "link": "https://www.munhwa.com/article/11584313?ref=naver",
       "pub_date": "2026-04-23T01:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "러시아, 카자흐→독일 원유 수송 중단…\"기술적 문제\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528774&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T01:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 오늘 외통위·국방위 단독 소집…‘대북정보 제한 논란’ 공세",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543354&ref=A",
-      "pub_date": "2026-04-23T01:00:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 다우 나스닥 등 뉴욕증시 '반등 vs 재급락' 줄다리기 시작…올랐...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569616",
-      "pub_date": "2026-04-23T00:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]“유가 20% 오른채 1년 지속땐 韓성장률 0.2%P 하락”",
-      "link": "https://www.donga.com/news/Economy/article/all/20260422/133794932/2",
-      "pub_date": "2026-04-23T00:31:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[정효식의 시시각각] 선거가 실종됐다",
-      "link": "https://www.joongang.co.kr/article/25422525",
-      "pub_date": "2026-04-23T00:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
