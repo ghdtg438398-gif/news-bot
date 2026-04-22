@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 16:00:41",
+  "updated": "2026-04-22 16:05:28",
   "total": 200,
   "items": [
+    {
+      "title": "지주택 토지확보 95%→80% 완화…사업 속도는 높이고 피해는 줄일까",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137198",
+      "pub_date": "2026-04-22T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"파병은 국익 위배\"…정혜경 \"미국·이란 전쟁 파병 반대\"",
+      "link": "https://www.nocutnews.co.kr/news/6506494?utm_source=naver&utm_medium=article&utm_campaign=20260422040241",
+      "pub_date": "2026-04-22T16:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "코오롱인더스트리, '차이나플라스 2026' 참가…친환경·고기능 소재 솔...",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80302",
+      "pub_date": "2026-04-22T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "일본판 '늑구 탈출' 소동?…달아난 늑대개 18시간 만에 포획",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528362&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대동기어, 576만7800주 유상증자 442만6596주 무상증자 결정 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569535",
+      "pub_date": "2026-04-22T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[경인방송 경제뉴스] HD현대중공업, 스웨덴 쇄빙전용선 국내 첫 수주",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469485",
+      "pub_date": "2026-04-22T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "AI 전면에…통신3사, '월드IT쇼' 주도권 경쟁",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298721&inflow=N",
@@ -273,15 +327,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578116",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
       "pub_date": "2026-04-22T15:40:00+09:00",
@@ -293,6 +338,15 @@
     {
       "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
       "link": "https://www.viva100.com/article/20260422501045",
+      "pub_date": "2026-04-22T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,6 +390,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578115",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
+      "link": "https://www.ajunews.com/view/20260422150010771",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 6400선 돌파…사상 최고치 경신",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042215370366549",
       "pub_date": "2026-04-22T15:38:00+09:00",
@@ -359,24 +431,6 @@
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.09p(0.18%) 오른 1181.12(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578115",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 29.46p(0.46%) 오른 6417.93 마감",
-      "link": "https://www.ajunews.com/view/20260422150010771",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -444,8 +498,8 @@
       "is_scoop": false
     },
     {
-      "title": "하남 보바스병원-월드비전,'위기 아동 지원' 맞손…'지역사회 안전망' ...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513930",
+      "title": "\"석유 최고가격제 소비자물가 약 0.8%p 낮췄다\"",
+      "link": "https://www.asiatime.co.kr/article/20260422500294",
       "pub_date": "2026-04-22T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -453,8 +507,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"석유 최고가격제 소비자물가 약 0.8%p 낮췄다\"",
-      "link": "https://www.asiatime.co.kr/article/20260422500294",
+      "title": "하남 보바스병원-월드비전,'위기 아동 지원' 맞손…'지역사회 안전망' ...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513930",
       "pub_date": "2026-04-22T15:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1743,60 +1797,6 @@
       "title": "[속보] ‘23명 사망’ 아리셀 대표, 항소심서 대폭 감형…징역 15년→4년",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542736&ref=A",
       "pub_date": "2026-04-22T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…주민 안전 주의 당부",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864330",
-      "pub_date": "2026-04-22T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 “한-베, 원전·인프라 등 전략분야와 공급망 협력 고...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525398",
-      "pub_date": "2026-04-22T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
-      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[뉴스퀘어 2PM] 트럼프, 무기한 휴전 연장...백악관 '엉망진창' 우려",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604221436493163",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'23명 사망 아리셀 화재' 박순관 대표, 2심 징역 4년",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601731",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李대통령 \"베트남과 원전·인프라·과학기술 혁신 등 전략협력 확...",
-      "link": "http://www.fnnews.com/news/202604221435114961",
-      "pub_date": "2026-04-22T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
