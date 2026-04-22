@@ -1,7 +1,133 @@
 {
-  "updated": "2026-04-22 17:05:25",
+  "updated": "2026-04-22 17:10:45",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "link": "https://www.mk.co.kr/article/12024198",
+      "pub_date": "2026-04-22T17:09:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042217074422993",
+      "pub_date": "2026-04-22T17:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "https://www.hankyung.com/article/2026042295537",
+      "pub_date": "2026-04-22T17:09:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189707",
+      "pub_date": "2026-04-22T17:09:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.joongang.co.kr/article/25422402",
+      "pub_date": "2026-04-22T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "link": "https://www.donga.com/news/Politics/article/all/20260422/133792081/1",
+      "pub_date": "2026-04-22T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]전남광주통합시장 국힘 후보로 이정현",
+      "link": "https://view.asiae.co.kr/article/2026042217080916753",
+      "pub_date": "2026-04-22T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.hankyung.com/article/2026042295477",
+      "pub_date": "2026-04-22T17:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전북지사 후보 양정모…평택시장 차화열 단수 추천",
+      "link": "https://www.news1.kr/politics/assembly/6145623",
+      "pub_date": "2026-04-22T17:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260422.99099006469",
+      "pub_date": "2026-04-22T17:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'데뷔 10주년' 손주연, 첫 단독 팬미팅 개최",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4615125",
+      "pub_date": "2026-04-22T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.yna.co.kr/view/AKR20260422141100004?input=1195m",
+      "pub_date": "2026-04-22T17:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘허위자백 지시’ 윤석준 前 대구 동구청장, 징역형 집행유예",
+      "link": "https://www.segye.com/newsView/20260422516141?OutUrl=naver",
+      "pub_date": "2026-04-22T17:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "https://www.yna.co.kr/view/AKR20260422140800001?input=1195m",
+      "pub_date": "2026-04-22T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "삼성 평택 ‘노조 vs 주주’ 초유의 맞대결’",
       "link": "https://www.kgnews.co.kr/news/article.html?no=892907",
@@ -9,6 +135,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전남·광주통합특별시장 후보에 이정현 단수 추천",
+      "link": "https://www.news1.kr/politics/assembly/6145617",
+      "pub_date": "2026-04-22T17:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -237,7 +372,7 @@
       "is_scoop": false
     },
     {
-      "title": "'노동착취' 염전, '재산 갈취' 병원… 장애인 울린 파렴치범들 철퇴",
+      "title": "염전선 노동착취, 병원선 재산 갈취… 장애인 울린 파렴치범들 철퇴",
       "link": "https://m.skyedaily.com/news_view.html?ID=302929",
       "pub_date": "2026-04-22T16:38:00+09:00",
       "source_id": "yna",
@@ -291,21 +426,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 키움 파격! 박준현, 박병호 은퇴경기 선발 투수로 내정→아버지...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042214542699048",
-      "pub_date": "2026-04-22T16:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "태국산 계란 “안전하다지만…과연 믿을 수 있나”",
       "link": "https://www.wemakenews.co.kr/news/view.php?no=25125",
       "pub_date": "2026-04-22T16:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 키움 파격! 박준현, 박병호 은퇴경기 선발 투수로 내정→아버지...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042214542699048",
+      "pub_date": "2026-04-22T16:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1665,141 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전·단수' 이상민 2심 징역 15년 구형",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604221455282015",
-      "pub_date": "2026-04-22T14:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘언론사 단전·단수’ 이상민에…내란특검, 항소심서 징역 15년...",
-      "link": "https://www.dt.co.kr/article/12058894?ref=naver",
-      "pub_date": "2026-04-22T14:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]특검, '내란중요임무' 이상민 2심도 징역 15년 구형",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04290246645418744",
-      "pub_date": "2026-04-22T14:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "쿠팡풀필먼트서비스, 부천서 대규모 채용박람회 개최…550여 명 지원",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85938",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…“안전 유의”",
-      "link": "https://www.joongang.co.kr/article/25422333",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '내란 중요임무 종사' 이상민 전 행정안전부 장관 2심도 징...",
-      "link": "https://dgmbc.com/NewsArticle/836596",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 장중 6420선까지 돌파하며 사상 최고치 경신",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601936",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 항소심서 대폭 감형돼 징역 4년",
-      "link": "http://weekly.chosun.com/news/articleView.html?idxno=50905",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6412.70 터치…사상 최고치 경신",
-      "link": "https://news.tf.co.kr/read/economy/2316012.htm",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전단수' 이상민 2심 징역 15년 구형",
-      "link": "https://news.tf.co.kr/read/life/2316016.htm",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290201.html",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://news.jtbc.co.kr/article/NB12295318?influxDiv=NAVER",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422145224F7a",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, ‘언론사 단전단수 지시’ 이상민 2심 징역 15년 구형",
-      "link": "https://www.chosun.com/national/court_law/2026/04/22/KXTAL4D3D5FJRKAUDTNAZPJA4U/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-22T14:53:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "허태정 대전시장 예비후보 1호 공약 '온통대전 2.0' 발표",
-      "link": "https://www.jbnews.com/news/articleView.html?idxno=1502791",
-      "pub_date": "2026-04-22T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
