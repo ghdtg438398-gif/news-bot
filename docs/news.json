@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 13:40:26",
+  "updated": "2026-04-22 13:45:29",
   "total": 200,
   "items": [
+    {
+      "title": "화물연대 조합원 사고 운전자 '살인 혐의' 영장",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422133827V0z",
+      "pub_date": "2026-04-22T13:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'화물연대 차량이 경찰 밟고 지나가' 가짜뉴스…경찰청 \"사실 아냐\"",
       "link": "http://www.fnnews.com/news/202604221326138078",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
