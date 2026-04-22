@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 23:40:31",
+  "updated": "2026-04-22 23:45:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"36~72시간 내 이란과 2차 종전회담 가능\"",
+      "link": "http://www.fnnews.com/news/202604222340138578",
+      "pub_date": "2026-04-22T23:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[기획] 민주당 재보선 공천 '진통'…김용·단식 논란에 명청 갈등 확산",
       "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359106",
@@ -1787,15 +1796,6 @@
     {
       "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
       "link": "http://www.breaknews.com/1202368",
-      "pub_date": "2026-04-22T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
