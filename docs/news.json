@@ -1,7 +1,223 @@
 {
-  "updated": "2026-04-22 14:40:36",
+  "updated": "2026-04-22 14:45:46",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형...징역 4년",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250571",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189673",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘23명 사망 화재’ 아리셀 박순관 대표 중처법 2심서 감형…징...",
+      "link": "https://www.dt.co.kr/article/12058886?ref=naver",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 천장 뚫은 코스피, 장중 상승 전환 후 6415.77 터치",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013984",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 감형돼 징역 4년",
+      "link": "https://www.etoday.co.kr/news/view/2578078",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘23명 사망’ 박순관 아리셀 대표 항소심 징역 4년·박중언 징역...",
+      "link": "https://www.kyeongin.com/article/1762315",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5013989",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 징역 4년...대폭 감형",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513896",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 ‘대폭 감형’…징...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500188?wlog_tag3=naver",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경북 저출생 대응 '120대 과제'... 41% 추진",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150737",
+      "pub_date": "2026-04-22T14:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘23명 사망' 아리셀 박순관 대표, 항소심서 징역 4년",
+      "link": "https://www.chosun.com/national/national_general/2026/04/22/LJASNG2DGJC77DHPXNMFMI6N7Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T14:43:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 2심에서 대폭 감형‥징역 4년",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6817169_36918.html",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기 광명 옥길동 사슴 5마리 탈출…안전재난문자 발송",
+      "link": "https://www.etoday.co.kr/news/view/2578075",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '아리셀 참사' 박순관 대표 항소심서 징역 4년… 1심 15년에서 대...",
+      "link": "https://www.hidomin.com/news/articleView.html?idxno=702433",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.dailian.co.kr/news/view/1636540/?sc=Naver",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "광명 옥길동 사슴 5마리 탈출... 광명시 \"발견 시 즉시 신고\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563582",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "세븐틴 승관, 배우로 활동 영역 넓힌다…드라마 '수목금'으로 첫 연기 도...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041828",
+      "pub_date": "2026-04-22T14:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.imaeil.com/page/view/2026042214403559536",
+      "pub_date": "2026-04-22T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4...",
+      "link": "https://www.mk.co.kr/article/12024000",
+      "pub_date": "2026-04-22T14:41:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031511",
+      "pub_date": "2026-04-22T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 징역 4년으로 감형",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260422144045MqE",
+      "pub_date": "2026-04-22T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘23명 사망 아리셀 화재 참사’ 박순관 대표 항소심 선고···징...",
+      "link": "https://www.khan.co.kr/article/202604221441001",
+      "pub_date": "2026-04-22T14:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "GS25, 소주에 말차 접목한 ‘선양 말차’ 단독 출시",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85931",
+      "pub_date": "2026-04-22T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[기업家] 홈플러스 익스프레스 ㅣ NS홈쇼핑, 우선협상대상자 선정…온·...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569522",
+      "pub_date": "2026-04-22T14:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…주민 안전 주의 당부",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864330",
@@ -18,6 +234,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스퀘어 2PM] 트럼프, 무기한 휴전 연장...백악관 '엉망진창' 우려",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604221436493163",
+      "pub_date": "2026-04-22T14:36:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
+      "pub_date": "2026-04-22T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -66,15 +300,6 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
-      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[6·3 지방선거] 박찬대, 'ABC+E' 비전 내걸고 인천시장 출마 선언…\"무...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729200",
       "pub_date": "2026-04-22T14:35:00+09:00",
@@ -96,15 +321,6 @@
       "title": "[속보]1.1조 쓸어 담은 개인…코스피, 장중 6415.77 신기록",
       "link": "https://www.sidae.com/article/2026042214300275466",
       "pub_date": "2026-04-22T14:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이 대통령 \"한-베트남 원전·인프라 등 전략분야 협력 확대…공급...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601879",
-      "pub_date": "2026-04-22T14:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -138,6 +354,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]이 대통령 \"한-베트남 원전·인프라 등 전략분야 협력 확대…공급...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601879",
+      "pub_date": "2026-04-22T14:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '12일 단식' 안호영, 건강 악화로 병원 이송… \"방문않는 당 대표...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042214192216883",
       "pub_date": "2026-04-22T14:31:00+09:00",
@@ -156,21 +381,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
-      "link": "https://www.hankyung.com/article/2026042289667",
-      "pub_date": "2026-04-22T14:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[연합뉴스 이 시각 헤드라인] - 14:30",
       "link": "https://www.yna.co.kr/view/AKR20260422102700011?input=1195m",
       "pub_date": "2026-04-22T14:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
+      "link": "https://www.hankyung.com/article/2026042289667",
+      "pub_date": "2026-04-22T14:30:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -183,21 +408,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
-      "link": "https://www.news1.kr/politics/president/6145265",
-      "pub_date": "2026-04-22T14:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[전문] 김대식 \"부산 북갑, 한동훈과 단일화까지 그리는 후보 내야\"",
       "link": "https://news.jtbc.co.kr/article/NB12295309?influxDiv=NAVER",
       "pub_date": "2026-04-22T14:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
+      "link": "https://www.news1.kr/politics/president/6145265",
+      "pub_date": "2026-04-22T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -435,8 +660,8 @@
       "is_scoop": false
     },
     {
-      "title": "[월드컵 맞는 유통가 D-50] ①식품업계, 월드컵 안 떠도 손흥민은 믿는...",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85885",
+      "title": "'충격' 이정후 '황당+무모' 홈 질주→교체 OUT 왜?... 알고보니 3루 코치...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042211402950302",
       "pub_date": "2026-04-22T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -444,8 +669,8 @@
       "is_scoop": false
     },
     {
-      "title": "'충격' 이정후 '황당+무모' 홈 질주→교체 OUT 왜?... 알고보니 3루 코치...",
-      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042211402950302",
+      "title": "[월드컵 맞는 유통가 D-50] ①식품업계, 월드컵 안 떠도 손흥민은 믿는...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85885",
       "pub_date": "2026-04-22T14:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -561,15 +786,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)\"이광재 하남-송영길 연수-하정우 북갑\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298719&inflow=N",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "금감원, 금융권 소비자보호 거버넌스 안착",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302359",
       "pub_date": "2026-04-22T13:56:00+09:00",
@@ -577,6 +793,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)\"이광재 하남-송영길 연수-하정우 북갑\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298719&inflow=N",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
@@ -669,20 +894,20 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
-      "pub_date": "2026-04-22T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:46:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1575,231 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '아뿔싸' 김혜성 송구 실책으로 시작된 빅이닝, 이정후 첫 타석...",
-      "link": "https://www.mydaily.co.kr/page/view/2026042211124581427",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 더불어민주당 전북도당, 자치 단체장 경선 '최종 후보자 확정' 발...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562425",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
-      "link": "https://www.hankyung.com/article/2026042284857",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] HD현대중공업, 6271억원 규모 엔진발전기 공급 계약 체결 공시",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569467",
-      "pub_date": "2026-04-22T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
-      "link": "https://www.news1.kr/local/gyeonggi/6145008",
-      "pub_date": "2026-04-22T11:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[TOP이슈] '부실 복무 의혹' 송민호, 유죄 판결 시 재복무 가능…\"끝까지...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041726",
-      "pub_date": "2026-04-22T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "시지바이오, 환자맞춤형 티타늄 임플란트 美 FDA 허가...국내 기업 최초",
-      "link": "https://www.news2day.co.kr/article/20260422500107",
-      "pub_date": "2026-04-22T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 완전히 살아난 이정후! 야마모토 상대 적시타 작렬…김혜성은 시...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812076",
-      "pub_date": "2026-04-22T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日작년 수출 사상 최대 1천50조원…무역수지는 5년 연속 적자",
-      "link": "https://www.yna.co.kr/view/AKR20260422072400009?input=1195m",
-      "pub_date": "2026-04-22T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
-      "link": "https://www.kyeonggi.com/article/20260422580079",
-      "pub_date": "2026-04-22T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이랜드그룹, 태풍 '실라코' 휩쓴 사이판에 3.5억 긴급 수혈… 민관 협력...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729143",
-      "pub_date": "2026-04-22T11:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '전주 조지훈' 민주당 전북 9곳 단체장 후보 발표.. 임실은 제외",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64133",
-      "pub_date": "2026-04-22T11:10:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총 광주전남본부 \"자본·이재명 정부가 함께 만든 예고된 살인\"",
-      "link": "https://www.nocutnews.co.kr/news/6506204?utm_source=naver&utm_medium=article&utm_campaign=20260422114038",
-      "pub_date": "2026-04-22T11:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민주노총 광주전남본부 \"자본·이재명 정부기 함께 만든 예고된 살인\"",
-      "link": "https://www.nocutnews.co.kr/news/6506204?utm_source=naver&utm_medium=article&utm_campaign=20260422110838",
-      "pub_date": "2026-04-22T11:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전북 기초단체장 민주당 경선 결과 13명 발표...전주 조지훈",
-      "link": "https://www.newspim.com/news/view/20260422000516",
-      "pub_date": "2026-04-22T11:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주당 완주군수 후보 유희태 현 군수 확정",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
-      "pub_date": "2026-04-22T11:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
-      "link": "http://www.inews24.com/view/1962389",
-      "pub_date": "2026-04-22T11:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 정남면 의약품 제조공장서 화재…30대男 화상으로 병원 이...",
-      "link": "https://www.dailian.co.kr/news/view/1636437/?sc=Naver",
-      "pub_date": "2026-04-22T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]민주당 전북도당 기초단체장 최종 후보 발표(명단)",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225088",
-      "pub_date": "2026-04-22T11:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 불…'대응 1단계' 발령",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422110416PTF",
-      "pub_date": "2026-04-22T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
-      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225085",
-      "pub_date": "2026-04-22T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한화오션, 美 함정 설계 '빅플레이어' 깁스앤콕스와 협력...북미 해양 방...",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201127",
-      "pub_date": "2026-04-22T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“장동혁, 방미 중 밴스 부통령 만나려 백악관 갔으나 회의로 불발”",
-      "link": "https://www.wikitree.co.kr/articles/1132836",
-      "pub_date": "2026-04-22T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
