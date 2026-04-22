@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-22 15:05:33",
+  "updated": "2026-04-22 15:10:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이천 고담동 주택 화재...소방 진화 중",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=219244",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] 경찰 바리케이드에 화물연대 승합차 '돌진' 영상 확산…경찰...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528077&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
+      "pub_date": "2026-04-22T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220035",
+      "pub_date": "2026-04-22T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "안호영, 단식 12일 만에 병원 이송…전북서는 ‘재감찰 촉구’ 도민 총...",
+      "link": "https://www.segye.com/newsView/20260422512293?OutUrl=naver",
+      "pub_date": "2026-04-22T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기 이천 고담동 주택 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2578093",
+      "pub_date": "2026-04-22T15:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이천 고담동서 화재 발생 …\"연기 발생 중\"",
+      "link": "https://www.ajunews.com/view/20260422150414794",
+      "pub_date": "2026-04-22T15:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의해야\"",
+      "link": "https://www.sidae.com/article/2026042215035540965",
+      "pub_date": "2026-04-22T15:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[1인 가구 뉴 노멀 시대①] 늘어난 '혼삶', 더 깊어진 격차",
       "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48210",
@@ -84,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
+      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
+      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
-      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
+      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,6 +246,15 @@
       "is_scoop": false
     },
     {
+      "title": "“이란 혁명수비대, 호르무즈 해협서 화물선 공격”",
+      "link": "https://www.chosun.com/international/international_general/2026/04/22/SAME2TFEX5HW3L2P52MWE3IEMM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T14:58:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '23명 사망' 아리셀 대표 2심 징역 4년 선고",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422145636lR7",
       "pub_date": "2026-04-22T14:57:00+09:00",
@@ -171,6 +270,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
+      "pub_date": "2026-04-22T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
+      "pub_date": "2026-04-22T14:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -207,24 +324,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
-      "pub_date": "2026-04-22T14:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
-      "pub_date": "2026-04-22T14:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1101,8 +1200,8 @@
       "is_scoop": false
     },
     {
-      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
-      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
+      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
+      "link": "http://www.breaknews.com/1202208",
       "pub_date": "2026-04-22T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1110,8 +1209,8 @@
       "is_scoop": false
     },
     {
-      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
-      "link": "http://www.breaknews.com/1202208",
+      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
+      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
       "pub_date": "2026-04-22T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1700,105 +1799,6 @@
       "pub_date": "2026-04-22T13:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "선양소주, '말차 소주' 꺼냈다…MZ 겨냥 이색 신제품 공개",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513721",
-      "pub_date": "2026-04-22T13:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "KBS와 합의했던 JTBC, MBC-SBS와는 결렬… 북중미월드컵 JTBC-KBS 공동 중...",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931560",
-      "pub_date": "2026-04-22T13:14:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘10년간 장애인 노동착취’…신안 염전주 징역 3년",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03932726645418744",
-      "pub_date": "2026-04-22T13:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경기교육감 민주·진보 단일후보 안민석 \"교육개혁 이루겠다\"",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227230&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-22T13:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "박정훈 “장동혁 사퇴하기 딱 좋은 계절”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03926166645418744&returntp=election",
-      "pub_date": "2026-04-22T13:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528046&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T13:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
-      "pub_date": "2026-04-22T13:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "안갯속 중동전쟁, 한국경제 ‘L자형 침체·V자형 반등’ 갈림길",
-      "link": "https://www.naeil.com/news/read/586208?ref=naver",
-      "pub_date": "2026-04-22T13:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 황교익 \"나 임명돼 문광연 모르는 분 없어졌다\" 발언 논란",
-      "link": "https://www.news1.kr/life-culture/general-cultural/6145085",
-      "pub_date": "2026-04-22T13:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "29CM, '머들 퍼퓸' 향수 선봬…이구어퍼스트로피 향 라인 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513704",
-      "pub_date": "2026-04-22T13:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'안정환 해설 못 보나요?'…MBC·SBS, 2026 월드컵 중계 안 한다→JTBC, K...",
-      "link": "https://www.xportsnews.com/article/2140010",
-      "pub_date": "2026-04-22T12:56:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     }
