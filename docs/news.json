@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 13:55:24",
+  "updated": "2026-04-22 14:00:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] ‘단식 12일차’ 안호영, 녹색병원 긴급 이송돼",
+      "link": "https://biz.heraldcorp.com/article/10723121?ref=naver",
+      "pub_date": "2026-04-22T13:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[성기노의 뉴스 피처링] 부산서 시작된 균열…지선 '접전 모드' 돌입하...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126700",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)\"이광재 하남-송영길 연수-하정우 북갑\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298719&inflow=N",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "금감원, 금융권 소비자보호 거버넌스 안착",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302359",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]김민석 총리 “석유 최고가격제 연장 ‘시사’”",
+      "link": "https://magazine.hankyung.com/business/article/202604228809b",
+      "pub_date": "2026-04-22T13:55:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '단식 12일' 안호영, 상태 악화로 병원 긴급 이송",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604221355409992",
+      "pub_date": "2026-04-22T13:55:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "북중미 월드컵, JTBC·KBS 함께 중계...MBC·SBS 빠졌다",
       "link": "https://www.wikitree.co.kr/articles/1132881",
@@ -165,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
+      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
+      "title": "\"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528046&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528046&plink=ORI&cooper=NAVER",
+      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
       "pub_date": "2026-04-22T13:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰, 화물연대 조합원 치어 숨지게 한 비조합원 구속영장 신청",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513764",
-      "pub_date": "2026-04-22T10:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]2040년 최대 전기수요 694.1TWh…11차 전기본 대비 11.1%↑",
-      "link": "https://www.sedaily.com/article/20035552?ref=naver",
-      "pub_date": "2026-04-22T10:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "송민호, 유죄 시 ‘102일 재복무’ 가능성…병무청 “소집해제 취소”",
-      "link": "http://www.celuvmedia.com/article.php?aid=1776819463519060007",
-      "pub_date": "2026-04-22T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542463&ref=A",
-      "pub_date": "2026-04-22T10:10:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "함평군, 여름철 집중호우 대비 양수기 교육·기반시설 정비",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838429",
-      "pub_date": "2026-04-22T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약합수본, 마약왕 박왕열 '향정 혐의' 기소",
-      "link": "https://www.hankyung.com/article/2026042282247",
-      "pub_date": "2026-04-22T10:09:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[산업 HOT 뉴스] \"광화문 절경 품은 미식 공간\"…'더 플라자 다이닝' 문...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134537",
-      "pub_date": "2026-04-22T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
