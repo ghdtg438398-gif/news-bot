@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 21:25:34",
+  "updated": "2026-04-22 21:30:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
+      "link": "https://www.etoday.co.kr/news/view/2578229",
+      "pub_date": "2026-04-22T21:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"호치민시 도시철도 수출 계약 체결 예정\"",
+      "link": "https://www.etoday.co.kr/news/view/2578228",
+      "pub_date": "2026-04-22T21:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “트럼프, 이란에 휴전 기간 3∼5일 연장 의향…무기한 아냐”",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006576",
+      "pub_date": "2026-04-22T21:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]한·베트남, 에너지안보강화·공급망 안정에 긴밀히 협력키로",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06133606645418744",
@@ -21,8 +48,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
+      "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
+      "pub_date": "2026-04-22T21:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"호치민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
+      "link": "https://www.news1.kr/politics/president/6145684",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,18 +75,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"호치민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
-      "link": "https://www.news1.kr/politics/president/6145684",
+      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
       "pub_date": "2026-04-22T21:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 \"한-베트남 2030년 교역규모 1500억달러로…교역·투자 호혜적...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602539",
-      "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -77,6 +104,15 @@
     {
       "title": "[속보] 李대통령 \"한-베트남 2030년 교역액 1500억 달러 달성 목표\"",
       "link": "https://www.news1.kr/politics/president/6145680",
+      "pub_date": "2026-04-22T21:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 \"한-베트남 2030년 교역규모 1500억달러로…교역·투자 호혜적...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602539",
       "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,6 +255,15 @@
       "is_scoop": false
     },
     {
+      "title": "[앵커 한마디] 쿠팡 로비 창구를 만나고 온 뒤",
+      "link": "https://news.jtbc.co.kr/article/NB12295349?influxDiv=NAVER",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]李 \"지정학적 불확실성 전례없이 높아져…한·베트남 양적 성과 ...",
       "link": "https://www.newsis.com/view/NISX20260422_0003602530",
       "pub_date": "2026-04-22T20:40:00+09:00",
@@ -237,9 +282,9 @@
       "is_scoop": false
     },
     {
-      "title": "[앵커 한마디] 쿠팡 로비 창구를 만나고 온 뒤",
-      "link": "https://news.jtbc.co.kr/article/NB12295349?influxDiv=NAVER",
-      "pub_date": "2026-04-22T20:40:00+09:00",
+      "title": "유영하 \"이진숙 보궐, 탈당 전 결정해야…추경호 내란 유죄 확률 적어\"",
+      "link": "https://www.nocutnews.co.kr/news/6506678?utm_source=naver&utm_medium=article&utm_campaign=20260422083843",
+      "pub_date": "2026-04-22T20:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -252,15 +297,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "유영하 \"이진숙 보궐, 탈당 전 결정해야…추경호 내란 유죄 확률 적어\"",
-      "link": "https://www.nocutnews.co.kr/news/6506678?utm_source=naver&utm_medium=article&utm_campaign=20260422083843",
-      "pub_date": "2026-04-22T20:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1761,42 +1797,6 @@
       "title": "[속보]英 가디언 “이란, 호르무즈 해역에서 화물선 2척 잇따라 공격”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525445",
       "pub_date": "2026-04-22T17:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
-      "link": "https://www.hani.co.kr/arti/society/society_general/1255392.html",
-      "pub_date": "2026-04-22T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
-      "link": "https://www.hankyung.com/article/2026042296477",
-      "pub_date": "2026-04-22T17:24:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.hankyung.com/article/2026042296427",
-      "pub_date": "2026-04-22T17:24:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]주호영 ‘컷오프 효력정지 가처분’ 항고심도 기각",
-      "link": "https://www.khan.co.kr/article/202604221724001",
-      "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
