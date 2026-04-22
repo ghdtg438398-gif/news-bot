@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 06:55:29",
+  "updated": "2026-04-23 07:00:37",
   "total": 118,
   "items": [
+    {
+      "title": "조승래 \"이원택 의혹, 가장 강도 높게 윤리감찰했지만 특별한 문제 확인...",
+      "link": "https://www.pressian.com/pages/articles/2026042304311761360?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T06:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 미 웨스트버지니아주 공장서 화학물질 유출, 2명 죽고 19명 입원",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602659",
+      "pub_date": "2026-04-23T06:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]“美국방부, 호르무즈 기뢰 제거에 반년은 걸린다…종전 후 판단...",
       "link": "https://www.munhwa.com/article/11584330?ref=naver",
@@ -9,6 +27,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "보건소 유축기도 동났다‥출생아 기록적 증가",
+      "link": "https://imnews.imbc.com/replay/2026/nwtoday/article/6817340_37012.html",
+      "pub_date": "2026-04-23T06:49:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1036,33 +1063,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[단독]\"김영환 선택해달라\"‥ '밥퍼' 노인 모아 놓고 공무원이 선거운동",
-      "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260422&SEQUENCE=0120",
-      "pub_date": "2026-04-22T20:58:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] ‘인플루언서 수사무마 의혹’ 경찰 구속영장 기각…재력가 남편...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/22/20260422500313?wlog_tag3=naver",
-      "pub_date": "2026-04-22T20:58:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정부, 병원 안 간 영유아 전수조사 착수…아동학대 사각지대 캔다",
-      "link": "https://www.onews.tv/news/articleView.html?idxno=279107",
-      "pub_date": "2026-04-22T20:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
