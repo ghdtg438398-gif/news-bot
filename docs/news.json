@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-23 07:45:48",
-  "total": 152,
+  "updated": "2026-04-23 07:50:41",
+  "total": 159,
   "items": [
+    {
+      "title": "[속보] SK하이닉스, 1분기 매출 52.6조·영업익 37.6조...역대 최대 실적",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230747268749",
+      "pub_date": "2026-04-23T07:47:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 매출 52.6조·영업익 37.6조… 사상 최대",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395772",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원…창사 이래 최고기록",
+      "link": "https://news.jtbc.co.kr/article/NB12295432?influxDiv=NAVER",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 당기순익 40조3500억원···창사 이래 '사상 ...",
+      "link": "https://www.ajunews.com/view/20260423071246419",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 매출 52조·영업익 37조…사상 최대",
+      "link": "http://www.metroseoul.co.kr/article/20260423500009",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스 1분기 영업이익 37.6조 … 분기 최대 실적 또 경신",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300016.html",
+      "pub_date": "2026-04-23T07:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조...사상 최대 실적 경신",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230015",
+      "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업이익률 사상 최대 71.5%",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189823",
+      "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 매출 52.6조·영업익 37.6조…사상 최대",
+      "link": "https://www.sidae.com/article/2026042307440228005",
+      "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조로 사상최대…작년比 405%↑",
+      "link": "https://www.kyeonggi.com/article/20260423580017",
+      "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스, '꿈의 영업이익률' 72% 찍었다",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02748646645419072",
+      "pub_date": "2026-04-23T07:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1분기 영업익 37.6조…역대 최대",
+      "link": "https://www.dt.co.kr/article/12059037?ref=naver",
+      "pub_date": "2026-04-23T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] SK하이닉스, 1분기 매출 52조5763억원… 전년比 198%↑",
       "link": "https://www.newscj.com/news/articleView.html?idxno=3395771",
@@ -21,8 +129,26 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK히이닉스 1Q 매출 52조5800억…'역대 최대'",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02738806645419072",
+      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원...전년비 406%↑",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360745",
+      "pub_date": "2026-04-23T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1Q 영업익 37조원…전년比 405%↑",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706308",
+      "pub_date": "2026-04-23T07:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] SK하이닉스, 1Q 매출 52.5조원...영업이익률 72%",
+      "link": "https://www.newspim.com/news/view/20260423000048",
       "pub_date": "2026-04-23T07:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,6 +165,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]SK하이닉스 1Q 매출 52조5800억…'역대 최대'",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02738806645419072",
+      "pub_date": "2026-04-23T07:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "pub_date": "2026-04-23T07:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] SK하이닉스, 올해 1분기 매출 52.5조, 영업익 37.6조…사상최대",
       "link": "https://www.asiatime.co.kr/article/20260423500040",
       "pub_date": "2026-04-23T07:42:00+09:00",
@@ -48,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]SK하이닉스 1분기 영업익 37.6조원…전년比 405%↑",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366948",
+      "title": "[속보] SK하이닉스 1분기 영업익 37.6조 '사상 최대'",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564058",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -68,15 +212,6 @@
     {
       "title": "[속보]SK하이닉스 1분기 매출 52.6조·영업익 37.6조…사상 최대",
       "link": "https://economist.co.kr/article/view/ecn202604230002",
-      "pub_date": "2026-04-23T07:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업익 37.6조 '사상 최대'",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564058",
       "pub_date": "2026-04-23T07:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,15 +651,6 @@
       "is_scoop": false
     },
     {
-      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
-      "pub_date": "2026-04-23T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]우즈·아이유, 'AAA=첫 동반 스케줄'이었다..\"주먹 인사에 힘 얻어...",
       "link": "https://www.starnewskorea.com/music/2026/04/23/2026042114243368738",
       "pub_date": "2026-04-23T07:00:00+09:00",
@@ -532,6 +658,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 로보택시 실망, 4% 급등했던 테슬라 하락 반전",
@@ -1297,78 +1432,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[뉴스공감] 박형준 \"이미 국비 확보한 사직 재건축…포기한다면 지역 갈...",
-      "link": "https://news.cpbc.co.kr/article/1172382?division=NAVER",
-      "pub_date": "2026-04-22T21:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 \"베트남에 철도차량 1600억원 수출 협의…에너지·공급...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042221471688998",
-      "pub_date": "2026-04-22T21:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[김종석의 오프닝]2차 협상 무산…이란, 강력한 군사 대응 예고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525497",
-      "pub_date": "2026-04-22T21:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543214&ref=A",
-      "pub_date": "2026-04-22T21:48:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543208&ref=A",
-      "pub_date": "2026-04-22T21:47:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] “봉사 갔는데 사장실로”…강기윤 후보, 공기업 동원 의혹",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543201&ref=A",
-      "pub_date": "2026-04-22T21:46:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "'허율 동점 헤더' 울산, 안양과 1-1…선두 서울과 승점 5",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042151",
-      "pub_date": "2026-04-22T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대 사망사고 운전자 '살인 혐의' 영장",
-      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=585169",
-      "pub_date": "2026-04-22T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
