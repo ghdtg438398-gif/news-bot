@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 00:20:31",
+  "updated": "2026-04-23 00:26:42",
   "total": 200,
   "items": [
+    {
+      "title": "[정효식의 시시각각] 선거가 실종됐다",
+      "link": "https://www.joongang.co.kr/article/25422525",
+      "pub_date": "2026-04-23T00:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "KIA 1선발 출격인데 전혀 안 밀렸다…단독 1위 수성 힘 보탠 QS 쾌투 \"선...",
       "link": "https://www.xportsnews.com/article/2140329",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'장동혁 특보' 김대식 \"한동훈, 소중한 인재…단일화 해야\"",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189721",
-      "pub_date": "2026-04-22T18:15:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
