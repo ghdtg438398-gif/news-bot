@@ -1,10 +1,163 @@
 {
-  "updated": "2026-04-22 17:15:46",
+  "updated": "2026-04-22 17:20:50",
   "total": 200,
   "items": [
     {
+      "title": "[속보] 국힘, 전북지사 후보에 양정무 단수 추천",
+      "link": "https://biz.heraldcorp.com/article/10723369?ref=naver",
+      "pub_date": "2026-04-22T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전남·광주통합시장 후보에 이정현 단수 추천",
+      "link": "https://www.sedaily.com/article/20035803?ref=naver",
+      "pub_date": "2026-04-22T17:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 2년새 두 배 올랐는데…투자자 절반은 \"이익 못냈다\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260422509&PRO_CODE=99",
+      "pub_date": "2026-04-22T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
+      "link": "https://www.ajunews.com/view/20260422152018841",
+      "pub_date": "2026-04-22T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 法, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366877",
+      "pub_date": "2026-04-22T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "link": "https://www.donga.com/news/Politics/article/all/20260422/133792320/2",
+      "pub_date": "2026-04-22T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://www.viva100.com/article/20260422501241",
+      "link": "https://biz.heraldcorp.com/article/10723366?ref=naver",
+      "pub_date": "2026-04-22T17:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[데스크칼럼] 韓 반도체, 다시 찾아온 포퓰리즘의 계절",
+      "link": "https://www.meconomynews.com/news/articleView.html?idxno=130265",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전북지사 후보에 양정무 단수 추천",
+      "link": "https://www.yna.co.kr/view/AKR20260422143900001?input=1195m",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]강훈식 \"내주 고유가피해지원금 차질없이 집행…추경효과 체감 만...",
+      "link": "https://www.news1.kr/politics/president/6145636",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422024519642",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘대구시장 컷오프’ 주호영 가처분 항고 기각",
+      "link": "https://www.dt.co.kr/article/12058963?ref=naver",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "사상 최대 수출에도 日 5년째 적자···중동 충격에 다시 흔들리나",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401023",
+      "pub_date": "2026-04-22T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370547",
+      "pub_date": "2026-04-22T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.ytn.co.kr/_ln/0103_202604221715144394",
+      "pub_date": "2026-04-22T17:15:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.joongang.co.kr/article/25422407",
+      "pub_date": "2026-04-22T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전남광주통합시장 국힘 후보로 이정현",
+      "link": "https://www.imaeil.com/page/view/2026042217123570504",
+      "pub_date": "2026-04-22T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]서울고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525442",
       "pub_date": "2026-04-22T17:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -14,6 +167,15 @@
     {
       "title": "[속보] 서울고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
       "link": "https://www.dailian.co.kr/news/view/1636658/?sc=Naver",
+      "pub_date": "2026-04-22T17:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "https://www.viva100.com/article/20260422501241",
       "pub_date": "2026-04-22T17:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,6 +264,15 @@
       "is_scoop": false
     },
     {
+      "title": "張 특보단장 \"韓, 보수의 소중한 인재…북갑, 후보 단일화해야\"(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260422043951001?input=1195m",
+      "pub_date": "2026-04-22T17:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 서울고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기...",
       "link": "https://www.chosun.com/national/court_law/2026/04/22/O754PLGQFZHR3FJ6E4QV66J2YA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-22T17:11:00+09:00",
@@ -120,9 +291,9 @@
       "is_scoop": false
     },
     {
-      "title": "張 특보단장 \"韓, 보수의 소중한 인재…북갑, 후보 단일화해야\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260422043951001?input=1195m",
-      "pub_date": "2026-04-22T17:11:00+09:00",
+      "title": "송민호, '재복무' 꿈(?) 이루나…유죄 시 '이탈 102일' 다시 채운다 [엑...",
+      "link": "https://www.xportsnews.com/article/2140031",
+      "pub_date": "2026-04-22T17:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -162,15 +333,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "송민호, '재복무' 꿈(?) 이루나…유죄 시 '이탈 102일' 다시 채운다 [엑...",
-      "link": "https://www.xportsnews.com/article/2140031",
-      "pub_date": "2026-04-22T17:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1639,168 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 이번엔 사슴 5마리 탈출했다... 광명시 \"안전 유의\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026042215040005690?did=NA",
-      "pub_date": "2026-04-22T15:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이천 고담동 주택 화재…연기 확산에 주민 창문 폐쇄 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864335",
-      "pub_date": "2026-04-22T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228837",
-      "pub_date": "2026-04-22T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] 경찰 바리케이드에 화물연대 승합차 '돌진' 영상 확산…경찰...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528077&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이천 고담동 주택 화재...소방 진화 중",
-      "link": "http://www.joongang.tv/news/articleView.html?idxno=219244",
-      "pub_date": "2026-04-22T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
-      "pub_date": "2026-04-22T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
-      "pub_date": "2026-04-22T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "안호영, 단식 12일 만에 병원 이송…전북서는 ‘재감찰 촉구’ 도민 총...",
-      "link": "https://www.segye.com/newsView/20260422512293?OutUrl=naver",
-      "pub_date": "2026-04-22T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220035",
-      "pub_date": "2026-04-22T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
-      "pub_date": "2026-04-22T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경기 이천 고담동 주택 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2578093",
-      "pub_date": "2026-04-22T15:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이천 고담동서 화재 발생 …\"연기 발생 중\"",
-      "link": "https://www.ajunews.com/view/20260422150414794",
-      "pub_date": "2026-04-22T15:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의해야\"",
-      "link": "https://www.sidae.com/article/2026042215035540965",
-      "pub_date": "2026-04-22T15:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[1인 가구 뉴 노멀 시대①] 늘어난 '혼삶', 더 깊어진 격차",
-      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48210",
-      "pub_date": "2026-04-22T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "생산자물가도 유가발 급등세...석유 최고가격제 효과와 한계 사이",
-      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316993",
-      "pub_date": "2026-04-22T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[여행24시] 대한항공 노사, 통합 앞두고 '한마음 페스타' 外",
-      "link": "https://dealsite.co.kr/articles/160588",
-      "pub_date": "2026-04-22T15:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
-      "link": "https://www.asiatime.co.kr/article/20260422500275",
-      "pub_date": "2026-04-22T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
-      "pub_date": "2026-04-22T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
