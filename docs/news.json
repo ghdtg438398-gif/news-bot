@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 14:15:32",
+  "updated": "2026-04-22 14:20:27",
   "total": 200,
   "items": [
+    {
+      "title": "'인생샷' 찍던 조종사 때문에 전투기 충돌...현재는 민간 항공사 근무 중",
+      "link": "https://www.wikitree.co.kr/articles/1132899",
+      "pub_date": "2026-04-22T14:18:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "북중미 월드컵 'JTBC·KBS' 연합 중계 확정…MBC·SBS 협상 결렬",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217885",
+      "pub_date": "2026-04-22T14:18:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“화물연대 차량이 경찰관 밟았다” 가짜뉴스 확산···경찰 “사실 아...",
+      "link": "https://www.khan.co.kr/article/202604221414001",
+      "pub_date": "2026-04-22T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘12일 단식’ 與안호영, 건강 악화로 병원 긴급 이송",
+      "link": "https://www.joongang.co.kr/article/25422314",
+      "pub_date": "2026-04-22T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[포토] 금산군, 아토피자연치유마을 준공 초읽기",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563536",
@@ -35,6 +71,15 @@
       "pub_date": "2026-04-22T14:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이원택 재감찰 요구' 안호영, 단식 중 병원 이송",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290176.html",
+      "pub_date": "2026-04-22T14:09:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -165,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[성기노의 뉴스 피처링] 부산서 시작된 균열…지선 '접전 모드' 돌입하...",
       "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126700",
       "pub_date": "2026-04-22T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -273,15 +318,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
-      "pub_date": "2026-04-22T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:46:00+09:00",
@@ -291,9 +327,9 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
-      "pub_date": "2026-04-22T13:45:00+09:00",
+      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
+      "pub_date": "2026-04-22T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -302,6 +338,15 @@
     {
       "title": "\"화물연대 차량에 경찰이 깔렸다?\"…경찰청 \"가짜 뉴스\" 반박",
       "link": "https://www.news1.kr/society/incident-accident/6145171",
+      "pub_date": "2026-04-22T13:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
       "pub_date": "2026-04-22T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,15 +435,6 @@
       "is_scoop": false
     },
     {
-      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
-      "pub_date": "2026-04-22T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
       "pub_date": "2026-04-22T13:22:00+09:00",
@@ -410,6 +446,15 @@
     {
       "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
       "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'소시 저격 의혹' 제시카, 데뷔곡 '다만세' 부르며 눈물…왜? [엑's 이슈...",
-      "link": "https://www.xportsnews.com/article/2139899",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
-      "link": "https://www.kpinews.kr/newsView/1065575251956002",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
-      "link": "https://www.ajunews.com/view/20260422101609290",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
