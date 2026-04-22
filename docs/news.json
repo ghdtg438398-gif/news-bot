@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 20:25:29",
+  "updated": "2026-04-22 20:30:37",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]한-베트남 정상회담 '종료'…111분 진행",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042220244089492",
+      "pub_date": "2026-04-22T20:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-베트남 정상회담, 110분만에 종료…곧 MOU·공동언론발표",
+      "link": "https://www.news1.kr/politics/president/6145805",
+      "pub_date": "2026-04-22T20:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이 대통령-또럼 주석 정상회담 종료…곧 공동언론발표",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602500",
+      "pub_date": "2026-04-22T20:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스하이킥]김용태 \"부산 북갑 무공천? 그런 정무 감각 있었으면 한동...",
       "link": "https://n.news.naver.com/mnews/article/214/0001494554?sid=100",
@@ -1770,33 +1797,6 @@
       "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
       "link": "https://www.sedaily.com/article/20035798?ref=naver",
       "pub_date": "2026-04-22T17:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
-      "link": "https://www.viva100.com/article/20260422501239",
-      "pub_date": "2026-04-22T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
-      "link": "https://www.viva100.com/article/20260422501235",
-      "pub_date": "2026-04-22T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.news1.kr/politics/assembly/6145630",
-      "pub_date": "2026-04-22T17:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
