@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 12:30:34",
+  "updated": "2026-04-22 12:35:26",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] MBC·SBS 월드컵 못 본다 “120억원 이상 못 줘”… JTBC·KBS 공동...",
+      "link": "https://www.seoul.co.kr/news/life/2026/04/22/20260422500139?wlog_tag3=naver",
+      "pub_date": "2026-04-22T12:34:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김대식 \"張, 밴스 만나려 백악관 갔으나 불발…NSC 넘버3 만나\"",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370448",
@@ -48,6 +57,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
+      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
+      "pub_date": "2026-04-22T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "경찰, '화물연대 조합원 사망' 비조합원 살인 혐의로 구속영장",
       "link": "https://www.ajunews.com/view/20260422104335371",
       "pub_date": "2026-04-22T12:18:00+09:00",
@@ -59,15 +77,6 @@
     {
       "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
       "link": "https://www.munhwa.com/article/11584208?ref=naver",
-      "pub_date": "2026-04-22T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
-      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,20 +174,20 @@
       "is_scoop": false
     },
     {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542595&ref=A",
-      "pub_date": "2026-04-22T12:01:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "기후부, 오월드 '늑구' 탈출 계기로 동물원 안전 대책 전면 강화",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03791686645418744",
       "pub_date": "2026-04-22T12:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542595&ref=A",
+      "pub_date": "2026-04-22T12:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 인천 A구의원, \"유흥·식대·차량 편의 의혹\"… 제보자 \"증거 있...",
-      "link": "http://www.incheonnews.com/news/articleView.html?idxno=435739",
-      "pub_date": "2026-04-22T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
