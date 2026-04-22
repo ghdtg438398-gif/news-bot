@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 09:15:34",
+  "updated": "2026-04-22 09:20:28",
   "total": 200,
   "items": [
+    {
+      "title": "(단독)한국거래소 파생본부장에 한구 전 금감원 부원장보 내정",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298676&inflow=N",
+      "pub_date": "2026-04-22T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 애경케미칼 주가 장초반 상한가 직행…양대지수 하락속",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569418",
+      "pub_date": "2026-04-22T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563173",
+      "pub_date": "2026-04-22T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[ESG] 하이트진로, 소방서 찾아간다…'감사의 간식차' 전국 순회",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513719",
+      "pub_date": "2026-04-22T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 개장 직후 사상 첫 6400선 돌파",
       "link": "https://www.ajunews.com/view/20260422091316105",
@@ -30,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,6 +138,15 @@
       "is_scoop": false
     },
     {
+      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
+      "link": "http://www.breaknews.com/1202110",
+      "pub_date": "2026-04-22T09:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
       "link": "https://www.newsis.com/view/NISX20260421_0003600870",
       "pub_date": "2026-04-22T09:10:00+09:00",
@@ -120,15 +165,6 @@
       "is_scoop": false
     },
     {
-      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
-      "link": "http://www.breaknews.com/1202110",
-      "pub_date": "2026-04-22T09:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "대한항공 승무원, 구두 대신 ‘운동화’ 신는다…57년 만 ‘파격 결단’",
       "link": "https://www.seoul.co.kr/news/society/2026/04/22/20260422500027?wlog_tag3=naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
@@ -138,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
-      "link": "https://www.news1.kr/finance/market-exr/6144669",
+      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
+      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 개장 직후 6400 돌파…사상 최고치 경신",
-      "link": "https://www.dailian.co.kr/news/view/1636298/?sc=Naver",
+      "title": "[속보] 코스피, 장 중 6401.97 찍고 사상 최고가",
+      "link": "https://www.news1.kr/finance/market-exr/6144669",
       "pub_date": "2026-04-22T09:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
-      "link": "https://www.viva100.com/article/20260422500201",
+      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834534",
       "pub_date": "2026-04-22T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834534",
+      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
+      "link": "https://www.viva100.com/article/20260422500201",
       "pub_date": "2026-04-22T09:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,20 +471,20 @@
       "is_scoop": false
     },
     {
-      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
-      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
       "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
       "pub_date": "2026-04-22T09:00:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
+      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -570,21 +606,21 @@
       "is_scoop": false
     },
     {
-      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
-      "link": "https://www.wikitree.co.kr/articles/1132777",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
       "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
       "pub_date": "2026-04-22T08:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
+      "link": "https://www.wikitree.co.kr/articles/1132777",
+      "pub_date": "2026-04-22T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 공공청사 개발 빗장 푼다…30년 미만도 허용",
-      "link": "https://www.news1.kr/realestate/general/6144187",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]트럼프 \"이란 전쟁 협상 논의 끝날 때까지 휴전 연장\"",
-      "link": "https://www.mt.co.kr/world/2026/04/22/2026042205194583486",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “이란 공격 보류·휴전 연장…이란 정부 심각히 분열”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01699046645418744",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 이란 휴전 연장",
-      "link": "http://www.fnnews.com/news/202604220519015987",
-      "pub_date": "2026-04-22T05:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
