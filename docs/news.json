@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-22 21:45:28",
+  "updated": "2026-04-22 21:50:29",
   "total": 200,
   "items": [
     {
-      "title": "[속보]李대통령 \"한-베트남, '사돈의 나라'…양국 국민 권익 증진 협력...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221313275090",
+      "title": "'허율 동점 헤더' 울산, 안양과 1-1…선두 서울과 승점 5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042151",
+      "pub_date": "2026-04-22T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대 사망사고 운전자 '살인 혐의' 영장",
+      "link": "http://www.gnmaeil.com/news/articleView.html?idxno=585169",
+      "pub_date": "2026-04-22T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 “호찌민 도시철도 韓수출 계약…대형 인프라 사업 협...",
+      "link": "https://www.sedaily.com/article/20035933?ref=naver",
+      "pub_date": "2026-04-22T21:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘중동 사태’ 중고차 수출 30% 감소…“새 수출길 뚫자”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543182&ref=A",
+      "pub_date": "2026-04-22T21:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
+      "title": "[속보]李대통령 \"한-베트남, '사돈의 나라'…양국 국민 권익 증진 협력...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221313275090",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "정옥임 \"주호영 다음 행보에 주목해야\"...배종찬 \"이진숙 설득, 장동혁 ...",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108498&s_mcd=0263&s_hcd=01",
+      "title": "서정욱 \"주호영 항고심 기각? 이젠 포기한다고 봐야...가장 문제는 고집...",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108497&s_mcd=0263&s_hcd=01",
       "pub_date": "2026-04-22T21:30:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "서정욱 \"주호영 항고심 기각? 이젠 포기한다고 봐야...가장 문제는 고집...",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108497&s_mcd=0263&s_hcd=01",
+      "title": "정옥임 \"주호영 다음 행보에 주목해야\"...배종찬 \"이진숙 설득, 장동혁 ...",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108498&s_mcd=0263&s_hcd=01",
       "pub_date": "2026-04-22T21:30:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
@@ -102,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한·베트남, 에너지안보강화·공급망 안정에 긴밀히 협력키로",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06133606645418744",
-      "pub_date": "2026-04-22T21:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
       "pub_date": "2026-04-22T21:24:00+09:00",
@@ -129,9 +156,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"호찌민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
-      "link": "https://www.news1.kr/politics/president/6145684",
-      "pub_date": "2026-04-22T21:22:00+09:00",
+      "title": "[속보]한·베트남, 에너지안보강화·공급망 안정에 긴밀히 협력키로",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06133606645418744",
+      "pub_date": "2026-04-22T21:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -140,6 +167,15 @@
     {
       "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
       "link": "https://www.newsis.com/view/NISX20260422_0003602542",
+      "pub_date": "2026-04-22T21:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"호찌민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
+      "link": "https://www.news1.kr/politics/president/6145684",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-베트남, 에너지·인프라 전략적 협력 강화…공급망...",
-      "link": "https://www.news1.kr/politics/president/6145682",
+      "title": "[속보] 李대통령 \"한-베트남 2030년 교역액 1500억 달러 달성 목표\"",
+      "link": "https://www.news1.kr/politics/president/6145680",
       "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-베트남 2030년 교역액 1500억 달러 달성 목표\"",
-      "link": "https://www.news1.kr/politics/president/6145680",
+      "title": "[속보] 李대통령 \"한-베트남, 에너지·인프라 전략적 협력 강화…공급망...",
+      "link": "https://www.news1.kr/politics/president/6145682",
       "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-22T17:33:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[복지뉴스] 한국사회복지협의회, '돌봄통합지원법 시행에 따른 사회복지...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150726",
-      "pub_date": "2026-04-22T17:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "http://www.inews24.com/view/1962590",
-      "pub_date": "2026-04-22T17:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북중미 월드컵 중계, JTBC·KBS만 본다…지상파 M·S 협상 결렬",
-      "link": "https://www.nocutnews.co.kr/news/6506590?utm_source=naver&utm_medium=article&utm_campaign=20260422053041",
-      "pub_date": "2026-04-22T17:31:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
     }
