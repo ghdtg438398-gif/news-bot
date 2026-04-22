@@ -1,14 +1,23 @@
 {
-  "updated": "2026-04-22 16:40:28",
+  "updated": "2026-04-22 16:45:31",
   "total": 200,
   "items": [
     {
-      "title": "'노동착취' 염전, '재산 갈취' 병원… 장애인 울린 파렴치범들 철퇴",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
-      "pub_date": "2026-04-22T16:38:00+09:00",
+      "title": "[속보] “둘이 불륜했지” 아내 내연남 의심 살해한 남편 ‘징역 15년’",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500263?wlog_tag3=naver",
+      "pub_date": "2026-04-22T16:44:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘비상계엄 당시 언론사 단전·단수 지시’ 이상민 항소심서 징역...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250107200000",
+      "pub_date": "2026-04-22T16:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -21,13 +30,31 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 韓실소유 추정 유조선 2척…‘호르무즈 해협’ 진입 성공",
+      "title": "'노동착취' 염전, '재산 갈취' 병원… 장애인 울린 파렴치범들 철퇴",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
+      "pub_date": "2026-04-22T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 韓 선사 실소유 추정 유조선 2척…‘호르무즈 해협’ 진입 성공",
       "link": "https://www.mk.co.kr/article/12024169",
       "pub_date": "2026-04-22T16:37:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "스토킹·교제폭력·가정폭력 '통합 위험도'로 관리한다",
+      "link": "https://www.newspim.com/news/view/20260422000997",
+      "pub_date": "2026-04-22T16:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[경북교육 소식] 학부모 상담 1학기 마감·발명교육 실천학교 사업설명...",
@@ -1774,33 +1801,6 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "\"사진 한장에 실적 죽어\" 김대식 \"장동혁, NSC 넘버3 만나…밴스 만나려...",
-      "link": "https://news.jtbc.co.kr/article/NB12295316?influxDiv=NAVER",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 징역 15년 → 징역 4년 선고",
-      "link": "https://www.news1.kr/local/gyeonggi/6145296",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
-      "link": "https://www.news1.kr/local/gyeonggi/6145292",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
