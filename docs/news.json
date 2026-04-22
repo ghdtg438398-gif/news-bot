@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 13:50:29",
+  "updated": "2026-04-22 13:55:24",
   "total": 200,
   "items": [
+    {
+      "title": "북중미 월드컵, JTBC·KBS 함께 중계...MBC·SBS 빠졌다",
+      "link": "https://www.wikitree.co.kr/articles/1132881",
+      "pub_date": "2026-04-22T13:54:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "쿠팡풀필먼트서비스, '원스톱' 채용으로 물류 인력 대거 확보",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4613206",
+      "pub_date": "2026-04-22T13:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“장동혁, 밴스 만나러 백악관 갔는데…” 트럼프 때문에 물거품 됐다?",
+      "link": "https://www.seoul.co.kr/news/politics/2026/04/22/20260422500163?wlog_tag3=naver",
+      "pub_date": "2026-04-22T13:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"컴퓨터가 왜 이렇게 느려\"…뜯어봤더니 '헉'",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220423&t=NN",
+      "pub_date": "2026-04-22T13:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국민의힘 횡성군수 경선 여론조사 재조사 요구",
       "link": "https://www.kado.net/news/articleView.html?idxno=2046200",
@@ -21,20 +57,20 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T13:46:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
       "link": "https://www.newsis.com/view/NISX20260422_0003601765",
       "pub_date": "2026-04-22T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T13:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -129,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
+      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한화, SAS 2026서 美 유력 해상·항공업체와 협력 체결 “방산 역량 강화...",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604220950155423570d99e4c8_23",
-      "pub_date": "2026-04-22T10:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "최고가격제, 유가 억제 정책 효과 뚜렷…3월 물가 최대 0.8%p 낮춰",
-      "link": "https://www.nocutnews.co.kr/news/6506121?utm_source=naver&utm_medium=article&utm_campaign=20260422100538",
-      "pub_date": "2026-04-22T10:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약합수본, 마약왕 박왕열 '향정 혐의' 기소",
-      "link": "https://www.news1.kr/local/gyeonggi/6144843",
-      "pub_date": "2026-04-22T10:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] CU 원청, 오늘 화물연대와 교섭 시작…참사 발생 이틀만",
-      "link": "https://www.hani.co.kr/arti/society/labor/1255304.html",
-      "pub_date": "2026-04-22T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
