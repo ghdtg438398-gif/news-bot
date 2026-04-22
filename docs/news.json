@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 06:00:40",
-  "total": 141,
+  "updated": "2026-04-23 06:05:32",
+  "total": 142,
   "items": [
+    {
+      "title": "[N2 포커스] '30조 대어' 목동 재건축 시공사 선정, 조용한 이유 들어보...",
+      "link": "https://www.news2day.co.kr/article/20260422500224",
+      "pub_date": "2026-04-23T06:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"신고가요? 비자발적 장투, 인질이었습니다\"…손절하고도 홀가분한 '네...",
+      "link": "http://www.fnnews.com/news/202604221443559451",
+      "pub_date": "2026-04-23T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"좋은 공 치면 쾌감 느껴\" KIA 울린 19세 유격수, 결승 2타점 적시타 짜...",
+      "link": "https://www.xportsnews.com/article/2140335",
+      "pub_date": "2026-04-23T06:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
       "link": "https://imnews.imbc.com/news/2026/world/article/6817313_36925.html",
@@ -84,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
       "link": "https://www.news1.kr/world/usa-canada/6145888",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1252,24 +1279,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[6·3 지방선거] '친명' 안호영, 단식 12일째 병원 긴급 이송…김용 공천...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729248",
-      "pub_date": "2026-04-22T20:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[공감2026] 박찬대, 인천시장 출마 선언…첫 일정은 '바이오'",
-      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1522006",
-      "pub_date": "2026-04-22T20:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
