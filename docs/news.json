@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-23 05:00:39",
+  "updated": "2026-04-23 05:05:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]백악관 \"트럼프, 이란 휴전 종료 시점 정한 적 없어\"",
+      "link": "http://www.fnnews.com/news/202604230500469634",
+      "pub_date": "2026-04-23T05:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
+      "link": "http://www.fnnews.com/news/202604230459228089",
+      "pub_date": "2026-04-23T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6145887",
+      "pub_date": "2026-04-23T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "pub_date": "2026-04-23T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
+      "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
+      "pub_date": "2026-04-23T05:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
+      "link": "https://www.public25.com/news/articleView.html?idxno=44792",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 공공분양도 집단대출 공백…수방사 '1.4억' 중도금 비상",
+      "link": "https://www.news1.kr/realestate/general/6145595",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
+      "link": "https://www.news1.kr/politics/assembly/6145839",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전일 16% 폭등했던 나비타스 반도체 오늘은 20% 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145889",
+      "pub_date": "2026-04-23T04:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "'이게 PL 팀이야?' 선수 이발사가 \"단독 보도\" 팀 뉴스 유출했다...'114년...",
       "link": "http://www.osen.co.kr/article/G1112787085",
@@ -1710,96 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "포항 의료폐기물 소각장 논란 확산…퇴직 공무원 3명 고발 파장",
-      "link": "https://www.kyongbuk.co.kr/news/articleView.html?idxno=4070866",
-      "pub_date": "2026-04-22T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422158000001?input=1195m",
-      "pub_date": "2026-04-22T19:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"차량 5부제 참여시 車 보험료 할인 특약 상품 5월 중 출시...",
-      "link": "https://www.newspim.com/news/view/20260422001237",
-      "pub_date": "2026-04-22T19:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한-베트남 정상회담 시작…'원전·에너지·인프라' 협력 논의",
-      "link": "https://www.hankyung.com/article/2026042299187",
-      "pub_date": "2026-04-22T19:05:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"6700억 나프타 수입단가 차액지원사업 신속 집행\"",
-      "link": "https://www.newspim.com/news/view/20260422001236",
-      "pub_date": "2026-04-22T19:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘 \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아파...",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545889",
-      "pub_date": "2026-04-22T19:04:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"5월 연휴 관광 활성화 대책 마련...추경 신속 집행 만전\"",
-      "link": "https://www.newspim.com/news/view/20260422001234",
-      "pub_date": "2026-04-22T19:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘 “정동영, 한미동맹 위기 초래”…민주 “동맹 깨뜨린 건 윤석열”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542919&ref=A",
-      "pub_date": "2026-04-22T19:02:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"4차 석유 최고가격제, 국제유가·국민부담 종합 고려해 결...",
-      "link": "https://www.newspim.com/news/view/20260422001233",
-      "pub_date": "2026-04-22T19:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542918&ref=A",
-      "pub_date": "2026-04-22T19:01:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
