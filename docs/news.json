@@ -1,13 +1,139 @@
 {
-  "updated": "2026-04-22 15:00:57",
+  "updated": "2026-04-22 15:05:33",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 코스피, 장중 6420선 돌파하며 사상 최고치 경신",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029717316&code=61141111&cp=nv",
-      "pub_date": "2026-04-22T14:58:00+09:00",
+      "title": "[1인 가구 뉴 노멀 시대①] 늘어난 '혼삶', 더 깊어진 격차",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48210",
+      "pub_date": "2026-04-22T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "생산자물가도 4년만에 최고 급등세...석유 최고가격제 효과와 한계 사이",
+      "link": "http://www.updownnews.co.kr/news/articleView.html?idxno=316993",
+      "pub_date": "2026-04-22T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[여행24시] 대한항공 노사, 통합 앞두고 '한마음 페스타' 外",
+      "link": "https://dealsite.co.kr/articles/160588",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1루주자를 홈까지 돌리다니! 2안타 친 날 이게 뭔가? 이정후의 짜증과 ...",
+      "link": "https://www.sportschosun.com/baseball/2026-04-22/202604220100149790009699",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…재난문자 발송",
+      "link": "https://www.ajunews.com/view/20260422150149778",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "안호영, 12일째 단식 중 병원 이송…與 윤리감찰 갈등 격화",
+      "link": "https://www.asiatime.co.kr/article/20260422500275",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박찬대 인천시장 출마선언, \"고향 미래를 위해 쏟아붓겠다\"",
+      "link": "http://www.incheonin.com/news/articleView.html?idxno=117371",
+      "pub_date": "2026-04-22T15:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 장중 6420선까지 돌파하며 사상 최고치 경신",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525417",
+      "pub_date": "2026-04-22T15:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
+      "pub_date": "2026-04-22T15:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
+      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
+      "pub_date": "2026-04-22T15:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘언론사 단전·단수’ 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029717326&code=61121311&cp=nv",
+      "pub_date": "2026-04-22T15:00:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]美 악시오스 “트럼프, 이란에 ‘3~5일’ 추가 휴전 시한 검토…...",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525416",
+      "pub_date": "2026-04-22T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘, PPAT 커닝 현직 경남도의원 공천 배제",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042214475396165",
+      "pub_date": "2026-04-22T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, ‘언론사 단전·단수’ 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525415",
+      "pub_date": "2026-04-22T14:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -17,6 +143,15 @@
       "pub_date": "2026-04-22T14:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 6420선 돌파하며 사상 최고치 경신",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029717316&code=61141111&cp=nv",
+      "pub_date": "2026-04-22T14:58:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -49,7 +184,7 @@
     },
     {
       "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042214553803174",
+      "link": "https://www.ajunews.com/view/20260422103037325",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -67,7 +202,7 @@
     },
     {
       "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.ajunews.com/view/20260422103037325",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042214553803174",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, '내란중요임무' 이상민 2심도 징역 15년 구형",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04290246645418744",
-      "pub_date": "2026-04-22T14:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 특검, '언론사 단전·단수' 이상민 2심 징역 15년 구형",
       "link": "https://www.ytn.co.kr/_ln/0103_202604221455282015",
       "pub_date": "2026-04-22T14:55:00+09:00",
@@ -117,6 +243,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, '내란중요임무' 이상민 2심도 징역 15년 구형",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04290246645418744",
+      "pub_date": "2026-04-22T14:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "쿠팡풀필먼트서비스, 부천서 대규모 채용박람회 개최…550여 명 지원",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85938",
+      "pub_date": "2026-04-22T14:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -153,15 +297,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "쿠팡풀필먼트서비스, 부천서 대규모 채용박람회 개최…550여 명 지원",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85938",
-      "pub_date": "2026-04-22T14:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -750,20 +885,20 @@
       "is_scoop": false
     },
     {
-      "title": "[뉴스퀘어 2PM] 트럼프, 무기한 휴전 연장...백악관 '엉망진창' 우려",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604221436493163",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
       "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
       "pub_date": "2026-04-22T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스퀘어 2PM] 트럼프, 무기한 휴전 연장...백악관 '엉망진창' 우려",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604221436493163",
+      "pub_date": "2026-04-22T14:36:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -966,8 +1101,8 @@
       "is_scoop": false
     },
     {
-      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
-      "link": "http://www.breaknews.com/1202208",
+      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
+      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
       "pub_date": "2026-04-22T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -975,8 +1110,8 @@
       "is_scoop": false
     },
     {
-      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
-      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
+      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
+      "link": "http://www.breaknews.com/1202208",
       "pub_date": "2026-04-22T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1665,141 +1800,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"화물연대 차량, 경찰 밟고 지나갔다?\"…경찰청 \"사실 아냐\"",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189652",
-      "pub_date": "2026-04-22T12:51:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 2025년도 무역적자 15.9조원·68.4%↓…\"대미수출 5년 만에 감소\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601692",
-      "pub_date": "2026-04-22T12:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"최악 살인기업은 CU편의점 운영 BGF리테일…자본 이윤 추구 악덕\"",
-      "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=18993",
-      "pub_date": "2026-04-22T12:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 드디어 추신수 제쳤다! 오타니 폭풍 질주→53G 연속 출루…다저...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812094",
-      "pub_date": "2026-04-22T12:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 부산 국민의힘 신정철 시의원, 무소속 출마 선언",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225095",
-      "pub_date": "2026-04-22T12:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이정후, 日 야마모토에 2안타 '쾅쾅' 무너트렸다…5회 3루코치 '...",
-      "link": "https://www.xportsnews.com/article/2140009",
-      "pub_date": "2026-04-22T12:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
-      "link": "https://www.imaeil.com/page/view/2026042212402622718",
-      "pub_date": "2026-04-22T12:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"화물연대 차량에 경찰 깔린 적 없다\"…경찰청, 가짜뉴스에 반박",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290146.html",
-      "pub_date": "2026-04-22T12:39:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "벼랑 끝 홈플러스… 하림이 살릴까",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302906",
-      "pub_date": "2026-04-22T12:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] MBC·SBS 월드컵 못 본다 “120억 이상 못 줘”… JTBC·KBS 공동중...",
-      "link": "https://www.seoul.co.kr/news/life/2026/04/22/20260422500139?wlog_tag3=naver",
-      "pub_date": "2026-04-22T12:34:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰청 \"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
-      "link": "https://www.yna.co.kr/view/AKR20260422086800004?input=1195m",
-      "pub_date": "2026-04-22T12:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김대식 \"張, 밴스 만나려 백악관 갔으나 불발…NSC 넘버3 만나\"",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370448",
-      "pub_date": "2026-04-22T12:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU화물연대 집회현장서 '경찰 부상' 피의자에 구속영장 신청",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03850726645418744",
-      "pub_date": "2026-04-22T12:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"10년 노예처럼 부려놓고 임금은 '통장 장악'\"…전남 신안 염전주 실형",
-      "link": "https://www.nocutnews.co.kr/news/6506259?utm_source=naver&utm_medium=article&utm_campaign=20260422122439",
-      "pub_date": "2026-04-22T12:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주한미사령관, ‘전작권’ 관련 “한국 더 안전하려면 ‘정치적...",
-      "link": "https://www.dt.co.kr/article/12058847?ref=naver",
-      "pub_date": "2026-04-22T12:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
