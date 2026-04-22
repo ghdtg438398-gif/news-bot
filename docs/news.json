@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 22:20:29",
+  "updated": "2026-04-22 22:25:26",
   "total": 200,
   "items": [
     {
@@ -48,21 +48,21 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 이 대통령 \"베트남에 철도차량 1600억원 수출 협의…에너지·공급...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042221471688998",
-      "pub_date": "2026-04-22T21:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[뉴스공감] 박형준 \"이미 국비 확보한 사직 재건축…포기한다면 지역 갈...",
       "link": "https://news.cpbc.co.kr/article/1172382?division=NAVER",
       "pub_date": "2026-04-22T21:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 \"베트남에 철도차량 1600억원 수출 협의…에너지·공급...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042221471688998",
+      "pub_date": "2026-04-22T21:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -138,24 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
-      "pub_date": "2026-04-22T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
-      "pub_date": "2026-04-22T21:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
       "pub_date": "2026-04-22T21:37:00+09:00",
@@ -176,6 +158,24 @@
     {
       "title": "[속보]李 대통령 \"韓, 베트남 '2045년 선진국' 비전 실현 최적 파트너\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221215187783",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
       "pub_date": "2026-04-22T21:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
