@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 12:10:30",
+  "updated": "2026-04-22 12:15:28",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 제주도의원 비례대표 13명 확정",
+      "link": "https://www.jejumaeil.net/news/articleView.html?idxno=400188",
+      "pub_date": "2026-04-22T12:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[유통 Pick] 기업 사회공헌, 지구의 날 전후 다양한 행보",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201151",
+      "pub_date": "2026-04-22T12:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "전쟁 장기화로 중동에 ‘발목’…현대차 현지화 전략 ‘안갯속’",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298710&inflow=N",
@@ -273,20 +291,20 @@
       "is_scoop": true
     },
     {
-      "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
-      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
-      "pub_date": "2026-04-22T11:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'방미단' 김대식 \"공화당 핵심 인사들 다 만났다 … 사진 한 장에 실적 ...",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200106.html",
       "pub_date": "2026-04-22T11:34:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -381,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
-      "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
+      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
+      "link": "https://www.joongang.co.kr/article/25422281",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
-      "link": "https://www.joongang.co.kr/article/25422281",
+      "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
+      "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보] 개인 '사자'vs외인·기관 '팔자'…코스피, 연일 최고치",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220312&t=NN",
       "pub_date": "2026-04-22T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[ESG] 하이트진로, 소방서 찾아간다…'감사의 간식차' 전국 순회",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513719",
-      "pub_date": "2026-04-22T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563173",
-      "pub_date": "2026-04-22T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
