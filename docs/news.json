@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 20:05:30",
+  "updated": "2026-04-22 20:10:30",
   "total": 200,
   "items": [
     {
@@ -219,20 +219,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]與 \"당정 차원 부동산 세제 개편 구체적 논의 아직 없어\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602505",
-      "pub_date": "2026-04-22T19:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
       "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189763",
       "pub_date": "2026-04-22T19:30:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與 \"당정 차원 부동산 세제 개편 구체적 논의 아직 없어\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602505",
+      "pub_date": "2026-04-22T19:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -249,15 +249,6 @@
       "title": "[속보]당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월 시행\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219263286146",
       "pub_date": "2026-04-22T19:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
-      "pub_date": "2026-04-22T19:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -282,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.imaeil.com/page/view/2026042219252306325",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]호르무즈 생존 위기…썩은 채소 배달",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525476",
       "pub_date": "2026-04-22T19:26:00+09:00",
@@ -298,6 +280,24 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
+      "pub_date": "2026-04-22T19:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
+      "link": "https://www.imaeil.com/page/view/2026042219252306325",
+      "pub_date": "2026-04-22T19:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 당정청 \"담당 공무원 직권 위기가구 생계급여 신청, 4월중 시행\"",
@@ -309,17 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[공기업, 사람을 잇다 2] 한국부동산원, 차가운 '빈집'에 온기를… 집을...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729243",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]당정 \"차량 5부제 참여시 보험료 할인하는 특약상품 5월 출시\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602499",
+      "title": "[속보] 당정청 \"4차 석유가격제, 시장·국제유가·국민부담 고려해 결정...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218494017508",
       "pub_date": "2026-04-22T19:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +327,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"4차 석유가격제, 시장·국제유가·국민부담 고려해 결정...",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042218494017508",
+      "title": "[공기업, 사람을 잇다 2] 한국부동산원, 차가운 '빈집'에 온기를… 집을...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729243",
+      "pub_date": "2026-04-22T19:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]당정 \"차량 5부제 참여시 보험료 할인하는 특약상품 5월 출시\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602499",
       "pub_date": "2026-04-22T19:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -570,8 +570,8 @@
       "is_scoop": false
     },
     {
-      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
-      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
+      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
+      "link": "https://www.newspim.com/news/view/20260422001230",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -579,8 +579,8 @@
       "is_scoop": false
     },
     {
-      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
-      "link": "https://www.newspim.com/news/view/20260422001230",
+      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
+      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
