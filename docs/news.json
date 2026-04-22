@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 18:00:42",
+  "updated": "2026-04-22 18:05:31",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 신한라이프, 5월 '뇌·심장' 납입면제 깐깐해진다",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=550000",
+      "pub_date": "2026-04-22T18:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]LG디스플레이, 1.1조원 규모 OLED 투자 추진",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602441",
+      "pub_date": "2026-04-22T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
+      "link": "https://www.yna.co.kr/view/AKR20260422146700011?input=1195m",
+      "pub_date": "2026-04-22T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]LG디스플레이, OLED 신기술 인프라에 1.1조원 투자",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05162726645418744",
@@ -48,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
+      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
+      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
-      "link": "https://www.wikitree.co.kr/articles/1132963",
+      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
+      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
+      "link": "https://www.wikitree.co.kr/articles/1132963",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
       "link": "http://www.breaknews.com/1202313",
       "pub_date": "2026-04-22T17:30:00+09:00",
@@ -237,8 +255,26 @@
       "is_scoop": false
     },
     {
+      "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
       "link": "https://www.news2day.co.kr/article/20260422500211",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
+      "link": "http://www.breaknews.com/1202304",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -252,15 +288,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
-      "link": "http://www.breaknews.com/1202304",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -291,9 +318,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "title": "[속보] 국힘 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
       "link": "https://www.hani.co.kr/arti/society/society_general/1255392.html",
       "pub_date": "2026-04-22T17:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]주호영 ‘컷오프 효력정지 가처분’ 항고심도 기각",
+      "link": "https://www.khan.co.kr/article/202604221724001",
+      "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -314,15 +350,6 @@
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]주호영 ‘컷오프 효력정지 가처분’ 항고심도 기각",
-      "link": "https://www.khan.co.kr/article/202604221724001",
-      "pub_date": "2026-04-22T17:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1770,33 +1797,6 @@
       "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
       "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.viva100.com/article/20260422501045",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
-      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
-      "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
