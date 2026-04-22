@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 07:00:37",
-  "total": 118,
+  "updated": "2026-04-23 07:05:30",
+  "total": 123,
   "items": [
+    {
+      "title": "[속보] 로보택시 실망, 4% 급등했던 테슬라 하락 반전",
+      "link": "https://www.hankyung.com/article/2026042302797",
+      "pub_date": "2026-04-23T07:03:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김종혁 \"부산 북갑 여론조사, 박민식 비상 걸렸을 듯\"[한판승부]",
+      "link": "https://www.nocutnews.co.kr/news/6506714?utm_source=naver&utm_medium=article&utm_campaign=20260423070048",
+      "pub_date": "2026-04-23T07:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 로보택시 실망, 4% 급등했던 테슬라 하락 반전",
+      "link": "https://www.news1.kr/world/usa-canada/6145911",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]우즈·아이유, 'AAA=첫 동반 스케줄'이었다..\"주먹 인사에 힘 얻어...",
+      "link": "https://www.starnewskorea.com/music/2026/04/23/2026042114243368738",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[Who Is ?] 이석구 신세계디에프 대표이사",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436053",
+      "pub_date": "2026-04-23T07:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "조승래 \"이원택 의혹, 가장 강도 높게 윤리감찰했지만 특별한 문제 확인...",
       "link": "https://www.pressian.com/pages/articles/2026042304311761360?utm_source=naver&utm_medium=search",
@@ -75,20 +120,20 @@
       "is_scoop": false
     },
     {
-      "title": "포장재 흔들·수수료 부담…배달업계, 이중고 속 해법 찾나",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360596",
-      "pub_date": "2026-04-23T06:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
       "link": "http://www.queen.co.kr/news/articleView.html?idxno=455608",
       "pub_date": "2026-04-23T06:30:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "포장재 흔들·수수료 부담…배달업계, 이중고 속 해법 찾나",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360596",
+      "pub_date": "2026-04-23T06:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
