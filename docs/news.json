@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 19:35:28",
+  "updated": "2026-04-22 19:40:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042219371528123",
+      "pub_date": "2026-04-22T19:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 경북 기초단체장 후보 14명 확정...영주 본 경선 송명달·황...",
+      "link": "https://www.newspim.com/news/view/20260422001246",
+      "pub_date": "2026-04-22T19:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강원 전지역 산불재난 국가위기경보 '경계' 상향",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046365",
+      "pub_date": "2026-04-22T19:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이승만 “하나님이 세운 나라” 감사기도...건국혁명 12년...4.19는 ‘국...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200275.html",
+      "pub_date": "2026-04-22T19:36:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
+      "link": "https://www.kyeonggi.com/article/20260422580580",
+      "pub_date": "2026-04-22T19:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]\"4차 석유 최고가격제, 시장·유가 등 고려해 결정\"",
       "link": "https://www.nocutnews.co.kr/news/6506666?utm_source=naver&utm_medium=article&utm_campaign=20260422073342",
@@ -201,21 +246,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.dailian.co.kr/news/view/1636599/?sc=Naver",
-      "pub_date": "2026-04-22T19:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542975&ref=A",
       "pub_date": "2026-04-22T19:21:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
+      "link": "https://www.dailian.co.kr/news/view/1636599/?sc=Naver",
+      "pub_date": "2026-04-22T19:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -300,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
+      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
+      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1754,51 +1799,6 @@
       "pub_date": "2026-04-22T17:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "삼성 평택 ‘노조 vs 주주’ 초유의 맞대결’",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892907",
-      "pub_date": "2026-04-22T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://www.yna.co.kr/view/AKR20260422140800001?input=1195m",
-      "pub_date": "2026-04-22T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 전남·광주통합특별시장 후보에 이정현 단수 추천",
-      "link": "https://www.news1.kr/politics/assembly/6145617",
-      "pub_date": "2026-04-22T17:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한수원, 중소기업에 해외 수주망 직접 연결···수출구조 재편",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49210",
-      "pub_date": "2026-04-22T17:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김대식 “장동혁, 부통령 만나러 백악관 갔지만 ‘트럼프 긴급회의’로...",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255381.html",
-      "pub_date": "2026-04-22T17:02:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
