@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-22 10:55:26",
+  "updated": "2026-04-22 11:00:44",
   "total": 200,
   "items": [
+    {
+      "title": "<속보>민주당 전주시장 후보에 조지훈…8곳 결선 결과 발표",
+      "link": "https://www.seoul.co.kr/news/politics/local-election2026/2026/04/22/20260422500098?wlog_tag3=naver",
+      "pub_date": "2026-04-22T10:59:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전주 조지훈·군산 김재준·익산 최정호…민주당 단체장 후보 공...",
+      "link": "https://www.jjan.kr/article/20260422500047",
+      "pub_date": "2026-04-22T10:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[N2심층분석] 전북 임실군수 경선, 민주당은 어디로 가나…재개·감찰 확...",
+      "link": "https://www.news2day.co.kr/article/20260421500246",
+      "pub_date": "2026-04-22T10:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 합수본, ‘필리핀 마약총책’ 박왕열 구속기소",
+      "link": "https://www.mk.co.kr/article/12023816",
+      "pub_date": "2026-04-22T10:57:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 수원지검 마약 합수본, 총책 박왕열 구속기소",
+      "link": "https://www.kyeonggi.com/article/20260422580067",
+      "pub_date": "2026-04-22T10:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약합수본, 필리핀 '마약왕' 박왕열…향정 혐의 구속기소",
+      "link": "https://www.sidae.com/article/2026042210525677240",
+      "pub_date": "2026-04-22T10:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 아이에스티이, 235억원 규모 열유화 설비 공사 수주 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569455",
+      "pub_date": "2026-04-22T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "LPGA 시즌 첫 '메이저' 셰브론 챔피언십 23일 개막…총상금 100만 달러 증...",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065577521989455",
+      "pub_date": "2026-04-22T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"부통령 만나려고 백악관 갔는데\"…회동 불발 전말은?",
+      "link": "https://www.hankyung.com/article/2026042282687",
+      "pub_date": "2026-04-22T10:56:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 60대가 장례식장서 술 마시고 90㎞ 음주운전…경찰 추격전 끝에...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/22/20260422500094?wlog_tag3=naver",
+      "pub_date": "2026-04-22T10:55:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 마약합수본, ‘마약왕’ 박왕열 ‘향정 혐의’ 구속기소",
       "link": "https://www.segye.com/newsView/20260422506628?OutUrl=naver",
@@ -111,21 +201,21 @@
       "is_scoop": false
     },
     {
-      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869163",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "돈봉투 살포 의혹 관련 입장 밝히는 한득수 예비후보",
       "link": "https://www.news1.kr/photos/7869161",
       "pub_date": "2026-04-22T10:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
+      "link": "https://www.news1.kr/photos/7869163",
+      "pub_date": "2026-04-22T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -264,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
-      "link": "https://www.kpinews.kr/newsView/1065575251956002",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
+      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
+      "link": "https://www.kpinews.kr/newsView/1065575251956002",
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -354,8 +444,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
+      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +453,8 @@
       "is_scoop": false
     },
     {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
+      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,21 +480,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
-      "link": "https://www.kyeonggi.com/article/20260422580056",
-      "pub_date": "2026-04-22T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "하림그룹, 홈플러스 익스프레스 우선협상대상자로 선정",
       "link": "https://www.nocutnews.co.kr/news/6506140?utm_source=naver&utm_medium=article&utm_campaign=20260422101738",
       "pub_date": "2026-04-22T10:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
+      "link": "https://www.kyeonggi.com/article/20260422580056",
+      "pub_date": "2026-04-22T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -570,8 +660,8 @@
       "is_scoop": false
     },
     {
-      "title": "에이티즈 민기, 재계약 후 첫 단독 화보",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4613180",
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
       "pub_date": "2026-04-22T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -579,8 +669,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
+      "title": "에이티즈 민기, 재계약 후 첫 단독 화보",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4613180",
       "pub_date": "2026-04-22T10:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1710,96 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중국의 아프리카 영향력...대만 총통 출국 하루 앞두고 순방 무산",
-      "link": "https://www.newspim.com/news/view/20260422000073",
-      "pub_date": "2026-04-22T08:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장...살인 혐의",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563093",
-      "pub_date": "2026-04-22T08:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, ‘화물연대 사상 사고’ 운전자 살인 혐의로 구속영장 신...",
-      "link": "https://biz.chosun.com/topics/topics_social/2026/04/22/HP4NKBDPPNGWNOYZBVVOO5MTOQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-22T08:27:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이러다 한화로 돌아오나…'볼볼볼볼' 3⅓이닝 2실점 강판, 와이스...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812030",
-      "pub_date": "2026-04-22T08:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, 화물연대 사고 운전자 ‘살인 혐의’로 구속영장 신청",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525323",
-      "pub_date": "2026-04-22T08:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042208213763478",
-      "pub_date": "2026-04-22T08:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] \"하던 업무 빼고 다시 지원하라\"…데이원컴퍼니 인사 절차 논란",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300755",
-      "pub_date": "2026-04-22T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
-      "link": "https://biz.heraldcorp.com/article/10722636?ref=naver",
-      "pub_date": "2026-04-22T08:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "서울시, 북한산 소나무재선충병 긴급방제…'청정 전환' 8년 만에 재발",
-      "link": "https://www.nocutnews.co.kr/news/6506037?utm_source=naver&utm_medium=article&utm_campaign=20260422081937",
-      "pub_date": "2026-04-22T08:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사상' 운전자 영장…살인 혐의 적용",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290050.html",
-      "pub_date": "2026-04-22T08:20:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
