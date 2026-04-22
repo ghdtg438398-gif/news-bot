@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 19:55:27",
+  "updated": "2026-04-22 20:00:38",
   "total": 200,
   "items": [
+    {
+      "title": "허태정 대전시장 후보, 온통대전 2.0으로 민생 회복 청사진 제시",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1250662",
+      "pub_date": "2026-04-22T19:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "옆차 들어오자 알아서 원래 차도로…6월 고속도로 달릴 '무인트럭' 미리...",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189738",
+      "pub_date": "2026-04-22T19:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 야스쿠니서 ‘독도는 우리 땅’ 현수막…한국 남성 日경찰에 체...",
+      "link": "https://www.dt.co.kr/article/12059017?ref=naver",
+      "pub_date": "2026-04-22T19:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김 총리, ‘새울 3호기 시운전 중 연기’에 “철저한 원인 규명”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543075&ref=A",
+      "pub_date": "2026-04-22T19:52:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"낭트전, 최고의 팀 구성하겠다\" 선언.. PSG 감독, 'UCL 선발 0경기' 이강...",
       "link": "http://www.osen.co.kr/article/G1112786750",
@@ -21,7 +57,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"내 아내랑 바람폈냐\" 불륜 의심男 살해한 40대 남편…중형 선고",
+      "title": "[속보]\"내 아내랑 바람폈냐\" 불륜 의심男 살해한 40대…징역 15년",
       "link": "https://www.imaeil.com/page/view/2026042219424217166",
       "pub_date": "2026-04-22T19:50:00+09:00",
       "source_id": "yna",
@@ -192,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.mk.co.kr/article/12024433",
-      "pub_date": "2026-04-22T19:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 출시\"",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270897",
       "pub_date": "2026-04-22T19:26:00+09:00",
@@ -215,6 +242,15 @@
       "pub_date": "2026-04-22T19:26:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
+      "link": "https://www.mk.co.kr/article/12024433",
+      "pub_date": "2026-04-22T19:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -255,21 +291,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
-      "link": "https://www.dt.co.kr/article/12059009?ref=naver",
-      "pub_date": "2026-04-22T19:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[공기업, 사람을 잇다 2] 한국부동산원, 차가운 '빈집'에 온기를… 집을...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729243",
       "pub_date": "2026-04-22T19:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정청 “차량 5부제 참여 보험료 할인 상품 5월 중 출시”",
+      "link": "https://www.dt.co.kr/article/12059009?ref=naver",
+      "pub_date": "2026-04-22T19:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -417,8 +453,8 @@
       "is_scoop": false
     },
     {
-      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
-      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
+      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -426,8 +462,8 @@
       "is_scoop": false
     },
     {
-      "title": "[자막뉴스] \"발톱도 이도 다 빠져 있었다\" 분노…염전노예로 부리고도 ...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528524&plink=ORI&cooper=NAVER",
+      "title": "만취 손님 휴대폰 '쓱'… 수천만원 빼돌린 유흥업소 직원들 실형",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042218140418617",
       "pub_date": "2026-04-22T19:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
-      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
+      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
+      "link": "https://www.newspim.com/news/view/20260422001230",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,8 +552,8 @@
       "is_scoop": false
     },
     {
-      "title": "울산 새울원전 3호기 연기 발생…김 총리, 안전관리 강화 당부",
-      "link": "https://www.newspim.com/news/view/20260422001230",
+      "title": "“석유 최고가격제, 3월 소비자 물가 0.4~0.8%P 낮춰” [뉴스 투데이]",
+      "link": "https://www.segye.com/newsView/20260422515830?OutUrl=naver",
       "pub_date": "2026-04-22T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042217074422993",
       "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
-      "link": "https://www.mk.co.kr/article/12024198",
-      "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://www.hankyung.com/article/2026042295537",
-      "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189707",
-      "pub_date": "2026-04-22T17:09:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.joongang.co.kr/article/25422402",
-      "pub_date": "2026-04-22T17:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
