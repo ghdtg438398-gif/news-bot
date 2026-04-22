@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 17:25:34",
+  "updated": "2026-04-22 17:30:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 재보궐 공천",
+      "link": "https://biz.heraldcorp.com/article/10723387?ref=naver",
+      "pub_date": "2026-04-22T17:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 서울고법, 주호영 ‘공천 배제 효력정지 가처분’ 항고 기각",
+      "link": "https://www.hani.co.kr/arti/society/society_general/1255392.html",
+      "pub_date": "2026-04-22T17:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영 ‘컷오프 효력중지 가처분’ 항고심도 기각",
+      "link": "https://www.khan.co.kr/article/202604221724001",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.hankyung.com/article/2026042296427",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
+      "link": "https://www.hankyung.com/article/2026042296477",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "남자가수 주간 투표 김희재 압도적 1위 수성·박서진 참여 저변 압도적...",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041998",
@@ -26,6 +71,15 @@
       "pub_date": "2026-04-22T17:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"이란, 호르무즈 해역에서 화물선 2척 잇따라 공격\"",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604221722322031",
+      "pub_date": "2026-04-22T17:22:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -57,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.newspim.com/news/view/20260422001155",
+      "pub_date": "2026-04-22T17:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
       "link": "https://www.ajunews.com/view/20260422171833149",
       "pub_date": "2026-04-22T17:20:00+09:00",
@@ -75,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.ajunews.com/view/20260422171821147",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
       "link": "https://www.ajunews.com/view/20260422171921151",
       "pub_date": "2026-04-22T17:20:00+09:00",
@@ -93,12 +147,12 @@
       "is_scoop": false
     },
     {
-      "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.ajunews.com/view/20260422171821147",
       "pub_date": "2026-04-22T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -109,6 +163,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 국힘, 전북지사 후보에 양정무 단수 추천",
@@ -138,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
-      "link": "https://www.ajunews.com/view/20260422152018841",
+      "title": "[속보] 法, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366877",
       "pub_date": "2026-04-22T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 法, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366877",
+      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
+      "link": "https://www.ajunews.com/view/20260422152018841",
       "pub_date": "2026-04-22T17:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -822,8 +885,8 @@
       "is_scoop": false
     },
     {
-      "title": "염전선 노동착취, 병원선 재산 갈취… 장애인 울린 파렴치범들 철퇴",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
+      "title": "K-패션 플랫폼 글로벌 신사업 '희비'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298765&inflow=N",
       "pub_date": "2026-04-22T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -831,8 +894,8 @@
       "is_scoop": false
     },
     {
-      "title": "K-패션 플랫폼 글로벌 신사업 '희비'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298765&inflow=N",
+      "title": "염전선 노동착취, 병원선 재산 갈취… 장애인 울린 파렴치범들 철퇴",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
       "pub_date": "2026-04-22T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1734,69 +1797,6 @@
       "title": "[속보]“트럼프, ‘무기한 휴전’ 아니다…3~5일 연장 의향”",
       "link": "https://www.munhwa.com/article/11584230?ref=naver",
       "pub_date": "2026-04-22T15:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "삼성전자 노조, 평택서 첫 과반노조 ‘총파업 가시화’",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892868",
-      "pub_date": "2026-04-22T15:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 늑대 이어 이번엔 사슴 5마리 탈출…광명시 \"안전 유의\"",
-      "link": "https://www.imaeil.com/page/view/2026042215250116478",
-      "pub_date": "2026-04-22T15:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
-      "link": "https://www.pressian.com/pages/articles/2026042215253573766?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T15:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이번엔 사슴 5마리 탈출…광명시 “안전 유의”",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029717507&code=61121111&cp=nv",
-      "pub_date": "2026-04-22T15:25:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "백현, 태민 따라 지드래곤과 한솥밥? 갤럭시코퍼레이션 측 \"사실 아냐\" ...",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041859",
-      "pub_date": "2026-04-22T15:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'적반하장' 아내 내연남 흉기 살해 40대, 징역 15년",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260422506&PRO_CODE=99",
-      "pub_date": "2026-04-22T15:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]부친 살해 미수 30대 교사, 세 살배기 장애 아들 살해…1심서 징역...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042250059500000",
-      "pub_date": "2026-04-22T15:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
