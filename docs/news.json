@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 05:45:30",
-  "total": 149,
+  "updated": "2026-04-23 05:50:31",
+  "total": 147,
   "items": [
     {
       "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
@@ -66,8 +66,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
-      "link": "https://www.news1.kr/world/usa-canada/6145892",
+      "title": "4월 23일 경제 캘린더",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145888",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,21 +93,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145888",
+      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
+      "link": "https://www.news1.kr/world/usa-canada/6145892",
       "pub_date": "2026-04-23T05:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -156,15 +156,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
-      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
-      "pub_date": "2026-04-23T05:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[단독]\"故김수미 건강 악화로 '친정엄마' 중단 검토도\" vs \"그런 적 없다...",
       "link": "https://www.nocutnews.co.kr/news/6506656?utm_source=naver&utm_medium=article&utm_campaign=20260423050054",
       "pub_date": "2026-04-23T05:01:00+09:00",
@@ -174,13 +165,13 @@
       "is_scoop": true
     },
     {
-      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
-      "pub_date": "2026-04-23T05:00:00+09:00",
+      "title": "[단독]이웃간 '층간소음'은 어떻게 '스토킹' 사건으로 번졌나",
+      "link": "https://www.nocutnews.co.kr/news/6506694?utm_source=naver&utm_medium=article&utm_campaign=20260423050052",
+      "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
+      "is_scoop": true
     },
     {
       "title": "[기상속보]오늘날씨 출근길 쌀쌀 일교차 주의 남부 곳곳 비 수도권 오전...",
@@ -189,6 +180,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
+      "pub_date": "2026-04-23T05:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1323,24 +1323,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[WIS 2026] 통신 3사, 월드IT쇼에서 AX 미래 비전 공개…LLM·AIDC 등 AI 기...",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657215",
-      "pub_date": "2026-04-22T19:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"내 아내랑 바람폈냐\" 불륜 의심男 살해한 40대…징역 15년",
-      "link": "https://www.imaeil.com/page/view/2026042219424217166",
-      "pub_date": "2026-04-22T19:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
