@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 13:20:26",
+  "updated": "2026-04-22 13:25:26",
   "total": 200,
   "items": [
+    {
+      "title": "방미 논란에 김대식, \"이미지 메이킹 실패...고위 인사들은 만나\"",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103371",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "pub_date": "2026-04-22T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] DS단석 VI 터졌다…정적 괴리율 10% 찍고 장중 변동성 확대",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569500",
+      "pub_date": "2026-04-22T13:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "금융사 소비자보호 KPI ‘반쪽’…윗선만 바뀌고 현장은 더뎌",
       "link": "https://www.tfmedia.co.kr/news/article.html?no=203948",
@@ -138,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 드디어 추신수 제쳤다! 오타니 폭풍 질주→53G 연속 출루…다저...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812094",
-      "pub_date": "2026-04-22T12:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 부산 국민의힘 신정철 시의원, 무소속 출마 선언",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=225095",
       "pub_date": "2026-04-22T12:48:00+09:00",
@@ -156,9 +183,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
-      "link": "https://www.imaeil.com/page/view/2026042212402622718",
-      "pub_date": "2026-04-22T12:41:00+09:00",
+      "title": "[속보] 드디어 추신수 제쳤다! 오타니 폭풍 질주→53G 연속 출루…다저...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812094",
+      "pub_date": "2026-04-22T12:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -167,6 +194,15 @@
     {
       "title": "[속보] 이정후, 日 야마모토에 2안타 '쾅쾅' 무너트렸다…5회 3루코치 '...",
       "link": "https://www.xportsnews.com/article/2140009",
+      "pub_date": "2026-04-22T12:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
+      "link": "https://www.imaeil.com/page/view/2026042212402622718",
       "pub_date": "2026-04-22T12:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1765,42 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "“방미 논란 인정하지만 성과 있었다”…김대식 “이미지 실패가 본질 ...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03286566645418744&returntp=election",
-      "pub_date": "2026-04-22T09:53:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542433&ref=A",
-      "pub_date": "2026-04-22T09:52:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 빅텍 삼양컴텍 한일단조 퍼스텍 VI 찍고 날뛴다…전쟁주 줄줄이...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569434",
-      "pub_date": "2026-04-22T09:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] MC몽, 강호동에 산 가로수길 빌딩 152억에 매각...새 주인 노홍철",
-      "link": "http://www.fnnews.com/news/202604220817030572",
-      "pub_date": "2026-04-22T09:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
