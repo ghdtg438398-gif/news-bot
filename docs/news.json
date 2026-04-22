@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 16:35:26",
+  "updated": "2026-04-22 16:40:28",
   "total": 200,
   "items": [
+    {
+      "title": "'노동착취' 염전, '재산 갈취' 병원… 장애인 울린 파렴치범들 철퇴",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
+      "pub_date": "2026-04-22T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "K-패션 플랫폼 글로벌 신사업 '희비'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298765&inflow=N",
+      "pub_date": "2026-04-22T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 韓실소유 추정 유조선 2척…‘호르무즈 해협’ 진입 성공",
+      "link": "https://www.mk.co.kr/article/12024169",
+      "pub_date": "2026-04-22T16:37:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[경북교육 소식] 학부모 상담 1학기 마감·발명교육 실천학교 사업설명...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838649",
+      "pub_date": "2026-04-22T16:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "다원시스 계약해지로 '열차 공백'…신규발주·무궁화호 투입",
+      "link": "https://www.nocutnews.co.kr/news/6506523?utm_source=naver&utm_medium=article&utm_campaign=20260422043441",
+      "pub_date": "2026-04-22T16:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "MTNW투자자문, 투자 상담 앱으로 쉽게 '엑스텐' 출시",
       "link": "https://www.mt.co.kr/stock/2026/04/22/2026042216220855037",
@@ -147,20 +192,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이번엔 사슴 5마리 탈출...경기 광명서 수색작업 중",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046227",
-      "pub_date": "2026-04-22T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 술 취한 여성 방에 들어가 성폭행… 신체부위 촬영도 하려던 20대...",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500241?wlog_tag3=naver",
       "pub_date": "2026-04-22T16:10:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이번엔 사슴 5마리 탈출...경기 광명서 수색작업 중",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046227",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[선택! 6.3지방선거] \"인천, 전국 평균 연봉 순위 5위로\"...박찬대, 인천...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513946",
+      "title": "국힘, 與에 외통위 현안질의 요구…\"정동영 발언, 외교적 파장\"",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366824",
       "pub_date": "2026-04-22T16:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 與에 외통위 현안질의 요구…\"정동영 발언, 외교적 파장\"",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366824",
+      "title": "[선택! 6.3지방선거] \"인천, 전국 평균 연봉 순위 5위로\"...박찬대, 인천...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513946",
       "pub_date": "2026-04-22T16:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,21 +417,21 @@
       "is_scoop": false
     },
     {
-      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
-      "link": "https://www.munhwa.com/article/11584244?ref=naver",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
       "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
+      "link": "https://www.munhwa.com/article/11584244?ref=naver",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 대표 항소심에서 징역 4년 선고",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604221447485786",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형…징역 4년",
-      "link": "https://biz.heraldcorp.com/article/10723186?ref=naver",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'제2의 전성기' 김세영·김효주, 첫 메이저 정조준",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1366731",
-      "pub_date": "2026-04-22T14:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.donga.com/news/Society/article/all/20260422/133790395/1",
-      "pub_date": "2026-04-22T14:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경북 저출생 대응 '120대 과제'... 41% 추진",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150737",
-      "pub_date": "2026-04-22T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
