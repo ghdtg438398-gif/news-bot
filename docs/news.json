@@ -1,10 +1,37 @@
 {
-  "updated": "2026-04-22 19:00:41",
+  "updated": "2026-04-22 19:05:27",
   "total": 200,
   "items": [
     {
-      "title": "[속보]이 대통령-또럼 서기장, 정상회담 시작",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602484",
+      "title": "국힘 \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아파...",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545889",
+      "pub_date": "2026-04-22T19:04:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정 \"4차 석유 최고가격제, 국제유가·국민부담 종합 고려해 결...",
+      "link": "https://www.newspim.com/news/view/20260422001233",
+      "pub_date": "2026-04-22T19:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘 “정동영, 한미동맹 위기 초래”…민주 “동맹 깨뜨린 건 윤석열”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542919&ref=A",
+      "pub_date": "2026-04-22T19:02:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 울진군수 경선, 손병복 후보 최종 승리",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422020319676",
       "pub_date": "2026-04-22T18:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 울진군수 경선, 손병복 후보 최종 승리",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422020319676",
+      "title": "[속보]이 대통령-또럼 서기장, 정상회담 시작",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602484",
       "pub_date": "2026-04-22T18:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
+      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
+      "link": "http://www.breaknews.com/1202391",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
-      "link": "http://www.breaknews.com/1202391",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
+      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-22T15:57:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
-      "pub_date": "2026-04-22T15:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
-      "link": "https://www.ajunews.com/view/20260422154700916",
-      "pub_date": "2026-04-22T15:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'12일 단식' 與안호영, 병원 긴급 이송...송언석 왔는데, 정청래 안왔다",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567038&class=32&grp=",
-      "pub_date": "2026-04-22T15:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
