@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23 06:40:31",
-  "total": 123,
+  "updated": "2026-04-23 06:45:27",
+  "total": 122,
   "items": [
     {
       "title": "[속보] 평택 삼성캠퍼스 일대 집회 예고…고덕동 일부 구간 교통 통제",
@@ -26,6 +26,15 @@
       "pub_date": "2026-04-23T06:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543401&ref=A",
+      "pub_date": "2026-04-23T06:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1086,24 +1095,6 @@
       "title": "[속보]한-베트남 정상회담…'원전 개발 협력 가능성 검토' 등 12건 MOU 체...",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042220462832780",
       "pub_date": "2026-04-22T20:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한-베트남, 정상회담 계기 원전·전력·인프라 등 MOU 12건 체결",
-      "link": "https://www.news1.kr/politics/president/6145677",
-      "pub_date": "2026-04-22T20:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 \"한-베트남 교역·투자 넘어 에너지 안보·인프라 등 호혜적 협...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602531",
-      "pub_date": "2026-04-22T20:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
