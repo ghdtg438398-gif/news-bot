@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-22 10:25:29",
+  "updated": "2026-04-22 10:30:33",
   "total": 200,
   "items": [
     {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
+      "title": "[속보]檢 \"공수처 보완수사 거부\"…감사원 간부 뇌물 12억 불기소",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03486646645418744",
+      "pub_date": "2026-04-22T10:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
+      "link": "https://www.mk.co.kr/article/12023762",
+      "pub_date": "2026-04-22T10:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 조광한 “새 술은 새 부대에 담아야···이성배가 적임자”",
+      "link": "https://www.kyeonggi.com/article/20260422580050",
+      "pub_date": "2026-04-22T10:26:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화성 의약품 제조공장서 큰 불…대응 1단계 발령",
+      "link": "https://www.hankyung.com/article/2026042282777",
+      "pub_date": "2026-04-22T10:24:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -12,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
+      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -246,8 +282,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042250009000000",
+      "title": "[속보] LIG디펜스앤에어로스페이스 VI 발동, 주가 19%↑…100만원선 넘었...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569438",
       "pub_date": "2026-04-22T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] LIG디펜스앤에어로스페이스 VI 발동, 주가 19%↑…100만원선 넘었...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569438",
+      "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250009000000",
       "pub_date": "2026-04-22T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,15 +318,6 @@
       "is_scoop": false
     },
     {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
       "pub_date": "2026-04-22T10:00:00+09:00",
@@ -298,6 +325,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]코스피, 또 사상 최고치 기록한 뒤 등락 거듭 혼조",
@@ -342,6 +378,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "현직군수 민주당 경선 탈락…함평군수 3파전",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542433&ref=A",
+      "pub_date": "2026-04-22T09:52:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -480,15 +525,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] BGF, 화물연대 간 교섭 성사…'CU 화물노동자 사망' 협상 국면으...",
-      "link": "https://www.pressian.com/pages/articles/2026042209314219422?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
       "pub_date": "2026-04-22T09:34:00+09:00",
@@ -504,6 +540,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] BGF, 화물연대 간 교섭 성사…'CU 화물노동자 사망' 협상 국면으...",
+      "link": "https://www.pressian.com/pages/articles/2026042209314219422?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1752,51 +1797,6 @@
       "title": "[속보] 대구 팔공산 산불 발생… 헬기 6대 투입 진화",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563034",
       "pub_date": "2026-04-22T07:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대구 팔공산서 산불…헬기 6대 투입해 진화 중",
-      "link": "https://www.imaeil.com/page/view/2026042207180539244",
-      "pub_date": "2026-04-22T07:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 휴전 연장, 지수 선물 일제 랠리…나스닥 0.50%↑",
-      "link": "https://www.hankyung.com/article/2026042274157",
-      "pub_date": "2026-04-22T07:18:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종전협상 무산되나…이란 “트럼프 휴전연장 선언 의미 없다”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260422/133787154/1",
-      "pub_date": "2026-04-22T07:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대구 팔공산 산불 발생",
-      "link": "https://www.etoday.co.kr/news/view/2577854",
-      "pub_date": "2026-04-22T07:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 휴전 연장, 지수 선물 일제 랠리…나스닥 0.50%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6144470",
-      "pub_date": "2026-04-22T07:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
