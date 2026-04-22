@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 10:45:33",
+  "updated": "2026-04-22 10:50:29",
   "total": 200,
   "items": [
+    {
+      "title": "김대식 \"장동혁 방미, 지선만 놓고 볼 문제 아냐…NSC 넘버 3 만나\"",
+      "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=359075",
+      "pub_date": "2026-04-22T10:48:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정철원 혁신당 담양군수 후보, 교통사고 현장서 인명구조…수습 앞장",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838582",
+      "pub_date": "2026-04-22T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "‘복무 이탈 혐의’ 송민호, ‘102일간 미복무’ 재이행 가능성 높아졌...",
       "link": "https://www.mk.co.kr/article/12023797",
@@ -21,7 +39,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 필리핀 '마약왕' 박왕열 향정 혐의 구속 기소",
+      "title": "[속보] 필리핀 '마약왕' 박왕열, 향정 혐의 구속기소",
       "link": "https://www.hankookilbo.com/news/article/A2026042210360003188?did=NA",
       "pub_date": "2026-04-22T10:43:00+09:00",
       "source_id": "yna",
@@ -57,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "돈봉투 살포 의혹 관련 입장 밝히는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869161",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
       "link": "https://www.news1.kr/photos/7869163",
       "pub_date": "2026-04-22T10:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "돈봉투 살포 의혹 관련 입장 밝히는 한득수 예비후보",
+      "link": "https://www.news1.kr/photos/7869161",
+      "pub_date": "2026-04-22T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -138,7 +156,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 의약품 제조 공장서 화재…대응 1단계 발령",
+      "title": "[속보] 화성 의약품 제조 공장 화재…대응 1단계 발령",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=225080",
       "pub_date": "2026-04-22T10:34:00+09:00",
       "source_id": "yna",
@@ -255,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 마약범죄 합수본, '마약왕' 박왕열 향정 혐의 기소",
-      "link": "https://www.newspim.com/news/view/20260422000394",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 조광한 “새 술은 새 부대에 담아야···이성배가 적임자”",
       "link": "https://www.kyeonggi.com/article/20260422580050",
       "pub_date": "2026-04-22T10:26:00+09:00",
@@ -278,6 +287,15 @@
       "pub_date": "2026-04-22T10:26:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약범죄 합수본, '마약왕' 박왕열 향정 혐의 기소",
+      "link": "https://www.newspim.com/news/view/20260422000394",
+      "pub_date": "2026-04-22T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -336,7 +354,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화성 알루미늄 제조공장서 불...대응 1단계",
+      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
       "link": "https://www.kyeonggi.com/article/20260422580056",
       "pub_date": "2026-04-22T10:18:00+09:00",
       "source_id": "yna",
@@ -426,20 +444,20 @@
       "is_scoop": false
     },
     {
-      "title": "함평군, 여름철 집중호우 대비 양수기 교육·기반시설 정비",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838429",
-      "pub_date": "2026-04-22T10:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542463&ref=A",
       "pub_date": "2026-04-22T10:10:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "함평군, 여름철 집중호우 대비 양수기 교육·기반시설 정비",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838429",
+      "pub_date": "2026-04-22T10:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -543,15 +561,6 @@
       "is_scoop": false
     },
     {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
       "pub_date": "2026-04-22T10:00:00+09:00",
@@ -559,6 +568,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-22T08:17:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의",
-      "link": "https://www.sedaily.com/article/20035451?ref=naver",
-      "pub_date": "2026-04-22T08:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305854?division=NAVER",
-      "pub_date": "2026-04-22T08:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
