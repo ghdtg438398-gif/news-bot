@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 08:40:31",
+  "updated": "2026-04-23 08:45:27",
   "total": 200,
   "items": [
+    {
+      "title": "수출·투자 '쌍끌이', 중동 리스크도 비켜갔다…1분기 韓경제 성장률 1....",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217916",
+      "pub_date": "2026-04-23T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 호황에 1분기 GDP 1.7% 성장…5년 6개월 만에 최고",
+      "link": "https://www.hankyung.com/article/2026042304857",
+      "pub_date": "2026-04-23T08:41:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
       "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
@@ -9,6 +27,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]SK하이닉스 1분기 영업익 400% 넘게 폭증, 37.6조 ‘역대 최대’",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350005000000",
+      "pub_date": "2026-04-23T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -84,7 +111,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 1분기 한국 GDP 1.7% 급반등…5년 6개월 만에 최고",
+      "title": "[속보] 1분기 한국 GDP 1.7% 급반등…반도체가 악재 눌렀다",
       "link": "https://biz.heraldcorp.com/article/10723600?ref=naver",
       "pub_date": "2026-04-23T08:35:00+09:00",
       "source_id": "yna",
@@ -165,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국경제 1분기 1.7% 성장 '깜짝 반등'…5년6개월 만에 최대",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046426",
+      "title": "한국경제 1분기 성장률 1.7% 깜짝 성장…GDI 38년 만에 최고",
+      "link": "https://www.newsway.co.kr/news/view?ud=2026042308231938217",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -174,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국경제 1분기 성장률 1.7% 깜짝 성장…GDI 38년 만에 최고",
-      "link": "https://www.newsway.co.kr/news/view?ud=2026042308231938217",
+      "title": "한국경제 1분기 1.7% 성장 '깜짝 반등'…5년6개월 만에 최대",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046426",
       "pub_date": "2026-04-23T08:28:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정]금융·증권(4월23일 목요일)",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602338",
-      "pub_date": "2026-04-23T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 공공분양도 집단대출 공백…수방사 '1.4억' 중도금 비상",
-      "link": "https://www.news1.kr/realestate/general/6145595",
-      "pub_date": "2026-04-23T05:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
-      "link": "https://www.news1.kr/politics/assembly/6145839",
-      "pub_date": "2026-04-23T05:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
