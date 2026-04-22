@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 11:25:33",
+  "updated": "2026-04-22 11:30:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
+      "pub_date": "2026-04-22T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
+      "pub_date": "2026-04-22T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"김용, 전략 공천하라\" 친명계 릴레이 공천 촉구…정청래 '노코멘트'",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042210245593839",
+      "pub_date": "2026-04-22T11:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
+      "pub_date": "2026-04-22T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
+      "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
+      "link": "https://www.joongang.co.kr/article/25422281",
+      "pub_date": "2026-04-22T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "日 작년 수출 사상 최대…무역수지는 5년 연속 적자",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305919?division=NAVER",
+      "pub_date": "2026-04-22T11:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "한화오션, 美 최고 함정 설계 명가 '레이도스 깁스 앤 콕스'와 맞손…미...",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80287",
@@ -48,20 +111,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
-      "link": "https://www.hankyung.com/article/2026042284857",
-      "pub_date": "2026-04-22T11:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 더불어민주당 전북도당, 자치 단체장 경선 '최종 후보자 확정' 발...",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562425",
       "pub_date": "2026-04-22T11:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
+      "link": "https://www.hankyung.com/article/2026042284857",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -111,21 +174,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
-      "link": "https://www.kyeonggi.com/article/20260422580079",
-      "pub_date": "2026-04-22T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "日작년 수출 사상 최대 1천50조원…무역수지는 5년 연속 적자",
       "link": "https://www.yna.co.kr/view/AKR20260422072400009?input=1195m",
       "pub_date": "2026-04-22T11:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
+      "link": "https://www.kyeonggi.com/article/20260422580079",
+      "pub_date": "2026-04-22T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -165,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
-      "link": "http://www.inews24.com/view/1962389",
+      "title": "[속보]민주당 완주군수 후보 유희태 현 군수 확정",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
       "pub_date": "2026-04-22T11:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당 완주군수 후보에 유희태 현 군수 확정",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
+      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
+      "link": "http://www.inews24.com/view/1962389",
       "pub_date": "2026-04-22T11:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
-      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
       "pub_date": "2026-04-22T11:04:00+09:00",
@@ -228,18 +282,18 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225085",
-      "pub_date": "2026-04-22T11:02:00+09:00",
+      "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
+      "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
+      "pub_date": "2026-04-22T11:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당 전주시장 후보에 조지훈…우범기 현 시장 꺾어",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225084",
-      "pub_date": "2026-04-22T11:00:00+09:00",
+      "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225085",
+      "pub_date": "2026-04-22T11:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -261,6 +315,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당 전주시장 후보에 조지훈…우범기 현 시장 꺾어",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225084",
+      "pub_date": "2026-04-22T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1734,69 +1797,6 @@
       "title": "[속보] 코스피 0.90p(0.01%) 내린 6387.57(개장)",
       "link": "https://www.etoday.co.kr/news/view/2577915",
       "pub_date": "2026-04-22T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 개장 직후 6400 돌파",
-      "link": "https://www.sedaily.com/article/20035469?ref=naver",
-      "pub_date": "2026-04-22T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 개장 직후 6400 돌파…최고치 경신",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305860?division=NAVER",
-      "pub_date": "2026-04-22T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.01% 내린 6387.57…코스닥 0.19%↓",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03020886645418744",
-      "pub_date": "2026-04-22T09:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 6400 돌파",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200050.html",
-      "pub_date": "2026-04-22T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 사상 첫 6400선 돌파",
-      "link": "https://www.hankyung.com/article/2026042277576",
-      "pub_date": "2026-04-22T09:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260422035500008?input=1195m",
-      "pub_date": "2026-04-22T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.01% 내린 6387.57 출발",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601128",
-      "pub_date": "2026-04-22T09:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
