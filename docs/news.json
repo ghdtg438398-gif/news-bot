@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 16:10:32",
+  "updated": "2026-04-22 16:15:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 6400선 돌파 마감…사상 최고치",
+      "link": "https://www.mk.co.kr/article/12024102",
+      "pub_date": "2026-04-22T16:12:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이번엔 사슴 5마리 탈출...경기 광명서 수색작업 중",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046227",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 술 취한 여성 방에 들어가 성폭행… 신체부위 촬영도 하려던 20대...",
+      "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500241?wlog_tag3=naver",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'부실 복무' 송민호, 유죄 확정시 '102일 재복무' 가능성…병무청 \"소집...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812138",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'12일 단식' 민주 안호영, 병원 이송…친명 \"정청래 외면에 자괴감\"",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528373&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "북중미 월드컵, JTBC·KBS서만 시청한다...MBC·SBS와 협상 결렬",
+      "link": "https://www.newspim.com/news/view/20260422001033",
+      "pub_date": "2026-04-22T16:07:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국힘 외통위 “정동영 외교·안보 참사…긴급 현안질의 열어야”",
       "link": "https://www.donga.com/news/Politics/article/all/20260422/133791135/2",
@@ -120,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
-      "link": "https://www.ajunews.com/view/20260422154700916",
+      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
       "pub_date": "2026-04-22T15:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
+      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
+      "link": "https://www.ajunews.com/view/20260422154700916",
       "pub_date": "2026-04-22T15:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
+      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
+      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
-      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
+      "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602097",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -345,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "휘발유 ℓ당 2004원…내일 3차 석유 최고가격제 종료",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137204",
+      "title": "BNK경남은행, 대한적십자사 특별회비 2천만원 전달",
+      "link": "https://www.nocutnews.co.kr/news/6506473?utm_source=naver&utm_medium=article&utm_campaign=20260422034142",
       "pub_date": "2026-04-22T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -354,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "BNK경남은행, 대한적십자사 특별회비 2천만원 전달",
-      "link": "https://www.nocutnews.co.kr/news/6506473?utm_source=naver&utm_medium=article&utm_campaign=20260422034142",
+      "title": "휘발유 ℓ당 2004원…내일 3차 석유 최고가격제 종료",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137204",
       "pub_date": "2026-04-22T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,15 +426,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
-      "pub_date": "2026-04-22T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
       "link": "https://www.etoday.co.kr/news/view/2578116",
       "pub_date": "2026-04-22T15:40:00+09:00",
@@ -390,9 +435,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
-      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
-      "pub_date": "2026-04-22T15:39:00+09:00",
+      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
+      "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -404,6 +449,15 @@
       "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
+      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
+      "pub_date": "2026-04-22T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1743,60 +1797,6 @@
       "title": "[속보] '아리셀 참사' 박순관 대표 항소심서 징역 4년… 1심 15년에서 대...",
       "link": "https://www.hidomin.com/news/articleView.html?idxno=702433",
       "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.dailian.co.kr/news/view/1636540/?sc=Naver",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "광명 옥길동 사슴 5마리 탈출... 광명시 \"발견 시 즉시 신고\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563582",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.imaeil.com/page/view/2026042214403559536",
-      "pub_date": "2026-04-22T14:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4...",
-      "link": "https://www.mk.co.kr/article/12024000",
-      "pub_date": "2026-04-22T14:41:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031511",
-      "pub_date": "2026-04-22T14:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 징역 4년으로 감형",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422144045MqE",
-      "pub_date": "2026-04-22T14:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
