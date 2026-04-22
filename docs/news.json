@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-22 11:30:35",
+  "updated": "2026-04-22 11:35:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 진보 진영 경기도교육감 단일 후보에 안민석 예비후보 선출",
+      "link": "https://www.kyeongin.com/article/1762305",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)화재 홍범도함 '복구 불가' 판정…HD현중 손실, '최소 1조'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298695&inflow=N",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "브런슨 주한미군사령관 \"전작권 전환, 정치적 편의 앞서선 안 돼\"...무리...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237310",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'방미단' 김대식 \"공화당 핵심 인사들 다 만났다 … 사진 한 장에 실적 ...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200106.html",
+      "pub_date": "2026-04-22T11:34:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기도교육감 진보진영 단일후보에 안민석 선출",
+      "link": "https://www.kyeonggi.com/article/20260422580061",
+      "pub_date": "2026-04-22T11:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
+      "pub_date": "2026-04-22T11:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
+      "pub_date": "2026-04-22T11:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기도교육감 진보 단일 후보 선출",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03716246645418744",
+      "pub_date": "2026-04-22T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“장동혁, 방미 중 밴스 만나려 백악관 갔으나 회의로 불발” 김대식의...",
+      "link": "https://www.munhwa.com/article/11584110?ref=naver",
+      "pub_date": "2026-04-22T11:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]안민석, 경기교육감 진보 단일후보 선출",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600421",
+      "pub_date": "2026-04-22T11:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
@@ -147,15 +237,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 완전히 살아난 이정후! 야마모토 상대 적시타 작렬…김혜성은 시...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812076",
-      "pub_date": "2026-04-22T11:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[TOP이슈] '부실 복무 의혹' 송민호, 유죄 판결 시 재복무 가능…\"끝까지...",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041726",
       "pub_date": "2026-04-22T11:12:00+09:00",
@@ -171,6 +252,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 완전히 살아난 이정후! 야마모토 상대 적시타 작렬…김혜성은 시...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812076",
+      "pub_date": "2026-04-22T11:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -192,20 +282,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '전주 조지훈' 민주당 전북 9곳 단체장 후보 발표.. 임실은 제외",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64133",
-      "pub_date": "2026-04-22T11:10:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "이랜드그룹, 태풍 '실라코' 휩쓴 사이판에 3.5억 긴급 수혈… 민관 협력...",
       "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729143",
       "pub_date": "2026-04-22T11:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '전주 조지훈' 민주당 전북 9곳 단체장 후보 발표.. 임실은 제외",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64133",
+      "pub_date": "2026-04-22T11:10:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -525,21 +615,21 @@
       "is_scoop": false
     },
     {
-      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869163",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "돈봉투 살포 의혹 관련 입장 밝히는 한득수 예비후보",
       "link": "https://www.news1.kr/photos/7869161",
       "pub_date": "2026-04-22T10:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
+      "link": "https://www.news1.kr/photos/7869163",
+      "pub_date": "2026-04-22T10:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1707,96 +1797,6 @@
       "title": "[속보] 코스피 개장 직후 6400 돌파… 전날 이어 사상 최고치",
       "link": "https://www.hankookilbo.com/news/article/A2026042208570005039?did=NA",
       "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장 초반 한때 6400 돌파…또 사상 최고치 경신",
-      "link": "https://www.imaeil.com/page/view/2026042209044566246",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 혼조 출발 속 최고치 추가 경신…6401.97 터치",
-      "link": "https://www.mt.co.kr/stock/2026/04/22/2026042209050241496",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6387.57(▼0.90p, 0.01%), 원·달러 환율 1479.5(▲11.0원) 개...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189609",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
-      "link": "https://view.asiae.co.kr/article/2026042209053593906",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031447",
-      "pub_date": "2026-04-22T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.20p(0.19%) 내린 1176.83(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2577914",
-      "pub_date": "2026-04-22T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.01% 내린 6387.57 개장",
-      "link": "https://news.mtn.co.kr/news-detail/2026042209000969501",
-      "pub_date": "2026-04-22T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"6400 터치\" 코스피 횡보세로 출발 [fn개장시황]",
-      "link": "http://www.fnnews.com/news/202604220857467859",
-      "pub_date": "2026-04-22T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 0.90p(0.01%) 내린 6387.57 출발",
-      "link": "https://www.ajunews.com/view/20260422085826059",
-      "pub_date": "2026-04-22T09:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 0.90p(0.01%) 내린 6387.57(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2577915",
-      "pub_date": "2026-04-22T09:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
