@@ -1,7 +1,214 @@
 {
-  "updated": "2026-04-23 08:00:40",
-  "total": 164,
+  "updated": "2026-04-23 08:05:37",
+  "total": 187,
   "items": [
+    {
+      "title": "1분기 실질 GDP 1.7%↑…소비·투자·수출 모두 ‘증가’",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567076&class=18&grp=",
+      "pub_date": "2026-04-23T08:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "올해 1분기 GDP 1.7% 성장…반도체 수출 확대·소비도 늘어",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543534&ref=A",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘반도체의 힘’ 올 1분기 GDP 1.7%…5년 6개월만의 최고치(상보)",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02830646645419072",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 호황에 1분기 1.7% '깜짝 성장' … 5년 6개월 만에 최고",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300019.html",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 한국 GDP 1.7% 증가…수출 호조 영향",
+      "link": "https://www.hani.co.kr/arti/economy/finance/1255476.html",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% 성장…2020년 3분기 후 최고",
+      "link": "http://www.metroseoul.co.kr/article/20260423500007",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 GDP 성장률 1.7%…전망치 상회",
+      "link": "https://www.ajunews.com/view/20260423075958461",
+      "pub_date": "2026-04-23T08:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 실질 GDP 전기比 1.7% ‘성장’…전년대비 3.6%↑",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567074&class=18&grp=",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한국 경제, 5년 만의 최고 성장…1분기 GDP 성장률 1.7%",
+      "link": "https://www.sedaily.com/article/20035973?ref=naver",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 반도체 수출 증가에…한국 경제 올해 1분기 성장률 1.7%",
+      "link": "https://www.mk.co.kr/article/12024829",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7%…수출·설비투자 반등(2보)",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602704",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 GDP 1.7% 증가…반도체 호황에 ‘깜짝 성장률’",
+      "link": "https://www.chosun.com/economy/economy_general/2026/04/23/62CRTLRODRBWLIWT2LCGJLBXAQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP, 전기 대비 1.7% 성장…한은 전망치 두 배",
+      "link": "https://biz.heraldcorp.com/article/10723555?ref=naver",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "올 1분기 GDP 1.7% 성장…국내총소득은 7.5%↑",
+      "link": "https://www.dailian.co.kr/news/view/1636731/?sc=Naver",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "KS 신드롬! Korea Semiconductor? 엄지척! 월가 “삼전과 SK닉스에 가장 돈...",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230269&t=NN",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]올해 1분기 실질 GDP ‘서프라이즈’…전기比 1.7%↑",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02827366645419072",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 경제성장률 1.7% '깜짝 성장'⋯6년 만에 최대",
+      "link": "http://www.inews24.com/view/1962661",
+      "pub_date": "2026-04-23T08:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한국 경제 1분기 1.7% 성장‥반도체 호조에 시장 예상 상회",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6817373_36932.html",
+      "pub_date": "2026-04-23T08:00:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 '슈퍼 호황'에 1분기 韓 GDP 성장률 1.7%…전망치 상회",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260423075646lKd",
+      "pub_date": "2026-04-23T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 GDP, 전분기 대비 1.7% 성장⋯반도체 등 제조업 견인",
+      "link": "https://www.etoday.co.kr/news/view/2578254",
+      "pub_date": "2026-04-23T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 악재에도…1분기 韓경제 1.7% 급반등, 5년6개월만에 최고",
+      "link": "https://www.yna.co.kr/view/AKR20260423019000002?input=1195m",
+      "pub_date": "2026-04-23T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이마트, 나폴리 '다미켈레' 피자 들여왔다…국내 단독 출시",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513968",
+      "pub_date": "2026-04-23T08:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "용인시, '양지성당 김대건 신부 석상' 등 천주교 문화유산 학술대회 개...",
+      "link": "https://www.kpinews.kr/newsView/1065565976512021",
+      "pub_date": "2026-04-23T07:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "지하철 4호선 오이도역 선로 장애... 출근길 열차 운행 30분 지연",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564060",
