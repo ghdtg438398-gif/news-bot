@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 20:40:32",
+  "updated": "2026-04-22 20:45:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 한-베트남, 정상회담 계기 원전·전력·인프라 등 MOU 12건 체결",
+      "link": "https://www.news1.kr/politics/president/6145677",
+      "pub_date": "2026-04-22T20:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 \"한-베트남 교역·투자 넘어 에너지 안보·인프라 등 호혜적 협...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602531",
+      "pub_date": "2026-04-22T20:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'휴전 거부' 이란, 3차례 선박 공격...신형 미사일 과시",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604222040212287",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 \"한-베, 특별한 관계\"…또 럼 \"포괄적 전략 동반자 관계 심화...",
+      "link": "https://www.hankyung.com/article/2026042200097",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 \"지정학적 불확실성 전례없이 높아져…한·베트남 양적 성과 ...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602530",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"한국, 베트남 최대 투자국…베트남 산업발전 기여\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219565444176",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[앵커 한마디] 쿠팡 로비 창구를 만나고 온 뒤",
+      "link": "https://news.jtbc.co.kr/article/NB12295349?influxDiv=NAVER",
+      "pub_date": "2026-04-22T20:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]李 대통령 \"베트남, 아세안 경제 핵심 동력…지역발전 견인\"",
       "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219525483839",
@@ -21,8 +84,26 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]李 대통령 \"한-베트남, 상호 3대 교역파트너…양국 성장 기여\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219541340995",
+      "pub_date": "2026-04-22T20:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 한·베트남 정상회담, 111분 만에 종료…이재명 대통령, 곧 공동...",
       "link": "https://www.ajunews.com/view/20260422203547284",
+      "pub_date": "2026-04-22T20:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이재명 대통령 \"베트남, 역대 최고 수준 성장…또 럼 서기장 등 리...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219505751835",
       "pub_date": "2026-04-22T20:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,20 +183,20 @@
       "is_scoop": false
     },
     {
-      "title": "100t 1억4천만원 폴리에틸렌 2억5천만원까지 올라…실물경제는 이미 고...",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422027409550",
-      "pub_date": "2026-04-22T20:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[정치톡톡] \"장동혁, 백악관 갔는데 트럼프가 회의 소집…어떻게 만나냐...",
       "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417190",
       "pub_date": "2026-04-22T20:22:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "100t 1억4천만원 폴리에틸렌 2억5천만원까지 올라…실물경제는 이미 고...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422027409550",
+      "pub_date": "2026-04-22T20:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -156,21 +237,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'수사무마 의혹' 인플루언서 남편 구속…경찰 영장은 기각",
-      "link": "https://www.news1.kr/society/court-prosecution/6145800",
-      "pub_date": "2026-04-22T20:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "보건소 유축기도 동났다‥출생아 증가율 역대 1위",
       "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817264_37004.html",
       "pub_date": "2026-04-22T20:12:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'수사무마 의혹' 인플루언서 남편 구속…경찰 영장은 기각",
+      "link": "https://www.news1.kr/society/court-prosecution/6145800",
+      "pub_date": "2026-04-22T20:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1716,87 +1797,6 @@
       "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
       "link": "https://biz.heraldcorp.com/article/10723366?ref=naver",
       "pub_date": "2026-04-22T17:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[데스크칼럼] 韓 반도체, 다시 찾아온 포퓰리즘의 계절",
-      "link": "https://www.meconomynews.com/news/articleView.html?idxno=130265",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전북지사 후보에 양정무 단수 추천",
-      "link": "https://www.yna.co.kr/view/AKR20260422143900001?input=1195m",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]강훈식 \"내주 고유가피해지원금 차질없이 집행…추경효과 체감 만...",
-      "link": "https://www.news1.kr/politics/president/6145636",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "사상 최대 수출에도 日 5년째 적자···중동 충격에 다시 흔들리나",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401023",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘대구시장 컷오프’ 주호영 가처분 항고 기각",
-      "link": "https://www.dt.co.kr/article/12058963?ref=naver",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422024519642",
-      "pub_date": "2026-04-22T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370547",
-      "pub_date": "2026-04-22T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604221715144394",
-      "pub_date": "2026-04-22T17:15:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.joongang.co.kr/article/25422407",
-      "pub_date": "2026-04-22T17:15:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
