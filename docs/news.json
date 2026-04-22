@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 09:50:32",
+  "updated": "2026-04-22 09:55:25",
   "total": 200,
   "items": [
+    {
+      "title": "'부실복무' 송민호, 유죄 확정→'102일만 재복무'…근무지는 변경 가능...",
+      "link": "https://www.mydaily.co.kr/page/view/2026042209222571360",
+      "pub_date": "2026-04-22T09:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“방미 논란 인정하지만 성과 있었다”…김대식 “이미지 실패가 본질 ...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03286566645418744&returntp=election",
+      "pub_date": "2026-04-22T09:53:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 빅텍 삼양컴텍 한일단조 퍼스텍 VI 찍고 날뛴다…전쟁주 줄줄이...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569434",
+      "pub_date": "2026-04-22T09:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] MC몽, 강호동에 산 가로수길 빌딩 152억에 매각...새 주인 노홍철",
       "link": "http://www.fnnews.com/news/202604220817030572",
@@ -21,21 +48,21 @@
       "is_scoop": false
     },
     {
-      "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
-      "pub_date": "2026-04-22T09:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'국힘 방미단' 김대식 \"'사진 한 장'에 모든 실적 죽어…김민수에 쓴소...",
       "link": "https://www.newsis.com/view/NISX20260422_0003601261",
       "pub_date": "2026-04-22T09:46:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
+      "pub_date": "2026-04-22T09:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -183,20 +210,20 @@
       "is_scoop": true
     },
     {
-      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
       "pub_date": "2026-04-22T09:30:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -237,15 +264,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
-      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
-      "pub_date": "2026-04-22T09:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
       "link": "https://www.sidae.com/article/2026042209214486979",
       "pub_date": "2026-04-22T09:23:00+09:00",
@@ -255,9 +273,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
-      "pub_date": "2026-04-22T09:22:00+09:00",
+      "title": "[속보]코스피, 장중 6400 돌파…사상 최고치 경신",
+      "link": "https://www.donga.com/news/Economy/article/all/20260422/133787691/2",
+      "pub_date": "2026-04-22T09:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -266,6 +284,15 @@
     {
       "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
       "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
+      "pub_date": "2026-04-22T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,15 +363,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 사상 첫 6400선 돌파",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525329",
-      "pub_date": "2026-04-22T09:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 장중 6400 돌파",
       "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/22/20260422500029?wlog_tag3=naver",
       "pub_date": "2026-04-22T09:13:00+09:00",
@@ -354,8 +372,17 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "[속보]코스피, 사상 첫 6400선 돌파",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525329",
+      "pub_date": "2026-04-22T09:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -759,20 +786,20 @@
       "is_scoop": false
     },
     {
-      "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
       "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
       "pub_date": "2026-04-22T09:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-22T06:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가 상승…WTI 2.57%↑",
-      "link": "https://www.etoday.co.kr/news/view/2577847",
-      "pub_date": "2026-04-22T06:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 국회일정] (22일, 수)",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455527",
-      "pub_date": "2026-04-22T06:10:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “통일안 내라” 휴전 연장…이란 “종전 협상 불참”",
-      "link": "https://www.seoul.co.kr/news/international/2026/04/22/20260422500004?wlog_tag3=naver",
-      "pub_date": "2026-04-22T06:08:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
