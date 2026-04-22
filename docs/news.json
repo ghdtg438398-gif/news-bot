@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-22 17:20:50",
+  "updated": "2026-04-22 17:25:34",
   "total": 200,
   "items": [
+    {
+      "title": "남자가수 주간 투표 김희재 압도적 1위 수성·박서진 참여 저변 압도적...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041998",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[POP!공기업] 한수원, ʻ기업 인권실사 평가ʼ 공기업 1위 外",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119096",
+      "pub_date": "2026-04-22T17:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.sedaily.com/article/20035806?ref=naver",
+      "pub_date": "2026-04-22T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
+      "pub_date": "2026-04-22T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.mt.co.kr/society/2026/04/22/2026042217192119274",
+      "pub_date": "2026-04-22T17:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘, 전북지사 후보 양정무 단수 추천…평택시장엔 차화열",
+      "link": "https://www.sedaily.com/article/20035805?ref=naver",
+      "pub_date": "2026-04-22T17:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "https://www.ajunews.com/view/20260422171833149",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://dgmbc.com/NewsArticle/836662",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.ajunews.com/view/20260422171821147",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.ajunews.com/view/20260422171921151",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]신시아, 새 하이틴 로맨스 '담을 넘지 마시오' 주연",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812154",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보] 국힘, 전북지사 후보에 양정무 단수 추천",
       "link": "https://biz.heraldcorp.com/article/10723369?ref=naver",
@@ -93,12 +201,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422024519642",
+      "title": "사상 최대 수출에도 日 5년째 적자···중동 충격에 다시 흔들리나",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401023",
       "pub_date": "2026-04-22T17:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -111,12 +219,12 @@
       "is_scoop": false
     },
     {
-      "title": "사상 최대 수출에도 日 5년째 적자···중동 충격에 다시 흔들리나",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401023",
+      "title": "[속보] 고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기각",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422024519642",
       "pub_date": "2026-04-22T17:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -570,15 +678,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
-      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
-      "pub_date": "2026-04-22T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
       "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
       "pub_date": "2026-04-22T16:52:00+09:00",
@@ -586,6 +685,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
+      "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "'늑구 탈출' 재발 방지…기후부, 내년까지 동물원 '허가제' 도입",
@@ -714,8 +822,8 @@
       "is_scoop": false
     },
     {
-      "title": "K-패션 플랫폼 글로벌 신사업 '희비'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298765&inflow=N",
+      "title": "염전선 노동착취, 병원선 재산 갈취… 장애인 울린 파렴치범들 철퇴",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
       "pub_date": "2026-04-22T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -723,8 +831,8 @@
       "is_scoop": false
     },
     {
-      "title": "염전선 노동착취, 병원선 재산 갈취… 장애인 울린 파렴치범들 철퇴",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302929",
+      "title": "K-패션 플랫폼 글로벌 신사업 '희비'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298765&inflow=N",
       "pub_date": "2026-04-22T16:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1693,114 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "전세 품귀에 학군지 빌라로…새 학기 앞두고 목동 매매 82% 급증",
-      "link": "https://www.ajunews.com/view/20260422133654588",
-      "pub_date": "2026-04-22T15:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"노예처럼 부렸다\"…약손명가 가맹점주들, 국회서 절규",
-      "link": "https://www.nocutnews.co.kr/news/6506440?utm_source=naver&utm_medium=article&utm_campaign=20260422031741",
-      "pub_date": "2026-04-22T15:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '계엄령 놀이' 갑질 의혹 양양군 공무원 실형 불복 항소",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046216",
-      "pub_date": "2026-04-22T15:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한화오션, 레이도스 깁스 앤 콕스와 협업…미 해군함정 건조 교두보 확...",
-      "link": "https://www.nocutnews.co.kr/news/6506448?utm_source=naver&utm_medium=article&utm_campaign=20260422031640",
-      "pub_date": "2026-04-22T15:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542757&ref=A",
-      "pub_date": "2026-04-22T15:16:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "코웨이, 롯데백화점 본점에 '코웨이갤러리 팝업' 오픈",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111576",
-      "pub_date": "2026-04-22T15:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[2PM] 2차 협상장 안 나온 이란...'휴전의 시간' 누구 편?",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604221513353319",
-      "pub_date": "2026-04-22T15:13:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이상민 항소심 언론사 단전단수 징역 15년 구형 \"비판언론 봉쇄...",
-      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333955",
-      "pub_date": "2026-04-22T15:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
-      "pub_date": "2026-04-22T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
-      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
-      "pub_date": "2026-04-22T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.donga.com/news/Society/article/all/20260422/133790625/2",
-      "pub_date": "2026-04-22T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 법무부, '중재의향서' 쿠팡 측과 기한 내 협상 불발",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528229&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T15:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
