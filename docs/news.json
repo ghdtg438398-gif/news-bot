@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 22:55:25",
+  "updated": "2026-04-22 23:00:39",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]맹수석 예비후보의 '자칭 1위' 주장 이기적 보도자료 배포 논란…...",
+      "link": "https://www.pressian.com/pages/articles/2026042221513155033?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T22:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[AI상보] '5연패' 롯데, 결국 꼴찌 추락... '정수빈 맹활약' 두산은 4연승...",
       "link": "https://www.newspim.com/news/view/20260422001302",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]항고도 기각…주호영 ‘대구시장 컷오프’ 효력정지 가처분 신청...",
-      "link": "https://www.munhwa.com/article/11584283?ref=naver",
-      "pub_date": "2026-04-22T17:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
