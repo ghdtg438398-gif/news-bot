@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 20:35:27",
+  "updated": "2026-04-22 20:40:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]李 대통령 \"베트남, 아세안 경제 핵심 동력…지역발전 견인\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042219525483839",
+      "pub_date": "2026-04-22T20:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "유영하 \"이진숙 보궐, 탈당 전 결정해야…추경호 내란 유죄 확률 적어\"",
+      "link": "https://www.nocutnews.co.kr/news/6506678?utm_source=naver&utm_medium=article&utm_campaign=20260422083843",
+      "pub_date": "2026-04-22T20:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한·베트남 정상회담, 111분 만에 종료…이재명 대통령, 곧 공동...",
+      "link": "https://www.ajunews.com/view/20260422203547284",
+      "pub_date": "2026-04-22T20:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-베트남 정상회담, 110분만에 종료…곧 MOU·공동언론발표",
+      "link": "https://www.hankyung.com/article/2026042200047",
+      "pub_date": "2026-04-22T20:37:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "유산소운동, 내 몸에 맞게 하려면",
+      "link": "http://www.brainmedia.co.kr/Opinion/25337",
+      "pub_date": "2026-04-22T20:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李 \"한-베, 특별한 관계\"…또 럼 \"포괄적 전략 동반자 관계 심화...",
+      "link": "https://www.news1.kr/politics/president/6145796",
+      "pub_date": "2026-04-22T20:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 한·베트남 정상회담, 111분 만에 종료…곧 공동언론발표",
       "link": "https://www.dailian.co.kr/news/view/1636695/?sc=Naver",
@@ -1743,60 +1797,6 @@
       "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
       "link": "https://www.joongang.co.kr/article/25422407",
       "pub_date": "2026-04-22T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전남광주통합시장 국힘 후보로 이정현",
-      "link": "https://www.imaeil.com/page/view/2026042217123570504",
-      "pub_date": "2026-04-22T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]서울고법, 주호영 ‘대구시장 컷오프’ 효력정지 가처분 항고 기...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525442",
-      "pub_date": "2026-04-22T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 서울고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.dailian.co.kr/news/view/1636658/?sc=Naver",
-      "pub_date": "2026-04-22T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://www.viva100.com/article/20260422501241",
-      "pub_date": "2026-04-22T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.imaeil.com/page/view/2026042217122716615",
-      "pub_date": "2026-04-22T17:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주호영 대구시장 컷오프 효력정지 가처분, 고법서 기각",
-      "link": "https://www.news1.kr/society/general-society/6145629",
-      "pub_date": "2026-04-22T17:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
