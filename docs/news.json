@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 18:10:29",
+  "updated": "2026-04-22 18:15:31",
   "total": 200,
   "items": [
     {
@@ -21,8 +21,8 @@
       "is_scoop": false
     },
     {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
+      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
+      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +30,8 @@
       "is_scoop": false
     },
     {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
+      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
+      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
+      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
+      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"전국 누비는 응원의 한 끼\"…하이트진로, '감사의 간식차' 다시 출발",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80316",
+      "title": "\"석유 상한제, 물가 낮췄다\"…KDI, IMF에 '정면 반박'",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298800&inflow=N",
       "pub_date": "2026-04-22T17:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
-      "link": "https://www.wikitree.co.kr/articles/1132963",
+      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
+      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
+      "link": "https://www.wikitree.co.kr/articles/1132963",
       "pub_date": "2026-04-22T17:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,21 +237,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602379",
-      "pub_date": "2026-04-22T17:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[퇴근길머니] 협상 무산에도 또 사상 최고…하이닉스 '어닝 서프라이즈...",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422173227Vrw",
       "pub_date": "2026-04-22T17:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602379",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -291,24 +291,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
-      "link": "http://www.breaknews.com/1202313",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
       "pub_date": "2026-04-22T17:30:00+09:00",
@@ -327,13 +309,22 @@
       "is_scoop": false
     },
     {
-      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
-      "link": "http://www.breaknews.com/1202304",
+      "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
+      "link": "http://www.breaknews.com/1202313",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)'큰 꿈' 꾸는 박찬대…\"인천도 중앙무대서 돋보일 수 있다\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298733&inflow=N",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "국민의힘 전경원, 야간·긴급 돌봄까지 아우른 ‘빈틈없는 수성’ 돌봄...",
@@ -342,6 +333,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
+      "link": "http://www.breaknews.com/1202304",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -390,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.hankyung.com/article/2026042296427",
+      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
+      "link": "https://www.hankyung.com/article/2026042296477",
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -399,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 전북 군산·김제·부안갑 재선거 오지성 공천",
-      "link": "https://www.hankyung.com/article/2026042296477",
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.hankyung.com/article/2026042296427",
       "pub_date": "2026-04-22T17:24:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
@@ -426,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
+      "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
+      "link": "https://www.sedaily.com/article/20035806?ref=naver",
       "pub_date": "2026-04-22T17:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,8 +435,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
-      "link": "https://www.sedaily.com/article/20035806?ref=naver",
+      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
       "pub_date": "2026-04-22T17:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -480,15 +480,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]신시아, 새 하이틴 로맨스 '담을 넘지 마시오' 주연",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812154",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "안성훈·박서진·장민호, 트로트 가왕 투표 참여 열기 최상위 견인…화...",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041973",
       "pub_date": "2026-04-22T17:20:00+09:00",
@@ -496,6 +487,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]신시아, 새 하이틴 로맨스 '담을 넘지 마시오' 주연",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812154",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
