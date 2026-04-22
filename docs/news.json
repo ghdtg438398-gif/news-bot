@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 15:55:34",
+  "updated": "2026-04-22 16:00:41",
   "total": 200,
   "items": [
+    {
+      "title": "AI 전면에…통신3사, '월드IT쇼' 주도권 경쟁",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298721&inflow=N",
+      "pub_date": "2026-04-22T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박찬대, 인천시장 출마 선언… \"대한민국 이끄는 도시로\"",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225131",
+      "pub_date": "2026-04-22T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]JTBC·KBS, 북중미 월드컵 공동 중계",
+      "link": "https://magazine.hankyung.com/business/article/202604229307b",
+      "pub_date": "2026-04-22T15:57:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
+      "pub_date": "2026-04-22T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
+      "link": "https://www.ajunews.com/view/20260422154700916",
+      "pub_date": "2026-04-22T15:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'12일 단식' 與안호영, 병원 긴급 이송...송언석 왔는데, 정청래 안왔다",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567038&class=32&grp=",
+      "pub_date": "2026-04-22T15:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 삼성바이오로직스, 1분기 영업익 5808억원…전년比 35%↑",
       "link": "https://www.dailian.co.kr/news/view/1636591/?sc=Naver",
@@ -9,6 +63,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈] 화물연대 집회서 조합원 사망자 발생 일파만파…정부 \"노란봉투...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729218",
+      "pub_date": "2026-04-22T15:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -30,21 +93,21 @@
       "is_scoop": false
     },
     {
-      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
-      "link": "https://www.munhwa.com/article/11584244?ref=naver",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
       "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "가디언, “미국의 이란전쟁 비용 10년간 1조 달러 넘을 수도”",
+      "link": "https://www.munhwa.com/article/11584244?ref=naver",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -139,6 +202,15 @@
     },
     {
       "title": "회계책임자에 허위 자백 지시 윤석준 전 동구청장 1심서 집행유예",
+      "link": "https://www.nocutnews.co.kr/news/6506475?utm_source=naver&utm_medium=article&utm_campaign=20260422035841",
+      "pub_date": "2026-04-22T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "회계책임자에 허위 자백 지시 윤석준 전 동구청장 1심서 집행유예",
       "link": "https://www.nocutnews.co.kr/news/6506475?utm_source=naver&utm_medium=article&utm_campaign=20260422034540",
       "pub_date": "2026-04-22T15:46:00+09:00",
       "source_id": "yna",
@@ -183,6 +255,15 @@
       "is_scoop": false
     },
     {
+      "title": "휘발유 ℓ당 2004원…내일 3차 석유 최고가격제 종료",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137204",
+      "pub_date": "2026-04-22T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "BNK경남은행, 대한적십자사 특별회비 2천만원 전달",
       "link": "https://www.nocutnews.co.kr/news/6506473?utm_source=naver&utm_medium=article&utm_campaign=20260422034142",
       "pub_date": "2026-04-22T15:42:00+09:00",
@@ -192,12 +273,12 @@
       "is_scoop": false
     },
     {
-      "title": "휘발유 ℓ당 2004원…내일 3차 석유 최고가격제 종료",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137204",
-      "pub_date": "2026-04-22T15:42:00+09:00",
+      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578116",
+      "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -219,9 +300,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 29.46p(0.46%) 오른 6417.93(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578116",
-      "pub_date": "2026-04-22T15:40:00+09:00",
+      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
+      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
+      "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -233,15 +314,6 @@
       "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
-      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
-      "pub_date": "2026-04-22T15:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -264,6 +336,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 코스피, 6400선 돌파…사상 최고치 경신",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042215370366549",
+      "pub_date": "2026-04-22T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스닥, 2.09포인트(0.18%) 오른 1181.12 마감",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834650",
       "pub_date": "2026-04-22T15:38:00+09:00",
@@ -278,15 +359,6 @@
       "pub_date": "2026-04-22T15:38:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6400선 돌파…사상 최고치 경신",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042215370366549",
-      "pub_date": "2026-04-22T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -336,21 +408,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6,417 돌파‥하루 만에 또다시 사상 최고치 경신",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6817196_36932.html",
-      "pub_date": "2026-04-22T15:36:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "안호영 단식 12일째 응급 이송...여야 위문 속 정청래 '외면' 논란",
       "link": "https://www.mediapen.com/news/view/1094998",
       "pub_date": "2026-04-22T15:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6,417 돌파‥하루 만에 또다시 사상 최고치 경신",
+      "link": "https://imnews.imbc.com/news/2026/econo/article/6817196_36932.html",
+      "pub_date": "2026-04-22T15:36:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1728,78 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이수페타시스 VI 두 번 터졌다…\"위아래로 흔든다\" 변동성 폭발",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569524",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 그린광학, 방산 유도탄 부품 공급 계약 체결 공시…82억원 규모",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569525",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "<속보> 국민의힘 단양군수 후보, 김문근 후보 '확정'",
-      "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2412060",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[6·3 지방선거] 박찬대, 'ABC+E' 비전 내걸고 인천시장 출마 선언…\"무...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729200",
-      "pub_date": "2026-04-22T14:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘12일 단식’ 與안호영, 병원 긴급 이송...“건강 악화”",
-      "link": "https://www.mk.co.kr/article/12023984",
-      "pub_date": "2026-04-22T14:34:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]1.1조 쓸어 담은 개인…코스피, 장중 6415.77 신기록",
-      "link": "https://www.sidae.com/article/2026042214300275466",
-      "pub_date": "2026-04-22T14:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[엔터家] 프로야구 ②ㅣ '박성한 19경기 연속 안타' 신기록…1000만 관중...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569519",
-      "pub_date": "2026-04-22T14:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "9천만 원어치 학교 부품 바꿔치기한 유지보수 업체 직원 입건",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528147&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T14:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
