@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 09:55:25",
+  "updated": "2026-04-22 10:00:39",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]코스피, 또 사상 최고치 기록한 뒤 등락 거듭 혼조",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250008800000",
+      "pub_date": "2026-04-22T09:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "화물노동자 사망사고에 잇딴 집회..대규모 결의대회",
+      "link": "https://mbcgn.kr/01_new/new01_view.asp?idx=407567",
+      "pub_date": "2026-04-22T09:56:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'부실복무' 송민호, 유죄 확정→'102일만 재복무'…근무지는 변경 가능...",
       "link": "https://www.mydaily.co.kr/page/view/2026042209222571360",
@@ -174,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
+      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
+      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -381,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -426,8 +444,8 @@
       "is_scoop": false
     },
     {
-      "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600870",
+      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
+      "link": "http://www.breaknews.com/1202110",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -444,8 +462,8 @@
       "is_scoop": false
     },
     {
-      "title": "정철원 담양군수 후보, 교통사고 현장서 ‘긴박한 구호 활동’ 펼쳐",
-      "link": "http://www.breaknews.com/1202110",
+      "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600870",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보] 트럼프, 이란과 협상 합의까지 휴전 연장-BBC",
       "link": "http://www.fnnews.com/news/202604220618056162",
       "pub_date": "2026-04-22T06:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542241&ref=A",
-      "pub_date": "2026-04-22T06:18:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]트럼프 \"이란 통일된 협상안, 논의 종결때까지 휴전\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260422.99099006206",
-      "pub_date": "2026-04-22T06:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
