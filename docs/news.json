@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 01:40:29",
+  "updated": "2026-04-23 01:45:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 주한미군사령관, 전작권전환 조건 \"2029년 1분기까지 달성 목표\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423002200071?input=1195m",
+      "pub_date": "2026-04-23T01:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오피셜] \"3개월 새 두 번째 감독 교체\" 토트넘이랑 다를 게 뭐야? 첼시...",
+      "link": "https://www.mhnse.com/news/articleView.html?idxno=532306",
+      "pub_date": "2026-04-23T01:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“놀라는 女 반응촬영” 대학가 바바리맨 20대 징역",
       "link": "https://www.munhwa.com/article/11584313?ref=naver",
@@ -1782,24 +1800,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 김희애 아들, 차학연이 맡는다…'골드 디거' 합류",
-      "link": "https://www.xportsnews.com/article/2140145",
-      "pub_date": "2026-04-22T18:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "'4월 20일 마무리' 공언했지만…재심 잇따르며 민주당 경기 공천 지연",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723670",
-      "pub_date": "2026-04-22T18:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
