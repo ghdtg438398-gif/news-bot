@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 16:15:33",
+  "updated": "2026-04-22 16:20:29",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 與, 투기 걸러내 장특공 제외 고려",
+      "link": "http://www.fnnews.com/news/202604221528278217",
+      "pub_date": "2026-04-22T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "G마켓, '바다 가는 달' 기획전…국내 여행 최대 30% 할인",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513847",
+      "pub_date": "2026-04-22T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 6400선 돌파 마감…사상 최고치",
       "link": "https://www.mk.co.kr/article/12024102",
@@ -9,6 +27,15 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "학교 돌며 9천만 원어치 컴퓨터 부품 ‘바꿔치기’…업체 전 직원 입건",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542787&ref=A",
+      "pub_date": "2026-04-22T16:11:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -30,7 +57,7 @@
       "is_scoop": false
     },
     {
-      "title": "'부실 복무' 송민호, 유죄 확정시 '102일 재복무' 가능성…병무청 \"소집...",
+      "title": "'부실 복무' 송민호, 유죄 확정되면…'102일 재복무' 가능성[이슈S]",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812138",
       "pub_date": "2026-04-22T16:10:00+09:00",
       "source_id": "yna",
@@ -219,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
-      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
-      "pub_date": "2026-04-22T15:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]삼성바이오, 1분기 영업익 5808억…전년비 35%↑",
       "link": "https://www.newsis.com/view/NISX20260422_0003602097",
       "pub_date": "2026-04-22T15:53:00+09:00",
@@ -237,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
-      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
+      "title": "[속보] 삼성바이오로직스 1분기 영업익 5808억 원... 전년 대비 35% 증가",
+      "link": "https://www.hankookilbo.com/news/article/A2026042215120001416?did=NA",
       "pub_date": "2026-04-22T15:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -252,6 +270,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'밀폐 현장 사고 대응력 강화' BPA 긴급 구조 훈련",
+      "link": "https://www.nocutnews.co.kr/news/6506484?utm_source=naver&utm_medium=article&utm_campaign=20260422035240",
+      "pub_date": "2026-04-22T15:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -399,15 +426,6 @@
       "is_scoop": false
     },
     {
-      "title": "BNK경남은행, 대한적십자사 특별회비 2천만원 전달",
-      "link": "https://www.nocutnews.co.kr/news/6506473?utm_source=naver&utm_medium=article&utm_campaign=20260422034142",
-      "pub_date": "2026-04-22T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "휘발유 ℓ당 2004원…내일 3차 석유 최고가격제 종료",
       "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137204",
       "pub_date": "2026-04-22T15:42:00+09:00",
@@ -417,8 +435,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.viva100.com/article/20260422501045",
+      "title": "BNK경남은행, 대한적십자사 특별회비 2천만원 전달",
+      "link": "https://www.nocutnews.co.kr/news/6506473?utm_source=naver&utm_medium=article&utm_campaign=20260422034142",
+      "pub_date": "2026-04-22T15:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
       "pub_date": "2026-04-22T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -435,9 +462,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'23명 사망' 아리셀 대표 2심서 '징역 15→4년' 대폭 감형 왜?",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220036",
+      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
+      "link": "https://www.viva100.com/article/20260422501045",
       "pub_date": "2026-04-22T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
+      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
+      "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -449,15 +485,6 @@
       "pub_date": "2026-04-22T15:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417.93 마감…하루 만에 종가 최고치 또 경신",
-      "link": "https://news.jtbc.co.kr/article/NB12295332?influxDiv=NAVER",
-      "pub_date": "2026-04-22T15:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 2심에서 대폭 감형‥징역 4년",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6817169_36918.html",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경기 광명 옥길동 사슴 5마리 탈출…안전재난문자 발송",
-      "link": "https://www.etoday.co.kr/news/view/2578075",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '아리셀 참사' 박순관 대표 항소심서 징역 4년… 1심 15년에서 대...",
-      "link": "https://www.hidomin.com/news/articleView.html?idxno=702433",
-      "pub_date": "2026-04-22T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
