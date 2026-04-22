@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-22 23:50:30",
+  "updated": "2026-04-22 23:55:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]주한미군사령관 \"2029년 2분기까지 전작권 전환 조건 충족 계획\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602613",
+      "pub_date": "2026-04-22T23:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"36~72시간 내 이란과 2차 종전회담 가능\"",
       "link": "http://www.fnnews.com/news/202604222340138578",
@@ -1787,15 +1796,6 @@
     {
       "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
       "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
-      "pub_date": "2026-04-22T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
-      "link": "http://www.breaknews.com/1202368",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
