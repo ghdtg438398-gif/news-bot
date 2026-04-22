@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 18:35:27",
+  "updated": "2026-04-22 18:40:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] SSG 박성한, 개막 20경기 연속 안타 터졌다! 허용투수 삼성 후라...",
+      "link": "https://www.sportschosun.com/baseball/2026-04-22/202604220100151700009805",
+      "pub_date": "2026-04-22T18:38:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 김희애 아들, 차학연이 맡는다…'골드 디거' 합류",
+      "link": "https://www.xportsnews.com/article/2140145",
+      "pub_date": "2026-04-22T18:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "'4월 20일 마무리' 공언했지만…재심 잇따르며 민주당 경기 공천 지연",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723670",
@@ -93,24 +111,6 @@
       "is_scoop": false
     },
     {
-      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
-      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
-      "pub_date": "2026-04-22T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
-      "link": "http://www.breaknews.com/1202376",
-      "pub_date": "2026-04-22T18:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "진천군청소년상담복지센터, 자살·자해 예방 세미나 참가자 모집",
       "link": "http://www.breaknews.com/1202391",
       "pub_date": "2026-04-22T18:06:00+09:00",
@@ -120,8 +120,26 @@
       "is_scoop": false
     },
     {
+      "title": "화물연대 조합원 치어 숨지게 한 비조합원 '살인 혐의' 구속영장",
+      "link": "http://www.gndomin.com/news/articleView.html?idxno=473242",
+      "pub_date": "2026-04-22T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "음성군, 고유가 대응 원포인트 추경 예산안 편성·제출",
       "link": "http://www.breaknews.com/1202368",
+      "pub_date": "2026-04-22T18:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "옥천군, ‘26 집중안전점검 6월 19일까지 2개월간 실시",
+      "link": "http://www.breaknews.com/1202376",
       "pub_date": "2026-04-22T18:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[월드IT쇼 2026] AI로 현실 움직인다...혁신 기술력 총집결",
       "link": "http://www.00news.co.kr/news/articleView.html?idxno=103375",
       "pub_date": "2026-04-22T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417선 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220193",
-      "pub_date": "2026-04-22T15:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"상간남 위자료 청구 소송, 형사처벌 피하는 안전한 증거 수집이 관건\"",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49212",
-      "pub_date": "2026-04-22T15:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
