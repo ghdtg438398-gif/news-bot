@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 16:45:31",
+  "updated": "2026-04-22 16:50:31",
   "total": 200,
   "items": [
+    {
+      "title": "[6·3 지방선거] 김관영, 안호영 긴급이송에 \"고독한 몸부림 헛되지 않을...",
+      "link": "https://www.ajunews.com/view/20260422154327911",
+      "pub_date": "2026-04-22T16:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '연일 최고치 릴레이' 코스피 6,400선 돌파...6,417p 마감",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220043",
+      "pub_date": "2026-04-22T16:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘, ‘구성 핵시설’ 발언 총공세…“정동영 즉각 경질해야”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542825&ref=A",
+      "pub_date": "2026-04-22T16:46:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“트럼프, 이란 휴전 연장 무기한 아닌 3~5일 고려”",
+      "link": "https://magazine.hankyung.com/business/article/202604229447b",
+      "pub_date": "2026-04-22T16:45:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "PK서 긍정평가 과반 넘긴 이재명 대통령 '지지율'",
+      "link": "https://www.pressian.com/pages/articles/2026042212294926361?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-22T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "MTNW투자자문, 종목상담 앱 '엑스텐' 출시…개인별 맞춤상담",
+      "link": "https://www.news1.kr/finance/general-stock/6145555",
+      "pub_date": "2026-04-22T16:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “둘이 불륜했지” 아내 내연남 의심 살해한 남편 ‘징역 15년’",
       "link": "https://www.seoul.co.kr/news/society/law/2026/04/22/20260422500263?wlog_tag3=naver",
@@ -381,8 +435,8 @@
       "is_scoop": false
     },
     {
-      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
-      "link": "https://www.ajunews.com/view/20260422154700916",
+      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
       "pub_date": "2026-04-22T15:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,8 +444,8 @@
       "is_scoop": false
     },
     {
-      "title": "실려나간 안호영에 김용 공천까지...지선 앞두고 계파갈등 불씨되나",
-      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042213373363535",
+      "title": "송언석, 부동산 리스크 '정조준'…\"정책 기조 근본적 전환해야\"",
+      "link": "https://www.ajunews.com/view/20260422154700916",
       "pub_date": "2026-04-22T15:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, '언론사 단전·단수' 이상민 2심 징역 15년 구형",
-      "link": "https://www.news1.kr/society/general-society/6145257",
-      "pub_date": "2026-04-22T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'23명 사망 아리셀 화재' 대표 항소심서 징역 15년→징역 4년 감형",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04254166645418744",
-      "pub_date": "2026-04-22T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표, 항소심서 15년형에서 4년형으로...",
-      "link": "https://www.pressian.com/pages/articles/2026042214474014657?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://news.jtbc.co.kr/article/NB12295317?influxDiv=NAVER",
-      "pub_date": "2026-04-22T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '23명 사망' 아리셀 박순관 대표 항소심서 징역 4년 감형",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305985?division=NAVER",
-      "pub_date": "2026-04-22T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 현대차, 30년 '제조사 관성' 깬다…1조 SDV 승부수",
-      "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220393&t=NNv",
-      "pub_date": "2026-04-22T14:47:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
