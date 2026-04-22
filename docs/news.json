@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 09:45:29",
+  "updated": "2026-04-22 09:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] MC몽, 강호동에 산 가로수길 빌딩 152억에 매각...새 주인 노홍철",
+      "link": "http://www.fnnews.com/news/202604220817030572",
+      "pub_date": "2026-04-22T09:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "하이트진로, 7년째 이어온 소방관 지원…간식차 전국 순회",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=279055",
+      "pub_date": "2026-04-22T09:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
+      "pub_date": "2026-04-22T09:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'국힘 방미단' 김대식 \"'사진 한 장'에 모든 실적 죽어…김민수에 쓴소...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601261",
+      "pub_date": "2026-04-22T09:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 “미국 공격 재개 가능성 높아”…전면 대비 태세 강조",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525336",
+      "pub_date": "2026-04-22T09:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "김이중 在日민단 단장 | “‘민단이 여전히 거기 있다’는 사실만큼은 ...",
       "link": "http://monthly.chosun.com/client/news/viw.asp?ctcd=E&nNewsNumb=202605100031",
@@ -10,6 +55,15 @@
       "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] ‘핵무기 저장고’ 의심 북한 용덕동에 새 구조물…“전략시설...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542409&ref=A",
+      "pub_date": "2026-04-22T09:41:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "화물연대 사고 운전자 살인 혐의 구속영장…조합원 2명 포함 영장",
@@ -93,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
+      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
+      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,20 +183,20 @@
       "is_scoop": true
     },
     {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
       "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
       "pub_date": "2026-04-22T09:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -201,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
+      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
+      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,7 +282,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사상 첫 '6400선 돌파'...등락 '혼조세'",
+      "title": "[속보] 개인 '사자'vs외인·기관 '팔자'…코스피, 연일 최고치",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220312&t=NN",
       "pub_date": "2026-04-22T09:18:00+09:00",
       "source_id": "yna",
@@ -300,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
-      "link": "http://www.breaknews.com/1202082",
+      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
+      "link": "http://www.breaknews.com/1202071",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "대덕구, '물 폭탄 대비 끝' 양수기 가동 실전 훈련 실시",
-      "link": "http://www.breaknews.com/1202071",
+      "title": "성호선 충남소방본부장, 국제 행사 열리는 '태안원예치유박람회장' 점검",
+      "link": "http://www.breaknews.com/1202082",
       "pub_date": "2026-04-22T09:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -705,20 +759,20 @@
       "is_scoop": false
     },
     {
-      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
-      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
       "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
       "pub_date": "2026-04-22T09:00:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
+      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1747,60 +1801,6 @@
       "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "AI로 취약점 발견 늘자 NIST '선별 관리' 선언… 의미와 대책은 [보안 아...",
-      "link": "https://it.chosun.com/news/articleView.html?idxno=2023092160704",
-      "pub_date": "2026-04-22T06:06:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542234&ref=A",
-      "pub_date": "2026-04-22T06:04:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 스타벅스 주변으로 몰려드는 저가 커피의 '인접 출점' 전략",
-      "link": "https://www.hankyung.com/article/2026042166991",
-      "pub_date": "2026-04-22T06:02:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[SW광장] AI가 '순수 조롱'의 수단으로...삐뚤어진 관심",
-      "link": "https://www.sportsworldi.com/newsView/20260421518788",
-      "pub_date": "2026-04-22T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)멈췄던 울산 폐기물 매립장…지방선거 '5개월만'에 뒤집혀",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298402&inflow=N",
-      "pub_date": "2026-04-22T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "(단독)환경청 의견 '배제'한 울산…특혜 의혹 부인한 울산시",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298403&inflow=N",
-      "pub_date": "2026-04-22T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
