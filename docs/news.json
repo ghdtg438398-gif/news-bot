@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 05:05:33",
+  "updated": "2026-04-23 05:10:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 휴전 연장에 뉴욕 증시 사흘 만에 사상 최고치 경신",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306089?division=NAVER",
+      "pub_date": "2026-04-23T05:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
+      "link": "https://www.news1.kr/world/usa-canada/6145892",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602638",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
+      "link": "https://www.news1.kr/world/usa-canada/6145888",
+      "pub_date": "2026-04-23T05:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "김대식 \"부산 북갑 보선, 당 후보·한동훈 단일화로 승부해야\"",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569558",
+      "pub_date": "2026-04-23T05:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 휴전 연장에 미증시 랠리… 나스닥 1.64%↑",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029720140&code=61131111&cp=nv",
+      "pub_date": "2026-04-23T05:05:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시, 휴전 연장에 사흘 만에 사상 최고치 마감",
+      "link": "https://www.seoulfn.com/news/articleView.html?idxno=627190",
+      "pub_date": "2026-04-23T05:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]백악관 \"트럼프, 이란 휴전 종료 시점 정한 적 없어\"",
       "link": "http://www.fnnews.com/news/202604230500469634",
@@ -12,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
-      "link": "http://www.fnnews.com/news/202604230459228089",
+      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
+      "link": "https://www.news1.kr/world/usa-canada/6145887",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 휴전 연장, 미증시 일제 랠리…나스닥 1.64%↑",
-      "link": "https://www.news1.kr/world/usa-canada/6145887",
+      "title": "[속보][뉴욕증시] 사흘 만에 다시 사상 최고…마이크론, 8.5% 폭등",
+      "link": "http://www.fnnews.com/news/202604230459228089",
       "pub_date": "2026-04-23T05:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +165,8 @@
       "is_scoop": true
     },
     {
-      "title": "실용 외교로 안착한 한미관계, 팩트시트 성과 후 느슨해졌다 [뉴스분석...",
-      "link": "https://www.hankookilbo.com/news/article/A2026042214430005684?did=NA",
+      "title": "\"또 운전하면 구속\"… 무면허 반복한 80대, 결국 징역형 집유",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042223300662649",
       "pub_date": "2026-04-23T04:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"또 운전하면 구속\"… 무면허 반복한 80대, 결국 징역형 집유",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042223300662649",
+      "title": "실용 외교로 안착한 한미관계, 팩트시트 성과 후 느슨해졌다 [뉴스분석...",
+      "link": "https://www.hankookilbo.com/news/article/A2026042214430005684?did=NA",
       "pub_date": "2026-04-23T04:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1734,69 +1797,6 @@
       "title": "[속보] 당정청 “5부제 참여 車보험료 할인 상품 5월 출시”",
       "link": "https://biz.heraldcorp.com/article/10723440?ref=naver",
       "pub_date": "2026-04-22T19:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://www.hankyung.com/article/2026042299287",
-      "pub_date": "2026-04-22T19:12:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.joongang.co.kr/article/25422437",
-      "pub_date": "2026-04-22T19:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 “4차 석유 최고가격제, 유가·국민 부담 고려해 결정”",
-      "link": "https://www.viva100.com/article/20260422501305",
-      "pub_date": "2026-04-22T19:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정 \"중동전쟁 위기 가구에 4월 중 공무원 직권으로 생계급여 ...",
-      "link": "https://www.newspim.com/news/view/20260422001240",
-      "pub_date": "2026-04-22T19:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"4차 석유 최고가격제, 유가·국민 부담 고려해 결정\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295392?influxDiv=NAVER",
-      "pub_date": "2026-04-22T19:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "2차 협상 불발까지 냉온탕 오간 12시간…트럼프 5시간 전까지 협상 기대",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189752",
-      "pub_date": "2026-04-22T19:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 당정청 \"차량 5부제 참여 보험료 할인 상품 5월 중 출시\"",
-      "link": "https://www.yna.co.kr/view/AKR20260422158200001?input=1195m",
-      "pub_date": "2026-04-22T19:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
