@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 15:15:36",
+  "updated": "2026-04-22 15:20:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] '계엄령 놀이' 갑질 의혹 양양군 공무원 실형 불복 항소",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046216",
+      "pub_date": "2026-04-22T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"노예처럼 부렸다\"…약손명가 가맹점주들, 국회서 절규",
+      "link": "https://www.nocutnews.co.kr/news/6506440?utm_source=naver&utm_medium=article&utm_campaign=20260422031741",
+      "pub_date": "2026-04-22T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한화오션, 레이도스 깁스 앤 콕스와 협업…미 해군함정 건조 교두보 확...",
+      "link": "https://www.nocutnews.co.kr/news/6506448?utm_source=naver&utm_medium=article&utm_campaign=20260422031640",
+      "pub_date": "2026-04-22T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "코웨이, 롯데백화점 본점에 '코웨이갤러리 팝업' 오픈",
       "link": "http://www.newsdream.kr/news/articleView.html?idxno=111576",
@@ -12,7 +39,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이상민 항소심 언론사단전단수 징역 15년 구형 \"비판언론 봉쇄,...",
+      "title": "[속보] 이상민 항소심 언론사 단전단수 징역 15년 구형 \"비판언론 봉쇄...",
       "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333955",
       "pub_date": "2026-04-22T15:13:00+09:00",
       "source_id": "yna",
@@ -30,15 +57,6 @@
       "is_scoop": false
     },
     {
-      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
-      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
-      "pub_date": "2026-04-22T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
       "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
       "pub_date": "2026-04-22T15:12:00+09:00",
@@ -48,7 +66,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기 광명에서 사슴 5마리 탈출... \"안전 유의\"",
+      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
+      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
+      "pub_date": "2026-04-22T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이번엔 사슴 5마리 탈출했다... 광명시 \"안전 유의\"",
       "link": "https://www.hankookilbo.com/news/article/A2026042215040005690?did=NA",
       "pub_date": "2026-04-22T15:11:00+09:00",
       "source_id": "yna",
@@ -66,15 +93,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]'23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228837",
-      "pub_date": "2026-04-22T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 이천 고담동 주택 화재…연기 확산에 주민 창문 폐쇄 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864335",
       "pub_date": "2026-04-22T15:10:00+09:00",
@@ -84,9 +102,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
-      "pub_date": "2026-04-22T15:08:00+09:00",
+      "title": "[속보]'23명 사망' 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.ngonews.kr/news/articleView.html?idxno=228837",
+      "pub_date": "2026-04-22T15:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -95,6 +113,15 @@
     {
       "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
       "pub_date": "2026-04-22T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
+      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220035",
       "pub_date": "2026-04-22T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 내란특검, '언론사 단전·단수' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220035",
+      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
       "pub_date": "2026-04-22T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
+      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
+      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
-      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
+      "title": "[속보] '언론사 단전·단수' 이상민, 항소심서 징역 15년 구형",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270799",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -354,8 +381,8 @@
       "is_scoop": false
     },
     {
-      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
+      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
+      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1065,20 +1092,20 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
-      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
-      "pub_date": "2026-04-22T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[뉴스퀘어 2PM] 트럼프, 무기한 휴전 연장...백악관 '엉망진창' 우려",
       "link": "https://www.ytn.co.kr/_ln/0104_202604221436493163",
       "pub_date": "2026-04-22T14:36:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박찬대 국회의원, 인천시장 출마 공식화…\"인천을 세계 3대 강국 심장으...",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541126",
+      "pub_date": "2026-04-22T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1155,8 +1182,8 @@
       "is_scoop": false
     },
     {
-      "title": "[엔터家] 프로야구 ②ㅣ '박성한 19경기 연속 안타' 신기록…1000만 관중...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569519",
+      "title": "9천만 원어치 학교 부품 바꿔치기한 유지보수 업체 직원 입건",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528147&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T14:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1164,8 +1191,8 @@
       "is_scoop": false
     },
     {
-      "title": "9천만 원어치 학교 부품 바꿔치기한 유지보수 업체 직원 입건",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528147&plink=ORI&cooper=NAVER",
+      "title": "[엔터家] 프로야구 ②ㅣ '박성한 19경기 연속 안타' 신기록…1000만 관중...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569519",
       "pub_date": "2026-04-22T14:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "화물연대 조합원 사고 운전자 '살인 혐의' 영장",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260422133827V0z",
       "pub_date": "2026-04-22T13:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'화물연대 차량이 경찰 밟고 지나가' 가짜뉴스…경찰청 \"사실 아냐\"",
-      "link": "http://www.fnnews.com/news/202604221326138078",
-      "pub_date": "2026-04-22T13:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[POP!신제품] GS25, '선양 말차' 단독 출시 外",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119044",
-      "pub_date": "2026-04-22T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "물가 0.8%P 낮춘 석유 최고가격제…KDI \"진짜 위험은 배분 충격\"",
-      "link": "https://www.newspim.com/news/view/20260422000705",
-      "pub_date": "2026-04-22T13:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
