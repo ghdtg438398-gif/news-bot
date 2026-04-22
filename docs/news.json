@@ -1,14 +1,32 @@
 {
-  "updated": "2026-04-22 12:35:26",
+  "updated": "2026-04-22 12:40:27",
   "total": 200,
   "items": [
     {
-      "title": "[속보] MBC·SBS 월드컵 못 본다 “120억원 이상 못 줘”… JTBC·KBS 공동...",
+      "title": "벼랑 끝 홈플러스… 하림이 살릴까",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302906",
+      "pub_date": "2026-04-22T12:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] MBC·SBS 월드컵 못 본다 “120억 이상 못 줘”… JTBC·KBS 공동중...",
       "link": "https://www.seoul.co.kr/news/life/2026/04/22/20260422500139?wlog_tag3=naver",
       "pub_date": "2026-04-22T12:34:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰청 \"화물연대 차량, 경찰관 밟은 적 없어\" 가짜뉴스 반박",
+      "link": "https://www.yna.co.kr/view/AKR20260422086800004?input=1195m",
+      "pub_date": "2026-04-22T12:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -57,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
-      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
+      "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
+      "link": "https://www.munhwa.com/article/11584208?ref=naver",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
-      "link": "https://www.munhwa.com/article/11584208?ref=naver",
+      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
+      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
+      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
+      "link": "https://www.asiatime.co.kr/article/20260422500108",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
-      "link": "https://www.asiatime.co.kr/article/20260422500108",
+      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,20 +192,20 @@
       "is_scoop": false
     },
     {
-      "title": "기후부, 오월드 '늑구' 탈출 계기로 동물원 안전 대책 전면 강화",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03791686645418744",
-      "pub_date": "2026-04-22T12:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542595&ref=A",
       "pub_date": "2026-04-22T12:01:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "기후부, 오월드 '늑구' 탈출 계기로 동물원 안전 대책 전면 강화",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03791686645418744",
+      "pub_date": "2026-04-22T12:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 사상 최고치 6400선 경신 후 등락",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270634",
-      "pub_date": "2026-04-22T09:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
