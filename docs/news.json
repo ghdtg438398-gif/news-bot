@@ -1,7 +1,106 @@
 {
-  "updated": "2026-04-22 14:25:33",
+  "updated": "2026-04-22 14:30:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 李대통령 \"한-베트남 관계 미래지향적·전략적 발전시킬 것\"",
+      "link": "https://www.hankyung.com/article/2026042289647",
+      "pub_date": "2026-04-22T14:29:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-베, 원전·인프라 등 전략분야와 공급망 협력 고도...",
+      "link": "https://www.news1.kr/politics/president/6145265",
+      "pub_date": "2026-04-22T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[전문] 김대식 \"부산 북갑, 한동훈과 단일화까지 그리는 후보 내야\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295309?influxDiv=NAVER",
+      "pub_date": "2026-04-22T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 혁명수비대, 호르무즈 통과하는 화물선 공격…“경고 없었다...",
+      "link": "https://www.munhwa.com/article/11584216?ref=naver",
+      "pub_date": "2026-04-22T14:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-베트남 관계 미래지향적·전략적 발전시킬 것\"",
+      "link": "https://www.news1.kr/politics/president/6145262",
+      "pub_date": "2026-04-22T14:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 충주시장 후보 이동석·단양군수 후보 김문근·옥천군수 후...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601867",
+      "pub_date": "2026-04-22T14:27:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "고양소방서, 북한산 백운대서 어깨 탈골 등산객 헬기 이송",
+      "link": "http://www.breaknews.com/1202208",
+      "pub_date": "2026-04-22T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "대구시의회 의장이 건의한 \"심야약국 운영 시간 확대\" 정부 전달 예정",
+      "link": "https://www.nocutnews.co.kr/news/6506349?utm_source=naver&utm_medium=article&utm_campaign=20260422022540",
+      "pub_date": "2026-04-22T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 상승 전환…6410 첫 돌파",
+      "link": "https://www.mt.co.kr/stock/2026/04/22/2026042214234086273",
+      "pub_date": "2026-04-22T14:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 6410선 돌파…6412.70 터치",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601864",
+      "pub_date": "2026-04-22T14:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]이란 혁명수비대, 호르무즈 해협서 화물선 공격",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525395",
+      "pub_date": "2026-04-22T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "與 안호영, '12일 단식' 끝에 건강 악화로 병원 긴급이송",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1366740",
@@ -12,11 +111,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"트럼프, 이란 휴전 연장 '무기한' 아닌 '3~5일' 의향\"",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601853",
+      "title": "[속보]'단식 12일째' 안호영 의원, 단식 중단.. 병원 긴급 이송",
+      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64147",
       "pub_date": "2026-04-22T14:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -30,11 +129,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]'단식 12일째' 안호영 의원, 단식 중단.. 병원 긴급 이송",
-      "link": "http://www.jmbc.co.kr/news/view_breakingnews/64147",
+      "title": "[속보]\"트럼프, 이란 휴전 연장 '무기한' 아닌 '3~5일' 의향\"",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601853",
       "pub_date": "2026-04-22T14:22:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -57,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 단식 12일차 안호영 의원, 건강 악화로 병원 긴급 이송",
-      "link": "https://www.jjan.kr/article/20260422500293",
+      "title": "[속보]진종오, ‘한동훈 지원 조사 지시’에 “장동혁, 방미 논란에 희...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250044800000",
       "pub_date": "2026-04-22T14:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]진종오, ‘한동훈 지원 조사 지시’에 “장동혁, 방미 논란에 희...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042250044800000",
+      "title": "[속보] 단식 12일차 안호영 의원, 건강 악화로 병원 긴급 이송",
+      "link": "https://www.jjan.kr/article/20260422500293",
       "pub_date": "2026-04-22T14:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,21 +201,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘12일 단식’ 與안호영, 건강 악화로 병원 긴급 이송",
-      "link": "https://www.joongang.co.kr/article/25422314",
-      "pub_date": "2026-04-22T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“화물연대 차량이 경찰관 밟았다” 가짜뉴스 확산···경찰 “사실 아...",
       "link": "https://www.khan.co.kr/article/202604221414001",
       "pub_date": "2026-04-22T14:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘12일 단식’ 與안호영, 건강 악화로 병원 긴급 이송",
+      "link": "https://www.joongang.co.kr/article/25422314",
+      "pub_date": "2026-04-22T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -147,20 +246,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '이원택 재감찰 요구' 안호영, 단식 중 병원 이송",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290176.html",
-      "pub_date": "2026-04-22T14:09:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] ‘단식 12일차’ 안호영, 건강 악화로 병원 긴급 이송",
       "link": "https://www.segye.com/newsView/20260422510673?OutUrl=naver",
       "pub_date": "2026-04-22T14:09:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '이원택 재감찰 요구' 안호영, 단식 중 병원 이송",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290176.html",
+      "pub_date": "2026-04-22T14:09:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,15 +282,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘보완수사 못하는 검찰’ 덕 본 공무원…‘13억 뇌물 의혹’ 무...",
-      "link": "https://www.dt.co.kr/article/12058875?ref=naver",
-      "pub_date": "2026-04-22T14:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "소비자보호 중심 조직 문화 확산 추세… 거버넌스 모범관행 이행 현황 ...",
       "link": "https://sateconomy.co.kr/news/view/1065588903893783",
       "pub_date": "2026-04-22T14:06:00+09:00",
@@ -210,9 +300,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 장례식장 갔다가 대전까지 음주 90km…경찰 피해 도망친 60대",
-      "link": "https://www.imaeil.com/page/view/2026042213515491371",
-      "pub_date": "2026-04-22T14:05:00+09:00",
+      "title": "[속보] ‘보완수사 못하는 검찰’ 덕 본 공무원…‘13억 뇌물 의혹’ 무...",
+      "link": "https://www.dt.co.kr/article/12058875?ref=naver",
+      "pub_date": "2026-04-22T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -228,11 +318,29 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 장례식장 갔다가 대전까지 음주 90km…경찰 피해 도망친 60대",
+      "link": "https://www.imaeil.com/page/view/2026042213515491371",
+      "pub_date": "2026-04-22T14:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[이슈+] 너무 강해서 '출시 포기'한 괴물 AI… '미토스 쇼크'에 韓 금융...",
       "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352802",
       "pub_date": "2026-04-22T14:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“화물연대 차량이 경찰 밟고 지나갔다?”…가짜뉴스 확산에 경찰청 반...",
+      "link": "https://www.mk.co.kr/article/12023962",
+      "pub_date": "2026-04-22T14:03:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -243,15 +351,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "“화물연대 차량이 경찰 밟고 지나갔다?”…가짜뉴스 확산에 경찰청 반...",
-      "link": "https://www.mk.co.kr/article/12023962",
-      "pub_date": "2026-04-22T14:03:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -291,24 +390,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[성기노의 뉴스 피처링] 부산서 시작된 균열…지선 '접전 모드' 돌입하...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126700",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)\"이광재 하남-송영길 연수-하정우 북갑\"",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298719&inflow=N",
       "pub_date": "2026-04-22T13:56:00+09:00",
@@ -320,6 +401,24 @@
     {
       "title": "금감원, 금융권 소비자보호 거버넌스 안착",
       "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302359",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
+      "pub_date": "2026-04-22T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[성기노의 뉴스 피처링] 부산서 시작된 균열…지선 '접전 모드' 돌입하...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126700",
       "pub_date": "2026-04-22T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,15 +498,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
-      "pub_date": "2026-04-22T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[자막뉴스] \"백악관 왜 갔겠냐\" 호언장담하더니…'빈손 방미' 차관보 뒷...",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527896&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T13:46:00+09:00",
@@ -417,9 +507,9 @@
       "is_scoop": false
     },
     {
-      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
-      "pub_date": "2026-04-22T13:45:00+09:00",
+      "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601765",
+      "pub_date": "2026-04-22T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -428,6 +518,15 @@
     {
       "title": "\"화물연대 차량에 경찰이 깔렸다?\"…경찰청 \"가짜 뉴스\" 반박",
       "link": "https://www.news1.kr/society/incident-accident/6145171",
+      "pub_date": "2026-04-22T13:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
       "pub_date": "2026-04-22T13:45:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1701,105 +1800,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "박해수 무너졌다…이희준이 쥔 판세 '허수아비' 뒤집혔다",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613320",
-      "pub_date": "2026-04-22T10:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 필리핀 '마약왕' 박왕열, 향정 혐의 구속기소",
-      "link": "https://www.hankookilbo.com/news/article/A2026042210360003188?did=NA",
-      "pub_date": "2026-04-22T10:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 단돈 1만원에 산 '음란물' 링크, 1심·2심도 모자라 헌법재판소까...",
-      "link": "https://lawtalknews.co.kr/article/FQ872HKO0Q2F",
-      "pub_date": "2026-04-22T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "혁명수비대가 막아버린 권력...이란 내부는 이미 쿠데타? [지금이뉴스]",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604221042190893",
-      "pub_date": "2026-04-22T10:42:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돈봉투 살포 의혹 관련 입장 밝히는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869161",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "돈봉투 살포 의혹 관련 긴급 기자회견하는 한득수 예비후보",
-      "link": "https://www.news1.kr/photos/7869163",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 중국산 장악한 국내 전기차 시장…작년 점유율 33.9%로, 3대 중 1대",
-      "link": "https://www.dt.co.kr/article/12058816?ref=naver",
-      "pub_date": "2026-04-22T10:41:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "MBC·SBS 월드컵 중계 이탈? JTBC·KBS, 북중미 월드컵 공동중계 [지금이...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604221040187271",
-      "pub_date": "2026-04-22T10:40:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'타율 0.486·WAR 1위' 박성한, 침묵한 SSG 중심타선 속 고군분투",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041696",
-      "pub_date": "2026-04-22T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 합수본, '필리핀 마약총책' 박왕열 구속기소",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422103734zO7",
-      "pub_date": "2026-04-22T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경북교육청, 위기 가정 ‘긴급 상담’ 전면 강화",
-      "link": "https://www.news2day.co.kr/article/20260422500071",
-      "pub_date": "2026-04-22T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
