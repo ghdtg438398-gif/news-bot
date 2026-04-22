@@ -1,9 +1,54 @@
 {
-  "updated": "2026-04-22 09:30:34",
+  "updated": "2026-04-22 09:35:26",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파",
+      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
+      "pub_date": "2026-04-22T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
+      "pub_date": "2026-04-22T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 첫 장중 6400선 돌파 후 약보합",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=718122",
+      "pub_date": "2026-04-22T09:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 소녀시대 유닛 '효리수', 유재석 만난다…효연·유리·수영 '유퀴...",
+      "link": "https://www.news1.kr/entertain/broadcast-tv/6144695",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 사상 최고치 6400선 경신 후 등락",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270634",
       "pub_date": "2026-04-22T09:29:00+09:00",
       "source_id": "yna",
@@ -57,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
+      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
+      "title": "[속보] 미·이란 협상 불발에 … 원·달러 환율, 11.0원 오른 1479.5원 개...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200059.html",
       "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645418744",
+      "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
+      "link": "https://www.sidae.com/article/2026042209105153909",
       "pub_date": "2026-04-22T09:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 2.20포인트(0.19%) 내린 1176.83 출발",
-      "link": "https://www.sidae.com/article/2026042209105153909",
+      "title": "[속보]코스피, 장중 사상 첫 6400선 돌파",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03063526645418744",
       "pub_date": "2026-04-22T09:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,7 +246,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 장중 6,400 돌파‥장중 사상 최고치 경신했다 다소 하락",
+      "title": "[속보] 코스피 장중 6,400 넘으며 또 최고치 경신‥환율 11원 올라",
       "link": "https://imnews.imbc.com/news/2026/econo/article/6817093_36932.html",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "mbc",
@@ -210,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6401.97로 장중 사상 최고치 다시 경신",
-      "link": "https://www.etoday.co.kr/news/view/2577919",
+      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
+      "link": "https://www.sidae.com/article/2026042209085614994",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 0.90포인트(0.01%) 내린 6387.57 출발",
-      "link": "https://www.sidae.com/article/2026042209085614994",
+      "title": "[속보] 코스피, 6401.97로 장중 사상 최고치 다시 경신",
+      "link": "https://www.etoday.co.kr/news/view/2577919",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
       "title": "[속보] 트럼프 \"이란 정부, 심각한 분열…파키스탄 요청 따라 휴전 연장...",
       "link": "https://www.hankookilbo.com/news/article/A2026042205260004695?did=NA",
       "pub_date": "2026-04-22T05:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장”",
-      "link": "https://biz.heraldcorp.com/article/10722570?ref=naver",
-      "pub_date": "2026-04-22T05:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “이란, 22일 2차 종전 협상 불참 최종 확정”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542228&ref=A",
-      "pub_date": "2026-04-22T05:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미·이란 '이슬라마바드 담판' 좌초… 호르무즈 봉쇄에 유가 배럴당 98달...",
-      "link": "https://www.g-enews.com/view.php?ud=2026042205225540572bd56fbc3c_1",
-      "pub_date": "2026-04-22T05:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프, 이란 휴전 전격 연장…\"정부 심각하게 분열돼 있다\"",
-      "link": "https://news.mtn.co.kr/news-detail/2026042205290472437",
-      "pub_date": "2026-04-22T05:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"이란 정부 분열 심각…통일된 제안 낼 때까지 휴전 연장...",
-      "link": "https://www.sidae.com/article/2026042205301456205",
-      "pub_date": "2026-04-22T05:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
