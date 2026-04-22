@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 11:00:44",
+  "updated": "2026-04-22 11:05:27",
   "total": 200,
   "items": [
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225085",
+      "pub_date": "2026-04-22T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당 전주시장 후보에 조지훈…우범기 현 시장 꺾어",
+      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225084",
+      "pub_date": "2026-04-22T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한화오션, 美 함정 설계 '빅플레이어' 깁스앤콕스와 협력...북미 해양 방...",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201127",
+      "pub_date": "2026-04-22T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“장동혁, 방미 중 밴스 부통령 만나려 백악관 갔으나 회의로 불발”",
+      "link": "https://www.wikitree.co.kr/articles/1132836",
+      "pub_date": "2026-04-22T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "<속보>민주당 전주시장 후보에 조지훈…8곳 결선 결과 발표",
       "link": "https://www.seoul.co.kr/news/politics/local-election2026/2026/04/22/20260422500098?wlog_tag3=naver",
@@ -75,7 +120,7 @@
       "is_scoop": false
     },
     {
-      "title": "\"부통령 만나려고 백악관 갔는데\"…회동 불발 전말은?",
+      "title": "\"장동혁, 부통령 만나려고 백악관 갔는데\"…회동 불발 전말은?",
       "link": "https://www.hankyung.com/article/2026042282687",
       "pub_date": "2026-04-22T10:56:00+09:00",
       "source_id": "hankyung",
@@ -354,8 +399,8 @@
       "is_scoop": false
     },
     {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
+      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
+      "link": "https://www.kpinews.kr/newsView/1065575251956002",
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -363,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "하이트진로, 전국 소방서에 '감사의 간식차' 운영",
-      "link": "https://www.kpinews.kr/newsView/1065575251956002",
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1754,51 +1799,6 @@
       "pub_date": "2026-04-22T08:34:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "살인 혐의로 변경…화물연대 조합원 차로 친 40대 영장",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527503&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T08:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]화물연대 조합원 사상 비조합원 운전자, 살인 혐의로 구속영장",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260422.99099006216",
-      "pub_date": "2026-04-22T08:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
-      "link": "https://www.khan.co.kr/article/202604220832001",
-      "pub_date": "2026-04-22T08:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
-      "pub_date": "2026-04-22T08:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'KIA 상대 2이닝 퍼펙트' 이게 국대 투수의 힘인가…\"지금 좋은 것 같아...",
-      "link": "https://www.xportsnews.com/article/2139880",
-      "pub_date": "2026-04-22T08:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
