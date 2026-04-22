@@ -1,7 +1,115 @@
 {
-  "updated": "2026-04-22 09:00:40",
+  "updated": "2026-04-22 09:05:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 코스피, 개장 직후 6400 돌파",
+      "link": "https://www.sedaily.com/article/20035469?ref=naver",
+      "pub_date": "2026-04-22T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 개장 직후 6400 돌파…최고치 경신",
+      "link": "https://biz.sbs.co.kr/article_hub/20000305860?division=NAVER",
+      "pub_date": "2026-04-22T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.01% 내린 6387.57…코스닥 0.19%↓",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03020886645418744",
+      "pub_date": "2026-04-22T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 6400 돌파",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/22/2026042200050.html",
+      "pub_date": "2026-04-22T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 사상 첫 6400선 돌파",
+      "link": "https://www.hankyung.com/article/2026042277576",
+      "pub_date": "2026-04-22T09:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장 초반 상승해 또 사상 최고치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260422035500008?input=1195m",
+      "pub_date": "2026-04-22T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.01% 내린 6387.57 출발",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601128",
+      "pub_date": "2026-04-22T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 11원 오른 1479.5원 출발",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601126",
+      "pub_date": "2026-04-22T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대 집회 차량 돌진 사상자 낸 40대 비조합원 영장 신청",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046171",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"AI가 껴안게 해주던데?\" 여직원 사진으로 주말 내내 한 짓 [스프]",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008526018&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "진주CU물류센터 3명 사상 사고 낸 화물 기사 살인 혐의 영장 신청",
+      "link": "https://www.nocutnews.co.kr/news/6506053?utm_source=naver&utm_medium=article&utm_campaign=20260422085938",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(초안) 김대식 국민의힘 의원 (당대표 특보) 인터뷰",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108481&s_mcd=0214&s_hcd=01",
+      "pub_date": "2026-04-22T09:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "진교동찜닭, 1400만 유튜버 햄지 협업 신메뉴 배민 단독 선보여 \"저당 트...",
       "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49142",
@@ -93,7 +201,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대 조합원 차로 친 40대 영장...살인 혐의 적용",
+      "title": "[속보] 화물연대 조합원 차로 친 40대 비조합원 영장...살인 혐의 적용",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604220019",
       "pub_date": "2026-04-22T08:44:00+09:00",
       "source_id": "yna",
@@ -120,21 +228,21 @@
       "is_scoop": false
     },
     {
-      "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
-      "pub_date": "2026-04-22T08:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "북한산서 소나무재선충병 8년 만에 발생…서울시 긴급 방제 나서",
       "link": "https://www.wikitree.co.kr/articles/1132777",
       "pub_date": "2026-04-22T08:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'단순 사고' 아닌 '살인 혐의'…경찰, 화물연대 집회 차량 충돌 운전자...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217825",
+      "pub_date": "2026-04-22T08:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -192,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
+      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
+      "link": "https://www.khan.co.kr/article/202604220832001",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]경찰, CU 화물연대 사망 사고 탑차 운전자 구속영장 신청···‘살...",
-      "link": "https://www.khan.co.kr/article/202604220832001",
+      "title": "[속보] 경찰, 화물연대 조합원 사상 사고 40대 운전자 살인 혐의 적용",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042208252821432",
       "pub_date": "2026-04-22T08:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,21 +327,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장...살인 혐의",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563093",
-      "pub_date": "2026-04-22T08:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중국의 아프리카 영향력...대만 총통 출국 하루 앞두고 순방 무산",
       "link": "https://www.newspim.com/news/view/20260422000073",
       "pub_date": "2026-04-22T08:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장...살인 혐의",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563093",
+      "pub_date": "2026-04-22T08:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -273,6 +381,15 @@
       "is_scoop": false
     },
     {
+      "title": "[단독] \"하던 업무 빼고 다시 지원하라\"…데이원컴퍼니 인사 절차 논란",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300755",
+      "pub_date": "2026-04-22T08:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "[속보] ‘화물연대 조합원 사상’ 비조합원 운전자 영장…살인 혐의 적...",
       "link": "https://biz.heraldcorp.com/article/10722636?ref=naver",
       "pub_date": "2026-04-22T08:22:00+09:00",
@@ -282,13 +399,13 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] \"하던 업무 빼고 다시 지원하라\"…데이원컴퍼니 인사 절차 논란",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300755",
-      "pub_date": "2026-04-22T08:22:00+09:00",
+      "title": "서울시, 북한산 소나무재선충병 긴급방제…'청정 전환' 8년 만에 재발",
+      "link": "https://www.nocutnews.co.kr/news/6506037?utm_source=naver&utm_medium=article&utm_campaign=20260422081937",
+      "pub_date": "2026-04-22T08:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] '화물연대 조합원 사상' 운전자 영장…살인 혐의 적용",
@@ -302,15 +419,6 @@
     {
       "title": "[속보] '화물연대 조합원 사상' 비조합원 운전자 영장…살인 혐의 적용",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031440",
-      "pub_date": "2026-04-22T08:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "서울시, 북한산 소나무재선충병 긴급방제…'청정 전환' 8년 만에 재발",
-      "link": "https://www.nocutnews.co.kr/news/6506037?utm_source=naver&utm_medium=article&utm_campaign=20260422081937",
       "pub_date": "2026-04-22T08:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1692,114 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'우승 없이 상금·대상·평균타수 1위' 전예성, 시즌 첫승 재도전 [KLPGA ...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019917",
-      "pub_date": "2026-04-22T03:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "3월 美 소매판매 전월비 1.7% 증가…2월에 이어 '소비 견조'",
-      "link": "https://biz.sbs.co.kr/article_hub/20000305804?division=NAVER",
-      "pub_date": "2026-04-22T03:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 22일 재물운 및 금전운 운세 (띠별)",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569275",
-      "pub_date": "2026-04-22T02:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'조규성 동료' 19세 MF, 새벽에 흉기에 찔려 생명 위기…긴급 이송→인...",
-      "link": "https://www.xportsnews.com/article/2139724",
-      "pub_date": "2026-04-22T02:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 밴스 미 부통령, 2차 협상 위해 아직 출국 안 해\" <로이터>",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422011814gzT",
-      "pub_date": "2026-04-22T01:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 밴스 부통령, 회담 위해 이란으로 떠나지 않아",
-      "link": "http://www.fnnews.com/news/202604220112267398",
-      "pub_date": "2026-04-22T01:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“오전 8시(한국시간) 휴전 종료, 이란 답변 아직”…벤스 출국도...",
-      "link": "https://www.munhwa.com/article/11583986?ref=naver",
-      "pub_date": "2026-04-22T01:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "프로야구 LG, 한화 꺾고 단독 2위…KT는 KIA 누르고 단독 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008527251&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-22T01:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[6·3 지방선거 동향] 담양군수 선거전… 박종원 '예산 1조' 공약, 정철...",
-      "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=422949",
-      "pub_date": "2026-04-22T01:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"밴스, 파키스탄 출국 불투명…백악관 회의 참석 예정\"-CNN",
-      "link": "https://www.newsis.com/view/NISX20260422_0003600886",
-      "pub_date": "2026-04-22T00:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "에이브, 해킹 여파로 26% 폭락...디파이 생태계 붕괴 도미노 경고",
-      "link": "http://coinreaders.com/232010",
-      "pub_date": "2026-04-22T00:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]파키스탄 \"오전 8시50분(한국시간) 휴전 종료…이란 답변 아직\"",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600880",
-      "pub_date": "2026-04-22T00:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
