@@ -1,10 +1,55 @@
 {
-  "updated": "2026-04-22 21:35:28",
+  "updated": "2026-04-22 21:40:37",
   "total": 200,
   "items": [
     {
-      "title": "정옥임 \"주호영 다음 행보에 주목해야\"...배종찬 \"이진숙 설득, 장동혁 ...",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108498&s_mcd=0263&s_hcd=01",
+      "title": "[속보]李대통령 \"한-베트남, '사돈의 나라'…양국 국민 권익 증진 협력...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221313275090",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"한-베트남, 2030년까지 교역 221조 목표 발전\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221240524893",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 \"韓, 베트남 '2045년 선진국' 비전 실현 최적 파트너\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221215187783",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"역내 평화·안정 증진…베트남, 한반도 평화공존 기여...",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221334765829",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 \"에너지 공급 협력…호치민 도시철도에 韓 철도 수출\"",
+      "link": "https://www.mt.co.kr/politics/2026/04/22/2026042221284424828",
+      "pub_date": "2026-04-22T21:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "서정욱 \"주호영 항고심 기각? 이젠 포기한다고 봐야...가장 문제는 고집...",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108497&s_mcd=0263&s_hcd=01",
       "pub_date": "2026-04-22T21:30:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
@@ -12,8 +57,8 @@
       "is_scoop": false
     },
     {
-      "title": "서정욱 \"주호영 항고심 기각? 이젠 포기한다고 봐야...가장 문제는 고집...",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108497&s_mcd=0263&s_hcd=01",
+      "title": "정옥임 \"주호영 다음 행보에 주목해야\"...배종찬 \"이진숙 설득, 장동혁 ...",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108498&s_mcd=0263&s_hcd=01",
       "pub_date": "2026-04-22T21:30:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
@@ -57,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한·베트남 열처리가금육 상호 수출에 합의",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06130326645418744",
+      "title": "[속보]한·베트남, 에너지안보강화·공급망 안정에 긴밀히 협력키로",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06133606645418744",
       "pub_date": "2026-04-22T21:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]한·베트남, 에너지안보강화·공급망 안정에 긴밀히 협력키로",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06133606645418744",
+      "title": "[속보]한·베트남 열처리가금육 상호 수출에 합의",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06130326645418744",
       "pub_date": "2026-04-22T21:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
+      "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602542",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,18 +147,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602542",
+      "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602544",
       "pub_date": "2026-04-22T21:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]李 \"한-베트남 2030년 교역규모 1500억달러로…교역·투자 호혜적...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602539",
-      "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -122,6 +158,15 @@
     {
       "title": "[속보] 李대통령 \"한-베트남 '포괄적 전략 동반자' 협력 공고화\"",
       "link": "https://www.news1.kr/politics/president/6145678",
+      "pub_date": "2026-04-22T21:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 李대통령 \"한-베트남 2030년 교역액 1500억 달러 달성 목표\"",
+      "link": "https://www.news1.kr/politics/president/6145680",
       "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"한-베트남 2030년 교역액 1500억 달러 달성 목표\"",
-      "link": "https://www.news1.kr/politics/president/6145680",
+      "title": "[속보]李 \"한-베트남 2030년 교역규모 1500억달러로…교역·투자 호혜적...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602539",
       "pub_date": "2026-04-22T21:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,15 +219,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] ‘인플루언서 수사무마 의혹’ 경찰 구속영장 기각…재력가 남편...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/22/20260422500313?wlog_tag3=naver",
-      "pub_date": "2026-04-22T20:58:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]\"김영환 선택해달라\"‥ '밥퍼' 노인 모아 놓고 공무원이 선거운동",
       "link": "http://news.mbccb.co.kr/home/sub.php?menukey=61&mod=view&RECEIVE_DATE=20260422&SEQUENCE=0120",
       "pub_date": "2026-04-22T20:58:00+09:00",
@@ -190,6 +226,15 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] ‘인플루언서 수사무마 의혹’ 경찰 구속영장 기각…재력가 남편...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/22/20260422500313?wlog_tag3=naver",
+      "pub_date": "2026-04-22T20:58:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "정부, 병원 안 간 영유아 전수조사 착수…아동학대 사각지대 캔다",
@@ -1756,51 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "대구 중구보건소, 외식업소 시설 개선비 최대 400만 원 지원",
-      "link": "http://www.breaknews.com/1202313",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[현장] SKT·KT·LGU+, 국내 최대 ’월드IT쇼’에서 AI 기술 초격차와 활...",
-      "link": "https://www.news2day.co.kr/article/20260422500211",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "롯데호텔앤리조트, 김치 30% 할인…'골든 아워 페스타' 연다",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513864",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
-      "link": "http://www.breaknews.com/1202304",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 전경원, 야간·긴급 돌봄까지 아우른 ‘빈틈없는 수성’ 돌봄...",
-      "link": "http://www.breaknews.com/1202307",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
