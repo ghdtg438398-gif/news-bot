@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 12:20:27",
+  "updated": "2026-04-22 12:25:28",
   "total": 200,
   "items": [
     {
@@ -363,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
-      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +372,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보로 확정",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=892800",
+      "title": "[속보] 안민석 경기도교육감 민주진보 단일후보 확정",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723589",
       "pub_date": "2026-04-22T11:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -417,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
+      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -426,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기교육감 진보진영 단일후보 안민석 결정",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563403",
+      "title": "[속보] KEC 주가 상한가 터치…연속 급등흐름",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569468",
       "pub_date": "2026-04-22T11:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -444,6 +444,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
+      "pub_date": "2026-04-22T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 안민석, 경기교육감 선거 진보 진영 단일 후보 확정",
       "link": "https://www.pressian.com/pages/articles/2026042211250049418?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-22T11:26:00+09:00",
@@ -455,15 +464,6 @@
     {
       "title": "[속보] 안민석, 경기교육감 진보 단일후보 확정…유은혜 탈락",
       "link": "https://www.joongang.co.kr/article/25422281",
-      "pub_date": "2026-04-22T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '2026 경기민주진보교육감' '안민석' 선출",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513801",
       "pub_date": "2026-04-22T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
