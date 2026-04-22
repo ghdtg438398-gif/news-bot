@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 17:35:29",
+  "updated": "2026-04-22 17:40:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 국민의힘 주호영 ‘대구시장 컷오프 효력정지 가처분’ 항고심 ...",
+      "link": "https://www.wikitree.co.kr/articles/1132963",
+      "pub_date": "2026-04-22T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘, 충남아산을 김민경·경기안산갑 김석훈·전북 군산김제부안...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602390",
+      "pub_date": "2026-04-22T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "그룹 투표 라포엠 주간 정상 등극·리베란테 참여 열기 최상위·엔싸인...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042012",
+      "pub_date": "2026-04-22T17:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 충남 아산을 후보 김민경 단수추천",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270859",
+      "pub_date": "2026-04-22T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[퇴근길머니] 협상 무산에도 또 사상 최고…하이닉스 '어닝 서프라이즈...",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422173227Vrw",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]국힘 전남광주 통합특별시장 후보 이정현·전북지사 후보 양정무...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602379",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이천 단독주택서 불…다친 사람 없어",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542865&ref=A",
+      "pub_date": "2026-04-22T17:33:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[복지뉴스] 한국사회복지협의회, '돌봄통합지원법 시행에 따른 사회복지...",
       "link": "https://www.ibabynews.com/news/articleView.html?idxno=150726",
@@ -66,21 +129,21 @@
       "is_scoop": true
     },
     {
-      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
-      "link": "http://www.breaknews.com/1202304",
-      "pub_date": "2026-04-22T17:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "국민의힘 전경원, 야간·긴급 돌봄까지 아우른 ‘빈틈없는 수성’ 돌봄...",
       "link": "http://www.breaknews.com/1202307",
       "pub_date": "2026-04-22T17:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "권기창 안동시장 예비후보 “계명산자연휴양림, 고산형 산림휴양관광단...",
+      "link": "http://www.breaknews.com/1202304",
+      "pub_date": "2026-04-22T17:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -93,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 재보궐 공천",
-      "link": "https://biz.heraldcorp.com/article/10723387?ref=naver",
+      "title": "[속보]英 가디언 “이란, 호르무즈 해역에서 화물선 2척 잇따라 공격”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525445",
       "pub_date": "2026-04-22T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]英 가디언 “이란, 호르무즈 해역에서 화물선 2척 잇따라 공격”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525445",
+      "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 재보궐 공천",
+      "link": "https://biz.heraldcorp.com/article/10723387?ref=naver",
       "pub_date": "2026-04-22T17:28:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,6 +228,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
+      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
+      "pub_date": "2026-04-22T17:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
       "link": "https://www.sedaily.com/article/20035806?ref=naver",
       "pub_date": "2026-04-22T17:22:00+09:00",
@@ -183,9 +255,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국힘, 전남광주통합특별시장 후보에 이정현 단수 추천",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908287",
-      "pub_date": "2026-04-22T17:22:00+09:00",
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.newspim.com/news/view/20260422001155",
+      "pub_date": "2026-04-22T17:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -210,44 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.newspim.com/news/view/20260422001155",
-      "pub_date": "2026-04-22T17:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
-      "link": "https://www.ajunews.com/view/20260422171833149",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://dgmbc.com/NewsArticle/836662",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국힘, 충남 아산을 김민경·경기 안산갑 김석훈 공천",
       "link": "https://www.ajunews.com/view/20260422171821147",
-      "pub_date": "2026-04-22T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
-      "link": "https://www.ajunews.com/view/20260422171921151",
       "pub_date": "2026-04-22T17:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -271,6 +307,33 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 국힘 전남광주통합시장 후보에 이정현",
+      "link": "https://www.ajunews.com/view/20260422171833149",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://dgmbc.com/NewsArticle/836662",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 고법, 주호영 '대구시장 컷오프' 효력정지 가처분 항고 기각",
+      "link": "https://www.ajunews.com/view/20260422171921151",
+      "pub_date": "2026-04-22T17:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 국힘, 전북지사 후보에 양정무 단수 추천",
@@ -840,15 +903,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
-      "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
-      "pub_date": "2026-04-22T16:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "\"변동성이 기회다\" 뉴스톱, 기업 자금조달 전략 포럼 성료",
       "link": "https://www.newstopkorea.com/news/articleView.html?idxno=44560",
       "pub_date": "2026-04-22T16:52:00+09:00",
@@ -856,6 +910,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]창호 계약 안하면 철거 못한다?...피해 주민 '분통'",
+      "link": "https://ccn.hcn.co.kr/user/news/BD_newsView.do?news_category=02&story_id=NS2026042200102&story_seq=0&soCode=114&socttSn=NS2026042200102&socttSeq=0",
+      "pub_date": "2026-04-22T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "'늑구 탈출' 재발 방지…기후부, 내년까지 동물원 '허가제' 도입",
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-22T15:36:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 29.46포인트(0.46%) 오른 6417.93 마감",
-      "link": "https://www.sidae.com/article/2026042215351467541",
-      "pub_date": "2026-04-22T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 2.09포인트(0.18%) 오른 1812.12 마감",
-      "link": "https://www.sidae.com/article/2026042215335864583",
-      "pub_date": "2026-04-22T15:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"석유 최고가격제 소비자물가 약 0.8%p 낮췄다\"",
-      "link": "https://www.asiatime.co.kr/article/20260422500294",
-      "pub_date": "2026-04-22T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "하남 보바스병원-월드비전,'위기 아동 지원' 맞손…'지역사회 안전망' ...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513930",
-      "pub_date": "2026-04-22T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 6417 돌파…하루 만에 최고치 또 경신",
-      "link": "https://www.yna.co.kr/view/AKR20260422121700008?input=1195m",
-      "pub_date": "2026-04-22T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 0.46% 오른 6417.93 마감…종가 최고치 또 경신",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04414886645418744",
-      "pub_date": "2026-04-22T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6417.9 마감...연일 사상 최고치",
-      "link": "http://www.metroseoul.co.kr/article/20260422500394",
-      "pub_date": "2026-04-22T15:34:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
