@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 12:40:27",
+  "updated": "2026-04-22 12:45:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
+      "link": "https://www.imaeil.com/page/view/2026042212402622718",
+      "pub_date": "2026-04-22T12:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이정후, 日 야마모토에 2안타 '쾅쾅' 무너트렸다…5회 3루코치 '...",
+      "link": "https://www.xportsnews.com/article/2140009",
+      "pub_date": "2026-04-22T12:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "벼랑 끝 홈플러스… 하림이 살릴까",
       "link": "https://m.skyedaily.com/news_view.html?ID=302906",
@@ -75,6 +93,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
+      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
+      "pub_date": "2026-04-22T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
       "link": "https://www.munhwa.com/article/11584208?ref=naver",
       "pub_date": "2026-04-22T12:18:00+09:00",
@@ -86,15 +113,6 @@
     {
       "title": "경찰, '화물연대 조합원 사망' 비조합원 살인 혐의로 구속영장",
       "link": "https://www.ajunews.com/view/20260422104335371",
-      "pub_date": "2026-04-22T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"자녀들 고아원 가게 생겼다\"…공개 모금 나선 정유라 [포크뉴스]",
-      "link": "http://www.mbn.co.kr/pages/vod/programContents.php?progCode=683&menuCode=4385&bcastSeqNo=1417129",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
-      "link": "https://www.asiatime.co.kr/article/20260422500108",
+      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "개막 후 19경기 연속 안타 속 '냉가슴' SSG…'부상·부진' 중심타선 어쩌...",
-      "link": "https://www.youthdaily.co.kr/news/article.html?no=217858",
+      "title": "\"이사회 참여부터 전담부서 신설까지\"…금융권 소비자보호 경영체계 구...",
+      "link": "https://www.asiatime.co.kr/article/20260422500108",
       "pub_date": "2026-04-22T12:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 소녀시대 유닛 '효리수', 유재석 만난다…효연·유리·수영 '유퀴...",
-      "link": "https://www.news1.kr/entertain/broadcast-tv/6144695",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
