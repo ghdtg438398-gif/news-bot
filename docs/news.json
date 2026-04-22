@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-23 08:15:26",
-  "total": 194,
+  "updated": "2026-04-23 08:20:29",
+  "total": 200,
   "items": [
+    {
+      "title": "[속보] 김포 장곡IC 부근 차량 정체…\"교통사고 발생\"",
+      "link": "https://www.ajunews.com/view/20260423081522497",
+      "pub_date": "2026-04-23T08:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% '깜짝 성장'···중동 쇼크에도 5년 반 만에 최고",
+      "link": "https://www.etoday.co.kr/news/view/2578273",
+      "pub_date": "2026-04-23T08:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁에도 1분기 韓 경제 1.7% ‘깜짝 성장’…반도체 호황 덕",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029720760&code=61141111&cp=nv",
+      "pub_date": "2026-04-23T08:17:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"중동 리스크에도 끄떡없다…1분기 성장률 1.7% 급반등\"",
+      "link": "https://www.kizmom.com/news/articleView.html?idxno=109560",
+      "pub_date": "2026-04-23T08:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 성장률 1.7%…반도체 수출 증가에 '깜짝 성장'",
+      "link": "https://www.ajunews.com/view/20260423081215488",
+      "pub_date": "2026-04-23T08:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁에도 1분기 성장률 1.7%…5년 6개월 만에 최고치",
+      "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=58369",
+      "pub_date": "2026-04-23T08:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 한국 경제 성장률 1.7% 깜짝 성장 기록...5년 6개월만에 최...",
+      "link": "https://www.g-enews.com/view.php?ud=202604230804289301bb91c46fcd_1",
+      "pub_date": "2026-04-23T08:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이란전 악재에도 韓경제 1.7% '급반등'...66개월만에 최고",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230270&t=NN",
+      "pub_date": "2026-04-23T08:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "1분기 한국경제, 중동발 악재에도 큰폭 성장",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006591",
@@ -30,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] SK하이닉스, 사상 최대 실적에도 프리마켓서 소폭 상승세 … 삼전...",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300026.html",
+      "title": "[속보] 올해 1분기 한국 GDP 전 분기 역성장 벗어나 1.7% 성장",
+      "link": "https://www.pressian.com/pages/articles/2026042308070653608?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T08:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 올해 1분기 한국 GDP 전 분기 역성장 벗어나 1.7% 성장",
-      "link": "https://www.pressian.com/pages/articles/2026042308070653608?utm_source=naver&utm_medium=search",
+      "title": "[속보] SK하이닉스, 사상 최대 실적에도 프리마켓서 소폭 상승세 … 삼전...",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300026.html",
       "pub_date": "2026-04-23T08:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1729,24 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보]맹수석 예비후보의 '자칭 1위' 주장 이기적 보도자료 배포 논란…...",
-      "link": "https://www.pressian.com/pages/articles/2026042221513155033?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-22T22:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[AI상보] '5연패' 롯데, 결국 꼴찌 추락... '정수빈 맹활약' 두산은 4연승...",
-      "link": "https://www.newspim.com/news/view/20260422001302",
-      "pub_date": "2026-04-22T22:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
