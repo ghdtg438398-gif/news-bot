@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 15:20:31",
+  "updated": "2026-04-22 15:25:28",
   "total": 200,
   "items": [
+    {
+      "title": "백현, 태민 따라 지드래곤과 한솥밥? 갤럭시코퍼레이션 측 \"사실 아냐\" ...",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16041859",
+      "pub_date": "2026-04-22T15:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]30대 교사가 아버지 살해미수 뒤 3살 아들 살해… 1심서 징역 10년...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250059500000",
+      "pub_date": "2026-04-22T15:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전세 품귀에 학군지 빌라로…새 학기 앞두고 목동 매매 82% 급증",
+      "link": "https://www.ajunews.com/view/20260422133654588",
+      "pub_date": "2026-04-22T15:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '계엄령 놀이' 갑질 의혹 양양군 공무원 실형 불복 항소",
       "link": "https://www.kado.net/news/articleView.html?idxno=2046216",
@@ -30,6 +57,15 @@
       "is_scoop": false
     },
     {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542757&ref=A",
+      "pub_date": "2026-04-22T15:16:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "코웨이, 롯데백화점 본점에 '코웨이갤러리 팝업' 오픈",
       "link": "http://www.newsdream.kr/news/articleView.html?idxno=111576",
       "pub_date": "2026-04-22T15:14:00+09:00",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
-      "link": "https://www.donga.com/news/Society/article/all/20260422/133790625/2",
+      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
       "pub_date": "2026-04-22T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
+      "title": "[속보]‘23명 사망’ 아리셀 박순관 대표 항소심서 대폭 감형돼 징역 4년",
+      "link": "https://www.donga.com/news/Society/article/all/20260422/133790625/2",
       "pub_date": "2026-04-22T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
+      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
+      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
       "pub_date": "2026-04-22T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
-      "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
+      "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
       "pub_date": "2026-04-22T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기 이천 고담동 주택 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2578093",
+      "title": "[속보] 이천 고담동서 화재 발생 …\"연기 발생 중\"",
+      "link": "https://www.ajunews.com/view/20260422150414794",
       "pub_date": "2026-04-22T15:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이천 고담동서 화재 발생 …\"연기 발생 중\"",
-      "link": "https://www.ajunews.com/view/20260422150414794",
+      "title": "[속보] 경기 이천 고담동 주택 화재 발생",
+      "link": "https://www.etoday.co.kr/news/view/2578093",
       "pub_date": "2026-04-22T15:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]코스피, 장중 6420선까지 돌파하며 사상 최고치 경신",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525417",
+      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
+      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]23명 사망 아리셀 화재…박순관 대표 항소심서 징역 4년",
-      "link": "https://www.nocutnews.co.kr/news/6506412?utm_source=naver&utm_medium=article&utm_campaign=20260422030043",
+      "title": "[속보]코스피, 장중 6420선까지 돌파하며 사상 최고치 경신",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525417",
       "pub_date": "2026-04-22T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -381,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
+      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -390,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
+      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1761,42 +1797,6 @@
       "title": "\"화물연대 차량, 경찰 밟고 지나가\" 가짜뉴스 확산…경찰청 \"사실 아냐...",
       "link": "https://www.newsis.com/view/NISX20260422_0003601765",
       "pub_date": "2026-04-22T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"화물연대 차량에 경찰관 깔리지 않아\"…경찰, 가짜뉴스 확산에 반박",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031498",
-      "pub_date": "2026-04-22T13:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"화물연대 차량에 경찰이 깔렸다?\"…경찰청 \"가짜 뉴스\" 반박",
-      "link": "https://www.news1.kr/society/incident-accident/6145171",
-      "pub_date": "2026-04-22T13:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]제2경인고속도로 터널 '제연설비 점검' 확인 불가… 안전 공백 논...",
-      "link": "https://www.safetynews.co.kr/news/articleView.html?idxno=247863",
-      "pub_date": "2026-04-22T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "화물연대 조합원 사고 운전자 '살인 혐의' 영장",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422133827V0z",
-      "pub_date": "2026-04-22T13:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
