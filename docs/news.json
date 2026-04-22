@@ -1,7 +1,106 @@
 {
-  "updated": "2026-04-22 10:00:39",
+  "updated": "2026-04-22 10:05:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 김진태, 장동혁 만나 \"결자해지 필요\"",
+      "link": "https://www.dailian.co.kr/news/view/1636379/?sc=Naver",
+      "pub_date": "2026-04-22T10:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "KDI \"석유 최고가격제, 물가 최대 0.8%p 낮춰…소비 둔화 아직 없다\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4410921",
+      "pub_date": "2026-04-22T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "KDI “석유 최고가격제 없었다면 3월 소비자물가 3.0%...최고가격제, 물...",
+      "link": "https://www.chosun.com/economy/economy_general/2026/04/22/UKBJ4HL6QBFGJKUM673CQNKA74/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-22T10:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 22일",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220038",
+      "pub_date": "2026-04-22T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "에이티즈 민기, 재계약 후 첫 단독 화보",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4613180",
+      "pub_date": "2026-04-22T10:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] LIG디펜스앤에어로스페이스 VI 발동, 주가 19%↑…100만원선 넘었...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569438",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250009000000",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "KDI \"1차 석유 최고가격제, 3월 소비자물가 0.4~0.8%p 낮췄다\"",
+      "link": "https://www.mt.co.kr/economy/2026/04/22/2026042208084451846",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"석유 최고가격제, 물가 최대 0.8%p 낮춰…유류세 인하도 0.2%p 기여\"",
+      "link": "https://www.news1.kr/economy/trend/6144637",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]코스피, 또 사상 최고치 기록한 뒤 등락 거듭 혼조",
       "link": "https://www.kwnews.co.kr/page/view/2026042250008800000",
@@ -66,21 +165,21 @@
       "is_scoop": false
     },
     {
-      "title": "'국힘 방미단' 김대식 \"'사진 한 장'에 모든 실적 죽어…김민수에 쓴소...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003601261",
-      "pub_date": "2026-04-22T09:46:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "이랜드그룹, 태풍 '실라코' 피해 사이판에 3.5억 규모 긴급 구호 지원",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=119060",
       "pub_date": "2026-04-22T09:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'국힘 방미단' 김대식 \"'사진 한 장'에 모든 실적 죽어…김민수에 쓴소...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003601261",
+      "pub_date": "2026-04-22T09:46:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -192,8 +291,8 @@
       "is_scoop": false
     },
     {
-      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
-      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
+      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 미국 최고 함정 설계 명가와 맞손…영토 확장 가속",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298680&inflow=N",
+      "title": "G마켓, ‘바다 가는 달’ 국내 해양관광 상품 할인전…최대 30% 할인",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85891",
       "pub_date": "2026-04-22T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,20 +327,20 @@
       "is_scoop": true
     },
     {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
-      "pub_date": "2026-04-22T09:30:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "경찰, '화물연대 조합원 사망' 운전자, 살인 혐의 적용 '구속영장' 신청",
       "link": "http://www.newskr.kr/news/articleView.html?idxno=104272",
       "pub_date": "2026-04-22T09:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542401&ref=A",
+      "pub_date": "2026-04-22T09:30:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -309,15 +408,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
-      "pub_date": "2026-04-22T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[오늘의 국회]2026년 4월 22일",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604220913302540143",
       "pub_date": "2026-04-22T09:22:00+09:00",
@@ -327,9 +417,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 개인 '사자'vs외인·기관 '팔자'…코스피, 연일 최고치",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220312&t=NN",
-      "pub_date": "2026-04-22T09:18:00+09:00",
+      "title": "[속보] 코스피, 보합 출발...중동 협상 무산에 '숨고르기'",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260422092152jvD",
+      "pub_date": "2026-04-22T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -343,6 +433,24 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 개인 '사자'vs외인·기관 '팔자'…코스피, 연일 최고치",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604220312&t=NN",
+      "pub_date": "2026-04-22T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[ESG] 하이트진로, 소방서 찾아간다…'감사의 간식차' 전국 순회",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513719",
+      "pub_date": "2026-04-22T09:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 코스피, 장중 6400 돌파...사상 최고치 경신",
@@ -360,15 +468,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[ESG] 하이트진로, 소방서 찾아간다…'감사의 간식차' 전국 순회",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513719",
-      "pub_date": "2026-04-22T09:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -453,8 +552,8 @@
       "is_scoop": false
     },
     {
-      "title": "국민의힘 “이재명발 '세금폭탄'… 부동산시장 초토화·민생파탄”",
-      "link": "http://www.breaknews.com/1202113",
+      "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
+      "link": "https://www.newsis.com/view/NISX20260421_0003600870",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,8 +561,8 @@
       "is_scoop": false
     },
     {
-      "title": "대통령 인사까지 막았다…이란, 혁명수비대가 나라 움직이나",
-      "link": "https://www.newsis.com/view/NISX20260421_0003600870",
+      "title": "국민의힘 “이재명발 '세금폭탄'… 부동산시장 초토화·민생파탄”",
+      "link": "http://www.breaknews.com/1202113",
       "pub_date": "2026-04-22T09:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1698,105 +1797,6 @@
       "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
       "link": "https://www.yna.co.kr/view/AKR20260422014500009?input=1195m",
       "pub_date": "2026-04-22T06:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 국영TV \"트럼프 휴전 연장 인정 안 해…국익 따라 행동할 것...",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260422063737Xh9",
-      "pub_date": "2026-04-22T06:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "뉴스위크 암 ﻿세계 3위 '삼성'…연구 성적 '처참'",
-      "link": "https://www.dailymedi.com/news/news_view.php?wr_id=935850",
-      "pub_date": "2026-04-22T06:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이번주 국내 무대 나서는 임성재, 분위기 반전시키나? [KPGA 우리금융챔...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019924",
-      "pub_date": "2026-04-22T06:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독 - 중대재해 발생현황 전수 분석] 4년간 2천436명 죽었는데 실형은...",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233929",
-      "pub_date": "2026-04-22T06:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[실제 써보니] 크롬 속 제미나이…검색·여행 '한 번에'",
-      "link": "https://www.yna.co.kr/view/AKR20260421151000017?input=1195m",
-      "pub_date": "2026-04-22T06:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"휴전 연장\" 선언에…이란 \"추가 협상 없다\"",
-      "link": "https://economist.co.kr/article/view/ecn202604220002",
-      "pub_date": "2026-04-22T06:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]하정우 \"구포초 금시초문, 25일 발표도 어렵다\"…순방 중 CBS에 직...",
-      "link": "https://www.nocutnews.co.kr/news/6506025?utm_source=naver&utm_medium=article&utm_campaign=20260422062536",
-      "pub_date": "2026-04-22T06:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독]'반대 시위' 12년 만에..전현무 첫 월드컵 중계, '사당귀'도 함께...",
-      "link": "https://www.starnewskorea.com/broadcast-show/2026/04/22/2026042201410287705",
-      "pub_date": "2026-04-22T06:22:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 트럼프 \"휴전 연장\" 선언…이란 \"추가 협상 없다\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290007.html",
-      "pub_date": "2026-04-22T06:22:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 구성 방현동 핵시설도 활동 포착…미 정보제한 영향은?",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542242&ref=A",
-      "pub_date": "2026-04-22T06:20:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 트럼프, 이란과 협상 합의까지 휴전 연장-BBC",
-      "link": "http://www.fnnews.com/news/202604220618056162",
-      "pub_date": "2026-04-22T06:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
