@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 22:05:34",
+  "updated": "2026-04-22 22:10:32",
   "total": 200,
   "items": [
     {
@@ -75,15 +75,6 @@
       "is_scoop": false
     },
     {
-      "title": "'허율 동점 헤더' 울산, 안양과 1-1…선두 서울과 승점 5",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042151",
-      "pub_date": "2026-04-22T21:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] “봉사 갔는데 사장실로”…강기윤 후보, 공기업 동원 의혹",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543201&ref=A",
       "pub_date": "2026-04-22T21:46:00+09:00",
@@ -91,6 +82,15 @@
       "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'허율 동점 헤더' 울산, 안양과 1-1…선두 서울과 승점 5",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042151",
+      "pub_date": "2026-04-22T21:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "화물연대 사망사고 운전자 '살인 혐의' 영장",
@@ -219,6 +219,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
+      "pub_date": "2026-04-22T21:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]한·베트남 열처리가금육 상호 수출에 합의",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06130326645418744",
       "pub_date": "2026-04-22T21:24:00+09:00",
@@ -237,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 “호치민시 도시철도 수출 계약 체결될 예정”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645418744",
-      "pub_date": "2026-04-22T21:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李 \"한-베트남 에너지·인프라 전략적 협력 강화…내일 韓철도 호...",
       "link": "https://www.newsis.com/view/NISX20260422_0003602544",
       "pub_date": "2026-04-22T21:22:00+09:00",
@@ -255,8 +255,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 李대통령 \"호찌민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
-      "link": "https://www.news1.kr/politics/president/6145684",
+      "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602542",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李 \"한-베트남 열처리가금육 상호 수출 합의…동물 위생·검역 협...",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602542",
+      "title": "[속보] 李대통령 \"호찌민 도시철도 韓수출 계약…대형 인프라 사업 협력...",
+      "link": "https://www.news1.kr/politics/president/6145684",
       "pub_date": "2026-04-22T21:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
