@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-22 23:25:31",
+  "updated": "2026-04-22 23:30:34",
   "total": 200,
   "items": [
     {
@@ -55,6 +55,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보]트럼프 “36~72시간 내 이란과 2차 종전회담 가능”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260422/133795290/2",
+      "pub_date": "2026-04-22T23:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "‘10년 노동착취’ 신안 염전주 징역 3년…공범들은 집행유예",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542871&ref=A",
-      "pub_date": "2026-04-22T18:02:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
