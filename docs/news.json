@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-22 13:00:40",
+  "updated": "2026-04-22 13:05:26",
   "total": 200,
   "items": [
+    {
+      "title": "하림 품에 안긴 '홈플러스익스프레스', 회생 숨통 트일까",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137185",
+      "pub_date": "2026-04-22T13:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "안갯속 중동전쟁, 한국경제 ‘L자형 침체·V자형 반등’ 갈림길",
+      "link": "https://www.naeil.com/news/read/586208?ref=naver",
+      "pub_date": "2026-04-22T13:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "29CM, '머들 퍼퓸' 향수 선봬…이구어퍼스트로피 향 라인 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513704",
+      "pub_date": "2026-04-22T13:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 황교익 원장 \"문광연 홍보에 제가 역할\"…시작부터 부적절 발언...",
+      "link": "https://www.news1.kr/life-culture/general-cultural/6145085",
+      "pub_date": "2026-04-22T13:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "'안정환 해설 못 보나요?'…MBC·SBS, 2026 월드컵 중계 안 한다→JTBC, K...",
       "link": "https://www.xportsnews.com/article/2140010",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
-      "link": "https://www.imaeil.com/page/view/2026042212402622718",
+      "title": "[속보] 이정후, 日 야마모토에 2안타 '쾅쾅' 무너트렸다…5회 3루코치 '...",
+      "link": "https://www.xportsnews.com/article/2140009",
       "pub_date": "2026-04-22T12:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이정후, 日 야마모토에 2안타 '쾅쾅' 무너트렸다…5회 3루코치 '...",
-      "link": "https://www.xportsnews.com/article/2140009",
+      "title": "[속보] \"4월 월급 왜이래?\"…직장인 1천만명 건보료 22만원 더낸다",
+      "link": "https://www.imaeil.com/page/view/2026042212402622718",
       "pub_date": "2026-04-22T12:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "경찰, '화물연대 조합원 사망' 비조합원 살인 혐의로 구속영장",
-      "link": "https://www.ajunews.com/view/20260422104335371",
+      "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
+      "link": "https://www.munhwa.com/article/11584208?ref=naver",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "김진태 “붙잡으면 더 멀어져”… 장동혁 “무슨 의미인지?”",
-      "link": "https://www.munhwa.com/article/11584208?ref=naver",
+      "title": "경찰, '화물연대 조합원 사망' 비조합원 살인 혐의로 구속영장",
+      "link": "https://www.ajunews.com/view/20260422104335371",
       "pub_date": "2026-04-22T12:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "베트남 매체들, 李 대통령 방문 일제히 톱 기사로...\"양국 관계 새 역사...",
-      "link": "https://www.ajunews.com/view/20260422062842867",
-      "pub_date": "2026-04-22T09:40:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘화물연대 집회 사망 사고’ 운전자, 살인 혐의 적용…경찰, 3명 구속영...",
-      "link": "https://www.segye.com/newsView/20260422504107?OutUrl=naver",
-      "pub_date": "2026-04-22T09:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"협상 원하지만 신뢰는 바닥\"… 트럼프의 '초조함'이 만든 호르무즈의 ...",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469307",
-      "pub_date": "2026-04-22T09:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 최고치 경신…상승·하락 반복하며 혼조세",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046176",
-      "pub_date": "2026-04-22T09:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
