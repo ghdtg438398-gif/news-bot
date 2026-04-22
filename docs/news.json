@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-22 10:15:31",
+  "updated": "2026-04-22 10:20:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
+      "link": "https://www.kyeonggi.com/article/20260422580056",
+      "pub_date": "2026-04-22T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "하림그룹, 홈플러스 익스프레스 우선협상대상자로 선정",
+      "link": "https://www.nocutnews.co.kr/news/6506140?utm_source=naver&utm_medium=article&utm_campaign=20260422101738",
+      "pub_date": "2026-04-22T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약합수본, 마약왕 박왕열 '향정 혐의' 기소",
+      "link": "https://www.ajunews.com/view/20260422083944019",
+      "pub_date": "2026-04-22T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한화오션, 美 함정 설계 강자와 MOU…글로벌 시장 공략 가속",
+      "link": "https://www.1conomynews.co.kr/news/articleView.html?idxno=48199",
+      "pub_date": "2026-04-22T10:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "박지현, 4연속 1위…'대세 인기남' 등극 [스타1픽]",
+      "link": "https://www.news1.kr/entertain/music/6144522",
+      "pub_date": "2026-04-22T10:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘 김대식 “미국서 NSC ‘넘버 3’ 만나…사진 한 장에 실적 죽어...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542467&ref=A",
+      "pub_date": "2026-04-22T10:14:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "“장동혁, 美부통령 만나기 전 ‘트럼프 긴급회의’ 소집에 무산”",
       "link": "https://biz.heraldcorp.com/article/10722829?ref=naver",
@@ -44,6 +98,15 @@
       "pub_date": "2026-04-22T10:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542463&ref=A",
+      "pub_date": "2026-04-22T10:10:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -147,8 +210,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042250009000000",
+      "title": "[속보] LIG디펜스앤에어로스페이스 VI 발동, 주가 19%↑…100만원선 넘었...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569438",
       "pub_date": "2026-04-22T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] LIG디펜스앤에어로스페이스 VI 발동, 주가 19%↑…100만원선 넘었...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569438",
+      "title": "[속보]코스피, 상승 출발해 6,359.94…또 사상 최고치 기록한 뒤 등락 거...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250009000000",
       "pub_date": "2026-04-22T10:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,15 +246,6 @@
       "is_scoop": false
     },
     {
-      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
-      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
-      "pub_date": "2026-04-22T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "11번가, 4월 ‘찐템페스타’ 진행…패션·뷰티·리빙 상품 390만개 특가...",
       "link": "https://www.inthenews.co.kr/news/article.html?no=85896",
       "pub_date": "2026-04-22T10:00:00+09:00",
@@ -199,6 +253,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[폴리TV][단독][정국인터뷰] 서영교 국회 법사위원장①\"원내대표 선거 ...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729148",
+      "pub_date": "2026-04-22T10:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]코스피, 또 사상 최고치 기록한 뒤 등락 거듭 혼조",
@@ -363,8 +426,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"이란, 미국에 또 다른 지옥 만들 준비...전쟁 재개 대비 완료\"",
-      "link": "https://www.pennmike.com/news/articleView.html?idxno=119191",
+      "title": "[속보] 미래에셋벤처투자 주가 상한가 터치…장초반 약세에서 급등으로...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569425",
       "pub_date": "2026-04-22T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -372,8 +435,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 미래에셋벤처투자 주가 상한가 터치…장초반 약세에서 급등으로...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569425",
+      "title": "[속보] \"이란, 미국에 또 다른 지옥 만들 준비...전쟁 재개 대비 완료\"",
+      "link": "https://www.pennmike.com/news/articleView.html?idxno=119191",
       "pub_date": "2026-04-22T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-22T07:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정·22일] '장남회사 부당지원' 삼표 경영진 공판",
-      "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=242121",
-      "pub_date": "2026-04-22T07:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전 발표 인정 안 해…국익 따라 행동할 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295263?influxDiv=NAVER",
-      "pub_date": "2026-04-22T07:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[Who Is ?] 김재철 동원그룹 명예회장",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436001",
-      "pub_date": "2026-04-22T07:02:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전발표 인정 안 해…국익 따라 행동\"<이란 국영방송...",
-      "link": "https://www.ajunews.com/view/20260422070038875",
-      "pub_date": "2026-04-22T07:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전 연장 발표 인정 안 해…국익에 따라 행동할 것...",
-      "link": "https://www.dailian.co.kr/news/view/1636264/?sc=Naver",
-      "pub_date": "2026-04-22T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 국회일정](22일·수)",
-      "link": "https://www.yna.co.kr/view/AKR20260421166700001?input=1195m",
-      "pub_date": "2026-04-22T07:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이란 \"미국 휴전연장 발표 인정 안해…국익 따라 행동\"",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/22/2026042290014.html",
-      "pub_date": "2026-04-22T06:58:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     }
