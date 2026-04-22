@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 08:55:29",
+  "updated": "2026-04-22 09:00:40",
   "total": 200,
   "items": [
+    {
+      "title": "진교동찜닭, 1400만 유튜버 햄지 협업 신메뉴 배민 단독 선보여 \"저당 트...",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49142",
+      "pub_date": "2026-04-22T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "\"문제는 '할까'가 아니라 '언제 할까'다\" 첼시, 114년 만의 최악 기록에...",
+      "link": "http://www.osen.co.kr/article/G1112786515",
+      "pub_date": "2026-04-22T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]화물연대 조합원 차로 들이받은 40대 비조합원 구속영장…살인 혐...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042250003900000",
+      "pub_date": "2026-04-22T08:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독] '부실복무' 송민호, 유죄면 102일만 다시 근무",
       "link": "http://www.fnnews.com/news/202604220821403664",
@@ -12,8 +39,8 @@
       "is_scoop": true
     },
     {
-      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
+      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화오션, 美 해군 설계 핵심 레이도 깁스 앤 코스와 맞손",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513698",
+      "title": "현대커머셜, '고트럭' 앱 리뉴얼…사용자 맞춤형 콘텐츠 강화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513705",
       "pub_date": "2026-04-22T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +84,8 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 화물연대 조합원 차로 친 40대 영장...살인 혐의 적용",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604220019",
+      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
+      "link": "http://www.newskr.kr/news/articleView.html?idxno=104271",
       "pub_date": "2026-04-22T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경찰, '화물연대 사망 사고' 운전자 영장 신청…살인 혐의",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=104271",
+      "title": "[속보] 화물연대 조합원 차로 친 40대 영장...살인 혐의 적용",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604220019",
       "pub_date": "2026-04-22T08:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KIA 상대 짜릿한 승리→선두 등극 KT '한꺼번에'…이강철 감독 \"모든 선...",
-      "link": "https://www.xportsnews.com/article/2139865",
-      "pub_date": "2026-04-22T00:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "불법 PG 피해 확산일로 \"재발 방지책 마련 시급\"",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046145",
-      "pub_date": "2026-04-22T00:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“겨울이 약한 양구 관광…청춘·체류형 축제로 돌파해야”",
-      "link": "https://www.kwnews.co.kr/page/view/2026042150077900000",
-      "pub_date": "2026-04-22T00:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
