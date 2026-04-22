@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-22 11:15:33",
+  "updated": "2026-04-22 11:20:30",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] '아뿔싸' 김혜성 송구 실책으로 시작된 빅이닝, 이정후 첫 타석...",
+      "link": "https://www.mydaily.co.kr/page/view/2026042211124581427",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 더불어민주당 전북도당, 자치 단체장 경선 '최종 후보자 확정' 발...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3562425",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
+      "link": "https://www.hankyung.com/article/2026042284857",
+      "pub_date": "2026-04-22T11:16:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] HD현대중공업, 6271억원 규모 엔진발전기 공급 계약 체결 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569467",
+      "pub_date": "2026-04-22T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 안민석, 경기교육감 민주진보 단일후보 확정",
+      "link": "https://www.news1.kr/local/gyeonggi/6145008",
+      "pub_date": "2026-04-22T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 완전히 살아난 이정후! 야마모토 상대 적시타 작렬…김혜성은 시...",
       "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812076",
@@ -30,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
-      "link": "https://www.kyeonggi.com/article/20260422580079",
-      "pub_date": "2026-04-22T11:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "日작년 수출 사상 최대 1천50조원…무역수지는 5년 연속 적자",
       "link": "https://www.yna.co.kr/view/AKR20260422072400009?input=1195m",
       "pub_date": "2026-04-22T11:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 박찬대, 인천시장 선거 공식 출마 선언…“압도하라 인천”",
+      "link": "https://www.kyeonggi.com/article/20260422580079",
+      "pub_date": "2026-04-22T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -75,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
-      "link": "http://www.inews24.com/view/1962389",
-      "pub_date": "2026-04-22T11:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 전북 기초단체장 민주당 경선 결과 13명 발표...전주 조지훈",
       "link": "https://www.newspim.com/news/view/20260422000516",
       "pub_date": "2026-04-22T11:08:00+09:00",
@@ -95,6 +131,15 @@
     {
       "title": "[속보]민주당 완주군수 후보에 유희태 현 군수 확정",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=225091",
+      "pub_date": "2026-04-22T11:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 경기도 화성 의약품 제조 공장서 화재⋯소방 대응 1단계 발령",
+      "link": "http://www.inews24.com/view/1962389",
       "pub_date": "2026-04-22T11:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
-      "pub_date": "2026-04-22T11:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[K-VIBE] 강성곤의 '아름다운 우리말'…'장이'와 '쟁이' 外",
       "link": "https://www.yna.co.kr/view/AKR20260422064100371?input=1195m",
       "pub_date": "2026-04-22T11:04:00+09:00",
@@ -145,6 +181,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "캐시닥 용돈퀴즈 정답 4월 22일 [단독]",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604220037",
+      "pub_date": "2026-04-22T11:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]민주당 진안군수 후보 전춘성 현 군수 선출",
@@ -237,15 +282,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 아이에스티이, 235억원 규모 열유화 설비 공사 수주 공시",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569455",
-      "pub_date": "2026-04-22T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "LPGA 시즌 첫 '메이저' 셰브론 챔피언십 23일 개막…총상금 100만 달러 증...",
       "link": "https://swtvnews.com/news/newsview.php?ncode=1065577521989455",
       "pub_date": "2026-04-22T10:56:00+09:00",
@@ -264,20 +300,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 아이에스티이, 235억원 규모 열유화 설비 공사 수주 공시",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569455",
+      "pub_date": "2026-04-22T10:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 60대가 장례식장서 술 마시고 90㎞ 음주운전…경찰 추격전 끝에...",
       "link": "https://www.seoul.co.kr/news/society/accident/2026/04/22/20260422500094?wlog_tag3=naver",
       "pub_date": "2026-04-22T10:55:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마약합수본, ‘마약왕’ 박왕열 ‘향정 혐의’ 구속기소",
-      "link": "https://www.segye.com/newsView/20260422506628?OutUrl=naver",
-      "pub_date": "2026-04-22T10:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -288,6 +324,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 마약합수본, ‘마약왕’ 박왕열 ‘향정 혐의’ 구속기소",
+      "link": "https://www.segye.com/newsView/20260422506628?OutUrl=naver",
+      "pub_date": "2026-04-22T10:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -543,20 +588,20 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
-      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
-      "pub_date": "2026-04-22T10:30:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
       "link": "https://www.yna.co.kr/view/AKR20260422056600011?input=1195m",
       "pub_date": "2026-04-22T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아...",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545835",
+      "pub_date": "2026-04-22T10:30:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -633,8 +678,8 @@
       "is_scoop": false
     },
     {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
+      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -642,8 +687,8 @@
       "is_scoop": false
     },
     {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
+      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
+      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
       "pub_date": "2026-04-22T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 집회 차량 돌진 사상자 낸 40대 비조합원 영장 신청",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046171",
-      "pub_date": "2026-04-22T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "진교동찜닭, 1400만 유튜버 햄지 협업 신메뉴 배민 단독 선보여 \"저당 트...",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49142",
-      "pub_date": "2026-04-22T08:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "\"문제는 '할까'가 아니라 '언제 할까'다\" 첼시, 114년 만의 최악 기록에...",
-      "link": "http://www.osen.co.kr/article/G1112786515",
-      "pub_date": "2026-04-22T08:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '부실복무' 송민호, 유죄면 102일만 다시 근무",
-      "link": "http://www.fnnews.com/news/202604220821403664",
-      "pub_date": "2026-04-22T08:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]화물연대 조합원 차로 들이받은 40대 비조합원 구속영장…살인 혐...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042250003900000",
-      "pub_date": "2026-04-22T08:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
