@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-22 23:15:27",
+  "updated": "2026-04-22 23:20:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]뉴욕증시, 트럼프 휴전 연장 발표에 상승 출발…반도체주↑",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602604",
+      "pub_date": "2026-04-22T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"사슴 발견하면 신고하세요\" 광명시 옥길동 일대 수색 중",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564018",
+      "pub_date": "2026-04-22T23:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'새내기' 이강민, 결승타…kt, 이틀 연속 KIA 꺾고 선두 수성",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528736&plink=ORI&cooper=NAVER",
@@ -1779,24 +1797,6 @@
       "title": "[속보]LG디스플레이, 1.1조원 규모 OLED 투자 추진",
       "link": "https://www.newsis.com/view/NISX20260422_0003602441",
       "pub_date": "2026-04-22T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
-      "link": "https://www.yna.co.kr/view/AKR20260422146700011?input=1195m",
-      "pub_date": "2026-04-22T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, OLED 신기술 인프라에 1.1조원 투자",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05162726645418744",
-      "pub_date": "2026-04-22T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
