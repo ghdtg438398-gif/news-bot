@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 06:30:38",
-  "total": 131,
+  "updated": "2026-04-23 06:35:27",
+  "total": 134,
   "items": [
+    {
+      "title": "[단독] 재가동 아세아제지 \"달라진 건 없다\"",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233966",
+      "pub_date": "2026-04-23T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[화물노동자는 왜 탑차 막아섰나] CU 사망사건 하루 전, 자해시도 분신...",
+      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233957",
+      "pub_date": "2026-04-23T06:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "포장재 흔들·수수료 부담…배달업계, 이중고 속 해법 찾나",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360596",
+      "pub_date": "2026-04-23T06:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
+      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455608",
+      "pub_date": "2026-04-23T06:30:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘중동 사태’ 중고차 수출 30% 감소…“새 수출길 뚫자”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543395&ref=A",
+      "pub_date": "2026-04-23T06:22:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "KDI, '석유 최고가격제'로 3월 물가 최대 0.8%p 잡았다",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604221425489740237",
@@ -1161,24 +1206,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 李 \"한-베, 특별한 관계\"…또 럼 \"포괄적 전략 동반자 관계 심화...",
-      "link": "https://www.news1.kr/politics/president/6145796",
-      "pub_date": "2026-04-22T20:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 한·베트남 정상회담, 111분 만에 종료…곧 공동언론발표",
-      "link": "https://www.dailian.co.kr/news/view/1636695/?sc=Naver",
-      "pub_date": "2026-04-22T20:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
