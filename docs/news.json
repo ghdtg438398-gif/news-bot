@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 15:30:38",
+  "updated": "2026-04-22 15:35:27",
   "total": 200,
   "items": [
+    {
+      "title": "하남 보바스병원-월드비전,'위기 아동 지원' 맞손…'지역사회 안전망' ...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513930",
+      "pub_date": "2026-04-22T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"석유 최고가격제 소비자물가 약 0.8%p 낮췄다\"",
+      "link": "https://www.asiatime.co.kr/article/20260422500294",
+      "pub_date": "2026-04-22T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6417.9 마감…사상 최고치",
+      "link": "https://www.hankyung.com/article/2026042291936",
+      "pub_date": "2026-04-22T15:32:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] \"특별한 이유 없고\" '사지 마비' 가해자…\"지옥이 따로 없다\" 피...",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528191&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-22T15:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보]원·달러 환율, 7.5원 오른 1476원 마감",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602044",
+      "pub_date": "2026-04-22T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 내란특검, ‘언론사 단전·단수’ 이상민 항소심서 징역 15년 구...",
+      "link": "https://www.mk.co.kr/article/12024046",
+      "pub_date": "2026-04-22T15:30:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "신세계면세점, 'K-뷰티 전문관' 오픈…글로벌 공략 본격화",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513730",
+      "pub_date": "2026-04-22T15:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] “사슴 5마리, 농장서 탈출…발견하면 119나 광명시로 신고하세...",
       "link": "https://www.seoul.co.kr/news/society/2026/04/22/20260422500224?wlog_tag3=naver",
@@ -21,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
-      "link": "https://www.pressian.com/pages/articles/2026042215253573766?utm_source=naver&utm_medium=search",
+      "title": "[속보] 늑대 이어 이번엔 사슴 5마리 탈출…광명시 \"안전 유의\"",
+      "link": "https://www.imaeil.com/page/view/2026042215250116478",
       "pub_date": "2026-04-22T15:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 늑대 이어 이번엔 사슴 5마리 탈출…광명시 \"안전 유의\"",
-      "link": "https://www.imaeil.com/page/view/2026042215250116478",
+      "title": "[속보] 특검, '내란중요임무 종사' 이상민 2심도 징역 15년 구형",
+      "link": "https://www.pressian.com/pages/articles/2026042215253573766?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-22T15:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,7 +138,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]30대 교사가 아버지 살해미수 뒤 3살 아들 살해… 1심서 징역 10년...",
+      "title": "[속보]부친 살해 미수 30대 교사, 세 살배기 장애 아들 살해…1심서 징역...",
       "link": "https://www.kwnews.co.kr/page/view/2026042250059500000",
       "pub_date": "2026-04-22T15:23:00+09:00",
       "source_id": "yna",
@@ -147,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
-      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
-      "pub_date": "2026-04-22T15:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 광명 옥길동서 사슴 5마리 탈출…\"주민 안전 유의\"",
       "link": "https://news.jtbc.co.kr/article/NB12295323?influxDiv=NAVER",
       "pub_date": "2026-04-22T15:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[이란 전쟁] 韓 1분기 소비·투자·수출 호조 성장률 강세 전망… 하반기...",
+      "link": "https://www.g-enews.com/view.php?ud=202604221452194794bbed569d68_1",
+      "pub_date": "2026-04-22T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -210,6 +273,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 이천 고담동 주택 화재...소방 진화 중",
+      "link": "http://www.joongang.tv/news/articleView.html?idxno=219244",
+      "pub_date": "2026-04-22T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 이천 고담동 주택서 화재...다량 연기에 주의 당부",
       "link": "https://www.gukjenews.com/news/articleView.html?idxno=3563609",
       "pub_date": "2026-04-22T15:08:00+09:00",
@@ -221,15 +293,6 @@
     {
       "title": "[속보] 특검, '언론사 단전·단수 지시' 이상민 항소심서 징역 15년 구형",
       "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219785",
-      "pub_date": "2026-04-22T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이천 고담동 주택 화재...소방 진화 중",
-      "link": "http://www.joongang.tv/news/articleView.html?idxno=219244",
       "pub_date": "2026-04-22T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,21 +318,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
-      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
-      "pub_date": "2026-04-22T15:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "안호영, 단식 12일 만에 병원 이송…전북서는 ‘재감찰 촉구’ 도민 총...",
       "link": "https://www.segye.com/newsView/20260422512293?OutUrl=naver",
       "pub_date": "2026-04-22T15:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"트럼프, 이란 휴전 ‘3~5일’ 시한부 연장 검토\"",
+      "link": "http://www.yonhapnewstv.co.kr/AKR202604221506217Lx",
+      "pub_date": "2026-04-22T15:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -327,8 +390,8 @@
       "is_scoop": false
     },
     {
-      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
+      "title": "박찬대 인천시장 출마선언, \"고향 미래를 위해 쏟아붓겠다\"",
+      "link": "http://www.incheonin.com/news/articleView.html?idxno=117371",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -345,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대 인천시장 출마선언, \"고향 미래를 위해 쏟아붓겠다\"",
-      "link": "http://www.incheonin.com/news/articleView.html?idxno=117371",
+      "title": "'화물연대 차량, 경찰관 밟고 지나가' 가짜뉴스 확산 … 경찰 \"사실 아냐...",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/22/2026042200175.html",
       "pub_date": "2026-04-22T15:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -480,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
+      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -489,8 +552,8 @@
       "is_scoop": false
     },
     {
-      "title": "토스뱅크, 애플페이 출시 잠정 보류...카드업계도 '관망 모드'",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302103",
+      "title": "금융사, '소비자보호 모범관행' 도입 후 절반 이상 '소비자보호 전문이...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115487",
       "pub_date": "2026-04-22T14:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "금감원, 금융권 소비자보호 거버넌스 안착",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302359",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)\"이광재 하남-송영길 연수-하정우 북갑\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298719&inflow=N",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] '12일 단식' 與안호영, 건강 악화로 병원 긴급 이송",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567018&class=32&grp=",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[성기노의 뉴스 피처링] 부산서 시작된 균열…지선 '접전 모드' 돌입하...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126700",
-      "pub_date": "2026-04-22T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '단식 12일' 안호영, 상태 악화로 병원 긴급 이송",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604221355409992",
-      "pub_date": "2026-04-22T13:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]김민석 총리 “석유 최고가격제 연장 ‘시사’”",
-      "link": "https://magazine.hankyung.com/business/article/202604228809b",
-      "pub_date": "2026-04-22T13:55:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "북중미 월드컵, JTBC·KBS 함께 중계...MBC·SBS 빠졌다",
-      "link": "https://www.wikitree.co.kr/articles/1132881",
-      "pub_date": "2026-04-22T13:54:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
