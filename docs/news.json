@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-22 19:05:27",
+  "updated": "2026-04-22 19:10:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 당정 \"차량 5부제 참여시 車 보험료 할인 특약 상품 5월 중 출시...",
+      "link": "https://www.newspim.com/news/view/20260422001237",
+      "pub_date": "2026-04-22T19:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 한-베트남 정상회담 시작…'원전·에너지·인프라' 협력 논의",
+      "link": "https://www.hankyung.com/article/2026042299187",
+      "pub_date": "2026-04-22T19:05:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정 \"6700억 나프타 수입단가 차액지원사업 신속 집행\"",
+      "link": "https://www.newspim.com/news/view/20260422001236",
+      "pub_date": "2026-04-22T19:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "국힘 \"방미, NSC 넘버3 면담 등 성과 있었지만…메시지 관리 실패 뼈아파...",
       "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=545889",
@@ -9,6 +36,15 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 당정 \"5월 연휴 관광 활성화 대책 마련...추경 신속 집행 만전\"",
+      "link": "https://www.newspim.com/news/view/20260422001234",
+      "pub_date": "2026-04-22T19:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -84,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
+      "title": "[속보]이란, 호르무즈에서 3번째 선박도 공격",
+      "link": "https://www.newsis.com/view/NISX20260422_0003602477",
       "pub_date": "2026-04-22T18:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -93,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]이란, 호르무즈에서 3번째 선박도 공격",
-      "link": "https://www.newsis.com/view/NISX20260422_0003602477",
+      "title": "[속보] 국민의힘 경북 기초단체장 공천 발표…경주 주낙영·청도 김하수...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260422026299621",
       "pub_date": "2026-04-22T18:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-22T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[경인방송 경제뉴스] HD현대중공업, 스웨덴 쇄빙전용선 국내 첫 수주",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469485",
-      "pub_date": "2026-04-22T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "AI 전면에…통신3사, '월드IT쇼' 주도권 경쟁",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298721&inflow=N",
-      "pub_date": "2026-04-22T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "박찬대, 인천시장 출마 선언… \"대한민국 이끄는 도시로\"",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225131",
-      "pub_date": "2026-04-22T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]JTBC·KBS, 북중미 월드컵 공동 중계",
-      "link": "https://magazine.hankyung.com/business/article/202604229307b",
-      "pub_date": "2026-04-22T15:57:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
