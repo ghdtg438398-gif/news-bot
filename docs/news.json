@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-22 14:05:30",
+  "updated": "2026-04-22 14:10:32",
   "total": 200,
   "items": [
+    {
+      "title": "'충격' 이정후 '황당+무모' 홈 질주→교체 OUT 왜?... 알고보니 3루 코치...",
+      "link": "https://www.starnewskorea.com/sports/2026/04/22/2026042211402950302",
+      "pub_date": "2026-04-22T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[월드컵 맞는 유통가 D-50] ①식품업계, 월드컵 안 떠도 손흥민은 믿는...",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=85885",
+      "pub_date": "2026-04-22T14:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘보완수사 못하는 검찰’ 덕 본 공무원…‘13억 뇌물 의혹’ 무...",
+      "link": "https://www.dt.co.kr/article/12058875?ref=naver",
+      "pub_date": "2026-04-22T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "소비자보호 중심 조직 문화 확산 추세… 거버넌스 모범관행 이행 현황 ...",
+      "link": "https://sateconomy.co.kr/news/view/1065588903893783",
+      "pub_date": "2026-04-22T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "홈플러스 노조 \"익스프레스 매각대금, 회생 자금으로 활용해야\"",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137193",
+      "pub_date": "2026-04-22T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장례식장 갔다가 대전까지 음주 90km…경찰 피해 도망친 60대",
+      "link": "https://www.imaeil.com/page/view/2026042213515491371",
+      "pub_date": "2026-04-22T14:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'명태균 1심 무죄' 재판장, 피고인석에 선다... 법관 징계는 감감무소식",
+      "link": "https://newstapa.org/article/1nUuL",
+      "pub_date": "2026-04-22T14:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[이슈+] 너무 강해서 '출시 포기'한 괴물 AI… '미토스 쇼크'에 韓 금융...",
       "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=352802",
@@ -30,9 +93,27 @@
       "is_scoop": false
     },
     {
+      "title": "트럼프 “이란이 통일된 제안 낼 때까지 휴전 연장…봉쇄는 지속”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8542720&ref=A",
+      "pub_date": "2026-04-22T14:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "중기부, 중동 전쟁 피해 수출 중소기업에 추경 122억 원 긴급 투입",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528082&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-22T14:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘단식 12일차’ 안호영, 녹색병원 긴급 이송돼",
+      "link": "https://biz.heraldcorp.com/article/10723121?ref=naver",
+      "pub_date": "2026-04-22T13:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -44,15 +125,6 @@
       "pub_date": "2026-04-22T13:59:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘단식 12일차’ 안호영, 녹색병원 긴급 이송돼",
-      "link": "https://biz.heraldcorp.com/article/10723121?ref=naver",
-      "pub_date": "2026-04-22T13:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -93,20 +165,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '단식 12일' 안호영, 상태 악화로 병원 긴급 이송",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604221355409992",
-      "pub_date": "2026-04-22T13:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]김민석 총리 “석유 최고가격제 연장 ‘시사’”",
       "link": "https://magazine.hankyung.com/business/article/202604228809b",
       "pub_date": "2026-04-22T13:55:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '단식 12일' 안호영, 상태 악화로 병원 긴급 이송",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604221355409992",
+      "pub_date": "2026-04-22T13:55:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -273,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
-      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
+      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "박찬대, 인천시장 출마 공식선언…\"정체 끊고 성장도시로 전환\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838602",
+      "title": "안호영 단식 12일차...'정청래 소환' 민주당 지도부",
+      "link": "http://www.00news.co.kr/news/articleView.html?idxno=103376",
       "pub_date": "2026-04-22T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1727,78 +1799,6 @@
       "pub_date": "2026-04-22T10:26:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 불…‘대응 1단계’ 발령 진화 중",
-      "link": "https://www.mk.co.kr/article/12023762",
-      "pub_date": "2026-04-22T10:26:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 큰 불…대응 1단계 발령",
-      "link": "https://www.hankyung.com/article/2026042282777",
-      "pub_date": "2026-04-22T10:24:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "신라젠, BAL0891 임상 연구 미국임상종양학회 채택",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111550",
-      "pub_date": "2026-04-22T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한화, 美최대 해양방산 전시회서 현지 업체와 협력…북미 진출 확대",
-      "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=261386",
-      "pub_date": "2026-04-22T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "여수해경 '2026 여수세계섬박람회' 대비 현장 안전점검",
-      "link": "https://www.nocutnews.co.kr/news/6506145?utm_source=naver&utm_medium=article&utm_campaign=20260422102039",
-      "pub_date": "2026-04-22T10:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 큰불…대응 1단계 발령",
-      "link": "https://www.news1.kr/local/gyeonggi/6144874",
-      "pub_date": "2026-04-22T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "하림그룹, 홈플러스 익스프레스 우선협상대상자로 선정",
-      "link": "https://www.nocutnews.co.kr/news/6506140?utm_source=naver&utm_medium=article&utm_campaign=20260422101738",
-      "pub_date": "2026-04-22T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화성 의약품 제조공장서 불...대응 1단계",
-      "link": "https://www.kyeonggi.com/article/20260422580056",
-      "pub_date": "2026-04-22T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
