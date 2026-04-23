@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 20:20:29",
+  "updated": "2026-04-23 20:25:26",
   "total": 200,
   "items": [
+    {
+      "title": "이용진 \"모든 코인 하향평준화\" VS 장동민 \"나한텐 연기 못 숨겨\"..팽팽...",
+      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812438",
+      "pub_date": "2026-04-23T20:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[KPGA] '디펜딩 챔피언 이태훈 7언더파, 우리금융챔피언십 첫날 선두...임...",
       "link": "https://www.newspim.com/news/view/20260423001399",
@@ -129,21 +138,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 드디어 터졌다. 1군 복귀 노시환, 135m 초대형 홈런, 동점포로 잠...",
-      "link": "http://www.osen.co.kr/article/G1112787523",
-      "pub_date": "2026-04-23T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "반도체 홀로 이끈 1.7% 성장…건설·제조업은 올스톱 위기",
       "link": "https://www.imaeil.com/page/view/2026042308581781420",
       "pub_date": "2026-04-23T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 드디어 터졌다. 1군 복귀 노시환, 135m 초대형 홈런, 동점포로 잠...",
+      "link": "http://www.osen.co.kr/article/G1112787523",
+      "pub_date": "2026-04-23T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1788,15 +1797,6 @@
       "title": "반도체도 GDP도 ‘슈퍼 서프’…6500 찍은 코스피, 7000 향해 뛴다 [투자...",
       "link": "https://biz.heraldcorp.com/article/10724322?ref=naver",
       "pub_date": "2026-04-23T16:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "왜 지금 한국인가? 사우디의 선택이 상징하는 새로운 국제질서",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227729&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-23T16:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
