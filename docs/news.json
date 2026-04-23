@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 18:35:33",
+  "updated": "2026-04-23 18:40:30",
   "total": 200,
   "items": [
     {
@@ -21,21 +21,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오세훈 서울시장, 다음주 월요일 예비후보 등록키로",
-      "link": "https://www.sedaily.com/article/20036435?ref=naver",
-      "pub_date": "2026-04-23T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "황소제 광주시의원, 신현동 석축 붕괴 위험 현장점검",
       "link": "http://www.breaknews.com/1202689",
       "pub_date": "2026-04-23T18:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -48,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
-      "link": "http://www.breaknews.com/1202688",
+      "title": "[속보] 오세훈 서울시장, 다음주 월요일 예비후보 등록키로",
+      "link": "https://www.sedaily.com/article/20036435?ref=naver",
       "pub_date": "2026-04-23T18:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
-      "pub_date": "2026-04-23T18:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
       "pub_date": "2026-04-23T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
+      "pub_date": "2026-04-23T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -165,21 +165,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주, 인천 계양을 ‘李측근’ 김남준-연수갑 송영길 전략공천",
-      "link": "https://www.donga.com/news/Politics/article/all/20260423/133801765/2",
-      "pub_date": "2026-04-23T18:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[포토뉴스] 나폴리 3대 피자 ‘다미켈레’ 판매",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042318103869876",
       "pub_date": "2026-04-23T18:11:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주, 인천 계양을 ‘李측근’ 김남준-연수갑 송영길 전략공천",
+      "link": "https://www.donga.com/news/Politics/article/all/20260423/133801765/2",
+      "pub_date": "2026-04-23T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -309,15 +309,6 @@
       "is_scoop": false
     },
     {
-      "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
-      "pub_date": "2026-04-23T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
       "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
       "pub_date": "2026-04-23T18:00:00+09:00",
@@ -325,6 +316,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
+      "pub_date": "2026-04-23T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
@@ -354,6 +354,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
+      "link": "https://www.etoday.co.kr/news/view/2578663",
+      "pub_date": "2026-04-23T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 민주, 인천 연수갑 송영길·계양을 김남준 전략공천",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838825",
       "pub_date": "2026-04-23T17:58:00+09:00",
@@ -365,15 +374,6 @@
     {
       "title": "[속보] 제15회 변호사시험 합격자 1,714명 발표… 합격률 50.95%",
       "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219876",
-      "pub_date": "2026-04-23T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
-      "link": "https://www.etoday.co.kr/news/view/2578663",
       "pub_date": "2026-04-23T17:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -597,7 +597,7 @@
       "is_scoop": false
     },
     {
-      "title": "5년 반만에 성장률 최대인데…체감 경기는 '왜'",
+      "title": "5년반 만에 최고 성장률 기록했지만...반도체 빼면 반토막",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645419072",
       "pub_date": "2026-04-23T17:49:00+09:00",
       "source_id": "yna",
