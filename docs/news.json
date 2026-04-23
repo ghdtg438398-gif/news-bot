@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 10:25:40",
+  "updated": "2026-04-23 10:30:33",
   "total": 200,
   "items": [
+    {
+      "title": "K-반도체 파워, 올 1분기 실질 국내총생산(GDP) 1.7% 성장",
+      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701461",
+      "pub_date": "2026-04-23T10:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '설탕·밀가루 담합' CJ제일제당·삼양에 벌금 각 2억원",
+      "link": "https://news.jtbc.co.kr/article/NB12295459?influxDiv=NAVER",
+      "pub_date": "2026-04-23T10:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
       "link": "https://economist.co.kr/article/view/ecn202604230016",
@@ -48,15 +66,6 @@
       "is_scoop": false
     },
     {
-      "title": "삼전·닉스 호실적에 코스피 6500선 가뿐히 통과",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514102",
-      "pub_date": "2026-04-23T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 법원, '설탕·밀가루 담합' CJ제일제당·삼양에 벌금 각 2억원",
       "link": "https://www.ajunews.com/view/20260423100253844",
       "pub_date": "2026-04-23T10:22:00+09:00",
@@ -75,9 +84,9 @@
       "is_scoop": false
     },
     {
-      "title": "구윤철 \"'올해 1분기 GDP 1.7% 성장'에 정책효과도 크게 기여\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006645",
-      "pub_date": "2026-04-23T10:21:00+09:00",
+      "title": "삼전·닉스 호실적에 코스피 6500선 가뿐히 통과",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514102",
+      "pub_date": "2026-04-23T10:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -86,6 +95,15 @@
     {
       "title": "반도체發 수출호조에 역성장 극복…‘중동 리스크’ 장기화 최대 변수",
       "link": "https://biz.heraldcorp.com/article/10723778?ref=naver",
+      "pub_date": "2026-04-23T10:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구윤철 \"'올해 1분기 GDP 1.7% 성장'에 정책효과도 크게 기여\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006645",
       "pub_date": "2026-04-23T10:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,20 +129,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
-      "link": "https://news.tf.co.kr/read/life/2316312.htm",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 1분기 한국 GDP 1.7% 급반등…반도체가 악재 눌렀다",
       "link": "https://www.mk.co.kr/article/12024994",
       "pub_date": "2026-04-23T10:20:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
+      "link": "https://news.tf.co.kr/read/life/2316312.htm",
+      "pub_date": "2026-04-23T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -156,21 +174,21 @@
       "is_scoop": false
     },
     {
-      "title": "중동 긴장 속 성장 궤도… 1분기 1.7%, 5년6개월 만에 최고",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=718360",
-      "pub_date": "2026-04-23T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
       "link": "https://magazine.hankyung.com/business/article/202604231100b",
       "pub_date": "2026-04-23T10:18:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 긴장 속 성장 궤도… 1분기 1.7%, 5년6개월 만에 최고",
+      "link": "http://www.seoulwire.com/news/articleView.html?idxno=718360",
+      "pub_date": "2026-04-23T10:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -192,11 +210,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/23/RZW3HWD6OBBVFEKS4EKAW2OJIE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 각 벌금 2억원...",
+      "link": "https://www.sedaily.com/article/20036106?ref=naver",
       "pub_date": "2026-04-23T10:14:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,21 +228,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 각 벌금 2억원 ...",
-      "link": "https://www.sedaily.com/article/20036106?ref=naver",
-      "pub_date": "2026-04-23T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"호르무즈 해협 긴장 고조\"…이란 혁명수비대, 컨테이너선 향해 발포",
       "link": "http://www.bizwnews.com/news/articleView.html?idxno=134651",
       "pub_date": "2026-04-23T10:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
+      "link": "https://biz.chosun.com/topics/law_firm/2026/04/23/RZW3HWD6OBBVFEKS4EKAW2OJIE/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-23T10:14:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -462,8 +480,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 원헌드레드, 더보이즈 공연 송출 금지 가처분 패소",
-      "link": "https://news.jtbc.co.kr/article/NB12295454?influxDiv=NAVER",
+      "title": "[단독]대구 도시철서 방화 시도…라이터·살충제 소지한 40대 체포",
+      "link": "https://www.nocutnews.co.kr/news/6506815?utm_source=naver&utm_medium=article&utm_campaign=20260423095850",
       "pub_date": "2026-04-23T09:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -471,8 +489,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독]대구 도시철서 방화 시도…라이터·살충제 소지한 40대 체포",
-      "link": "https://www.nocutnews.co.kr/news/6506815?utm_source=naver&utm_medium=article&utm_campaign=20260423095850",
+      "title": "[단독] 원헌드레드, 더보이즈 공연 송출 금지 가처분 패소",
+      "link": "https://news.jtbc.co.kr/article/NB12295454?influxDiv=NAVER",
       "pub_date": "2026-04-23T09:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -588,8 +606,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
+      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -597,8 +615,8 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
+      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "옆차 들어오자 알아서 원래 차도로…6월 고속도로 달릴 '무인트럭' 미리...",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189835",
-      "pub_date": "2026-04-23T08:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신현송-구윤철 첫 회동, '정책 조합' 강조…\"환율 관련 폭넓게 논의\"(종...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03148806645419072",
-      "pub_date": "2026-04-23T08:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
