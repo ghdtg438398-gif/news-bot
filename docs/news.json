@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 13:45:30",
+  "updated": "2026-04-23 13:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원… 전년比 338% 증가",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256533",
+      "pub_date": "2026-04-23T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"시장 1위 기업도 AI 답변서 누락될 수 있다\"...커뮤니케이션의 새 지표...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119247",
+      "pub_date": "2026-04-23T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "신세계百 '맞춤 선물'·이마트 '미식 직소싱'… 가정의 달 공략",
       "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201205",
@@ -156,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
+      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
+      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
       "pub_date": "2026-04-23T13:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
-      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
+      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
       "pub_date": "2026-04-23T13:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "한국경제 1분기 1.7% 성장... 반도체 수출 증가에 '어닝서프라이즈'",
       "link": "http://www.efnews.co.kr/news/articleView.html?idxno=129308",
       "pub_date": "2026-04-23T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 韓GDP 1.7% '깜짝 성장'…중동발 악재에도 전망치 2배(종합)",
-      "link": "https://www.nocutnews.co.kr/news/6506875?utm_source=naver&utm_medium=article&utm_campaign=20260423103751",
-      "pub_date": "2026-04-23T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美상원, '트럼프 전쟁 권한 제한' 동의안 또 부결",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260423103623ck5",
-      "pub_date": "2026-04-23T10:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
