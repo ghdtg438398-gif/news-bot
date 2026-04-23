@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 11:50:28",
+  "updated": "2026-04-23 11:55:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]종합특검, 심우정 '내란 가담 의혹' 관련 대검 압수수색",
+      "link": "https://www.nocutnews.co.kr/news/6506980?utm_source=naver&utm_medium=article&utm_campaign=20260423115152",
+      "pub_date": "2026-04-23T11:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[뉴공 아카이브]퍼니포: 남욱이 폭로한 ‘尹-박영수-김만배’ 부당거래...",
       "link": "http://www.ddanzi.com/879564144",
@@ -39,21 +48,21 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
-      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
-      "pub_date": "2026-04-23T11:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
       "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
       "pub_date": "2026-04-23T11:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -93,12 +102,12 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 끌어올린 성장률···1분기 1.7% '깜짝 반등'",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422339",
+      "title": "[속보] 특검, 심우정 전 검찰총장 '내란 중요임무' 혐의 등으로 대검 압...",
+      "link": "https://www.pressian.com/pages/articles/2026042311412272441?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -111,12 +120,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, 심우정 전 검찰총장 '내란 중요임무' 혐의 등으로 대검 압...",
-      "link": "https://www.pressian.com/pages/articles/2026042311412272441?utm_source=naver&utm_medium=search",
+      "title": "반도체가 끌어올린 성장률···1분기 1.7% '깜짝 반등'",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422339",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -165,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심서 징역형 집유",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529507&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T11:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 서현우, 윤종빈 감독 신작 '보통 사람들' 합류…하정우·손석구...",
       "link": "https://www.news1.kr/entertain/movie/6146311",
       "pub_date": "2026-04-23T11:39:00+09:00",
@@ -181,6 +181,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심서 징역형 집유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529507&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "정동영 \"뉴스에 나온 것도 기밀?…지나친 정략\"",
@@ -210,30 +219,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 창당 최저 지지율, 15% 국민의힘…이재명 대통령 지지율 69%",
+      "title": "[속보] 국민의힘, '창당 최저 지지율' 15%···이재명 대통령 지지율은...",
       "link": "https://dgmbc.com/NewsArticle/836806",
       "pub_date": "2026-04-23T11:34:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, 대검 압수수색…심우정 계엄 관여 의혹 수사",
-      "link": "https://www.donga.com/news/Society/article/all/20260423/133797496/1",
-      "pub_date": "2026-04-23T11:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미국 상원, '트럼프 전쟁 권한 제한' 결의안 5번째 부결",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189872",
-      "pub_date": "2026-04-23T11:33:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -246,9 +237,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, 심우정 前검찰총장 계엄 관여 의혹 수사…대검 압수수색",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525574",
-      "pub_date": "2026-04-23T11:31:00+09:00",
+      "title": "미국 상원, '트럼프 전쟁 권한 제한' 결의안 5번째 부결",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189872",
+      "pub_date": "2026-04-23T11:33:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]종합특검, 대검 압수수색…심우정 계엄 관여 의혹 수사",
+      "link": "https://www.donga.com/news/Society/article/all/20260423/133797496/1",
+      "pub_date": "2026-04-23T11:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -264,20 +264,20 @@
       "is_scoop": false
     },
     {
+      "title": "[속보]특검, 심우정 前검찰총장 계엄 관여 의혹 수사…대검 압수수색",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525574",
+      "pub_date": "2026-04-23T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[김진형의 별별칼럼] 호르무즈 위기가 던진 ‘신 해양전략’ 구상…경제...",
       "link": "https://www.news2day.co.kr/article/20260423500090",
       "pub_date": "2026-04-23T11:30:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체 훈풍에 韓경제 ‘활짝’…5년6개월 만에 최고 성장률",
-      "link": "https://www.kukinews.com/article/view/kuk202604230100",
-      "pub_date": "2026-04-23T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -288,6 +288,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 훈풍에 韓경제 ‘활짝’…5년6개월 만에 최고 성장률",
+      "link": "https://www.kukinews.com/article/view/kuk202604230100",
+      "pub_date": "2026-04-23T11:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1787,15 +1796,6 @@
     {
       "title": "구윤철 \"1분기 GDP, 반도체 호황 더해 정책효과 크게 기여\"",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03716246645419072",
-      "pub_date": "2026-04-23T10:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 끌었다…韓 경제 1분기 1.7% 반등, ‘예상치 두 배’",
-      "link": "https://www.ekn.kr/web/view.php?key=20260423024449349",
       "pub_date": "2026-04-23T10:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
