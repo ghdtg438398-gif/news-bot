@@ -1,7 +1,205 @@
 {
-  "updated": "2026-04-23 15:35:35",
+  "updated": "2026-04-23 15:40:48",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 혼다, 한국서 車 판매 사업 철수",
+      "link": "https://economist.co.kr/article/view/ecn202604230050",
+      "pub_date": "2026-04-23T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오피셜] 정몽규 KFA 회장에 대한 문체부 중징계 요구, 법적 문제 없어",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209367",
+      "pub_date": "2026-04-23T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[GDP 효과] 스테이트스트리트 \"韓 1분기 서프라이즈 통화긴축 기대 유지...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411304",
+      "pub_date": "2026-04-23T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수한다…진출 23년만",
+      "link": "https://www.dt.co.kr/article/12059182?ref=naver",
+      "pub_date": "2026-04-23T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
+      "link": "https://www.etoday.co.kr/news/view/2578571",
+      "pub_date": "2026-04-23T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
+      "link": "https://www.sedaily.com/article/20036300?ref=naver",
+      "pub_date": "2026-04-23T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수…진출 23년만",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306305?division=NAVER",
+      "pub_date": "2026-04-23T15:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日혼다, 한국서 올해 말 자동차 판매 사업 종료",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603853",
+      "pub_date": "2026-04-23T15:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 자동차 부문 한국 시장 철수",
+      "link": "https://www.hankyung.com/article/202604232173i",
+      "pub_date": "2026-04-23T15:37:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국 사업 철수…한국 진출 23년 만",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260423153624r7C",
+      "pub_date": "2026-04-23T15:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 자동차 판매 사업 올해 말 종료",
+      "link": "https://zdnet.co.kr/view/?no=20260423153553",
+      "pub_date": "2026-04-23T15:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년 만",
+      "link": "https://www.hankyung.com/article/2026042321627",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 한국 시장 철수 발표…올해 말 국내 판매 중단",
+      "link": "https://www.sidae.com/article/2026042315351249140",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 57.88p(0.90%) 오른 6475.81(마감)",
+      "link": "https://www.etoday.co.kr/news/view/2578568",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[나이스뷰] 1분기 1.7% '깜짝 성장'…원인은 반도체 호황+기저효과",
+      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89725",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
+      "link": "https://www.viva100.com/article/20260423501108",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 0.90% 상승 6475.81...코스닥, 0.58% 내린 1174.31 마감",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04808486645419072",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6460선 안착...사상 최고치 랠리",
+      "link": "http://www.metroseoul.co.kr/article/20260423500376",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 57.88p(0.90%) 오른 6475.81 마감",
+      "link": "https://www.ajunews.com/view/20260423153337556",
+      "pub_date": "2026-04-23T15:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 올해 말 한국 자동차 시장 철수…국내 車 사업 진출 23년만",
+      "link": "https://www.chosun.com/economy/auto/2026/04/23/GUFA7BE6IFFLDGYSYZ5I63J7TM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-23T15:35:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]혼다코리아 \"올 연말 韓 자동차 사업 철수…오토바이는 유지\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04792086645419072",
+      "pub_date": "2026-04-23T15:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'미토스' 파장에 민관 촉각…\"보안 체계 자동화로 대응해야\"",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298885&inflow=N",
+      "pub_date": "2026-04-23T15:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 혼다 “올해말 기점으로 한국시장서 자동차 판매 사업 종료”",
       "link": "https://www.kukinews.com/article/view/kuk202604230167",
@@ -36,15 +234,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'미토스' 파장에 민관 촉각…\"보안 체계 자동화로 대응해야\"",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298885&inflow=N",
-      "pub_date": "2026-04-23T15:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -84,15 +273,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사흘 연속 ‘사상 최고치’…6460선",
-      "link": "https://biz.chosun.com/stock/2026/04/23/IM3JJ6MABZEQ3MXMAB4SNI7HAI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-23T15:31:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[공식] 김신영, '불화설' 4년 만에 입 연다…마침내 재회, \"단독 출연\" (...",
       "link": "https://www.tenasia.co.kr/article/2026042319754",
       "pub_date": "2026-04-23T15:31:00+09:00",
@@ -108,6 +288,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사흘 연속 ‘사상 최고치’…6460선",
+      "link": "https://biz.chosun.com/stock/2026/04/23/IM3JJ6MABZEQ3MXMAB4SNI7HAI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-23T15:31:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -147,20 +336,20 @@
       "is_scoop": false
     },
     {
-      "title": "반도체 덕에 1.7% 깜짝 성장했지만…가계·자영업자 \"체감은 한겨울\"",
-      "link": "https://www.dailian.co.kr/news/view/1636988/?sc=Naver",
-      "pub_date": "2026-04-23T15:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "홍준표가 장동혁의 '허술한 미국방문'을 꼬집었다, \"워싱턴 로비스트에...",
       "link": "https://www.huffingtonpost.kr/article/256815",
       "pub_date": "2026-04-23T15:24:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 덕에 1.7% 깜짝 성장했지만…가계·자영업자 \"체감은 한겨울\"",
+      "link": "https://www.dailian.co.kr/news/view/1636988/?sc=Naver",
+      "pub_date": "2026-04-23T15:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -210,6 +399,15 @@
       "is_scoop": false
     },
     {
+      "title": "발언하는 장동혁 대표",
+      "link": "https://www.news1.kr/photos/7872518",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
       "link": "https://www.news1.kr/photos/7872514",
       "pub_date": "2026-04-23T15:19:00+09:00",
@@ -219,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 장동혁 대표",
-      "link": "https://www.news1.kr/photos/7872518",
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872515",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,27 +435,9 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
-      "link": "https://www.news1.kr/photos/7872515",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
       "link": "https://www.news1.kr/photos/7872517",
       "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
-      "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -273,17 +453,8 @@
       "is_scoop": false
     },
     {
-      "title": "한은, 2026년 1/4분기 실질 국내총생산 설명회",
-      "link": "https://www.newspim.com/news/view/20260423001016",
-      "pub_date": "2026-04-23T15:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
       "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -297,6 +468,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한은, 2026년 1/4분기 실질 국내총생산 설명회",
+      "link": "https://www.newspim.com/news/view/20260423001016",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -608,6 +797,15 @@
     {
       "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[기획]통신사·네카오까지 번진 보안 충격…미토스 대응 태세 돌입",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367071",
       "pub_date": "2026-04-23T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1601,204 +1799,6 @@
       "pub_date": "2026-04-23T14:15:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 영업익 2.5兆…전년比 30.8%↓",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256540",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차 1분기 영업익 2조5147억원…전년比 30.8% 감소",
-      "link": "https://www.ajunews.com/view/20260423140937280",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1Q 매출 45조9389억...전년비 3.4%↑",
-      "link": "https://www.newspim.com/news/view/20260423000899",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차, 1분기 매출 46조 \"역대 최대 달성\"",
-      "link": "https://view.asiae.co.kr/article/2026042314141166920",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차 1분기 영업익 2조5147억원…작년 동기 대비 30.8%↓",
-      "link": "https://www.mk.co.kr/article/12025220",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 올 1분기 매출 45조 9388억원… 전년比 3.4%↑",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395880",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대자동차, 1분기 영업이익 2.51조…전분기 대비 48%↑·전년 대...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569766",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차 1분기 영업익 2조5147억원…작년 동기 대비 30.8%↓",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738479",
-      "pub_date": "2026-04-23T14:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 매출 45조9389억원… 전년 대비 3.4%↑",
-      "link": "https://www.sidae.com/article/2026042312535732035",
-      "pub_date": "2026-04-23T14:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]듀오 회원 43만 명 신체조건·혼인경력·학력·가족관계까지 털렸...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230038",
-      "pub_date": "2026-04-23T14:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 영업이익 2조5147억원...전년 대비 30.8% 감소",
-      "link": "https://www.sedaily.com/article/20036226?ref=naver",
-      "pub_date": "2026-04-23T14:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차, 1분기 영업이익 2조 5147억 원…매출 45조 9389억 원",
-      "link": "https://www.nocutnews.co.kr/news/6507051?utm_source=naver&utm_medium=article&utm_campaign=20260423021251",
-      "pub_date": "2026-04-23T14:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "교보생명 오너 3세 신중현, SBI저축은행 시너지팀장으로 이동",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514231",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'1조 달러' 넘는 미-이란 전쟁 비용...그 큰 비용은 누가 치르나 [지금이...",
-      "link": "https://www.ytn.co.kr/_ln/0134_202604231412284045",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 매출 '45조9389억원'·영업익 '2조5147억원'",
-      "link": "https://www.news2day.co.kr/article/20260423500023",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 올 1분기 영업익 2조 5146억원… 전년比 30.8%↓",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395879",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1Q 영업익 2.5조원…전년比 30.8% ↓",
-      "link": "https://www.newspim.com/news/view/20260423000895",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 영업익 2조5147억원…전년 대비 30.8%↓",
-      "link": "https://www.sidae.com/article/2026042313373551030",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 매출액 45조9389억원···전년比 3.4%↑",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401057",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 매출액 45조9389억…전년 대비 3.4%↑",
-      "link": "https://www.etoday.co.kr/news/view/2578496",
-      "pub_date": "2026-04-23T14:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차, 1Q 당기순이익 2.6조원…전년比 23.6% ↓",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04418166645419072",
-      "pub_date": "2026-04-23T14:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1Q 매출 45.9조…영업익 2.5조 '전년比 31%↓'",
-      "link": "https://www.news1.kr/industry/general-industry/6146678",
-      "pub_date": "2026-04-23T14:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
