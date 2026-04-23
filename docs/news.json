@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 15:05:30",
+  "updated": "2026-04-23 15:10:29",
   "total": 200,
   "items": [
+    {
+      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
+      "link": "https://www.news1.kr/photos/7872449",
+      "pub_date": "2026-04-23T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
+      "link": "https://www.news1.kr/photos/7872448",
+      "pub_date": "2026-04-23T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
+      "link": "https://dgmbc.com/NewsArticle/836849",
+      "pub_date": "2026-04-23T15:07:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "이강길, “2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다...",
+      "link": "https://newstapa.org/article/LTWYd",
+      "pub_date": "2026-04-23T15:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "휴대전화 보다 '딱 걸렸다'…법정서 혼쭐 난 중흥건설 대표",
+      "link": "https://www.nocutnews.co.kr/news/6507130?utm_source=naver&utm_medium=article&utm_campaign=20260423030452",
+      "pub_date": "2026-04-23T15:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "‘반도체 초호황’ 1분기 GDP 1.7%↑…실질 GDI 38년 만에 최대 증가",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567127&class=18&grp=",
+      "pub_date": "2026-04-23T15:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "해경 순직 사고 당직 팀장 보석 석방",
       "link": "http://www.incheonin.com/news/articleView.html?idxno=117398",
@@ -21,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주호영, 대구시장 불출마",
-      "link": "https://www.pressian.com/pages/articles/2026042314590417555?utm_source=naver&utm_medium=search",
+      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
+      "title": "[속보] 주호영, 대구시장 불출마",
+      "link": "https://www.pressian.com/pages/articles/2026042314590417555?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -99,6 +153,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘 “정동영 장관 해임 건의안 당론으로 추진”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543914&ref=A",
+      "pub_date": "2026-04-23T14:58:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -876,15 +939,6 @@
       "is_scoop": true
     },
     {
-      "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
-      "pub_date": "2026-04-23T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 4급 유럽 출장에 '976만원' 비즈니스석 제공한 국세청…2인 항공...",
       "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28131",
       "pub_date": "2026-04-23T14:26:00+09:00",
@@ -892,6 +946,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "창원 장애인 주차구역 단계적 정비 추진",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
-      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
-      "pub_date": "2026-04-23T13:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
-      "pub_date": "2026-04-23T13:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04260726645419072",
-      "pub_date": "2026-04-23T13:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 이끈 '소득 급등'... 1분기 GDI 7.5% 폭증",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=885029",
-      "pub_date": "2026-04-23T13:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '홈런-홈런-홈런-홈런-홈런' 또 터졌다! 日 503억 괴물타자, ML 신...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812335",
-      "pub_date": "2026-04-23T13:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1Q 매출 5.5조 원·영업익 1467억 원",
-      "link": "https://www.news1.kr/industry/general-industry/6146571",
-      "pub_date": "2026-04-23T13:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 실질 경제성장률 1.7%",
-      "link": "https://www.naeil.com/news/read/586423?ref=naver",
-      "pub_date": "2026-04-23T13:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
