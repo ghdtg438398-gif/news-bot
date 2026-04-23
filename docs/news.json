@@ -1,13 +1,49 @@
 {
-  "updated": "2026-04-23 20:55:27",
+  "updated": "2026-04-23 21:00:37",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]이란 “호르무츠 통행료 첫 입금 완료…땡큐” 진짜 30억?",
+      "link": "https://www.munhwa.com/article/11584601?ref=naver",
+      "pub_date": "2026-04-23T20:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "전한길 '5·18 북한 개입설' 음모론 주장 \"역사 능욕 묵과 못해\"",
+      "link": "https://www.mediatoday.co.kr/news/articleView.html?idxno=333995",
+      "pub_date": "2026-04-23T20:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[월드 e-브리핑] OECD 소득세 부담 10년 내 최고…고용 위축 우려↑",
       "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1522164",
       "pub_date": "2026-04-23T20:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'빅매치' 앞두고 선전포고‥\"이정효 감독, 단디 준비하십쇼\"",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817584_37004.html",
+      "pub_date": "2026-04-23T20:46:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[여기는 전남] 레미콘, 담장 뚫고 5ｍ 높이 옹벽서 추락…주차 차량 덮...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544311&ref=A",
+      "pub_date": "2026-04-23T20:44:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[포토뉴스] 김석필 천안시장 권한대행, 풍세산단ㆍ풍서천 등 재해복구 ...",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1361061",
-      "pub_date": "2026-04-23T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] “대낮 만취 운전” 50대女, 중앙분리대 ‘쾅’ 들이받고 차량 ...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/23/20260423500234?wlog_tag3=naver",
-      "pub_date": "2026-04-23T17:00:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'오류' 운전면허시스템 나흘째만에 ‘부분’ 정상화… 온라인 적성검사...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042309154039765",
-      "pub_date": "2026-04-23T16:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성전자 노조 \"5월 21일부터 6월 7일까지 총파업···전면 투쟁...",
-      "link": "https://magazine.hankyung.com/business/article/202604232493b",
-      "pub_date": "2026-04-23T16:59:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
