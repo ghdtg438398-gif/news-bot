@@ -1,7 +1,151 @@
 {
-  "updated": "2026-04-23 11:40:27",
+  "updated": "2026-04-23 11:45:36",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
+      "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정청래 “목표는 높게, 자세는 낮게”",
+      "link": "https://biz.heraldcorp.com/article/10724006?ref=naver",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李 대통령 지지율 69% '고공행진'…국민의힘 15% '역대 최저'",
+      "link": "https://economist.co.kr/article/view/ecn202604230028",
+      "pub_date": "2026-04-23T11:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'연일 최고치' 6500고지 넘은 코스피, '7천피' 향해 속도 내나",
+      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 특검, 심우정 전 검찰총장 '내란 중요임무' 혐의 등으로 대검 압...",
+      "link": "https://www.pressian.com/pages/articles/2026042311412272441?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동전쟁 불구 우리 경제 1분기 1.7% 깜짝 성장",
+      "link": "https://news.cpbc.co.kr/article/1172396?division=NAVER",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어올린 성장률···1분기 1.7% '깜짝 반등'",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422339",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[정치家] 강훈식 대통령 비서실장 ㅣ 중동발 위기 속 에너지 확보·절약...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569686",
+      "pub_date": "2026-04-23T11:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]李대통령 지지율 69%로 3연속 최고치...국힘 15% 역대 최저",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230035",
+      "pub_date": "2026-04-23T11:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '심우정 내란 혐의' 대검 압수수색",
+      "link": "https://news.tf.co.kr/read/life/2316398.htm",
+      "pub_date": "2026-04-23T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "민주당 광주시당, 광역의원 1차 경선 결과 발표…현역 8명 탈락",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838732",
+      "pub_date": "2026-04-23T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어올린 韓 1분기 1.7% 깜짝 성장…국내총소득 38년 만에 '최고...",
+      "link": "https://www.newspim.com/news/view/20260423000613",
+      "pub_date": "2026-04-23T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 서현우, 윤종빈 감독 신작 '보통 사람들' 합류…하정우·손석구...",
+      "link": "https://www.news1.kr/entertain/movie/6146311",
+      "pub_date": "2026-04-23T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심서 징역형 집유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529507&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "정동영 \"뉴스에 나온 것도 기밀?…지나친 정략\"",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260423113715j1C",
@@ -66,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]특검, 심우정 前검찰총장 계엄 관여 의혹 수사…대검 압수수색",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525574",
-      "pub_date": "2026-04-23T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동發 위기에도…재경부 \"올해 성장률 2% 달성 가능\" 낙관적 전망",
       "link": "https://view.asiae.co.kr/article/2026042311211241509",
       "pub_date": "2026-04-23T11:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]특검, 심우정 前검찰총장 계엄 관여 의혹 수사…대검 압수수색",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525574",
+      "pub_date": "2026-04-23T11:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -156,21 +300,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395835",
-      "pub_date": "2026-04-23T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "홈플러스 익스프레스 매각, 하림 참여로 '숨통'…홈플러스 회생 분수령...",
       "link": "http://www.queen.co.kr/news/articleView.html?idxno=455640",
       "pub_date": "2026-04-23T11:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395835",
+      "pub_date": "2026-04-23T11:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -705,20 +849,20 @@
       "is_scoop": false
     },
     {
-      "title": "미 연방 상원, ‘트럼프 전쟁 권한 제한’ 동의안 또 부결",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543760&ref=A",
-      "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "“어제 산 중고차가 갑자기 사라졌어요”…잡고보니 범인은 판매자",
       "link": "https://www.mk.co.kr/article/12025046",
       "pub_date": "2026-04-23T10:58:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미 연방 상원, ‘트럼프 전쟁 권한 제한’ 동의안 또 부결",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543760&ref=A",
+      "pub_date": "2026-04-23T10:58:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -759,15 +903,6 @@
       "is_scoop": false
     },
     {
-      "title": "미국 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529365&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[종합]'설탕 담합' CJ·삼양사 前경영진 1심 집유…李 '경고' 후 법원 첫...",
       "link": "https://www.newspim.com/news/view/20260423000506",
       "pub_date": "2026-04-23T10:55:00+09:00",
@@ -779,6 +914,15 @@
     {
       "title": "‘종횡무진’ 정청래 “목표는 높게, 자세는 낮게”…‘김용 딜레마’...",
       "link": "https://biz.heraldcorp.com/article/10723836?ref=naver",
+      "pub_date": "2026-04-23T10:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미국 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529365&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T10:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1656,150 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성SDS, 1분기 영업익 783억…전년비 70%↓",
-      "link": "https://zdnet.co.kr/view/?no=20260423100600",
-      "pub_date": "2026-04-23T10:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'전분당 담합' CJ제일제당·삼양사 前 임직원 징역형 집행유예",
-      "link": "https://view.asiae.co.kr/article/2026042309584988525",
-      "pub_date": "2026-04-23T10:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "신현송 “1분기 성장률, 韓 경제의 복원력 보여줘”",
-      "link": "https://www.sedaily.com/article/20036096?ref=naver",
-      "pub_date": "2026-04-23T10:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]검찰, 10조원대 전분당 담합 적발…대상·사조CPK·CJ 등 25명 기소",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03696566645419072",
-      "pub_date": "2026-04-23T10:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 반도체 훈풍에 사상 첫 6500선 돌파…SK하이닉스 역대급...",
-      "link": "https://www.segye.com/newsView/20260423505665?OutUrl=naver",
-      "pub_date": "2026-04-23T10:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 檢, '10조원대 전분당 담합' 대상·사조·CJ제일제당 등 25명 기소",
-      "link": "https://www.newspim.com/news/view/20260423000321",
-      "pub_date": "2026-04-23T10:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 캐시워크 돈버는퀴즈 정답 4월 23일",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604230031",
-      "pub_date": "2026-04-23T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "한국 1분기 GDP 1.7% 성장...5년 6개월 만에 최고치",
-      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=248698",
-      "pub_date": "2026-04-23T10:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]삼성전자 5%대 상승…52주 신고가 경신",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603093",
-      "pub_date": "2026-04-23T10:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "광주 우치동물원 인기…올해 1분기 11만명 다녀가",
-      "link": "https://www.nocutnews.co.kr/news/6506830?utm_source=naver&utm_medium=article&utm_campaign=20260423095950",
-      "pub_date": "2026-04-23T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(초안) 노영희 변호사, 강찬호 중앙일보 논설위원, 김준일 시사평론가 ...",
-      "link": "https://radio.ytn.co.kr/program/?f=2&id=108509&s_mcd=0214&s_hcd=01",
-      "pub_date": "2026-04-23T10:00:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日닛케이지수 장중 사상 처음 60,000선 넘어",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306165?division=NAVER",
-      "pub_date": "2026-04-23T10:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]대구 도시철서 방화 시도…라이터·살충제 소지한 40대 체포",
-      "link": "https://www.nocutnews.co.kr/news/6506815?utm_source=naver&utm_medium=article&utm_campaign=20260423095850",
-      "pub_date": "2026-04-23T09:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[단독] 원헌드레드, 더보이즈 공연 송출 금지 가처분 패소",
-      "link": "https://news.jtbc.co.kr/article/NB12295454?influxDiv=NAVER",
-      "pub_date": "2026-04-23T09:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 서울 송파구 복정역 인근 화훼마을에 불...소방 대응 1단계",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604230959564194",
-      "pub_date": "2026-04-23T09:59:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"반도체의 힘\" 1분기 1.7% '깜짝 성장'…GNI 증가율도 38년 만에 최대",
-      "link": "https://www.mt.co.kr/economy/2026/04/23/2026042309292211683",
-      "pub_date": "2026-04-23T09:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
