@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 13:35:27",
+  "updated": "2026-04-23 13:40:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]\"김민석 총리 초청\" 베트남 총리 요청에 이 대통령 \"귀국 즉시 전...",
+      "link": "https://www.mt.co.kr/politics/2026/04/23/2026042313355786206",
+      "pub_date": "2026-04-23T13:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어 올린 '깜짝 성장'… 1분기 GDP 1.7% 증가(종합)",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395871",
+      "pub_date": "2026-04-23T13:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LGD, 1분기 영업익 1467억...전년비 338% ↑",
+      "link": "http://www.inews24.com/view/1962842",
+      "pub_date": "2026-04-23T13:35:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1분기 매출 '5조5340억원'·영업익 '1467억'",
+      "link": "https://www.news2day.co.kr/article/20260422500196",
+      "pub_date": "2026-04-23T13:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'깜짝' 경제 성장…2분기부터 '중동 전쟁' 후폭풍 온다",
+      "link": "https://www.asiatime.co.kr/article/20260423500254",
+      "pub_date": "2026-04-23T13:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]미국 프로축구 LAFC 0-0 콜로라도(후반 종료)",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603402",
+      "pub_date": "2026-04-23T13:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "현대차·기아, 2026 US 뉴스 '최고 하이브리드카' 7종 석권… 3년 연속 최...",
       "link": "https://www.theguru.co.kr/news/article.html?no=100938",
@@ -39,15 +93,6 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
-      "pub_date": "2026-04-23T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
       "link": "https://www.ajunews.com/view/20260423132130181",
       "pub_date": "2026-04-23T13:24:00+09:00",
@@ -57,12 +102,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
-      "pub_date": "2026-04-23T13:22:00+09:00",
+      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
+      "pub_date": "2026-04-23T13:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -77,6 +122,15 @@
     {
       "title": "[속보]LG디스플레이, 1분기 영업이익 1467억원…전년比 338% 증가",
       "link": "https://www.ajunews.com/view/20260423132022180",
+      "pub_date": "2026-04-23T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
       "pub_date": "2026-04-23T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1745,60 +1799,6 @@
       "pub_date": "2026-04-23T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 국세청, 1인 기획사 유명 연예인 '전방위' 세무조사…왜?",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28118",
-      "pub_date": "2026-04-23T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 한화솔루션, '한화임팩트 지분 3000억 매각설'에 \"확정된 바 없다...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569691",
-      "pub_date": "2026-04-23T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '설탕 가격 담합' CJ제일제당·삼양에 각 벌금 2억 원 선고...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042310231461688",
-      "pub_date": "2026-04-23T10:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"멈춰선 창원, 다시 뛰게\"…송순호 \"16년 의정생활로 실전경험 쌓아\"",
-      "link": "https://www.nocutnews.co.kr/news/6506856?utm_source=naver&utm_medium=article&utm_campaign=20260423103255",
-      "pub_date": "2026-04-23T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美 상원, ‘트럼프 전쟁 권한 제한’ 시도 또 무산",
-      "link": "https://www.dt.co.kr/article/12059090?ref=naver",
-      "pub_date": "2026-04-23T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "美 연방상원, '트럼프 전쟁 권한 제한' 시도 또 무산",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390096.html",
-      "pub_date": "2026-04-23T10:33:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": false,
       "is_scoop": false
     }
