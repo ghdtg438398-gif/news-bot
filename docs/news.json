@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 13:55:29",
+  "updated": "2026-04-23 14:00:40",
   "total": 200,
   "items": [
+    {
+      "title": "1분기 GDP 성장률 1.7%… 5년 6개월 만에 최고치",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834800",
+      "pub_date": "2026-04-23T13:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "수출·투자 반등에 1분기 GDP 1.7% 성장…“반도체가 견인, 소비는 버팀...",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=810617",
+      "pub_date": "2026-04-23T13:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[POP!이벤트] 롯데웰푸드 '칸쵸', 가정의 달 맞아 '내 이름을 찾아라' 시...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119174",
+      "pub_date": "2026-04-23T13:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 악재 누른 반도체의 힘…1분기 韓 GDP 1.7% ‘깜짝 성장’",
+      "link": "https://economist.co.kr/article/view/ecn202604230030",
+      "pub_date": "2026-04-23T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
+      "pub_date": "2026-04-23T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
+      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
+      "pub_date": "2026-04-23T13:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 신한금융, 1분기 순이익 1조6226억원…전년비 9.0% 증가",
       "link": "https://www.news2day.co.kr/article/20260423500106",
@@ -66,21 +120,21 @@
       "is_scoop": false
     },
     {
-      "title": "\"시장 1위 기업도 AI 답변서 누락될 수 있다\"...커뮤니케이션의 새 지표...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119247",
-      "pub_date": "2026-04-23T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] LG디스플레이, 1분기 영업익 1467억원… 전년比 338% 증가",
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256533",
       "pub_date": "2026-04-23T13:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"시장 1위 기업도 AI 답변서 누락될 수 있다\"...커뮤니케이션의 새 지표...",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119247",
+      "pub_date": "2026-04-23T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -129,21 +183,21 @@
       "is_scoop": false
     },
     {
-      "title": "'깜짝' 경제 성장…2분기부터 '중동 전쟁' 후폭풍 온다",
-      "link": "https://www.asiatime.co.kr/article/20260423500254",
-      "pub_date": "2026-04-23T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] LG디스플레이, 1분기 매출 '5조5340억원'·영업익 '1467억'",
       "link": "https://www.news2day.co.kr/article/20260422500196",
       "pub_date": "2026-04-23T13:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'깜짝' 경제 성장…2분기부터 '중동 전쟁' 후폭풍 온다",
+      "link": "https://www.asiatime.co.kr/article/20260423500254",
+      "pub_date": "2026-04-23T13:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1747,60 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 日닛케이지수, 사상 첫 ‘6만 선’ 돌파… “트럼프發 중동 훈풍...",
-      "link": "https://www.g-enews.com/view.php?ud=202604231039383291e7e8286d56_1",
-      "pub_date": "2026-04-23T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]서울 송파구 판자촌에 ‘큰 불’…소방 대응 1단계",
-      "link": "https://www.munhwa.com/article/11584412?ref=naver",
-      "pub_date": "2026-04-23T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이준석 “서울 아파트 전세가 61주 연속 올라...명백한 정책 실패...",
-      "link": "https://www.kyeonggi.com/article/20260423580045",
-      "pub_date": "2026-04-23T10:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "檢, '헌법재판관 임명' 최상목 직권남용 고발 사건 각하...\"헌법적 의무...",
-      "link": "https://www.ajunews.com/view/20260423101038880",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 단독 소집으로 열린 국방위원회",
-      "link": "https://www.news1.kr/photos/7871469",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "野 단독 개최한 국방위원회 전체회의",
-      "link": "https://www.news1.kr/photos/7871467",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
