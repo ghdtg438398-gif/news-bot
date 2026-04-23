@@ -1,7 +1,223 @@
 {
-  "updated": "2026-04-23 14:35:32",
+  "updated": "2026-04-23 14:40:52",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] '대구 컷오프' 주호영 \"대구시장 출마 않겠다\"",
+      "link": "https://www.imaeil.com/page/view/2026042314381463863",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 '해든이' 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.imaeil.com/page/view/2026042314383002016",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영, 대구시장 선거 불출마…\"기대에 못미쳐 송구\"",
+      "link": "https://www.dailian.co.kr/news/view/1637035/?sc=Naver",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '사내급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04546086645419072",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 ‘해든이’ 학대 살해한 친모에 무기징역",
+      "link": "https://www.seoul.co.kr/news/society/2026/04/23/20260423500131?wlog_tag3=naver",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'12명 사상 깨비시장 돌진' 70대 남성, 금고형 집유 선고",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04542806645419072",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '대구 컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
+      "link": "https://www.etoday.co.kr/news/view/2578518",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]주호영 \"6·3 지방선거 대구시장 선거 불출마\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603684",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029722984&code=61121111&cp=nv",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 해든이 학대해 살해한 친모, 무기징역",
+      "link": "https://www.wikitree.co.kr/articles/1133132",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영, 무소속 접고 지선 ‘불출마’…“먹던 물에 침 뱉지 않...",
+      "link": "https://www.yeongnam.com/web/view.php?key=20260423020449859",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘대구 컷오프’ 국힘 주호영 “대구시장 출마 않겠다”",
+      "link": "https://www.joongang.co.kr/article/25422743",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, ‘급식 몰아주기’ 삼성웰스토리 과징금 처분 취소",
+      "link": "https://www.etoday.co.kr/news/view/2578519",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "주호영, 6.3지방선거 출마하지 않는다[속보]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04536246645419072",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 '해든이' 학대 살해 친모, 1심 무기징역",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370680",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영, 대구시장 불출마 선언",
+      "link": "http://www.fnnews.com/news/202604231436143754",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "(단독)병원에 속고, 수사에 울고…환자들 '피의자' 굴레 벗다",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298839&inflow=N",
+      "pub_date": "2026-04-23T14:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역'",
+      "link": "https://imnews.imbc.com/news/2026/society/article/6817474_36918.html",
+      "pub_date": "2026-04-23T14:37:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 '해든이' 잔혹 학대 살해 친모 무기징역",
+      "link": "https://www.hankyung.com/article/2026042319127",
+      "pub_date": "2026-04-23T14:37:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.mk.co.kr/article/12025251",
+      "pub_date": "2026-04-23T14:37:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '대구 컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042314361338715",
+      "pub_date": "2026-04-23T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '해든이 사건' 친모 무기징역·친부 4년6개월 선고",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031700",
+      "pub_date": "2026-04-23T14:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
+      "link": "https://www.hangyo.com/news/article.html?no=107487",
+      "pub_date": "2026-04-23T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
+      "pub_date": "2026-04-23T14:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 전북 군산 내흥동 공장서 화재 발생",
       "link": "https://www.etoday.co.kr/news/view/2578514",
@@ -57,15 +273,6 @@
       "is_scoop": true
     },
     {
-      "title": "창원 장애인 주차구역 단계적 정비 추진",
-      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1540121",
-      "pub_date": "2026-04-23T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
       "pub_date": "2026-04-23T14:26:00+09:00",
@@ -84,21 +291,21 @@
       "is_scoop": true
     },
     {
-      "title": "구윤철 \"1분기 GDP 1.7% 반등, 정책 효과도 크게 기여\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306270?division=NAVER",
-      "pub_date": "2026-04-23T14:25:00+09:00",
+      "title": "창원 장애인 주차구역 단계적 정비 추진",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1540121",
+      "pub_date": "2026-04-23T14:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[속보] 군산 내흥동 화재 발생…주민 대피·차량 우회 안내",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864493",
-      "pub_date": "2026-04-23T14:24:00+09:00",
+      "title": "구윤철 \"1분기 GDP 1.7% 반등, 정책 효과도 크게 기여\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306270?division=NAVER",
+      "pub_date": "2026-04-23T14:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -109,6 +316,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 군산 내흥동 화재 발생…주민 대피·차량 우회 안내",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864493",
+      "pub_date": "2026-04-23T14:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[속보] 전북 군산시 내흥동 화재... \"불 피해 주의보\"",
@@ -138,6 +354,15 @@
       "is_scoop": false
     },
     {
+      "title": "중동발 고유가 위기에… 추경 2258억원 긴급처방 내린 제주",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500119?wlog_tag3=naver",
+      "pub_date": "2026-04-23T14:21:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]현대차, 1분기 영업익익 2조5147억원⋯전년比 30.8%↓",
       "link": "http://www.inews24.com/view/1962874",
       "pub_date": "2026-04-23T14:21:00+09:00",
@@ -152,15 +377,6 @@
       "pub_date": "2026-04-23T14:21:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 고유가 위기에… 추경 2258억원 긴급처방 내린 제주",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500119?wlog_tag3=naver",
-      "pub_date": "2026-04-23T14:21:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -660,8 +876,8 @@
       "is_scoop": false
     },
     {
-      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
+      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
+      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -669,8 +885,8 @@
       "is_scoop": false
     },
     {
-      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
-      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
+      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -714,8 +930,8 @@
       "is_scoop": false
     },
     {
-      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 23일 13시 퀴즈 정답 정리",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514216",
+      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
       "pub_date": "2026-04-23T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -723,8 +939,8 @@
       "is_scoop": false
     },
     {
-      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
+      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 23일 13시 퀴즈 정답 정리",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514216",
       "pub_date": "2026-04-23T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1583,222 +1799,6 @@
       "pub_date": "2026-04-23T11:31:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동發 위기에도…재경부 \"올해 성장률 2% 달성 가능\" 낙관적 전망",
-      "link": "https://view.asiae.co.kr/article/2026042311211241509",
-      "pub_date": "2026-04-23T11:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[김진형의 별별칼럼] 호르무즈 위기가 던진 ‘신 해양전략’ 구상…경제...",
-      "link": "https://www.news2day.co.kr/article/20260423500090",
-      "pub_date": "2026-04-23T11:30:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신세계인터내셔날, 엑스니힐로 부산 상륙…유통망 확대",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514040",
-      "pub_date": "2026-04-23T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이재명 대통령 지지율 69% ‘고공행진’…국민의힘 15% ‘역대 최...",
-      "link": "https://www.segye.com/newsView/20260423508407?OutUrl=naver",
-      "pub_date": "2026-04-23T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체 훈풍에 韓경제 ‘활짝’…5년6개월 만에 최고 성장률",
-      "link": "https://www.kukinews.com/article/view/kuk202604230100",
-      "pub_date": "2026-04-23T11:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.etoday.co.kr/news/view/2578445",
-      "pub_date": "2026-04-23T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.joongang.co.kr/article/25422689",
-      "pub_date": "2026-04-23T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 이끈 1.7% 깜짝 성장…중동 리스크 반영되는 2분기 시험대",
-      "link": "https://www.joongang.co.kr/article/25422690",
-      "pub_date": "2026-04-23T11:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00009&news_seq_no=5189889",
-      "pub_date": "2026-04-23T11:27:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "홈플러스 익스프레스 매각, 하림 참여로 '숨통'…홈플러스 회생 분수령...",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455640",
-      "pub_date": "2026-04-23T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395835",
-      "pub_date": "2026-04-23T11:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]종합특검, 심우정 내란 중요 임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.donga.com/news/Politics/article/all/20260423/133797491/1",
-      "pub_date": "2026-04-23T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합] 1분기 GDP 1.7% '깜짝 반등'... 한은 \"중동 리스크 4월부터 본격화...",
-      "link": "https://www.newspim.com/news/view/20260423000564",
-      "pub_date": "2026-04-23T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.mk.co.kr/article/12025091",
-      "pub_date": "2026-04-23T11:25:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://news.jtbc.co.kr/article/NB12295474?influxDiv=NAVER",
-      "pub_date": "2026-04-23T11:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 대검 압수수색...심우정 '내란중요임무종사' 혐의 관련",
-      "link": "https://www.newspim.com/news/view/20260423000601",
-      "pub_date": "2026-04-23T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, '심우정 내란 중요임무 종사 혐의' 관련 대검 압수수...",
-      "link": "https://www.dailian.co.kr/news/view/1636917/?sc=Naver",
-      "pub_date": "2026-04-23T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 성장률 1.7% 반등…수출·투자 회복에 경기 개선",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738414",
-      "pub_date": "2026-04-23T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정부 \"1·4분기 GDP에 정책효과 크게 기여…2·4분기 조정 불가피\"",
-      "link": "http://www.fnnews.com/news/202604231121098516",
-      "pub_date": "2026-04-23T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.viva100.com/article/20260423500460",
-      "pub_date": "2026-04-23T11:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.hankyung.com/article/2026042312437",
-      "pub_date": "2026-04-23T11:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.hankookilbo.com/news/article/A2026042311200004116?did=NA",
-      "pub_date": "2026-04-23T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031661",
-      "pub_date": "2026-04-23T11:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 압수수색",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390120.html",
-      "pub_date": "2026-04-23T11:23:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     }
