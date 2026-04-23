@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 19:05:29",
+  "updated": "2026-04-23 19:10:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 국제유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
+      "link": "https://www.hankyung.com/article/2026042328847",
+      "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 최고가격도 '동결'…휘발유 1934원·경유 1923원",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006877",
+      "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'7언더파 질주'…디펜딩 챔프 이태훈, KPGA 우리금융 첫날 선두",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042906",
+      "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
@@ -147,20 +174,20 @@
       "is_scoop": true
     },
     {
-      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
-      "link": "http://www.breaknews.com/1202626",
-      "pub_date": "2026-04-23T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
       "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
       "pub_date": "2026-04-23T18:32:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
+      "link": "http://www.breaknews.com/1202626",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'설탕 가격 담합' CJ제일제당·삼양사 임직원 집행유예…검찰, '담합 조...",
-      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302252",
-      "pub_date": "2026-04-23T16:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "혼다, 23년 만에 자동차사업 철수…모터사이클·AS는 유지",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543968&ref=A",
-      "pub_date": "2026-04-23T16:11:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정동영 \"뉴스 나온 것도 기밀이냐\" vs 국힘 \"심각한 외교·안보 자해행위...",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567135&class=32&grp=",
-      "pub_date": "2026-04-23T16:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
