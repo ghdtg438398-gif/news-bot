@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 19:00:38",
+  "updated": "2026-04-23 19:05:29",
   "total": 200,
   "items": [
+    {
+      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격 동결…휘발유 1934원·경유 1923원",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838833",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[Why?] 지선 앞두고 논란 가중되는 인천 기초의원 선거구 획정안",
+      "link": "https://www.joongboo.com/news/articleView.html?idxno=363723818",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
+      "link": "https://www.news1.kr/economy/trend/6146639",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604141",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "국힘 \"정동영 해임 건의안 추진\"…정 \"지나친 정략\"",
       "link": "http://www.yonhapnewstv.co.kr/MYH20260423185618zvX",
@@ -93,20 +147,20 @@
       "is_scoop": true
     },
     {
-      "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
-      "pub_date": "2026-04-23T18:32:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
       "link": "http://www.breaknews.com/1202626",
       "pub_date": "2026-04-23T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -117,15 +171,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
-      "link": "http://www.breaknews.com/1202688",
-      "pub_date": "2026-04-23T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -144,6 +189,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -300,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, 인천 연수갑 송영길·인천 계양을 김남준 전략공천",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=893104",
+      "title": "[속보]차기 대선? 김민석 11.9%·조국 11.3%·한동훈 10.7%-코리아정보리...",
+      "link": "https://www.munhwa.com/article/11584588?ref=naver",
       "pub_date": "2026-04-23T18:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]차기 대선? 김민석 11.9%·조국 11.3%·한동훈 10.7%-코리아정보리...",
-      "link": "https://www.munhwa.com/article/11584588?ref=naver",
+      "title": "[속보]민주당, 인천 연수갑 송영길·인천 계양을 김남준 전략공천",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=893104",
       "pub_date": "2026-04-23T18:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1746,60 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, ‘정동영 해임건의안’ 제출키로…“즉각 경질해야”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05031526645419072",
-      "pub_date": "2026-04-23T16:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…셀럽파이브 컴백 언급...",
-      "link": "https://www.xportsnews.com/article/2140552",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[박수진의 금융人] 카뱅 '10년' 이끈 윤호영, 이제 국내는 좁다",
-      "link": "http://www.newswatch.kr/news/articleView.html?idxno=79367",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“6주 안에 증명하라”…10개 구단 중 절반 바뀐 대체 외인 러시→이들...",
-      "link": "https://www.sportsseoul.com/news/read/1605047?ref=naver",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 사상 사고’ 운전자 구속… ‘바리케이드 돌진’ 조...",
-      "link": "https://biz.chosun.com/topics/topics_social/2026/04/23/ZGGC6TKL5NCIDAXMBPUL4CFGF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
-      "link": "https://www.munhwa.com/article/11584560?ref=naver",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
