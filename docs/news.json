@@ -1,14 +1,68 @@
 {
-  "updated": "2026-04-23 13:50:32",
+  "updated": "2026-04-23 13:55:29",
   "total": 200,
   "items": [
     {
-      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원… 전년比 338% 증가",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256533",
-      "pub_date": "2026-04-23T13:46:00+09:00",
+      "title": "[속보] 신한금융, 1분기 순이익 1조6226억원…전년비 9.0% 증가",
+      "link": "https://www.news2day.co.kr/article/20260423500106",
+      "pub_date": "2026-04-23T13:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 韓 경제 1.7% 급반등···\"반도체가 이끌었다\"",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=131810",
+      "pub_date": "2026-04-23T13:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 악재에도…1분기 韓경제 1.7% 급반등, 5년6개월만에 최고",
+      "link": "https://www.kbsm.net/news/view.php?idx=517115",
+      "pub_date": "2026-04-23T13:52:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]신한금융, 1분기 순이익 1조6226억…전년比 9%↑'사상 최대'",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603294",
+      "pub_date": "2026-04-23T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[성기노의 뉴스 피처링] 장동혁 방미의 민낯...국가 협상력마저 팔아넘...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126716",
+      "pub_date": "2026-04-23T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 23일 13시 퀴즈 정답 정리",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514216",
+      "pub_date": "2026-04-23T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
+      "pub_date": "2026-04-23T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -18,6 +72,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원… 전년比 338% 증가",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256533",
+      "pub_date": "2026-04-23T13:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1738,69 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "국회 국방위원회, 국민의힘 단독 소집",
-      "link": "https://www.news1.kr/photos/7871474",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[오늘 외환딜러 환율 예상레인지]",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411190",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "GDP 1.7% '깜짝 성장'…정부·한은, 정책 공조 강화",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=731255",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“반도체, 이 정도로 좋을 줄은…민간 소비가 버팀목 역할”[일문일답]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03840886645419072",
-      "pub_date": "2026-04-23T10:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘웬만한 사람 전과 다 있다’ 李대통령에…법무부 “10만명당 유...",
-      "link": "https://www.dt.co.kr/article/12059093?ref=naver",
-      "pub_date": "2026-04-23T10:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] 하반기 네거티브 아웃풋갭 해소…연내 금리인상 근거 가능성",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411189",
-      "pub_date": "2026-04-23T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한국경제 1분기 1.7% 성장... 반도체 수출 증가에 '어닝서프라이즈'",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=129308",
-      "pub_date": "2026-04-23T10:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
