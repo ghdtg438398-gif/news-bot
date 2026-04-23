@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 20:45:32",
+  "updated": "2026-04-23 20:50:30",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 산부인과 시술 뒤 몸속에 거즈가 그대로‥의사 말에 더 황당",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817582_37004.html",
+      "pub_date": "2026-04-23T20:43:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "[속보]미군 \"이란과 관련된 유조선 1척 또 나포\"",
       "link": "http://www.fnnews.com/news/202604232039424593",
@@ -26,6 +35,15 @@
       "pub_date": "2026-04-23T20:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "전한길 \"5·18은 북한 소행\"‥역사 왜곡 발언 쏟아내",
+      "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817580_37004.html",
+      "pub_date": "2026-04-23T20:37:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-23T16:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'반도체의 힘' 1분기 1.7% '깜짝 성장' … 5년 6개월만에 최고치",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154676",
-      "pub_date": "2026-04-23T16:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "KB증권, 1분기 순이익 3502억원…부문별 고른 성장",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657257",
-      "pub_date": "2026-04-23T16:54:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": false,
       "is_scoop": false
     }
