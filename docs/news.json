@@ -1,10 +1,109 @@
 {
-  "updated": "2026-04-23 16:00:41",
+  "updated": "2026-04-23 16:05:28",
   "total": 200,
   "items": [
     {
+      "title": "[정치家] 최휘영 문화체육관광부 장관 ③ㅣ 문화산업 재도약 총력…영화...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569782",
+      "pub_date": "2026-04-23T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "삼성SDS, 1분기 수익성 둔화…중동분쟁에 2분기도 우려",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298897&inflow=N",
+      "pub_date": "2026-04-23T16:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260423143200052?input=1195m",
+      "link": "https://www.hankyung.com/article/2026042322797",
+      "pub_date": "2026-04-23T16:01:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“화물연대 차량, 경찰 밟았다? 사실 아냐”…경찰청 반박",
+      "link": "https://www.munhwa.com/article/11584548?ref=naver",
+      "pub_date": "2026-04-23T16:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"내 집처럼 푸근하다!\" 中 최고위급 사로잡은 韓 여성 비서실장, 비장의...",
+      "link": "https://radio.ytn.co.kr/program/?f=2&id=108519&s_mcd=0433&s_hcd=01",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031718",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 23년만에 결국…혼다코리아 자동차사업 철수, AS는 계속",
+      "link": "https://www.mk.co.kr/article/12025357",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 韓 경제 '1.7%' 깜짝 성장···반도체 호조에 5년 6개월 만 최고",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401054",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "KB증권, 1분기 순익 3478억…전년比 93.3%↑",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119254",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억원…전년比 12.6%↑",
+      "link": "https://www.dailian.co.kr/news/view/1637106/?sc=Naver",
       "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억원…전년比 12.6%↑",
-      "link": "https://www.dailian.co.kr/news/view/1637106/?sc=Naver",
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260423143200052?input=1195m",
       "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,20 +147,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다, 한국서 車 접는다… 23년 만",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029723535&code=61172011&cp=nv",
-      "pub_date": "2026-04-23T15:55:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피, 사흘 연속 최고치 경신…6470선 돌파",
       "link": "https://news.jtbc.co.kr/article/NB12295516?influxDiv=NAVER",
       "pub_date": "2026-04-23T15:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 한국서 車 접는다… 23년 만",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029723535&code=61172011&cp=nv",
+      "pub_date": "2026-04-23T15:55:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -75,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 6.81포인트(0.58%) 내린 1174.31 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834918",
+      "title": "[속보] 코스피, 57.88포인트(0.90%) 오른 6475.81 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834914",
       "pub_date": "2026-04-23T15:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 57.88포인트(0.90%) 오른 6475.81 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834914",
+      "title": "[속보] 코스닥, 6.81포인트(0.58%) 내린 1174.31 마감",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834918",
       "pub_date": "2026-04-23T15:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,11 +255,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 사흘 연속 사상 최고치 경신…6470선 돌파",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189933",
+      "title": "[속보] 혼다코리아, 한국 車사업 철수…시장 진출 23년만",
+      "link": "https://www.ajunews.com/view/20260423154509580",
       "pub_date": "2026-04-23T15:46:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -174,11 +273,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 한국 車사업 철수…시장 진출 23년만",
-      "link": "https://www.ajunews.com/view/20260423154509580",
+      "title": "[속보] 코스피, 사흘 연속 사상 최고치 경신…6470선 돌파",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189933",
       "pub_date": "2026-04-23T15:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,21 +309,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원 판단 뒤집혔다…정몽규 징계 요구 정당, 파장 확산",
-      "link": "http://www.osen.co.kr/article/G1112787387",
-      "pub_date": "2026-04-23T15:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "축구협회, '정몽규 중징계 요구 취소 소송' 1심 패소",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529980&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T15:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원 판단 뒤집혔다…정몽규 징계 요구 정당, 파장 확산",
+      "link": "http://www.osen.co.kr/article/G1112787387",
+      "pub_date": "2026-04-23T15:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -624,15 +723,6 @@
       "is_scoop": false
     },
     {
-      "title": "전쟁권한법도 막지 못한 트럼프, 파병 거부 뒤끝 작렬하나",
-      "link": "https://www.imaeil.com/page/view/2026042315291325928",
-      "pub_date": "2026-04-23T15:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[공식] 김신영, '불화설' 4년 만에 입 연다…마침내 재회, \"단독 출연\" (...",
       "link": "https://www.tenasia.co.kr/article/2026042319754",
       "pub_date": "2026-04-23T15:31:00+09:00",
@@ -640,6 +730,15 @@
       "source_name": "MBC",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "전쟁권한법도 막지 못한 트럼프, 파병 거부 뒤끝 작렬하나",
+      "link": "https://www.imaeil.com/page/view/2026042315291325928",
+      "pub_date": "2026-04-23T15:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[속보] 코스피, 사흘 연속 ‘사상 최고치’…6460선",
@@ -750,15 +849,6 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
-      "link": "https://www.news1.kr/photos/7872515",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "국민의힘, 정동영 장관 '정보 누설' 관련 대책 회의",
       "link": "https://www.news1.kr/photos/7872520",
       "pub_date": "2026-04-23T15:19:00+09:00",
@@ -768,21 +858,12 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 장동혁 대표",
-      "link": "https://www.news1.kr/photos/7872518",
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872515",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
-      "link": "https://www.news1.kr/photos/7872514",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -795,9 +876,18 @@
       "is_scoop": false
     },
     {
-      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
-      "link": "https://www.tokenpost.kr/news/market/352450",
-      "pub_date": "2026-04-23T15:18:00+09:00",
+      "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
+      "link": "https://www.news1.kr/photos/7872514",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "발언하는 장동혁 대표",
+      "link": "https://www.news1.kr/photos/7872518",
+      "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -806,6 +896,15 @@
     {
       "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
       "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
+      "link": "https://www.tokenpost.kr/news/market/352450",
       "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1700,105 +1799,6 @@
       "pub_date": "2026-04-23T14:38:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 해든이 학대해 살해한 친모, 무기징역",
-      "link": "https://www.wikitree.co.kr/articles/1133132",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주호영, 무소속 접고 지선 ‘불출마’…“먹던 물에 침 뱉지 않...",
-      "link": "https://www.yeongnam.com/web/view.php?key=20260423020449859",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘대구 컷오프’ 국힘 주호영 “대구시장 출마 않겠다”",
-      "link": "https://www.joongang.co.kr/article/25422743",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘급식 몰아주기’ 삼성웰스토리 과징금 처분 취소",
-      "link": "https://www.etoday.co.kr/news/view/2578519",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "주호영, 6.3지방선거 출마하지 않는다[속보]",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04536246645419072",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 '해든이' 학대 살해 친모, 1심 무기징역",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370680",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주호영, 대구시장 불출마 선언",
-      "link": "http://www.fnnews.com/news/202604231436143754",
-      "pub_date": "2026-04-23T14:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 영아 학대 살해한 친모에 1심 '무기징역'",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6817474_36918.html",
-      "pub_date": "2026-04-23T14:37:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 '해든이' 잔혹 학대 살해 친모 무기징역",
-      "link": "https://www.hankyung.com/article/2026042319127",
-      "pub_date": "2026-04-23T14:37:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.mk.co.kr/article/12025251",
-      "pub_date": "2026-04-23T14:37:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '대구 컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042314361338715",
-      "pub_date": "2026-04-23T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
