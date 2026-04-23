@@ -1,14 +1,77 @@
 {
-  "updated": "2026-04-23 15:55:27",
+  "updated": "2026-04-23 16:00:41",
   "total": 200,
   "items": [
     {
-      "title": "[GDP 효과] ING \"올해 성장률 2.8%로 상향…한은 하반기 인상 고수\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411313",
-      "pub_date": "2026-04-23T15:54:00+09:00",
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.yna.co.kr/view/AKR20260423143200052?input=1195m",
+      "pub_date": "2026-04-23T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[도쿄환시] 달러-엔 소폭 상승…호르무즈 불안에 WTI↑",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411316",
+      "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억원…전년比 12.6%↑",
+      "link": "https://www.dailian.co.kr/news/view/1637106/?sc=Naver",
+      "pub_date": "2026-04-23T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[선택! 6.3지방선거] 경기교육감 진보 단일화 '부정선거' 의혹 '일파만파...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514222",
+      "pub_date": "2026-04-23T15:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "어린이집 직원 화장실에 '몰카 설치' 원장 남편…징역 3년 구형",
+      "link": "https://view.asiae.co.kr/article/2026042315395460826",
+      "pub_date": "2026-04-23T15:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 한국서 車 접는다… 23년 만",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029723535&code=61172011&cp=nv",
+      "pub_date": "2026-04-23T15:55:00+09:00",
+      "source_id": "kmib",
+      "source_name": "국민일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사흘 연속 최고치 경신…6470선 돌파",
+      "link": "https://news.jtbc.co.kr/article/NB12295516?influxDiv=NAVER",
+      "pub_date": "2026-04-23T15:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '조합원 3명 사상' 운전자 구속...\"도주·증거 인멸 우려\"",
+      "link": "https://www.ytn.co.kr/_ln/0115_202604231555003746",
+      "pub_date": "2026-04-23T15:55:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -30,6 +93,15 @@
       "is_scoop": false
     },
     {
+      "title": "[GDP 효과] ING \"올해 성장률 2.8%로 상향…한은 하반기 인상 고수\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411313",
+      "pub_date": "2026-04-23T15:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "혼다코리아, 한국 진출 23년만에 자동차 사업 철수…\"올해 연말 판매 종...",
       "link": "https://www.slist.kr/news/articleView.html?idxno=734163",
       "pub_date": "2026-04-23T15:54:00+09:00",
@@ -48,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
-      "link": "https://www.ajunews.com/view/20260423151911517",
+      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
+      "link": "https://www.mediapen.com/news/view/1095244",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
-      "link": "https://www.mediapen.com/news/view/1095244",
+      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
+      "link": "https://www.ajunews.com/view/20260423151911517",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,21 +192,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6475.81로 사흘 연속 사상 최고치…코스닥은 하락",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500179?wlog_tag3=naver",
-      "pub_date": "2026-04-23T15:44:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"원가 공시되면 감형\"…설탕 담합 판결, 밀가루 '선례효과' 되나",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838773",
       "pub_date": "2026-04-23T15:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6475.81로 사흘 연속 사상 최고치…코스닥은 하락",
+      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500179?wlog_tag3=naver",
+      "pub_date": "2026-04-23T15:44:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -156,12 +228,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 올해 말 국내 자동차 판매 종료",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738508",
+      "title": "수출·투자 ‘쌍끌이’…1분기 韓성장률 1.7%, 5년6개월만 최고",
+      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604231456245900431",
       "pub_date": "2026-04-23T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -174,12 +246,12 @@
       "is_scoop": false
     },
     {
-      "title": "수출·투자 ‘쌍끌이’…1분기 韓성장률 1.7%, 5년6개월만 최고",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604231456245900431",
+      "title": "[속보] 혼다코리아, 올해 말 국내 자동차 판매 종료",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=738508",
       "pub_date": "2026-04-23T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -198,6 +270,15 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "조승래 \"이원택 의혹, 최고 수준 감찰에도 문제 없어\"…안호영 단식 중...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564653",
+      "pub_date": "2026-04-23T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -225,15 +306,6 @@
       "source_id": "mk",
       "source_name": "매일경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "조승래 \"이원택 의혹, 최고 수준 감찰에도 문제 없어\"…안호영 단식 중...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564653",
-      "pub_date": "2026-04-23T15:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -552,15 +624,6 @@
       "is_scoop": false
     },
     {
-      "title": "[공식] 김신영, '불화설' 4년 만에 입 연다…마침내 재회, \"단독 출연\" (...",
-      "link": "https://www.tenasia.co.kr/article/2026042319754",
-      "pub_date": "2026-04-23T15:31:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "전쟁권한법도 막지 못한 트럼프, 파병 거부 뒤끝 작렬하나",
       "link": "https://www.imaeil.com/page/view/2026042315291325928",
       "pub_date": "2026-04-23T15:31:00+09:00",
@@ -568,6 +631,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[공식] 김신영, '불화설' 4년 만에 입 연다…마침내 재회, \"단독 출연\" (...",
+      "link": "https://www.tenasia.co.kr/article/2026042319754",
+      "pub_date": "2026-04-23T15:31:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 코스피, 사흘 연속 ‘사상 최고치’…6460선",
@@ -669,44 +741,8 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 장동혁 대표",
-      "link": "https://www.news1.kr/photos/7872518",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
-      "link": "https://www.news1.kr/photos/7872516",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
-      "link": "https://www.news1.kr/photos/7872514",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
       "link": "https://www.news1.kr/photos/7872517",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘, 정동영 장관 '정보 누설' 관련 대책 회의",
-      "link": "https://www.news1.kr/photos/7872520",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -723,6 +759,51 @@
       "is_scoop": false
     },
     {
+      "title": "국민의힘, 정동영 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872520",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "발언하는 장동혁 대표",
+      "link": "https://www.news1.kr/photos/7872518",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
+      "link": "https://www.news1.kr/photos/7872514",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
+      "link": "https://www.news1.kr/photos/7872516",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
+      "link": "https://www.tokenpost.kr/news/market/352450",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
       "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
       "pub_date": "2026-04-23T15:18:00+09:00",
@@ -732,8 +813,8 @@
       "is_scoop": false
     },
     {
-      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
-      "link": "https://www.tokenpost.kr/news/market/352450",
+      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
       "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -747,15 +828,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
-      "pub_date": "2026-04-23T15:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -894,8 +966,8 @@
       "is_scoop": false
     },
     {
-      "title": "이강길, “2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다...",
-      "link": "https://newstapa.org/article/LTWYd",
+      "title": "휴대전화 보다 '딱 걸렸다'…법정서 혼쭐 난 중흥건설 대표",
+      "link": "https://www.nocutnews.co.kr/news/6507130?utm_source=naver&utm_medium=article&utm_campaign=20260423030452",
       "pub_date": "2026-04-23T15:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -903,8 +975,8 @@
       "is_scoop": false
     },
     {
-      "title": "휴대전화 보다 '딱 걸렸다'…법정서 혼쭐 난 중흥건설 대표",
-      "link": "https://www.nocutnews.co.kr/news/6507130?utm_source=naver&utm_medium=article&utm_campaign=20260423030452",
+      "title": "이강길, “2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다...",
+      "link": "https://newstapa.org/article/LTWYd",
       "pub_date": "2026-04-23T15:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1727,78 +1799,6 @@
       "pub_date": "2026-04-23T14:37:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '해든이 사건' 친모 무기징역·친부 4년6개월 선고",
-      "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031700",
-      "pub_date": "2026-04-23T14:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
-      "link": "https://www.hangyo.com/news/article.html?no=107487",
-      "pub_date": "2026-04-23T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
-      "pub_date": "2026-04-23T14:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전북 군산 내흥동 공장서 화재 발생",
-      "link": "https://www.etoday.co.kr/news/view/2578514",
-      "pub_date": "2026-04-23T14:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "LPG 부탄 유류세 ℓ당 31원 추가 인하…농축수산물 최대 50% 할인",
-      "link": "https://www.korea.kr/news/policyNewsView.do?newsId=148963273&call_from=naver_news",
-      "pub_date": "2026-04-23T14:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]아내 운영 어린이집 교사화장실에 몰카 설치 남편…선처 호소에도...",
-      "link": "https://www.munhwa.com/article/11584521?ref=naver",
-      "pub_date": "2026-04-23T14:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '12명 사상' 깨비시장 돌진 70대 운전자, 1심서 금고형 집행유예",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401062",
-      "pub_date": "2026-04-23T14:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 축구협회, '정몽규 중징계 취소' 행정소송 1심 패소",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604231429214474",
-      "pub_date": "2026-04-23T14:29:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
