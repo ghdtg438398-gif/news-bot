@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 11:15:29",
+  "updated": "2026-04-23 11:20:28",
   "total": 200,
   "items": [
+    {
+      "title": "스테이트스트리트 “韓, 예상보다 강한 성장…물가상승 압력↑”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04018006645419072",
+      "pub_date": "2026-04-23T11:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 지지율 15%… 2020년 창당 이래 최저치 [NBS]",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2271016",
+      "pub_date": "2026-04-23T11:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "구윤철 \"1분기 성장률 1.7% 반등…정책 효과·반도체 호황 기여\"",
+      "link": "https://www.youthdaily.co.kr/news/article.html?no=217953",
+      "pub_date": "2026-04-23T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원 징역형 집유 선고",
+      "link": "https://www.ajunews.com/view/20260423105656997",
+      "pub_date": "2026-04-23T11:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[GDP 효과] 서울채권시장 \"금리 인상 우려 확산…2분기 마이너스 가능성...",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411211",
+      "pub_date": "2026-04-23T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 지지율 69%···국민의힘 15%, 창당 이래 최저치[NBS]",
+      "link": "https://www.khan.co.kr/article/202604231116001",
+      "pub_date": "2026-04-23T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“한국을 우롱하는 미국계 매국노”",
+      "link": "https://www.bigtanews.co.kr/article/view/big202604230010",
+      "pub_date": "2026-04-23T11:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "한국 경제 1분기 1.7% 깜짝 성장...반도체 수출이 견인",
       "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115523",
@@ -21,20 +84,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 '웬만한 사람은 전과자' 논란… 법무부 \"10만 명 중 146...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042310530660605",
-      "pub_date": "2026-04-23T11:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 국민의힘 지지율 15%…창당 이래 최저치 [NBS]",
       "link": "https://www.hankyung.com/article/2026042313457",
       "pub_date": "2026-04-23T11:13:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 '웬만한 사람은 전과자' 논란… 법무부 \"10만 명 중 146...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042310530660605",
+      "pub_date": "2026-04-23T11:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -84,21 +147,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]삼척 광산서 암석 붕괴 사고…50대 1명 사망",
-      "link": "https://www.kwnews.co.kr/page/view/2026042350037600000",
-      "pub_date": "2026-04-23T11:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "1분기 GDP 전년비 3.6% 증가…2021년 4분기 이후 최고치",
       "link": "https://zdnet.co.kr/view/?no=20260423080855",
       "pub_date": "2026-04-23T11:05:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼척 광산서 암석 붕괴 사고…50대 1명 사망",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350037600000",
+      "pub_date": "2026-04-23T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -111,7 +174,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 이 대통령 지지율 69%…민주 48%·국힘 15% [NBS]",
+      "title": "[속보] 이 대통령 지지율 69%…국힘 15%, 역대 최저 [NBS]",
       "link": "https://www.mk.co.kr/article/12025058",
       "pub_date": "2026-04-23T11:04:00+09:00",
       "source_id": "mk",
@@ -174,15 +237,6 @@
       "is_scoop": false
     },
     {
-      "title": "[1분기 깜짝 성장] 정부 \"반도체·정책효과 결합…2분기는 조정 불가피...",
-      "link": "https://www.ajunews.com/view/20260423104547973",
-      "pub_date": "2026-04-23T11:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "캐시닥 용돈퀴즈 정답 4월 23일 [단독]",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604230030",
       "pub_date": "2026-04-23T11:02:00+09:00",
@@ -190,6 +244,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[1분기 깜짝 성장] 정부 \"반도체·정책효과 결합…2분기는 조정 불가피...",
+      "link": "https://www.ajunews.com/view/20260423104547973",
+      "pub_date": "2026-04-23T11:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "재경부 “GDP 1.7%, 반도체 수출·중동 악재 최소화 덕”",
@@ -206,6 +269,24 @@
       "pub_date": "2026-04-23T11:00:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'설탕 담합' 前 CJ제일제당·삼양사 경영진 '집유'…법인 벌금 2억원",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137252",
+      "pub_date": "2026-04-23T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[리뷰] 이야기의 박동이 다시 뛸 때까지, 두 손을 포개고 하나, 둘, 셋 |...",
+      "link": "https://ch.yes24.com/Article/View/82098",
+      "pub_date": "2026-04-23T11:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -230,24 +311,6 @@
     {
       "title": "정부 \"1분기 GDP에 정책효과 크게 기여…2분기 조정은 불가피\"(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260423055551002?input=1195m",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'설탕 담합' 前 CJ제일제당·삼양사 경영진 '집유'…법인 벌금 2억원",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137252",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[리뷰] 이야기의 박동이 다시 뛸 때까지, 두 손을 포개고 하나, 둘, 셋 |...",
-      "link": "https://ch.yes24.com/Article/View/82098",
       "pub_date": "2026-04-23T11:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1737,69 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 외통위·국방위 동시 전체회의 소집…정동영 '北핵정보 유출' 공...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838701",
-      "pub_date": "2026-04-23T09:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "韓 1분기 1.7% 성장…\"민간이 버티고, 수출이 견인\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838697",
-      "pub_date": "2026-04-23T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6500선 뚫었다…3거래일 연속 '사상 최고'",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738401",
-      "pub_date": "2026-04-23T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日 니케이지수 23일 최초로 6만 돌파",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602970",
-      "pub_date": "2026-04-23T09:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "대구 헤이즐리스튜디오, '사전미팅 시스템'으로 예비부부 긴장감 해소",
-      "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054906",
-      "pub_date": "2026-04-23T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 오르비텍 VI 발동, 주가 12% 도약…원전주 동반 강세",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569672",
-      "pub_date": "2026-04-23T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "장동혁 대표 특보단장 “한동훈, 보수의 소중한 인재”",
-      "link": "https://www.wikitree.co.kr/articles/1132996",
-      "pub_date": "2026-04-23T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
