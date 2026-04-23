@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 18:40:30",
+  "updated": "2026-04-23 18:45:34",
   "total": 200,
   "items": [
+    {
+      "title": "파산위기 '홈플러스' 숨통 트이나?...'메리츠금융', 2천억규모 지원 검토",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137300",
+      "pub_date": "2026-04-23T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스룸 오프닝] '면담 차관보' 정체 확인 / 이익률 72% '역대급' / '15%'...",
+      "link": "https://news.jtbc.co.kr/article/NB12295544?influxDiv=NAVER",
+      "pub_date": "2026-04-23T18:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 더보이즈 9인, 소속사 전속계약 효력정지 가처분 인용",
+      "link": "https://www.news1.kr/entertain/celebrity-topic/6147225",
+      "pub_date": "2026-04-23T18:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
       "link": "http://www.breaknews.com/1202626",
@@ -30,21 +66,21 @@
       "is_scoop": false
     },
     {
-      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
-      "link": "http://www.breaknews.com/1202688",
-      "pub_date": "2026-04-23T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "법원, KFA 주장 조목조목 반박했다…사실상 완패→협회 \"존중하며 판결...",
       "link": "https://www.xportsnews.com/article/2140558",
       "pub_date": "2026-04-23T18:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -111,21 +147,21 @@
       "is_scoop": false
     },
     {
-      "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
-      "pub_date": "2026-04-23T18:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
       "pub_date": "2026-04-23T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
+      "pub_date": "2026-04-23T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -201,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, 인천 연수갑 송영길·인천 계양을 김남준 전략공천",
-      "link": "https://www.kgnews.co.kr/news/article.html?no=893104",
+      "title": "[속보]차기 대선? 김민석 11.9%·조국 11.3%·한동훈 10.7%-코리아정보리...",
+      "link": "https://www.munhwa.com/article/11584588?ref=naver",
       "pub_date": "2026-04-23T18:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]차기 대선? 김민석 11.9%·조국 11.3%·한동훈 10.7%-코리아정보리...",
-      "link": "https://www.munhwa.com/article/11584588?ref=naver",
+      "title": "[속보]민주당, 인천 연수갑 송영길·인천 계양을 김남준 전략공천",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=893104",
       "pub_date": "2026-04-23T18:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "mbc",
       "source_name": "MBC",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390230.html",
-      "pub_date": "2026-04-23T16:05:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260423.99099006797",
-      "pub_date": "2026-04-23T16:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.dailian.co.kr/news/view/1637112/?sc=Naver",
-      "pub_date": "2026-04-23T16:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
