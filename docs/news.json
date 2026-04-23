@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 19:40:32",
+  "updated": "2026-04-23 19:45:32",
   "total": 200,
   "items": [
+    {
+      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
+      "pub_date": "2026-04-23T19:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "국힘 ‘정동영 해임건의안’ 당론으로…민주는 “안보 불안 조장 못난 ...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0100&key=20260424.22005006767",
+      "pub_date": "2026-04-23T19:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 홀로 이끈 1.7% 성장…건설·제조업은 올스톱 위기",
+      "link": "https://www.imaeil.com/page/view/2026042308581781420",
+      "pub_date": "2026-04-23T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 드디어 터졌다. 1군 복귀 노시환, 135m 초대형 홈런, 동점포로 잠...",
+      "link": "http://www.osen.co.kr/article/G1112787523",
+      "pub_date": "2026-04-23T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 사망 사고 낸 60대 운전자…20분 뒤 주유소에서 검거",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189990",
+      "pub_date": "2026-04-23T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "검찰, '오송참사 부실 제방 공사' 책임자들에 징역형 구형",
       "link": "https://www.nocutnews.co.kr/news/6507389?utm_source=naver&utm_medium=article&utm_campaign=20260423072654",
@@ -39,21 +84,21 @@
       "is_scoop": false
     },
     {
-      "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
-      "pub_date": "2026-04-23T19:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 정근식, 서울교육감 진보 단일 후보 확정",
       "link": "https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
       "pub_date": "2026-04-23T19:20:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
+      "pub_date": "2026-04-23T19:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -201,20 +246,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604141",
-      "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
       "pub_date": "2026-04-23T19:00:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604141",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1752,51 +1797,6 @@
       "title": "코스피 또 '사상 최고',장중 6500 돌파도…'7천피' 넘본다",
       "link": "http://www.seouleconews.com/news/articleView.html?idxno=90837",
       "pub_date": "2026-04-23T16:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대구 지하철서 라이터·살충제 들고 어슬렁… 40대 남성, 방화 미...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316235492858",
-      "pub_date": "2026-04-23T16:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "서울·경기 주택 거래 746건 '위법' 의심…정부, 강력 대응 방침",
-      "link": "https://www.newspim.com/news/view/20260423001195",
-      "pub_date": "2026-04-23T16:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 23년만에 한국 자동차 사업 철수",
-      "link": "http://www.inews24.com/view/1962969",
-      "pub_date": "2026-04-23T16:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대로템, 베트남 호치민 2호선 전동차 사업 2건 수주…규모는?",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569794",
-      "pub_date": "2026-04-23T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "씨티, 올해 韓 성장률 2.9%로 상향·연말 기준금리 3% 전망",
-      "link": "https://www.g-enews.com/view.php?ud=202604231555249179bb91c46fcd_1",
-      "pub_date": "2026-04-23T16:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
