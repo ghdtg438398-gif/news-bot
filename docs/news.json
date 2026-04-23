@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 18:05:32",
+  "updated": "2026-04-23 18:10:31",
   "total": 200,
   "items": [
+    {
+      "title": "정동영, 기밀누설 책임론에 “지나친 정략, 국익 해쳐”",
+      "link": "https://www.segye.com/newsView/20260423516604?OutUrl=naver",
+      "pub_date": "2026-04-23T18:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당, 인천 연수갑 송영길·인천 계양을 김남준 전략공천",
+      "link": "https://www.kgnews.co.kr/news/article.html?no=893104",
+      "pub_date": "2026-04-23T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]차기 대선? 김민석 11.9%·조국 11.3%·한동훈 10.7%-코리아정보리...",
+      "link": "https://www.munhwa.com/article/11584588?ref=naver",
+      "pub_date": "2026-04-23T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564841",
+      "pub_date": "2026-04-23T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'장남 회사 부당지원' 정도원 삼표 회장의 중처법 무죄 \"최악의 판결\"",
+      "link": "http://www.lawleader.co.kr/news/articleView.html?idxno=19009",
+      "pub_date": "2026-04-23T18:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]인천 연수갑 송영길, 계양을 김남준…민주당 보궐 공천",
+      "link": "https://www.sidae.com/article/2026042318021734369",
+      "pub_date": "2026-04-23T18:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 쓰리빌리언, 175억원 유상증자·125억원 CB 발행 결정 공시…총 ...",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569817",
@@ -12,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042318012292522",
+      "title": "[속보] 민주당, 송영길 연수갑-김남준 계양을 공천",
+      "link": "https://www.pressian.com/pages/articles/2026042318003206413?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T18:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 송영길 연수갑-김남준 계양을 공천",
-      "link": "https://www.pressian.com/pages/articles/2026042318003206413?utm_source=naver&utm_medium=search",
+      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042318012292522",
       "pub_date": "2026-04-23T18:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,15 +120,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
-      "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
-      "pub_date": "2026-04-23T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
       "pub_date": "2026-04-23T18:00:00+09:00",
@@ -82,6 +127,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
+      "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
+      "pub_date": "2026-04-23T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
@@ -138,15 +192,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
-      "link": "https://www.imaeil.com/page/view/2026042317545888851",
-      "pub_date": "2026-04-23T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 민주당, 인천 연수갑에 송영길 … 계양을에 김남준 전략공천",
       "link": "https://www.newdaily.co.kr/site/data/html/2026/04/23/2026042300321.html",
       "pub_date": "2026-04-23T17:56:00+09:00",
@@ -162,6 +207,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.imaeil.com/page/view/2026042317545888851",
+      "pub_date": "2026-04-23T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -183,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 인천 계양을 김남준ㆍ연수갑 송영길 전략공천",
-      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318141",
+      "title": "[속보]민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
+      "link": "https://view.asiae.co.kr/article/2026042317525259093",
       "pub_date": "2026-04-23T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +246,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
-      "link": "https://view.asiae.co.kr/article/2026042317525259093",
+      "title": "[속보] 민주당, 인천 계양을 김남준ㆍ연수갑 송영길 전략공천",
+      "link": "https://www.incheontoday.com/news/articleView.html?idxno=318141",
       "pub_date": "2026-04-23T17:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1746,60 +1800,6 @@
       "source_id": "ytn",
       "source_name": "YTN",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "혼다코리아, 한국 진출 23년만에 자동차 사업 철수…\"올해 연말 판매 종...",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734163",
-      "pub_date": "2026-04-23T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 57.88포인트(0.90%) 오른 6475.81 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834914",
-      "pub_date": "2026-04-23T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥, 6.81포인트(0.58%) 내린 1174.31 마감",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834918",
-      "pub_date": "2026-04-23T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] ING \"올해 성장률 2.8%로 상향…한은 하반기 인상 고수\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411313",
-      "pub_date": "2026-04-23T15:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
-      "link": "https://www.ajunews.com/view/20260423151911517",
-      "pub_date": "2026-04-23T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
-      "link": "https://www.mediapen.com/news/view/1095244",
-      "pub_date": "2026-04-23T15:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
