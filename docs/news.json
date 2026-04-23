@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 20:50:30",
+  "updated": "2026-04-23 20:55:27",
   "total": 200,
   "items": [
+    {
+      "title": "[월드 e-브리핑] OECD 소득세 부담 10년 내 최고…고용 위축 우려↑",
+      "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1522164",
+      "pub_date": "2026-04-23T20:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독] 산부인과 시술 뒤 몸속에 거즈가 그대로‥의사 말에 더 황당",
       "link": "https://imnews.imbc.com/replay/2026/nwdesk/article/6817582_37004.html",
@@ -1791,15 +1800,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "경찰 정강이까지 깨물었다…택시 문제로 7명이나 폭행한 20대",
-      "link": "https://www.nocutnews.co.kr/news/6507254?utm_source=naver&utm_medium=article&utm_campaign=20260423045753",
-      "pub_date": "2026-04-23T16:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
