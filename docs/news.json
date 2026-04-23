@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 13:40:31",
+  "updated": "2026-04-23 13:45:30",
   "total": 200,
   "items": [
+    {
+      "title": "신세계百 '맞춤 선물'·이마트 '미식 직소싱'… 가정의 달 공략",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201205",
+      "pub_date": "2026-04-23T13:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼성전자 노조, 평택사업장서 투쟁결의대회…3만여명 참여",
+      "link": "https://magazine.hankyung.com/business/article/202604231681b",
+      "pub_date": "2026-04-23T13:43:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]\"김민석 총리 초청\" 베트남 총리 요청에 이 대통령 \"귀국 즉시 전...",
       "link": "https://www.mt.co.kr/politics/2026/04/23/2026042313355786206",
@@ -30,21 +48,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] LG디스플레이, 1분기 매출 '5조5340억원'·영업익 '1467억'",
-      "link": "https://www.news2day.co.kr/article/20260422500196",
-      "pub_date": "2026-04-23T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'깜짝' 경제 성장…2분기부터 '중동 전쟁' 후폭풍 온다",
       "link": "https://www.asiatime.co.kr/article/20260423500254",
       "pub_date": "2026-04-23T13:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1분기 매출 '5조5340억원'·영업익 '1467억'",
+      "link": "https://www.news2day.co.kr/article/20260422500196",
+      "pub_date": "2026-04-23T13:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -93,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
-      "link": "https://www.ajunews.com/view/20260423132130181",
-      "pub_date": "2026-04-23T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
       "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
       "pub_date": "2026-04-23T13:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
+      "link": "https://www.ajunews.com/view/20260423132130181",
+      "pub_date": "2026-04-23T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -138,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
-      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
+      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
       "pub_date": "2026-04-23T13:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
+      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
+      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
       "pub_date": "2026-04-23T13:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "美상원, '트럼프 전쟁 권한 제한' 동의안 또 부결",
       "link": "http://www.yonhapnewstv.co.kr/AKR20260423103623ck5",
       "pub_date": "2026-04-23T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국민은 삼전닉스를 믿었다…1분기 GDP 1.7% '깜짝 성장'(종합)",
-      "link": "http://www.inews24.com/view/1962740",
-      "pub_date": "2026-04-23T10:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "새벽 시간에 감쪽같이 사라졌다…중고차 사왔는데 반전",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529291&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T10:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
