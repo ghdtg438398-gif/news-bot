@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 16:20:38",
+  "updated": "2026-04-23 16:25:28",
   "total": 200,
   "items": [
+    {
+      "title": "[산업 HOT 뉴스]KGM·삼성화재, 모빌리티 생태계 '동맹'…구매부터 폐차...",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134687",
+      "pub_date": "2026-04-23T16:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 올해 말 한국 자동차 시장 철수…진출 23년 만",
+      "link": "https://www.joongang.co.kr/article/25422801",
+      "pub_date": "2026-04-23T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 이란전쟁, 美의회 승인 없이 계속할 수 있나… 5월 1일이 분수령",
+      "link": "https://www.mediawatch.kr/news/article.html?no=259387",
+      "pub_date": "2026-04-23T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "담합 반복시 시장 퇴출…부탄 유류세 인하폭 확대",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423161950nP4",
+      "pub_date": "2026-04-23T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 화물연대 조합원 차로 치어 사망케 한 화물기사 구속",
       "link": "https://www.hankookilbo.com/news/article/A2026042310220000543?did=NA",
@@ -12,7 +48,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]CU화물연대 조합원 사망 운전자·경찰에 돌진한 조합원 구속",
+      "title": "[속보]CU화물연대 조합원 사망케한 운전자·경찰에 돌진한 조합원 구속",
       "link": "https://www.khan.co.kr/article/202604231618001",
       "pub_date": "2026-04-23T16:18:00+09:00",
       "source_id": "yna",
@@ -30,6 +66,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 화물연대 조합원 차로 친 트럭 기사 구속",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
+      "pub_date": "2026-04-23T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억...전년비 13% ↑",
       "link": "https://www.news2day.co.kr/article/20260423500204",
       "pub_date": "2026-04-23T16:16:00+09:00",
@@ -41,15 +86,6 @@
     {
       "title": "[속보] 원·달러 환율 '1481원 '...코스피 사흘 연속 '최고치' 마감",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423508&PRO_CODE=99",
-      "pub_date": "2026-04-23T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 조합원 차로 친 트럭 기사 구속",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
       "pub_date": "2026-04-23T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,6 +120,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
+      "link": "https://www.imaeil.com/page/view/2026042315315170096",
+      "pub_date": "2026-04-23T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
       "link": "https://www.sedaily.com/article/20036320?ref=naver",
       "pub_date": "2026-04-23T16:13:00+09:00",
@@ -95,15 +140,6 @@
     {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
       "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
-      "pub_date": "2026-04-23T16:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
-      "link": "https://www.imaeil.com/page/view/2026042315315170096",
       "pub_date": "2026-04-23T16:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,15 +183,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 사상 사고’ 운전자 구속… ‘바리케이드 돌진’ 조...",
-      "link": "https://biz.chosun.com/topics/topics_social/2026/04/23/ZGGC6TKL5NCIDAXMBPUL4CFGF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…셀럽파이브 컴백 언급...",
       "link": "https://www.xportsnews.com/article/2140552",
       "pub_date": "2026-04-23T16:08:00+09:00",
@@ -183,21 +210,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대 집회서 조합원 덮쳐 1명 사망케한 운전자 구속",
-      "link": "https://www.pressian.com/pages/articles/2026042316063775276?utm_source=naver&utm_medium=search",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "title": "[속보] ‘화물연대 사상 사고’ 운전자 구속… ‘바리케이드 돌진’ 조...",
+      "link": "https://biz.chosun.com/topics/topics_social/2026/04/23/ZGGC6TKL5NCIDAXMBPUL4CFGF4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-23T16:08:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "요트경기장 길고양이, 동백유원지 내 송림으로 이주",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042314562035084",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -216,6 +234,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대 집회서 조합원 덮쳐 1명 사망케한 운전자 구속",
+      "link": "https://www.pressian.com/pages/articles/2026042316063775276?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T16:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "요트경기장 길고양이, 동백유원지 내 송림으로 이주",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042314562035084",
+      "pub_date": "2026-04-23T16:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -256,10 +292,10 @@
     },
     {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.dailian.co.kr/news/view/1637112/?sc=Naver",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390230.html",
       "pub_date": "2026-04-23T16:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -274,16 +310,25 @@
     },
     {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390230.html",
+      "link": "https://www.dailian.co.kr/news/view/1637112/?sc=Naver",
       "pub_date": "2026-04-23T16:05:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "반도체가 창조한 '깜짝 성장'",
-      "link": "http://www.econotelling.com/news/articleView.html?idxno=20177",
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042316031340165",
+      "pub_date": "2026-04-23T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
       "pub_date": "2026-04-23T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -291,8 +336,8 @@
       "is_scoop": false
     },
     {
-      "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
+      "title": "반도체가 창조한 '깜짝 성장'",
+      "link": "http://www.econotelling.com/news/articleView.html?idxno=20177",
       "pub_date": "2026-04-23T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -306,15 +351,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316031340165",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -372,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -381,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
-      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 '해든이' 학대 살해한 30대 친모 무기징역",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042314371584387",
-      "pub_date": "2026-04-23T14:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 검찰, '오송 참사 부실대응' 공사 책임자에 징역형 구형",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423504&PRO_CODE=99",
-      "pub_date": "2026-04-23T14:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
-      "link": "https://www.news1.kr/society/general-society/6146754",
-      "pub_date": "2026-04-23T14:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "어린이집 화장실에 몰카 설치한 40대 남성…검찰, 징역 3년 구형",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543909&ref=A",
-      "pub_date": "2026-04-23T14:44:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
