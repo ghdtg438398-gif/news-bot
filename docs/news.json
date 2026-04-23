@@ -1,7 +1,88 @@
 {
-  "updated": "2026-04-23 16:50:29",
+  "updated": "2026-04-23 16:55:28",
   "total": 200,
   "items": [
+    {
+      "title": "KB증권, 1분기 순이익 3502억원…부문별 고른 성장",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657257",
+      "pub_date": "2026-04-23T16:54:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법무부, 2026년 제15회 변호사시험 합격자 1,714명 확정(3보)",
+      "link": "http://www.lec.co.kr/news/articleView.html?idxno=751954",
+      "pub_date": "2026-04-23T16:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "해수부 구내식당 ‘월 1회 휴무’… 지역 상권 숨통 트일까",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042316461163706",
+      "pub_date": "2026-04-23T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 공공의료 인력 연간 100명 양성…국립의전원 설치법 국회 통과",
+      "link": "https://www.sedaily.com/article/20036348?ref=naver",
+      "pub_date": "2026-04-23T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '한화 날벼락' 78억 FA 엄상백, 팔꿈치 인대파열로 수술대 行…사...",
+      "link": "https://www.xportsnews.com/article/2140567",
+      "pub_date": "2026-04-23T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
+      "pub_date": "2026-04-23T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
+      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
+      "pub_date": "2026-04-23T16:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]‘국립의전원 설립법’ 본회의 통과…공공의사 15년 의무복무",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05382486645419072",
+      "pub_date": "2026-04-23T16:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심 징역형 집행유예",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300925",
+      "pub_date": "2026-04-23T16:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "‘기밀누설 책임론’ 정동영 “문제 일으킨 자들 의도 있을 것” 野 “...",
       "link": "https://www.kwnews.co.kr/page/view/2026042350136900000",
@@ -93,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
       "pub_date": "2026-04-23T16:38:00+09:00",
@@ -109,6 +181,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
+      "pub_date": "2026-04-23T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
@@ -246,15 +327,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘살인 혐의’ 화물연대 조합원 사망 사고 운전자 구속",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
-      "pub_date": "2026-04-23T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 원·달러 환율 '1481원 '...코스피 사흘 연속 '최고치' 마감",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423508&PRO_CODE=99",
       "pub_date": "2026-04-23T16:16:00+09:00",
@@ -266,6 +338,15 @@
     {
       "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억...전년비 13% ↑",
       "link": "https://www.news2day.co.kr/article/20260423500204",
+      "pub_date": "2026-04-23T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘살인 혐의’ 화물연대 조합원 사망 사고 운전자 구속",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
       "pub_date": "2026-04-23T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1719,87 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "대웅제약 거점도매 갈등 확산…유통 효율화 vs 시장 주도권 '충돌'",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137260",
-      "pub_date": "2026-04-23T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 ‘해든이’ 학대·살해 친모, 무기징역 선고",
-      "link": "https://biz.heraldcorp.com/article/10724179?ref=naver",
-      "pub_date": "2026-04-23T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 주호영, 대구시장 선거 불출마…\"기대에 못미쳐 송구\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295498?influxDiv=NAVER",
-      "pub_date": "2026-04-23T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]주호영 \"대구시장 선거 불출마…法결정 매우 아쉽다\"",
-      "link": "https://www.nocutnews.co.kr/news/6507109?utm_source=naver&utm_medium=article&utm_campaign=20260423025252",
-      "pub_date": "2026-04-23T14:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[제약·바이오 트렌드] 광동제약, 사내 중고거래 '보물장터'로 일상 속 ...",
-      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150784",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[기획]통신사·네카오까지 번진 보안 충격…미토스 대응 태세 돌입",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367071",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
-      "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 法, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
-      "link": "https://www.hankyung.com/article/2026042319767",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
