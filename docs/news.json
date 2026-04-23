@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 13:00:42",
+  "updated": "2026-04-23 13:05:26",
   "total": 200,
   "items": [
+    {
+      "title": "OECD 근로소득 과세 10년 만에 최고치",
+      "link": "https://www.naeil.com/news/read/586466?ref=naver",
+      "pub_date": "2026-04-23T13:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[뉴스특보] 휴전 연장에도…미·이란 '호르무즈 대치' 가열",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423130019B7H",
+      "pub_date": "2026-04-23T13:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김성 민주당 장흥군수 후보 \"민생 회복 지원금으로 서민 삶 보살필 것\"[...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230028",
+      "pub_date": "2026-04-23T13:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 아내 어린이집서 4개월간 '몰카' 찍은 남편…교사 등 12명 촬영",
       "link": "https://www.imaeil.com/page/view/2026042312515213040",
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-23T10:24:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://economist.co.kr/article/view/ecn202604230016",
-      "pub_date": "2026-04-23T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'설탕 담합' CJ제일제당·삼양 前 경영진 징역형 집행유예",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03768726645419072",
-      "pub_date": "2026-04-23T10:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "美 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
-      "link": "https://www.yna.co.kr/view/AKR20260423067000009?input=1195m",
-      "pub_date": "2026-04-23T10:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
