@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 14:25:36",
+  "updated": "2026-04-23 14:30:37",
   "total": 200,
   "items": [
+    {
+      "title": "노을, 6월 단독 콘서트 'Cafe 유월' 개최",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532964",
+      "pub_date": "2026-04-23T14:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "창원 장애인 주차구역 단계적 정비 추진",
+      "link": "https://www.knnews.co.kr/news/articleView.php?idxno=1540121",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 4급 유럽 출장에 '976만원' 비즈니스석 제공한 국세청…2인 항공...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28131",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "구윤철 \"1분기 GDP 1.7% 반등, 정책 효과도 크게 기여\"",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306270?division=NAVER",
+      "pub_date": "2026-04-23T14:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 군산 내흥동 화재 발생…주민 대피·차량 우회 안내",
       "link": "https://www.gokorea.kr/news/articleView.html?idxno=864493",
@@ -21,11 +66,11 @@
       "is_scoop": true
     },
     {
-      "title": "[속보]현대차 1분기 영업익 2조5천147억원…작년 동기 대비 30.8%↓",
-      "link": "https://www.donga.com/news/Economy/article/all/20260423/133798679/1",
+      "title": "[속보]현대차 1분기 영업이익 2조5147억원…전년 30.8% 감소",
+      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029722865&code=61141411&cp=nv",
       "pub_date": "2026-04-23T14:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kmib",
+      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -39,11 +84,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]현대차 1분기 영업이익 2조5147억원…전년 30.8% 감소",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029722865&code=61141411&cp=nv",
+      "title": "[속보]현대차 1분기 영업익 2조5천147억원…작년 동기 대비 30.8%↓",
+      "link": "https://www.donga.com/news/Economy/article/all/20260423/133798679/1",
       "pub_date": "2026-04-23T14:22:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -120,6 +165,24 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 현대차 1분기 영업익 2조5,147억 원... 30.8%↓",
+      "link": "https://www.hankookilbo.com/news/article/A2026042309540001024?did=NA",
+      "pub_date": "2026-04-23T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 영업이익 전년 대비 30.8% 감소",
+      "link": "https://www.viva100.com/article/20260423500895",
+      "pub_date": "2026-04-23T14:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]현대차, 1Q 관세 손실 8600억원",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04457526645419072",
       "pub_date": "2026-04-23T14:18:00+09:00",
@@ -134,24 +197,6 @@
       "pub_date": "2026-04-23T14:18:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차, 1분기 영업이익 전년 대비 30.8% 감소",
-      "link": "https://www.viva100.com/article/20260423500895",
-      "pub_date": "2026-04-23T14:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대차 1분기 영업익 2조5,147억 원... 30.8%↓",
-      "link": "https://www.hankookilbo.com/news/article/A2026042309540001024?did=NA",
-      "pub_date": "2026-04-23T14:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"아내 어린이집 화장실에 몰카\"...교사들 불법촬영한 40대 3년 구...",
-      "link": "https://www.kyeonggi.com/article/20260423580169",
-      "pub_date": "2026-04-23T14:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]현대차, 1분기 영업이익 2조5147억원 …전년비 30.8% 감소",
       "link": "https://news.mtn.co.kr/news-detail/2026042313564046369",
       "pub_date": "2026-04-23T14:16:00+09:00",
@@ -201,9 +237,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 현대차, 1분기 영업이익 2조5147억원…전년 30.8% 감소",
-      "link": "https://news.tf.co.kr/read/economy/2316467.htm",
-      "pub_date": "2026-04-23T14:15:00+09:00",
+      "title": "[속보] \"아내 어린이집 화장실에 몰카\"...교사들 불법촬영한 40대 3년 구...",
+      "link": "https://www.kyeonggi.com/article/20260423580169",
+      "pub_date": "2026-04-23T14:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -216,6 +252,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 영업이익 2조5147억원…전년 30.8% 감소",
+      "link": "https://news.tf.co.kr/read/economy/2316467.htm",
+      "pub_date": "2026-04-23T14:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -570,8 +615,8 @@
       "is_scoop": false
     },
     {
-      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
-      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
+      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -579,8 +624,8 @@
       "is_scoop": false
     },
     {
-      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
+      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
+      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP, 전기 比 1.7% 깜짝성장…중동 영향에 2분기 조정 불가피",
-      "link": "https://www.dailian.co.kr/news/view/1636916/?sc=Naver",
-      "pub_date": "2026-04-23T11:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 특검, 심우정 前검찰총장 계엄 관여 의혹 수사…대검 압수수색",
-      "link": "https://www.news1.kr/society/court-prosecution/6146459",
-      "pub_date": "2026-04-23T11:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]국민의힘 지지도 15%…李 정권 출범 이후 최저-NBS",
-      "link": "https://www.munhwa.com/article/11584424?ref=naver",
-      "pub_date": "2026-04-23T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "또 트럼프 손 들어준 美상원…이란전쟁 제한 결의안 상정 실패",
-      "link": "https://www.nocutnews.co.kr/news/6506948?utm_source=naver&utm_medium=article&utm_campaign=20260423111951",
-      "pub_date": "2026-04-23T11:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "스테이트스트리트 “韓, 예상보다 강한 성장…물가상승 압력↑”",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04018006645419072",
-      "pub_date": "2026-04-23T11:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
