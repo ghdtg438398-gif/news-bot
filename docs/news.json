@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 12:45:29",
+  "updated": "2026-04-23 12:50:27",
   "total": 200,
   "items": [
     {
@@ -111,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
-      "link": "https://www.imaeil.com/page/view/2026042311330949015",
-      "pub_date": "2026-04-23T12:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "1분기 韓경제, 반도체 호조 힘입어 1.7% 성장…5년6개월 만에 최고",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370637",
       "pub_date": "2026-04-23T12:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
+      "link": "https://www.imaeil.com/page/view/2026042311330949015",
+      "pub_date": "2026-04-23T12:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -210,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
-      "pub_date": "2026-04-23T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'긴급 상황' 홍석천, 큰 사고 막았다…송끄란서 쓰러진 여성 붙잡고 길...",
       "link": "http://www.tvdaily.co.kr/read.php3?aid=17769061581784402002",
       "pub_date": "2026-04-23T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
+      "pub_date": "2026-04-23T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
