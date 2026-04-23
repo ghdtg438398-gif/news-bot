@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 12:20:28",
+  "updated": "2026-04-23 12:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "용인특례시, ‘용인 양지성당 김대건 신부 석상’ 학술대회 개최",
+      "link": "http://www.breaknews.com/1202532",
+      "pub_date": "2026-04-23T12:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "수원특례시, 중동전쟁 장기화 대응 비상경제 점검 및 지원 대책",
+      "link": "http://www.breaknews.com/1202528",
+      "pub_date": "2026-04-23T12:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "1분기 韓경제, 반도체 호조 힘입어 1.7% 성장…5년6개월 만에 최고",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370637",
@@ -219,21 +237,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
-      "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
-      "pub_date": "2026-04-23T11:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
       "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
       "pub_date": "2026-04-23T11:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
+      "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -255,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
-      "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
+      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
+      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
-      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
+      "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,12 +300,12 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 특검, 심우정 전 검찰총장 '내란 중요임무' 혐의 등으로 대검 압...",
-      "link": "https://www.pressian.com/pages/articles/2026042311412272441?utm_source=naver&utm_medium=search",
+      "title": "중동전쟁 불구 우리 경제 1분기 1.7% 깜짝 성장",
+      "link": "https://news.cpbc.co.kr/article/1172396?division=NAVER",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -300,12 +318,12 @@
       "is_scoop": false
     },
     {
-      "title": "중동전쟁 불구 우리 경제 1분기 1.7% 깜짝 성장",
-      "link": "https://news.cpbc.co.kr/article/1172396?division=NAVER",
+      "title": "[속보] 특검, 심우정 전 검찰총장 '내란 중요임무' 혐의 등으로 대검 압...",
+      "link": "https://www.pressian.com/pages/articles/2026042311412272441?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -336,15 +354,6 @@
       "is_scoop": false
     },
     {
-      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심서 징역형 집유",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529507&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T11:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 서현우, 윤종빈 감독 신작 '보통 사람들' 합류…하정우·손석구...",
       "link": "https://www.news1.kr/entertain/movie/6146311",
       "pub_date": "2026-04-23T11:39:00+09:00",
@@ -352,6 +361,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "'3조 설탕 담합' CJ제일제당·삼양사 임직원 1심서 징역형 집유",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529507&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T11:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "반도체가 끌어올린 韓 1분기 1.7% 깜짝 성장…국내총소득 38년 만에 '최고...",
@@ -399,20 +417,20 @@
       "is_scoop": false
     },
     {
-      "title": "미국 상원, '트럼프 전쟁 권한 제한' 결의안 5번째 부결",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189872",
-      "pub_date": "2026-04-23T11:33:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "스카이데일리 든 전한길 \"내가 잘못 가르쳐, 5.18은 북한 주도 내란\"",
       "link": "https://news.jtbc.co.kr/article/NB12295475?influxDiv=NAVER",
       "pub_date": "2026-04-23T11:33:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "미국 상원, '트럼프 전쟁 권한 제한' 결의안 5번째 부결",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5189872",
+      "pub_date": "2026-04-23T11:33:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "오브제바이쿤달 X 원밀리언 '리아킴' 콜라보, 무신사 뷰티 단독 선론칭",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532876",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
-      "link": "https://news.tf.co.kr/read/life/2316312.htm",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
