@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 18:15:29",
+  "updated": "2026-04-23 18:20:32",
   "total": 200,
   "items": [
+    {
+      "title": "1분기 국내 경제 1.7% 깜짝 성장…반도체가 전쟁 악재 눌렀다",
+      "link": "https://www.idomin.com/news/articleView.html?idxno=2004297",
+      "pub_date": "2026-04-23T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'LPGA 시즌 3승 다투는' 김효주 vs 한나그린, 메이저 첫날부터 격돌 [셰...",
+      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019943",
+      "pub_date": "2026-04-23T18:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 당근마켓 사기꾼에 '계정 제공' 30대...항소심서 '감형’",
       "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423510&PRO_CODE=99",
@@ -12,7 +30,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] “이란에 ‘호르무즈 통행료’ 첫 예치”…최대 30억원 추정",
+      "title": "[속보] “이란에 ‘호르무즈 통행료’ 첫 예치”…돈 안 내면 나포",
       "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500276?wlog_tag3=naver",
       "pub_date": "2026-04-23T18:11:00+09:00",
       "source_id": "seoul",
@@ -174,15 +192,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
-      "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
-      "pub_date": "2026-04-23T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
       "pub_date": "2026-04-23T18:00:00+09:00",
@@ -190,6 +199,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
+      "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
+      "pub_date": "2026-04-23T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
@@ -210,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
-      "link": "https://www.etoday.co.kr/news/view/2578663",
-      "pub_date": "2026-04-23T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 민주, 인천 연수갑 송영길·계양을 김남준 전략공천",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838825",
       "pub_date": "2026-04-23T17:58:00+09:00",
@@ -230,6 +239,15 @@
     {
       "title": "[속보] 제15회 변호사시험 합격자 1,714명 발표… 합격률 50.95%",
       "link": "https://www.lawtimes.co.kr/news/articleView.html?idxno=219876",
+      "pub_date": "2026-04-23T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
+      "link": "https://www.etoday.co.kr/news/view/2578663",
       "pub_date": "2026-04-23T17:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
-      "link": "https://www.imaeil.com/page/view/2026042317545888851",
+      "title": "[속보] 민주당, 인천 연수갑에 송영길 … 계양을에 김남준 전략공천",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/23/2026042300321.html",
       "pub_date": "2026-04-23T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 인천 연수갑에 송영길 … 계양을에 김남준 전략공천",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/23/2026042300321.html",
+      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.imaeil.com/page/view/2026042317545888851",
       "pub_date": "2026-04-23T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1779,24 +1797,6 @@
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
       "link": "https://www.jnilbo.com/news/articleView.html?idxno=90000031718",
       "pub_date": "2026-04-23T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[선택! 6.3지방선거] 경기교육감 진보 단일화 '부정선거' 의혹 '일파만파...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514222",
-      "pub_date": "2026-04-23T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.yna.co.kr/view/AKR20260423143200052?input=1195m",
-      "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
