@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 20:25:26",
+  "updated": "2026-04-23 20:30:36",
   "total": 200,
   "items": [
     {
@@ -107,6 +107,15 @@
       "pub_date": "2026-04-23T19:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "신장식 \"김용남 평택을 공천? 조국 공격수였던 분...반성문부터 써야\"",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604231947030036",
+      "pub_date": "2026-04-23T19:47:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
       "title": "‘기밀누설 책임론’ 정동영 “문제 일으킨 자들 의도 있을 것” 野 “...",
       "link": "https://www.kwnews.co.kr/page/view/2026042350136900000",
       "pub_date": "2026-04-23T16:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체도 GDP도 ‘슈퍼 서프’…6500 찍은 코스피, 7000 향해 뛴다 [투자...",
-      "link": "https://biz.heraldcorp.com/article/10724322?ref=naver",
-      "pub_date": "2026-04-23T16:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
