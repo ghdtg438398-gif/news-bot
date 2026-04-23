@@ -1,7 +1,196 @@
 {
-  "updated": "2026-04-23 14:10:29",
+  "updated": "2026-04-23 14:15:51",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 현대차 1분기 영업익 2조5147억원…작년 동기 대비 30.8%↓",
+      "link": "https://www.mk.co.kr/article/12025220",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차 1분기 영업익 2조5147억원…전년比 30.8% 감소",
+      "link": "https://www.ajunews.com/view/20260423140937280",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 영업익 2.5兆…전년比 30.8%↓",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256540",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]현대차 1분기 영업익 2조5147억원…작년 동기 대비 30.8%↓",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=738479",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대자동차, 1분기 영업이익 2.51조…전분기 대비 48%↑·전년 대...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569766",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 올 1분기 매출 45조 9388억원… 전년比 3.4%↑",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395880",
+      "pub_date": "2026-04-23T14:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 매출 45조9389억원… 전년 대비 3.4%↑",
+      "link": "https://www.sidae.com/article/2026042312535732035",
+      "pub_date": "2026-04-23T14:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]듀오 회원 43만 명 신체조건·혼인경력·학력·가족관계까지 털렸...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230038",
+      "pub_date": "2026-04-23T14:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 영업이익 2조5147억원...전년 대비 30.8% 감소",
+      "link": "https://www.sedaily.com/article/20036226?ref=naver",
+      "pub_date": "2026-04-23T14:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]현대차, 1분기 영업이익 2조 5147억 원…매출 45조 9389억 원",
+      "link": "https://www.nocutnews.co.kr/news/6507051?utm_source=naver&utm_medium=article&utm_campaign=20260423021251",
+      "pub_date": "2026-04-23T14:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 매출 '45조9389억원'·영업익 '2조5147억원'",
+      "link": "https://www.news2day.co.kr/article/20260423500023",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 올 1분기 영업익 2조 5146억원… 전년比 30.8%↓",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395879",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1Q 영업익 2.5조원…전년比 30.8% ↓",
+      "link": "https://www.newspim.com/news/view/20260423000895",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 영업익 2조5147억원…전년 대비 30.8%↓",
+      "link": "https://www.sidae.com/article/2026042313373551030",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 매출액 45조9389억원···전년比 3.4%↑",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401057",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1분기 매출액 45조9389억…전년 대비 3.4%↑",
+      "link": "https://www.etoday.co.kr/news/view/2578496",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "교보생명 오너 3세 신중현, SBI저축은행 시너지팀장으로 이동",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514231",
+      "pub_date": "2026-04-23T14:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]현대차, 1Q 당기순이익 2.6조원…전년比 23.6% ↓",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04418166645419072",
+      "pub_date": "2026-04-23T14:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차, 1Q 매출 45.9조…영업익 2.5조 '전년比 31%↓'",
+      "link": "https://www.news1.kr/industry/general-industry/6146678",
+      "pub_date": "2026-04-23T14:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차 1분기 영업익 2조5천147억원…1년 전보다 30.8%↓",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306261?division=NAVER",
+      "pub_date": "2026-04-23T14:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 현대차 1분기 영업익 2조5147억원…전년 대비 30.8%↓",
+      "link": "https://www.etoday.co.kr/news/view/2578494",
+      "pub_date": "2026-04-23T14:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]서울 아파트값 상승폭 확대",
       "link": "https://magazine.hankyung.com/business/article/202604231775b",
@@ -12,21 +201,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 신한금융, 1분기 순이익 1조 6226억… '사상 최대'",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395872",
-      "pub_date": "2026-04-23T14:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "울산시, 고용·복지 연계 생태계 구축 본격화…11여억 원 투입",
       "link": "https://www.newspim.com/news/view/20260423000850",
       "pub_date": "2026-04-23T14:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 신한금융, 1분기 순이익 1조 6226억… '사상 최대'",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3395872",
+      "pub_date": "2026-04-23T14:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -66,15 +255,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 서울 아파트값 상승폭 확대…강남권 하락 진정 속 송파 상승 반...",
-      "link": "https://www.mk.co.kr/article/12025190",
-      "pub_date": "2026-04-23T14:01:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 김희애 막내아들 역은 박수오…김지은·차학연과 '골드 디거' 삼...",
       "link": "https://www.xportsnews.com/article/2140532",
       "pub_date": "2026-04-23T14:01:00+09:00",
@@ -82,6 +262,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[속보] 서울 아파트값 상승폭 확대…강남권 하락 진정 속 송파 상승 반...",
+      "link": "https://www.mk.co.kr/article/12025190",
+      "pub_date": "2026-04-23T14:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
     },
     {
       "title": "[이슈] 설탕 담합에 ‘철퇴’…CJ제일제당·삼양사 임직원 집행유예",
@@ -102,15 +291,6 @@
       "is_scoop": false
     },
     {
-      "title": "수출·투자 반등에 1분기 GDP 1.7% 성장…“반도체가 견인, 소비는 버팀...",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=810617",
-      "pub_date": "2026-04-23T13:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[POP!이벤트] 롯데웰푸드 '칸쵸', 가정의 달 맞아 '내 이름을 찾아라' 시...",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=119174",
       "pub_date": "2026-04-23T13:58:00+09:00",
@@ -120,8 +300,17 @@
       "is_scoop": false
     },
     {
-      "title": "중동 악재 누른 반도체의 힘…1분기 韓 GDP 1.7% ‘깜짝 성장’",
-      "link": "https://economist.co.kr/article/view/ecn202604230030",
+      "title": "수출·투자 반등에 1분기 GDP 1.7% 성장…“반도체가 견인, 소비는 버팀...",
+      "link": "https://www.nspna.com/news/?mode=view&newsid=810617",
+      "pub_date": "2026-04-23T13:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
+      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
-      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
+      "title": "중동 악재 누른 반도체의 힘…1분기 韓 GDP 1.7% ‘깜짝 성장’",
+      "link": "https://economist.co.kr/article/view/ecn202604230030",
       "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,17 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]신한금융, 1분기 순이익 1조6226억…전년比 9%↑'사상 최대'",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603294",
-      "pub_date": "2026-04-23T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[성기노의 뉴스 피처링] 장동혁 방미의 민낯...국가 협상력마저 팔아넘...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126716",
+      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
       "pub_date": "2026-04-23T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +381,17 @@
       "is_scoop": false
     },
     {
-      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
+      "title": "[속보]신한금융, 1분기 순이익 1조6226억…전년比 9%↑'사상 최대'",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603294",
+      "pub_date": "2026-04-23T13:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[성기노의 뉴스 피처링] 장동혁 방미의 민낯...국가 협상력마저 팔아넘...",
+      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126716",
       "pub_date": "2026-04-23T13:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1612,195 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[연재소설] 물로 씌어진 이름",
-      "link": "https://www.m-joongang.com/news/articleView.html?idxno=402432",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'설탕 담합' 前 CJ제일제당·삼양사 경영진 '집유'…법인 벌금 2억원",
-      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137252",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[리뷰] 이야기의 박동이 다시 뛸 때까지, 두 손을 포개고 하나, 둘, 셋 |...",
-      "link": "https://ch.yes24.com/Article/View/82098",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "민간이 끌어올린 1.7% 성장…재경부 \"중동 영향 2분기 본격화\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603273",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 1.7% ‘깜짝 성장’, 소비심리는 ‘위축’...경기 온도차",
-      "link": "https://www.ekn.kr/web/view.php?key=20260423021589396",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정부 \"1분기 GDP에 정책효과 크게 기여…2분기 조정은 불가피\"(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423055551002?input=1195m",
-      "pub_date": "2026-04-23T11:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체의 위력…1분기 성장률 1.7%, 22분기만에 최고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525570",
-      "pub_date": "2026-04-23T10:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“어제 산 중고차가 갑자기 사라졌어요”…잡고보니 범인은 판매자",
-      "link": "https://www.mk.co.kr/article/12025046",
-      "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미 연방 상원, ‘트럼프 전쟁 권한 제한’ 동의안 또 부결",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543760&ref=A",
-      "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "日 4월 제조업 PMI 54.9·3.3P↑…\"중동 우려로 일부 증산\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603259",
-      "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동發 악재에도 1분기 GDP 1.7% 성장…수출·투자 반등",
-      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7161194",
-      "pub_date": "2026-04-23T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]이준석 '서울 아파트 전세가 61주 연속 올라…명백한 정책 실패\"",
-      "link": "https://economist.co.kr/article/view/ecn202604230021",
-      "pub_date": "2026-04-23T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1Q 한국 경제성장률 1.7%…반도체 수출 호조로 22분기 만에 최고",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256502",
-      "pub_date": "2026-04-23T10:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘종횡무진’ 정청래 “목표는 높게, 자세는 낮게”…‘김용 딜레마’...",
-      "link": "https://biz.heraldcorp.com/article/10723836?ref=naver",
-      "pub_date": "2026-04-23T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합]'설탕 담합' CJ·삼양사 前경영진 1심 집유…李 '경고' 후 법원 첫...",
-      "link": "https://www.newspim.com/news/view/20260423000506",
-      "pub_date": "2026-04-23T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "미국 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529365&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구윤철 “1분기 GDP 1.7% 반등, 반도체 호황에 정책 효과도 크게 기여”",
-      "link": "https://biz.heraldcorp.com/article/10723834?ref=naver",
-      "pub_date": "2026-04-23T10:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[노성열의 AI경제] AI, 해킹 넘어 양자컴퓨터까지…통제의 전쟁 시작됐...",
-      "link": "https://www.kpinews.kr/newsView/1065576165644640",
-      "pub_date": "2026-04-23T10:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 성장률 1.7% '깜짝 반등'…반도체 수출·투자 확대가 견인",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569696",
-      "pub_date": "2026-04-23T10:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] \"남은 분기 '제로' 성장해도 올해 성장률 2% 중반…사실상 인...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411199",
-      "pub_date": "2026-04-23T10:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]'대세' 문상민, '담을 넘지 마시오' 주연…신시아와 하이틴 로맨...",
-      "link": "https://www.spotvnews.co.kr/news/articleView.html?idxno=812271",
-      "pub_date": "2026-04-23T10:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
