@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 17:15:34",
+  "updated": "2026-04-23 17:20:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]'전세사기 구제' 법안 본회의 통과...보증금 최소 3분의 1 보장",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05730166645419072",
+      "pub_date": "2026-04-23T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] '대상 배우' 엄지원, '복직경찰' 차태현 만난다…아이 다섯 부부...",
+      "link": "https://www.news1.kr/entertain/movie/6147119",
+      "pub_date": "2026-04-23T17:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[부산일보TV 단독인터뷰] 한동훈 \"하정우, 아빠(대통령)한테 허락? 코미...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042317125370268",
+      "pub_date": "2026-04-23T17:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "(속보) 민주당군산시장 김영일 전 예비후보, 중앙당에 재심 신청",
+      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1553377",
+      "pub_date": "2026-04-23T17:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4개월 아들 학대·살해...법원, 친모에 '무기징역'",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423509&PRO_CODE=99",
+      "pub_date": "2026-04-23T17:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘한국 반도체’ 뒷덜미 잡은 중국…‘핵심기술 中유출’ 삼전 ...",
+      "link": "https://www.dt.co.kr/article/12059221?ref=naver",
+      "pub_date": "2026-04-23T17:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[단독]장동혁, 헬러 주한미국대사 대리 면담…방미 성과 공유",
       "link": "https://www.munhwa.com/article/11584579?ref=naver",
@@ -66,8 +120,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"집 밖으로 따라 나온 엄마, 살기 느껴져서\"…70대 모친 흉기살해...",
-      "link": "https://www.imaeil.com/page/view/2026042317050845228",
+      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
       "pub_date": "2026-04-23T17:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
+      "title": "[속보] \"집 밖으로 따라 나온 엄마, 살기 느껴져서\"…70대 모친 흉기살해...",
+      "link": "https://www.imaeil.com/page/view/2026042317050845228",
       "pub_date": "2026-04-23T17:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -165,21 +219,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 삼성전자 노조 \"5월 21일부터 6월 7일까지 총파업···전면 투쟁...",
-      "link": "https://magazine.hankyung.com/business/article/202604232493b",
-      "pub_date": "2026-04-23T16:59:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'오류' 운전면허시스템 나흘째만에 ‘부분’ 정상화… 온라인 적성검사...",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042309154039765",
       "pub_date": "2026-04-23T16:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성전자 노조 \"5월 21일부터 6월 7일까지 총파업···전면 투쟁...",
+      "link": "https://magazine.hankyung.com/business/article/202604232493b",
+      "pub_date": "2026-04-23T16:59:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -219,21 +273,21 @@
       "is_scoop": false
     },
     {
-      "title": "해수부 구내식당 ‘월 1회 휴무’… 지역 상권 숨통 트일까",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316461163706",
-      "pub_date": "2026-04-23T16:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 공공의료 인력 연간 100명 양성…국립의전원 설치법 국회 통과",
       "link": "https://www.sedaily.com/article/20036348?ref=naver",
       "pub_date": "2026-04-23T16:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "해수부 구내식당 ‘월 1회 휴무’… 지역 상권 숨통 트일까",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042316461163706",
+      "pub_date": "2026-04-23T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -246,8 +300,8 @@
       "is_scoop": false
     },
     {
-      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
+      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
+      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
-      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
+      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -300,15 +354,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 나경원 “국정원, 李대통령 범죄 숨기는 ‘범죄 세탁소’ 전락”",
-      "link": "https://www.kyeonggi.com/article/20260423580397",
-      "pub_date": "2026-04-23T16:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "왜 지금 한국인가? 사우디의 선택이 상징하는 새로운 국제질서",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227729&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
       "pub_date": "2026-04-23T16:46:00+09:00",
@@ -324,6 +369,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나경원 “국정원, 李대통령 범죄 숨기는 ‘범죄 세탁소’ 전락”",
+      "link": "https://www.kyeonggi.com/article/20260423580397",
+      "pub_date": "2026-04-23T16:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -372,15 +426,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
       "pub_date": "2026-04-23T16:38:00+09:00",
@@ -388,6 +433,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
+      "pub_date": "2026-04-23T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
@@ -1746,60 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 홍준표 \"장동혁 미국방문, 로비스트에게 당했단 느낌 들 정도로...",
-      "link": "https://www.kyeonggi.com/article/20260423580146",
-      "pub_date": "2026-04-23T15:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한국은행, 2026년 1/4분기 실질 국내총생산 설명회",
-      "link": "https://www.newspim.com/news/view/20260423001015",
-      "pub_date": "2026-04-23T15:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "파마스퀘어, 회원 8,500명 확보···투자 유치 후 확장 본격화",
-      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49273",
-      "pub_date": "2026-04-23T15:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "CU점주들 \"아직은 괜찮지만…\" 파업 장기화 우려 '노심초사'",
-      "link": "https://www.news1.kr/local/busan-gyeongnam/6146806",
-      "pub_date": "2026-04-23T15:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[오전 주요 국제금융뉴스](23일)",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411296",
-      "pub_date": "2026-04-23T15:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 ‘해든이’ 학대 살해한 친모…무기징역 선고",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260423.99099006742",
-      "pub_date": "2026-04-23T15:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
