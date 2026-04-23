@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 15:10:29",
+  "updated": "2026-04-23 15:15:31",
   "total": 200,
   "items": [
+    {
+      "title": "대구 지하철 방화 시도?…라이터·살충제 든 남성, 승객 신고로 체포",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042314491212403",
+      "pub_date": "2026-04-23T15:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 강원 태백시 장성동 야산 산불 발생",
+      "link": "https://www.etoday.co.kr/news/view/2578548",
+      "pub_date": "2026-04-23T15:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'5경기 연속 홈런' 무라카미, MLB 신인·화이트삭스 타이기록",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042743",
+      "pub_date": "2026-04-23T15:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
       "link": "https://www.news1.kr/photos/7872449",
@@ -75,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
+      "title": "[속보] 주호영, 대구시장 불출마",
+      "link": "https://www.pressian.com/pages/articles/2026042314590417555?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 주호영, 대구시장 불출마",
-      "link": "https://www.pressian.com/pages/articles/2026042314590417555?utm_source=naver&utm_medium=search",
+      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[오피셜] 손흥민 파격 결단! 돈 포기했다→'월드컵 올인' 선언…2026년 신...",
-      "link": "https://www.xportsnews.com/article/2140540",
-      "pub_date": "2026-04-23T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(호기심과 AI가 만든 난치성 질환 이야기)페니트리움 임상을 낙관하는 ...",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298684&inflow=N",
       "pub_date": "2026-04-23T15:00:00+09:00",
@@ -122,6 +140,15 @@
     {
       "title": "[남승표의 궁변통구] 전세사기, 정부는 어디에 있는가",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411289",
+      "pub_date": "2026-04-23T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[오피셜] 손흥민 파격 결단! 돈 포기했다→'월드컵 올인' 선언…2026년 신...",
+      "link": "https://www.xportsnews.com/article/2140540",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,7 +264,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
+      "title": "[속보]4개월 아들 학대살해 ‘여수 해든이’ 친모 무기징역 선고",
       "link": "https://www.donga.com/news/Society/article/all/20260423/133799074/1",
       "pub_date": "2026-04-23T14:51:00+09:00",
       "source_id": "yna",
@@ -867,8 +894,8 @@
       "is_scoop": false
     },
     {
-      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
+      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
+      "link": "https://www.hangyo.com/news/article.html?no=107487",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -876,8 +903,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
-      "link": "https://www.hangyo.com/news/article.html?no=107487",
+      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
       "link": "https://www.ajunews.com/view/20260423132130181",
       "pub_date": "2026-04-23T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
-      "link": "https://www.etoday.co.kr/news/view/2578468",
-      "pub_date": "2026-04-23T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억원…전년比 338% 증가",
-      "link": "https://www.ajunews.com/view/20260423132022180",
-      "pub_date": "2026-04-23T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
-      "pub_date": "2026-04-23T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
