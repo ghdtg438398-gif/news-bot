@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 22:05:35",
+  "updated": "2026-04-23 22:10:38",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 “호르무즈 해협 기뢰 설치 선박 모두 격침 명령”",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500296?wlog_tag3=naver",
+      "pub_date": "2026-04-23T22:09:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 해협 기뢰설치 선박 발견시 격침 명령\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423220736jkK",
+      "pub_date": "2026-04-23T22:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.kyeonggi.com/article/20260423580603",
+      "pub_date": "2026-04-23T22:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈에 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "link": "https://imnews.imbc.com/news/2026/world/article/6817594_36925.html",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "mbc",
+      "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.fnnews.com/news/202604232204386486",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프, 호르무즈 기뢰 선박 '격침' 지시",
       "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154705",
@@ -13,7 +67,7 @@
     },
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230081",
+      "link": "https://www.imaeil.com/page/view/2026042322013187038",
       "pub_date": "2026-04-23T22:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -22,7 +76,7 @@
     },
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://www.imaeil.com/page/view/2026042322013187038",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230081",
       "pub_date": "2026-04-23T22:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,18 +120,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “호르무즈 해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "title": "[속보]트럼프 “호르무즈 해협 기뢰 설치하는 모든 선박 겨냥 격침 명령...",
       "link": "https://www.khan.co.kr/article/202604232159001",
       "pub_date": "2026-04-23T21:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 선박 '사격' 명령\"",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230696&t=NN",
-      "pub_date": "2026-04-23T21:57:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -93,18 +138,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 모든 선박 겨냥 사격 명령\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07475126645419072",
-      "pub_date": "2026-04-23T21:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
-      "pub_date": "2026-04-23T21:56:00+09:00",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 선박 '사격' 명령\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230696&t=NN",
+      "pub_date": "2026-04-23T21:57:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -122,6 +158,24 @@
     {
       "title": "[속보] 트럼프 \"호르무즈 기뢰 부설 선박 격침 명령…제거 작업 확대\"",
       "link": "https://www.news1.kr/world/middleeast-africa/6147338",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 모든 선박 겨냥 사격 명령\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07475126645419072",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
       "pub_date": "2026-04-23T21:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1747,60 +1801,6 @@
       "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 인천 보궐 전략공천 발표…계양을 김남준·연수갑 송영...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544055&ref=A",
-      "pub_date": "2026-04-23T17:46:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]인천 계양을 김남준·연수갑 송영길…與, 6·3 보궐 공천 발표",
-      "link": "https://www.news1.kr/politics/assembly/6147149",
-      "pub_date": "2026-04-23T17:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“국정원, 李의 ‘범죄 세탁소’ 전락…이종석 국정조사 나와라”...",
-      "link": "https://www.munhwa.com/article/11584585?ref=naver",
-      "pub_date": "2026-04-23T17:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독｜팩트체크] \"외교 관례\" 장동혁 대표가 만난 '뒷모습' 인물, 미 국...",
-      "link": "https://news.jtbc.co.kr/article/NB12295561?influxDiv=NAVER",
-      "pub_date": "2026-04-23T17:45:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "1분기 실질 국내총생산 1.7% 성장, 반도체 호황에 5년6개월 만에 최고치",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436400",
-      "pub_date": "2026-04-23T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독인터뷰] 박용호 후보 \"사즉생의 각오로 파주 경제 대전환\"",
-      "link": "https://www.newsclaim.co.kr/news/articleView.html?idxno=3061715",
-      "pub_date": "2026-04-23T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
