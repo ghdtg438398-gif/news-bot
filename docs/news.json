@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 16:45:28",
+  "updated": "2026-04-23 16:50:29",
   "total": 200,
   "items": [
+    {
+      "title": "‘기밀누설 책임론’ 정동영 “문제 일으킨 자들 의도 있을 것” 野 “...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350136900000",
+      "pub_date": "2026-04-23T16:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체도 GDP도 ‘슈퍼 서프’…6500 찍은 코스피, 7000 향해 뛴다 [투자...",
+      "link": "https://biz.heraldcorp.com/article/10724322?ref=naver",
+      "pub_date": "2026-04-23T16:47:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 나경원 “국정원, 李대통령 범죄 숨기는 ‘범죄 세탁소’ 전락”",
+      "link": "https://www.kyeonggi.com/article/20260423580397",
+      "pub_date": "2026-04-23T16:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "왜 지금 한국인가? 사우디의 선택이 상징하는 새로운 국제질서",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227729&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-23T16:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "혼다코리아, 올해 말로 자동차사업 접어…\"AS는 유지\"",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78277",
+      "pub_date": "2026-04-23T16:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한때 연 1.2만대 팔리던 혼다車, 연말 한국 시장 '사요나라'(종합)",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05313606645419072",
+      "pub_date": "2026-04-23T16:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'살인 혐의' 화물연대 집회 사망 사고 운전자 구속…\"죄송하다\"",
       "link": "https://www.segye.com/newsView/20260423515337?OutUrl=naver",
@@ -255,8 +309,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
+      "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
+      "link": "https://www.sedaily.com/article/20036320?ref=naver",
       "pub_date": "2026-04-23T16:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -264,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
-      "link": "https://www.sedaily.com/article/20036320?ref=naver",
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
       "pub_date": "2026-04-23T16:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,20 +363,20 @@
       "is_scoop": false
     },
     {
-      "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…셀럽파이브 컴백 언급...",
-      "link": "https://www.xportsnews.com/article/2140552",
-      "pub_date": "2026-04-23T16:08:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[박수진의 금융人] 카뱅 '10년' 이끈 윤호영, 이제 국내는 좁다",
       "link": "http://www.newswatch.kr/news/articleView.html?idxno=79367",
       "pub_date": "2026-04-23T16:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…셀럽파이브 컴백 언급...",
+      "link": "https://www.xportsnews.com/article/2140552",
+      "pub_date": "2026-04-23T16:08:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -534,8 +588,8 @@
       "is_scoop": false
     },
     {
-      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -543,8 +597,8 @@
       "is_scoop": false
     },
     {
-      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
-      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -687,8 +741,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
-      "link": "https://www.mediapen.com/news/view/1095244",
+      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
+      "link": "https://www.ajunews.com/view/20260423151911517",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -696,8 +750,8 @@
       "is_scoop": false
     },
     {
-      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
-      "link": "https://www.ajunews.com/view/20260423151911517",
+      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
+      "link": "https://www.mediapen.com/news/view/1095244",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1745,60 +1799,6 @@
       "pub_date": "2026-04-23T14:52:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"정몽규 자격정지 중징계 하라\" 문체부 요구 적법→법원 판결 나...",
-      "link": "https://www.xportsnews.com/article/2140541",
-      "pub_date": "2026-04-23T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]4개월 아들 학대살해 ‘여수 해든이’ 친모 무기징역 선고",
-      "link": "https://www.donga.com/news/Society/article/all/20260423/133799074/1",
-      "pub_date": "2026-04-23T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 아들 잔혹 살해한 여수 영아살인사건 친모 ‘무기징역...",
-      "link": "https://www.khan.co.kr/article/202604231451001",
-      "pub_date": "2026-04-23T14:51:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 축구협 ‘정몽규 중징계 취소’ 행정소송 1심 패소…법원 “문체...",
-      "link": "https://www.sportsseoul.com/news/read/1605024?ref=naver",
-      "pub_date": "2026-04-23T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, 삼성웰스토리 '사내급식 몰아주기' 공정위 과징금 취소",
-      "link": "https://www.dailian.co.kr/news/view/1637045/?sc=Naver",
-      "pub_date": "2026-04-23T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 파수 주가 상한가 터치…52주 신고가 새로 써",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569772",
-      "pub_date": "2026-04-23T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
