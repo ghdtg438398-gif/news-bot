@@ -1,9 +1,18 @@
 {
-  "updated": "2026-04-23 23:00:41",
+  "updated": "2026-04-23 23:05:29",
   "total": 200,
   "items": [
     {
-      "title": "[속보]'숨 고르는' 뉴욕증시, 사상 최고 뒤 하락",
+      "title": "BGF로지스, 화물연대에 가처분 신청…노조 \"교섭 진정성 의심\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423187800030?input=1195m",
+      "pub_date": "2026-04-23T23:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 뉴욕증시 숨고르기…사상 최고 후 하루 만에 하락 전환",
       "link": "https://news.mtn.co.kr/news-detail/2026042322544026513",
       "pub_date": "2026-04-23T22:58:00+09:00",
       "source_id": "yna",
@@ -30,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322275643231",
+      "title": "[속보]트럼프 \"이란 내부갈등 미친수준…합의할 때까지 해상봉쇄\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604378",
       "pub_date": "2026-04-23T22:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,8 +48,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 내부갈등 미친수준…합의할 때까지 해상봉쇄\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604378",
+      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322275643231",
       "pub_date": "2026-04-23T22:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,19 +103,19 @@
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
+      "link": "https://www.hankyung.com/article/2026042330587",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://www.hankyung.com/article/2026042330587",
+      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “호르무즈 기뢰 설치 선박 모두 격침하라”",
-      "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "title": "[속보]트럼프 “호르무즈 기뢰 설치 선박 모두 격침하라”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 쿠팡, 로비자금 2배 늘려 '트럼프 인맥'에 댔다…안보 사안으로...",
-      "link": "https://news.jtbc.co.kr/article/NB12295568?influxDiv=NAVER",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
