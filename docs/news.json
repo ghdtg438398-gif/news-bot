@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 22:15:34",
+  "updated": "2026-04-23 22:20:41",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423187100071?input=1195m",
+      "pub_date": "2026-04-23T22:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
       "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
@@ -21,7 +30,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈 해협 기뢰 설치 선박 모두 격침 명령”",
+      "title": "[속보] 트럼프 “호르무즈해협 ‘기뢰 설치 선박’ 모조리 격침하라 명...",
       "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500296?wlog_tag3=naver",
       "pub_date": "2026-04-23T22:09:00+09:00",
       "source_id": "seoul",
@@ -66,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.fnnews.com/news/202604232204386486",
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.fnnews.com/news/202604232204386486",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -94,15 +103,6 @@
     },
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://www.imaeil.com/page/view/2026042322013187038",
-      "pub_date": "2026-04-23T22:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
       "link": "https://www.ikbc.co.kr/article/view/kbc202604230081",
       "pub_date": "2026-04-23T22:02:00+09:00",
       "source_id": "yna",
@@ -111,11 +111,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544462&ref=A",
-      "pub_date": "2026-04-23T22:01:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 발포·격침 시켜...",
+      "link": "https://www.imaeil.com/page/view/2026042322013187038",
+      "pub_date": "2026-04-23T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -125,6 +125,24 @@
       "pub_date": "2026-04-23T22:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544460&ref=A",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544462&ref=A",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -174,17 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
-      "pub_date": "2026-04-23T21:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 모든 선박 겨냥 사격 명령\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07475126645419072",
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.sedaily.com/article/20036485?ref=naver",
       "pub_date": "2026-04-23T21:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,8 +210,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://www.sedaily.com/article/20036485?ref=naver",
+      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 모든 선박 겨냥 사격 명령\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07475126645419072",
       "pub_date": "2026-04-23T21:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1778,24 +1796,6 @@
     {
       "title": "[속보] 與, 인천 계양을 김남준·연수갑 송영길 전략공천",
       "link": "https://biz.heraldcorp.com/article/10724405?ref=naver",
-      "pub_date": "2026-04-23T17:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당 \"인천 연수갑에 송영길, 계양을에 김남준 전략공천\"",
-      "link": "https://www.hankookilbo.com/news/article/A2026042317360000980?did=NA",
-      "pub_date": "2026-04-23T17:47:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 인천 계양을 김남준·연수갑 송영길 전략공천",
-      "link": "https://www.sedaily.com/article/20036387?ref=naver",
       "pub_date": "2026-04-23T17:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
