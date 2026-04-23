@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 20:35:27",
+  "updated": "2026-04-23 20:40:29",
   "total": 200,
   "items": [
+    {
+      "title": "더보이즈 9인, 원헌드레드 상대 가처분 승소⋯법원 \"전속계약 적법 해지...",
+      "link": "http://www.joynews24.com/view/1963047",
+      "pub_date": "2026-04-23T20:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "전자담배도 금연구역 단속 대상 … 청주시 관리 강화",
       "link": "http://www.cctimes.kr/news/articleView.html?idxno=903669",
@@ -165,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
+      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +183,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
+      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '한화 날벼락' 78억 FA 엄상백, 팔꿈치 인대파열로 수술대 行…사...",
-      "link": "https://www.xportsnews.com/article/2140567",
-      "pub_date": "2026-04-23T16:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
