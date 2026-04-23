@@ -1,20 +1,38 @@
 {
-  "updated": "2026-04-23 19:25:27",
+  "updated": "2026-04-23 19:30:34",
   "total": 200,
   "items": [
     {
-      "title": "‘반도체 힘’ 1분기 GDP 성장 1.7%",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260424.22008006731",
-      "pub_date": "2026-04-23T19:22:00+09:00",
+      "title": "검찰, '오송참사 부실 제방 공사' 책임자들에 징역형 구형",
+      "link": "https://www.nocutnews.co.kr/news/6507389?utm_source=naver&utm_medium=article&utm_campaign=20260423072654",
+      "pub_date": "2026-04-23T19:27:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
-      "pub_date": "2026-04-23T19:20:00+09:00",
+      "title": "\"아직 시차 적응 중이라…\" 임성재, 우리금융챔피언십 이븐파 출발",
+      "link": "https://www.nocutnews.co.kr/news/6507390?utm_source=naver&utm_medium=article&utm_campaign=20260423072554",
+      "pub_date": "2026-04-23T19:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정근식, 서울시 교육감 진보 단일 후보 확정",
+      "link": "https://view.asiae.co.kr/article/2026042319232252635",
+      "pub_date": "2026-04-23T19:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘반도체 힘’ 1분기 GDP 성장 1.7%",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260424.22008006731",
+      "pub_date": "2026-04-23T19:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -27,6 +45,15 @@
       "source_id": "chosun",
       "source_name": "조선일보",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
+      "pub_date": "2026-04-23T19:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -102,20 +129,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
-      "link": "https://www.hankyung.com/article/2026042328847",
-      "pub_date": "2026-04-23T19:08:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 최고가격도 '동결'…휘발유 1934원·경유 1923원",
       "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006877",
       "pub_date": "2026-04-23T19:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
+      "link": "https://www.hankyung.com/article/2026042328847",
+      "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 이란전쟁, 美의회 승인 없이 계속할 수 있나… 5월 1일이 분수령",
-      "link": "https://www.mediawatch.kr/news/article.html?no=259387",
-      "pub_date": "2026-04-23T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "담합 반복시 시장 퇴출…부탄 유류세 인하폭 확대",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260423161950nP4",
-      "pub_date": "2026-04-23T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다, 올해 말 한국 자동차 시장 철수…진출 23년 만",
-      "link": "https://www.joongang.co.kr/article/25422801",
-      "pub_date": "2026-04-23T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
