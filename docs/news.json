@@ -1,11 +1,56 @@
 {
-  "updated": "2026-04-23 22:30:39",
+  "updated": "2026-04-23 22:35:34",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]뉴욕증시, 이란전 불확실성에 하락 출발…다우 0.41%↓",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604380",
+      "pub_date": "2026-04-23T22:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 합의할 때까지 호르무즈 철통 봉쇄할 것”",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5190026",
+      "pub_date": "2026-04-23T22:31:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란 내부갈등 미친수준…합의할 때까지 해상봉쇄\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604378",
+      "pub_date": "2026-04-23T22:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322275643231",
+      "pub_date": "2026-04-23T22:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박에 발포·격침 명...",
       "link": "https://biz.heraldcorp.com/article/10724463?ref=naver",
       "pub_date": "2026-04-23T22:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 합의 때까지 호르무즈 철통 봉쇄\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07626006645419072",
+      "pub_date": "2026-04-23T22:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -17,15 +62,6 @@
       "pub_date": "2026-04-23T22:26:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"이란 합의 때까지 호르무즈 철통 봉쇄\"",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07626006645419072",
-      "pub_date": "2026-04-23T22:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -111,7 +147,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈해협 ‘기뢰 설치 선박’ 모조리 격침하라 명...",
+      "title": "[속보] 트럼프 “기뢰설치선박 모조리 격침하라 명령…이란 내분 ‘미친...",
       "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500296?wlog_tag3=naver",
       "pub_date": "2026-04-23T22:09:00+09:00",
       "source_id": "seoul",
@@ -138,16 +174,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
-      "pub_date": "2026-04-23T22:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 “호르무즈 기뢰 설치 모든 선박 격침 명령”",
+      "title": "[속보]트럼프 “호르무즈 기뢰 설치 선박 모두 격침하라”",
       "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
@@ -158,6 +185,15 @@
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
       "link": "http://www.fnnews.com/news/202604232204386486",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -201,21 +237,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
-      "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
-      "pub_date": "2026-04-23T22:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544460&ref=A",
       "pub_date": "2026-04-23T22:01:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -228,21 +264,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5190022",
-      "pub_date": "2026-04-23T22:00:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[김종석의 오프닝]삼성전자 노조 집회…약 4만 명 운집",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525718",
       "pub_date": "2026-04-23T22:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5190022",
+      "pub_date": "2026-04-23T22:00:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-23T17:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://www.joongang.co.kr/article/25422841",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 1.7%…韓 깜짝성장",
-      "link": "https://www.mk.co.kr/article/12025544",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주, 인천 계양을 김남준·연수갑에 송영길 전략공천",
-      "link": "https://news.tf.co.kr/read/ptoday/2316667.htm",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 공천",
-      "link": "https://www.hankyung.com/article/2026042327647",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     }
