@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 15:25:27",
+  "updated": "2026-04-23 15:30:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]KB금융, 1분기 순이익 1조8924억원…전년比 11.5%↑",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603516",
+      "pub_date": "2026-04-23T15:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]‘무소속 출마’ 접은 주호영 “대구시장 불출마”",
       "link": "https://www.munhwa.com/article/11584535?ref=naver",
@@ -9,6 +18,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 덕에 1.7% 깜짝 성장했지만…가계·자영업자 \"체감은 한겨울\"",
+      "link": "https://www.dailian.co.kr/news/view/1636988/?sc=Naver",
+      "pub_date": "2026-04-23T15:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -57,12 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "발언하는 장동혁 대표",
-      "link": "https://www.news1.kr/photos/7872518",
+      "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872517",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
+      "link": "https://www.news1.kr/photos/7872516",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -75,12 +102,12 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
-      "link": "https://www.news1.kr/photos/7872516",
+      "title": "발언하는 장동혁 대표",
+      "link": "https://www.news1.kr/photos/7872518",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -95,15 +122,6 @@
     {
       "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
       "link": "https://www.news1.kr/photos/7872515",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
-      "link": "https://www.news1.kr/photos/7872517",
       "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,15 +156,6 @@
       "is_scoop": false
     },
     {
-      "title": "장동혁 대표, 외통-국방-정보위 상임위원장 긴급 회동",
-      "link": "https://www.news1.kr/photos/7872440",
-      "pub_date": "2026-04-23T15:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
       "pub_date": "2026-04-23T15:18:00+09:00",
@@ -156,9 +165,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 홍준표 \"장동혁 미국방문, 로비스트에게 당했단 느낌 들 정도로...",
-      "link": "https://www.kyeonggi.com/article/20260423580146",
-      "pub_date": "2026-04-23T15:17:00+09:00",
+      "title": "장동혁 대표, 외통-국방-정보위 상임위원장 긴급 회동",
+      "link": "https://www.news1.kr/photos/7872440",
+      "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -171,6 +180,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홍준표 \"장동혁 미국방문, 로비스트에게 당했단 느낌 들 정도로...",
+      "link": "https://www.kyeonggi.com/article/20260423580146",
+      "pub_date": "2026-04-23T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -228,7 +246,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 '해든이' 잔혹학대 살해한 친모 무기징역",
+      "title": "[속보] 생후 4개월 '해든이' 잔혹학대 살해한 친모 무기징역",
       "link": "https://news.jtbc.co.kr/article/NB12295503?influxDiv=NAVER",
       "pub_date": "2026-04-23T15:13:00+09:00",
       "source_id": "yna",
@@ -256,15 +274,6 @@
     },
     {
       "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
-      "link": "https://www.news1.kr/photos/7872448",
-      "pub_date": "2026-04-23T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
       "link": "https://www.news1.kr/photos/7872449",
       "pub_date": "2026-04-23T15:08:00+09:00",
       "source_id": "yna",
@@ -273,7 +282,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
+      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
+      "link": "https://www.news1.kr/photos/7872448",
+      "pub_date": "2026-04-23T15:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] '컷오프' 국힘 주호영, 불출마 선언…장동혁 퇴진 촉구",
       "link": "https://dgmbc.com/NewsArticle/836849",
       "pub_date": "2026-04-23T15:07:00+09:00",
       "source_id": "mbc",
@@ -327,6 +345,33 @@
       "is_scoop": false
     },
     {
+      "title": "[오피셜] 손흥민 파격 결단! 돈 포기했다→'월드컵 올인' 선언…2026년 신...",
+      "link": "https://www.xportsnews.com/article/2140540",
+      "pub_date": "2026-04-23T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "(호기심과 AI가 만든 난치성 질환 이야기)페니트리움 임상을 낙관하는 ...",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298684&inflow=N",
+      "pub_date": "2026-04-23T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[남승표의 궁변통구] 전세사기, 정부는 어디에 있는가",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411289",
+      "pub_date": "2026-04-23T15:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 주호영, 대구시장 불출마",
       "link": "https://www.pressian.com/pages/articles/2026042314590417555?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T15:00:00+09:00",
@@ -351,33 +396,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "(호기심과 AI가 만든 난치성 질환 이야기)페니트리움 임상을 낙관하는 ...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298684&inflow=N",
-      "pub_date": "2026-04-23T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[남승표의 궁변통구] 전세사기, 정부는 어디에 있는가",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411289",
-      "pub_date": "2026-04-23T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[오피셜] 손흥민 파격 결단! 돈 포기했다→'월드컵 올인' 선언…2026년 신...",
-      "link": "https://www.xportsnews.com/article/2140540",
-      "pub_date": "2026-04-23T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -453,21 +471,21 @@
       "is_scoop": false
     },
     {
-      "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
       "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
       "pub_date": "2026-04-23T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -912,21 +930,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 국민의힘 대구시장 후보 ‘컷오프’ 주호영 “대구시장 출마 않...",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543908&ref=A",
-      "pub_date": "2026-04-23T14:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'12명 사상 깨비시장 돌진' 70대 남성, 금고형 집유 선고",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04542806645419072",
       "pub_date": "2026-04-23T14:39:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 대구시장 후보 ‘컷오프’ 주호영 “대구시장 출마 않...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543908&ref=A",
+      "pub_date": "2026-04-23T14:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1779,24 +1797,6 @@
       "title": "[POP!이벤트] 롯데웰푸드 '칸쵸', 가정의 달 맞아 '내 이름을 찾아라' 시...",
       "link": "http://www.popcornnews.net/news/articleView.html?idxno=119174",
       "pub_date": "2026-04-23T13:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "수출·투자 반등에 1분기 GDP 1.7% 성장…“반도체가 견인, 소비는 버팀...",
-      "link": "https://www.nspna.com/news/?mode=view&newsid=810617",
-      "pub_date": "2026-04-23T13:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[돈버는퀴즈 정답] 캐시워크 정답 4월23일 13시 돈버는 퀴즈 정답 공개",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532960",
-      "pub_date": "2026-04-23T13:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
