@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 22:45:33",
+  "updated": "2026-04-23 22:50:34",
   "total": 200,
   "items": [
     {
@@ -174,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
-      "pub_date": "2026-04-23T22:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]트럼프 “호르무즈 기뢰 설치 선박 모두 격침하라”",
       "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
       "pub_date": "2026-04-23T22:06:00+09:00",
@@ -194,6 +185,15 @@
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
       "link": "http://www.fnnews.com/news/202604232204386486",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
