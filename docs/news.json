@@ -1,9 +1,72 @@
 {
-  "updated": "2026-04-23 19:10:33",
+  "updated": "2026-04-23 19:15:34",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 국제유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
+      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향...하반기 금리 3%까지 인상 전망...",
+      "link": "https://www.betanews.net/article/view/beta202604230105",
+      "pub_date": "2026-04-23T19:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“데이팅 앱 쓰고 18만원 받으세요”…저출산에 파격 정책 내놓은 ‘이...",
+      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/23/20260423500039?wlog_tag3=naver",
+      "pub_date": "2026-04-23T19:13:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정근식, 서울시교육감 '진보' 단일 후보로 선출",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603916",
+      "pub_date": "2026-04-23T19:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]“봉쇄 안 따르면 공격”…미군 무전 입수",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525677",
+      "pub_date": "2026-04-23T19:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[속보] 서울시교육감 진보진영 단일후보 정근식 선출",
+      "link": "https://www.edupress.kr/news/articleView.html?idxno=30173",
+      "pub_date": "2026-04-23T19:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "BGF로지스, 결국 화물연대와 교섭...\"책임자 처벌, 교섭 연장 확인될때...",
+      "link": "https://www.greened.kr/news/articleView.html?idxno=339734",
+      "pub_date": "2026-04-23T19:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 석유 4차 최고가격 또 동결…\"민생안정 방점\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423190848JQb",
+      "pub_date": "2026-04-23T19:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
       "link": "https://www.hankyung.com/article/2026042328847",
       "pub_date": "2026-04-23T19:08:00+09:00",
       "source_id": "hankyung",
@@ -66,20 +129,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
-      "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
       "link": "https://www.newsis.com/view/NISX20260423_0003604141",
       "pub_date": "2026-04-23T19:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -174,20 +237,20 @@
       "is_scoop": true
     },
     {
-      "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
-      "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
-      "pub_date": "2026-04-23T18:32:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
       "link": "http://www.breaknews.com/1202626",
       "pub_date": "2026-04-23T18:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
+      "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -198,6 +261,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -216,15 +288,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
-      "link": "http://www.breaknews.com/1202688",
-      "pub_date": "2026-04-23T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -291,21 +354,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
-      "pub_date": "2026-04-23T18:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
       "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
       "pub_date": "2026-04-23T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
+      "pub_date": "2026-04-23T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1734,69 +1797,6 @@
       "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억...전년비 13% ↑",
       "link": "https://www.news2day.co.kr/article/20260423500204",
       "pub_date": "2026-04-23T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘살인 혐의’ 화물연대 조합원 사망 사고 운전자 구속",
-      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
-      "pub_date": "2026-04-23T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "코스피 또 '사상최고', 장중 6500 돌파도…'7천피'도 넘본다(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423084051008?input=1195m",
-      "pub_date": "2026-04-23T16:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[KFE 유통로그]이마트·신라면세점·신세계백화점",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657249",
-      "pub_date": "2026-04-23T16:14:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'헉, 차주들 어쩌나' 혼다코리아, 한국시장서 자동차 사업 철수...진출 ...",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230049",
-      "pub_date": "2026-04-23T16:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
-      "link": "https://www.imaeil.com/page/view/2026042315315170096",
-      "pub_date": "2026-04-23T16:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
-      "link": "https://www.sedaily.com/article/20036320?ref=naver",
-      "pub_date": "2026-04-23T16:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
-      "pub_date": "2026-04-23T16:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
