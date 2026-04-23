@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 23:15:30",
+  "updated": "2026-04-23 23:20:34",
   "total": 200,
   "items": [
+    {
+      "title": "'8연승 KIA' 충격 5연패 빠트렸다! 이게 바로 1위 저력…\"소형준 잘 버텨...",
+      "link": "https://www.xportsnews.com/article/2140633",
+      "pub_date": "2026-04-23T23:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[단독]포스코, 사내하청 7천명 직고용 계획안 보니…\"내년 10월 완료\"",
       "link": "https://www.nocutnews.co.kr/news/6507431?utm_source=naver&utm_medium=article&utm_campaign=20260423111256",
@@ -121,19 +130,19 @@
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
+      "link": "https://www.hankyung.com/article/2026042330587",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://www.hankyung.com/article/2026042330587",
+      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-23T17:50:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604231750289410",
-      "pub_date": "2026-04-23T17:50:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
