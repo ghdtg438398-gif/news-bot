@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 13:25:35",
+  "updated": "2026-04-23 13:30:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 현대글로비스, 1분기 매출 '7조8127억원'·영업익 '5215억원'",
+      "link": "https://www.news2day.co.kr/article/20260423500028",
+      "pub_date": "2026-04-23T13:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원…338% 증가",
+      "link": "https://www.sedaily.com/article/20036181?ref=naver",
+      "pub_date": "2026-04-23T13:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
       "link": "https://www.ajunews.com/view/20260423132130181",
@@ -1778,24 +1796,6 @@
     {
       "title": "'정동영 北 농축시설 공개 발언' 외통위 단독 소집한 野",
       "link": "https://www.news1.kr/photos/7871427",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "외교통일위원회 단독 소집한 국민의힘",
-      "link": "https://www.news1.kr/photos/7871428",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "野 외통위 단독 소집 '정동영 불출석'",
-      "link": "https://www.news1.kr/photos/7871425",
       "pub_date": "2026-04-23T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
