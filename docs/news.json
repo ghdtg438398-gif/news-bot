@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 18:55:29",
+  "updated": "2026-04-23 19:00:38",
   "total": 200,
   "items": [
+    {
+      "title": "국힘 \"정동영 해임 건의안 추진\"…정 \"지나친 정략\"",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423185618zvX",
+      "pub_date": "2026-04-23T18:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[채권-마감] '서프라이즈' 1분기 GDP에 국고3년 9.3bp↑",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411358",
@@ -84,20 +93,20 @@
       "is_scoop": true
     },
     {
-      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
-      "link": "http://www.breaknews.com/1202626",
-      "pub_date": "2026-04-23T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
       "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
       "pub_date": "2026-04-23T18:32:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
+      "link": "http://www.breaknews.com/1202626",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -201,21 +210,21 @@
       "is_scoop": false
     },
     {
-      "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
-      "pub_date": "2026-04-23T18:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]“이란, 호르무즈 해협 통행료 받아…은행에 예치”",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525665",
       "pub_date": "2026-04-23T18:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "IB들 올해 韓성장전망 잇단 상향…JP모건 3%·씨티 2.9%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423122351002?input=1195m",
+      "pub_date": "2026-04-23T18:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1787,15 +1796,6 @@
     {
       "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
       "link": "https://www.munhwa.com/article/11584560?ref=naver",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
-      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
