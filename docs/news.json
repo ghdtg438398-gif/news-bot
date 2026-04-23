@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 22:50:34",
+  "updated": "2026-04-23 22:55:31",
   "total": 200,
   "items": [
     {
@@ -21,8 +21,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란 내부갈등 미친수준…합의할 때까지 해상봉쇄\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604378",
+      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322275643231",
       "pub_date": "2026-04-23T22:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +30,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"이란이 합의할 때까지 호르무즈 철저히 봉쇄\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322275643231",
+      "title": "[속보]트럼프 \"이란 내부갈등 미친수준…합의할 때까지 해상봉쇄\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604378",
       "pub_date": "2026-04-23T22:29:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
-      "pub_date": "2026-04-23T22:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'노시환 복귀 솔로포' 한화, LG 제압하고 2연패 탈출",
       "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931709",
       "pub_date": "2026-04-23T22:10:00+09:00",
@@ -147,7 +138,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “기뢰부설선 모조리 격침하라 명령…이란 내분 ‘미친’...",
+      "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
+      "pub_date": "2026-04-23T22:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “기뢰부설선 ‘모조리 격침하라’ 명령…이란 내분 ‘미...",
       "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500296?wlog_tag3=naver",
       "pub_date": "2026-04-23T22:09:00+09:00",
       "source_id": "seoul",
@@ -183,8 +183,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.fnnews.com/news/202604232204386486",
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.fnnews.com/news/202604232204386486",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,21 +237,21 @@
       "is_scoop": false
     },
     {
-      "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544460&ref=A",
-      "pub_date": "2026-04-23T22:01:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
       "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
       "pub_date": "2026-04-23T22:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544460&ref=A",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
