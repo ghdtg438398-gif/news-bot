@@ -1,18 +1,90 @@
 {
-  "updated": "2026-04-23 21:55:31",
+  "updated": "2026-04-23 22:00:57",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260423.99099006966",
-      "pub_date": "2026-04-23T21:53:00+09:00",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 선박 '사격' 명령\"",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230696&t=NN",
+      "pub_date": "2026-04-23T21:57:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.dt.co.kr/article/12059267?ref=naver",
+      "pub_date": "2026-04-23T21:57:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 모든 선박 겨냥 사격 명령\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07475126645419072",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.sedaily.com/article/20036485?ref=naver",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 기뢰 부설 선박 격침 명령…제거 작업 확대\"",
+      "link": "https://www.news1.kr/world/middleeast-africa/6147338",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://news.jtbc.co.kr/article/NB12295585?influxDiv=NAVER",
+      "pub_date": "2026-04-23T21:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.joongang.co.kr/article/25422870",
+      "pub_date": "2026-04-23T21:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.mk.co.kr/article/12025838",
+      "pub_date": "2026-04-23T21:54:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 기뢰 설치하는 모든 선박 사격 명령\"",
       "link": "https://www.hankyung.com/article/2026042330267",
       "pub_date": "2026-04-23T21:53:00+09:00",
       "source_id": "hankyung",
@@ -26,6 +98,24 @@
       "pub_date": "2026-04-23T21:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260423.99099006966",
+      "pub_date": "2026-04-23T21:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390353.html",
+      "pub_date": "2026-04-23T21:53:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -75,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "창원시 통합돌봄 증원 조례안 상임위 통과",
-      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540187",
+      "title": "공중보건의 급감… 벼랑 끝 내몰린 농어촌 의료",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540182",
       "pub_date": "2026-04-23T21:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "공중보건의 급감… 벼랑 끝 내몰린 농어촌 의료",
-      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540182",
+      "title": "창원시 통합돌봄 증원 조례안 상임위 통과",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540187",
       "pub_date": "2026-04-23T21:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1710,96 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘깨비시장 차량돌진 12명 사상’ 70대 금고형 집행유예",
-      "link": "https://www.khan.co.kr/article/202604231722011",
-      "pub_date": "2026-04-23T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘전세사기 때 보증금 최소 1/3 보장’ 법안, 본회의 통과",
-      "link": "https://www.hani.co.kr/arti/politics/politics_general/1255582.html",
-      "pub_date": "2026-04-23T17:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[사설] 1분기 성장 5년만에 최고치, 내수부진 · 3고(高) 이겨내야",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604231524297910444",
-      "pub_date": "2026-04-23T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 전세사기 보증금 3분의 1 보장법, 국회 본회의 통과…법 시행 전...",
-      "link": "https://www.sedaily.com/article/20036359?ref=naver",
-      "pub_date": "2026-04-23T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '국립의전원법' 국회 본회의 통과",
-      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541309",
-      "pub_date": "2026-04-23T17:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] '대상 배우' 엄지원, '복직경찰' 차태현 만난다…아이 다섯 부부...",
-      "link": "https://www.news1.kr/entertain/movie/6147119",
-      "pub_date": "2026-04-23T17:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보]'전세사기 구제' 법안 본회의 통과...보증금 최소 3분의 1 보장",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05730166645419072",
-      "pub_date": "2026-04-23T17:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[부산일보TV 단독인터뷰] 한동훈 \"하정우, 아빠(대통령)한테 허락? 코미...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042317125370268",
-      "pub_date": "2026-04-23T17:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "(속보) 민주당군산시장 김영일 전 예비후보, 중앙당에 재심 신청",
-      "link": "http://www.domin.co.kr/news/articleView.html?idxno=1553377",
-      "pub_date": "2026-04-23T17:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 4개월 아들 학대·살해...법원, 친모에 '무기징역'",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423509&PRO_CODE=99",
-      "pub_date": "2026-04-23T17:15:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
