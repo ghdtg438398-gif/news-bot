@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 11:10:28",
+  "updated": "2026-04-23 11:15:29",
   "total": 200,
   "items": [
+    {
+      "title": "한국 경제 1분기 1.7% 깜짝 성장...반도체 수출이 견인",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115523",
+      "pub_date": "2026-04-23T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "화물연대-BGF로지스, 조합원 사망 사고 후 첫 실무교섭... \"신속한 사태...",
+      "link": "http://www.sisunnews.co.kr/news/articleView.html?idxno=237370",
+      "pub_date": "2026-04-23T11:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 '웬만한 사람은 전과자' 논란… 법무부 \"10만 명 중 146...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042310530660605",
+      "pub_date": "2026-04-23T11:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 지지율 15%…창당 이래 최저치 [NBS]",
+      "link": "https://www.hankyung.com/article/2026042313457",
+      "pub_date": "2026-04-23T11:13:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정부 \"1분기 GDP 급성장, 정책효과 크게 기여…2Q 중동영향 본격화\"",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042311103339054",
+      "pub_date": "2026-04-23T11:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 국민의힘 중구 당협 '운영비' 금전 요구 의혹…선관위 확인 착수",
+      "link": "http://www.newstnt.com/news/articleView.html?idxno=607780",
+      "pub_date": "2026-04-23T11:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "역성장 막았지만…중동리스크 최대 변수",
       "link": "https://biz.heraldcorp.com/article/10723859?ref=naver",
@@ -27,6 +81,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼척 광산서 암석 붕괴 사고…50대 1명 사망",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350037600000",
+      "pub_date": "2026-04-23T11:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -102,21 +165,21 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 국민의힘 지지율 15%... 창당 이래 최저치",
+      "link": "https://www.chosun.com/politics/politics_general/2026/04/23/5FLXGBL5XNAQLCNZ6QUKS4TFXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-23T11:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[1분기 깜짝 성장] 정부 \"반도체·정책효과 결합…2분기는 조정 불가피...",
       "link": "https://www.ajunews.com/view/20260423104547973",
       "pub_date": "2026-04-23T11:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 지지율 ’15%‘... 2020년 창당 이래 최저치/NBS",
-      "link": "https://www.chosun.com/politics/politics_general/2026/04/23/5FLXGBL5XNAQLCNZ6QUKS4TFXI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T11:02:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -201,11 +264,11 @@
       "is_scoop": false
     },
     {
-      "title": "日 4월 제조업 PMI 54.9·3.3P↑…\"중동 우려로 일부 증산\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603259",
+      "title": "미 연방 상원, ‘트럼프 전쟁 권한 제한’ 동의안 또 부결",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543760&ref=A",
       "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -219,11 +282,11 @@
       "is_scoop": false
     },
     {
-      "title": "미 연방 상원, ‘트럼프 전쟁 권한 제한’ 동의안 또 부결",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543760&ref=A",
+      "title": "日 4월 제조업 PMI 54.9·3.3P↑…\"중동 우려로 일부 증산\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603259",
       "pub_date": "2026-04-23T10:58:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -255,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "구윤철 “1분기 GDP 1.7% 반등, 반도체 호황에 정책 효과도 크게 기여”",
-      "link": "https://biz.heraldcorp.com/article/10723834?ref=naver",
+      "title": "미국 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529365&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T10:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,8 +336,8 @@
       "is_scoop": false
     },
     {
-      "title": "미국 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529365&plink=ORI&cooper=NAVER",
+      "title": "‘종횡무진’ 정청래 “목표는 높게, 자세는 낮게”…‘김용 딜레마’...",
+      "link": "https://biz.heraldcorp.com/article/10723836?ref=naver",
       "pub_date": "2026-04-23T10:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘종횡무진’ 정청래 “목표는 높게, 자세는 낮게”…‘김용 딜레마’...",
-      "link": "https://biz.heraldcorp.com/article/10723836?ref=naver",
+      "title": "구윤철 “1분기 GDP 1.7% 반등, 반도체 호황에 정책 효과도 크게 기여”",
+      "link": "https://biz.heraldcorp.com/article/10723834?ref=naver",
       "pub_date": "2026-04-23T10:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -444,8 +507,8 @@
       "is_scoop": false
     },
     {
-      "title": "野 단독 개최한 국방위원회 전체회의",
-      "link": "https://www.news1.kr/photos/7871467",
+      "title": "국민의힘 단독 소집으로 열린 국방위원회",
+      "link": "https://www.news1.kr/photos/7871469",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -462,8 +525,8 @@
       "is_scoop": true
     },
     {
-      "title": "국민의힘 단독 소집으로 열린 국방위원회",
-      "link": "https://www.news1.kr/photos/7871469",
+      "title": "野 단독 개최한 국방위원회 전체회의",
+      "link": "https://www.news1.kr/photos/7871467",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -597,6 +660,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"멈춰선 창원, 다시 뛰게\"…송순호 \"16년 의정생활로 실전경험 쌓아\"",
+      "link": "https://www.nocutnews.co.kr/news/6506856?utm_source=naver&utm_medium=article&utm_campaign=20260423103255",
+      "pub_date": "2026-04-23T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "美 상원, ‘트럼프 전쟁 권한 제한’ 시도 또 무산",
       "link": "https://www.dt.co.kr/article/12059090?ref=naver",
       "pub_date": "2026-04-23T10:33:00+09:00",
@@ -611,15 +683,6 @@
       "pub_date": "2026-04-23T10:33:00+09:00",
       "source_id": "chosun",
       "source_name": "조선일보",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"멈춰선 창원, 다시 뛰게\"…송순호 \"16년 의정생활로 실전경험 쌓아\"",
-      "link": "https://www.nocutnews.co.kr/news/6506856?utm_source=naver&utm_medium=article&utm_campaign=20260423103255",
-      "pub_date": "2026-04-23T10:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1734,69 +1797,6 @@
       "title": "장동혁 대표 특보단장 “한동훈, 보수의 소중한 인재”",
       "link": "https://www.wikitree.co.kr/articles/1132996",
       "pub_date": "2026-04-23T09:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "경제부총리-한은 총재 첫 회동…\"재정·통화정책 조화롭게 운용\"(종합)",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602918",
-      "pub_date": "2026-04-23T09:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구윤철-신현송 첫 회동…\"재정·통화정책 조화롭게 운용\"",
-      "link": "https://www.mt.co.kr/economy/2026/04/23/2026042308280991491",
-      "pub_date": "2026-04-23T09:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "올 1분기 GDP 1.7% 성장…2월 한은 전망치 2배 수준",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=131765",
-      "pub_date": "2026-04-23T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'8이닝 무실점' 웰스, '최강 아시아쿼터' 등극",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227459&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-23T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사상 최초 장중 6500선 돌파",
-      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401036",
-      "pub_date": "2026-04-23T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 대원전선 VI 발동, 주가 21% 도약…8000원 터치",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569670",
-      "pub_date": "2026-04-23T09:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% 깜짝 성장…반도체 수출·투자 회복에 5년 6개월 만 최고",
-      "link": "https://www.etnews.com/20260423000069",
-      "pub_date": "2026-04-23T09:25:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
