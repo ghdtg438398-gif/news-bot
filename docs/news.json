@@ -1,7 +1,169 @@
 {
-  "updated": "2026-04-23 10:30:33",
+  "updated": "2026-04-23 10:35:32",
   "total": 200,
   "items": [
+    {
+      "title": "美 상원, ‘트럼프 전쟁 권한 제한’ 시도 또 무산",
+      "link": "https://www.dt.co.kr/article/12059090?ref=naver",
+      "pub_date": "2026-04-23T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"멈춰선 창원, 다시 뛰게\"…송순호 \"16년 의정생활로 실전경험 쌓아\"",
+      "link": "https://www.nocutnews.co.kr/news/6506856?utm_source=naver&utm_medium=article&utm_campaign=20260423103255",
+      "pub_date": "2026-04-23T10:33:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "韓 1분기 성장률, 1.7% 깜짝 성장...반도체 수출·내수 회복 '쌍끌이'",
+      "link": "https://www.g-enews.com/view.php?ud=202604230846269146bb91c46fcd_1",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 목발 짚고 걷다 넘어진 행인 차로 들이받아 숨지게 한 탱크로리...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/23/20260423500060?wlog_tag3=naver",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "외교통일위원회 단독 소집한 국민의힘",
+      "link": "https://www.news1.kr/photos/7871428",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "'정동영 北 농축시설 공개 발언' 외통위 단독 소집한 野",
+      "link": "https://www.news1.kr/photos/7871427",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "野 외통위 단독 소집 '정동영 불출석'",
+      "link": "https://www.news1.kr/photos/7871425",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "국민의힘, 외교통일위원회 단독 소집",
+      "link": "https://www.news1.kr/photos/7871426",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "1분기 GDP 깜짝 성장…올해 반도체 호황 vs 중동 충격 '무게추 싸움'(종...",
+      "link": "https://view.asiae.co.kr/article/2026042310104743792",
+      "pub_date": "2026-04-23T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“폐에 물 차더니 18개월 시한부”...15살 때 부터 전자담배 피워서? 20대...",
+      "link": "https://kormedi.com/?p=2809748",
+      "pub_date": "2026-04-23T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'정동영 발언' 진실공방 비화…파장 확산",
+      "link": "http://www.yonhapnewstv.co.kr/MYH20260423103019GWy",
+      "pub_date": "2026-04-23T10:31:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
+      "link": "https://www.yna.co.kr/view/AKR20260423064400011?input=1195m",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘설탕 담합’ 전 경영진 1심서 집유…CJ제일제당·삼양은 각 벌...",
+      "link": "https://www.khan.co.kr/article/202604231030001",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "AI 실용화 시대, 우리의 승부처는 '현장 지능'이다",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78260",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "AI 전면에 내세운 '월드IT쇼2026'…이통3사·삼성·LG 총출동 [르포]",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549994",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "트럼프 '폭주' 막지 못하는 美상원...군사 권한 제한 결의안 부결",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734069",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"반도체, 예상보다 더 좋았다\"…韓성장률 1.7%, 22분기 만에 최고(종합2...",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603079",
+      "pub_date": "2026-04-23T10:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "K-반도체 파워, 올 1분기 실질 국내총생산(GDP) 1.7% 성장",
       "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701461",
@@ -39,6 +201,15 @@
       "is_scoop": false
     },
     {
+      "title": "1분기 GDP 1.7% 성장…반도체 수출·소비↑",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543684&ref=A",
+      "pub_date": "2026-04-23T10:23:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 장동혁 \"해당행위 후보자 즉시 교체… 싸울 상대 식별해야\"",
       "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270961",
       "pub_date": "2026-04-23T10:23:00+09:00",
@@ -66,6 +237,15 @@
       "is_scoop": false
     },
     {
+      "title": "삼전·닉스 호실적에 코스피 6500선 가뿐히 통과",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514102",
+      "pub_date": "2026-04-23T10:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 법원, '설탕·밀가루 담합' CJ제일제당·삼양에 벌금 각 2억원",
       "link": "https://www.ajunews.com/view/20260423100253844",
       "pub_date": "2026-04-23T10:22:00+09:00",
@@ -84,9 +264,9 @@
       "is_scoop": false
     },
     {
-      "title": "삼전·닉스 호실적에 코스피 6500선 가뿐히 통과",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514102",
-      "pub_date": "2026-04-23T10:22:00+09:00",
+      "title": "구윤철 \"'올해 1분기 GDP 1.7% 성장'에 정책효과도 크게 기여\"",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006645",
+      "pub_date": "2026-04-23T10:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -102,8 +282,8 @@
       "is_scoop": false
     },
     {
-      "title": "구윤철 \"'올해 1분기 GDP 1.7% 성장'에 정책효과도 크게 기여\"",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006645",
+      "title": "[2보] '설탕 담합' CJ제일제당·삼양사 前경영진, 1심서 집유…\"죄질 좋...",
+      "link": "https://www.newspim.com/news/view/20260423000247",
       "pub_date": "2026-04-23T10:21:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,12 +300,12 @@
       "is_scoop": true
     },
     {
-      "title": "[2보] '설탕 담합' CJ제일제당·삼양사 前경영진, 1심서 집유…\"죄질 좋...",
-      "link": "https://www.newspim.com/news/view/20260423000247",
-      "pub_date": "2026-04-23T10:21:00+09:00",
+      "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
+      "link": "https://news.tf.co.kr/read/life/2316312.htm",
+      "pub_date": "2026-04-23T10:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -134,15 +314,6 @@
       "pub_date": "2026-04-23T10:20:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
-      "link": "https://news.tf.co.kr/read/life/2316312.htm",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -210,6 +381,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"호르무즈 해협 긴장 고조\"…이란 혁명수비대, 컨테이너선 향해 발포",
+      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134651",
+      "pub_date": "2026-04-23T10:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 각 벌금 2억원...",
       "link": "https://www.sedaily.com/article/20036106?ref=naver",
       "pub_date": "2026-04-23T10:14:00+09:00",
@@ -221,15 +401,6 @@
     {
       "title": "반도체의 힘…1분기 한국 경제 1.7% 급반등, 5년 6개월 만에 최고",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529234&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T10:14:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"호르무즈 해협 긴장 고조\"…이란 혁명수비대, 컨테이너선 향해 발포",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134651",
       "pub_date": "2026-04-23T10:14:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -579,8 +750,8 @@
       "is_scoop": false
     },
     {
-      "title": "천안시, 상반기 재정 5496억 신속 집행…지역 경제 활력",
-      "link": "https://www.nocutnews.co.kr/news/6506823?utm_source=naver&utm_medium=article&utm_campaign=20260423095451",
+      "title": "오은미 전북도의원, 고유가 피해지원금 추경 편성 촉구",
+      "link": "https://www.nocutnews.co.kr/news/6506821?utm_source=naver&utm_medium=article&utm_campaign=20260423095450",
       "pub_date": "2026-04-23T09:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -588,8 +759,8 @@
       "is_scoop": false
     },
     {
-      "title": "오은미 전북도의원, 고유가 피해지원금 추경 편성 촉구",
-      "link": "https://www.nocutnews.co.kr/news/6506821?utm_source=naver&utm_medium=article&utm_campaign=20260423095450",
+      "title": "천안시, 상반기 재정 5496억 신속 집행…지역 경제 활력",
+      "link": "https://www.nocutnews.co.kr/news/6506823?utm_source=naver&utm_medium=article&utm_campaign=20260423095451",
       "pub_date": "2026-04-23T09:55:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -606,8 +777,8 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
+      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -615,8 +786,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
+      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1628,177 +1799,6 @@
       "pub_date": "2026-04-23T09:02:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스닥 7.98p(0.68%) 오른 1189.10(개장)",
-      "link": "https://www.etoday.co.kr/news/view/2578308",
-      "pub_date": "2026-04-23T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 70.90p(1.10%) 오른 6488.83 출발",
-      "link": "https://www.ajunews.com/view/20260423085702610",
-      "pub_date": "2026-04-23T09:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "정부, 물가 안정 총력전…세제·가격·단속 '전방위 대응'",
-      "link": "https://www.nocutnews.co.kr/news/6506729?utm_source=naver&utm_medium=article&utm_campaign=20260423090050",
-      "pub_date": "2026-04-23T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 정부, LPG 유류세 더 낮추기로…택시·소형 트럭 부담 완화",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/22/20260422500303?wlog_tag3=naver",
-      "pub_date": "2026-04-23T09:01:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 사상 첫 6500선 돌파",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602897",
-      "pub_date": "2026-04-23T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 1.10% 오른 6488.83 출발",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602894",
-      "pub_date": "2026-04-23T09:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 고유가 충격, 항공료·나프타·요소수까지 번졌다…정부 전방위...",
-      "link": "https://www.newspim.com/news/view/20260423000050",
-      "pub_date": "2026-04-23T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[저스트인의 PR신잡⑧] 가짜뉴스 범람의 역설 ··· AI 시대, 다시 '게이...",
-      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=211168",
-      "pub_date": "2026-04-23T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]원·달러 환율, 2원 오른 1478원 출발",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602893",
-      "pub_date": "2026-04-23T09:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[유에스 키즈 골프] 첫날 리더보드 점령한 韓 꿈나무들, 더헤븐CC 달궜다",
-      "link": "https://www.nc.press/news/articleView.html?idxno=613405",
-      "pub_date": "2026-04-23T08:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한국 1분기 GDP 1.7% 증가, 반도체 수출 호조가 성장 견인",
-      "link": "https://www.tokenpost.kr/news/economy/352328",
-      "pub_date": "2026-04-23T08:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "첫 분기 성장률, 전망치의 갑절···반도체 수출 얼마였길래 [상보]",
-      "link": "http://www.fnnews.com/news/202604230736068555",
-      "pub_date": "2026-04-23T08:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'지옥주택' 만든 지주택 폐해...'알박기·조합 눈속임' 근절 대책 나와",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119161",
-      "pub_date": "2026-04-23T08:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 이 대통령 “국제사회 평화 소중함 절감”",
-      "link": "https://www.segye.com/newsView/20260423503956?OutUrl=naver",
-      "pub_date": "2026-04-23T08:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 성장률 1.7%…반도체 수출 호조로 '깜짝 성장'",
-      "link": "https://news.tf.co.kr/read/economy/2316238.htm",
-      "pub_date": "2026-04-23T08:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "韓경제, 1분기 1.7% '깜짝 반등'...5년 6개월만 최고치",
-      "link": "https://www.jibs.co.kr/news/articles/articlesDetail/60403?feed=na",
-      "pub_date": "2026-04-23T08:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신현송·구윤철, 정책 공조 필요성 공감…\"소통 잘 할 것\"(종합)",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602853",
-      "pub_date": "2026-04-23T08:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 반도체 호황에 1분기 GDP 1.7% 성장…5년 6개월 만에 최고",
-      "link": "https://magazine.hankyung.com/business/article/202604230632b",
-      "pub_date": "2026-04-23T08:53:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]SK하이닉스, 1분기 매출 52.6조·영업익 37.6조…‘사상 최대’",
-      "link": "https://www.mk.co.kr/article/12024858",
-      "pub_date": "2026-04-23T08:52:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
       "is_breaking": true,
       "is_scoop": false
     }
