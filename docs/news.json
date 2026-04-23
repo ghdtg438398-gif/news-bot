@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 23:05:29",
+  "updated": "2026-04-23 23:10:31",
   "total": 200,
   "items": [
+    {
+      "title": "독일 4월 종합 PMI 48.3·3.6P↓…\"11개월 만에 50 하회·서비스 위축\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604387",
+      "pub_date": "2026-04-23T23:05:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "BGF로지스, 화물연대에 가처분 신청…노조 \"교섭 진정성 의심\"",
       "link": "https://www.yna.co.kr/view/AKR20260423187800030?input=1195m",
@@ -1791,15 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "5년반 만에 최고 성장률 기록했지만...반도체 빼면 반토막",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645419072",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
