@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 22:10:38",
+  "updated": "2026-04-23 22:15:34",
   "total": 200,
   "items": [
+    {
+      "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
+      "pub_date": "2026-04-23T22:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'노시환 복귀 솔로포' 한화, LG 제압하고 2연패 탈출",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931709",
+      "pub_date": "2026-04-23T22:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 “호르무즈 해협 기뢰 설치 선박 모두 격침 명령”",
       "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500296?wlog_tag3=naver",
@@ -35,6 +53,15 @@
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “호르무즈 기뢰 설치 모든 선박에 사격 명령”",
+      "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -147,17 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "https://www.sedaily.com/article/20036485?ref=naver",
-      "pub_date": "2026-04-23T21:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 \"호르무즈 기뢰 부설 선박 격침 명령…제거 작업 확대\"",
-      "link": "https://www.news1.kr/world/middleeast-africa/6147338",
+      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
       "pub_date": "2026-04-23T21:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,8 +192,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 기뢰 부설 모든 선박 사살 지시\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604356",
+      "title": "[속보] 트럼프 \"호르무즈 기뢰 부설 선박 격침 명령…제거 작업 확대\"",
+      "link": "https://www.news1.kr/world/middleeast-africa/6147338",
+      "pub_date": "2026-04-23T21:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.sedaily.com/article/20036485?ref=naver",
       "pub_date": "2026-04-23T21:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1772,33 +1799,6 @@
       "pub_date": "2026-04-23T17:47:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與 인천 전략공천 발표…계양을 김남준, 연수갑 송영길",
-      "link": "https://www.chosun.com/politics/assembly/2026/04/23/QKX7YL6LQRHUNFH4XBJHRDGPEA/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T17:47:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 與, 인천 연수갑 송영길·계양을 김남준 보궐 선거 공천",
-      "link": "https://biz.chosun.com/policy/politics/assembly/2026/04/23/WCCXBTMFQNBJNDALQLLZ364DEM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-23T17:47:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주당, 인천 계양을 '김남준', 연수갑 '송영길' 공천",
-      "link": "https://imnews.imbc.com/news/2026/politics/article/6817528_36911.html",
-      "pub_date": "2026-04-23T17:46:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
