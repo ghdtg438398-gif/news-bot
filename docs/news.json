@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 12:40:33",
+  "updated": "2026-04-23 12:45:29",
   "total": 200,
   "items": [
+    {
+      "title": "日 4월 제조업 PMI 4년래 최고 기록…\"중동 전쟁에 지속 불투명\"(상보)",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411250",
+      "pub_date": "2026-04-23T12:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보]외국인 노동자 항문 부위에 산업용 에어건 분사해 장기 파열 등 중...",
       "link": "https://www.kwnews.co.kr/page/view/2026042350024800000",
@@ -9,6 +18,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'어린이집 직원용 화장실 몰카' 원장 남편에 징역 3년 구형",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529603&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T12:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -183,17 +201,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]국민의힘 지지도 15% ‘역대 최저치’…이재명 대통령 지지율 69%...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042350046700000",
+      "title": "3조원대 설탕 담합… CJ제일제당·삼양사 임원 징역형 집유",
+      "link": "https://m.skyedaily.com/news_view.html?ID=302969",
       "pub_date": "2026-04-23T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "3조원대 설탕 담합… CJ제일제당·삼양사 임원 징역형 집유",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302969",
+      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
       "pub_date": "2026-04-23T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,12 +228,12 @@
       "is_scoop": false
     },
     {
-      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
+      "title": "[속보]국민의힘 지지도 15% ‘역대 최저치’…이재명 대통령 지지율 69%...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350046700000",
       "pub_date": "2026-04-23T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-23T10:23:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장동혁 \"해당행위 후보자 즉시 교체… 싸울 상대 식별해야\"",
-      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2270961",
-      "pub_date": "2026-04-23T10:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% 성장…중동발 악재에도 5년6개월만에 최고",
-      "link": "http://www.seouleconews.com/news/articleView.html?idxno=90808",
-      "pub_date": "2026-04-23T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
