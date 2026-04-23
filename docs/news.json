@@ -1,11 +1,83 @@
 {
-  "updated": "2026-04-23 17:05:31",
+  "updated": "2026-04-23 17:10:35",
   "total": 200,
   "items": [
+    {
+      "title": "中 몽니 끝났다…'사석 파동→반쪽 대회' LG배, 정상 복귀",
+      "link": "https://www.nocutnews.co.kr/news/6507269?utm_source=naver&utm_medium=article&utm_campaign=20260423050854",
+      "pub_date": "2026-04-23T17:09:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장애인권리보장법, 국회 본회의 통과",
+      "link": "https://www.beminor.com/news/articleView.html?idxno=29755",
+      "pub_date": "2026-04-23T17:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"집 밖으로 따라 나온 엄마 살기가 느껴져서\"…70대 모친 흉기살...",
+      "link": "https://www.imaeil.com/page/view/2026042317050845228",
+      "pub_date": "2026-04-23T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
+      "pub_date": "2026-04-23T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "CU 배송노동자 죽음이 노란봉투법 때문? 보수 언론에 반박한다",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227675&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-23T17:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "전쟁 뚫은 '반도체'…1분기 GDP '66개월만' 최고치",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298932&inflow=N",
+      "pub_date": "2026-04-23T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]불화가 뭐예요? 옥택연, 내일 결혼식..2PM 축가·사회 총출동 [종...",
+      "link": "https://www.starnewskorea.com/music/2026/04/23/2026042316261639932",
+      "pub_date": "2026-04-23T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "법인 돈 빌려 117억 아파트 매수…서울·경기 이상거래 746건 적발",
       "link": "https://www.asiatime.co.kr/article/20260423500391",
       "pub_date": "2026-04-23T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'GDP 급반등'에 국고채 금리 급등…3년물 연 3.458%(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423155351008?input=1195m",
+      "pub_date": "2026-04-23T17:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -30,15 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "[포토뉴스] 김석필 천안시장 권한대행, 풍세산단ㆍ풍서천 등 재해복구 ...",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1361061",
-      "pub_date": "2026-04-23T17:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "디토닉, 노후 산단에 AI 도입…강원후평 스마트그린산단 전환 나선다",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80352",
       "pub_date": "2026-04-23T17:00:00+09:00",
@@ -48,9 +111,9 @@
       "is_scoop": false
     },
     {
-      "title": "'오류' 운전면허시스템 나흘째만에 ‘부분’ 정상화… 온라인 적성검사...",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042309154039765",
-      "pub_date": "2026-04-23T16:59:00+09:00",
+      "title": "[포토뉴스] 김석필 천안시장 권한대행, 풍세산단ㆍ풍서천 등 재해복구 ...",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1361061",
+      "pub_date": "2026-04-23T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -63,6 +126,15 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'오류' 운전면허시스템 나흘째만에 ‘부분’ 정상화… 온라인 적성검사...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042309154039765",
+      "pub_date": "2026-04-23T16:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -102,6 +174,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '한화 날벼락' 78억 FA 엄상백, 팔꿈치 인대파열로 수술대 行…사...",
+      "link": "https://www.xportsnews.com/article/2140567",
+      "pub_date": "2026-04-23T16:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "해수부 구내식당 ‘월 1회 휴무’… 지역 상권 숨통 트일까",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042316461163706",
       "pub_date": "2026-04-23T16:53:00+09:00",
@@ -113,15 +194,6 @@
     {
       "title": "[속보] 공공의료 인력 연간 100명 양성…국립의전원 설치법 국회 통과",
       "link": "https://www.sedaily.com/article/20036348?ref=naver",
-      "pub_date": "2026-04-23T16:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '한화 날벼락' 78억 FA 엄상백, 팔꿈치 인대파열로 수술대 行…사...",
-      "link": "https://www.xportsnews.com/article/2140567",
       "pub_date": "2026-04-23T16:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,15 +327,6 @@
       "is_scoop": false
     },
     {
-      "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
       "pub_date": "2026-04-23T16:38:00+09:00",
@@ -271,6 +334,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
+      "pub_date": "2026-04-23T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
@@ -354,15 +426,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다, 올해 말 한국 자동차 시장 철수…진출 23년 만",
-      "link": "https://www.joongang.co.kr/article/25422801",
-      "pub_date": "2026-04-23T16:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "트럼프 이란전쟁, 美의회 승인 없이 계속할 수 있나… 5월 1일이 분수령",
       "link": "https://www.mediawatch.kr/news/article.html?no=259387",
       "pub_date": "2026-04-23T16:20:00+09:00",
@@ -378,6 +441,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 올해 말 한국 자동차 시장 철수…진출 23년 만",
+      "link": "https://www.joongang.co.kr/article/25422801",
+      "pub_date": "2026-04-23T16:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1725,78 +1797,6 @@
       "title": "'5경기 연속 홈런' 무라카미, MLB 신인·화이트삭스 타이기록",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042743",
       "pub_date": "2026-04-23T15:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
-      "link": "https://www.news1.kr/photos/7872449",
-      "pub_date": "2026-04-23T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
-      "link": "https://www.news1.kr/photos/7872448",
-      "pub_date": "2026-04-23T15:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '컷오프' 국힘 주호영, 불출마 선언…장동혁 퇴진 촉구",
-      "link": "https://dgmbc.com/NewsArticle/836849",
-      "pub_date": "2026-04-23T15:07:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "휴대전화 보다 '딱 걸렸다'…법정서 혼쭐 난 중흥건설 대표",
-      "link": "https://www.nocutnews.co.kr/news/6507130?utm_source=naver&utm_medium=article&utm_campaign=20260423030452",
-      "pub_date": "2026-04-23T15:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "이강길, “2011년 대검 윤석열 수사팀, ‘조우형 불법 수수료’ 알았다...",
-      "link": "https://newstapa.org/article/LTWYd",
-      "pub_date": "2026-04-23T15:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘반도체 초호황’ 1분기 GDP 1.7%↑…실질 GDI 38년 만에 최대 증가",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567127&class=18&grp=",
-      "pub_date": "2026-04-23T15:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "해경 순직 사고 당직 팀장 보석 석방",
-      "link": "http://www.incheonin.com/news/articleView.html?idxno=117398",
-      "pub_date": "2026-04-23T15:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "씨티 \"올해 韓 성장률 전망 2.9%로 상향…금리 인상폭 커질수도\"",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306291?division=NAVER",
-      "pub_date": "2026-04-23T15:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
