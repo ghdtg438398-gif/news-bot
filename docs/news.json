@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 15:20:36",
+  "updated": "2026-04-23 15:25:27",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]‘무소속 출마’ 접은 주호영 “대구시장 불출마”",
+      "link": "https://www.munhwa.com/article/11584535?ref=naver",
+      "pub_date": "2026-04-23T15:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "홍준표가 장동혁의 '허술한 미국방문'을 꼬집었다, \"워싱턴 로비스트에...",
+      "link": "https://www.huffingtonpost.kr/article/256815",
+      "pub_date": "2026-04-23T15:24:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영 \"대구시장 선거 불출마\"...\"장동혁 물러날 때 알아야\"",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423507&PRO_CODE=99",
+      "pub_date": "2026-04-23T15:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"반도체, 이렇게 좋을 줄은\"···올해 성장률 2.0% 넘기나 [종합]",
+      "link": "http://www.fnnews.com/news/202604231050284325",
+      "pub_date": "2026-04-23T15:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "윤석열 정부의 이 사람이 위원장? 노동자들이 최저임금위 퇴장한 이유",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227428&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-23T15:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"오세훈이 공포사회 말할 자격있나…TBS 직원 피 거꾸로 솟아'",
+      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316800",
+      "pub_date": "2026-04-23T15:20:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "발언하는 장동혁 대표",
+      "link": "https://www.news1.kr/photos/7872518",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
       "link": "https://www.news1.kr/photos/7872514",
@@ -12,9 +75,36 @@
       "is_scoop": false
     },
     {
-      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
-      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
-      "pub_date": "2026-04-23T15:18:00+09:00",
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
+      "link": "https://www.news1.kr/photos/7872516",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국민의힘, 정동영 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872520",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872515",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
+      "link": "https://www.news1.kr/photos/7872517",
+      "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -30,8 +120,17 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한은, 2026년 1/4분기 실질 국내총생산 설명회",
+      "link": "https://www.newspim.com/news/view/20260423001016",
       "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,12 +147,30 @@
       "is_scoop": false
     },
     {
+      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 홍준표 \"장동혁 미국방문, 로비스트에게 당했단 느낌 들 정도로...",
       "link": "https://www.kyeonggi.com/article/20260423580146",
       "pub_date": "2026-04-23T15:17:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한국은행, 2026년 1/4분기 실질 국내총생산 설명회",
+      "link": "https://www.newspim.com/news/view/20260423001015",
+      "pub_date": "2026-04-23T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -102,7 +219,7 @@
       "is_scoop": false
     },
     {
-      "title": "대구 지하철 방화 시도?…라이터·살충제 든 남성, 승객 신고로 체포",
+      "title": "\"대구 지하철에 라이터·살충제 든 남성 돌아다녀\" 다급한 신고전화",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042314491212403",
       "pub_date": "2026-04-23T15:14:00+09:00",
       "source_id": "yna",
@@ -139,7 +256,7 @@
     },
     {
       "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
-      "link": "https://www.news1.kr/photos/7872449",
+      "link": "https://www.news1.kr/photos/7872448",
       "pub_date": "2026-04-23T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -148,7 +265,7 @@
     },
     {
       "title": "한국은행 2026년 1/4분기 실질 국내총생산 기자설명회",
-      "link": "https://www.news1.kr/photos/7872448",
+      "link": "https://www.news1.kr/photos/7872449",
       "pub_date": "2026-04-23T15:08:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,15 +399,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 ‘해든이’ 학대·살해 친모, 무기징역 선고",
-      "link": "https://biz.heraldcorp.com/article/10724179?ref=naver",
-      "pub_date": "2026-04-23T14:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "국민의힘 “정동영 장관 해임 건의안 당론으로 추진”",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543914&ref=A",
       "pub_date": "2026-04-23T14:58:00+09:00",
@@ -306,6 +414,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 ‘해든이’ 학대·살해 친모, 무기징역 선고",
+      "link": "https://biz.heraldcorp.com/article/10724179?ref=naver",
+      "pub_date": "2026-04-23T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -336,21 +453,21 @@
       "is_scoop": false
     },
     {
-      "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
-      "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
       "pub_date": "2026-04-23T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
+      "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1002,8 +1119,8 @@
       "is_scoop": false
     },
     {
-      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
+      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
+      "link": "https://www.hangyo.com/news/article.html?no=107487",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1011,8 +1128,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
-      "link": "https://www.hangyo.com/news/article.html?no=107487",
+      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1683,123 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'3조원대 설탕 담합' CJ제일제당·삼양사 임직원, 1심서 징역형 집유",
-      "link": "https://news.mtn.co.kr/news-detail/2026042313542276280",
-      "pub_date": "2026-04-23T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동 악재 누른 반도체의 힘…1분기 韓 GDP 1.7% ‘깜짝 성장’",
-      "link": "https://economist.co.kr/article/view/ecn202604230030",
-      "pub_date": "2026-04-23T13:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 신한금융, 1분기 순이익 1조6226억원…전년비 9.0% 증가",
-      "link": "https://www.news2day.co.kr/article/20260423500106",
-      "pub_date": "2026-04-23T13:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 韓 경제 1.7% 급반등···\"반도체가 이끌었다\"",
-      "link": "https://www.ziksir.com/news/articleView.html?idxno=131810",
-      "pub_date": "2026-04-23T13:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 악재에도…1분기 韓경제 1.7% 급반등, 5년6개월만에 최고",
-      "link": "https://www.kbsm.net/news/view.php?idx=517115",
-      "pub_date": "2026-04-23T13:52:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[캐시워크 오퀴즈 정답] 캐시워크 4월 23일 13시 퀴즈 정답 정리",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514216",
-      "pub_date": "2026-04-23T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'설탕값 폭등' 배후에 담합…CJ제일제당·삼양사 법인은 벌금 2억, 전직...",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298863&inflow=N",
-      "pub_date": "2026-04-23T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]신한금융, 1분기 순이익 1조6226억…전년比 9%↑'사상 최대'",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603294",
-      "pub_date": "2026-04-23T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[성기노의 뉴스 피처링] 장동혁 방미의 민낯...국가 협상력마저 팔아넘...",
-      "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=126716",
-      "pub_date": "2026-04-23T13:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원… 전년比 338% 증가",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256533",
-      "pub_date": "2026-04-23T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "\"시장 1위 기업도 AI 답변서 누락될 수 있다\"...커뮤니케이션의 새 지표...",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119247",
-      "pub_date": "2026-04-23T13:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "신세계百 '맞춤 선물'·이마트 '미식 직소싱'… 가정의 달 공략",
-      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=201205",
-      "pub_date": "2026-04-23T13:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]삼성전자 노조, 평택사업장서 투쟁결의대회…3만여명 참여",
-      "link": "https://magazine.hankyung.com/business/article/202604231681b",
-      "pub_date": "2026-04-23T13:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
