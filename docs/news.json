@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 19:30:34",
+  "updated": "2026-04-23 19:35:29",
   "total": 200,
   "items": [
     {
@@ -39,21 +39,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정근식, 서울교육감 진보 단일 후보 확정",
-      "link": "https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T19:20:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
       "pub_date": "2026-04-23T19:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정근식, 서울교육감 진보 단일 후보 확정",
+      "link": "https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-23T19:20:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -75,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "“데이팅 앱 쓰고 18만원 받으세요”…저출산에 파격 정책 내놓은 ‘이...",
-      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/23/20260423500039?wlog_tag3=naver",
-      "pub_date": "2026-04-23T19:13:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]정근식, 서울시교육감 '진보' 단일 후보로 선출",
       "link": "https://www.newsis.com/view/NISX20260423_0003603916",
       "pub_date": "2026-04-23T19:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“데이팅 앱 쓰고 18만원 받으세요”…저출산에 파격 정책 내놓은 ‘이...",
+      "link": "https://www.seoul.co.kr/news/international/japan/2026/04/23/20260423500039?wlog_tag3=naver",
+      "pub_date": "2026-04-23T19:13:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -156,15 +156,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
-      "pub_date": "2026-04-23T19:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 석유 최고가격 동결…휘발유 1934원·경유 1923원",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838833",
       "pub_date": "2026-04-23T19:04:00+09:00",
@@ -174,21 +165,21 @@
       "is_scoop": false
     },
     {
+      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[Why?] 지선 앞두고 논란 가중되는 인천 기초의원 선거구 획정안",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723818",
       "pub_date": "2026-04-23T19:04:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
-      "link": "https://www.news1.kr/economy/trend/6146639",
-      "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -203,6 +194,15 @@
     {
       "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
       "link": "https://www.newsis.com/view/NISX20260423_0003604141",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
+      "link": "https://www.news1.kr/economy/trend/6146639",
       "pub_date": "2026-04-23T19:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
