@@ -1,7 +1,106 @@
 {
-  "updated": "2026-04-23 15:15:31",
+  "updated": "2026-04-23 15:20:36",
   "total": 200,
   "items": [
+    {
+      "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
+      "link": "https://www.news1.kr/photos/7872514",
+      "pub_date": "2026-04-23T15:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향\"…\"한은, 7월·10월에 금리인상...",
+      "link": "https://www.delighti.co.kr/news/articleView.html?idxno=115553",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
+      "link": "https://www.tokenpost.kr/news/market/352450",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "장동혁 대표, 외통-국방-정보위 상임위원장 긴급 회동",
+      "link": "https://www.news1.kr/photos/7872440",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 홍준표 \"장동혁 미국방문, 로비스트에게 당했단 느낌 들 정도로...",
+      "link": "https://www.kyeonggi.com/article/20260423580146",
+      "pub_date": "2026-04-23T15:17:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[오전 주요 국제금융뉴스](23일)",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411296",
+      "pub_date": "2026-04-23T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "파마스퀘어, 회원 8,500명 확보···투자 유치 후 확장 본격화",
+      "link": "https://www.enetnews.co.kr/news/articleView.html?idxno=49273",
+      "pub_date": "2026-04-23T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "CU점주들 \"아직은 괜찮지만…\" 파업 장기화 우려 '노심초사'",
+      "link": "https://www.news1.kr/local/busan-gyeongnam/6146806",
+      "pub_date": "2026-04-23T15:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 ‘해든이’ 학대 살해한 친모…무기징역 선고",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260423.99099006742",
+      "pub_date": "2026-04-23T15:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 태백 장성동 야산 화재…헬기 투입 진화 중·현장 접근 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864505",
+      "pub_date": "2026-04-23T15:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "대구 지하철 방화 시도?…라이터·살충제 든 남성, 승객 신고로 체포",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042314491212403",
@@ -9,6 +108,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 '해든이' 잔혹학대 살해한 친모 무기징역",
+      "link": "https://news.jtbc.co.kr/article/NB12295503?influxDiv=NAVER",
+      "pub_date": "2026-04-23T15:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -111,8 +219,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
+      "title": "[속보] 법원 \"문체부 '정몽규 중징계' 요구 처분은 정당\"",
+      "link": "https://news.tf.co.kr/read/life/2316510.htm",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원 \"문체부 '정몽규 중징계' 요구 처분은 정당\"",
-      "link": "https://news.tf.co.kr/read/life/2316510.htm",
+      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
       "pub_date": "2026-04-23T15:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 法, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
-      "link": "https://www.hankyung.com/article/2026042319767",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
       "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
       "pub_date": "2026-04-23T14:52:00+09:00",
@@ -252,6 +351,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 法, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
+      "link": "https://www.hankyung.com/article/2026042319767",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -894,8 +1002,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
-      "link": "https://www.hangyo.com/news/article.html?no=107487",
+      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -903,8 +1011,8 @@
       "is_scoop": false
     },
     {
-      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
+      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
+      "link": "https://www.hangyo.com/news/article.html?no=107487",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1691,114 +1799,6 @@
       "pub_date": "2026-04-23T13:43:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]\"김민석 총리 초청\" 베트남 총리 요청에 이 대통령 \"귀국 즉시 전...",
-      "link": "https://www.mt.co.kr/politics/2026/04/23/2026042313355786206",
-      "pub_date": "2026-04-23T13:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 끌어 올린 '깜짝 성장'… 1분기 GDP 1.7% 증가(종합)",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395871",
-      "pub_date": "2026-04-23T13:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LGD, 1분기 영업익 1467억...전년비 338% ↑",
-      "link": "http://www.inews24.com/view/1962842",
-      "pub_date": "2026-04-23T13:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'깜짝' 경제 성장…2분기부터 '중동 전쟁' 후폭풍 온다",
-      "link": "https://www.asiatime.co.kr/article/20260423500254",
-      "pub_date": "2026-04-23T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1분기 매출 '5조5340억원'·영업익 '1467억'",
-      "link": "https://www.news2day.co.kr/article/20260422500196",
-      "pub_date": "2026-04-23T13:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]미국 프로축구 LAFC 0-0 콜로라도(후반 종료)",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603402",
-      "pub_date": "2026-04-23T13:33:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "현대차·기아, 2026 US 뉴스 '최고 하이브리드카' 7종 석권… 3년 연속 최...",
-      "link": "https://www.theguru.co.kr/news/article.html?no=100938",
-      "pub_date": "2026-04-23T13:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "기상악화 속 러시아 요트 2척 해경 도움에 울릉도로 긴급 피난",
-      "link": "https://www.nocutnews.co.kr/news/6507023?utm_source=naver&utm_medium=article&utm_campaign=20260423012951",
-      "pub_date": "2026-04-23T13:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 현대글로비스, 1분기 매출 '7조8127억원'·영업익 '5215억원'",
-      "link": "https://www.news2day.co.kr/article/20260423500028",
-      "pub_date": "2026-04-23T13:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1분기 영업익 1467억원…338% 증가",
-      "link": "https://www.sedaily.com/article/20036181?ref=naver",
-      "pub_date": "2026-04-23T13:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
-      "pub_date": "2026-04-23T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
-      "link": "https://www.ajunews.com/view/20260423132130181",
-      "pub_date": "2026-04-23T13:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
