@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 12:15:28",
+  "updated": "2026-04-23 12:20:28",
   "total": 200,
   "items": [
+    {
+      "title": "1분기 韓경제, 반도체 호조 힘입어 1.7% 성장…5년6개월 만에 최고",
+      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370637",
+      "pub_date": "2026-04-23T12:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
+      "link": "https://www.imaeil.com/page/view/2026042311330949015",
+      "pub_date": "2026-04-23T12:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동 전쟁 뚫은 반도체 수출...1분기 GDP 1.7% '도약'",
+      "link": "https://www.hinews.co.kr/view.php?ud=202604230953304230dacadeb388_48",
+      "pub_date": "2026-04-23T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "선거철 '단골 메뉴' 꺼내든 국힘...정동영 발언 '안보이슈'화",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300875",
+      "pub_date": "2026-04-23T12:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌고 투자 받쳤다…1분기 성장률 1.7%, 5년6개월만에 최고",
+      "link": "https://www.thepowernews.co.kr/view.php?ud=202604231214534337de3f0aa1be_7",
+      "pub_date": "2026-04-23T12:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 상승폭 전부 반납…하락 전환",
       "link": "https://www.busan.com/view/busan/view.php?code=2026042312122949320",
@@ -9,6 +54,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘중동 사태’ 중고차 수출 30% 감소…“새 수출길 뚫자”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543839&ref=A",
+      "pub_date": "2026-04-23T12:13:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -57,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
-      "pub_date": "2026-04-23T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "'긴급 상황' 홍석천, 큰 사고 막았다…송끄란서 쓰러진 여성 붙잡고 길...",
       "link": "http://www.tvdaily.co.kr/read.php3?aid=17769061581784402002",
       "pub_date": "2026-04-23T12:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "합성생물학 육성법 23일 시행…바이오 혁신 제도적 기반 마련",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838703",
+      "pub_date": "2026-04-23T12:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -165,21 +219,21 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
-      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
-      "pub_date": "2026-04-23T11:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
       "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
       "pub_date": "2026-04-23T11:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 끌어올린 韓경제…1분기 1.7% '깜짝 성장'",
+      "link": "https://www.ezyeconomy.com/news/articleView.html?idxno=234989",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -201,15 +255,6 @@
       "is_scoop": false
     },
     {
-      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
-      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
-      "pub_date": "2026-04-23T11:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
       "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
       "pub_date": "2026-04-23T11:42:00+09:00",
@@ -219,8 +264,8 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 끌어올린 성장률···1분기 1.7% '깜짝 반등'",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422339",
+      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
+      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -228,8 +273,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동전쟁 불구 우리 경제 1분기 1.7% 깜짝 성장",
-      "link": "https://news.cpbc.co.kr/article/1172396?division=NAVER",
+      "title": "반도체가 끌어올린 성장률···1분기 1.7% '깜짝 반등'",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422339",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,18 +300,18 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]李대통령 지지율 69%로 3연속 최고치...국힘 15% 역대 최저",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230035",
-      "pub_date": "2026-04-23T11:41:00+09:00",
+      "title": "중동전쟁 불구 우리 경제 1분기 1.7% 깜짝 성장",
+      "link": "https://news.cpbc.co.kr/article/1172396?division=NAVER",
+      "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
-      "title": "[속보] 종합특검, '심우정 내란 혐의' 대검 압수수색",
-      "link": "https://news.tf.co.kr/read/life/2316398.htm",
-      "pub_date": "2026-04-23T11:40:00+09:00",
+      "title": "[속보]李대통령 지지율 69%로 3연속 최고치...국힘 15% 역대 최저",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230035",
+      "pub_date": "2026-04-23T11:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -279,6 +324,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 종합특검, '심우정 내란 혐의' 대검 압수수색",
+      "link": "https://news.tf.co.kr/read/life/2316398.htm",
+      "pub_date": "2026-04-23T11:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1746,60 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 1분기 한국 GDP 1.7% 급반등…반도체가 악재 눌렀다",
-      "link": "https://www.mk.co.kr/article/12024994",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '설탕담합' CJ제일제당·삼양에 각 벌금 2억원",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03755606645419072",
-      "pub_date": "2026-04-23T10:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://magazine.hankyung.com/business/article/202604231100b",
-      "pub_date": "2026-04-23T10:18:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동 긴장 속 성장 궤도… 1분기 1.7%, 5년6개월 만에 최고",
-      "link": "http://www.seoulwire.com/news/articleView.html?idxno=718360",
-      "pub_date": "2026-04-23T10:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "구윤철 \"1분기 1.7% 성장률, 반도체 호황에 정책 효과 더해진 결과\"",
-      "link": "https://www.news1.kr/economy/trend/6146277",
-      "pub_date": "2026-04-23T10:17:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 한국 경제, 반도체 수출 호조에 GDP 1.7% \"깜짝 성장\"",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455617",
-      "pub_date": "2026-04-23T10:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
