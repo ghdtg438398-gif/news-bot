@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 17:30:33",
+  "updated": "2026-04-23 17:35:29",
   "total": 200,
   "items": [
+    {
+      "title": "횡성지역 원로, 김명기 군수 불출마 요구",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046499",
+      "pub_date": "2026-04-23T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 군산 지곡동 건물 화재발생...\"차량 우회\"",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564816",
+      "pub_date": "2026-04-23T17:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 세종시의회 비례대표 '2석→3석 확대' 특별법 국회 본회의 통과",
       "link": "https://news.skbroadband.com/news/articleView.html?idxno=225321",
@@ -210,8 +228,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
+      "title": "[속보] \"집 밖으로 따라 나온 엄마, 살기 느껴져서\"…70대 모친 흉기살해...",
+      "link": "https://www.imaeil.com/page/view/2026042317050845228",
       "pub_date": "2026-04-23T17:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -219,8 +237,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] \"집 밖으로 따라 나온 엄마, 살기 느껴져서\"…70대 모친 흉기살해...",
-      "link": "https://www.imaeil.com/page/view/2026042317050845228",
+      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
       "pub_date": "2026-04-23T17:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -282,15 +300,6 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] “대낮 만취 운전” 50대女, 중앙분리대 ‘쾅’ 들이받고 차량 ...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/23/20260423500234?wlog_tag3=naver",
-      "pub_date": "2026-04-23T17:00:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "디토닉, 노후 산단에 AI 도입…강원후평 스마트그린산단 전환 나선다",
       "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80352",
       "pub_date": "2026-04-23T17:00:00+09:00",
@@ -306,6 +315,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “대낮 만취 운전” 50대女, 중앙분리대 ‘쾅’ 들이받고 차량 ...",
+      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/23/20260423500234?wlog_tag3=naver",
+      "pub_date": "2026-04-23T17:00:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -390,8 +408,8 @@
       "is_scoop": false
     },
     {
-      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
-      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
+      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -399,8 +417,8 @@
       "is_scoop": false
     },
     {
-      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
+      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
+      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,15 +534,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
       "pub_date": "2026-04-23T16:38:00+09:00",
@@ -532,6 +541,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
+      "pub_date": "2026-04-23T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
@@ -1779,24 +1797,6 @@
       "title": "윤석열 정부의 이 사람이 위원장? 노동자들이 최저임금위 퇴장한 이유",
       "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227428&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
       "pub_date": "2026-04-23T15:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"오세훈이 공포사회 말할 자격있나…TBS 직원 피 거꾸로 솟아'",
-      "link": "https://www.mediaus.co.kr/news/articleView.html?idxno=316800",
-      "pub_date": "2026-04-23T15:20:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "국힘, 정동영 장관 '정보 누설' 관련 대책 회의",
-      "link": "https://www.news1.kr/photos/7872517",
-      "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
