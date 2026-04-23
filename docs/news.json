@@ -1,11 +1,173 @@
 {
-  "updated": "2026-04-23 09:00:42",
+  "updated": "2026-04-23 09:05:39",
   "total": 200,
   "items": [
     {
-      "title": "첫 분기 성장률, 전망치의 갑절···반도체 수출 얼마였길래 [상보]",
-      "link": "http://www.fnnews.com/news/202604230736068555",
-      "pub_date": "2026-04-23T08:58:00+09:00",
+      "title": "1분기 실질 GDP 1.7% 성장…미-이란 전쟁에도 5년 6개월 만에 최고치",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514043",
+      "pub_date": "2026-04-23T09:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피 사상 첫 6500 돌파",
+      "link": "https://view.asiae.co.kr/article/2026042309030499209",
+      "pub_date": "2026-04-23T09:03:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 또 사상 최고치…6200·6300·6400·6500 도장 깨기",
+      "link": "https://biz.chosun.com/stock/stock_general/2026/04/23/SJ5UKE367BH6BD6B4VSMWRCFRI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 70.90p(1.10%) 오른 6488.83(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2578309",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 개장 직후 6500 돌파…사상 최고치 경신",
+      "link": "https://news.jtbc.co.kr/article/NB12295443?influxDiv=NAVER",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상최고치 경신",
+      "link": "https://www.yna.co.kr/view/AKR20260423036900008?input=1195m",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피 6500선 돌파",
+      "link": "https://www.khan.co.kr/article/202604230902001",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 최고치 출발…장 초반 6500선 터치",
+      "link": "https://www.hankyung.com/article/2026042306516",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스닥 7.98p(0.68%) 오른 1189.10(개장)",
+      "link": "https://www.etoday.co.kr/news/view/2578308",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 70.90p(1.10%) 오른 6488.83 출발",
+      "link": "https://www.ajunews.com/view/20260423085702610",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정부, 부탄 유류세 인하폭 '10%→25%' 확대…물가 방어 총력전",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411131",
+      "pub_date": "2026-04-23T09:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정부, LPG 유류세 더 낮추기로…택시·소형 트럭 부담 완화",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/22/20260422500303?wlog_tag3=naver",
+      "pub_date": "2026-04-23T09:01:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 사상 첫 6500선 돌파",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602897",
+      "pub_date": "2026-04-23T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]코스피, 1.10% 오른 6488.83 출발",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602894",
+      "pub_date": "2026-04-23T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "정부, 물가 안정 총력전…세제·가격·단속 '전방위 대응'",
+      "link": "https://www.nocutnews.co.kr/news/6506729?utm_source=naver&utm_medium=article&utm_campaign=20260423090050",
+      "pub_date": "2026-04-23T09:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[저스트인의 PR신잡⑧] 가짜뉴스 범람의 역설 ··· AI 시대, 다시 '게이...",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=211168",
+      "pub_date": "2026-04-23T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 2원 오른 1478원 출발",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602893",
+      "pub_date": "2026-04-23T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 고유가 충격, 항공료·나프타·요소수까지 번졌다…정부 전방위...",
+      "link": "https://www.newspim.com/news/view/20260423000050",
+      "pub_date": "2026-04-23T09:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[유에스 키즈 골프] 첫날 리더보드 점령한 韓 꿈나무들, 더헤븐CC 달궜다",
+      "link": "https://www.nc.press/news/articleView.html?idxno=613405",
+      "pub_date": "2026-04-23T08:59:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -14,6 +176,15 @@
     {
       "title": "한국 1분기 GDP 1.7% 증가, 반도체 수출 호조가 성장 견인",
       "link": "https://www.tokenpost.kr/news/economy/352328",
+      "pub_date": "2026-04-23T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "첫 분기 성장률, 전망치의 갑절···반도체 수출 얼마였길래 [상보]",
+      "link": "http://www.fnnews.com/news/202604230736068555",
       "pub_date": "2026-04-23T08:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,15 +363,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 1분기 韓경제 1.7% ‘깜짝 성장’… 5년여만 최고치",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500017?wlog_tag3=naver",
-      "pub_date": "2026-04-23T08:37:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"사망사고 무마해 주겠다\" 배달기사 가족에 7500만원 뜯은 대행업체 사...",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042308032752068",
       "pub_date": "2026-04-23T08:37:00+09:00",
@@ -216,6 +378,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 1분기 韓경제 1.7% ‘깜짝 성장’… 5년여만 최고치",
+      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500017?wlog_tag3=naver",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1628,177 +1799,6 @@
       "pub_date": "2026-04-23T06:49:00+09:00",
       "source_id": "mbc",
       "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]“美국방부, 호르무즈 기뢰 제거에 반년은 걸린다…종전 후 판단...",
-      "link": "https://www.munhwa.com/article/11584330?ref=naver",
-      "pub_date": "2026-04-23T06:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 평택 삼성캠퍼스 일대 집회 예고…고덕동 일부 구간 교통 통제",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864398",
-      "pub_date": "2026-04-23T06:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 재가동 아세아제지 \"달라진 건 없다\"",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233966",
-      "pub_date": "2026-04-23T06:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[화물노동자는 왜 탑차 막아섰나] CU 사망사건 하루 전, 자해시도 분신...",
-      "link": "https://www.labortoday.co.kr/news/articleView.html?idxno=233957",
-      "pub_date": "2026-04-23T06:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543401&ref=A",
-      "pub_date": "2026-04-23T06:33:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "포장재 흔들·수수료 부담…배달업계, 이중고 속 해법 찾나",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1360596",
-      "pub_date": "2026-04-23T06:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[오늘의 주요일정] 정치·정부 (23일, 목)",
-      "link": "http://www.queen.co.kr/news/articleView.html?idxno=455608",
-      "pub_date": "2026-04-23T06:30:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘중동 사태’ 중고차 수출 30% 감소…“새 수출길 뚫자”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543395&ref=A",
-      "pub_date": "2026-04-23T06:22:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "KDI, '석유 최고가격제'로 3월 물가 최대 0.8%p 잡았다",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604221425489740237",
-      "pub_date": "2026-04-23T06:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]‘트럼프, 이란 뭐라해도 우린 간다’ 뉴욕증시 또 사상 최고치",
-      "link": "https://www.munhwa.com/article/11584320?ref=naver",
-      "pub_date": "2026-04-23T06:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국제유가, 상승…WTI 3.67%↑",
-      "link": "https://www.etoday.co.kr/news/view/2578243",
-      "pub_date": "2026-04-23T06:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 뉴욕증시, 상승 마감…S&P500·나스닥 사상 최고치",
-      "link": "https://www.etoday.co.kr/news/view/2578242",
-      "pub_date": "2026-04-23T06:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[N2 포커스] '30조 대어' 목동 재건축 시공사 선정, 조용한 이유 들어보...",
-      "link": "https://www.news2day.co.kr/article/20260422500224",
-      "pub_date": "2026-04-23T06:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"신고가요? 비자발적 장투, 인질이었습니다\"…손절하고도 홀가분한 '네...",
-      "link": "http://www.fnnews.com/news/202604221443559451",
-      "pub_date": "2026-04-23T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"좋은 공 치면 쾌감 느껴\" KIA 울린 19세 유격수, 결승 2타점 적시타 짜...",
-      "link": "https://www.xportsnews.com/article/2140335",
-      "pub_date": "2026-04-23T06:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 미 S&P500·나스닥, 휴전 연장에 사상 최고치 마감",
-      "link": "https://imnews.imbc.com/news/2026/world/article/6817313_36925.html",
-      "pub_date": "2026-04-23T05:37:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 트럼프 '휴전 연장'…S&P500·나스닥 사상 최고치",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230112&t=NN",
-      "pub_date": "2026-04-23T05:35:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "미국의 이란전쟁 진짜 비용은?…\"1조 달러 넘을 수도\"",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008528836&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T05:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "남자골프 '우리금융 챔피언십' 우승후보 및 서원밸리 강자들…임성재·...",
-      "link": "https://golfhankook.hankooki.com/news/articleView.html?idxno=20019927",
-      "pub_date": "2026-04-23T05:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     }
