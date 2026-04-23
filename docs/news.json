@@ -1,7 +1,97 @@
 {
-  "updated": "2026-04-23 09:50:39",
+  "updated": "2026-04-23 09:55:27",
   "total": 200,
   "items": [
+    {
+      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
+      "pub_date": "2026-04-23T09:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
+      "pub_date": "2026-04-23T09:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성SDS, 매출 3.35조·영업익 783억",
+      "link": "https://www.news2day.co.kr/article/20260422500199",
+      "pub_date": "2026-04-23T09:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 수출 호조에 1분기 GDP 1.7% 성장",
+      "link": "https://vop.co.kr/A00001692372.html",
+      "pub_date": "2026-04-23T09:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]삼성SDS, 영업익 783억4100만…전년비 70.8%↓",
+      "link": "https://www.sentv.co.kr/article/view/sentv202604230049",
+      "pub_date": "2026-04-23T09:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사상 처음 6500선 돌파하며 3거래일 연속 최고치 경신",
+      "link": "https://www.pressian.com/pages/articles/2026042309504314132?utm_source=naver&utm_medium=search",
+      "pub_date": "2026-04-23T09:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 악재에도…1분기 韓경제 1.7% 급반등, 5년6개월만에 최고",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78255",
+      "pub_date": "2026-04-23T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[신윤우의 외환분석] 복잡한 속사정과 불투명한 2차 협상",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411155",
+      "pub_date": "2026-04-23T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성SDS, 1분기 영업익 783억…전년 대비 70.8% 감소",
+      "link": "https://www.news1.kr/it-science/internet-platform/6146059",
+      "pub_date": "2026-04-23T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "DTLA서 80대 한인 폭행, 신체 방화 살해 용의자 기소 ‘최대 종신형’",
+      "link": "https://www.radiokorea.com/news/article.php?uid=493765",
+      "pub_date": "2026-04-23T09:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 공정위, 제지 6사 담합에 과징금 3383억원·가격 재결정 명령",
       "link": "https://www.joongang.co.kr/article/25422655",
@@ -102,6 +192,15 @@
       "is_scoop": false
     },
     {
+      "title": "화물연대·BGF로지스 교섭 돌입…사고 운전자 영장 청구",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543607&ref=A",
+      "pub_date": "2026-04-23T09:42:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 전쟁에 둔감해진 코스피 '랠리'…'삼전닉스' 장중 신고가",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230311&t=NN",
       "pub_date": "2026-04-23T09:41:00+09:00",
@@ -183,21 +282,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 오르비텍 VI 발동, 주가 12% 도약…원전주 동반 강세",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569672",
-      "pub_date": "2026-04-23T09:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "대구 헤이즐리스튜디오, '사전미팅 시스템'으로 예비부부 긴장감 해소",
       "link": "https://www.ksilbo.co.kr/news/articleView.html?idxno=1054906",
       "pub_date": "2026-04-23T09:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오르비텍 VI 발동, 주가 12% 도약…원전주 동반 강세",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569672",
+      "pub_date": "2026-04-23T09:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1700,105 +1799,6 @@
       "pub_date": "2026-04-23T08:01:00+09:00",
       "source_id": "mk",
       "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "韓 1분기 성장률 1.7%…5년 6개월 만에 최고치",
-      "link": "https://www.sedaily.com/article/20035973?ref=naver",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 1분기 실질 GDP 전기比 1.7% ‘성장’…전년대비 3.6%↑",
-      "link": "http://www.joseilbo.com/news/news_read.php?uid=567074&class=18&grp=",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KS 신드롬! Korea Semiconductor? 엄지척! 월가 “삼전과 SK닉스에 가장 돈...",
-      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230269&t=NN",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 1분기 GDP 1.7% 증가…반도체 호황에 ‘깜짝 성장률’",
-      "link": "https://www.chosun.com/economy/economy_general/2026/04/23/62CRTLRODRBWLIWT2LCGJLBXAQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP, 전기 대비 1.7% 성장…한은 전망치 두 배",
-      "link": "https://biz.heraldcorp.com/article/10723555?ref=naver",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7%…수출·설비투자 반등(2보)",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602704",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "올 1분기 GDP 1.7% 성장…국내총소득은 7.5%↑",
-      "link": "https://www.dailian.co.kr/news/view/1636731/?sc=Naver",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 경제성장률 1.7% '깜짝 성장'⋯5년 6개월 만에 최대",
-      "link": "http://www.inews24.com/view/1962661",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]올해 1분기 실질 GDP ‘서프라이즈’…전기比 1.7%↑",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02827366645419072",
-      "pub_date": "2026-04-23T08:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "이마트, 나폴리 '다미켈레' 피자 들여왔다…국내 단독 출시",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=513968",
-      "pub_date": "2026-04-23T08:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 한국 경제 1분기 1.7% 성장‥반도체 호조에 시장 예상 상회",
-      "link": "https://imnews.imbc.com/news/2026/econo/article/6817373_36932.html",
-      "pub_date": "2026-04-23T08:00:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
       "is_breaking": true,
       "is_scoop": false
     }
