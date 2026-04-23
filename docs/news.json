@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 21:50:29",
+  "updated": "2026-04-23 21:55:31",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260423.99099006966",
+      "pub_date": "2026-04-23T21:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "link": "https://www.hankyung.com/article/2026042330267",
+      "pub_date": "2026-04-23T21:53:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042321520396014",
+      "pub_date": "2026-04-23T21:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260423215132JIz",
+      "pub_date": "2026-04-23T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[AI상보] KT, KIA 8-3으로 꺾고 주중 3연전 스윕...KIA 8연승 직후 5연패",
+      "link": "https://www.newspim.com/news/view/20260423001421",
+      "pub_date": "2026-04-23T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.yna.co.kr/view/AKR20260423185600071?input=1195m",
+      "pub_date": "2026-04-23T21:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "삼성 불펜 붕괴시킨 SSG, 3G 연속 역전 드라마…8-2 역전승→3연승+3위 도...",
       "link": "https://www.xportsnews.com/article/2140630",
@@ -21,8 +75,8 @@
       "is_scoop": false
     },
     {
-      "title": "공중보건의 급감… 벼랑 끝 내몰린 농어촌 의료",
-      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540182",
+      "title": "창원시 통합돌봄 증원 조례안 상임위 통과",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540187",
       "pub_date": "2026-04-23T21:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "창원시 통합돌봄 증원 조례안 상임위 통과",
-      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540187",
+      "title": "공중보건의 급감… 벼랑 끝 내몰린 농어촌 의료",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540182",
       "pub_date": "2026-04-23T21:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1746,60 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]장동혁, 헬러 주한미국대사 대리 면담…방미 성과 공유",
-      "link": "https://www.munhwa.com/article/11584579?ref=naver",
-      "pub_date": "2026-04-23T17:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] ‘한국 반도체’ 뒷덜미 잡은 중국…‘핵심기술 中유출’ 삼전 ...",
-      "link": "https://www.dt.co.kr/article/12059221?ref=naver",
-      "pub_date": "2026-04-23T17:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KB증권, 1분기 영업이익 4531억원…전년비 101.7% 급증",
-      "link": "http://www.thebigdata.co.kr/view.php?ud=202604231709515074c808fa9903_23",
-      "pub_date": "2026-04-23T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 차태현 '복직경찰'로 3년 만에 영화…'슈퍼스타 감사용' 감독 신...",
-      "link": "https://www.news1.kr/entertain/movie/6147110",
-      "pub_date": "2026-04-23T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "1분기 韓경제 1.7% 깜짝 성장…“전쟁 영향에 2분기는 조정 불가피”",
-      "link": "https://www.donga.com/news/Economy/article/all/20260423/133799696/1",
-      "pub_date": "2026-04-23T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'강제추행 혐의' 한채훈 의왕시의원 1심서 징역형 집행유예",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530187&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
