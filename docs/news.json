@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 18:45:34",
+  "updated": "2026-04-23 18:50:27",
   "total": 200,
   "items": [
+    {
+      "title": "[다시보기] 헬로tv뉴스 전북 2026년 4월 23일",
+      "link": "http://news.lghellovision.net/news/articleView.html?idxno=541319",
+      "pub_date": "2026-04-23T18:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "닷컴 버블 때보다 큰 변동성…반도체는 이미 버블 조짐[오미주]",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042317485241000",
+      "pub_date": "2026-04-23T18:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "파산위기 '홈플러스' 숨통 트이나?...'메리츠금융', 2천억규모 지원 검토",
       "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137300",
@@ -57,6 +75,15 @@
       "is_scoop": false
     },
     {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "황소제 광주시의원, 신현동 석축 붕괴 위험 현장점검",
       "link": "http://www.breaknews.com/1202689",
       "pub_date": "2026-04-23T18:30:00+09:00",
@@ -72,15 +99,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
-      "link": "http://www.breaknews.com/1202688",
-      "pub_date": "2026-04-23T18:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -300,8 +318,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 송영길 연수갑-김남준 계양을 공천",
-      "link": "https://www.pressian.com/pages/articles/2026042318003206413?utm_source=naver&utm_medium=search",
+      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042318012292522",
       "pub_date": "2026-04-23T18:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -309,8 +327,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042318012292522",
+      "title": "[속보] 민주당, 송영길 연수갑-김남준 계양을 공천",
+      "link": "https://www.pressian.com/pages/articles/2026042318003206413?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T18:02:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]화물연대 집회 사망사고 운전자 구속…법원 “도주·증거인멸 우...",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525644",
-      "pub_date": "2026-04-23T16:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 화물연대 집회서 조합원 친 화물차 운전자 구속‥\"도망·증거 인...",
-      "link": "https://imnews.imbc.com/news/2026/society/article/6817503_36918.html",
-      "pub_date": "2026-04-23T16:06:00+09:00",
-      "source_id": "mbc",
-      "source_name": "MBC",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
