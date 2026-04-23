@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 21:40:33",
+  "updated": "2026-04-23 21:45:28",
   "total": 200,
   "items": [
+    {
+      "title": "삼성 불펜 붕괴시킨 SSG, 3G 연속 역전 드라마…8-2 역전승→3연승+3위 도...",
+      "link": "https://www.xportsnews.com/article/2140630",
+      "pub_date": "2026-04-23T21:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“리테일, 교섭 주체 아니다” - “실질적 종속관계”",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540192",
+      "pub_date": "2026-04-23T21:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "창원시 통합돌봄 증원 조례안 상임위 통과",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540187",
+      "pub_date": "2026-04-23T21:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "공중보건의 급감… 벼랑 끝 내몰린 농어촌 의료",
+      "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1540182",
+      "pub_date": "2026-04-23T21:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스 브리핑] '제발 쏘지 마' 긴급 무전… 호르무즈 긴장 속 한국 유조...",
       "link": "https://www.thepublic.kr/news/articleView.html?idxno=302348",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "中 몽니 끝났다…'사석 파동→반쪽 대회' LG배, 정상 복귀",
-      "link": "https://www.nocutnews.co.kr/news/6507269?utm_source=naver&utm_medium=article&utm_campaign=20260423050854",
-      "pub_date": "2026-04-23T17:09:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 장애인권리보장법, 국회 본회의 통과",
-      "link": "https://www.beminor.com/news/articleView.html?idxno=29755",
-      "pub_date": "2026-04-23T17:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "CU 배송노동자 죽음이 노란봉투법 때문? 보수 언론에 반박한다",
-      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227675&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-      "pub_date": "2026-04-23T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] DGI, 두산에너빌리티와 604억 규모 해상풍력 관련 3건 계약 체결",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569802",
-      "pub_date": "2026-04-23T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
