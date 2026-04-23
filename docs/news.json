@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 16:55:28",
+  "updated": "2026-04-23 17:00:36",
   "total": 200,
   "items": [
+    {
+      "title": "'오류' 운전면허시스템 나흘째만에 ‘부분’ 정상화… 온라인 적성검사...",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042309154039765",
+      "pub_date": "2026-04-23T16:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성전자 노조 \"5월 21일부터 6월 7일까지 총파업···전면 투쟁...",
+      "link": "https://magazine.hankyung.com/business/article/202604232493b",
+      "pub_date": "2026-04-23T16:59:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "경찰 정강이까지 깨물었다…택시 문제로 7명이나 폭행한 20대",
+      "link": "https://www.nocutnews.co.kr/news/6507254?utm_source=naver&utm_medium=article&utm_campaign=20260423045753",
+      "pub_date": "2026-04-23T16:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'반도체의 힘' 1분기 1.7% '깜짝 성장' … 5년 6개월만에 최고치",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154676",
+      "pub_date": "2026-04-23T16:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "KB증권, 1분기 순이익 3502억원…부문별 고른 성장",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657257",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
-      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
+      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
+      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[금주의 핫뉴스] 대화 시작한 ‘화물연대’ 노사… 합의안 나와도 ‘반...",
-      "link": "http://www.segyebiz.com/newsView/20260423516513?OutUrl=naver",
+      "title": "농협공판장 \"유통체계 강화…농민 소득증대 앞장\"",
+      "link": "http://www.newsdream.kr/news/articleView.html?idxno=111653",
       "pub_date": "2026-04-23T16:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -174,15 +210,6 @@
       "is_scoop": false
     },
     {
-      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
       "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
       "pub_date": "2026-04-23T16:38:00+09:00",
@@ -190,6 +217,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
+      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
+      "pub_date": "2026-04-23T16:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
@@ -1764,42 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 '해든이' 학대·살해한 친모 '무기징역'",
-      "link": "https://www.ikbc.co.kr/article/view/kbc202604230044",
-      "pub_date": "2026-04-23T15:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
-      "link": "http://www.inews24.com/view/1962902",
-      "pub_date": "2026-04-23T14:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘, '정동영 해임건의안 제출' 당론 채택",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04651046645419072",
-      "pub_date": "2026-04-23T14:59:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "국민의힘 “정동영 장관 해임 건의안 당론으로 추진”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543914&ref=A",
-      "pub_date": "2026-04-23T14:58:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
