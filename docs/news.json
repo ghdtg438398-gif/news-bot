@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 22:25:30",
+  "updated": "2026-04-23 22:30:39",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박에 발포·격침 명...",
+      "link": "https://biz.heraldcorp.com/article/10724463?ref=naver",
+      "pub_date": "2026-04-23T22:28:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “이란이 합의할 때까지 호르무즈 철통 봉쇄할 것”",
+      "link": "https://www.mk.co.kr/article/12025859",
+      "pub_date": "2026-04-23T22:26:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란 합의 때까지 호르무즈 철통 봉쇄\"",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=07626006645419072",
+      "pub_date": "2026-04-23T22:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "4월 인도 종합 PMI 58.3·1.3P↑…\"제조업 주도 경기확대 가속\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604373",
+      "pub_date": "2026-04-23T22:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄\"",
       "link": "https://imnews.imbc.com/news/2026/world/article/6817596_36925.html",
@@ -17,6 +53,15 @@
       "pub_date": "2026-04-23T22:23:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
+      "pub_date": "2026-04-23T22:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -93,7 +138,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 “호르무즈 기뢰 설치 모든 선박에 사격 명령”",
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "pub_date": "2026-04-23T22:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “호르무즈 기뢰 설치 모든 선박 격침 명령”",
       "link": "https://www.donga.com/news/Inter/article/all/20260423/133803272/2",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
@@ -104,15 +158,6 @@
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
       "link": "http://www.fnnews.com/news/202604232204386486",
-      "pub_date": "2026-04-23T22:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독] 민주당 송영길 전 대표, 연수갑 전략 공천 유력",
-      "link": "http://www.inews24.com/view/1963016",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "[속보] 민주, 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://news.jtbc.co.kr/article/NB12295567?influxDiv=NAVER",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 민주, 인천 '계양을 김남준' '연수갑 송영길' 전략공천",
-      "link": "http://www.inews24.com/view/1963018",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국일제지 오후 거래정지 공시...주식병합에 다른 절차 진행",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569810",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체의 힘…1분기 GDP 1.7% '깜짝 증가'",
-      "link": "https://www.hankyung.com/article/2026042327041",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
