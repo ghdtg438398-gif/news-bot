@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 09:40:29",
+  "updated": "2026-04-23 09:45:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 장동혁 “후보자, 해당행위하면 즉시 교체할 것”",
+      "link": "https://biz.heraldcorp.com/article/10723700?ref=naver",
+      "pub_date": "2026-04-23T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 'KDDX 배치Ⅱ 개념설계' HD현중 불참…한화오션 수의계약 유력",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529137&plink=ORI&cooper=NAVER",
+      "pub_date": "2026-04-23T09:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "한국경제 1분기 성장률 급반등 1.7%...5년6개월만에 최고",
+      "link": "https://www.kbmaeil.com/article/20260423500056",
+      "pub_date": "2026-04-23T09:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 전쟁에 둔감해진 코스피 '랠리'…'삼전닉스' 장중 신고가",
+      "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230311&t=NN",
+      "pub_date": "2026-04-23T09:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]장동혁 “해당 행위 강력 조치…후보자라도 즉시 교체”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525545",
+      "pub_date": "2026-04-23T09:41:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 장동혁 \"해당 행위 강력 조치…후보자라도 즉시 교체\"",
+      "link": "https://www.hankyung.com/article/2026042303247",
+      "pub_date": "2026-04-23T09:39:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 국민의힘 장동혁 \"지금부터의 해당행위, 강력 조치...후보자 즉시...",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604230938307198",
+      "pub_date": "2026-04-23T09:38:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 장동혁 \"해당 행위 강력 조치…후보자라도 즉시 교체\"",
       "link": "https://www.news1.kr/politics/assembly/6146198",
@@ -21,21 +84,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 6500선 뚫었다…3거래일 연속 '사상 최고'",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738401",
-      "pub_date": "2026-04-23T09:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "韓 1분기 1.7% 성장…\"민간이 버티고, 수출이 견인\"",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838697",
       "pub_date": "2026-04-23T09:34:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6500선 뚫었다…3거래일 연속 '사상 최고'",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=738401",
+      "pub_date": "2026-04-23T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -138,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 문 열자마자 6500 돌파…3거래일 연속 최고가 갱신",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1255492.html",
+      "title": "[속보] 코스피, 6500선 돌파…사흘째 사상 최고치 경신",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046429",
       "pub_date": "2026-04-23T09:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6500선 돌파…사흘째 사상 최고치 경신",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046429",
+      "title": "[속보] 코스피, 문 열자마자 6500 돌파…3거래일 연속 최고가 갱신",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1255492.html",
       "pub_date": "2026-04-23T09:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,6 +255,15 @@
       "is_scoop": false
     },
     {
+      "title": "‘베팅 온 팩트’ 이용진, 장동민에 반격 선포",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604230079",
+      "pub_date": "2026-04-23T09:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피, 장중 6500 돌파…3일 연속 전고점 경신",
       "link": "https://news.tf.co.kr/read/economy/2316247.htm",
       "pub_date": "2026-04-23T09:22:00+09:00",
@@ -203,15 +275,6 @@
     {
       "title": "국내총생산 성장률, 1.7%로 '깜짝' 반등…'반도체 호황' 등 제조업 성장",
       "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=358029",
-      "pub_date": "2026-04-23T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "‘베팅 온 팩트’ 이용진, 장동민에 반격 선포",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604230079",
       "pub_date": "2026-04-23T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-23T07:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 영업이익 37.6조원…역대 최대",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838680",
-      "pub_date": "2026-04-23T07:54:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]SK하이닉스 1분기 영업익 사상최대 37.6조…영업이익률 71.5%",
-      "link": "https://www.munhwa.com/article/11584344?ref=naver",
-      "pub_date": "2026-04-23T07:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 영업이익 37.6조원…전년 대비 198%↑",
-      "link": "https://www.segye.com/newsView/20260423502985?OutUrl=naver",
-      "pub_date": "2026-04-23T07:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업익 37.6조…사상 최대",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260423074857y92",
-      "pub_date": "2026-04-23T07:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 매출 52.6조·영업익 37.6조...역대 최대 실적",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230747268749",
-      "pub_date": "2026-04-23T07:47:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 당기순익 40조3500억원···창사 이래 '사상 ...",
-      "link": "https://www.ajunews.com/view/20260423071246419",
-      "pub_date": "2026-04-23T07:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 매출 52조·영업익 37조…사상 최대",
-      "link": "http://www.metroseoul.co.kr/article/20260423500009",
-      "pub_date": "2026-04-23T07:46:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
       "is_breaking": true,
       "is_scoop": false
     }
