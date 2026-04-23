@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 16:40:30",
+  "updated": "2026-04-23 16:45:28",
   "total": 200,
   "items": [
+    {
+      "title": "'살인 혐의' 화물연대 집회 사망 사고 운전자 구속…\"죄송하다\"",
+      "link": "https://www.segye.com/newsView/20260423515337?OutUrl=naver",
+      "pub_date": "2026-04-23T16:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[김능구·황장수의 닥터둠의 전망 4월①][전문] \"이란 전쟁, 끝이 안 보...",
+      "link": "https://www.polinews.co.kr/news/articleView.html?idxno=729360",
+      "pub_date": "2026-04-23T16:42:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'12명 사상' 목동 깨비시장 돌진 70대 男…1심 금고형 집유",
+      "link": "https://www.ajunews.com/view/20260423162224703",
+      "pub_date": "2026-04-23T16:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '한화 날벼락' 78억 FA 엄상백, 팔꿈치 수술→시즌 아웃...4년 계...",
       "link": "http://www.osen.co.kr/article/G1112787413",
@@ -84,21 +111,21 @@
       "is_scoop": false
     },
     {
-      "title": "씨티, 올해 韓 성장률 2.9%로 상향·연말 기준금리 3% 전망",
-      "link": "https://www.g-enews.com/view.php?ud=202604231555249179bb91c46fcd_1",
-      "pub_date": "2026-04-23T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 현대로템, 베트남 호치민 2호선 전동차 사업 2건 수주…규모는?",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569794",
       "pub_date": "2026-04-23T16:24:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "씨티, 올해 韓 성장률 2.9%로 상향·연말 기준금리 3% 전망",
+      "link": "https://www.g-enews.com/view.php?ud=202604231555249179bb91c46fcd_1",
+      "pub_date": "2026-04-23T16:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -219,6 +246,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
+      "link": "https://www.imaeil.com/page/view/2026042315315170096",
+      "pub_date": "2026-04-23T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
       "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
       "pub_date": "2026-04-23T16:13:00+09:00",
@@ -230,15 +266,6 @@
     {
       "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
       "link": "https://www.sedaily.com/article/20036320?ref=naver",
-      "pub_date": "2026-04-23T16:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
-      "link": "https://www.imaeil.com/page/view/2026042315315170096",
       "pub_date": "2026-04-23T16:13:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -318,8 +345,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 화물연대 조합원 덮쳐 1명 사망케한 운전자 '살인' 혐의로 구속",
-      "link": "https://www.pressian.com/pages/articles/2026042316063775276?utm_source=naver&utm_medium=search",
+      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
+      "link": "https://www.munhwa.com/article/11584560?ref=naver",
+      "pub_date": "2026-04-23T16:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
+      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,17 +372,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
-      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
-      "link": "https://www.munhwa.com/article/11584560?ref=naver",
+      "title": "[속보] 화물연대 조합원 덮쳐 1명 사망케한 운전자 '살인' 혐의로 구속",
+      "link": "https://www.pressian.com/pages/articles/2026042316063775276?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -507,8 +534,8 @@
       "is_scoop": false
     },
     {
-      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
-      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -516,8 +543,8 @@
       "is_scoop": false
     },
     {
-      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -660,8 +687,8 @@
       "is_scoop": false
     },
     {
-      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
-      "link": "https://www.ajunews.com/view/20260423151911517",
+      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
+      "link": "https://www.mediapen.com/news/view/1095244",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -669,8 +696,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
-      "link": "https://www.mediapen.com/news/view/1095244",
+      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
+      "link": "https://www.ajunews.com/view/20260423151911517",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1770,33 +1797,6 @@
       "title": "[속보] 파수 주가 상한가 터치…52주 신고가 새로 써",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569772",
       "pub_date": "2026-04-23T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
-      "link": "http://www.fnnews.com/news/202604231448112766",
-      "pub_date": "2026-04-23T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 해든이 학대 살해한 친모 '무기징역'",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042314471347457",
-      "pub_date": "2026-04-23T14:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘급식 몰아주기’ 공정위 2349억 삼성웰스토리 과징금 취...",
-      "link": "https://www.sedaily.com/article/20036256?ref=naver",
-      "pub_date": "2026-04-23T14:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
