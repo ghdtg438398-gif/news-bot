@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 18:10:31",
+  "updated": "2026-04-23 18:15:29",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 당근마켓 사기꾼에 '계정 제공' 30대...항소심서 '감형’",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423510&PRO_CODE=99",
+      "pub_date": "2026-04-23T18:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] “이란에 ‘호르무즈 통행료’ 첫 예치”…최대 30억원 추정",
+      "link": "https://www.seoul.co.kr/news/international/2026/04/23/20260423500276?wlog_tag3=naver",
+      "pub_date": "2026-04-23T18:11:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주, 인천 연수갑 송영길-계양을 김남준 전략공천",
+      "link": "https://www.donga.com/news/Politics/article/all/20260423/133801765/2",
+      "pub_date": "2026-04-23T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[포토뉴스] 나폴리 3대 피자 ‘다미켈레’ 판매",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042318103869876",
+      "pub_date": "2026-04-23T18:11:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"LG 이 악물고 올 텐데…\" '0.5G 차' 1위 다툼, 일주일 뒤 수원 빅뱅 예고...",
+      "link": "https://www.xportsnews.com/article/2140563",
+      "pub_date": "2026-04-23T18:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "정동영, 기밀누설 책임론에 “지나친 정략, 국익 해쳐”",
       "link": "https://www.segye.com/newsView/20260423516604?OutUrl=naver",
@@ -66,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "법원 “정몽규, 클린스만 선임 부당 개입…중징계 요청 정당”",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544067&ref=A",
+      "pub_date": "2026-04-23T18:04:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 민주당, 송영길 연수갑-김남준 계양을 공천",
       "link": "https://www.pressian.com/pages/articles/2026042318003206413?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T18:02:00+09:00",
@@ -120,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
-      "pub_date": "2026-04-23T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독]층간소음이 '스토킹' 됐다…영화 같은 실화[노컷브이]",
       "link": "https://www.nocutnews.co.kr/news/6507338?utm_source=naver&utm_medium=article&utm_campaign=20260423055954",
       "pub_date": "2026-04-23T18:00:00+09:00",
@@ -136,6 +181,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
+      "pub_date": "2026-04-23T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "[연합뉴스 이 시각 헤드라인] - 18:00",
@@ -153,6 +207,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
+      "link": "https://www.etoday.co.kr/news/view/2578663",
+      "pub_date": "2026-04-23T17:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -174,15 +237,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략공천",
-      "link": "https://www.etoday.co.kr/news/view/2578663",
-      "pub_date": "2026-04-23T17:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] ‘검사 엑소더스’ 뒤숭숭한데… 대구지검 ‘공소청 공모전’ 빈...",
       "link": "https://www.segye.com/newsView/20260423516549?OutUrl=naver",
       "pub_date": "2026-04-23T17:57:00+09:00",
@@ -190,15 +244,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 민주당, 인천 연수갑에 송영길 … 계양을에 김남준 전략공천",
-      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/23/2026042300321.html",
-      "pub_date": "2026-04-23T17:56:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
     },
     {
       "title": "[도쿄증시-마감] 닛케이 사상 첫 6만선 돌파 후 하락 전환…토픽스도↓",
@@ -212,6 +257,15 @@
     {
       "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
       "link": "https://www.imaeil.com/page/view/2026042317545888851",
+      "pub_date": "2026-04-23T17:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, 인천 연수갑에 송영길 … 계양을에 김남준 전략공천",
+      "link": "https://www.newdaily.co.kr/site/data/html/2026/04/23/2026042300321.html",
       "pub_date": "2026-04-23T17:56:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1745,60 +1799,6 @@
       "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[도쿄환시] 달러-엔 소폭 상승…호르무즈 불안에 WTI↑",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411316",
-      "pub_date": "2026-04-23T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억원…전년比 12.6%↑",
-      "link": "https://www.dailian.co.kr/news/view/1637106/?sc=Naver",
-      "pub_date": "2026-04-23T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "어린이집 직원 화장실에 '몰카 설치' 원장 남편…징역 3년 구형",
-      "link": "https://view.asiae.co.kr/article/2026042315395460826",
-      "pub_date": "2026-04-23T15:57:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사흘 연속 최고치 경신…6470선 돌파",
-      "link": "https://news.jtbc.co.kr/article/NB12295516?influxDiv=NAVER",
-      "pub_date": "2026-04-23T15:55:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다, 한국서 車 접는다… 23년 만",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029723535&code=61172011&cp=nv",
-      "pub_date": "2026-04-23T15:55:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '조합원 3명 사상' 운전자 구속...\"도주·증거 인멸 우려\"",
-      "link": "https://www.ytn.co.kr/_ln/0115_202604231555003746",
-      "pub_date": "2026-04-23T15:55:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": true,
       "is_scoop": false
     }
