@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 12:35:28",
+  "updated": "2026-04-23 12:40:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]외국인 노동자 항문 부위에 산업용 에어건 분사해 장기 파열 등 중...",
+      "link": "https://www.kwnews.co.kr/page/view/2026042350024800000",
+      "pub_date": "2026-04-23T12:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'주차장 입구막기-공영주차장 알박기' 최대 500만원 과태료 문다",
+      "link": "http://www.breaknews.com/1202540",
+      "pub_date": "2026-04-23T12:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "반도체가 이끈 '소득 급등'... 1분기 GDI 7.5% 폭증",
       "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=885005",
@@ -291,6 +309,15 @@
       "is_scoop": false
     },
     {
+      "title": "정청래 “목표는 높게, 자세는 낮게”",
+      "link": "https://biz.heraldcorp.com/article/10724006?ref=naver",
+      "pub_date": "2026-04-23T11:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]종합특검, 심우정 내란 중요임무 등 혐의 관련 대검 ‘압수수색’",
       "link": "https://biz.heraldcorp.com/article/10724003?ref=naver",
       "pub_date": "2026-04-23T11:44:00+09:00",
@@ -309,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "정청래 “목표는 높게, 자세는 낮게”",
-      "link": "https://biz.heraldcorp.com/article/10724006?ref=naver",
-      "pub_date": "2026-04-23T11:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]李 대통령 지지율 69% '고공행진'…국민의힘 15% '역대 최저'",
       "link": "https://economist.co.kr/article/view/ecn202604230028",
       "pub_date": "2026-04-23T11:43:00+09:00",
@@ -327,8 +345,8 @@
       "is_scoop": false
     },
     {
-      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
-      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
+      "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
+      "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +354,8 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 '중동전' 악재서 우리경제 구했다 …'슈퍼사이클' 언제까지?",
-      "link": "http://www.nongaek.com/news/articleView.html?idxno=95182",
+      "title": "'연일 최고치' 코스피 장중 6500고지…'7천피' 향해 속도 내나",
+      "link": "https://www.yna.co.kr/view/AKR20260423084000008?input=1195m",
       "pub_date": "2026-04-23T11:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "삼전·닉스 호실적에 코스피 6500선 가뿐히 통과",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514102",
-      "pub_date": "2026-04-23T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '설탕·밀가루 담합' CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://www.ajunews.com/view/20260423100253844",
-      "pub_date": "2026-04-23T10:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
