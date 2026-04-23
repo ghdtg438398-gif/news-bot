@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 21:25:30",
+  "updated": "2026-04-23 21:30:35",
   "total": 200,
   "items": [
+    {
+      "title": "[뉴스공감] 하이닉스가 더 준다? 삼성전자 노조, 4만 집결",
+      "link": "https://news.cpbc.co.kr/article/1172405?division=NAVER",
+      "pub_date": "2026-04-23T21:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 한국 경제 1.7% '깜짝 성장'",
+      "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=546104",
+      "pub_date": "2026-04-23T21:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "(단독) 경찰, 춘천시청 압수수색..인사 청탁 의혹",
       "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=342739",
@@ -1778,24 +1796,6 @@
     {
       "title": "법인 돈 빌려 117억 아파트 매수…서울·경기 이상거래 746건 적발",
       "link": "https://www.asiatime.co.kr/article/20260423500391",
-      "pub_date": "2026-04-23T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[단독]불화가 뭐예요? 옥택연, 내일 결혼식..2PM 축가·사회 총출동 [종...",
-      "link": "https://www.starnewskorea.com/music/2026/04/23/2026042316261639932",
-      "pub_date": "2026-04-23T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "전쟁 뚫은 '반도체'…1분기 GDP '66개월만' 최고치",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298932&inflow=N",
       "pub_date": "2026-04-23T17:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
