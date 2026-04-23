@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 18:30:33",
+  "updated": "2026-04-23 18:35:33",
   "total": 200,
   "items": [
+    {
+      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
+      "link": "http://www.breaknews.com/1202626",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "대구시, 사회연대경제 공모사업 ‘동시 선정’…국비 14억 확보로 지역...",
+      "link": "http://www.breaknews.com/1202623",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 오세훈 서울시장, 다음주 월요일 예비후보 등록키로",
+      "link": "https://www.sedaily.com/article/20036435?ref=naver",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "황소제 광주시의원, 신현동 석축 붕괴 위험 현장점검",
+      "link": "http://www.breaknews.com/1202689",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "법원, KFA 주장 조목조목 반박했다…사실상 완패→협회 \"존중하며 판결...",
+      "link": "https://www.xportsnews.com/article/2140558",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "가평군, 폭염 대비 농업인 안전물품 '3종 세트' 긴급 지원",
+      "link": "http://www.breaknews.com/1202688",
+      "pub_date": "2026-04-23T18:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "1분기 GDP 1.7% 성장… 韓경제 ‘어닝 서프라이즈’ 반도체가 견인 [韓경...",
       "link": "http://www.fnnews.com/news/202604231827308174",
@@ -255,15 +309,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 민주 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306379?division=NAVER",
-      "pub_date": "2026-04-23T18:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[#시큐리티 포커스] 파이오링크 '레질리언스 서밋'·지슨 '스마트-D' 공개...",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838824",
       "pub_date": "2026-04-23T18:00:00+09:00",
@@ -288,6 +333,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://biz.sbs.co.kr/article_hub/20000306379?division=NAVER",
+      "pub_date": "2026-04-23T18:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1743,60 +1797,6 @@
       "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
       "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316031340165",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 창조한 '깜짝 성장'",
-      "link": "http://www.econotelling.com/news/articleView.html?idxno=20177",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "코스피, 사흘 연속 사상최고치…차익 매물에 6500선 안착은 실패",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706425",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[정치家] 최휘영 문화체육관광부 장관 ③ㅣ 문화산업 재도약 총력…영화...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569782",
-      "pub_date": "2026-04-23T16:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "삼성SDS, 1분기 수익성 둔화…중동분쟁에 2분기도 우려",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298897&inflow=N",
-      "pub_date": "2026-04-23T16:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“화물연대 차량, 경찰 밟았다? 사실 아냐”…경찰청 반박",
-      "link": "https://www.munhwa.com/article/11584548?ref=naver",
-      "pub_date": "2026-04-23T16:01:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
