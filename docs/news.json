@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 19:35:29",
+  "updated": "2026-04-23 19:40:32",
   "total": 200,
   "items": [
     {
@@ -75,21 +75,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]정근식, 서울시교육감 '진보' 단일 후보로 선출",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603916",
-      "pub_date": "2026-04-23T19:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“데이팅 앱 쓰고 18만원 받으세요”…저출산에 파격 정책 내놓은 ‘이...",
       "link": "https://www.seoul.co.kr/news/international/japan/2026/04/23/20260423500039?wlog_tag3=naver",
       "pub_date": "2026-04-23T19:13:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]정근식, 서울시교육감 '진보' 단일 후보로 선출",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603916",
+      "pub_date": "2026-04-23T19:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -111,6 +111,15 @@
       "is_scoop": false
     },
     {
+      "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544152&ref=A",
+      "pub_date": "2026-04-23T19:12:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "BGF로지스, 결국 화물연대와 교섭...\"책임자 처벌, 교섭 연장 확인될때...",
       "link": "https://www.greened.kr/news/articleView.html?idxno=339734",
       "pub_date": "2026-04-23T19:11:00+09:00",
@@ -129,15 +138,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 4차 최고가격도 '동결'…휘발유 1934원·경유 1923원",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006877",
-      "pub_date": "2026-04-23T19:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 유가 떨어졌는데 또 묶었다…4차 석유 최고가격 동결",
       "link": "https://www.hankyung.com/article/2026042328847",
       "pub_date": "2026-04-23T19:08:00+09:00",
@@ -147,9 +147,27 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 4차 최고가격도 '동결'…휘발유 1934원·경유 1923원",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260423.99099006877",
+      "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "'7언더파 질주'…디펜딩 챔프 이태훈, KPGA 우리금융 첫날 선두",
       "link": "https://www.topstarnews.net/news/articleView.html?idxno=16042906",
       "pub_date": "2026-04-23T19:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
+      "pub_date": "2026-04-23T19:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -165,15 +183,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
-      "pub_date": "2026-04-23T19:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[Why?] 지선 앞두고 논란 가중되는 인천 기초의원 선거구 획정안",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723818",
       "pub_date": "2026-04-23T19:04:00+09:00",
@@ -183,11 +192,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
+      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
+      "link": "https://www.news1.kr/economy/trend/6146639",
       "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -201,11 +210,11 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
-      "link": "https://www.news1.kr/economy/trend/6146639",
+      "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
       "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1788,15 +1797,6 @@
       "title": "씨티, 올해 韓 성장률 2.9%로 상향·연말 기준금리 3% 전망",
       "link": "https://www.g-enews.com/view.php?ud=202604231555249179bb91c46fcd_1",
       "pub_date": "2026-04-23T16:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[산업 HOT 뉴스]KGM·삼성화재, 모빌리티 생태계 '동맹'…구매부터 폐차...",
-      "link": "http://www.bizwnews.com/news/articleView.html?idxno=134687",
-      "pub_date": "2026-04-23T16:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
