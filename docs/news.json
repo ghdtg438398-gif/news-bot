@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 13:30:32",
+  "updated": "2026-04-23 13:35:27",
   "total": 200,
   "items": [
+    {
+      "title": "현대차·기아, 2026 US 뉴스 '최고 하이브리드카' 7종 석권… 3년 연속 최...",
+      "link": "https://www.theguru.co.kr/news/article.html?no=100938",
+      "pub_date": "2026-04-23T13:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "기상악화 속 러시아 요트 2척 해경 도움에 울릉도로 긴급 피난",
+      "link": "https://www.nocutnews.co.kr/news/6507023?utm_source=naver&utm_medium=article&utm_campaign=20260423012951",
+      "pub_date": "2026-04-23T13:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 현대글로비스, 1분기 매출 '7조8127억원'·영업익 '5215억원'",
       "link": "https://www.news2day.co.kr/article/20260423500028",
@@ -21,6 +39,15 @@
       "is_scoop": false
     },
     {
+      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
+      "pub_date": "2026-04-23T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
       "link": "https://www.ajunews.com/view/20260423132130181",
       "pub_date": "2026-04-23T13:24:00+09:00",
@@ -30,12 +57,12 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
-      "pub_date": "2026-04-23T13:24:00+09:00",
+      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
+      "pub_date": "2026-04-23T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -50,15 +77,6 @@
     {
       "title": "[속보]LG디스플레이, 1분기 영업이익 1467억원…전년比 338% 증가",
       "link": "https://www.ajunews.com/view/20260423132022180",
-      "pub_date": "2026-04-23T13:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
       "pub_date": "2026-04-23T13:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1783,24 +1801,6 @@
       "source_name": "조선일보",
       "is_breaking": false,
       "is_scoop": false
-    },
-    {
-      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'정동영 北 농축시설 공개 발언' 외통위 단독 소집한 野",
-      "link": "https://www.news1.kr/photos/7871427",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     }
   ]
 }
