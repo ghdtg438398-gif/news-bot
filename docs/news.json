@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 22:55:31",
+  "updated": "2026-04-23 23:00:41",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]'숨 고르는' 뉴욕증시, 사상 최고 뒤 하락",
+      "link": "https://news.mtn.co.kr/news-detail/2026042322544026513",
+      "pub_date": "2026-04-23T22:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]뉴욕증시, 이란전 불확실성에 하락 출발…다우 0.41%↓",
       "link": "https://www.newsis.com/view/NISX20260423_0003604380",
@@ -85,19 +94,19 @@
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://www.hankyung.com/article/2026042330587",
+      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
       "title": "[속보] 트럼프 \"이란이 합의할 때까지 호르무즈 철통 봉쇄할 것\"",
-      "link": "https://news.jtbc.co.kr/article/NB12295586?influxDiv=NAVER",
+      "link": "https://www.hankyung.com/article/2026042330587",
       "pub_date": "2026-04-23T22:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -129,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "'노시환 복귀 솔로포' 한화, LG 제압하고 2연패 탈출",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931709",
+      "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
       "pub_date": "2026-04-23T22:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "4번타자로 돌아온 '307억' 노시환, 어땠나[스한 이슈人]",
-      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931708",
+      "title": "'노시환 복귀 솔로포' 한화, LG 제압하고 2연패 탈출",
+      "link": "https://sports.hankooki.com/news/articleView.html?idxno=6931709",
       "pub_date": "2026-04-23T22:10:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -183,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
-      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.fnnews.com/news/202604232204386486",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -192,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.fnnews.com/news/202604232204386486",
+      "title": "[속보]트럼프 \"호르무즈 해협 기뢰 설치 선박에 격침 명령\"",
+      "link": "https://www.mt.co.kr/world/2026/04/23/2026042322043850164",
       "pub_date": "2026-04-23T22:06:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -237,21 +246,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
-      "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
-      "pub_date": "2026-04-23T22:01:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "중동 전쟁 ‘화장품 업계’ 타격…남원 특화단지 가보니",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544460&ref=A",
       "pub_date": "2026-04-23T22:01:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1792,15 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://www.mk.co.kr/article/12025546",
-      "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
     }
   ]
 }
