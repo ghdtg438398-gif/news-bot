@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 19:15:34",
+  "updated": "2026-04-23 19:20:31",
   "total": 200,
   "items": [
+    {
+      "title": "[단독]외국선사 한국인들 생존전쟁…냉동고 텅 비고 물도 고갈",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525678",
+      "pub_date": "2026-04-23T19:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "씨티 \"올해 韓 성장률 2.2→2.9%로 상향...하반기 금리 3%까지 인상 전망...",
       "link": "https://www.betanews.net/article/view/beta202604230105",
@@ -39,7 +48,7 @@
       "is_scoop": true
     },
     {
-      "title": "[속보] 서울시교육감 진보진영 단일후보 정근식 선출",
+      "title": "[속보] 서울시교육감 진보진영 단일후보 정근식 선출 .. 61.58% 득표",
       "link": "https://www.edupress.kr/news/articleView.html?idxno=30173",
       "pub_date": "2026-04-23T19:12:00+09:00",
       "source_id": "yna",
@@ -93,15 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
-      "pub_date": "2026-04-23T19:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 석유 최고가격 동결…휘발유 1934원·경유 1923원",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838833",
       "pub_date": "2026-04-23T19:04:00+09:00",
@@ -111,21 +111,21 @@
       "is_scoop": false
     },
     {
+      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[Why?] 지선 앞두고 논란 가중되는 인천 기초의원 선거구 획정안",
       "link": "https://www.joongboo.com/news/articleView.html?idxno=363723818",
       "pub_date": "2026-04-23T19:04:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
-      "link": "https://www.news1.kr/economy/trend/6146639",
-      "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -143,6 +143,15 @@
       "pub_date": "2026-04-23T19:00:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 4차 석유 최고가격 '동결'…휘발유 1934원·경유 1923원",
+      "link": "https://www.news1.kr/economy/trend/6146639",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -201,6 +210,15 @@
       "is_scoop": false
     },
     {
+      "title": "[더in터뷰] 생방 중 '김남준·송영길 공천' 속보에 박찬대 반응이?",
+      "link": "https://news.jtbc.co.kr/article/NB12295510?influxDiv=NAVER",
+      "pub_date": "2026-04-23T18:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "닷컴 버블 때보다 큰 변동성…반도체는 이미 버블 조짐[오미주]",
       "link": "https://www.mt.co.kr/world/2026/04/23/2026042317485241000",
       "pub_date": "2026-04-23T18:44:00+09:00",
@@ -237,20 +255,20 @@
       "is_scoop": true
     },
     {
-      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
-      "link": "http://www.breaknews.com/1202626",
-      "pub_date": "2026-04-23T18:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[이슈플러스] 트럼프 \"주말 내 협상 가능\"...호르무즈 두고 강경 대치",
       "link": "https://www.ytn.co.kr/_ln/0104_202604231832032732",
       "pub_date": "2026-04-23T18:32:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "포항 선거구 재편 ‘지각변동’…공천 경쟁·정치지형 요동",
+      "link": "http://www.breaknews.com/1202626",
+      "pub_date": "2026-04-23T18:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -1779,24 +1797,6 @@
       "title": "[속보]‘살인 혐의’ CU화물연대 사망 사고 탑차 운전자·경찰 상해 조합...",
       "link": "https://www.khan.co.kr/article/202604231618001",
       "pub_date": "2026-04-23T16:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 원·달러 환율 '1481원 '...코스피 사흘 연속 '최고치' 마감",
-      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423508&PRO_CODE=99",
-      "pub_date": "2026-04-23T16:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억...전년비 13% ↑",
-      "link": "https://www.news2day.co.kr/article/20260423500204",
-      "pub_date": "2026-04-23T16:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
