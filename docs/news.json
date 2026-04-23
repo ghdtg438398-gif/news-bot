@@ -1,10 +1,46 @@
 {
-  "updated": "2026-04-23 10:45:33",
+  "updated": "2026-04-23 10:50:30",
   "total": 200,
   "items": [
     {
-      "title": "[속보]서울 송파구 판자촌에 ‘큰 불’…소방 대응 1단계",
-      "link": "https://www.munhwa.com/article/11584412?ref=naver",
+      "title": "韓, MSCI 선진국 편입 노력…올해 관찰대상국 진입?",
+      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300863",
+      "pub_date": "2026-04-23T10:48:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% 성장…수출·설비투자가 회복 견인",
+      "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36210",
+      "pub_date": "2026-04-23T10:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "중동발 악재 뚫고 5년 반 만에 최고 성장…코스피도 '반도체·밸류업' 훈...",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4617053",
+      "pub_date": "2026-04-23T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "GDP 서프라이즈에 신현송 \"한국 경제의 복원력 보여줘\"",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411194",
+      "pub_date": "2026-04-23T10:44:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日닛케이지수, 사상 첫 ‘6만 선’ 돌파… “트럼프發 중동 훈풍...",
+      "link": "https://www.g-enews.com/view.php?ud=202604231039383291e7e8286d56_1",
       "pub_date": "2026-04-23T10:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +57,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日닛케이지수, 사상 첫 ‘6만 선’ 돌파… “트럼프發 중동 훈풍...",
-      "link": "https://www.g-enews.com/view.php?ud=202604231039383291e7e8286d56_1",
+      "title": "[속보]서울 송파구 판자촌에 ‘큰 불’…소방 대응 1단계",
+      "link": "https://www.munhwa.com/article/11584412?ref=naver",
       "pub_date": "2026-04-23T10:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,8 +66,8 @@
       "is_scoop": false
     },
     {
-      "title": "GDP 1.7% '깜짝 성장'…정부·한은, 정책 공조 강화",
-      "link": "http://www.newsprime.co.kr/news/article.html?no=731255",
+      "title": "[오늘 외환딜러 환율 예상레인지]",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411190",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +84,8 @@
       "is_scoop": false
     },
     {
-      "title": "[오늘 외환딜러 환율 예상레인지]",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411190",
+      "title": "GDP 1.7% '깜짝 성장'…정부·한은, 정책 공조 강화",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=731255",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "野 단독 개최한 국방위원회 전체회의",
-      "link": "https://www.news1.kr/photos/7871467",
+      "title": "국회 국방위원회, 국민의힘 단독 소집",
+      "link": "https://www.news1.kr/photos/7871474",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +102,8 @@
       "is_scoop": true
     },
     {
-      "title": "국회 국방위원회, 국민의힘 단독 소집",
-      "link": "https://www.news1.kr/photos/7871474",
+      "title": "野 단독 개최한 국방위원회 전체회의",
+      "link": "https://www.news1.kr/photos/7871467",
       "pub_date": "2026-04-23T10:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,8 +138,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국경제 1분기 1.7% 성장... 반도체 수출 증가에 '어닝서프라이즈'",
-      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=129308",
+      "title": "[GDP 효과] 하반기 네거티브 아웃풋갭 해소…연내 금리인상 근거 가능성",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411189",
       "pub_date": "2026-04-23T10:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +147,8 @@
       "is_scoop": false
     },
     {
-      "title": "[GDP 효과] 하반기 네거티브 아웃풋갭 해소…연내 금리인상 근거 가능성",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411189",
+      "title": "한국경제 1분기 1.7% 성장... 반도체 수출 증가에 '어닝서프라이즈'",
+      "link": "http://www.efnews.co.kr/news/articleView.html?idxno=129308",
       "pub_date": "2026-04-23T10:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -156,15 +192,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 국세청, 1인 기획사 유명 연예인 '전방위' 세무조사…왜?",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28118",
-      "pub_date": "2026-04-23T10:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "새벽 시간에 감쪽같이 사라졌다…중고차 사왔는데 반전",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529291&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T10:36:00+09:00",
@@ -172,6 +199,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 국세청, 1인 기획사 유명 연예인 '전방위' 세무조사…왜?",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28118",
+      "pub_date": "2026-04-23T10:36:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 법원, '설탕 가격 담합' CJ제일제당·삼양에 각 벌금 2억 원 선고...",
@@ -228,6 +264,15 @@
       "is_scoop": false
     },
     {
+      "title": "'정동영 北 농축시설 공개 발언' 외통위 단독 소집한 野",
+      "link": "https://www.news1.kr/photos/7871427",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "외교통일위원회 단독 소집한 국민의힘",
       "link": "https://www.news1.kr/photos/7871428",
       "pub_date": "2026-04-23T10:32:00+09:00",
@@ -237,13 +282,13 @@
       "is_scoop": true
     },
     {
-      "title": "'정동영 北 농축시설 공개 발언' 외통위 단독 소집한 野",
-      "link": "https://www.news1.kr/photos/7871427",
+      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
       "pub_date": "2026-04-23T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "野 외통위 단독 소집 '정동영 불출석'",
@@ -262,15 +307,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     },
     {
       "title": "1분기 GDP 깜짝 성장…올해 반도체 호황 vs 중동 충격 '무게추 싸움'(종...",
@@ -327,8 +363,8 @@
       "is_scoop": false
     },
     {
-      "title": "AI 전면에 내세운 '월드IT쇼2026'…이통3사·삼성·LG 총출동 [르포]",
-      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549994",
+      "title": "AI 실용화 시대, 우리의 승부처는 '현장 지능'이다",
+      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78260",
       "pub_date": "2026-04-23T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -336,8 +372,8 @@
       "is_scoop": false
     },
     {
-      "title": "AI 실용화 시대, 우리의 승부처는 '현장 지능'이다",
-      "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78260",
+      "title": "AI 전면에 내세운 '월드IT쇼2026'…이통3사·삼성·LG 총출동 [르포]",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=549994",
       "pub_date": "2026-04-23T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -975,8 +1011,8 @@
       "is_scoop": false
     },
     {
-      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
-      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
+      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -984,8 +1020,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동發 악재에도 반도체 호조에 1Q 성장률 1.7%…5년 6개월 만에 최고",
-      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657220",
+      "title": "1분기 GDP 경제성장률 1.7%…5년 6개월 만 최고",
+      "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=302504",
       "pub_date": "2026-04-23T09:54:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-23T09:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 상승세 지속…장초반 6,500선 첫 돌파",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260423090654B8H",
-      "pub_date": "2026-04-23T09:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'무명전설' 최우진, 순위보다 값진 퇴장",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4615691",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상 최고치",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543569&ref=A",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상최고치 경신",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029721002&code=61141111&cp=nv",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
       "is_breaking": true,
       "is_scoop": false
     }
