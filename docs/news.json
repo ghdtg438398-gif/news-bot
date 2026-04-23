@@ -1,7 +1,34 @@
 {
-  "updated": "2026-04-23 19:50:31",
+  "updated": "2026-04-23 19:55:29",
   "total": 200,
   "items": [
+    {
+      "title": "‘소나무 에이즈’ 1그루…청정구역 뚫렸다",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525700",
+      "pub_date": "2026-04-23T19:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "\"장특공제 폐지하면 서울시민 절반 피해\" 국힘 주장 '대체로 거짓' [오마...",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227783&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-23T19:51:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독]특전사 조형물에 3급 기밀 공개 ‘논란’",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525698",
+      "pub_date": "2026-04-23T19:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "\"내 손가락 베였다\" 신고에 가보니…거실엔 흉기 찔린 지인",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042318430094322",
@@ -12,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
+      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -21,8 +48,8 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
+      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -39,21 +66,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 드디어 터졌다. 1군 복귀 노시환, 135m 초대형 홈런, 동점포로 잠...",
-      "link": "http://www.osen.co.kr/article/G1112787523",
-      "pub_date": "2026-04-23T19:40:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "반도체 홀로 이끈 1.7% 성장…건설·제조업은 올스톱 위기",
       "link": "https://www.imaeil.com/page/view/2026042308581781420",
       "pub_date": "2026-04-23T19:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 드디어 터졌다. 1군 복귀 노시환, 135m 초대형 홈런, 동점포로 잠...",
+      "link": "http://www.osen.co.kr/article/G1112787523",
+      "pub_date": "2026-04-23T19:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -102,21 +129,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 정근식, 서울교육감 진보 단일 후보 확정",
-      "link": "https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T19:20:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[亞증시-종합] 日·대만 최고치 경신 후 차익실현에 하락",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411363",
       "pub_date": "2026-04-23T19:20:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 정근식, 서울교육감 진보 단일 후보 확정",
+      "link": "https://www.chosun.com/national/education/2026/04/23/WM7P5LUCVVA6XJJZ2NSTO3YIT4/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+      "pub_date": "2026-04-23T19:20:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -264,20 +291,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
-      "link": "https://www.newsis.com/view/NISX20260423_0003604141",
-      "pub_date": "2026-04-23T19:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 석유 최고가격도 동결…휘발유 리터당 1,934원·경유 1,923원",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544108&ref=A",
       "pub_date": "2026-04-23T19:00:00+09:00",
       "source_id": "kbs",
       "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]4차 석유 최고가격 또 동결…휘발유 1934원·경유 1923원",
+      "link": "https://www.newsis.com/view/NISX20260423_0003604141",
+      "pub_date": "2026-04-23T19:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -1773,33 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KB증권, 올 1분기 순이익 3502억원…전년 동기比 92.8%↑",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514324",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "(단독)라스베이거스 잔혹사…현대차증권 이중 변론·강원랜드 112억 전손",
-      "link": "http://www.newstomato.com/ReadNews.aspx?no=1298862&inflow=N",
-      "pub_date": "2026-04-23T16:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "코스피, 또 ‘사상 최고치’…장중 한때 6500 돌파",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316365371155",
-      "pub_date": "2026-04-23T16:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
