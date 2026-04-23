@@ -1,7 +1,79 @@
 {
-  "updated": "2026-04-23 22:00:57",
+  "updated": "2026-04-23 22:05:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 트럼프, 호르무즈 기뢰 선박 '격침' 지시",
+      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1154705",
+      "pub_date": "2026-04-23T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230081",
+      "pub_date": "2026-04-23T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.imaeil.com/page/view/2026042322013187038",
+      "pub_date": "2026-04-23T22:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8544462&ref=A",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 \"호르무즈 기뢰 설치하는 모든 선박 겨냥 사격 명령\"",
+      "link": "https://www.nocutnews.co.kr/news/6507415?utm_source=naver&utm_medium=article&utm_campaign=20260423100056",
+      "pub_date": "2026-04-23T22:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00008&news_seq_no=5190022",
+      "pub_date": "2026-04-23T22:00:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[김종석의 오프닝]삼성전자 노조 집회…약 4만 명 운집",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525718",
+      "pub_date": "2026-04-23T22:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]트럼프 “호르무즈 해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "https://www.khan.co.kr/article/202604232159001",
+      "pub_date": "2026-04-23T21:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치 선박 '사격' 명령\"",
       "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202604230696&t=NN",
@@ -102,15 +174,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260423.99099006966",
-      "pub_date": "2026-04-23T21:53:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
       "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390353.html",
       "pub_date": "2026-04-23T21:53:00+09:00",
@@ -120,9 +183,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260423215132JIz",
-      "pub_date": "2026-04-23T21:52:00+09:00",
+      "title": "[속보] 트럼프 “호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0400&key=20260423.99099006966",
+      "pub_date": "2026-04-23T21:53:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -135,6 +198,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 트럼프 \"호르무즈해협 기뢰 설치하는 모든 선박 겨냥 사격 명령...",
+      "link": "http://www.yonhapnewstv.co.kr/AKR20260423215132JIz",
+      "pub_date": "2026-04-23T21:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1729,78 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "[속보] 제주도의원 민주당 경선 '박호형.강동우' 승리",
-      "link": "https://www.headlinejeju.co.kr/news/articleView.html?idxno=591315",
-      "pub_date": "2026-04-23T17:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 군산 지곡동 건물 화재발생...\"차량 우회\"",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564816",
-      "pub_date": "2026-04-23T17:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "횡성지역 원로, 김명기 군수 불출마 요구",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046499",
-      "pub_date": "2026-04-23T17:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 세종시의회 비례대표 '2석→3석 확대' 특별법 국회 본회의 통과",
-      "link": "https://news.skbroadband.com/news/articleView.html?idxno=225321",
-      "pub_date": "2026-04-23T17:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '전세사기 때 보증금 최소 3분의 1 보장' 법안, 본회의 통과",
-      "link": "https://news.jtbc.co.kr/article/NB12295549?influxDiv=NAVER",
-      "pub_date": "2026-04-23T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[채권마감] 패닉장, 주요금리 3주일만 최고…‘GDP 서프라이즈’",
-      "link": "https://www.etoday.co.kr/news/view/2578653",
-      "pub_date": "2026-04-23T17:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[종합] '거침없이 하이킥' 코스피, 장중 6,500 돌파... '7천피'도 겨냥",
-      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=868526",
-      "pub_date": "2026-04-23T17:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[자막뉴스] \"버스 앞지르려다\" '12명 사상' 70대…재판부 \"집행유예\" 판...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530083&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T17:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
