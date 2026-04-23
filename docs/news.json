@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 21:20:29",
+  "updated": "2026-04-23 21:25:30",
   "total": 200,
   "items": [
+    {
+      "title": "(단독) 경찰, 춘천시청 압수수색..인사 청탁 의혹",
+      "link": "https://www.g1tv.co.kr/news?mid=1_207_6&newsid=342739",
+      "pub_date": "2026-04-23T21:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
     {
       "title": "코스피, 사상 처음 6,500선 돌파…반도체 호조가 주도",
       "link": "https://www.tokenpost.kr/news/market/352588",
@@ -1788,15 +1797,6 @@
       "title": "전쟁 뚫은 '반도체'…1분기 GDP '66개월만' 최고치",
       "link": "http://www.newstomato.com/ReadNews.aspx?no=1298932&inflow=N",
       "pub_date": "2026-04-23T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'GDP 급반등'에 국고채 금리 급등…3년물 연 3.458%(종합)",
-      "link": "https://www.yna.co.kr/view/AKR20260423155351008?input=1195m",
-      "pub_date": "2026-04-23T17:03:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
