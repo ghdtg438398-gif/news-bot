@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 14:55:40",
+  "updated": "2026-04-23 15:00:39",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 국민의힘, '정동영 해임건의안 제출' 당론 채택",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04651046645419072",
+      "pub_date": "2026-04-23T14:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
+      "link": "http://www.inews24.com/view/1962902",
+      "pub_date": "2026-04-23T14:59:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 ‘해든이’ 학대·살해 친모, 무기징역 선고",
+      "link": "https://biz.heraldcorp.com/article/10724179?ref=naver",
+      "pub_date": "2026-04-23T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "대웅제약 거점도매 갈등 확산…유통 효율화 vs 시장 주도권 '충돌'",
+      "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=137260",
+      "pub_date": "2026-04-23T14:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 주호영, 대구시장 선거 불출마…\"기대에 못미쳐 송구\"",
+      "link": "https://news.jtbc.co.kr/article/NB12295498?influxDiv=NAVER",
+      "pub_date": "2026-04-23T14:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]주호영 \"대구시장 선거 불출마…法결정 매우 아쉽다\"",
       "link": "https://www.nocutnews.co.kr/news/6507109?utm_source=naver&utm_medium=article&utm_campaign=20260423025252",
@@ -57,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.donga.com/news/Society/article/all/20260423/133799074/1",
+      "title": "[속보]4개월 살다 간 여수 영아살인사건 친모 ‘무기징역’",
+      "link": "https://www.khan.co.kr/article/202604231451001",
       "pub_date": "2026-04-23T14:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]4개월 살다 간 여수 영아살인사건 친모 ‘무기징역’",
-      "link": "https://www.khan.co.kr/article/202604231451001",
+      "title": "[속보]생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.donga.com/news/Society/article/all/20260423/133799074/1",
       "pub_date": "2026-04-23T14:51:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -84,15 +129,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, 삼성웰스토리 '사내급식 몰아주기' 공정위 과징금 취소",
-      "link": "https://www.dailian.co.kr/news/view/1637045/?sc=Naver",
-      "pub_date": "2026-04-23T14:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 파수 주가 상한가 터치…52주 신고가 새로 써",
       "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569772",
       "pub_date": "2026-04-23T14:50:00+09:00",
@@ -102,17 +138,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]\"관세·이란 전쟁 직격탄\"...현대차, 1분기 영업익 30.8%↓",
-      "link": "https://magazine.hankyung.com/business/article/202604231964b",
-      "pub_date": "2026-04-23T14:49:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
+      "title": "[속보] 법원, 삼성웰스토리 '사내급식 몰아주기' 공정위 과징금 취소",
+      "link": "https://www.dailian.co.kr/news/view/1637045/?sc=Naver",
+      "pub_date": "2026-04-23T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, ‘사내급식 몰아주기’ 삼성웰스토리 공정위 과징금 취소",
-      "link": "https://www.sedaily.com/article/20036258?ref=naver",
+      "title": "[속보] 법원, ‘급식 몰아주기’ 공정위 2349억 삼성웰스토리 과징금 취...",
+      "link": "https://www.sedaily.com/article/20036256?ref=naver",
       "pub_date": "2026-04-23T14:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,9 +174,27 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, ‘급식 몰아주기’ 공정위 2349억 삼성웰스토리 과징금 취...",
-      "link": "https://www.sedaily.com/article/20036256?ref=naver",
+      "title": "[속보] 법원, ‘사내급식 몰아주기’ 삼성웰스토리 공정위 과징금 취소",
+      "link": "https://www.sedaily.com/article/20036258?ref=naver",
       "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"관세·이란 전쟁 직격탄\"...현대차, 1분기 영업익 30.8%↓",
+      "link": "https://magazine.hankyung.com/business/article/202604231964b",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 '해든이' 학대 살해한 친모에 무기징역",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564621",
+      "pub_date": "2026-04-23T14:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -153,6 +207,24 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 생후 4개월 '해든이' 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.ajunews.com/view/20260423102524932",
+      "pub_date": "2026-04-23T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "법원, “문체부 정몽규 중징계 요구 정당”…축구협회 패소",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/106867",
+      "pub_date": "2026-04-23T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -171,33 +243,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 '해든이' 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.ajunews.com/view/20260423102524932",
-      "pub_date": "2026-04-23T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 '해든이' 학대 살해한 친모에 무기징역",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564621",
-      "pub_date": "2026-04-23T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "법원, “문체부 정몽규 중징계 요구 정당”…축구협회 패소",
-      "link": "https://www.smarttoday.co.kr/ko-kr/articles/106867",
-      "pub_date": "2026-04-23T14:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -687,8 +732,8 @@
       "is_scoop": false
     },
     {
-      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
+      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
+      "link": "https://www.hangyo.com/news/article.html?no=107487",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -696,8 +741,8 @@
       "is_scoop": false
     },
     {
-      "title": "‘교육활동 관련 소송 국가 책임제’ 입법 추진",
-      "link": "https://www.hangyo.com/news/article.html?no=107487",
+      "title": "법원 \"문체부, 정몽규 중징계 요구 정당\"…축구협회 행정소송 1심 패소",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734147",
       "pub_date": "2026-04-23T14:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -759,15 +804,6 @@
       "is_scoop": true
     },
     {
-      "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
-      "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
-      "pub_date": "2026-04-23T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[단독] 4급 유럽 출장에 '976만원' 비즈니스석 제공한 국세청…2인 항공...",
       "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28131",
       "pub_date": "2026-04-23T14:26:00+09:00",
@@ -775,6 +811,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
+    },
+    {
+      "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
     },
     {
       "title": "창원 장애인 주차구역 단계적 정비 추진",
@@ -1752,51 +1797,6 @@
       "title": "日 4월 제조업 PMI 4년래 최고 기록…\"중동 전쟁에 지속 불투명\"(상보)",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411250",
       "pub_date": "2026-04-23T12:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]외국인 노동자 항문 부위에 산업용 에어건 분사해 장기 파열 등 중...",
-      "link": "https://www.kwnews.co.kr/page/view/2026042350024800000",
-      "pub_date": "2026-04-23T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'어린이집 직원용 화장실 몰카' 원장 남편에 징역 3년 구형",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529603&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T12:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'주차장 입구막기-공영주차장 알박기' 최대 500만원 과태료 문다",
-      "link": "http://www.breaknews.com/1202540",
-      "pub_date": "2026-04-23T12:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 이끈 '소득 급등'... 1분기 GDI 7.5% 폭증",
-      "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=885005",
-      "pub_date": "2026-04-23T12:34:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "무신사, 성수에 '국내 최대' 메가스토어 연다…패션·뷰티 총집결",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514044",
-      "pub_date": "2026-04-23T12:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
