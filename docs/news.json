@@ -1,7 +1,25 @@
 {
-  "updated": "2026-04-23 21:30:35",
+  "updated": "2026-04-23 21:35:31",
   "total": 200,
   "items": [
+    {
+      "title": "[뉴스 브리핑] '제발 쏘지 마' 긴급 무전… 호르무즈 긴장 속 한국 유조...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302348",
+      "pub_date": "2026-04-23T21:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 서울 미아동서 인도로 돌진한 승용차에 20대 여성 부상…“졸음...",
+      "link": "https://www.dt.co.kr/article/12059264?ref=naver",
+      "pub_date": "2026-04-23T21:29:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[뉴스공감] 하이닉스가 더 준다? 삼성전자 노조, 4만 집결",
       "link": "https://news.cpbc.co.kr/article/1172405?division=NAVER",
@@ -1782,24 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] \"집 밖으로 따라 나온 엄마, 살기 느껴져서\"…70대 모친 흉기살해...",
-      "link": "https://www.imaeil.com/page/view/2026042317050845228",
-      "pub_date": "2026-04-23T17:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "법인 돈 빌려 117억 아파트 매수…서울·경기 이상거래 746건 적발",
-      "link": "https://www.asiatime.co.kr/article/20260423500391",
-      "pub_date": "2026-04-23T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
