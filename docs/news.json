@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 08:55:26",
+  "updated": "2026-04-23 09:00:42",
   "total": 200,
   "items": [
+    {
+      "title": "첫 분기 성장률, 전망치의 갑절···반도체 수출 얼마였길래 [상보]",
+      "link": "http://www.fnnews.com/news/202604230736068555",
+      "pub_date": "2026-04-23T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "한국 1분기 GDP 1.7% 증가, 반도체 수출 호조가 성장 견인",
+      "link": "https://www.tokenpost.kr/news/economy/352328",
+      "pub_date": "2026-04-23T08:58:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'지옥주택' 만든 지주택 폐해...'알박기·조합 눈속임' 근절 대책 나와",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119161",
+      "pub_date": "2026-04-23T08:56:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이 대통령 “국제사회 평화 소중함 절감”",
+      "link": "https://www.segye.com/newsView/20260423503956?OutUrl=naver",
+      "pub_date": "2026-04-23T08:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 성장률 1.7%…반도체 수출 호조로 '깜짝 성장'",
+      "link": "https://news.tf.co.kr/read/economy/2316238.htm",
+      "pub_date": "2026-04-23T08:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "韓경제, 1분기 1.7% '깜짝 반등'...5년 6개월만 최고치",
+      "link": "https://www.jibs.co.kr/news/articles/articlesDetail/60403?feed=na",
+      "pub_date": "2026-04-23T08:54:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "신현송·구윤철, 정책 공조 필요성 공감…\"소통 잘 할 것\"(종합)",
+      "link": "https://www.newsis.com/view/NISX20260423_0003602853",
+      "pub_date": "2026-04-23T08:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 반도체 호황에 1분기 GDP 1.7% 성장…5년 6개월 만에 최고",
       "link": "https://magazine.hankyung.com/business/article/202604230632b",
@@ -39,8 +102,8 @@
       "is_scoop": false
     },
     {
-      "title": "한국 경제 1분기 1.7% '깜짝 성장'... 반도체 수출·투자 반등에 경제 활...",
-      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564134",
+      "title": "‘반도체 호황’ 전쟁 악재 눌렀다…1분기 韓경제 1.7% 급반등",
+      "link": "https://www.joongang.co.kr/article/25422644",
       "pub_date": "2026-04-23T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +111,8 @@
       "is_scoop": false
     },
     {
-      "title": "중동발 악재 넘은 1분기 한국 경제, 반도체 수출 호조에 1.7% 급반등",
-      "link": "https://www.joongang.co.kr/article/25422644",
+      "title": "한국 경제 1분기 1.7% '깜짝 성장'... 반도체 수출·투자 반등에 경제 활...",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3564134",
       "pub_date": "2026-04-23T08:48:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -102,21 +165,21 @@
       "is_scoop": false
     },
     {
-      "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
-      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
-      "pub_date": "2026-04-23T08:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]SK하이닉스 1분기 영업익 400% 넘게 폭증, 37.6조 ‘역대 최대’",
       "link": "https://www.kwnews.co.kr/page/view/2026042350005000000",
       "pub_date": "2026-04-23T08:38:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "수출·투자 '쌍끌이'…1분기 한국 경제 1.7% '깜짝 성장'",
+      "link": "https://www.goodnews1.com/news/articleView.html?idxno=459114",
+      "pub_date": "2026-04-23T08:38:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -138,15 +201,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 비수기 뚫은 SK하이닉스, 1Q '어닝 서프라이즈'···매출 50조 첫...",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422206",
-      "pub_date": "2026-04-23T08:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "\"사망사고 무마해 주겠다\" 배달기사 가족에 7500만원 뜯은 대행업체 사...",
       "link": "https://www.mt.co.kr/society/2026/04/23/2026042308032752068",
       "pub_date": "2026-04-23T08:37:00+09:00",
@@ -162,6 +216,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 비수기 뚫은 SK하이닉스, 1Q '어닝 서프라이즈'···매출 50조 첫...",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422206",
+      "pub_date": "2026-04-23T08:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1736,69 +1799,6 @@
       "pub_date": "2026-04-23T05:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]뉴욕증시, 일제히 상승 마감…나스닥 사상 최고 경신",
-      "link": "https://view.asiae.co.kr/article/2026042305130089437",
-      "pub_date": "2026-04-23T05:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 테슬라 1분기 매출액 '기대 이하', 순익은 예상치 상회",
-      "link": "https://www.newspim.com/news/view/20260423000035",
-      "pub_date": "2026-04-23T05:11:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 휴전 연장에 뉴욕 증시 사흘 만에 사상 최고치 경신",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306089?division=NAVER",
-      "pub_date": "2026-04-23T05:08:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]휴전 연장 주시하며 뉴욕증시, 상승 마감…나스닥 사상 최고치",
-      "link": "https://www.newsis.com/view/NISX20260423_0003602638",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 테슬라 실적 예상 상회, 시간외서 4% 급등",
-      "link": "https://www.news1.kr/world/usa-canada/6145892",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 마이크론-샌디스크 모두 8% 이상 폭등",
-      "link": "https://www.news1.kr/world/usa-canada/6145888",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "4월 23일 경제 캘린더",
-      "link": "https://www.ytn.co.kr/_ln/0102_202604230507225620",
-      "pub_date": "2026-04-23T05:07:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
       "is_breaking": false,
       "is_scoop": false
     }
