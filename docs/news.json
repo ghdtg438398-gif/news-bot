@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-23 19:55:29",
+  "updated": "2026-04-23 20:00:39",
   "total": 200,
   "items": [
     {
@@ -39,8 +39,8 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
-      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
+      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
+      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -48,8 +48,8 @@
       "is_scoop": true
     },
     {
-      "title": "'디펜딩 챔피언' 이태훈, 우리금융 챔피언십 1R 단독 선두",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008530396&plink=ORI&cooper=NAVER",
+      "title": "[단독] 바다로 풍덩, 헤엄쳐 도주…불법체류자 놓친 해경",
+      "link": "http://www.mbn.co.kr/pages/news/newsView.php?news_seq_no=5189980",
       "pub_date": "2026-04-23T19:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -255,21 +255,21 @@
       "is_scoop": false
     },
     {
-      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
-      "pub_date": "2026-04-23T19:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 4차 석유 최고가격 동결…휘발유 1934원·경유 1923원",
       "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838833",
       "pub_date": "2026-04-23T19:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"성장률 3% 눈앞\"…씨티, 韓 전망 2.9%로 상향",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706464",
+      "pub_date": "2026-04-23T19:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
