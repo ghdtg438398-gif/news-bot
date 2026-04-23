@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 16:15:30",
+  "updated": "2026-04-23 16:20:38",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 화물연대 조합원 차로 치어 사망케 한 화물기사 구속",
+      "link": "https://www.hankookilbo.com/news/article/A2026042310220000543?did=NA",
+      "pub_date": "2026-04-23T16:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]CU화물연대 조합원 사망 운전자·경찰에 돌진한 조합원 구속",
+      "link": "https://www.khan.co.kr/article/202604231618001",
+      "pub_date": "2026-04-23T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "모사오(Mosawo), 6월 첫 내한 공연 개최",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=533027",
+      "pub_date": "2026-04-23T16:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 삼성바이오에피스, 1분기 영업익 1440억...전년비 13% ↑",
+      "link": "https://www.news2day.co.kr/article/20260423500204",
+      "pub_date": "2026-04-23T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 원·달러 환율 '1481원 '...코스피 사흘 연속 '최고치' 마감",
+      "link": "https://www.cjb.co.kr/home/sub.php?menukey=61&mod=view&P_NO=260423508&PRO_CODE=99",
+      "pub_date": "2026-04-23T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 화물연대 조합원 차로 친 트럭 기사 구속",
+      "link": "https://www.hani.co.kr/arti/area/yeongnam/1255558.html",
+      "pub_date": "2026-04-23T16:16:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "코스피 또 '사상최고', 장중 6500 돌파도…'7천피'도 넘본다(종합)",
+      "link": "https://www.yna.co.kr/view/AKR20260423084051008?input=1195m",
+      "pub_date": "2026-04-23T16:15:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "[KFE 유통로그]이마트·신라면세점·신세계백화점",
       "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657249",
@@ -30,6 +93,15 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://news.jtbc.co.kr/article/NB12295520?influxDiv=NAVER",
+      "pub_date": "2026-04-23T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
       "link": "https://www.imaeil.com/page/view/2026042315315170096",
       "pub_date": "2026-04-23T16:13:00+09:00",
@@ -44,6 +116,15 @@
       "pub_date": "2026-04-23T16:12:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "혼다, 23년 만에 자동차사업 철수…모터사이클·AS는 유지",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543968&ref=A",
+      "pub_date": "2026-04-23T16:11:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -120,8 +201,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
-      "link": "https://www.munhwa.com/article/11584560?ref=naver",
+      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
+      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -129,8 +210,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
-      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
+      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
+      "link": "https://www.munhwa.com/article/11584560?ref=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -210,6 +291,15 @@
       "is_scoop": false
     },
     {
+      "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
+      "pub_date": "2026-04-23T16:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "코스피, 사흘 연속 사상최고치…차익 매물에 6500선 안착은 실패",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706425",
       "pub_date": "2026-04-23T16:04:00+09:00",
@@ -225,15 +315,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "70대 노모 흉기 살해한 20대 아들…\"왕족 놀이라 생각했다\"",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042315434569143",
-      "pub_date": "2026-04-23T16:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -255,15 +336,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.hankyung.com/article/2026042322797",
-      "pub_date": "2026-04-23T16:01:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "“화물연대 차량, 경찰 밟았다? 사실 아냐”…경찰청 반박",
       "link": "https://www.munhwa.com/article/11584548?ref=naver",
       "pub_date": "2026-04-23T16:01:00+09:00",
@@ -273,11 +345,47 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.hankyung.com/article/2026042322797",
+      "pub_date": "2026-04-23T16:01:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "\"내 집처럼 푸근하다!\" 中 최고위급 사로잡은 韓 여성 비서실장, 비장의...",
       "link": "https://radio.ytn.co.kr/program/?f=2&id=108519&s_mcd=0433&s_hcd=01",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "KB증권, 1분기 순익 3478억…전년比 93.3%↑",
+      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119254",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
+      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
     },
@@ -306,33 +414,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "KB증권, 1분기 순익 3478억…전년比 93.3%↑",
-      "link": "http://www.popcornnews.net/news/articleView.html?idxno=119254",
-      "pub_date": "2026-04-23T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
-      "pub_date": "2026-04-23T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
-      "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
-      "pub_date": "2026-04-23T16:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -444,8 +525,8 @@
       "is_scoop": false
     },
     {
-      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
-      "link": "https://www.ajunews.com/view/20260423151911517",
+      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
+      "link": "https://www.mediapen.com/news/view/1095244",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -453,8 +534,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 해임건의안 당론 확정...\"탄핵까지 해야 할 안보 자해\"",
-      "link": "https://www.mediapen.com/news/view/1095244",
+      "title": "法 \"정몽규 중징계 요구 적법\"…축구협회, 취소 소송서 패소",
+      "link": "https://www.ajunews.com/view/20260423151911517",
       "pub_date": "2026-04-23T15:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1719,87 +1800,6 @@
       "source_id": "kbs",
       "source_name": "KBS",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 ‘해든이’ 학대 살해한 친모에 무기징역 선고",
-      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525622",
-      "pub_date": "2026-04-23T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.sedaily.com/article/20036251?ref=naver",
-      "pub_date": "2026-04-23T14:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "법원 \"정몽규, 클린스만 선임 당시 권한없이 개입…문체부의 중징계 요...",
-      "link": "https://www.newspim.com/news/view/20260423000946",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 국민의힘 주호영 \"컷오프 유감이지만, 대구시장 불출마\"",
-      "link": "https://www.ytn.co.kr/_ln/0101_202604231443012562",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, ‘사내급식 몰아주기’ 삼성웰스토리 공정위 과징금 2349억...",
-      "link": "https://biz.chosun.com/topics/law_firm/2026/04/23/EVFOOGPWSVDXLLMFC673LJS3RU/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 과징금 취소",
-      "link": "https://www.hankyung.com/article/202604231938i",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '대구 컷오프' 국힘 주호영 \"대구시장 출마 않겠다\"",
-      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189920",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '여수 영아 살해사건' 친모 무기징역 선고",
-      "link": "https://www.nocutnews.co.kr/news/6507106?utm_source=naver&utm_medium=article&utm_campaign=20260423024252",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 4개월 '해든이' 학대 살해한 친모 무기징역·친부 4년6개월 선고",
-      "link": "https://www.namdonews.com/news/articleView.html?idxno=908415",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
