@@ -1,10 +1,163 @@
 {
-  "updated": "2026-04-23 17:50:51",
+  "updated": "2026-04-23 17:55:44",
   "total": 200,
   "items": [
     {
+      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.kyeonggi.com/article/20260423580472",
+      "pub_date": "2026-04-23T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 여 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00006&news_seq_no=5189965",
+      "pub_date": "2026-04-23T17:52:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 씨씨에스 충북방송 주주총회 결의 효력정지 등 가처분 항고 기각...",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569812",
+      "pub_date": "2026-04-23T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 공천",
+      "link": "https://www.asiatoday.co.kr/view.php?key=20260423010007636",
+      "pub_date": "2026-04-23T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 아산 산업단지서 탱크로리 폭발…과산화수소 사고로 접근 통제",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=864546",
+      "pub_date": "2026-04-23T17:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주당 “인천 연수갑에 송영길, 계양을에 김남준 전략공천”",
+      "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525661",
+      "pub_date": "2026-04-23T17:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "한은도 놀란 반도체 호황…중동전쟁 충격파 눌렀다",
+      "link": "https://www.hankyung.com/article/2026042327221",
+      "pub_date": "2026-04-23T17:51:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.nocutnews.co.kr/news/6507332?utm_source=naver&utm_medium=article&utm_campaign=20260423055053",
+      "pub_date": "2026-04-23T17:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.newspim.com/news/view/20260423001325",
+      "pub_date": "2026-04-23T17:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "‘K반도체의 힘’ 1분기 GDP 1.7% 깜짝 성장",
+      "link": "https://www.segye.com/newsView/20260423516626?OutUrl=naver",
+      "pub_date": "2026-04-23T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 의원 보선 공천… 인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1251048",
+      "pub_date": "2026-04-23T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]민주, 인천 연수갑 송영길-계양을 김남준 전략공천",
+      "link": "https://www.donga.com/news/Politics/article/all/20260423/133801579/1",
+      "pub_date": "2026-04-23T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 민주, 인천 계양을 김남준·연수갑 송영길 전략공천",
+      "link": "https://www.ytn.co.kr/_ln/0101_202604231750289410",
+      "pub_date": "2026-04-23T17:50:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]與, 인천 계양을에 김남준 전 청와대 대변인 전략공천",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06150006645419072&returntp=election",
+      "pub_date": "2026-04-23T17:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "5년 반만에 성장률 최대인데…체감 경기는 '왜'",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06136886645419072",
+      "pub_date": "2026-04-23T17:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.mk.co.kr/article/12025546",
+      "pub_date": "2026-04-23T17:49:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 전략 공천",
       "link": "https://www.dailian.co.kr/news/view/1637199/?sc=Naver",
+      "pub_date": "2026-04-23T17:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
+      "link": "https://www.joongang.co.kr/article/25422841",
       "pub_date": "2026-04-23T17:49:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -30,13 +183,13 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 與 의원 보선 공천…인천 연수갑 송영길·계양을 김남준",
-      "link": "https://www.mk.co.kr/article/12025546",
+      "title": "[단독] 쿠팡, 로비자금 2배 늘려 '트럼프 인맥'에 댔다…안보 사안으로...",
+      "link": "https://news.jtbc.co.kr/article/NB12295568?influxDiv=NAVER",
       "pub_date": "2026-04-23T17:49:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 민주당, 인천 연수갑 송영길·계양을 김남준 공천",
@@ -46,6 +199,15 @@
       "source_name": "한국경제",
       "is_breaking": true,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 민주당 송영길 전 대표, 연수갑 전략 공천 유력",
+      "link": "http://www.inews24.com/view/1963016",
+      "pub_date": "2026-04-23T17:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보] 민주, 보선 공천…인천 연수갑 송영길·계양을 김남준",
@@ -109,15 +271,6 @@
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
-    },
-    {
-      "title": "[단독] 민주당 송영길 전 대표, 연수갑 전략 공천 유력",
-      "link": "http://www.inews24.com/view/1963016",
-      "pub_date": "2026-04-23T17:48:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
     },
     {
       "title": "[속보] 與, 인천 계양을 김남준·연수갑 송영길 전략공천",
@@ -408,15 +561,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독] 차태현 '복직경찰'로 3년 만에 영화…'슈퍼스타 감사용' 감독 신...",
-      "link": "https://www.news1.kr/entertain/movie/6147110",
-      "pub_date": "2026-04-23T17:12:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "KB증권, 1분기 영업이익 4531억원…전년비 101.7% 급증",
       "link": "http://www.thebigdata.co.kr/view.php?ud=202604231709515074c808fa9903_23",
       "pub_date": "2026-04-23T17:12:00+09:00",
@@ -424,6 +568,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 차태현 '복직경찰'로 3년 만에 영화…'슈퍼스타 감사용' 감독 신...",
+      "link": "https://www.news1.kr/entertain/movie/6147110",
+      "pub_date": "2026-04-23T17:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "1분기 韓경제 1.7% 깜짝 성장…“전쟁 영향에 2분기는 조정 불가피”",
@@ -489,15 +642,6 @@
       "is_scoop": false
     },
     {
-      "title": "[단독]불화가 뭐예요? 옥택연, 내일 결혼식..2PM 축가·사회 총출동 [종...",
-      "link": "https://www.starnewskorea.com/music/2026/04/23/2026042316261639932",
-      "pub_date": "2026-04-23T17:04:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "법인 돈 빌려 117억 아파트 매수…서울·경기 이상거래 746건 적발",
       "link": "https://www.asiatime.co.kr/article/20260423500391",
       "pub_date": "2026-04-23T17:04:00+09:00",
@@ -505,6 +649,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독]불화가 뭐예요? 옥택연, 내일 결혼식..2PM 축가·사회 총출동 [종...",
+      "link": "https://www.starnewskorea.com/music/2026/04/23/2026042316261639932",
+      "pub_date": "2026-04-23T17:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "전쟁 뚫은 '반도체'…1분기 GDP '66개월만' 최고치",
@@ -534,8 +687,8 @@
       "is_scoop": true
     },
     {
-      "title": "[포토뉴스] 김석필 천안시장 권한대행, 풍세산단ㆍ풍서천 등 재해복구 ...",
-      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1361061",
+      "title": "디토닉, 노후 산단에 AI 도입…강원후평 스마트그린산단 전환 나선다",
+      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80352",
       "pub_date": "2026-04-23T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -543,8 +696,8 @@
       "is_scoop": false
     },
     {
-      "title": "디토닉, 노후 산단에 AI 도입…강원후평 스마트그린산단 전환 나선다",
-      "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=80352",
+      "title": "[포토뉴스] 김석필 천안시장 권한대행, 풍세산단ㆍ풍서천 등 재해복구 ...",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1361061",
       "pub_date": "2026-04-23T17:00:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1646,159 +1799,6 @@
       "pub_date": "2026-04-23T15:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다, 한국서 車 판매 사업 철수",
-      "link": "https://economist.co.kr/article/view/ecn202604230050",
-      "pub_date": "2026-04-23T15:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] 스테이트스트리트 \"韓 1분기 서프라이즈 통화긴축 기대 유지...",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411304",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 사흘 연속 사상 최고치 경신…6,470선 돌파",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529966&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수한다…진출 23년만",
-      "link": "https://www.dt.co.kr/article/12059182?ref=naver",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
-      "link": "https://www.etoday.co.kr/news/view/2578571",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
-      "link": "https://www.sedaily.com/article/20036300?ref=naver",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수…진출 23년만",
-      "link": "https://biz.sbs.co.kr/article_hub/20000306305?division=NAVER",
-      "pub_date": "2026-04-23T15:38:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[인터뷰] 박찬대 \"대통령과도 담판 지을 것은 담판 지어야…유 시장, 성...",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529958&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T15:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 日혼다, 한국서 올해 말 자동차 판매 사업 종료",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603853",
-      "pub_date": "2026-04-23T15:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 자동차 부문 한국 시장 철수",
-      "link": "https://www.hankyung.com/article/202604232173i",
-      "pub_date": "2026-04-23T15:37:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국 사업 철수…한국 진출 23년 만",
-      "link": "http://www.yonhapnewstv.co.kr/AKR20260423153624r7C",
-      "pub_date": "2026-04-23T15:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 자동차 판매 사업 올해 말 종료",
-      "link": "https://zdnet.co.kr/view/?no=20260423153553",
-      "pub_date": "2026-04-23T15:37:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년 만",
-      "link": "https://www.hankyung.com/article/2026042321627",
-      "pub_date": "2026-04-23T15:36:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다, 한국 시장 철수 발표…올해 말 국내 판매 중단",
-      "link": "https://www.sidae.com/article/2026042315351249140",
-      "pub_date": "2026-04-23T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 57.88p(0.90%) 오른 6475.81(마감)",
-      "link": "https://www.etoday.co.kr/news/view/2578568",
-      "pub_date": "2026-04-23T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[나이스뷰] 1분기 1.7% '깜짝 성장'…원인은 반도체 호황+기저효과",
-      "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89725",
-      "pub_date": "2026-04-23T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
-      "link": "https://www.viva100.com/article/20260423501108",
-      "pub_date": "2026-04-23T15:36:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
