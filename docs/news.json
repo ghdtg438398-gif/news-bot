@@ -1,7 +1,151 @@
 {
-  "updated": "2026-04-23 14:50:45",
+  "updated": "2026-04-23 14:55:40",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]주호영 \"대구시장 선거 불출마…法결정 매우 아쉽다\"",
+      "link": "https://www.nocutnews.co.kr/news/6507109?utm_source=naver&utm_medium=article&utm_campaign=20260423025252",
+      "pub_date": "2026-04-23T14:53:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[제약·바이오 트렌드] 광동제약, 사내 중고거래 '보물장터'로 일상 속 ...",
+      "link": "https://www.ibabynews.com/news/articleView.html?idxno=150784",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 法, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
+      "link": "https://www.hankyung.com/article/2026042319767",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
+      "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"정몽규 자격정지 중징계 하라\" 문체부 요구 적법→법원 판결 나...",
+      "link": "https://www.xportsnews.com/article/2140541",
+      "pub_date": "2026-04-23T14:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
+      "link": "https://www.donga.com/news/Society/article/all/20260423/133799074/1",
+      "pub_date": "2026-04-23T14:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]4개월 살다 간 여수 영아살인사건 친모 ‘무기징역’",
+      "link": "https://www.khan.co.kr/article/202604231451001",
+      "pub_date": "2026-04-23T14:51:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 축구협 ‘정몽규 중징계 취소’ 행정소송 1심 패소…법원 “문체...",
+      "link": "https://www.sportsseoul.com/news/read/1605024?ref=naver",
+      "pub_date": "2026-04-23T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, 삼성웰스토리 '사내급식 몰아주기' 공정위 과징금 취소",
+      "link": "https://www.dailian.co.kr/news/view/1637045/?sc=Naver",
+      "pub_date": "2026-04-23T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 파수 주가 상한가 터치…52주 신고가 새로 써",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569772",
+      "pub_date": "2026-04-23T14:50:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]\"관세·이란 전쟁 직격탄\"...현대차, 1분기 영업익 30.8%↓",
+      "link": "https://magazine.hankyung.com/business/article/202604231964b",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, ‘사내급식 몰아주기’ 삼성웰스토리 공정위 과징금 취소",
+      "link": "https://www.sedaily.com/article/20036258?ref=naver",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]생후 4개월 해든이 학대 살해한 친모 '무기징역'",
+      "link": "https://www.mt.co.kr/society/2026/04/23/2026042314471347457",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, '급식 몰아주기' 삼성웰스토리 공정위 과징금 취소",
+      "link": "http://www.fnnews.com/news/202604231448112766",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 법원, ‘급식 몰아주기’ 공정위 2349억 삼성웰스토리 과징금 취...",
+      "link": "https://www.sedaily.com/article/20036256?ref=naver",
+      "pub_date": "2026-04-23T14:49:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] '대구 컷오프' 주호영 \"대구시장 출마 않겠다\"",
       "link": "https://news.tf.co.kr/read/ptoday/2316491.htm",
@@ -9,6 +153,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "씨티 \"올해 韓 성장률 전망 2.9%로 상향…금리 인상폭 커질수도\"",
+      "link": "https://www.yna.co.kr/view/AKR20260423122300002?input=1195m",
+      "pub_date": "2026-04-23T14:48:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -48,21 +201,21 @@
       "is_scoop": false
     },
     {
-      "title": "“7000시대 가시화?” 삼전·SK하이닉스 ‘이익 100조’ 시대",
-      "link": "https://magazine.hankyung.com/business/article/202604231947b",
-      "pub_date": "2026-04-23T14:46:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 주호영, 대구시장 선거 불출마...\"기대 못미쳐 송구\"",
       "link": "https://www.newspim.com/news/view/20260423000949",
       "pub_date": "2026-04-23T14:46:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“7000시대 가시화?” 삼전·SK하이닉스 ‘이익 100조’ 시대",
+      "link": "https://magazine.hankyung.com/business/article/202604231947b",
+      "pub_date": "2026-04-23T14:46:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -102,6 +255,15 @@
       "is_scoop": false
     },
     {
+      "title": "어린이집 화장실에 몰카 설치한 40대 남성…검찰, 징역 3년 구형",
+      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543909&ref=A",
+      "pub_date": "2026-04-23T14:44:00+09:00",
+      "source_id": "kbs",
+      "source_name": "KBS",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]생후 4개월 ‘해든이’ 학대 살해한 친모에 무기징역 선고",
       "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000525622",
       "pub_date": "2026-04-23T14:44:00+09:00",
@@ -117,6 +279,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "법원 \"정몽규, 클린스만 선임 당시 권한없이 개입…문체부의 중징계 요...",
+      "link": "https://www.newspim.com/news/view/20260423000946",
+      "pub_date": "2026-04-23T14:43:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -162,15 +333,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "법원 \"정몽규, 클린스만 선임 당시 권한없이 개입…문체부의 중징계 요...",
-      "link": "https://www.newspim.com/news/view/20260423000946",
-      "pub_date": "2026-04-23T14:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -597,15 +759,6 @@
       "is_scoop": true
     },
     {
-      "title": "[단독] 4급 유럽 출장에 '976만원' 비즈니스석 제공한 국세청…2인 항공...",
-      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28131",
-      "pub_date": "2026-04-23T14:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "어린이집 원장 남편 40대, '직원용 화장실 몰카 설치' 징역 3년 구형",
       "link": "https://www.bntnews.co.kr/article/view/bnt202604230167",
       "pub_date": "2026-04-23T14:26:00+09:00",
@@ -613,6 +766,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "[단독] 4급 유럽 출장에 '976만원' 비즈니스석 제공한 국세청…2인 항공...",
+      "link": "http://www.fieldnews.kr/news/articleView.html?idxno=28131",
+      "pub_date": "2026-04-23T14:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "창원 장애인 주차구역 단계적 정비 추진",
@@ -1638,168 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] 무디스 \"금리인상, 당장은 아니나 위험의 무게추 이동\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411246",
-      "pub_date": "2026-04-23T12:28:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘장동혁의 국힘’ 지지율 15%·호감도 20% 최저치…민주당에 TK...",
-      "link": "https://www.dt.co.kr/article/12059119?ref=naver",
-      "pub_date": "2026-04-23T12:27:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]미국 프로축구 LAFC 0-0 콜로라도(전반 종료)",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603401",
-      "pub_date": "2026-04-23T12:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[GDP 효과] 헤지펀드 \"韓경제, 나쁜 게 안 보인다…커브 스티프닝\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411245",
-      "pub_date": "2026-04-23T12:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "용인특례시, ‘용인 양지성당 김대건 신부 석상’ 학술대회 개최",
-      "link": "http://www.breaknews.com/1202532",
-      "pub_date": "2026-04-23T12:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "수원특례시, 중동전쟁 장기화 대응 비상경제 점검 및 지원 대책",
-      "link": "http://www.breaknews.com/1202528",
-      "pub_date": "2026-04-23T12:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 韓경제, 반도체 호조 힘입어 1.7% 성장…5년6개월 만에 최고",
-      "link": "https://www.sisajournal.com/news/articleView.html?idxno=370637",
-      "pub_date": "2026-04-23T12:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
-      "link": "https://www.imaeil.com/page/view/2026042311330949015",
-      "pub_date": "2026-04-23T12:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동 전쟁 뚫은 반도체 수출...1분기 GDP 1.7% '도약'",
-      "link": "https://www.hinews.co.kr/view.php?ud=202604230953304230dacadeb388_48",
-      "pub_date": "2026-04-23T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "선거철 '단골 메뉴' 꺼내든 국힘...정동영 발언 '안보이슈'화",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300875",
-      "pub_date": "2026-04-23T12:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체가 끌고 투자 받쳤다…1분기 성장률 1.7%, 5년6개월만에 최고",
-      "link": "https://www.thepowernews.co.kr/view.php?ud=202604231214534337de3f0aa1be_7",
-      "pub_date": "2026-04-23T12:16:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 상승폭 전부 반납…하락 전환",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042312122949320",
-      "pub_date": "2026-04-23T12:13:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘중동 사태’ 중고차 수출 30% 감소…“새 수출길 뚫자”",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543839&ref=A",
-      "pub_date": "2026-04-23T12:13:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]법원, '빗썸 영업정지' 효력 정지 여부 29일 결론",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04172166645419072",
-      "pub_date": "2026-04-23T12:10:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "日 싱어송라이터 모사오, 6월 13일 첫 내한 공연…30일 티케팅",
-      "link": "https://www.nocutnews.co.kr/news/6506987?utm_source=naver&utm_medium=article&utm_campaign=20260423120251",
-      "pub_date": "2026-04-23T12:03:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 종합특검, 심우정 '내란 중요임무 종사' 혐의 관련 대검 압수수...",
-      "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20260423.99099006686",
-      "pub_date": "2026-04-23T12:02:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "3조원대 설탕 담합… CJ제일제당·삼양사 임원 징역형 집유",
-      "link": "https://m.skyedaily.com/news_view.html?ID=302969",
-      "pub_date": "2026-04-23T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "'긴급 상황' 홍석천, 큰 사고 막았다…송끄란서 쓰러진 여성 붙잡고 길...",
-      "link": "http://www.tvdaily.co.kr/read.php3?aid=17769061581784402002",
-      "pub_date": "2026-04-23T12:00:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     }
   ]
