@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 14:00:40",
+  "updated": "2026-04-23 14:05:27",
   "total": 200,
   "items": [
+    {
+      "title": "스마트혁신기업가협회, 중진공 방문…기업별 맞춤 자금 연계",
+      "link": "https://www.nocutnews.co.kr/news/6507049?utm_source=naver&utm_medium=article&utm_campaign=20260423020351",
+      "pub_date": "2026-04-23T14:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "씨티 “올해 韓 GDP 성장률 2.2→2.9%로 상향, 하반기 금리 인상 전망”",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04378806645419072",
+      "pub_date": "2026-04-23T14:02:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 서울 아파트값 상승폭 다시 확대...송파구 상승 전환",
+      "link": "https://www.ytn.co.kr/_ln/0102_202604231402471605",
+      "pub_date": "2026-04-23T14:02:00+09:00",
+      "source_id": "ytn",
+      "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 서울 아파트값 상승폭 확대…강남권 하락 진정 속 송파 상승 반...",
+      "link": "https://www.mk.co.kr/article/12025190",
+      "pub_date": "2026-04-23T14:01:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[단독] 김희애 막내아들 역은 박수오…김지은·차학연과 '골드 디거' 삼...",
+      "link": "https://www.xportsnews.com/article/2140532",
+      "pub_date": "2026-04-23T14:01:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "[이슈] 설탕 담합에 ‘철퇴’…CJ제일제당·삼양사 임직원 집행유예",
+      "link": "https://www.seoultimes.news/news/article.html?no=2000095287",
+      "pub_date": "2026-04-23T14:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "1분기 GDP 성장률 1.7%… 5년 6개월 만에 최고치",
       "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834800",
@@ -1743,60 +1797,6 @@
       "title": "광주시, 신현동 제설재 비축창고 조성 추진",
       "link": "https://www.discoverynews.kr/news/articleView.html?idxno=1089718",
       "pub_date": "2026-04-23T10:50:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "반도체·수출에 한국경제 1.7% 깜짝 성장…중동 리스크 뚫었다",
-      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706348",
-      "pub_date": "2026-04-23T10:50:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "감 따다 추락한 아파트 직원, 척추 골절…지시한 관리소장 죗값은",
-      "link": "https://www.mt.co.kr/society/2026/04/23/2026042310072957236",
-      "pub_date": "2026-04-23T10:49:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "韓, MSCI 선진국 편입 노력…올해 관찰대상국 진입?",
-      "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=300863",
-      "pub_date": "2026-04-23T10:48:00+09:00",
-      "source_id": "hankyung",
-      "source_name": "한국경제",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% 성장…수출·설비투자가 회복 견인",
-      "link": "https://www.junggi.co.kr/news/articleView.html?idxno=36210",
-      "pub_date": "2026-04-23T10:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 악재 뚫고 5년 반 만에 최고 성장…코스피도 '반도체·밸류업' 훈...",
-      "link": "https://www.newsinside.kr/news/articleView.html?idxno=4617053",
-      "pub_date": "2026-04-23T10:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "GDP 서프라이즈에 신현송 \"한국 경제의 복원력 보여줘\"",
-      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411194",
-      "pub_date": "2026-04-23T10:44:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
