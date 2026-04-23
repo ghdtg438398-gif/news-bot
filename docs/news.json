@@ -1,7 +1,52 @@
 {
-  "updated": "2026-04-23 15:45:40",
+  "updated": "2026-04-23 15:50:32",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 혼다코리아, 2026년 말 자동차 판매 중단…모터사이클 사업에 집...",
+      "link": "https://www.g-enews.com/view.php?ud=20260423154256234678e43e3ead_1",
+      "pub_date": "2026-04-23T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 6475.81(▲57.88p, 0.90%), 원·달러 환율 1481.0(▲5.0원) ...",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189932",
+      "pub_date": "2026-04-23T15:46:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다코리아, 한국 車사업 철수…시장 진출 23년만",
+      "link": "https://www.ajunews.com/view/20260423154509580",
+      "pub_date": "2026-04-23T15:46:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 사흘 연속 사상 최고치 경신…6470선 돌파",
+      "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5189933",
+      "pub_date": "2026-04-23T15:46:00+09:00",
+      "source_id": "mk",
+      "source_name": "매일경제",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 사흘 연속 최고치 경신…6475선 마감",
+      "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2271093",
+      "pub_date": "2026-04-23T15:45:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보] 코스피, 6475.81로 사흘 연속 사상 최고치…코스닥은 하락",
       "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500179?wlog_tag3=naver",
@@ -39,15 +84,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 자동차 부문 올해 연말 철수 선언",
-      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422541",
-      "pub_date": "2026-04-23T15:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "수출·투자 ‘쌍끌이’…1분기 韓성장률 1.7%, 5년6개월만 최고",
       "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604231456245900431",
       "pub_date": "2026-04-23T15:42:00+09:00",
@@ -57,8 +93,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 올해 말 국내 자동차 판매 종료",
-      "link": "https://www.econovill.com/news/articleView.html?idxno=738508",
+      "title": "[속보] 혼다코리아, 자동차 부문 올해 연말 철수 선언",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2422541",
       "pub_date": "2026-04-23T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -66,9 +102,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다, 한국서 車사업 철수키로…\"모터사이클 사업 집중 지속\"",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603861",
-      "pub_date": "2026-04-23T15:41:00+09:00",
+      "title": "[속보] 혼다코리아, 올해 말 국내 자동차 판매 종료",
+      "link": "https://www.econovill.com/news/articleView.html?idxno=738508",
+      "pub_date": "2026-04-23T15:42:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -84,9 +120,9 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]원·달러 환율, 5원 오른 1481원 마감",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603856",
-      "pub_date": "2026-04-23T15:40:00+09:00",
+      "title": "[속보] 혼다, 한국서 車사업 철수키로…\"모터사이클 사업 집중 지속\"",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603861",
+      "pub_date": "2026-04-23T15:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
@@ -95,6 +131,15 @@
     {
       "title": "[속보] 코스피, 사흘 연속 사상 최고치 경신…6470선 돌파",
       "link": "https://www.joongang.co.kr/article/25422781",
+      "pub_date": "2026-04-23T15:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]원·달러 환율, 5원 오른 1481원 마감",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603856",
       "pub_date": "2026-04-23T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -111,8 +156,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042315395506984",
+      "title": "[속보] 혼다코리아, 올해 말 한국서 자동차 판매 사업 철수",
+      "link": "https://www.newspim.com/news/view/20260423001071",
       "pub_date": "2026-04-23T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -120,8 +165,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다코리아, 올해 말 한국서 자동차 판매 사업 철수",
-      "link": "https://www.newspim.com/news/view/20260423001071",
+      "title": "[속보] 혼다코리아, 한국사업 철수…한국 진출 23년만",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042315395506984",
       "pub_date": "2026-04-23T15:40:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -138,20 +183,20 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 혼다, 한국서 車 판매 사업 철수",
-      "link": "https://economist.co.kr/article/view/ecn202604230050",
-      "pub_date": "2026-04-23T15:39:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 코스피 사흘 연속 최고가 마감...삼성전자 3% 급등",
       "link": "https://www.ytn.co.kr/_ln/0102_202604231539118530",
       "pub_date": "2026-04-23T15:39:00+09:00",
       "source_id": "ytn",
       "source_name": "YTN",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 혼다, 한국서 車 판매 사업 철수",
+      "link": "https://economist.co.kr/article/view/ecn202604230050",
+      "pub_date": "2026-04-23T15:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
@@ -579,15 +624,6 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
-      "link": "https://www.news1.kr/photos/7872516",
-      "pub_date": "2026-04-23T15:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "'정동영 장관 정보누설' 관련 긴급 간담회 주재하는 장동혁",
       "link": "https://www.news1.kr/photos/7872514",
       "pub_date": "2026-04-23T15:19:00+09:00",
@@ -597,12 +633,12 @@
       "is_scoop": false
     },
     {
-      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
-      "link": "https://www.tokenpost.kr/news/market/352450",
-      "pub_date": "2026-04-23T15:18:00+09:00",
+      "title": "국힘, 정동영 통일부 장관 '정보 누설' 관련 긴급 간담회",
+      "link": "https://www.news1.kr/photos/7872516",
+      "pub_date": "2026-04-23T15:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -615,8 +651,8 @@
       "is_scoop": false
     },
     {
-      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "title": "코스피, 반도체 호재로 사상 첫 6,500선 돌파",
+      "link": "https://www.tokenpost.kr/news/market/352450",
       "pub_date": "2026-04-23T15:18:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -630,6 +666,15 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, ‘정동영 해임건의안’ 제출 당론으로…“외교 안보 자해 행위”...",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04746166645419072",
+      "pub_date": "2026-04-23T15:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -939,6 +984,15 @@
       "is_scoop": false
     },
     {
+      "title": "[기획]통신사·네카오까지 번진 보안 충격…미토스 대응 태세 돌입",
+      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367071",
+      "pub_date": "2026-04-23T14:52:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "\"고유가, 고물가 부담 완화\" 강원도 긴급 추경예산 편성",
       "link": "https://www.nocutnews.co.kr/news/6507117?utm_source=naver&utm_medium=article&utm_campaign=20260423025152",
       "pub_date": "2026-04-23T14:52:00+09:00",
@@ -950,15 +1004,6 @@
     {
       "title": "[기획]미토스發 글로벌 보안 '비상'…K-산업 시험대",
       "link": "https://www.m-i.kr/news/articleView.html?idxno=1367068",
-      "pub_date": "2026-04-23T14:52:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[기획]통신사·네카오까지 번진 보안 충격…미토스 대응 태세 돌입",
-      "link": "https://www.m-i.kr/news/articleView.html?idxno=1367071",
       "pub_date": "2026-04-23T14:52:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1755,51 +1800,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차 1분기 영업이익 2조5147억원…전년 30.8% 감소",
-      "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029722865&code=61141411&cp=nv",
-      "pub_date": "2026-04-23T14:22:00+09:00",
-      "source_id": "kmib",
-      "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "중동발 고유가 위기에… 추경 2258억원 긴급처방 내린 제주",
-      "link": "https://www.seoul.co.kr/news/economy/2026/04/23/20260423500119?wlog_tag3=naver",
-      "pub_date": "2026-04-23T14:21:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]현대차, 1분기 영업익익 2조5147억원⋯전년比 30.8%↓",
-      "link": "http://www.inews24.com/view/1962874",
-      "pub_date": "2026-04-23T14:21:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] '12명 사상' 깨비시장 돌진 70대 금고형 집행유예",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604231421445235",
-      "pub_date": "2026-04-23T14:21:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 韓GDP 1.7% ‘깜짝 반등’…수출·투자 동반 회복",
-      "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202604231354180680412",
-      "pub_date": "2026-04-23T14:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     }
   ]
