@@ -1,11 +1,20 @@
 {
-  "updated": "2026-04-23 09:35:26",
+  "updated": "2026-04-23 09:40:29",
   "total": 200,
   "items": [
     {
-      "title": "韓 1분기 1.7% 성장…\"민간이 버티고, 수출이 견인\"",
-      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838697",
-      "pub_date": "2026-04-23T09:34:00+09:00",
+      "title": "[속보] 장동혁 \"해당 행위 강력 조치…후보자라도 즉시 교체\"",
+      "link": "https://www.news1.kr/politics/assembly/6146198",
+      "pub_date": "2026-04-23T09:37:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "국힘, 외통위·국방위 동시 전체회의 소집…정동영 '北핵정보 유출' 공...",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838701",
+      "pub_date": "2026-04-23T09:36:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -21,7 +30,16 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 日 니케이지수 23일 사상 최초로 6만 돌파",
+      "title": "韓 1분기 1.7% 성장…\"민간이 버티고, 수출이 견인\"",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=838697",
+      "pub_date": "2026-04-23T09:34:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日 니케이지수 23일 최초로 6만 돌파",
       "link": "https://www.newsis.com/view/NISX20260423_0003602970",
       "pub_date": "2026-04-23T09:33:00+09:00",
       "source_id": "yna",
@@ -147,6 +165,15 @@
       "is_scoop": false
     },
     {
+      "title": "\"반도체가 견인했다\"…1분기 1.7% 성장, 5년 만 최대 반등",
+      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=88864",
+      "pub_date": "2026-04-23T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "[속보] 코스피 사상 첫 6500 돌파...삼성전자·SK하이닉스 신고가",
       "link": "https://www.hankookilbo.com/news/article/A2026042309080000616?did=NA",
       "pub_date": "2026-04-23T09:24:00+09:00",
@@ -165,12 +192,12 @@
       "is_scoop": false
     },
     {
-      "title": "\"반도체가 견인했다\"…1분기 1.7% 성장, 5년 만 최대 반등",
-      "link": "http://www.newsian.co.kr/news/articleView.html?idxno=88864",
-      "pub_date": "2026-04-23T09:24:00+09:00",
+      "title": "[속보] 코스피, 장중 6500 돌파…3일 연속 전고점 경신",
+      "link": "https://news.tf.co.kr/read/economy/2316247.htm",
+      "pub_date": "2026-04-23T09:22:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -180,15 +207,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…3일 연속 전고점 경신",
-      "link": "https://news.tf.co.kr/read/economy/2316247.htm",
-      "pub_date": "2026-04-23T09:22:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1781,24 +1799,6 @@
       "pub_date": "2026-04-23T07:46:00+09:00",
       "source_id": "seoul",
       "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조 … 분기 최대 실적 또 경신",
-      "link": "https://biz.newdaily.co.kr/site/data/html/2026/04/23/2026042300016.html",
-      "pub_date": "2026-04-23T07:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업이익 37.6조원…창사 이래 최고기록",
-      "link": "https://news.jtbc.co.kr/article/NB12295432?influxDiv=NAVER",
-      "pub_date": "2026-04-23T07:46:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
