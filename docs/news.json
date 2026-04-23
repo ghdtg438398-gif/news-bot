@@ -1,7 +1,43 @@
 {
-  "updated": "2026-04-23 13:05:26",
+  "updated": "2026-04-23 13:10:29",
   "total": 200,
   "items": [
+    {
+      "title": "1분기 실질 경제성장률 1.7%",
+      "link": "https://www.naeil.com/news/read/586423?ref=naver",
+      "pub_date": "2026-04-23T13:08:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]현대글로비스, 1Q 영업익 5215억원…전년比 3.9% 증가",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04241046645419072",
+      "pub_date": "2026-04-23T13:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "“한국은행도 몰랐다, 반도체 이렇게 좋을 줄은”",
+      "link": "https://www.naeil.com/news/read/586493?ref=naver",
+      "pub_date": "2026-04-23T13:06:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "물가안정 총력전…20대 민생품목 ‘특별관리’",
+      "link": "https://www.naeil.com/news/read/586420?ref=naver",
+      "pub_date": "2026-04-23T13:04:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "OECD 근로소득 과세 10년 만에 최고치",
       "link": "https://www.naeil.com/news/read/586466?ref=naver",
@@ -1763,42 +1799,6 @@
       "pub_date": "2026-04-23T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "\"반도체, 예상보다 더 좋았다\"…韓성장률 1.7%, 22분기 만에 최고(종합2...",
-      "link": "https://www.newsis.com/view/NISX20260423_0003603079",
-      "pub_date": "2026-04-23T10:29:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "K-반도체 파워, 올 1분기 실질 국내총생산(GDP) 1.7% 성장",
-      "link": "http://www.newstown.co.kr/news/articleView.html?idxno=701461",
-      "pub_date": "2026-04-23T10:26:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 법원, '설탕·밀가루 담합' CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://news.jtbc.co.kr/article/NB12295459?influxDiv=NAVER",
-      "pub_date": "2026-04-23T10:25:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "‘설탕 담합’ CJ제일제당·삼양사 전 경영진, 모두 1심서 집유",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543686&ref=A",
-      "pub_date": "2026-04-23T10:24:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
