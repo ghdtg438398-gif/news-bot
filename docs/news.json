@@ -1,32 +1,50 @@
 {
-  "updated": "2026-04-23 09:25:32",
+  "updated": "2026-04-23 09:30:36",
   "total": 200,
   "items": [
     {
-      "title": "[속보] 코스피 6500 돌파…3거래일 연속 최고가 행진",
-      "link": "https://www.hani.co.kr/arti/economy/economy_general/1255492.html",
-      "pub_date": "2026-04-23T09:24:00+09:00",
+      "title": "올 1분기 GDP 1.7% 성장…2월 한은 전망치 2배 수준",
+      "link": "https://www.ziksir.com/news/articleView.html?idxno=131765",
+      "pub_date": "2026-04-23T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 대원전선 VI 발동, 주가 21% 도약…8000원 터치",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569670",
+      "pub_date": "2026-04-23T09:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 6500선 돌파…사흘째 사상 최고치 경신",
-      "link": "https://www.kado.net/news/articleView.html?idxno=2046429",
-      "pub_date": "2026-04-23T09:24:00+09:00",
+      "title": "[속보] 코스피, 사상 최초 장중 6500선 돌파",
+      "link": "https://www.todaykorea.co.kr/news/articleView.html?idxno=401036",
+      "pub_date": "2026-04-23T09:26:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피 장중 6500 돌파…6400 돌파 하루 만",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500027?wlog_tag3=naver",
-      "pub_date": "2026-04-23T09:24:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
+      "title": "'8이닝 무실점' 웰스, '최강 아시아쿼터' 등극",
+      "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003227459&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+      "pub_date": "2026-04-23T09:26:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% 깜짝 성장…반도체 수출·투자 회복에 5년 6개월 만 최고",
+      "link": "https://www.etnews.com/20260423000069",
+      "pub_date": "2026-04-23T09:25:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -45,6 +63,33 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 문 열자마자 6500 돌파…3거래일 연속 최고가 갱신",
+      "link": "https://www.hani.co.kr/arti/economy/economy_general/1255492.html",
+      "pub_date": "2026-04-23T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피 장중 6500 돌파…6400 돌파 하루 만",
+      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500027?wlog_tag3=naver",
+      "pub_date": "2026-04-23T09:24:00+09:00",
+      "source_id": "seoul",
+      "source_name": "서울신문",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 코스피, 6500선 돌파…사흘째 사상 최고치 경신",
+      "link": "https://www.kado.net/news/articleView.html?idxno=2046429",
+      "pub_date": "2026-04-23T09:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -93,21 +138,21 @@
       "is_scoop": false
     },
     {
-      "title": "반도체 초호황에 1분기 1.7% '깜짝 성장'",
-      "link": "https://www.viewsnnews.com/article?q=235348",
-      "pub_date": "2026-04-23T09:18:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보]“美 쿠팡 탄압 주장” 외교부 ‘차별 없다’ 정면 반박",
       "link": "https://magazine.hankyung.com/business/article/202604230770b",
       "pub_date": "2026-04-23T09:18:00+09:00",
       "source_id": "hankyung",
       "source_name": "한국경제",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체 초호황에 1분기 1.7% '깜짝 성장'",
+      "link": "https://www.viewsnnews.com/article?q=235348",
+      "pub_date": "2026-04-23T09:18:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -129,8 +174,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스피, 70.90포인트(1.10%) 오른 6488.83 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834801",
+      "title": "[속보] 코스닥, 7.98포인트(0.68%) 오른 1189.10 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834802",
       "pub_date": "2026-04-23T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -147,8 +192,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 코스닥, 7.98포인트(0.68%) 오른 1189.10 출발",
-      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834802",
+      "title": "[속보] 코스피, 70.90포인트(1.10%) 오른 6488.83 출발",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=834801",
       "pub_date": "2026-04-23T09:16:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -1752,51 +1797,6 @@
       "title": "[속보] SK하이닉스, 1Q 영업익 37조원…전년比 405%↑",
       "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706308",
       "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 매출 52조5763억원… 전년比 198%↑",
-      "link": "https://www.newscj.com/news/articleView.html?idxno=3395771",
-      "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1분기 영업익 37.6조…역대 최대",
-      "link": "https://www.dt.co.kr/article/12059037?ref=naver",
-      "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스 1분기 영업익 37.6조 '역대 최대'",
-      "link": "http://www.4th.kr/news/articleView.html?idxno=2110833",
-      "pub_date": "2026-04-23T07:44:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]SK하이닉스 1Q 매출 52조5800억…'역대 최대'",
-      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02738806645419072",
-      "pub_date": "2026-04-23T07:43:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] SK하이닉스, 1Q 매출 52.5조원...영업이익률 72%",
-      "link": "https://www.newspim.com/news/view/20260423000048",
-      "pub_date": "2026-04-23T07:43:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
