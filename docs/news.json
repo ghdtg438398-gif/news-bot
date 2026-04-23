@@ -1,7 +1,16 @@
 {
-  "updated": "2026-04-23 12:55:28",
+  "updated": "2026-04-23 13:00:42",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] 아내 어린이집서 4개월간 '몰카' 찍은 남편…교사 등 12명 촬영",
+      "link": "https://www.imaeil.com/page/view/2026042312515213040",
+      "pub_date": "2026-04-23T12:55:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "日 4월 제조업 PMI 4년래 최고 기록…\"중동 전쟁에 지속 불투명\"(상보)",
       "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411250",
@@ -111,21 +120,21 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
-      "link": "https://www.imaeil.com/page/view/2026042311330949015",
-      "pub_date": "2026-04-23T12:19:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "1분기 韓경제, 반도체 호조 힘입어 1.7% 성장…5년6개월 만에 최고",
       "link": "https://www.sisajournal.com/news/articleView.html?idxno=370637",
       "pub_date": "2026-04-23T12:19:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 듀오, 43만명 신체조건·결혼이력까지 털렸는데…1년 넘게 '침묵...",
+      "link": "https://www.imaeil.com/page/view/2026042311330949015",
+      "pub_date": "2026-04-23T12:19:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -1790,15 +1799,6 @@
       "pub_date": "2026-04-23T10:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 1.7% 성장…반도체 수출·소비↑",
-      "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543684&ref=A",
-      "pub_date": "2026-04-23T10:23:00+09:00",
-      "source_id": "kbs",
-      "source_name": "KBS",
       "is_breaking": false,
       "is_scoop": false
     }
