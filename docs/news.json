@@ -1,7 +1,106 @@
 {
-  "updated": "2026-04-23 10:40:31",
+  "updated": "2026-04-23 10:45:33",
   "total": 200,
   "items": [
+    {
+      "title": "[속보]서울 송파구 판자촌에 ‘큰 불’…소방 대응 1단계",
+      "link": "https://www.munhwa.com/article/11584412?ref=naver",
+      "pub_date": "2026-04-23T10:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 이준석 “서울 아파트 전세가 61주 연속 올라...명백한 정책 실패...",
+      "link": "https://www.kyeonggi.com/article/20260423580045",
+      "pub_date": "2026-04-23T10:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] 日닛케이지수, 사상 첫 ‘6만 선’ 돌파… “트럼프發 중동 훈풍...",
+      "link": "https://www.g-enews.com/view.php?ud=202604231039383291e7e8286d56_1",
+      "pub_date": "2026-04-23T10:42:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "GDP 1.7% '깜짝 성장'…정부·한은, 정책 공조 강화",
+      "link": "http://www.newsprime.co.kr/news/article.html?no=731255",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "“반도체, 이 정도로 좋을 줄은…민간 소비가 버팀목 역할”[일문일답]",
+      "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03840886645419072",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[오늘 외환딜러 환율 예상레인지]",
+      "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411190",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "野 단독 개최한 국방위원회 전체회의",
+      "link": "https://www.news1.kr/photos/7871467",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "국회 국방위원회, 국민의힘 단독 소집",
+      "link": "https://www.news1.kr/photos/7871474",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "국민의힘 단독 소집으로 열린 국방위원회",
+      "link": "https://www.news1.kr/photos/7871469",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
+      "title": "檢, '헌법재판관 임명' 최상목 직권남용 고발 사건 각하...\"헌법적 의무...",
+      "link": "https://www.ajunews.com/view/20260423101038880",
+      "pub_date": "2026-04-23T10:40:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘웬만한 사람 전과 다 있다’ 李대통령에…법무부 “10만명당 유...",
+      "link": "https://www.dt.co.kr/article/12059093?ref=naver",
+      "pub_date": "2026-04-23T10:39:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "한국경제 1분기 1.7% 성장... 반도체 수출 증가에 '어닝서프라이즈'",
       "link": "http://www.efnews.co.kr/news/articleView.html?idxno=129308",
@@ -66,7 +165,7 @@
       "is_scoop": true
     },
     {
-      "title": "위치추적기 달아 차량 판매한 뒤 도로 훔친 20대들 징역형",
+      "title": "새벽 시간에 감쪽같이 사라졌다…중고차 사왔는데 반전",
       "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529291&plink=ORI&cooper=NAVER",
       "pub_date": "2026-04-23T10:36:00+09:00",
       "source_id": "yna",
@@ -129,15 +228,6 @@
       "is_scoop": false
     },
     {
-      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
-      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "외교통일위원회 단독 소집한 국민의힘",
       "link": "https://www.news1.kr/photos/7871428",
       "pub_date": "2026-04-23T10:32:00+09:00",
@@ -156,6 +246,15 @@
       "is_scoop": true
     },
     {
+      "title": "野 외통위 단독 소집 '정동영 불출석'",
+      "link": "https://www.news1.kr/photos/7871425",
+      "pub_date": "2026-04-23T10:32:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
+    },
+    {
       "title": "국민의힘, 외교통일위원회 단독 소집",
       "link": "https://www.news1.kr/photos/7871426",
       "pub_date": "2026-04-23T10:32:00+09:00",
@@ -165,13 +264,13 @@
       "is_scoop": true
     },
     {
-      "title": "野 외통위 단독 소집 '정동영 불출석'",
-      "link": "https://www.news1.kr/photos/7871425",
+      "title": "[특별기고] 대한축구협회는 무엇을 위해 존재하는가",
+      "link": "https://www.businesspost.co.kr/BP?command=article_view&num=436338",
       "pub_date": "2026-04-23T10:32:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
-      "is_scoop": true
+      "is_scoop": false
     },
     {
       "title": "1분기 GDP 깜짝 성장…올해 반도체 호황 vs 중동 충격 '무게추 싸움'(종...",
@@ -219,6 +318,15 @@
       "is_scoop": false
     },
     {
+      "title": "트럼프 '폭주' 막지 못하는 美상원...군사 권한 제한 결의안 부결",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=734069",
+      "pub_date": "2026-04-23T10:30:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "AI 전면에 내세운 '월드IT쇼2026'…이통3사·삼성·LG 총출동 [르포]",
       "link": "https://www.ngetnews.com/news/articleView.html?idxno=549994",
       "pub_date": "2026-04-23T10:30:00+09:00",
@@ -230,15 +338,6 @@
     {
       "title": "AI 실용화 시대, 우리의 승부처는 '현장 지능'이다",
       "link": "http://www.newsfc.co.kr/news/articleView.html?idxno=78260",
-      "pub_date": "2026-04-23T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "트럼프 '폭주' 막지 못하는 美상원...군사 권한 제한 결의안 부결",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=734069",
       "pub_date": "2026-04-23T10:30:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -273,15 +372,6 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
-      "link": "https://economist.co.kr/article/view/ecn202604230016",
-      "pub_date": "2026-04-23T10:24:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
       "title": "‘설탕 담합’ CJ제일제당·삼양사 전 경영진, 모두 1심서 집유",
       "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8543686&ref=A",
       "pub_date": "2026-04-23T10:24:00+09:00",
@@ -291,12 +381,30 @@
       "is_scoop": false
     },
     {
+      "title": "[속보] 법원, ‘설탕·밀가루 담합’ CJ제일제당·삼양에 벌금 각 2억원",
+      "link": "https://economist.co.kr/article/view/ecn202604230016",
+      "pub_date": "2026-04-23T10:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
       "title": "[속보]'설탕 담합' CJ제일제당·삼양 前 경영진 징역형 집행유예",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03768726645419072",
       "pub_date": "2026-04-23T10:23:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "美 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
+      "link": "https://www.yna.co.kr/view/AKR20260423067000009?input=1195m",
+      "pub_date": "2026-04-23T10:23:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -315,15 +423,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "美 상원, '트럼프 전쟁 권한 제한' 시도 또 부결",
-      "link": "https://www.yna.co.kr/view/AKR20260423067000009?input=1195m",
-      "pub_date": "2026-04-23T10:23:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -399,15 +498,6 @@
       "is_scoop": false
     },
     {
-      "title": "오브제바이쿤달 X 원밀리언 '리아킴' 콜라보, 무신사 뷰티 단독 선론칭",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532876",
-      "pub_date": "2026-04-23T10:20:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
       "title": "[분석] 호르무즈 뿐이랴 — 초크포인트 7곳 죄어오는데, 한국 혼자 감당...",
       "link": "https://www.fntoday.co.kr/news/articleView.html?idxno=382949",
       "pub_date": "2026-04-23T10:20:00+09:00",
@@ -415,6 +505,15 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": false
+    },
+    {
+      "title": "오브제바이쿤달 X 원밀리언 '리아킴' 콜라보, 무신사 뷰티 단독 선론칭",
+      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=532876",
+      "pub_date": "2026-04-23T10:20:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": true
     },
     {
       "title": "[속보]법원, '설탕 담합' CJ제일제당·삼양 전 임원 1심 집행유예",
@@ -1700,105 +1799,6 @@
       "pub_date": "2026-04-23T09:06:00+09:00",
       "source_id": "kmib",
       "source_name": "국민일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 '사상 첫' 6500선 돌파",
-      "link": "https://www.ajunews.com/view/20260423090408630",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 장중 6,500 돌파…사흘 연속 사상 최고치 경신",
-      "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008529065&plink=ORI&cooper=NAVER",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6500도 돌파...사흘 연속 사상 최고치",
-      "link": "https://www.chosun.com/economy/money/2026/04/23/OLCY2TZ2JFCOJDLQSTX2SLOIAM/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "chosun",
-      "source_name": "조선일보",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상최고치 경신",
-      "link": "https://www.mk.co.kr/article/12024876",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]'파죽지세' 코스피, 사상 첫 6520선 돌파...최고점 6523.22 터치",
-      "link": "http://www.fnnews.com/news/202604230905517678",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 경찰, '에어건 분사' 업체 대표 구속영장 신청",
-      "link": "https://www.ytn.co.kr/_ln/0103_202604230906588653",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "ytn",
-      "source_name": "YTN",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상최고치 경신",
-      "link": "https://www.dt.co.kr/article/12059052?ref=naver",
-      "pub_date": "2026-04-23T09:06:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6500 돌파…삼성전자 ‘22만 4500원’ 장중 신고가",
-      "link": "https://www.seoul.co.kr/news/economy/securities/2026/04/23/20260423500021?wlog_tag3=naver",
-      "pub_date": "2026-04-23T09:05:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피, 장중 6500 돌파…사흘 연속 사상최고치 경신",
-      "link": "https://www.imaeil.com/page/view/2026042309035722408",
-      "pub_date": "2026-04-23T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]코스피, 사상 첫 6510선 돌파...최고점 6513.59 터치",
-      "link": "http://www.fnnews.com/news/202604230904264892",
-      "pub_date": "2026-04-23T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 코스피 6500 돌파…사흘 연속 ‘사상 최고’",
-      "link": "https://biz.heraldcorp.com/article/10723635?ref=naver",
-      "pub_date": "2026-04-23T09:05:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
       "is_breaking": true,
       "is_scoop": false
     }
