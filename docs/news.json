@@ -1,7 +1,61 @@
 {
-  "updated": "2026-04-23 16:10:40",
+  "updated": "2026-04-23 16:15:30",
   "total": 200,
   "items": [
+    {
+      "title": "[KFE 유통로그]이마트·신라면세점·신세계백화점",
+      "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=657249",
+      "pub_date": "2026-04-23T16:14:00+09:00",
+      "source_id": "hankyung",
+      "source_name": "한국경제",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "'헉, 차주들 어쩌나' 혼다코리아, 한국시장서 자동차 사업 철수...진출 ...",
+      "link": "https://www.ikbc.co.kr/article/view/kbc202604230049",
+      "pub_date": "2026-04-23T16:14:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] ‘화물연대 조합원 사망 사고’ 운전자 구속",
+      "link": "https://www.sedaily.com/article/20036320?ref=naver",
+      "pub_date": "2026-04-23T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] \"불지를것 같아요!\"…대구 지하철서 라이터 들고 살충제 뿌린 40...",
+      "link": "https://www.imaeil.com/page/view/2026042315315170096",
+      "pub_date": "2026-04-23T16:13:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "'설탕 가격 담합' CJ제일제당·삼양사 임직원 집행유예…검찰, '담합 조...",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=302252",
+      "pub_date": "2026-04-23T16:12:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "정동영 \"뉴스 나온 것도 기밀이냐\" vs 국힘 \"심각한 외교·안보 자해행위...",
+      "link": "http://www.joseilbo.com/news/news_read.php?uid=567135&class=32&grp=",
+      "pub_date": "2026-04-23T16:10:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
     {
       "title": "국힘, ‘정동영 해임건의안’ 제출키로…“즉각 경질해야”",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05031526645419072",
@@ -21,7 +75,7 @@
       "is_scoop": false
     },
     {
-      "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…샐럽파이브 컴백 언급...",
+      "title": "김신영, '전 소속사 대표' 송은이와 4년 만 재회…셀럽파이브 컴백 언급...",
       "link": "https://www.xportsnews.com/article/2140552",
       "pub_date": "2026-04-23T16:08:00+09:00",
       "source_id": "kbs",
@@ -48,15 +102,6 @@
       "is_scoop": false
     },
     {
-      "title": "요트경기장 길고양이, 동백유원지 내 송림으로 이주",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042314562035084",
-      "pub_date": "2026-04-23T16:07:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
       "title": "[속보] 화물연대 집회서 조합원 덮쳐 1명 사망케한 운전자 구속",
       "link": "https://www.pressian.com/pages/articles/2026042316063775276?utm_source=naver&utm_medium=search",
       "pub_date": "2026-04-23T16:07:00+09:00",
@@ -66,8 +111,17 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
-      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
+      "title": "요트경기장 길고양이, 동백유원지 내 송림으로 이주",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042314562035084",
+      "pub_date": "2026-04-23T16:07:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
+      "link": "https://www.munhwa.com/article/11584560?ref=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -75,8 +129,8 @@
       "is_scoop": false
     },
     {
-      "title": "[속보]탈출한 사슴 5마리 ‘이 곳’서 발견됐다…당국 집중 수색중",
-      "link": "https://www.munhwa.com/article/11584560?ref=naver",
+      "title": "[속보] ‘화물연대 조합원 사망’ 운전자·‘바리케이드 돌진’ 조합원...",
+      "link": "https://www.segye.com/newsView/20260423514934?OutUrl=naver",
       "pub_date": "2026-04-23T16:07:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
@@ -139,11 +193,20 @@
     },
     {
       "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026042316031340165",
+      "link": "https://news.tvchosun.com/site/data/html_dir/2026/04/23/2026042390230.html",
+      "pub_date": "2026-04-23T16:05:00+09:00",
+      "source_id": "chosun",
+      "source_name": "조선일보",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "반도체가 창조한 '깜짝 성장'",
+      "link": "http://www.econotelling.com/news/articleView.html?idxno=20177",
       "pub_date": "2026-04-23T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -156,12 +219,12 @@
       "is_scoop": false
     },
     {
-      "title": "반도체가 창조한 '깜짝 성장'",
-      "link": "http://www.econotelling.com/news/articleView.html?idxno=20177",
+      "title": "[속보] '화물연대 조합원 사망' 운전자·'바리케이드 돌진' 조합원 구속",
+      "link": "https://www.busan.com/view/busan/view.php?code=2026042316031340165",
       "pub_date": "2026-04-23T16:04:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_scoop": false
     },
     {
@@ -219,7 +282,7 @@
       "is_scoop": false
     },
     {
-      "title": "[속보] 23년만에 결국…혼다코리아 자동차사업 철수, AS는 계속",
+      "title": "[속보] 23년만에 결국…‘혼다코리아’ 한국서 자동차사업 철수, AS는 계...",
       "link": "https://www.mk.co.kr/article/12025357",
       "pub_date": "2026-04-23T16:00:00+09:00",
       "source_id": "mk",
@@ -255,6 +318,15 @@
       "is_scoop": false
     },
     {
+      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
+      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
+      "pub_date": "2026-04-23T16:00:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
       "title": "정몽규 회장 중징계 요구 적법 판결에 KFA \"법원 판단 존중… 항소 여부...",
       "link": "http://www.footballist.co.kr/news/articleView.html?idxno=209369",
       "pub_date": "2026-04-23T16:00:00+09:00",
@@ -264,9 +336,9 @@
       "is_scoop": false
     },
     {
-      "title": "[경인방송 경제뉴스] KB금융, 올 1분기 사회적 가치 8천286억 원 창출",
-      "link": "https://news.ifm.kr/news/articleView.html?idxno=469559",
-      "pub_date": "2026-04-23T16:00:00+09:00",
+      "title": "[선택! 6.3지방선거] 경기교육감 진보 단일화 '부정선거' 의혹 '일파만파...",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514222",
+      "pub_date": "2026-04-23T15:58:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": false,
@@ -297,15 +369,6 @@
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[선택! 6.3지방선거] 경기교육감 진보 단일화 '부정선거' 의혹 '일파만파...",
-      "link": "https://www.joongangenews.com/news/articleView.html?idxno=514222",
-      "pub_date": "2026-04-23T15:58:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
       "is_scoop": false
     },
     {
@@ -1734,69 +1797,6 @@
       "title": "[속보] 4개월 '해든이' 학대 살해한 친모 무기징역·친부 4년6개월 선고",
       "link": "https://www.namdonews.com/news/articleView.html?idxno=908415",
       "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹하게 학대해 살해한 친모에 무기징역",
-      "link": "https://www.kwnews.co.kr/page/view/2026042350081300000",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "한은, 2026년 1/4분기 실질 국내총생산(속보) 설명회",
-      "link": "https://www.newsis.com/view/NISI20260423_0021257169",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.segye.com/newsView/20260423512245?OutUrl=naver",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 8만 문 앞에서 머뭇 비트코인(BTC)…이더(ETH)·리플(XRP)은 이미 ...",
-      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=569770",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘대구 컷오프’ 국힘 주호영 “대구시장 출마 않겠다”",
-      "link": "https://biz.heraldcorp.com/article/10724150?ref=naver",
-      "pub_date": "2026-04-23T14:42:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] ‘대구 컷오프’ 국힘 주호영 “대구시장 출마 않겠다”",
-      "link": "https://www.mk.co.kr/article/12025260",
-      "pub_date": "2026-04-23T14:41:00+09:00",
-      "source_id": "mk",
-      "source_name": "매일경제",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보]생후 4개월 ‘해든이’ 잔혹 학대 살해한 친모에 무기징역",
-      "link": "https://www.donga.com/news/Society/article/all/20260423/133798930/1",
-      "pub_date": "2026-04-23T14:41:00+09:00",
       "source_id": "yna",
       "source_name": "연합뉴스",
       "is_breaking": true,
