@@ -1,7 +1,70 @@
 {
-  "updated": "2026-04-23 13:20:28",
+  "updated": "2026-04-23 13:25:35",
   "total": 200,
   "items": [
+    {
+      "title": "[속보] LG디스플레이, 1분기 매출 5조5340억원… 전년 동기比 9% 감소",
+      "link": "https://www.ajunews.com/view/20260423132130181",
+      "pub_date": "2026-04-23T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "1분기 GDP 1.7% 성장...정부 \"반도체 호황·정책 대응 효과\"",
+      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=256529",
+      "pub_date": "2026-04-23T13:24:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": false,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
+      "link": "https://www.etoday.co.kr/news/view/2578468",
+      "pub_date": "2026-04-23T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억원…전년比 338% 증가",
+      "link": "https://www.ajunews.com/view/20260423132022180",
+      "pub_date": "2026-04-23T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보] LG디스플레이, 1Q 영업익 1467억원…전년比 338%↑",
+      "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1706372",
+      "pub_date": "2026-04-23T13:22:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]LG디스플레이, 1분기 영업이익 1467억…전년 대비 338%↑",
+      "link": "https://www.mt.co.kr/industry/2026/04/23/2026042313184288179",
+      "pub_date": "2026-04-23T13:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
+    {
+      "title": "[속보]LG디스플레이, 올 1Q 영업익 1467억…전년比 338% 증가",
+      "link": "https://www.newsis.com/view/NISX20260423_0003603480",
+      "pub_date": "2026-04-23T13:21:00+09:00",
+      "source_id": "yna",
+      "source_name": "연합뉴스",
+      "is_breaking": true,
+      "is_scoop": false
+    },
     {
       "title": "[속보]LG디스플레이, 1분기 영업익 1467억원…전년比 338%↑",
       "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=04260726645419072",
@@ -1738,69 +1801,6 @@
       "source_name": "연합뉴스",
       "is_breaking": false,
       "is_scoop": true
-    },
-    {
-      "title": "국민의힘, 외교통일위원회 단독 소집",
-      "link": "https://www.news1.kr/photos/7871426",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": true
-    },
-    {
-      "title": "韓 1분기 성장률, 1.7% 깜짝 성장...반도체 수출·내수 회복 '쌍끌이'",
-      "link": "https://www.g-enews.com/view.php?ud=202604230846269146bb91c46fcd_1",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[속보] 목발 짚고 걷다 넘어진 행인 차로 들이받아 숨지게 한 탱크로리...",
-      "link": "https://www.seoul.co.kr/news/society/accident/2026/04/23/20260423500060?wlog_tag3=naver",
-      "pub_date": "2026-04-23T10:32:00+09:00",
-      "source_id": "seoul",
-      "source_name": "서울신문",
-      "is_breaking": true,
-      "is_scoop": false
-    },
-    {
-      "title": "'정동영 발언' 진실공방 비화…파장 확산",
-      "link": "http://www.yonhapnewstv.co.kr/MYH20260423103019GWy",
-      "pub_date": "2026-04-23T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "“폐에 물 차더니 18개월 시한부”...15살 때 부터 전자담배 피워서? 20대...",
-      "link": "https://kormedi.com/?p=2809748",
-      "pub_date": "2026-04-23T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "1분기 GDP 깜짝 성장…올해 반도체 호황 vs 중동 충격 '무게추 싸움'(종...",
-      "link": "https://view.asiae.co.kr/article/2026042310104743792",
-      "pub_date": "2026-04-23T10:31:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
-    },
-    {
-      "title": "[연합뉴스 이 시각 헤드라인] - 10:30",
-      "link": "https://www.yna.co.kr/view/AKR20260423064400011?input=1195m",
-      "pub_date": "2026-04-23T10:30:00+09:00",
-      "source_id": "yna",
-      "source_name": "연합뉴스",
-      "is_breaking": false,
-      "is_scoop": false
     }
   ]
 }
